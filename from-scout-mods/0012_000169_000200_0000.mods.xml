@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000169_000200_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, Colonel John T. Lockman in Marietta, Ga. to Edward Dewitt in New York, N.Y.</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>Colonel John T. Lockman of the 119th New York Infantry wrote this letter to Edward Dewitt in New York, N.Y. The letter, written in diary form, was addressed from "near Marietta, Ga." and postmarked from Nashville, Tenn. It chronicled the activities of Lockman's unit from June 22-July 6, 1864. He mentioned moving closer to the enemy and getting set up. Another division had been attacked by the Rebels nearby before having had the chance to get set up. He mentioned some battles the Union won. Between battles they strengthened their breastworks. The temperature was very hot with little shade. They were expecting reinforcements. They were given orders to return fire if attacked only. Rebels attacked and Union won another battle on June 30. He moved to new position on July 1, 300 yards from main line for observation. Firing started from Rebels. Union fired heavily and Rebels retreated on July 2. Lockman's division took about 200 prisoners, the whole number on July 2 was between 3000-5000. Rebels were tiring and getting ready to desert. The Union had not taken Atlanta yet, but hoped to soon. Atlanta was in view.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1864-06-22</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1864-06-22</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Lockman, John T., 1834-1912</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Armed forces -- Officers -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Commanf of troops -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Tactics -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Campaigns.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Nashville (Tenn.) -- History -- Civil War, 1861-1865.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Lockman, John T., 1834-1912 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>DeWitt, Edward, 1816-1872 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title/>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>Colonel John T. Lockman Letter</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

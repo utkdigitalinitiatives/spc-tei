@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000070_000239_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, Jesse G. Wallace in Maryville, Tenn., to O.P. Temple, 1862 April 26</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>In this letter dated 26th of April, 1862, Jesse G. Wallace writes to O.P. Temple regarding the suspension of civil jurisdiction in Tennessee. Wallace comments on the procedure in Confederate courts.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1862-04-26</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1862-04-26</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Wallace, Jesse G.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Jurisdiction -- Tennessee, East -- History -- Civil War, 1861-1865.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Actions and defenses -- Tennessee, East -- History -- Civil War, 1861-1865.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Tennessee, East -- Politics and government -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Wallace, Jesse G. -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Temple, Oliver Perry, 1820-1907 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title/>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>O. P. Temple Papers,1862</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000187_000200_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, Amos Guthrie in Knoxville, Tenn. to his father in New Rumley Township, Ohio, 1864 Mar. 30</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>Amos Guthrie sent this letter to his father in New Rumley Township, Ohio on March 30, 1864. Guthrie was stationed in Knoxville, Tennessee. He told his father he and the rest of the boys were well, whereas there had been much sickness and death at first. He told his father about the pay he had received and let his father decide what to do with what he received from it. He mentioned his few clothes and keeping them clean and in good shape. He didn't think his dept. would have much to do until the fall of Richmond. He spoke of politics. He also told him his dept. was getting smaller due to furloughs and some units had gone to Kentucky. He asked his father to send him a good pen, some addresses and news of another soldier. The weather had been bad, but he thought it would improve soon. He explained the daily drills and that they had not received any horses due to lack of grass for them.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1864-03-30</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1864-03-30</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Guthrie, Amos, ca. 1844-1864</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Soldiers -- Ohio -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Families of military personnel -- United States.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Soldiers -- Health and hygiene.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Ohio -- History --- Civil War, 1861-1865 -- Personal narratives.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Guthrie, Amos, ca. 1844-1864 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title/>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>Amos Guthrie Letter</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

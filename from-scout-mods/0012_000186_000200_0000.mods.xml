@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000186_000200_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Amos Guthrie in Knoxville, Tenn. to his father in New Rumley Township, Ohio, 1864 March 19</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>Amos Guthrie wrote to his father on March 19, 1864. He was upset with the governor. He wrote about the draft and about certain people being given furloughs and others not. He wondered how many people from home had reenlisted. He wondered what his father was going to do that summer in respect to work. Guthrie also asked his father about a lawsuit in which his father was embroiled. He asked his father to have a newspaper sent to him. Private Guthrie promised to send his father a "paper of old Parson Brownlow's [a prominent Knoxville Whig] manufacture." He asked his father to get some books for him. He told his father about one of the soldiers who died suddenly. He mentioned the weather changes in Knoxville. He also wrote to his sister. He was glad she was learning to sing. He had sent her some pictures with instructions what to do with them. He told her about what he had been eating.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1864-03-19</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1864-03-19</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Guthrie, Amos, ca. 1844-1864</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Soldiers -- Ohio -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Families of military personnel -- United States.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Guthrie, Amos, ca. 1844-1864 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title/>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>Amos Guthrie Letter</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000060_000521_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Poem, W.G. McAdoo in Knoxville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1884 Mar. 25</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>1884 Mar. 25 W.G. McAdoo, Knoxville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Poem written on the occasion of J.G.M.'s 87th birthday.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1884-03-25</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1884-03-25</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>McAdoo, W. G. (William Gibbs), 1820-1894</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Manners and customs.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Tennessee, East -- Social life and customs.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>McAdoo, W.G. (William Gibbs), 1820-1894 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Ramsey, J.G.M. (James Gettys McGready), 1797-1884 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Southern States -- History -- 1865-1951.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Anniversaries</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title>Ramsey Family Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

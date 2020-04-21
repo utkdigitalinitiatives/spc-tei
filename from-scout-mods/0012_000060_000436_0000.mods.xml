@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000060_000436_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, Isham G. Harris in Memphis, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1877 Jan. 28</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>1877 Jan. 28, Isham G. Harris, Memphis, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Agrees to aid Dr. Ramsey's friend, Dr. Cornick. Requests that J.G.M. advise him as to East Tennessee appointments. Declares his intention to permit no injustice to East Tennessee.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1877-01-28</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1877-01-28</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Harris, Isham G. (Isham Green), 1818-1897</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Senators -- Tennessee -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Political culture -- Tennessee, East -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Appointment to office -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Tennessee -- Officials and employees -- Selection and appointment -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Tennessee, East -- Politics and government -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Harris, Isham G. (Isham Green), 1818-1897 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title>Ramsey Family Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

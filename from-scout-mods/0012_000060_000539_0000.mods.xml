@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000060_000539_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, Mary E. Huger in Sewanee, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1886 July 27</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>1886 July 27, Mary E. Huger, Sewanee, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Account of a visit to her brother and sister in Charleston, S.C. News that her daughter and her husband and their six children plan to make their home in New Orleans. Pictures Sewanee as a growing town with new construction and a successful hotel. Reference to commencement activities at Sewanee and to the extremely hot weather.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1886-07-27</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1886-07-27</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Huger, Mary Esther, 1820-1898</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Universities and colleges -- Tennessee -- Sewanne -- History.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Rural development -- Tennessee -- Sewanne -- History.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Sewanee (Tenn.) -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Sewanee (Tenn.) -- Climate.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Huger, Mary Esther, 1820-1898 -- Family.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>University of the South -- History.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title>Ramsey Family Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

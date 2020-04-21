@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000091_000217_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa., 1865 May 25</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>25 May 1865 David L. Jones in Nashville, Tenn. to his wife, Anna Jones in Allegheny, Pa. Writes that she may receive a flood of unsent letters soon; now that the river bridge from Nashville has been repaired. Continues by telling her that he prefers to leave the barracks and his regular routine, when writing to her. His reading of both Old and New Testaments is well underway. Discounts something she may have read in the Pittsburgh paper to be untrue. Namely, the majority of the Southern Army are "boys." Sustained by faith and sending his love to her and kisses to their children, he so looks forward to leaving there; but allows that if he lives, he will surely have the opportunity to write another letter tomorrow.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1865-05-25</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1865-05-25</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Jones, David L., Union soldier</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Soldiers -- Tennessee -- Nashville -- History -- 19th century -- Personal narratives.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Military camps -- Social aspects -- Tennessee -- Nashville -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Military camps -- Religious aspects -- Tennessee -- Nashville -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Nashville (Tenn.) -- History -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Jones, David L., Union soldier -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Jones, Anna M. -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>United States -- History -- Civil War, 1861-1865.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Military spouses.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title/>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>David. L. Jones Letters, 1865</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

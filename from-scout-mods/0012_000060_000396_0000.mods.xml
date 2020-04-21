@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000060_000396_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Charlotte, N.C. 1871 Apr. 2</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>Lyman C. Draper wrote to J.G.M. Ramsey on April 2, 1871 hoping the letter would get to him even though he wasn't sure Ramsey was in Charlotte. He mentioned that he had sent an excellent speech by a Judge Walker in pamphlet form to Ramsey. He told Ramsey he might not go through Knoxville on an upcoming trip. He said it would be out of his way, and he didn't know if the Sumpter descendants would know enough family history for it to be worth his while. He asked Ramsey to let him know if he was still in Charlotte. He also mentioned historical correspondence he was having with a Dr. Logan from Alabama.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1871-04-02</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1871-04-02</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Draper, Lyman Copeland, 1815-1891</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>History--Societies, etc.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Family histories.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Tennessee--History--Civil War, 1861-1865.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>United States--History--Civil War, 1861-1865.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Draper, Lyman Copeland, 1815-1891--Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884--Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title>Ramsey Family Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

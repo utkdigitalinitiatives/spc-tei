@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_001180_000201_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, Henry B. Wetzell in Easton, Pa., to his father, 1866 Sept. 25</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>Henry B. Wetzell wrote to his father, Aaron Wetzell, on September 25, 1866. He mentioned two fairs. He mentioned how he was getting his "specimens and circulars ready". He had some fine specimens and was going to distribute 10,000 circulars. He had asked for "newboys" and they had arrived. He was ready to commence the next day. He felt proud of what he had to present at the fair. He felt other people dropped out of competition due to him being there. He mentioned a Democratic meeting being held in Easton that night.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1866-09-25</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1866-09-25</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Wetzell, Henry B.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Fairs -- Pennsylvania -- Easton.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Fairs -- Pennsylvania -- Chester County.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Specimens -- Competitions.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Wetzell, Henry B. -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Wetzell, Aaron -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title/>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>Henry B. Wetzell Letter</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

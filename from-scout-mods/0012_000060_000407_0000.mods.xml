@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000060_000407_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Letter, J.G.M. Ramsey in Riverside, Tenn., to Elizabeth Ramsey Breck near Charlotte, N.C. 1872 Jan. 28</mods:title>
+   </mods:titleInfo>
+   <mods:abstract>J.G.M. Ramsey wrote to his daughter, Elizabeth (Liddy), on Jan. 28, 1872. He thanked her for her interesting letter in regards to family events. He urged that Jimmie be referred to as James or Jimmie or Ramsey, but not Jim because Jim was a Negro name. He thought that the name, Jim, would take away his self respect and respect from others. A "Jim" could not make a name for himself nor have high aspirations. Ramsey referred to Aunt Mary Ann Kellar 's illness and other family news including McKnitt's settlement of his property dispute. He told her the weather had been bad. He warned her to be careful of fires. He was hoping to write the history of Hopewell.</mods:abstract>
+   <mods:originInfo>
+      <mods:dateCreated>1872-01-28</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1872-01-28</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name>
+      <mods:namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Family life.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Names, Ethnological -- Southern States.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Racism.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Southern States -- Social conditions -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Southern States -- Ethnic relations -- 19th century.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Correspondence.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title>Ramsey Family Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>
