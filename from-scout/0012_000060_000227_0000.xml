@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000227_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J. Crozier Ramsey</name> in Knoxville, Tenn., to J.G.M. Ramsey,
+in Charlotte, N.C. <date when="1867-09-20">1867 September 20</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. Crozier (John Crozier)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000227_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. Crozier Ramsey in Knoxville, Tenn., to J.G.M. Ramsey in Charlotte, N.C. 1867 September 20</title>
+               <date>1867-09-20</date>
+               <author>
+                  <name>Ramsey, J. Crozier (John Crozier)</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1867 Sept.20 J.Crozier Ramsey, Knoxville, Tenn., to his father, J.G.M. Ramsey, Charlotte, N.C. Encloses deed for Lizzie and gives instructions for signing and having it notarized. News of a shortage of houses and new construction of homes in Knoxville. Advises his family to board if they return to Knoxville because of high rents on houses. Expresses confidence that his father&apos;s cases will be won in court and that the Ramsey family could get along well in Knoxville. Refers to the death of Alex&apos;s son.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Actions and defenses -- Tennessee, East -- 19th century.</term>
+               <term>Housing -- Tennessee -- Knoxville -- 19th century.</term>
+               <term>Rental housing  -- Tennessee, East -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>Ramsey, J. Crozier (John Cozier) d. 1868 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000060_000227_0001.jpg" xml:id="d3e156"/>
+            <p>Knoxville Sept 20th</p>
+            <p>Dear Sir</p>
+            <p>Enclosed you will find a deed that I have drawn up for Lizzie to sign and have it witnessed by two witnesses and
+also dated - then get her to acknowledge it before a Notary Public and not a Justice of the Peace or if it is not
+convenient for her to go to town it will do as well for the two witnesses - then send the deed to me and Brokebill
+will execute his notes - the first note he is to give good security for</p>
+            <pb n="2" facs="0012_000060_000227_0002.jpg" xml:id="d3e168"/>
+            <p>Brokebill thinks he will be able to pay from twelve to fifteen hundred dollars, during the month of January next - On
+the whole I think I have made a good trade for Lizzie. I have made some inquiry in regard to the rent of houses and find
+that none can be rented for less than three to three fifty per year - they are in great demand now - but a number
+of new houses are being built - perhaps they may be cheaper by the first of <unclear reason="illegible" resp="bds">Jan</unclear> - as your family is small - I expect it would be cheaper to board than pay such prices - if
+you desired it you might live with M.J. for a while and then you would have</p>
+            <pb n="3" facs="0012_000060_000227_0003.jpg" xml:id="d3e179"/>
+            <p>time to look about and suit yourself - or you might <unclear reason="illegible" resp="bds">pospone</unclear> coming
+here until Spring - as to your <unclear reason="illegible" resp="bds">movements</unclear> - it is impossible for me to
+advise - because you must be governed by your own inclinations and desires - if you prefer living here I can only promise
+you to do what I can to promote your comfort - and I have no doubt you can get along some how - I shall prep a trial of
+your cases at the Nov Term of the Court - if they should take a favorable turn you means would be greater and money
+would not be so much an object</p>
+            <p>Brown and <unclear reason="illegible" resp="bds">Draderick</unclear>
+            </p>
+            <pb n="4" facs="0012_000060_000227_0004.jpg" xml:id="d3e197"/>
+            <p>have both examined the bills and they express great confidence in the legal positions assumed and also in the manner
+they are presented to the Court - what the decision of the court will be is more than we can tell I sent soon after my
+return one hundred dollars for Susan - did you get it? - I received your letter and was sorry to hear that <unclear reason="illegible" resp="bds">Elick</unclear> had lost his little boy Arthur. I hope <unclear reason="illegible" resp="bds">Elick</unclear> has
+recovered - Say to Mack that I asked <unclear reason="illegible" resp="bds">for</unclear> McDannel inregard to the
+report of Pryor Harris being dead - he said if it was so he had never heard of it No news of interest - all well - love to all</p>
+            <p>Yours truly</p>
+            <p>J.C. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

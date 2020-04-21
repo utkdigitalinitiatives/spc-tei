@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000210_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Holston U.S.A. General Hospital, Knoxville, Tenn.,
+<date when="1864-09-11">
+1864 September 11
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000210_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn. to Jeannie Lockhart, 1864 September 11</title>
+               <date>1864-09-11</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated September 11, 1864 from Holston U.S.A. General Hospital in Knoxville, Tenn., to &quot;My Own Precious,&quot; John Shrady, a regimental surgeon, discusses the disruption of postal service due to General Joseph Wheeler&apos;s raid on General William T. Sherman&apos;s rail communications and refers to Knoxville native, Admiral David Farragut. Additionally, he writes of his desires to travel and make visits with the recipient when he returns.</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000210_0001.jpg" xml:id="d3e143"/>
+            <p>Holston U.S.A. Genl Hospital</p>
+            <p>Sept 11th 1864</p>
+            <p>My Own Precious,</p>
+            <p>Yours of the 24th ult: came to hand to-day. There has been considerable delay &amp; annoyance in the way of mail arrangements of late, owing to Wheeler&apos;s recent raid upon Sherman&apos;s rail-road communications.</p>
+            <p>This will account for your not hearing from me as frequently as usual. Indeed, perhaps this letter may be delayed sometime in Chattanooga, but I write as I always religiously do, whenever there is a ghost of a chance of communicating with you. I will here state that I have received your copy of the New York Herald, which after reading I will hand over to General Carter, as he is very much interested in Navy Movements, that being his</p>
+            <pb n="2" facs="0012_000068_000210_0002.jpg" xml:id="d3e159"/>
+            <p>old profession and Farragut is a native of Tennessee, besides being an old associate of his.</p>
+            <p>Well, Darling, each letter I write you brings me so many steps nearer home, as far as the flight of time is concerned.</p>
+            <p>I am very glad that you received the letter, which accompanied the one sent to little Maggie-Fanny.</p>
+            <p>I appreciate the kiss the little toad sent me very highly and hope before long to have the pleasure of taking her on my knee and telling some few stories about foxes &amp;c.</p>
+            <p>I have nothing new to tell you. Your visit to Bergen Point was during the pleasantest part of the season, and I have no doubt you saw Nature in her best garb. I used to pass it, when Reeder was running a boat between New York and</p>
+            <pb n="3" facs="0012_000068_000210_0003.jpg" xml:id="d3e175"/>
+            <p>Newark. I thought that a residence there would be delightful, but then I have come to the philosophical conclusion that one cannot live in all the beautiful places at once. However, I think that there will be enough pleasant weather left for us to enjoy rambles together and short sojourns into the suburbs &amp;c.</p>
+            <p>I think you deserve recreations of this kind and I will be the one to indulge you to my very utmost. I often go over in my memory our delightful little trips and long for a renewal of them. I am glad that you visit around more than you used to, -- it will give you outdoor exercise and relieve the tediousness of continual expectation. Besides that you have to gain strength for long walks with your long separated husband. You see that he has become a countryman and must see all the sights when</p>
+            <pb n="4" facs="0012_000068_000210_0004.jpg" xml:id="d3e185"/>
+            <p>he returns.</p>
+            <p>Remember me to Mother &amp; Fan. Tell little Fanny to kiss you for me and that you will return it to her on my account. May Heaven keep you, my darling wife, from all dangers and grant once more that desire of my heart a speedy and a long, long reunion.</p>
+            <p>I have written this in great haste the Hospital Post Master is waiting to close his mail for the Post Office proper.</p>
+            <p>So Adieu, My precious.</p>
+            <p>Yours devotedly</p>
+            <p>John.</p>
+            <p>Address as usual.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

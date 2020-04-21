@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000203_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Charles Fox</name> near Winchester, Tenn., to Sister <date when="1862-07-27">1862 July 27</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Rozema, Laurel</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Charles Fox</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000203_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Charles Fox near Winchester, Tenn., to Sister 1862 July 27</title>
+               <date when="1862-07-27">1862 July 27</date>
+               <author>
+                  <name type="person">Charles Fox</name>
+               </author>
+               <title>[Letter] <date when="1862-07-27">Sunday July 27th 1862</date> [near
+                        Winchester, Tenn. to] Sister</title>
+               <date>2006-05-22</date>
+               <author>
+                  <name/>
+               </author>
+               <author>
+                  <name type="person">Fox, Charles</name>
+               </author>
+               <date when="1862-07-27">Sunday July 27th 1862</date>
+               <extent>4p</extent>
+               <note type="abstract">In a letter dated July 27, 1862, Charles Fox, a soldier
+                        from Indiana, writes to his sister from camp &quot;within three miles of
+                        Winchester, Tenn.&quot; Fox tells his sister that he is &quot;very tired of the
+                        service and would give anything to get out of it.&quot; He complains of the
+                        actions of the commissioned officers and expresses his desire for a quick
+                        end to the war. </note>
+               <note type="collection">Charles Fox Civil War Letter, 1862</note>
+               <note type="manuscript">MS.2763</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Rozema, Laurel">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e100">
+            <pb n="1" facs="0012_000203_000200_0001.jpg" xml:id="d4e101"/>
+            <p>Dear Sister</p>
+            <p>I heard from you a day or so ago, so I thought I would answer your kind letter to
+                    me throug Miss Mary Smith by the way a particular friend of mine I am glad to
+                    heare you are well and getting along finely Mary did not write me much news
+                    concerning what was in your letter but wished me to answer it which I am trying
+                    to do I am well at present But very tired of the service And would give anything
+                    to get out of it it is such a mean Batterry that one can hardly live. The
+                    officers are not worth a cent I would as soon have a wooden man over me as any
+                    of them I was Gunner on a six pound Gun and I <unclear reason="illegible" resp="lr">resined</unclear> the other day and now I am high private, But it is not with us non commissioned
+                    officers as it is With the commissioned for when they resign they can quit and
+                    go home But we</p>
+            <pb n="2" facs="0012_000203_000200_0002.jpg" xml:id="d4e110"/>
+            <p>Cannot But have to stay until the war is over or our three years is out which I
+                    hope will soon be. But I cannot tell when it will we have left Corinth and we
+                    Came on East further within 50 or 60 miles of Chattanooga where there are some
+                    abel troops at present - But I should not <unclear reason="illegible" resp="lr">wonder</unclear> if we went thru to Clean them out before long we are now
+                    within three miles of Winchester Tenn with a verry wet camping Ground in the
+                    woods, We cannot get any papers here at all and cannot tell whether Richmond is
+                    taken or not I wish you would send me papers the Grunfield Paper especially for
+                    there is always a lot of News in it It is almost as good as a letter of itself,
+                    Well tell me how are all the folks in The old town and how are times there at
+                    present and how are you getting along and tell me whether Father thinks of
+                    coming out west or not we all expect the war will be pretty much over When
+                    Richmond is taken Although there is Some few Guerrillas they will soon be </p>
+            <pb n="3" facs="0012_000203_000200_0003.jpg" xml:id="d4e117"/>
+            <p>whiped out If I had Knowed as much before I enlisted as I do now I would never
+                    come as a private soldier (no not I) But here I am and cannot help it and here I
+                    have got to stay unless I get sick, and then only go home on a sick furlough I
+                    got a letter from Father some time ago and he said Fostina was not married yet
+                    and that Cistopher Clapp was in McClellans Army and Dwight married Widow Cronin,
+                    Dan Cronins widow I think Girls are scarce there to marry such a woman as she is
+                    why here in the south where we are there 20 Girls to one young man and as pretty
+                    us over I saw and rich one the trouble with them is they are Decent and dont
+                    like the northern men You need not be surprised to hear of me being <unclear reason="illegible" resp="lr">married</unclear> if ever I get out of this
+                    army Write me all the news and give my best respects to all the Folks and my
+                    friends and tell them the west is the place to <unclear reason="illegible" resp="lr">make</unclear> money write soon no more at present</p>
+            <p>Excuse this writing and mistakes from Your Brother Chas. G Fox</p>
+            <pb n="4" facs="0012_000203_000200_0004.jpg" xml:id="d4e129"/>
+            <p>Direct</p>
+            <p>6th Ind. Battery</p>
+            <p>In Care of Capt Geo. T. Cochran,</p>
+            <p>6th Division Gen Woods Div</p>
+            <p>To follow the Batterry</p>
+            <p>Battery</p>
+            <p>Batterry</p>
+         </div>
+      </body>
+   </text>
+</TEI>

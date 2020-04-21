@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001252_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Phoebe Cross</name>
+				                    in East Tenn., to her sister<date when="1862-02-02">1862 Feb. 02</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Phoebe Cross</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001252_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Phoebe Cross in East Tenn., to her sister1862 Feb. 02</title>
+          <date when="1862-02-02">1862 Feb. 02</date>
+          <author>
+            <name type="person">Phoebe Cross</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Phoebe Cross Letter</note>
+          <note type="manuscript">MS.2863</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001252_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Feb 2nd/1862</p>
+        <p>My Dear Sister.</p>
+        <p>Three years with <unclear reason="illegible" resp="JCM">their</unclear> changes, have passed since we met, or in any way communicated with each other, but do not imagine that I have not thought often of you for I remember with gratitude all you ever did for me &amp; with pleasure I shall ever thing of the visit paid to you in your <unclear reason="illegible" resp="JCM">cheerful</unclear> little home, but having heard that you were angry at me, I have never written, but <unclear reason="illegible" resp="JCM">Florida</unclear> wrote me that you kindly remembered me, &amp; desired that I should write to you, so I have seated myself to comply with the request, feeling some difficulty I must confess, in breaking a silience which has so long been mantained- I am staying at my little home alond - with the <unclear reason="illegible" resp="JCM">escaption</unclear> of my little ones &amp; servants - now that Mr leroy is in the army - the time has indeed been tedious, since he left &amp; would have been unendurable with-out dear little Horace, who is talkative &amp; sprightly &amp; by his innocent <unclear reason="illegible" resp="JCM">prattle</unclear> gave wings to many a wearly hour-. I would like to show my children to you, for I am <unclear reason="illegible" resp="JCM">partly moud</unclear> of them - my babe is four weeks old, &amp; is a fine girl, &amp; sayed to be the prettiest child ever born in these parts - I have named her Lillie Belmont, the last name in memory of the battle &amp; where her father fought so long &amp; desperately against</p>
+        <pb n="2" facs="0012_001252_000200_0002.jpg" xml:id="d4e66"/>
+        <p>such &amp; overrwhelming force - &amp; was at last captured &amp; held a prisoner by the enemy for six days - <unclear reason="illegible" resp="JCM">Oh</unclear> those were days of fearful suffering to me - Mr Leroy would have been released on Parole, if he had desired it, as he was a Regimental Officer, but he <unclear reason="illegible" resp="JCM">prefered</unclear> to share the fate of his men &amp; take the chances of an early discharge of prisoners. he fought bravely &amp; gallantly, &amp; was <unclear reason="illegible" resp="JCM">complimented</unclear> by his <unclear reason="illegible" resp="JCM">leol</unclear> &amp; General for his coolness &amp; daring - &amp; even after he was captured - by inspecting the <unclear reason="illegible" resp="JCM">fortifications</unclear> &amp; observing the gun boats at <unclear reason="illegible" resp="JCM">leairo,</unclear> he was enabled to give general <unclear reason="illegible" resp="JCM">Pillow</unclear> , much useful information about the strength &amp;c of the enemy- but I fear I shall weary you, praising my husband - for I can never tire bestowing just praise upone one who is so kind &amp; affectionate &amp; has rendered me so happy - but it smacks of Egotism &amp; I will desist - I understand that John Alie Gordon is Captain of a company, at Felician about 12 miles from Columbus, Ky Duff Gordon is also at the same place, while <unclear reason="illegible" resp="JCM">Grecola</unclear> Gordon uncle Dieks son is in a Regiment at Columbus - our family is well represented - brother Alphonse has a company at Columbus, brother John is liutenant in his company. We heard here of the battle of Hickory Creek &amp; that Uncle <unclear reason="illegible" resp="JCM">Follieoffer</unclear> had fallen I was shocked &amp; distressed, to hear it &amp; <unclear reason="illegible" resp="JCM">sympathise</unclear> deeply with his children - we are represented as being badly whipped there, but the statements are so conflicting that we do not know what is correct &amp; what is false. Our town is very dull now - so many of our citizens have gone to ware - that the place is almost depopulated-</p>
+        <pb n="3" facs="0012_001252_000200_0003.jpg" xml:id="d4e101"/>
+        <p>our Country I am sorry to say is as strong for Union as east Tennessee &amp; if the federals ever take Fort Henry we are <unclear reason="illegible" resp="JCM">ruined,</unclear> for there are traitors from this very place - who have  joined the enemy &amp; in their wrath swear they will pilot <unclear reason="illegible" resp="JCM">them</unclear> here to desolate our homes... Brother Alphonse's wife is in <unclear reason="illegible" resp="JCM">wretched</unclear> health, I fear she will not live to welcome him back from the army - <unclear reason="illegible" resp="JCM">Pirss lenofs</unclear> is married &amp; has one child - she is living a fw miles in the country &amp; Aunt Emily Johnson keeps house for Uncle <unclear reason="illegible" resp="JCM">Madin, Poca Fall</unclear> is still living here, &amp; although she has a pleasant home, &amp; a kind husband, who gratifies every wish, she grumbles as much as cousin Fannie used to - she is well, &amp; speaks of going home in March or April - if she does she will pay you a visit - Is dear little Fannie as smart and pretty as ever? I <unclear reason="illegible" resp="JCM">expect</unclear> she has forgotten me - &amp; little Eddie although  have never seen him I love him, &amp; hear him praised for smartness &amp;c I have written more than I expected I hope you will reply. With love &amp; best wishes to you &amp; <unclear reason="illegible" resp="JCM">Mr Hicks</unclear> not forgetting the little ones - I am yours</p>
+        <p>Afet sister - Phoebe <unclear reason="illegible" resp="JCM">Cross</unclear>
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

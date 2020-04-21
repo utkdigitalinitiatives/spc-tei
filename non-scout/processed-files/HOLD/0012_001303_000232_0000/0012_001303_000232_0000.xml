@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000232_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                  in France to Ellen Smith in Jackson, Tenn.,<date when="1918-09-01">1918 Sept. 1</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000232_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1918 Sept. 1</title>
+          <date when="1918-09-01">1918 Sept. 1</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000232_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000232_0002.jpg" xml:id="d4e49"/>
+        <p>Over There</p>
+        <p>Sept 1 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Another week and another letter from you. Well I thank I am doing fine now  But it is older than the one I received last week. I like to get them even if they are two months old.</p>
+        <p>I am feeling fine and dandy hope you are also. It has been trying to rain all day. But I hope it fails  Has turned cold again or colder than it was yesterday.I have quit ever thinking of such a thing as hot weather.</p>
+        <p>Well I have just finished My dinner. Guess you have just had breakfast as I am</p>
+        <pb n="3" facs="0012_001303_000232_0003.jpg" xml:id="d4e63"/>
+        <p>six hours ahead of you. So when supper time comes I would like to be there to take dinner with you. Ah well I bet I would be out of luck if I was there</p>
+        <p>Can just see Bob drive up in his new car. And walk straight in. Those are awful dreams did you ever have them? </p>
+        <p>Well tomorrow is Labor Day what are they going to have in Jackson? I bet not murch of anything</p>
+        <p>Guess I will work I havent heard yet. You know there is no such a thing as Labor day over here</p>
+        <pb n="4" facs="0012_001303_000232_0004.jpg" xml:id="d4e73"/>
+        <p>Well dont make murch difference to me I am trying to catch up with my letter writing to day. Have been writing all day you know when I get a few letter I have to write a hole day to catch up.</p>
+        <p>But I sure do like to get them so I have to write or guess every body would stop writing to me. </p>
+        <p>Old possom (Jno Cortmell) has been writing all day  So I guess he is behind too  I dont know what I would do if it wasnt for him, to pick at.</p>
+        <pb n="5" facs="0012_001303_000232_0005.jpg" xml:id="d4e81"/>
+        <p>We have another fellow with us that is a real good friend of mine. His name is D.A.Cooper and he keeps life in the hole bunch. Alway picking at some one. If he comes in a little late at night. He has got to come around and wake up every body, and ask them a bunch of foolish questions.</p>
+        <p>You can just amagin hw a bunch of boys are. You should here how they are arguering now  A fellow cant write with any sence</p>
+        <p>How does Harold like the army life by this time? I know he is having to drill some I have been along there.</p>
+        <pb n="6" facs="0012_001303_000232_0006.jpg" xml:id="d4e89"/>
+        <p>I am going to send you a paper that is published over here. It is a weekly paper you can look at it and then give it to Aunt Amie to read if she wants to</p>
+        <p>Dont know any more to write this time  Write me real often I enjoy your letters so murch</p>
+        <p>with love</p>
+        <p>James L Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Exp Force</p>
+        <p>Via N.Y.   France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

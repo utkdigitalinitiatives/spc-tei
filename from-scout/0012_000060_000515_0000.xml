@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000515_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1883-07-31">1883 July 31</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000515_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to M.B.C. Ramsey in Knoxville, Tenn. 1883 July 31</title>
+               <date>1883-07-31</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter dated July 31, 1883, from Lyman C. Draper, Corresponding Secretary, Wisconsin State Historical Society, Madison, Wis., to M.B.C. Ramsey, in Knoxville, Tenn., Mr. Draper asks for any information Dr. Ramsey might have concerning John Bean and Samuel Callaway, early Knox Countians. Mentions that Mrs. Draper has suffered a stroke.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey family</term>
+               <term>Tennessee, East -- History -- Personal narratives.</term>
+               <term>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</term>
+               <term>Southern States -- History -- 1865-1951.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e147">
+            <pb n="1" facs="0012_000060_000515_0001.jpg" xml:id="d3e148"/>
+            <p>Mrs. Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000515_0002.jpg" xml:id="d3e160"/>
+            <p>Madison, July 31st 1883.</p>
+            <p>Mrs. J.G.M. Ramsey --</p>
+            <p>My Dear Friend --</p>
+            <p>I am grateful to you for the favor of your letter to me abt. John Boon -- vs -- Danl. Boone.</p>
+            <p>Since writing you, I have become satisfied that I was wrong in supposing Dl. Boone went with Robertson on a mission to the Cherokees -- nor was it John Boon, as Haywood states. At last, I now think so.</p>
+            <p>Dr. Ramsey must have known Moses Fisk, who settled in Tennessee abt. 1796 -- a teacher. He wrote a paper of a few pages on the Early Settlement of Tennessee, which was published in a Vol. of the Man. Hist. Soc. Collection,</p>
+            <pb n="3" facs="0012_000060_000515_0003.jpg" xml:id="d3e178"/>
+            <p>abt. 1827 -- in which this mission is given as Haywood states, only giving John Bean, instead of John Boon as his associate. This looks probable, as we have no knowledge of any John Boon, and as we know there were Beans.</p>
+            <p>1st Has Dr. Ramsey any knowledge of this John Bean (the father I judge of <unclear reason="illegible" resp="JR">Runell</unclear> Bean &amp; brothers( -- Where he lived, &amp; abt. when he died? Can he mention any surviving names of the Bean descendants?</p>
+            <p>2: In his Tennessee history, Dr. Ramsey mentions Sam <unclear reason="illegible" resp="JR">?</unclear> Callaway as an Early companion of Boone; &amp; he once wrote me, that he had this from a grandson of Callaway, once Sheriff, I think of Knox County. Did Sam <unclear reason="illegible" resp="JR">?</unclear> Callaway live &amp; die in Knox? Can Dr. Ramsey refer me to any of his descendants in Knox or elsewhere -- or any relative?</p>
+            <p>I hope, my friend, you will oblige me with a reply to these two <unclear reason="illegible" resp="JR">inguines</unclear>. I hope the Doctor does not suffer very much.</p>
+            <p>I have recently had an affliction. Mrs. Draper has had a <unclear reason="illegible" resp="JR">paralyte</unclear> stroke -- not a severe one leaving her with speech partially impaired.</p>
+            <p>May Heaven Kindly bless you both!</p>
+            <p>Very Truly your Friend.</p>
+            <p>Lyman C. Draper</p>
+            <pb n="4" facs="0012_000060_000515_0004.jpg" xml:id="d3e216"/>
+            <p>Lyman C. Draper,</p>
+            <p>Madison --</p>
+            <p>Wisconsin.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

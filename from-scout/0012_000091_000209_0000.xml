@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000209_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Anna Jones</name>
+ in Allegheny City, Pa. to David Jones in Nashville, Tenn. <date when="1865-05-01">1865 May 01</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000209_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 May 1</title>
+               <date>1865-05-01</date>
+               <author>
+                  <name>Jones, Anna</name>
+               </author>
+               <extent>3  digital images;  3 pages</extent>
+               <note type="abstract"> In this letter dated May 1, 1865, Anna Jones in Allegheny City, Pa. writes to her husband David L. Jones in Nashville, Tenn. about the children&apos;s grades and her hopes that David will &quot;will get all those greybacks killed and green backs in their place &quot;. </note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+               <note type="item">13</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Army spouses -- Pennsylvania -- Correspondence.</term>
+               <term>Children -- Health and hygiene -- Pennsylvania -- History -- 19th century.</term>
+               <term>Homecoming.</term>
+               <term>Allegheny (Pa.) -- History -- 19th century.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Jones, Anna M. -- Family.</term>
+               <term>Jones, David L., Union soldier -- Correspondence. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000091_000209_0001.jpg" xml:id="d3e156"/>
+            <p>Allegheny City May 1st/65</p>
+            <p>My Dear David</p>
+            <p>I have just risen from the breakfast table and sat down to write you a few lines hoping they may find you in good health and spirits as we enjoy a goodly share of each of these comforts ourselves I hope the day is not far distant l when you will be home again I do hope it&apos;s so for I tell you there is no fun in trying to do so long alone with as many boys as we have I hope before you start that you will get all those greybacks killed and green backs in their place it would pay a good deal better such hard times I must tell how proud Tommy is about his report he got No 1 with 15 perfect lessons; one imperfect no failures a pretty nice report for a little boy the other boys got Jimmie 9 Andie 3 a bad report indeed for such big boys but it is as good as they deserve</p>
+            <pb n="2" facs="0012_000091_000209_0002.jpg" xml:id="d3e168"/>
+            <p>I hav not written to Mr Patterson for I have no doubt but some member of the christian commission would attend to writing to his wife as they allways do in such cases I have not got any news to write that I can think of I have not seen Robert since the day that Father was buried I met Tilly in market I see Hannah &amp; Andie in church but that is all I have seen James but once since May was here after Mother died I have not heard from them since Sharon <unclear reason="illegible" resp="NW"> Meegan </unclear> went home I have grown quite as selfish as they have I am very caring if people dont want to visit me they can let it alone our grapevine is so nice this morning I do not think the little one is going to have any grape on this year Annas face seems to be a little better but I think I shall go to warner for her he is very dear but I dont care for that if he cures her </p>
+            <pb n="3" facs="0012_000091_000209_0003.jpg" xml:id="d3e179"/>
+            <p>Cooper says she is <unclear reason="illegible" resp="NW"> servfulas </unclear> I am afriad so and I would not have weaned her but I thought it best to don&apos;t but I now wish that I had not given her the breast at all it would have been better for her but I would have been in a bad way with my milk Anna dont creep a bit but is right smart on foot Sharon still wants to go to the door to see if pa is going to <unclear reason="illegible" resp="NW"> mon</unclear> home and he is still going to buy Anna May the ginger horse but it is long coming Mrs Whites arm is better she can now use it some and straighten it better than she did a good many are looking for the men all home but the regular army I hope you will get home too I must stop for I must go to work and hard work too but it must be done write soon while I remain yours as ever Jimmie is going to write to night </p>
+            <p>Anna M Jones</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000358_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J.G.M. Ramsey</name> in Charleston, S.C., to M.B.C.
+Ramsey, in Mecklenburg, Tenn. <date when="1828-11-26">1828 November 26</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000358_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Charleston, S.C., to M.B.C. Ramsey in Mecklenburg, Tenn. 1828 Nov. 26</title>
+               <date>1828-11-26</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1828 Nov. 26, J.G.M. Ramsey, Charleston, S.C., to his wife, Margaret B.C. Ramsey, Mecklenburg, near Knoxville, Tenn. Description of his boarding house, his landlady, and the diversions open to him. Benefit derived from his medical studies in Charleston felt to justify his trying separation from home and family. Discusses plans for returning home. Expresses delight in the news of the recent growth of a religious revival in Knoxville.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Boardinghouses -- South Carolina -- Charleston -- History -- 19th century.</term>
+               <term>Medicine -- Study and teaching -- South Carolina -- Charleston -- History -- 19th century.     </term>
+               <term>Medical colleges -- South Carolina -- Charleston -- History -- 19th century.    </term>
+               <term>Charleston (S.C.) -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Friends and associates.</term>
+               <term>Ramsey, M. B. C. (Margaret Barton Crozier), 1802-1889 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000358_0001.jpg" xml:id="d3e154"/>
+            <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+            <p>Tell your Ma I have thought a thousand times about her kind cautions &amp; that though I intend to engage
+again in practice I will not ride 15 miles &amp; sleep in a bed where the rain pours upon me as much as if
+I were out doors - <unclear reason="illegible" resp="bds">Write</unclear> me if my patients recovered that
+I left in bed - &amp; tell the neighbours how do <unclear reason="illegible" resp="bds">yc</unclear> - Tell
+<unclear reason="illegible" resp="bds">Garrick</unclear> I will take some of his medicine when I return
+but if he meets a better chance than me to embrace it. Tell the children I often (always) am thinking of them
+&amp; will bring them all something home Let me hear what kind of weather you have in Tennessee - Did I leave
+it in my <unclear reason="illegible" resp="bds">bell</unclear> of instructions for the Col. to sell Love&apos;s
+old boat &amp; to have <unclear reason="illegible" resp="bds">new-false</unclear> bottom put in the new
+one? retaining the chain &amp; irons of the old one. I must hurry to the lecture. &amp; may have forgotten
+something I should have said.</p>
+            <p>Be as happy my dear Peggy as your circumstances will admit - I reciprocate your words &amp; your sentiment.
+&quot;To hear that you are happy will make me so.&quot;</p>
+            <p>Your affectionate husband</p>
+            <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+            <p>
+               <unclear reason="illegible" resp="bds">Free</unclear>
+            </p>
+            <p>J.G.M. Ramsey P.M. at</p>
+            <p>Mecklenburg Tenn.</p>
+            <p>Mrs. Margaret B.C. Ramsey</p>
+            <p>Mecklenburg near Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000358_0002.jpg" xml:id="d3e199"/>
+            <p>Charleston S.C. Nov. 26, 1828</p>
+            <p>8 O&apos;clock - at night</p>
+            <p>My Dear Margaret</p>
+            <p>I am glad to be able to say to you that I have at length arrived at my <unclear reason="illegible" resp="bds">&quot;ne plus ultra&quot;</unclear> &amp; that I intend never to be further from you than
+I now am. I droped a hasty note yesterday to the Col. informing him of my arrival but of nothing else - I
+then wrote from the Bar-room of the Hotel where the stage stoped but am now sealed in my own room at a private
+boarding house in Broad-Street I called at Mrs. Fabien&apos;s with whom the Col. boarded &amp; whose house
+he recommended - but her house was full &amp; will be till Saturday - I accordingly have been under the
+necessity of looking out else-where - At the recommendation of a friend I have stoped with Mrs. Day - of
+whom I as yet know nothing - she has not many <unclear reason="illegible" resp="bds">boardees</unclear> &amp; I
+know none of them - If I like the place I shall continue if not at the expiration of a week I will go to Mrs.
+Fabiens. I have a very pleasant room in the 3rd story - joining the street &amp; near enough the water to have
+the full benefit of the sea-breezes - I have a good fire place - (if there should be any need for fire - for
+ever since I left <unclear reason="illegible" resp="bds">Camden</unclear> the weather appears like our
+September) - The situation is moreover sufficiently convenient to the Medical College - The Marine
+Hospital &amp; the Surgery all of which I shall attend during my stay in town. The walk to each of those places
+is about as long as I would wish it. I am also situated in the centre of several Churches - where I am told I
+can attend diverse service not only every sabbath but every evening in the year - (Of this more when I have
+leisure &amp; opportunity to attend some of them) I have learned already from my Land-lady that she is a Baptist
+&amp; I have formed a good opinion of the old-Lady&apos;s religion from what would otherways be a very
+unimportant incident - A gentleman called in this afternoon to get boarding but on learning that he belonged
+to the Theatre - or was a play actor she informed him he could not be accomodated. From this I conclude
+she prefers sober &amp; steady boarders - &amp; I hope she will have no others. I am thus particular my
+dear in informing you of all the minutiae of my situation that you may not feel uneasy - &amp; think I
+am up in some garret by myself - secluded from</p>
+            <pb n="3" facs="0012_000060_000358_0003.jpg" xml:id="d3e222"/>
+            <p>every body - I can it is true be as retired as I wish - but when I have studied as long as a 
+<unclear reason="illegible" resp="bds">sheet respect</unclear> to my health will permit I can walk oon
+Edmonsons warf &amp; see Mr. <unclear reason="illegible" resp="bds">Couric</unclear> (who has been very
+friendly &amp; attentive to me) - a good hearted Mecklenburger - full of enterprise &amp; public
+spirit &amp; much in the spirit of Internal Improvement - or I can call upon Fleming &amp; Co.
+<unclear reason="illegible" resp="bds">Parrish Cornish</unclear> &amp; Co. Ripley &amp; Co. Boyer
+&amp;c &amp;c - Merchants &amp; men of business of the first <unclear reason="illegible" resp="bds">respectability</unclear> &amp; influence in this place - to whom I <unclear reason="illegible" resp="bds">have</unclear> letters &amp; who have all invited me to
+visit them frequently during my stay in town &amp; from whom I am promised assistance in any manner
+I may need it - or I could call upon my Professors after Lecture hours &amp; as the same
+<unclear reason="illegible" resp="bds">unstable</unclear> feeling is not indulged here as was by the
+Professors at Philadelphia towards the students - I mention all these to let you know that I have
+all the sources of rational enjoyment that a stranger in a strange land can have &amp; that I intend to
+avail myself of them - but I could not if I would disguise from you the truth of the matter - There
+is - there can be to a husband &amp; a parent no place like home - <unclear reason="illegible" resp="bds">So</unclear> one minute with you around our Mecklenburg fire would with me extinguish
+all the splendor of this City &amp; To hear the prattle of our beloved children &amp; to see their
+dear Mother instructing them is an enjoyment that Charleston can not equal. If you let the four
+first words in the second line of the following verse (from <unclear reason="illegible" resp="bds">Montgomery</unclear> I believe) have a figurative meaning embracing in it wife children
+&amp; friends I adopt it as peculiarly my own.</p>
+            <lg>
+               <l>&quot;I love thee next to heaven above</l>
+               <l>&quot;Land of my fathers! Thee I love</l>
+               <l>&quot;And, none thy slanders as they will</l>
+               <l>&quot;With all thy faults I love thee still!&quot;</l>
+            </lg>
+            <p>It is true my dear Margaret that when the thoughts of home crowd upon my mind I have scarcely
+patience or fortitude to remain longer from you but the reflection that my absence may be eventually
+for the good of my family &amp; the hope of a happy meeting in a few months reconcile me to a
+<unclear reason="illegible" resp="bds">seperation</unclear> from &quot;all that my soul holds dear
+on earth.&quot; Your own sentiment on this subject is so entirely <unclear reason="illegible" resp="bds">conul</unclear> &amp; so well &amp; feelingly expressed in your letter that I cannot
+omit to transcribe it. &quot;With how much pleasure my dear &quot;wife&quot; do I look forward to
+that time. The thought will cheer me many a day through this winter when otherwise I should be
+cheerless. Let us look forward to that happy meeting &amp; endeavor to bear the seperation with
+fortitude.&quot; - But I am filling up my paper with these spontaneous feelings of a most
+affectionate heart &amp; have barely left room to say something about my present determinations. - 
+My principal object in my <unclear reason="illegible" resp="bds">visit</unclear>
+            </p>
+            <pb n="4" facs="0012_000060_000358_0004.jpg" xml:id="d3e274"/>
+            <p>
+               <gap resp="Dyson-Smith"/> considerably increased. I hope I shall have improved so much in two months from this
+time as to justify my return to Tennessee. If this should be the case &amp; the winter not be too
+<unclear reason="illegible" resp="bds">rigid</unclear> with you of which you must inform me I will
+leave this so as to return early in Feby. Or if the winter is mild with you &amp; <unclear reason="illegible" resp="bds">whether it</unclear> is or not if you <gap resp="Dyson-Smith"/> I will be home against the 15th
+of January. Now if you would rather I would return against that time I beg you not to hesitate in
+signifying your wish to that effect immediately by letter &amp; I will obey you most cheerfully - I
+would rather be at home my self that time - I shall improve my self much in my profession - I am
+much pleased with most of the Professors - I am <unclear reason="illegible" resp="bds">desiring</unclear>
+instruction from an attendance at the Marine Hospital where I see all the wards crowded with the sick
+&amp; have an opportunity of seeing the practice of the most emminent <unclear reason="illegible" resp="bds">of</unclear> the faculty in every form of disease - &amp; also I witness every day
+in the Surgery all the cases of surgery which occur in the City or are brought to it - this
+itself is a large field of instruction - The Col. communicates no news to me that have interested my
+feelings more than the progress of the revival of religion in Knoxville &amp; the additions he mentions
+as having been made to its numbers. I thank God in my poor manner for it &amp; pray for its extension
+&amp; continuation - I said something on the subject in a letter written from Alexander - which I hope
+you received in due time. He mentions also that he had recd. my letter from <unclear reason="illegible" resp="bds">Statesville</unclear> but says nothing of one I wrote you from <unclear reason="illegible" resp="bds">Wilkesboro</unclear> - The day before - I hope you have since recd. it - I have written
+you frequently - &amp; having several letters to write next week - <gap resp="Dyson-Smith"/> time soon to Knoxville
+perhaps I may not write you till the second week from now - especially as you will hear from the
+P.M. at Knoxville of my letters being recd. there &amp; of course that I am well - The night watch
+is crying along the streets 10 Oclock &amp; I must <unclear reason="illegible" resp="bds">quiet</unclear>
+till morning - commending you to the protection of a gracious Providence - who can take care of us
+together &amp; apart.</p>
+            <p>Thursday morning. Dear wife. If you can recollect any thing you wanted that I have not down in
+my memorandum either for yourself or the children mention it to me &amp; I will get it for you - I have
+not had time to look around yet for any thing. Or if there is any thing going on about home
+concerning which you would like hear from me or have my opinion &amp; advice write me upon it
+<unclear reason="illegible" resp="bds">quickly</unclear>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

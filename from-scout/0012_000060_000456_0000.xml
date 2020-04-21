@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000456_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> Christian Observer, Converse &amp; Co.</name>
+ in Louisville, Ky., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1879-11-05">1879 Nov. 5</date>
+            </title>
+            <author>
+               <name type="person">Christian Observer, Converse &amp; Co. Publishers (Louisville, Ky.)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Veve, Marielle</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000456_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Converse and Co. in Louisville, Ky., to J.G.M. Ramsey in Knoxville, Tenn. 1879 Nov. 5</title>
+               <date>1879-11-05</date>
+               <author>
+                  <name>Christian Observer, Converse &amp; Co. Publishers (Louisville, Ky.)</name>
+               </author>
+               <extent>1  digital image;  1 p.</extent>
+               <note type="abstract">1879 Nov. 5 The Christian Observer, Converse &amp; Co., Louisville, Ky., to J.G.M. Ramsey, Knoxville, Tenn. Thanks J.G.M. for sending an old poem which will appear in the Observer. Informs him that the Observer will be sent to him without charge in appreciation of his contributions to the paper.
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Presbyterian Church -- Kentucky -- Newspapers.</term>
+               <term>Louisville (Ky.) -- Newspapers.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Poetry.</term>
+               <term>Christian Observer, Converse &amp; Co. Publishers (Louisville, Ky.)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e147">
+            <pb n="1" facs="0012_000060_000456_0001.jpg" xml:id="d3e148"/>
+            <p>Louisville, Ky. Nov. 5 1879</p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Dear Sir.</p>
+            <p>Thanks for your favor of Oct. 30th with the old poems We will try &amp; return the ms. to you. It is a capital thing -- so quaint in its style, so rich in its religious experience. It will appear on the Obs. of Nov. 12th.</p>
+            <p>If you notice the address label of your paper, you will find that instead of the &quot;date to which paid,&quot; opposite your name, there is simply a letter &quot;c.&quot; It means that we esteem the help rendered by your pen as a full equivalent for your subscription &amp; have ordered that no bill be sent to you. Please accept of the paper, &amp; continue to help us in the way of correspondence whenever you can.</p>
+            <p>Yours Very Truly</p>
+            <p>Converse &amp; Co.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

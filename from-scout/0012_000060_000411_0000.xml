@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000411_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mrs. James K. Polk</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1872-10-24">1872 Oct. 24</date>
+            </title>
+            <author>
+               <name type="person">Polk, Sarah Childress, 1803-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000411_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mrs. James K. Polk in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1872 Oct. 24</title>
+               <date>1872-10-24</date>
+               <author>
+                  <name>Polk, Sarah Childress, 1803-1891</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 pages</extent>
+               <note type="abstract">Mrs. James K. Polk wrote this letter to J. G. M. Ramsey on Oct. 24, 1872. She enclosed a letter from the Secretary of the Wisconsin Historical Society. She asked for Ramsey to send information concerning Capt. James Knox to the Wisconsin Historical Society. She told Ramsey she would be glad to meet with him and Mrs. Ramsey during their upcoming visit to Nashville.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Presidents&apos; spouses -- United States -- Correspondence.</term>
+               <term>Societies -- History, organization, etc.</term>
+               <term>Presidents -- United States -- History -- Sources.</term>
+               <term>Wisconsin -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Polk, Sarah Childress, 1803-1891 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e165">
+            <pb n="1" facs="0012_000060_000411_0001.jpg" xml:id="d3e166"/>
+            <p>Oct. 28.72 ands</p>
+            <p>Mrs. J.K. Polk</p>
+            <p>Polk <unclear reason="illegible" resp="NW">Place</unclear>
+            </p>
+            <p>Nashville </p>
+            <p>&amp; promised further <unclear reason="illegible" resp="NW"> efforrs </unclear>
+            </p>
+            <p>on the subject of Capt. James Knox. </p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tennessee </p>
+            <pb n="2" facs="0012_000060_000411_0002.jpg" xml:id="d3e195"/>
+            <p>Oct. 24, 1872 </p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>My dear Sir.</p>
+            <p>I take the privilege to enclose to you a letter from the <unclear reason="illegible" resp="NW">corr. </unclear> sec y. of the &quot; Wisconsin Historical Society, &quot; Believing from a recent conversation with my friend <unclear reason="illegible" resp="NW">Mr. </unclear> Graham that you had some reminisences relation to Capt. James Knox, life &amp; services. That might be useful to this gentleman. - I do hope that you will pardon me the liberty I have taken. - if agreeable to you reply. </p>
+            <p>I was gratified to hear from <unclear reason="illegible" resp="NW">Mrs.</unclear> Graham that you contemplated a visit to Nashville this fall 
+</p>
+            <p>I will be happy to meet you</p>
+            <pb n="3" facs="0012_000060_000411_0003.jpg" xml:id="d3e222"/>
+            <p>and Mrs. Ramsey again, and I beg that you present most kindly to Mrs. Ramsey &amp; your daughters.</p>
+            <p>With many memories of the past,</p>
+            <p>I am very truly yrs.</p>
+            <p>Mrs. James K. Polk</p>
+            <p> &quot; Polk Place &quot;</p>
+            <p>Nashville - Oct. 24.1872</p>
+         </div>
+      </body>
+   </text>
+</TEI>

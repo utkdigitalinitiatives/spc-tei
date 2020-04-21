@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000429_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1875-10-06">1875 Oct. 6</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>McClain, Lindsay</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000429_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1875 Oct.6</title>
+               <date>1875-10-06</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3  digital images; 1 envelope, 2 pages</extent>
+               <note type="abstract">Lyman Draper wrote to J. G. M. Ramsey on Oct. 6, 1875. He told Ramsey of his plans to send his Mecklenburg manuscript to a publisher. Draper asked Ramsey for information on Fort Loudon. Draper reported that he is sending a copy of his associate’s book for J.G.M.’s perusal and judgment.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Manuscripts -- Publishing.</term>
+               <term>Historic sites -- Tennessee -- Monroe County.</term>
+               <term>Cherokee Indians -- Wars.</term>
+               <term>Monroe County (Tenn.) -- History -- 18th century.</term>
+               <term>United States -- History -- French and Indian War, 1755-1763.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000060_000429_0001.jpg" xml:id="d3e164"/>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville,</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000429_0002.jpg" xml:id="d3e176"/>
+            <p>In acknowledging yr. favor after 2d last evening, I was necessarily hurried in order to get off my return missile by the earliest possible conveyance. My Mecklenburg work has hung fine so long, I am almost getting vexed with the delay -- &amp; am resolved in a few days to send on the ms. any way. I am not yet certain of a publisher --- a firm / Claxton / Remsen &amp; Co-- Phila-- will examine it, &amp; then determine.</p>
+            <p>I presume <unclear reason="illegible" resp="LM"> gre</unclear> this reaches you, the request has gone to May Nelson for King letter-- I hope so, for a single day gained at this late period will be a</p>
+            <pb n="3" facs="0012_000060_000429_0003.jpg" xml:id="d3e189"/>
+            <p>help to me -- a great help. I hope you will not fail to have it sent me.</p>
+            <p>Not in any special hurry aft. Mr. Loudon. Another insuing on that point, wh. you can respond to at your leisure. That is, whether you happen to know any intelligent oldsettler in the region of Tellico Plains (where there is a <unclear reason="illegible" resp="LM"> P.C.</unclear>) or old Fort Loudon -- or at Morgan Town nearly opposite? -- I find it convenient to write the name Loudon, when the old Lord in whose honor it was named, wrote his sign--manual Loudoun.</p>
+            <p>I send you a copy of my associate&apos;s work on Crawford-- so you may judge, with his adeptness at composition, &amp; good judgment in selecting &amp; combining materials, with my wealth of historical collections &amp; my long and patient sifting of matters-- what will he <unclear reason="illegible" resp="LM"> likely</unclear>to be the outcome of our joint efforts. While I send you the volume yet I hop when you read it, that you wd. write him B. a letter expressing of whatever pleasure its perusal may have afforded you. I know it wd. gratify him as coming from one of the veteran historians of the <unclear reason="illegible" resp="LM"> West</unclear>.</p>
+            <p>Truly Yours -- Lyman C. Draper. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

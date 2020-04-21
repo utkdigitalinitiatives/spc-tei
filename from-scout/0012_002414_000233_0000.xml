@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000233_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Note
+					<name>from Peter Blight</name>
+				                    to Charles Pettit Esq.,<date when="1799-09-28">1799 Sept. 28</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Henderson, Ian</name>
+            </respStmt>
+            <author>
+               <name type="person">from Peter Blight</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000233_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Note from Peter Blight to Charles Pettit Esq.,1799 Sept. 28</title>
+               <date when="1799-09-28">1799 Sept. 28</date>
+               <author>
+                  <name type="person">from Peter Blight</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000233_0001.jpg" xml:id="d4e39"/>
+            <p>Charles Pettit Esq.		President of Insurance Company of North America</p>
+            <p>P. Blight		4500 D.		<unclear reason="illegible" resp="IH">Sh Telemachus</unclear>
+            </p>
+            <pb n="2" facs="0012_002414_000233_0002.jpg" xml:id="d4e47"/>
+            <p>
+               <unclear reason="illegible" resp="IH">dockstrut</unclear>	Saturday 28 Sept</p>
+            <p>dear sir		I have <unclear reason="illegible" resp="IH">received</unclear> note of yesterday <unclear reason="illegible" resp="IH">&amp;</unclear> will <unclear reason="illegible" resp="IH">have</unclear> the $4500 paid <unclear reason="illegible" resp="IH">me an accot of the lef. on Ship Telemachus until you shall have more fully if america the paper - I mean it shall be hold a the property of the campy I am respectfully	Sir		Your Most Ob Sev	Peter Blight		Charles Pettit Esq	Insurance Company of North America</unclear>
+            </p>
+            <pb n="3" facs="0012_002414_000233_0003.jpg" xml:id="d4e66"/>
+            <p>Sept. 28 1799		Peter Blight</p>
+         </div>
+      </body>
+   </text>
+</TEI>

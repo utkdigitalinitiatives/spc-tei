@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000213_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio,
+<date when="1863-12-22">
+1863 December 22
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000213_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to Sarah Probert in Pittsfield, Ohio, 1863 December 22</title>
+               <date>1863-12-22</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 pages</extent>
+               <note type="abstract">In this letter, dated December 22, 1863, from John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins informs Ms. Probert that he has finally received the picture she mailed in November. He is sending her one of himself in return with this letter.</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Letter mail handling -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Watkins, John, b. 1839 -- Friends and associates.</term>
+               <term>United States. Army. Ohio Independent Light Artillery Battery, 19th (1862-1865). </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000074_000213_0001.jpg" xml:id="d3e155"/>
+            <p>Dec 22nd 1863</p>
+            <p>Mr. George W. Probert</p>
+            <p>Pittsfield Swain</p>
+            <p>Co Ohio</p>
+            <pb n="2" facs="0012_000074_000213_0002.jpg" xml:id="d3e169"/>
+            <p>Knoxville Tennessee Dec 22ond/63</p>
+            <p>My darling Sarah</p>
+            <p>Your letter of the 13th of last month, I am very happy to say arrived to day with its contents all right. and I sit down this evening to write you a few lines to send by one of our men that is going to start for home in the morning. he goes to Kentucky on business and from there he is going home to spend part of the Holy days anyway. oh darling how glad I am that your letter at last came through, but the most of all that your picture is safe. I am a thousand times obliged to you for it Sarah. and in return I send you mine. as soon as I heard he was going I went down town and got a couple taken and the best one I send to you. I got it taken this afternoon, and if you can get it all right I shall be well paid. your picture suits me very well. if anything it looks as though you had been sick, but I am satisfied with it. Sarah I will write to you oftener. I will write to you again next sunday and every Sunday after unless something prevents. it is almost dark now so I will have to stop. so darling here is a good night to you and my love as true as ever.</p>
+            <p>John</p>
+            <pb n="3" facs="0012_000074_000213_0003.jpg" xml:id="d3e183"/>
+            <p>direct to the care of Capt Joe C Shields</p>
+            <p>19th Ohio Battery. 23 Army Corps</p>
+         </div>
+      </body>
+   </text>
+</TEI>

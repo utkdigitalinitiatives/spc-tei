@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000207_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Robert Allen</name>
+				                    in Washington D.C. to David Burford in Carthage, Tenn., <date when="1824-01-01">1824 Jan. 1</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Robert Allen</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000207_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robert Allen in Washington D.C. to David Burford in Carthage, Tenn., 1824 Jan. 1</title>
+          <date when="1824-01-01">1824 Jan. 1</date>
+          <author>
+            <name type="person">Robert Allen</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000207_0001.jpg" xml:id="d4e39"/>
+        <p>From</p>
+        <p>Robert Allen</p>
+        <p>Major D. Burford</p>
+        <p>Carthage</p>
+        <p>Ten</p>
+        <pb n="2" facs="0012_000117_000207_0002.jpg" xml:id="d4e51"/>
+        <p>Washington City</p>
+        <p>Monday Jany 1, 1824</p>
+        <p>Dear Sir</p>
+        <p>I have just enclosed your letter to Henry Toland of Philadelphia for the last  week <unclear reason="illegible" resp="PW">here</unclear> I have been astounded and held in astonishment at the Management going on here I have believed members of congress all honorable men and incapable of bargaining &amp; selling the trust <unclear reason="illegible" resp="PW">reposed</unclear> in <unclear reason="illegible" resp="PW">them</unclear> by their constituents I hope I shall not be compelled to change that oppinion, but strange indeed</p>
+        <pb n="3" facs="0012_000117_000207_0003.jpg" xml:id="d4e70"/>
+        <p>r the appearances of things at present Henry Clays Interest Kentucky Ohio and Illinois all said now to be for Mr Adams Clay has openly taken that side what has produced this movement is best known to himself perhaps the less said the better. I think I see a storm gathering <unclear reason=" illegible " resp="PW">next up</unclear>to be feared than that in the days of Aaron Burr is it possible that the wishes of the nation is to be thwarted and defeated to agrandise and gratify a few Individuals. I will write you again when I can better understand how things are going</p>
+        <p>Farewell</p>
+        <p>Robert Allen</p>
+      </div>
+    </body>
+  </text>
+</TEI>

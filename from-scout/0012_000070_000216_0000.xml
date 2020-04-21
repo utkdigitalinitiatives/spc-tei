@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000216_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Hugh Bogle</name>
+ in Ellejoy, Tenn. to O.P. Temple in Knoxville, Tenn. <date when="1865-01-21">1865 January 21</date>
+            </title>
+            <author>
+               <name type="person">Bogle, Hugh</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000216_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Hugh Bogle in Ellejoy, Tenn. to O.P.Temple in Knoxville, Tenn., 1865 January 21</title>
+               <date>1865-01-21</date>
+               <author>
+                  <name>Bogle, Hugh</name>
+               </author>
+               <extent> 2 digital images; 2 pages</extent>
+               <note type="abstract"> In this letter dated January 21 1865 Hugh Bogle in Ellejoy, Tenn. writes to O.P. Temple in Knoxville, Tenn. asking Temple to defend him on charge of treason. 
+ </note>
+               <note type="collection">The O.P. Temple Papers, 1865</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+               <term>BLOUNT COUNTY (TENN.) - HISTORY</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e144">
+            <pb n="1" facs="0012_000070_000216_0001.jpg" xml:id="d3e145"/>
+            <p>January the 21st 1865</p>
+            <p>Ellejoy Tennessee</p>
+            <p>Dear Sir after my best respects to you it appears that I have been Incited before the grand Jury at Maryville at the last term of the Circuit Court for Treason I wish you to attend to my case if you will do so I would like to have you seen you in person but am not situated that I can do so at this time The witnesses against me a portion of them are truthfull men and men of standing a part are not will I be allowed the liberty of invalidating there evidence by good men if so I wish to know it as to any thing that has transpired cinse I taken the Amnesty Oath of a Treasonable nature I am willing for the World to know it all in my case for I never have seen a Confederate Soldier cinse that time except a few of Mulers men and I can pro ove that I kept out of there sight If I am to be tryed for Treason befor I taken the Amnesty Oath and Oath of Allegence I wish to know it and if I am to be tryed for Treason cinse taking the Oaths I wish to know it I presume you are are are of the manner in which such cases will be tried please write me on the subject as it may be necessary for me to have witnesses more than I have I will meet you in Maryville on monday next if you are their </p>
+            <p>Respectfully Hugh Bogle</p>
+            <pb n="2" facs="0012_000070_000216_0002.jpg" xml:id="d3e159"/>
+            <p>Hugh Bogle</p>
+            <p>A note that I would defend him</p>
+            <p>O.P. Temple Esqur</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <p>By J Kirkpatrick</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000295_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Daniel Breck</name>
+				                  in Richmond, Ky., to J.G.M. Ramsey in Mecklenburg, Tenn., <date when="1851-02-19">1851 February 19</date>
+            </title>
+        <author>
+          <name type="person">Breck, Daniel</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000295_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Daniel Breck in Richmond, Ky., to J.G.M. Ramsey in Mecklenburg, Tenn., 1851 February 19</title>
+          <date when="1851-02-19">1851 February 19</date>
+          <author>
+            <name type="person">Daniel Breck</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1850</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000295_0001.jpg" xml:id="d4e44"/>
+        <p>Richmond Feb 9 1851</p>
+        <p>Dear Doct.</p>
+        <p>I received your letter dated the 27th <unclear reason="Illegible" resp="JH">instance</unclear> yesterday  Before its receipt, Lizzy was on her route to join her afflicted family.  I feel with you the great loss and misfortune the family has sustained in the death of Wilberforce.  I may say, without disrespect to your other sons, that he was my best friend and my favourite.  I was more with him and had a better opportunity of learning and feeling his worthe and goodness.  His amiable and affectionate heart and lofty integrity could not but win the affection and respect of all who knew him.  A poetic purity of sentiment and feeling characterised his every action, so as to give his character an interest which is seldom acquired.  No one who did not see him at home, in the bosom of his own family, his delicate attentions to his sisters, his kindness to his brothers, and his warm regard and respect for his parents, can more than half appreciate his worth and the immense loss that family has sustained.</p>
+        <p>Under the circumstances attending the</p>
+        <pb n="2" facs="0012_000060_000295_0002.jpg" xml:id="d4e57"/>
+        <p>receipt of the distressing tidings of his death, I communicated the fact to Liddy with as much care as possible.  It was such a shock to her, that I feared for the consequences to her in her present feeble state of health.  I would have started her on her route to E.T. the next day if I could have procured a conveyance.  And it was with much difficulty I could get her the rusty and leaky carriage in which she is making the trip.  It would have afforded me pleasure to have accompanied her; but I was truly desirous of winding up my affairs in this country before leaving it forever.  Besides, I had notice of steps about to be taken in two or three important suits in which I am engaged this <unclear reason="Illegible" resp="JH">week</unclear> and <unclear reason="Illegible" resp="JH">hid has</unclear> desirous of making the trip.  I have felt since she left that I ought to have gone with her and if I thought my father would get home by the 10th March to attend to business in Court, I would start immediately  This however I hardly expect.  Tell Liddy I will write her by next mail &amp; regularly afterwards &amp; that as she will not have much to do if she does not write often I will scold her every letter.  Give my best love to all</p>
+        <p>Yours affectionately</p>
+        <p>D Breck</p>
+      </div>
+    </body>
+  </text>
+</TEI>

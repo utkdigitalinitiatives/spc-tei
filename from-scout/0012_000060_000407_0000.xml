@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000407_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Riverside, Tenn., to Elizabeth Ramsey Breck near Charlotte, N.C.<date when="1872-01-28">1872 Jan. 28</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000407_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Riverside, Tenn., to Elizabeth Ramsey Breck near Charlotte, N.C. 1872 Jan. 28</title>
+               <date>1872-01-28</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>3  digital images;  2 pages, 1 envelope</extent>
+               <note type="abstract">J.G.M. Ramsey wrote to his daughter, Elizabeth (Liddy), on Jan. 28, 1872. He thanked her for her interesting letter in regards to family events. He urged that Jimmie be referred to as James or Jimmie or Ramsey, but not Jim because Jim was a Negro name. He thought that the name, Jim, would take away his self respect and respect from others. A &quot;Jim&quot; could not make a name for himself nor have high aspirations. Ramsey referred to Aunt Mary Ann Kellar &apos;s illness and other family news including McKnitt&apos;s settlement of his property dispute. He told her the weather had been bad. He warned her to be careful of fires. He was hoping to write the history of Hopewell.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family life.</term>
+               <term>Names, Ethnological -- Southern States.</term>
+               <term>Racism.</term>
+               <term>Southern States -- Social conditions -- 19th century.</term>
+               <term>Southern States -- Ethnic relations -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e162">
+            <pb n="1" facs="0012_000060_000407_0001.jpg" xml:id="d3e163"/>
+            <p>Mrs. E. A.R. Breck</p>
+            <p>Charlotte</p>
+            <p>North Carolina</p>
+            <p>Care of Capt. R.M. Ramsey or W. Davidson Alexander or</p>
+            <p>W. Davidson Alexander Esq</p>
+            <p>
+               <unclear reason="illegible" resp="NW">Misint Forwarud </unclear>
+            </p>
+            <pb n="2" facs="0012_000060_000407_0002.jpg" xml:id="d3e182"/>
+            <p>River Side Jany. 28. 1872</p>
+            <p>My Dear Liddy</p>
+            <p>Yours of the 14th was duly recd. You have heard before now (by my Post Script in letter to Sue &amp; W.A. enclosing draft on N.Y. for $85.00) that we were then well or I would have answered yours to your Ma before now &amp; besides I have nothing new or strange. you letter was long &amp; full of course more satisfactory. We love to hear all the incidents you gave of Aunt Abbeys visit - of Alice Caldwell - the daughter of my favorite cousin Dr. J.D.C, -of Dr. Henderson &amp; family - your trip to town with Aunt Harriett - your pleasant visit to Rob - his politeness &amp; attention (he is always that) &amp; the apples &amp; candy for the children &amp; the welcome you got on your return from little <unclear reason="illegible" resp="NW">Bartie</unclear> &amp; all about her doll - &amp; what she said about uncle MK. All these things interest &amp; entertain &amp; amuse the whole of us I am glad too that you did not forget Jimmie - the fine little fellow. MK. calls him Jim. I hope no one else there does so. Call him James. Jimmie or if not <unclear reason="illegible" resp="NW">these</unclear> Ramsey - anything but Jim. He will never have any self respect &amp; of course no respect from others if he is spoken of or to by that negro name Jim I am in sober earnest - if I had been called that way no A.B. no A.M. nor M.D. would have been legitimatly affixed to my name. I never could have aspired to any thing high, or excellent or even clever. Do you hear that Sue &amp; Sue &amp; <unclear reason="illegible" resp="NW">Mr. A.</unclear>? Now dont forget it. There is a heap in it any how. </p>
+            <p>You enquire for your Aunt Mary Ann <unclear reason="illegible" resp="NW">Kellers He.</unclear>W.S. has been down there ever since you left. </p>
+            <pb n="3" facs="0012_000060_000407_0003.jpg" xml:id="d3e208"/>
+            <p>but returned last week. your Ma wrote down to her yesterday to enquire about her condition - no answer yet from her but MK. saw Col. J.<unclear reason="illegible" resp="NW">H.</unclear>C. two days ago &amp; he told him Mary Ann was just as she had been. The operation was not performed &amp; I hope will not be as I never knew one to get well after it. Not one. </p>
+            <p>You enquire for that old hag at L.s that needs no thing but a Beard and a pair of Breeches to make her a man. She got her walking papers soon after we left &amp; has gone I dont know where. MK. saw Dr. M Donough in town who told him this. None of us has inquired about her. Dr. L has gone to the mountains to be absent a week or two as he wrote me I dont know his business but Dr. Mc D. thinks it is to find a wife. The little boys have not been up yet to see us. Tom Ramsey writes me they are well &amp; much interested in some things I had written to them. MK. has compromised his suit with Mead who came up to see him last week. He has negotiated very well - gives him $300.00 &amp; qrts immediate possession He gets this years rent $150.00 besides the ferry. I am glad that is off his hands - it might have run on for ten years more. It is good property well worth 4 or 5,000. MK. &amp; the little boys have hauled 16 logs to Boyds mill &amp; will soon have plank to fix the fences near &amp; around the house. Willie &amp; <unclear reason="illegible" resp="NW">Millie</unclear> are both going to a singing school &amp; learn very well. Your Ma I think is quite better since MK. got here. The weather has been very cold- snow now 6 inches deep. Ice house nearly filled &amp; some mush ice is on the river. A.R.C. has not yet returned from Texas - they will not move there. J.M.C. has bought that country property of his out at Crozier D. Mrs. Bakers house &amp; all in it up burned New Years night, It is terrible, All of you must be very careful of your fires, I believe I have exhausted my topics &amp; my paper too. When it gets warmer I wish to comply with Mr. Williams request to write the history of <unclear reason="illegible" resp="NW"> Hopewell</unclear> give our love to all friends - Write often. Rob ought to write too. I am glad to hear his sales are so good. Kiss all the grand children for us, </p>
+            <p>Affectionately J.G.M. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

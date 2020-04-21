@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000232_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Caroline M. Brown,<date when="1862-03-18">1862 Mar. 18</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000232_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,1862 Mar. 18</title>
+          <date when="1862-03-18">1862 Mar. 18</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000232_0001.jpg" xml:id="d4e39"/>
+        <p>The same day</p>
+        <p>March 18th 62</p>
+        <p>Dear wife and children most beloved of all on Earth to me I sit down this evening to inform you that we are under marching orders at this time but know not whare we are going nor whitch way we will go yet but I rather think we will South some furthe yet But we know not we will leave in the morning The account we heard is true the rebels have tore up the rail road and burnd eighteen cars</p>
+        <pb n="2" facs="0012_000599_000232_0002.jpg" xml:id="d4e47"/>
+        <p>There is between two and three thousand of our men in pursuit of them of this time and i hope they will cetch them or kill them before they leave them the Boys are in good heart and verry merry playing ball Alltho they would like to get home again some of them thinks if they were at home now that they might fight ther own Battles after this and i think so too the privates have no priveldge at all the ten dollars that i spoke of on the other letter was not sent on the account of the rail road being tore up</p>
+        <pb n="3" facs="0012_000599_000232_0003.jpg" xml:id="d4e51"/>
+        <p>Now with tears in my eyes to talk a little to you tonight i would like to see you all verry well but it it is so i cannot at this time now i want you to write to me if you can It has binn a long time since I heard from you but once since i left home and that was the 9 of last month This is the tenth letter i have wrote to you since i got back to camp Somerset Now i shall clos by saing to you that you must do the best you can untill i get back if so lucky good by to you and the children from your husband and father to wife and children</p>
+        <p>Henry Brown</p>
+        <pb n="4" facs="0012_000599_000232_0004.jpg" xml:id="d4e57"/>
+        <p>Now i will just say to you that you may let Barny Ivers have that field to put in corn and tell him that he may have it if he will give you 3 busels and him take 2 bushels and the boy help him plant it and hoe it at any rate you must do the best you for yourself direct your letters to nashville Tennessee Now i shall close by saying i shall Direct my letters to Hartleyville after this one it will give you A better chance for you to answer them No more at present</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

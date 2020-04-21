@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003086_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Robert G. Tatum</name> Diary, <date when="1913-03-15">1913 March 15 - July
+            8</date>
+            </title>
+            <author>
+               <name type="person">Tatum, Robert G.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Stone, Sarah</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date>2013</date>
+            <idno type="SPC">0012_003086_000201_0000</idno>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <extent>186 pages</extent>
+               <note type="collection">Robert G. Tatum Papers</note>
+               <note type="manuscript">MS.0774</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Episcopal Church -- Clergy.</term>
+               <term>Nenana (Alaska).</term>
+               <term>Tanana (Alaska).</term>
+               <term>Tatum, Robert G.</term>
+               <term>Stuck, Hudson, 1863-1920.</term>
+               <term>Karstens, Harry, 1878-1955.</term>
+               <term>Harper, Walter, 1892-1918.</term>
+               <term>Cruikshank, Moses, 1904-1996.</term>
+               <term>Caribou hunting -- Alaska.</term>
+               <term>Muldrow Glacier (Alaska).</term>
+               <term>Sled dogs -- Alaska.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d3e126">
+            <pb n="1" facs="0012_003086_000201_0001.jpg" xml:id="d3e127"/>
+            <p>[Front Cover]</p>
+            <pb n="2" facs="0012_003086_000201_0002.jpg" xml:id="d3e133"/>
+            <p>[Front Cover Verso]</p>
+            <pb/>
+            <pb/>
+            <pb n="5" facs="0012_003086_000201_0005.jpg" xml:id="d3e151"/>
+            <p>Mar. 15, 1913. Saturday</p>
+            <p>Mr. <unclear reason="illegible" resp="SS">Karstens Watter</unclear> and Archdeveon
+          arrived at Nenana 9 <unclear reason="illegible" resp="SS">or 1</unclear>
+            </p>
+             <p> a.m. Had lunch and arranged <unclear reason="illegible" resp="SS">fright</unclear> to start <unclear reason="illegible" resp="SS">in trip</unclear> Sunday. Wrote few letters. <unclear reason="illegible" resp="SS">Rhumatis</unclear> m better.</p> 
+             <p>Mar 16 Sunday</p>
+            <p>Had Early <unclear reason="illegible" resp="SS">siwill</unclear> and after breakfast
+          packed sleds. Did not attend 11 <unclear reason="illegible" resp="SS">or</unclear> am.
+          service wrote letters one to Bishop promised another on my return also to Miss Groves and
+            <unclear reason="illegible" resp="SS">Ceelia</unclear>. Had lunch left on our journey
+          about 3<emph>00</emph> p.m. Met Mr. Williams just before reaching Fishers roadhouse.
+          Archdeacon brought 3 dogs from Mr. Loyd, paid $100.00 for them. Mr. Williams attended to
+          the affair for him. Mr. W. gave me a letter from</p>
+            <pb n="6" facs="0012_003086_000201_0006.jpg" xml:id="d3e191"/>
+            <p>papa and one from <unclear reason="illegible" resp="SS">M. Bettiehes</unclear> stayed
+          over night at Fishers <unclear reason="illegible" resp="SS">a assorted</unclear> freight
+          and <unclear reason="illegible" resp="SS">loudr</unclear> sleds. Mr. W. brought horse to
+            <unclear reason="illegible" resp="SS">Mnana</unclear>
+            </p>
+            <p>Mar 17 Monday</p>
+            <p>Left Fishers 6 a.m. dogs <unclear reason="illegible" resp="SS">travled</unclear> well.
+          Arch deacon very nervous, reached 30 mile house 7<emph>00</emph>p.m. other teams
+          there with 3 men <unclear reason="illegible" resp="SS">u minse</unclear> meat pie was
+            <unclear reason="illegible" resp="SS">authey coned</unclear> think of. Arch deacon
+          cooked dinner. Every time he wantes water some one had drunk it. Slept on floor with
+            <unclear reason="illegible" resp="SS">spure</unclear> bows. Very comfortable.</p>
+            <pb n="7" facs="0012_003086_000201_0007.jpg" xml:id="d3e227"/>
+            <p>Mar 18 Tuesday</p>
+            <p>Left 30 mile house on the Nenana at 8<emph>30</emph> am reached Knight&apos;s Road
+          house at 7 am. At <unclear reason="illegible" resp="SS">Stud cooked.</unclear> Stopped in
+            <unclear reason="illegible" resp="SS">Cahir.</unclear> They called on us Mr &amp; Mrs
+            <unclear reason="illegible" resp="SS">A.</unclear> and spent the evening. Boys read. Had
+          good travling all day saw <unclear reason="illegible" resp="SS">bast</unclear> sight of
+          Nenana hills at the 30 mi house. Slept comfortably and the Knights were very kind to
+          us.</p>
+            <p>Mar 19 Wednesday</p>
+            <p>Left Knights at 930 a.m. had good trail up the <unclear reason="illegible" resp="SS">Toklat</unclear> to the 12 mi house where we <unclear reason="illegible" resp="SS">huiched</unclear> &quot;The Home Caban&quot; had big open fire place. Travled up river
+          to the clear water</p>
+            <pb n="8" facs="0012_003086_000201_0008.jpg" xml:id="d3e260"/>
+            <p>tributary <del type="overstrike">and</del> on the right hand side and
+          travled on to the &quot;Crooked Creek Cabin&quot; Had good trail with exception of some
+          water at the <unclear reason="illegible" resp="SS">mouth</unclear>. The cabin was <unclear reason="illegible" resp="SS">26</unclear> mi from Knights slept on bunks. <unclear reason="illegible" resp="SS">A.d.</unclear> stuck <unclear reason="illegible" resp="SS">chosse</unclear> his bed and slept on sticks and had to get up. Had good stove and dry
+          wood.</p>
+            <p>Mar 20 Thursday</p>
+            <p>Left &quot;Crooked Creek&quot; and travled up Clear creek lots of glare ice &amp; some
+          water sleighs broke down. Loads of tarmigan. ate lunch at 12 mile house a few <unclear reason="illegible" resp="SS">sweeds</unclear> were there at</p>
+            <pb n="9" facs="0012_003086_000201_0009.jpg" xml:id="d3e288"/>
+            <p>Moon light Cabin.&quot; Travled on to the mouth of Myrtle Creek an travled to its head.
+          had most wonderful view of the Mountain from the SUmmit between Myrtle &amp; Willow Creek
+          came down Willow to Moose Creek and down it <unclear reason="illegible" resp="SS">tahont</unclear> two miles to <unclear reason="illegible" resp="SS">Spmee</unclear>
+          Creek Cabin, stayed there <unclear reason="illegible" resp="SS">Wed.</unclear> night. Very
+          cold. but comfortable opened quilts from <unclear reason="illegible" resp="SS">sach.
+            Tood</unclear> trail over Summit all day.</p>
+            <p/>
+            <pb n="10" facs="0012_003086_000201_0010.jpg" xml:id="d3e307"/>
+            <p>Mar 21 Friday - &quot;Good Friday&quot;</p>
+            <p>Reached <unclear reason="illegible" resp="SS">Eurcka</unclear> at noon. Came down Moose
+          12 miles stayed Hamelton&apos;s cabin. <unclear reason="illegible" resp="SS">lwod
+            stores.</unclear> Very comfortable <unclear reason="illegible" resp="SS">cached</unclear> all fright there Had service &amp; Litney in the after noon. Baked
+          biscuits boys went on the hill for wood up to this time we had had trails &amp; weather
+          for beyond our expectation <unclear reason="illegible" resp="SS">a</unclear> made splendid
+          time. This cabin was our head quarters while freighting from Diamond.</p>
+            <pb n="11" facs="0012_003086_000201_0011.jpg" xml:id="d3e327"/>
+            <p>
+               <emph>Mar 22 &amp; Mar 23</emph> Saturday- &quot;Easter Eve&quot; &amp; Easter
+          day.</p>
+            <p>Left <unclear reason="illegible" resp="SS">curiked</unclear> had very good trail down
+          Moose <unclear reason="illegible" resp="SS">Euck</unclear> some water &amp; <unclear reason="illegible" resp="SS">glare</unclear> ice <unclear reason="illegible" resp="SS">fom</unclear> 15 mi. Ate lunch at 9 mi. cabin Mr. Nelson was there went over land about
+          4 mi from Moose to Glacier City where we spent Easter Sunday Had four more visitors had
+          service. I started hymn 12 &quot;Jesus Christ is risen today&quot; Very high. Arch deacon
+          sang bose. I got mixed in the reading of the Psalms &amp; The &quot;Passover.&quot; to my
+          sorrow A d. S. preached very <unclear reason="illegible" resp="SS">mipnsai</unclear>
+          sermon on the flowers. What they mean to man Even the Crows that is <unclear reason="illegible" resp="SS">fond</unclear> in the early Spring the pleasure it gives to
+          man</p>
+            <pb n="12" facs="0012_003086_000201_0012.jpg" xml:id="d3e357"/>
+            <p>and its value and the love <del type="overstrike" hand="rgt">it</del> flows <unclear reason="illegible" resp="SS">evita</unclear> in man. Had dining table there ate dinner
+          had prayers slept in Spring beds.</p>
+            <p>Mar 24 Monday. <emph>cloudy</emph>.</p>
+            <p>We all broke trail ten miles across country to Diamond- had very good trail reached there
+          late in the after noon snowed a little. There we had a cabin and stove. <unclear reason="illegible" resp="SS">Remuved</unclear> our <unclear reason="illegible" resp="SS">gruh</unclear> supply. Left <unclear reason="illegible" resp="SS">gnih</unclear> then
+          for our trip out.</p>
+            <pb n="13" facs="0012_003086_000201_0013.jpg" xml:id="d3e385"/>
+            <p>Mar 25 Tuesday.</p>
+            <p>We returned to Glacier City but in late had some Snow Boys had school <unclear reason="illegible" resp="SS">Esias</unclear> eyes inflamed. Had more visitors. Prayers
+          ond to bed.</p>
+            <p>Mar 26 Wednesday</p>
+            <p>Snowed all day. boys made round trip to Diamond City. Ad. S. &amp; I made dough-nuts. Mr.
+          K. worked on creeper heals. Boys returned late. <del type="overstrike" hand="rgt">had</del> Read some Prayers and retired.</p>
+            <pb n="14" facs="0012_003086_000201_0014.jpg" xml:id="d3e403"/>
+            <p>Mar 27 Thursday.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Stod</unclear> snowed several inches of snow and
+          was all over cast. Boys made another round trip to Diamond City. <unclear reason="illegible" resp="SS">Esias</unclear> stayed at home. Boys returned lately Mr. K.
+          finishes <unclear reason="illegible" resp="SS">enipers.</unclear>
+               <unclear reason="illegible" resp="SS">Bors</unclear> got in some word.</p>
+            <pb n="15" facs="0012_003086_000201_0015.jpg" xml:id="d3e421"/>
+            <p>Mar 28 Friday</p>
+            <p>We <unclear reason="illegible" resp="SS">repayed</unclear> half of our freight to a point
+          about three miles above the 9 mile house today and returned to Glacier. Had very wet
+          trail. Reached Glacier about 6 pm. turned colder wet cold feet. Walter &amp; <unclear reason="illegible" resp="SS">Esias</unclear> started supper. Prayers &amp; retired for
+          the last night <unclear reason="illegible" resp="SS">ther</unclear>
+            </p>
+            <p>Mar 29 Saturday</p>
+            <p>Left Glacier at <unclear reason="illegible" resp="SS">9</unclear>00 a.m. with good wishes
+          from our friends then. Travled slowly and broke our own trail until we</p>
+            <pb n="16" facs="0012_003086_000201_0016.jpg" xml:id="d3e444"/>
+            <p>reached Nilsons trail that he had made yesterday. I stayed with sleigh to <unclear reason="illegible" resp="SS">time</unclear> there on and <del type="overstrike" hand="rgt">wi had</del> it up set while going over an ice bridge at Sulphur Spring on
+          The Moose <unclear reason="illegible" resp="SS">waltir</unclear> jumped in to save the
+          sleigh and losted his small show shoes. Reached Eureka a 900 p.m. Had late supper and
+          prayers and went to bed.</p>
+            <pb n="17" facs="0012_003086_000201_0017.jpg" xml:id="d3e459"/>
+            <p>Mar 30 Sunday</p>
+            <p>stayed over there all day. I made 200 biscuits. The boys returned to the cache and
+          brought all the fright to Eureka. Mr. K. prospected as far as the lake and returned with
+          Fritz. He stayed and told us funny stories of his experience in his domestic <del type="overstrike" hand="rgt">correring train</del> apprentis ship Told us he punched
+          the lady Mrs Rothchild in the ribs an said &quot;Did you ever get <unclear reason="illegible" resp="SS">aft?</unclear>&quot; Fritz stayed quite late and then had
+          prayers and went to bed.</p>
+            <pb n="18" facs="0012_003086_000201_0018.jpg" xml:id="d3e473"/>
+            <p>Mar 31 Monday</p>
+            <p>Boys took load over to little cabin 1 1/2 miles from McKinley Fork. I went up to <unclear reason="illegible" resp="SS">McCringals</unclear> 1300 ft above Eureka. Mr K. &amp; Arch
+          D stayed up there all night last night. Returned about 3 pm. today and made ready to leave
+          in the morning.</p>
+            <p>Apr 1 - 1913 - Tuesday</p>
+            <p>This is wash &amp; <unclear reason="illegible" resp="SS">boke dery</unclear> we brought a
+          little <del type="overstrike" hand="rgt">sourdough</del> sourdough down from <unclear reason="illegible" resp="SS">McGlabin</unclear> &amp; baked 6 lofes of bread washed
+          underware &amp; sox Boys <unclear reason="illegible" resp="SS">fulled Ad by tying
+            &quot;muck&quot;</unclear> up &amp; said he was but</p>
+            <pb n="19" facs="0012_003086_000201_0019.jpg" xml:id="d3e500"/>
+            <p>April 2 1913</p>
+            <p>
+               <del type="overstrike" hand="rgt">Tuesday</del>, Wednesday</p>
+            <p>Left Eureka for a camp on the clear water, a tributary of McKinley Fork. ate lunch at the
+          little cabin. Had bad trail Pitched camp 1/2 a mile from McK. Fork temporary expect to go
+          through the <unclear reason="illegible" resp="LW">canon</unclear> tomorrow and pitch camp
+          on timber line. Camp tonight was very nice Mr K. angry with ads. fair weather today but
+          very heavy trail</p>
+            <pb n="20" facs="0012_003086_000201_0020.jpg" xml:id="d3e516"/>
+            <p>Apr 3 <del type="overstrike" hand="rgt">Wednesday</del> Thursday</p>
+            <p>We moved forward today through the clear-water canon very bad trail full of potholes but
+          safely through the <unclear reason="illegible" resp="SS">Mcanfted</unclear> &amp;
+          dangerous places and pitcher carry in the <unclear reason="illegible" resp="SS">Spmee</unclear>, facing the big mountain. <del type="overstrike" hand="rgt">I</del>
+          I have thought of Rosa many times, as this is her 25 birthday. Have had quite a headache
+          today.</p>
+            <pb n="21" facs="0012_003086_000201_0021.jpg" xml:id="d3e536"/>
+            <p>Apr 4 Friday.</p>
+            <p>Boys went back to small cabin after freight as we have had some wind The trail is very
+          heavy. I prospected for some wood on the hill found a few. Mr K did like wise. <del type="overstrike" hand="rgt">Boys</del> Mr. K. took gun hunted caribou. Mr Stuck grew
+          uneasy went to meet boys and Mr. K went to meet him. all arrived at 10 p.m. had supper
+          &amp; got to bed at 200 a.m. Boys tried to bring whole cache &amp; air left part at the
+          Mouth of Clear water.</p>
+            <pb n="22" facs="0012_003086_000201_0022.jpg" xml:id="d3e547"/>
+            <p>Apr. 5 Saturday</p>
+            <p>Ad went to meet John to get field glasses Mr. K. went to look for caibou Boys went to
+          finish bringing freight Also got stove at <del type="overstrike" hand="rgt">Monday</del>
+               <unclear reason="illegible" resp="SS">Mndy</unclear> Creek Cabin. Arch deacon &amp; I went
+          up on the hill and had a noble <del type="overstrike" hand="rgt">view</del> view of the
+          Mountain. Mr. K returned at 8.p.m.</p>
+            <p/>
+            <pb n="23" facs="0012_003086_000201_0023.jpg" xml:id="d3e565"/>
+            <p>Apr 6 Sunday</p>
+            <p>Boys &amp; dogs all had a good rest. Mr. K. started off early hunting. We had service
+          &amp; lunch and the boys went in several directions hunting all after noon. Arch d. walked
+          over the hill to near the willow cahce. Mr. K. snow shoed a trail over. Had dinner at 8
+          p.m.</p>
+            <pb n="24" facs="0012_003086_000201_0024.jpg" xml:id="d3e573"/>
+            <p>Apr 7 Monday.</p>
+            <p>Boys <unclear reason="illegible" resp="SS">too</unclear> first load over to W Willow
+          cache. <unclear reason="illegible" resp="SS">Ad Stid</unclear> accompanyed them and took
+            <unclear reason="illegible" resp="SS">axe</unclear> to <unclear reason="illegible" resp="SS">mipoint</unclear> trail but was not needed. They cached their <unclear reason="illegible" resp="SS">load</unclear> on the cache that Lyod built in 1810. They
+          returned in after noon Mr K <unclear reason="illegible" resp="SS">fried</unclear> snow
+          shoes.</p>
+            <pb n="25" facs="0012_003086_000201_0025.jpg" xml:id="d3e600"/>
+            <p>Apr. 8 Tuesday</p>
+            <p>Boys cut wood preparaton for removal tomorrow Mr. K <del type="overstrike" hand="rgt">cut</del> fixed snow shoes. <del type="overstrike" hand="rgt">boys</del> we all sang
+          old songs I made bread. I spilled sour dough and was given the <unclear reason="illegible" resp="SS">now</unclear> &quot;Sourdough Kid&quot;</p>
+            <pb n="26" facs="0012_003086_000201_0026.jpg" xml:id="d3e617"/>
+            <p>Apr 9 Wednesday</p>
+            <p>Mr. K. &amp; Johnnie went forward with a load this morning &amp; left <unclear reason="illegible" resp="SS">Walter &amp; Esias</unclear> behind to finish hauling wood.
+          It was 3 pm before this <del type="overstrike" hand="rgt">prov</del> was finished so we
+          loaded our sleds and moved forward also with the tent etc. Load was top heavy &amp; trail
+          bad. After having passed the willow cache about 1 1/2 mi. we met Mr. K &amp; J returning
+          to meet us. We pitched camp in the willows there. Mr. K had killed a caribou it was quite
+          late before we got to bed but it was a very comfortable camp.</p>
+            <pb n="27" facs="0012_003086_000201_0027.jpg" xml:id="d3e631"/>
+            <p>Apr 18 Thursday</p>
+            <p>
+               <del type="overstrike" hand="rgt">Boys went for load</del> Mr. K &amp; J went ahead to
+          find location for carry. Ad. S. &amp; I broke <unclear reason="illegible" resp="SS">chuip</unclear> &amp; walked ahead Found place for carry at 4000 feet altitude and Ad.
+          S. &amp; Mr K pitcher while John &amp; I returned to former camp &amp; brought a load.
+          Boys want to <del type="overstrike" hand="rgt">wel</del> clear water carry for load of
+          wood this morning and got in to new <unclear reason="illegible" resp="SS">bose
+            sanp</unclear> &amp;Johnnie&apos;s home&quot; about supper time. Low &amp; uncomfortable
+          camp.</p>
+            <pb n="28" facs="0012_003086_000201_0028.jpg" xml:id="d3e650"/>
+            <p>Apr 11 Friday</p>
+            <p>Boys went for load of wood at Clear water Mr K worked on creepers &amp; snowshoes. Mr K
+          &amp; I went on hill after the caribou he killed. Returned late &amp; had supper. Boys
+          returned with <unclear reason="illegible" resp="SS">neros</unclear> that <unclear reason="illegible" resp="SS">then were Qudrans</unclear> that had followed us from
+          Diamond &amp; told of their <unclear reason="illegible" resp="SS">evond</unclear>. Boys
+          went to bed early. I wrote some letters, one to Rosa &amp; Roy</p>
+            <p>Thought of <unclear reason="illegible" resp="SS">Bfa</unclear> a great deal.</p>
+            <pb n="29" facs="0012_003086_000201_0029.jpg" xml:id="d3e672"/>
+            <p>Apr. 12 Saturday</p>
+            <p>Boys went for load of wood at Clearwater early. Mr K worked on creepers and I did some
+          cooking The <unclear reason="illegible" resp="SS">Minchuanmine Indide caine</unclear>
+          about noon. Ad. S. baptised John <unclear reason="illegible" resp="SS">baby</unclear> and
+          immediately married him to <unclear reason="illegible" resp="SS">Abhie</unclear> There was
+          also another John with them Boys returned &amp; Indians returned to their camp on the
+          clear water just where ours was. They promised to come back on Sunday Boys returned for
+          another load at 9 p.m. We expect them back for breakfast. <del type="overstrike" hand="rgt">S</del> I wrote to Mildred &amp; <unclear reason="illegible" resp="SS">Bob</unclear> &amp; Mr. W.illiams.</p>
+            <pb n="30" facs="0012_003086_000201_0030.jpg" xml:id="d3e695"/>
+            <p>Apr 13 Sunday</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Johnnis</unclear> &amp; Esias returned with their
+          loads of wood about 9 am. Walter went on this hill to hunt and returned with word that he
+          had killed a sheep. Fired eight shots. Did not clean the sheep. Had Service in the evening
+          late The Indians did not return to our camp.</p>
+            <p>
+               <del type="overstrike" hand="rgt">wife</del>
+            </p>
+            <pb n="31" facs="0012_003086_000201_0031.jpg" xml:id="d3e708"/>
+            <p>Apr 14 Monday</p>
+            <p>Walter said ahead of caribou and Mr K Esias &amp; Walter went for them Esias killed three
+          and said that he wounded several. <del type="overstrike" hand="rgt">They hauled</del>
+          Mr. K. cleaned them <del type="overstrike" hand="rgt">over</del> this after nowon one
+          Johnnie &amp; I went down after the sheep that Walter killed. Returned about 6 p.m. and
+          had supper.</p>
+            <pb n="32" facs="0012_003086_000201_0032.jpg" xml:id="d3e722"/>
+            <p>Apr 15 Tuesday</p>
+            <p>Boys with Ad. S <unclear reason="illegible" resp="SS">tuck</unclear> went over to the
+          cache on the Muldrow Glacier and with a load Esias saw the Glacier and they returned for
+          lunch. <del type="overstrike" hand="rgt">
+                  <unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="SS">Ahe</unclear>
+               </del> and <del type="overstrike" hand="rgt">split <unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="SS">wood</unclear>
+               </del>
+               <unclear reason="illegible" resp="SS">hauled</unclear> willows this afternoon. Esias will
+          leave for Nenana <del type="overstrike" hand="rgt">it</del> in the morning. We boiled
+          some meat &amp; made pemmican balls by cutting it up in bitts and adding salt &amp; pepper
+          and melted butter to make it <unclear reason="illegible" resp="SS">heasive</unclear>
+            </p>
+            <pb n="33" facs="0012_003086_000201_0033.jpg" xml:id="d3e749"/>
+            <p>Apr 16 Wednesday</p>
+            <p>Up Early Esias made ready while boys split wood. And left about 9 am with mail <unclear reason="illegible" resp="SS">ite</unclear> expecting to reach his destination in four or
+          five days and <del type="overstrike" hand="rgt">of</del> I gave him <unclear reason="illegible" resp="SS">gruh</unclear> accorting by. Boys took load to Glacier
+          carry and Mr. K &amp; I <unclear reason="illegible" resp="SS">burpeaterly</unclear> the
+          glacier some four miles. found ice mound that close by resembled a tent and in approaching
+          it crossed our first wide crevass. Could not <unclear reason="illegible" resp="SS">satie</unclear> by ourselves as to <unclear reason="illegible" resp="SS">wheatter</unclear> it was the tent covered with ice <unclear reason="illegible" resp="SS">tv not</unclear>Mr K <unclear reason="illegible" resp="SS">wust</unclear>
+          bothered him dreadfully returned late</p>
+            <pb n="34" facs="0012_003086_000201_0034.jpg" xml:id="d3e783"/>
+            <p>Apr 17 Thursday</p>
+            <p>Got up late as we did not get to bed very early <del type="overstrike" hand="rgt">the</del> last night Mr. K <unclear reason="illegible" resp="SS">wust</unclear> hurt
+          very much. I boiled meat and made pemmican balls and five snow shoes &amp; <unclear reason="illegible" resp="SS">crupen</unclear>. repacked sacks and made ready to move
+          carry tomorrow.</p>
+            <pb n="35" facs="0012_003086_000201_0035.jpg" xml:id="d3e800"/>
+            <p>Apr 18 Friday</p>
+            <p>Rose early this morning and packed sleds to move to the camp on the Glacier. Took both
+          teams and followed our old trail over the summit at the head of Cache Creek, and up the
+          glacier then prospected a trail until we reached some large crevasses. We turned back and
+          came down the steep slope &amp; pitched camp opposite two hanging glaciers at an altitute
+          of 7600 feet as nearly as can be estimated by the <unclear reason="illegible" resp="SS">aniroyd</unclear>. This camp we judge to be some 5 or 6 miles from on <unclear reason="illegible" resp="SS">bose</unclear>carry on Cache Creek</p>
+            <pb n="36" facs="0012_003086_000201_0036.jpg" xml:id="d3e814"/>
+            <p>Apr 19 Saturday</p>
+            <p>Boys returned for a load of wood last night while Mr K &amp; <unclear reason="illegible" resp="SS">J</unclear> pitched camp. The boys returned today after freight made 2 trips
+          while <del type="overstrike" hand="rgt">we</del>Mr K Ads. &amp; I prospected a trail
+          Ad.S. through his desire to display his knowledge &amp; <unclear reason="illegible" resp="SS">authortory</unclear> which he bid not happen to <unclear reason="illegible" resp="SS">hove</unclear> that <unclear reason="illegible" resp="SS">treid <del type="overstrike" hand="rgt">wen</del>
+               </unclear> took Mr K place &amp; lost our
+            <unclear reason="illegible" resp="SS">fuly</unclear> good pole.</p>
+            <p>We returned to carry &amp; Mr K took ridge pole &amp; <unclear reason="illegible" resp="SS">trind</unclear> it down to <unclear reason="illegible" resp="SS">sound</unclear> with.</p>
+            <pb n="37" facs="0012_003086_000201_0037.jpg" xml:id="d3e851"/>
+            <p>Apr 20 Sunday</p>
+            <p>Boys continued to have wood and freight Ad.<unclear reason="illegible" resp="SS">stuck</unclear> Mr. K. &amp; J prospected up the glacier to an altitude of 9000 feet
+          returned by <unclear reason="illegible" resp="SS">six</unclear> pm. had service and
+          retired tired &amp; sleepy.</p>
+            <p>Have been thinking of Home, <unclear reason="illegible" resp="SS">MA Bah</unclear> a
+          great deal the last few days.</p>
+            <pb n="38" facs="0012_003086_000201_0038.jpg" xml:id="d3e870"/>
+            <p>Apr 21 Monday</p>
+            <p>Mr. K suddenly seized in growing whiskers. I picked <unclear reason="illegible" resp="SS">there nit aid</unclear> My stomach bring out of order because <unclear reason="illegible" resp="SS">nansiated</unclear> &amp; woozy and in the after noon Mr K
+          was sick. Stomach out of order &amp; eyes hurt very badly spent the day in <unclear reason="illegible" resp="SS">eainp.</unclear>
+            </p>
+            <p>Walter went to <unclear reason="illegible" resp="SS">base</unclear> camp &amp; did not
+          return until night.</p>
+            <pb n="39" facs="0012_003086_000201_0039.jpg" xml:id="d3e891"/>
+            <p>Apr 22 Tuesday</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Elondey</unclear> Walter had first <unclear reason="illegible" resp="SS">4 penci ec</unclear> on the rope crossing crevasses did not
+          go as far as we went last Sunday. Very soft day. Snow bridges were very <unclear reason="illegible" resp="SS">werk</unclear>.</p>
+            <pb n="40" facs="0012_003086_000201_0040.jpg" xml:id="d3e907"/>
+            <p>Apr 23 Wednesday</p>
+            <p>Got up at 3<emph>15</emph>p.m. were <unclear reason="illegible" resp="SS">pante</unclear> delayed by thermos bottles etc and left at 730 a.m. followed old trail
+          to <unclear reason="illegible" resp="SS">to</unclear> end and ventured on to 10300 feet.
+          Grew very cold had had some large crevasses. Got good view from that point of <unclear reason="illegible" resp="SS">Parkins Call</unclear> camp also where we might pitch ours.
+          Walter went with us. We built <del type="overstrike" hand="rgt">quite</del> a snow
+          bridge over a crevass 15 ft wide and bottom-less on the sides of a snow mound over which
+          we built the bridge.</p>
+            <pb n="41" facs="0012_003086_000201_0041.jpg" xml:id="d3e930"/>
+            <p>Apr 24 Thursday</p>
+            <p>Walter went down to base camp last night and returned this <unclear reason="illegible" resp="SS">mon</unclear> with Johnnie with two loads of wood. and went back to to the
+          glacier cache for another load. Have been thinking of Kenneth a great deal today. Returned
+          at Supper time and we after-words had a lecture from Ad.S. on the &quot;<unclear reason="illegible" resp="SS">Mercurial beromater</unclear>&quot; discovered by <del type="overstrike" hand="rgt">use</del> by &quot;<unclear reason="illegible" resp="SS">Torri Chelli</unclear>&quot; (Tony Chily) an Italian we laid <unclear reason="illegible" resp="SS">over</unclear> all day on account of cloudy weather</p>
+            <pb n="42" facs="0012_003086_000201_0042.jpg" xml:id="d3e953"/>
+            <p>Apr. 25 Friday</p>
+            <p>Up at 3<emph>15</emph> a.m. J. had kicked over the <unclear reason="illegible" resp="SS">synp</unclear> during the night Left camp at 700 a.m. and reached 11500 ft.
+          point which is at the pass at the head of Muldrow, also at the Burgshrund. at 3<emph>00</emph> p.m. could not find Parker&apos;s or Loyds cache. We then returned to
+          camp in 3 hours taking it slowly.</p>
+            <p>Saw a rabbit track at 8000 ft. and a <unclear reason="illegible" resp="SS">laring</unclear> an at 10000 feet. The try today was the highest I have ever</p>
+            <pb n="43" facs="0012_003086_000201_0043.jpg" xml:id="d3e975"/>
+            <p>been. Was 10,000 feet in the Rockies at <unclear reason="illegible" resp="SS">Leadsville</unclear> on my way to Alaska. J. cooked supper &amp; cleaned tent today
+          beside hauling a great deal of wood. While we were up at 11500 it was bright &amp; clear
+          and very cloudy here at camp. Has snowed 2 inches today. J is now cooking supper. The plan
+          is to haul wood tomorrow.</p>
+            <p>One year ago today the ice went out of the Tanana. It being St Mark&apos;s day we had
+          games etc.</p>
+            <p/>
+            <pb n="44" facs="0012_003086_000201_0044.jpg" xml:id="d3e987"/>
+            <p>Saturday</p>
+            <p>Apr 26</p>
+            <p>Left camp late today with two loads of wood. J &amp; Mr. K managed one sled &amp; Walter
+          &amp; <unclear reason="illegible" resp="SS">I</unclear> the other three <emph>dogs</emph> free <unclear reason="illegible" resp="SS">thro.</unclear> repared wall on
+          our return. Ad. S. stayed at home cooked supper and cleaned camp. I have been thinking of
+          home &amp; mother all day. We expect to take another load tomorrow early. This was
+          J&apos;s first trip over crevasses</p>
+            <pb n="45" facs="0012_003086_000201_0045.jpg" xml:id="d3e1007"/>
+            <p>Apr 27 Sunday</p>
+            <p>Arose at five oclock and left at 7<emph>30</emph> a.m. with two loads for our cache
+          at 9000 feet. Ad. S. stayed here at camp We returned for lunch and stayed in camp all
+          afternoon.</p>
+            <p>Had service about six p.m. Ad. S. spoke of Rogation Sunday Also the three R. days and
+          Holy Thursday also told me of &quot;St. Mark&quot; The symbols of the <del type="overstrike" hand="rgt">three</del> 4 Evanglist are The winged lion for St Mark
+          because of the decendent of <unclear reason="illegible" resp="SS">Celust</unclear>. The
+          Eagle for St. John</p>
+            <pb n="46" facs="0012_003086_000201_0046.jpg" xml:id="d3e1026"/>
+            <p>because he <unclear reason="illegible" resp="SS">sors</unclear> so <unclear reason="illegible" resp="SS">lofty</unclear>
+               <emph>&amp;</emph> the man for St. Matthew because he hears <unclear reason="illegible" resp="SS">tw</unclear> the <del type="overstrike" hand="rgt">human</del> humanity &amp; Christ.</p>
+            <pb n="47" facs="0012_003086_000201_0047.jpg" xml:id="d3e1046"/>
+            <p>Apr 28 Monday</p>
+            <p>Arch d. went to the cache with Mr K &amp; the <unclear reason="illegible" resp="SS">boy
+            smuh of</unclear> loads I stayed in camp &amp; cleaned thoroughly took a bath I was in
+            <unclear reason="illegible" resp="SS">dairy</unclear> all day. Boys went down to base
+          camp to day for rabbit skins and will return tomorrow.</p>
+            <p>Fair weather.</p>
+            <pb n="48" facs="0012_003086_000201_0048.jpg" xml:id="d3e1062"/>
+            <p>Apr 29 Tuesday</p>
+            <p>I arose at 500 Got breakfast, will <unclear reason="illegible" resp="SS">stair</unclear>
+          in <unclear reason="illegible" resp="SS">gailip</unclear> today. Expect boys back tonight.
+          Ad.S. <unclear reason="illegible" resp="SS">Mr. Kaistins</unclear> and I prospected for
+          camp at bend of Glacier that Loyds party left but found nothing. I used prysmatic compass
+          today and from Camp looking to Glacier pass. 19° Highest <del type="overstrike" hand="rgt">pointtor</del> point on 2nd peak - east 60 Highest point on 3rd pk. 358°
+          Fourth peak 350° Fifth peak 344° Lower point on black rock under hanging glacier
+          364°</p>
+            <pb n="49" facs="0012_003086_000201_0049.jpg" xml:id="d3e1082"/>
+            <p>North peak of &quot;Danile&quot; 188° Boys returned. No rabbits.</p>
+            <pb n="50" facs="0012_003086_000201_0050.jpg" xml:id="d3e1088"/>
+            <p>Apr. 30 Wednesday.</p>
+            <p>Arose early had bright day and we all went with two load to 11500 <unclear reason="illegible" resp="SS">fue-</unclear> where our camp is to <unclear reason="illegible" resp="SS">bur</unclear> before we returned The snow begun to fall and
+          and we reached camp by 7 p.m. Got to bed late. This was <unclear reason="illegible" resp="SS">Jonnies fist</unclear> high <unclear reason="illegible" resp="SS">chuming</unclear>
+            </p>
+            <pb n="51" facs="0012_003086_000201_0051.jpg" xml:id="d3e1107"/>
+            <p>
+               <del type="overstrike" hand="rgt">Ap</del> May 1st 1913</p>
+            <p>arose early, broke camp. Was <unclear reason="illegible" resp="SS">siriowly</unclear> all
+          day and still is only <unclear reason="illegible" resp="SS">nach</unclear>
+               <del type="overstrike" hand="rgt">camp</del> on cache with the load had 5 inches of
+          snow last night I had ascention to day service This evening after supper. Expect to move
+          carry <unclear reason="illegible" resp="SS">ho</unclear> the morning to 115 <unclear reason="illegible" resp="SS">orf</unclear> which will be our climbing <unclear reason="illegible" resp="SS">bose vor</unclear> will have <del type="overstrike" hand="rgt">moved</del> hauled wood 20 mi <unclear reason="illegible" resp="SS">Stove
+            burn</unclear> rather homesick today</p>
+            <pb n="52" facs="0012_003086_000201_0052.jpg" xml:id="d3e1141"/>
+            <p>Friday</p>
+            <p>May 2nd 1913. <del type="overstrike" hand="rgt">Wednes</del>
+            </p>
+            <p>We did not move camp this morning at my suggestion. I wanted to relay all freight and
+          then move camp last This was agreed to by all concerned. I stayed in camp. And dried up
+            <unclear reason="illegible" resp="SS">canvis</unclear> &amp; cleaned every thing. Had
+          lunch ready at 1<emph>30</emph> where they returned I stayed in camp this after noon
+          fixed things up had a bath &amp; evening service. All returned</p>
+            <pb n="53" facs="0012_003086_000201_0053.jpg" xml:id="d3e1159"/>
+            <p>about 620 with news. That our cache had burned up a match had ignighted some canvis. The
+          thing was <unclear reason="illegible" resp="SS">cored</unclear>. Two of Mr. <unclear reason="illegible" resp="SS">Bettichers war Pogs</unclear> were <unclear reason="illegible" resp="SS">fumed continy Sox Philins fur parka</unclear> tobacco and
+          other invaluable clothing. Also a box contaning milk <del type="overstrike" hand="rgt">butter</del> baking powder soap etc. worst of all was the three silk tents. -
+          sugar.</p>
+            <p>We expect to move camp in the morning first thing then return for remaining freight.</p>
+            <pb n="54" facs="0012_003086_000201_0054.jpg" xml:id="d3e1179"/>
+            <p>Saturday</p>
+            <p>
+               <emph>May 3</emph>
+            </p>
+            <p>Up early broke camp and moved camp to 11500 feet. Worked all afternoon, built a igloo for
+          a cache pitched tent and built a snow wall all around it. Fixed tent very comfortably.</p>
+            <pb n="55" facs="0012_003086_000201_0055.jpg" xml:id="d3e1190"/>
+            <p>May 4 Sunday</p>
+            <p>It was very cold last night. We were up at five this morning Had service at 900 a.m.
+          Ad.S. &amp; I with the boys <del type="overstrike" hand="rgt">went</del> went after the
+          last cache arrived here at 9 p.m. boys returned to <unclear reason="illegible" resp="SS">bose</unclear> camp and we had <del type="overstrike" hand="rgt">rocked</del> meat
+          roll. &quot;all same <unclear reason="illegible" resp="SS">jellu</unclear> roll&quot;</p>
+            <pb n="56" facs="0012_003086_000201_0056.jpg" xml:id="d3e1211"/>
+            <p>Monday</p>
+            <p>May 5</p>
+            <p>I read awhile Mr. K stayed in camp Arch deacon &amp; I went up the ridge and could see
+          far down the <unclear reason="illegible" resp="SS">savage</unclear> walls into another
+          glacier. We returned to camp and boys returned late from <unclear reason="illegible" resp="SS">bose</unclear> camp with news that there was 5 inches of snow They returned
+          also with some provisions etc. which we hope will see us through.</p>
+            <pb n="57" facs="0012_003086_000201_0057.jpg" xml:id="d3e1227"/>
+            <p>May 6 Tuesday</p>
+            <p>We have all <unclear reason="illegible" resp="SS">bern</unclear> trying to <unclear reason="illegible" resp="SS">replase</unclear> things that were lost by fire.</p>
+            <p>Walter &amp; Johnnie went up the ridge to 1200 ft. returned and arranged provisions to
+          pack to the upper camp. Walter &amp; Mr. K. made a small tent to replace the burned one. J
+          &amp; Ad. S. made socks of a camel hare blanket to replace burned socks &amp; I made
+          biscuits to replace The <unclear reason="illegible" resp="SS">Lord tack.</unclear> also
+          dried there.</p>
+            <pb n="58" facs="0012_003086_000201_0058.jpg" xml:id="d3e1246"/>
+            <p>Wednesday</p>
+            <p>May 7</p>
+            <p>Mr. K. Walter &amp; John stayed in camp today and finished our 6 x 7 ft tent which we
+          will take us to the <unclear reason="illegible" resp="SS">coll</unclear>. They also cut
+          out a 4 x 5 <unclear reason="illegible" resp="SS">py rumd</unclear> tent which we will
+          take to the top to set the <unclear reason="illegible" resp="SS">Myseurial
+            baromiter</unclear> up <del type="overstrike" hand="rgt">and</del> under to <del type="overstrike" hand="rgt">shelter</del> shelter. Archd. &amp; I went up the ridge
+          to prospect a trail but did not <del type="overstrike" hand="rgt">siceed</del> succeed.
+          We returned by three p.m. &amp; then we</p>
+            <pb n="59" facs="0012_003086_000201_0059.jpg" xml:id="d3e1275"/>
+            <p>worked on the tents serving it up. We find it very hard to sleep up here on account of
+          the altitude- the thin air</p>
+            <p>We saw one of the grandest most magnificent <del type="overstrike" hand="rgt">avaland</del> avalanches I have ever seen. Some 500 feet of ice carved from the great
+          hanging glacier and threw dense clouds 1000 or more feet in the air.</p>
+            <p/>
+            <pb n="60" facs="0012_003086_000201_0060.jpg" xml:id="d3e1287"/>
+            <p>May 8 Thursday</p>
+            <p>Mr. K. Walter &amp; John journeyed up the ridge today prospecting a trail we have watched
+            <unclear reason="illegible" resp="SS">oher</unclear> most of the day and when our lost
+          sight of them for some time we became worried but suddenly saw them appear on one of the
+          lower slope Arch deacon and I stayed in today and talked all day He told me of St Timothys
+          &amp; we disgussed every thing &amp; every body He <unclear reason="illegible" resp="SS">aggres</unclear> with me</p>
+            <pb n="61" facs="0012_003086_000201_0061.jpg" xml:id="d3e1301"/>
+            <p>that I work on the survey party <del type="overstrike" hand="rgt">there</del> this
+          summer &amp; I may go across country to <unclear reason="illegible" resp="SS">Fhks.</unclear> with Mr. KK. <del type="overstrike">so</del> that I may see <del type="overstrike" hand="rgt">Mr Thom</del> Mr. Thom. as soon as he comes. Then next
+          winter I hope to <del type="overstrike">stay</del> stay in Fairbanks and read read read
+          Arch d. is going to either write or see Mr. B. He will also talk with Bishop <unclear reason="illegible" resp="SS">Pows</unclear> I hope to order lots of books also.</p>
+            <p>Victoria Waterfalls on the <unclear reason="illegible" resp="SS">Zembezia</unclear> River
+          in Africa- is the <unclear reason="illegible" resp="SS">quateel Runon</unclear> in the
+          world.</p>
+            <pb n="62" facs="0012_003086_000201_0062.jpg" xml:id="d3e1334"/>
+            <p>
+               <emph>Friday</emph>
+            </p>
+            <p>
+               <emph>May 9</emph>
+            </p>
+            <p>Arch d. and I went down beyond the crevasses with John as he returned today to the base
+          camp with the dogs. He forgot to take the <unclear reason="illegible" resp="SS">peak cry
+            Rinje</unclear> fork &amp; spoons. We are all awaiting some interesting reports. We had
+          a very tiresome try up the glacier but nothing less can be expected on a <unclear reason="illegible" resp="SS">chine</unclear> of <unclear reason="illegible" resp="SS">21000</unclear> feet. Mr. K &amp; Walter took a pack up the ridge and prospected the
+          ridge further on They find travling very difficult on</p>
+            <pb n="63" facs="0012_003086_000201_0063.jpg" xml:id="d3e1355"/>
+            <p>accont of ice block and snow <unclear reason="illegible" resp="SS">cornices</unclear> We
+          all expect to pack something more in the line of <unclear reason="illegible" resp="SS">grub</unclear> or rather relaying the things to the top of the <unclear reason="illegible" resp="SS">rudy</unclear> then prospect further To the <unclear reason="illegible" resp="SS">Parker Call.</unclear>
+            </p>
+            <p>Armarego Vespuchi discovered South America and was called &quot;Armarego Land&quot; and
+          it was corrupted to America and gradually <unclear reason="illegible" resp="SS">apud</unclear> to North America</p>
+            <pb n="64" facs="0012_003086_000201_0064.jpg" xml:id="d3e1377"/>
+            <p>Saturday</p>
+            <p>May 10</p>
+            <p>A gale blew last night and no one but Walter could sleep. It blew all day lulling at
+            <unclear reason="illegible" resp="SS">Tinies</unclear> but we could not move forward.
+          Mr. K. made an alcohol lamp by perferating the lid of a screw top saw with needle holes
+          and filling the lower <del type="overstrike" hand="rgt">p</del> bowl with <unclear reason="illegible" resp="SS">satn roled</unclear> cotton I read &amp; studdied
+          Shake-speare - King Henry Fourth Part I. Had service -</p>
+            <pb n="65" facs="0012_003086_000201_0065.jpg" xml:id="d3e1396"/>
+            <p>as we expect to <del type="overstrike" hand="rgt">t</del> move forward tomorrow.</p>
+            <p/>
+            <pb n="66" facs="0012_003086_000201_0066.jpg" xml:id="d3e1406"/>
+            <p>May 11 Sunday</p>
+            <p>It has been very cloudy today we four traversed the ridge making good headway packed some
+          30 pounds a piece which was all we really cared to pack. Made a cache on the side of the
+          great <unclear reason="illegible" resp="SS">gable</unclear> of snow &amp; ice. We suppose
+          the ridge to have been so shattered by the earth quakes last June 6th It is now cloudy
+          &amp; snowing hard. <unclear reason="illegible" resp="SS">Qt</unclear> it be clear
+          tomorrow we expect to take another pack of <unclear reason="illegible" resp="SS">lrmb -
+            stovr</unclear>
+            </p>
+            <pb n="67" facs="0012_003086_000201_0067.jpg" xml:id="d3e1423"/>
+            <p>etc. and make it to the Call <unclear reason="illegible" resp="SS">ift</unclear> possible
+          we have some very difficult climbing ahead especially if this snow keeps up. Mr. K has
+          decided not to go cross country to <unclear reason="illegible" resp="SS">Fanhouse</unclear> so expects to go with us to Tanana If I do not catch a boat I will
+          return to <unclear reason="illegible" resp="SS">Fbks</unclear> with Mr K. probably stay at
+          Nenana a day. Mr. K. cut some drifted snow away from a huge block</p>
+            <p>
+               <emph>Culinary Arts</emph>
+            </p>
+            <p>
+               <emph>Is the art of Cooking</emph>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">of honey coned</unclear> ice some 10 x 15 x 25
+          feet. I tumbled down 1000&apos; of feet brow us in to the glacier</p>
+            <pb n="68" facs="0012_003086_000201_0068.jpg" xml:id="d3e1448"/>
+            <p>Monday</p>
+            <p>May 12.</p>
+            <p>Went on to the ridge today and took a look beyond the gable. It has been very heavily
+          clouded and has snowed some six inches. Much to our sorrow. We do not expect to advance
+          tomorrow on account of avalanching Snow, but hope it will clear off We returned to camp by
+          noon, had lunch and stayed in camp all day and we&apos;ll have to to the same tomorrow</p>
+            <pb n="69" facs="0012_003086_000201_0069.jpg" xml:id="d3e1458"/>
+            <p>The yellow glosses <del type="overstrike" hand="rgt">obstruct</del> obstruct the ultar
+          violent rays of the sun and and there fore protect the eye</p>
+            <pb n="70" facs="0012_003086_000201_0070.jpg" xml:id="d3e1467"/>
+            <p>Tuesday</p>
+            <p>May 13</p>
+            <p>Still cloudy and snowing- about 3 inches has fallen today and we will be unable to move
+          forward tomorrow. Up to the present date we have been delayed some eight days. 2 on
+          account of first heavy snow at our first glacier camp- 3 on account of fire and three so
+            <unclear reason="illegible" resp="SS">fort</unclear> on account of this snow. If no snow
+          falls tomorrow we may expect to advance the next day.</p>
+            <pb n="71" facs="0012_003086_000201_0071.jpg" xml:id="d3e1480"/>
+            <p>I have studied King Henry IV today and read my Testament. Walter had dictation Mr. K. is
+          working on plans of his boat &quot;The <unclear reason="illegible" resp="SS">Thawer</unclear>&quot;</p>
+            <pb n="72" facs="0012_003086_000201_0072.jpg" xml:id="d3e1489"/>
+            <p>Wednesday.</p>
+            <p>May 14</p>
+            <p>We rose at five this morning in order <del type="overstrike" hand="rgt">if</del> to
+          have the heat from the stove before the sun rose. I have suffered with a canker sore in
+          the right side of my jaw today. Have had <del type="overstrike" hand="rgt">s</del> some
+          sun but still cloudy We dried all the <unclear reason="illegible" resp="SS">comieses</unclear> and skins &amp; bedding in the sun and I studied King H IV We hope
+          to move on tomorrow if the weather is aggreable</p>
+            <pb n="73" facs="0012_003086_000201_0073.jpg" xml:id="d3e1508"/>
+            <p>May <emph>15</emph> Thursday</p>
+            <p>I have <unclear reason="illegible" resp="SS">burn</unclear> indisposed today with
+          Tonsilydas have felt misserable Walter Arch d. &amp; Mr K broke trail up the rodge we hope
+          to all go tomorrow A.d. &amp; <unclear reason="illegible" resp="SS">J</unclear>. relay us
+          the ridge Mr. K &amp; Walter brake trail further on I have thought a great deal of
+            <unclear reason="illegible" resp="SS">Ren.</unclear> &amp; <unclear reason="illegible" resp="SS">Bertha</unclear> today also Mildred and the home folks. It has been very clear
+          today &amp; I took a <unclear reason="illegible" resp="SS">roms to angles</unclear> at
+          noon <emph>over.</emph>
+            </p>
+            <pb n="74" facs="0012_003086_000201_0074.jpg" xml:id="d3e1537"/>
+            <p>Reading of Prysmatic compass from our glacier camp at head of the Muldrow</p>
+            <p>The Sun at 12<emph>15</emph>p.m. 150°</p>
+            <p>Top of parker Cal 163°</p>
+            <p>Highest point of first ridge west of Parker Cal } 205°</p>
+            <p>Highest point of Second ridge west of P.C. } 239°</p>
+            <p>Mid point of upper most tributary glacier } 285 °</p>
+            <p>Mid point of lower most tributary glacier } 310^°</p>
+            <p>Mid point of Muldrow <unclear reason="illegible" resp="SS">Ga</unclear> - 348°</p>
+            <p>Highest point of ice ridge on east <unclear reason="illegible" resp="SS">Loundry</unclear> } 15°</p>
+            <p>Lowest point of North east ridge } 102°</p>
+            <p>Our camp faces 348° with the glacier.</p>
+            <pb n="75" facs="0012_003086_000201_0075.jpg" xml:id="d3e1573"/>
+            <p>Friday</p>
+            <p>May 16.</p>
+            <p>I Stayed in camp today. Did not sleep most of the night on account of <unclear reason="illegible" resp="SS">neuralgia</unclear> on the right side of my face. Hope to
+            <unclear reason="illegible" resp="SS">elnub</unclear> again tomorrow I slept a little
+          this afternoon but have felt misserable all day. Had supper ready <unclear reason="illegible" resp="SS">by pinst</unclear> their return. I have a little <unclear reason="illegible" resp="SS">neuritos</unclear> in my right shoulder <unclear reason="illegible" resp="SS">torn it</unclear> also. Archd. M K &amp; W advanced today
+          and their trail now ends at 13000 feet. Have had a strong wind today</p>
+            <pb n="76" facs="0012_003086_000201_0076.jpg" xml:id="d3e1598"/>
+            <p>Beautiful day.</p>
+            <p>Saturday</p>
+            <p>May 17</p>
+            <p>Archdeacon is staying in camp with me today to help me to recover &amp; Mr. K &amp; W.
+          have gone up the ridge. I expect to go tomorrow. Archd complemented me on my work done on
+          this trip. His plan is for me to work this summer &amp; go to the states next winter and
+          have a private tutor from the U.T. for 2 yrs. and enter some <unclear reason="illegible" resp="SS">ruwert</unclear> Mr. K &amp; W. returned at noon ridge too dangerous or it was
+          cloudy</p>
+            <pb n="77" facs="0012_003086_000201_0077.jpg" xml:id="d3e1613"/>
+            <p>May 18 Sunday</p>
+            <p>Cloudy &amp; snowing all day. We all had to stay in camp today and I have sufferd severly
+          with a headache. Took some <unclear reason="illegible" resp="SS">fenastine</unclear> for
+          the first time. The beromiter is still at its lowest some very large avalanches fell and
+          threw clouds 1000s of feet in the air Had service this morning and went to bed early
+          tonight</p>
+            <pb n="78" facs="0012_003086_000201_0078.jpg" xml:id="d3e1625"/>
+            <p>May 19 Monday</p>
+            <p>I stayed in bed 12 1/2 hours. had breakfast at 1000 a.m. I am feeling better today. All
+          over east &amp; snowing heavilty. The beromiter is slightly rising and we are in hopes we
+          can move forward tomorrow. I finished King Henvry IV Part II this morning. The wood is
+          getting very low. and we are limited to 6 sticks per day and but small ones</p>
+            <pb n="79" facs="0012_003086_000201_0079.jpg" xml:id="d3e1633"/>
+            <p>May 20 Tuesday</p>
+            <p>There are 3 devisions of the Church - The Church</p>
+            <p>Militant, Fight - &quot; &quot; [The Church][</p>
+            <p>Expectant, Waiting - &quot; &quot; [The Church]</p>
+            <p>Triumphant, heaven - &quot; &quot; [The Church]</p>
+            <p>King Edward VII isnow King of England Succeeded Queen Victoria in 1901 The Year of
+          Inauguration of Theodore Roosevelt.</p>
+            <p>Still cloudy all day and we have all been in camp. I have studied the prayer book It
+          cleared off this evening and we hope to move forward tomorrow.</p>
+            <note type="transcription">The following text was crossed out by the author.</note>
+            <p>The office of Morning Prayer</p>
+            <p>The office of Evening Prayer</p>
+            <p>The <unclear reason="illegible" resp="SS">Litiny Sufferng is</unclear>
+            </p>
+            <p>The Penatential office</p>
+            <p>Holy Communion</p>
+            <p>Baptism of Infants</p>
+            <p>Baptism of Those <unclear reason="illegible" resp="SS">of Riser (yfors.)</unclear>
+            </p>
+            <p>Confirmation</p>
+            <p>Solemozation of Matrimony</p>
+            <p>Visitation of the Sick</p>
+            <p>Bearial of the Dead</p>
+            <p>Morning Family Prayer</p>
+            <p>Evening Family Prayer</p>
+            <p>Making of Deacons</p>
+            <p>Ordaining of Priest</p>
+            <p>Consecrating of Bishops.</p>
+            <p>
+               <del type="overstrike" hand="rgt">The office of</del> The consecration of a
+          church.</p>
+            <p>The office of Insitution of</p>
+            <note type="transcription">The preceding text was crossed out by the author.</note>
+            <note type="transcription">The following text was written sideways in the margins of the
+          page.</note>
+            <p>Aug 20 19</p>
+            <p>
+               <unclear reason="illegible" resp="SS">6</unclear> - 15 - 1912</p>
+            <p>
+               <emph>5 - 22 - 1890</emph>
+            </p>
+            <p>23 - 22</p>
+            <p>8 20 1913</p>
+            <p>8 20 1891</p>
+            <p>22</p>
+            <p>5 - 22 - 1913</p>
+            <p>
+               <emph>5 22 1890</emph>
+            </p>
+            <p>23</p>
+            <note type="transcription">The preceding text was written sideways in the margins of the
+          page.</note>
+            <pb n="80" facs="0012_003086_000201_0080.jpg" xml:id="d3e1728"/>
+            <p>
+               <del type="overstrike" hand="rgt">5 22 1890</del>
+            </p>
+            <p>8 20 1891</p>
+            <p>
+               <emph>5 22 1890</emph>
+            </p>
+            <p>2 28 <unclear reason="illegible" resp="SS">&apos;1</unclear>
+            </p>
+            <pb n="81" facs="0012_003086_000201_0081.jpg" xml:id="d3e1744"/>
+            <p>
+               <del type="overstrike" hand="rgt">prustin a Cton</del>
+            </p>
+            <p>May 21 Wednesday</p>
+            <p>Had the first clear day today. Mr. K &amp; W. went up the ridge &amp; Ad. &amp; I stayed
+          in camp. He took exersise where I cooked and fixed my <unclear reason="illegible" resp="SS">mellws</unclear>. Mr. K &amp; W. found the ridge trail entirely invisible and
+          laboured 6 hours reaching our cache they then ventured some further than the end of the
+          former trail and as soon as they reached camp the clouds poured over the ridge and we are
+          now in a <unclear reason="illegible" resp="SS">lenother</unclear> &amp; heavy snow</p>
+            <pb n="82" facs="0012_003086_000201_0082.jpg" xml:id="d3e1761"/>
+            <p>Cloudy Sunshine &amp; Snow</p>
+            <p>May 22 Thursday</p>
+            <p>We have been at this camp for 19 days today all of last week I was sick and feel wretched
+          today. For cloudy today to move forward. Provided the hail holds Mr K &amp; Walter will be
+          able to put it through to the <unclear reason="illegible" resp="SS">Call</unclear> in our
+          day I have thought of <unclear reason="illegible" resp="SS">Kenneth</unclear> much today.
+          Have thought of Mildred today and wish her much happiness on this her 23<emph>rd</emph> birthday. Mildred was born 1890 and is 1 yr. 2 mo &amp; 28 days older than
+          myself and</p>
+            <pb n="83" facs="0012_003086_000201_0083.jpg" xml:id="d3e1780"/>
+            <p>was married June 15, 1911 when she was 21 yrs &amp; 23 days old. They bought their little
+          home June 15, 1912</p>
+            <p>Howard was married to Margaret Fink Dec 1st 1910. She was married first to Mr. Harrington
+          and lived in Siberia. They left the country in the Spring of 1912 Papa arrived Nov. <del type="overstrike" hand="rgt">Sev</del> 7th 1911 at Fairbanks and left June 10, 1912.
+          He arrived at Home just one month later. Mrs. <unclear reason="illegible" resp="SS">Hows</unclear> died July 3<emph>rd</emph> 1912.</p>
+            <p>I have exercised part of the day. Have had a headache today</p>
+            <pb n="84" facs="0012_003086_000201_0084.jpg" xml:id="d3e1799"/>
+            <p>Mr. K &amp; Archd. asked me if I felt that I were able to <unclear reason="illegible" resp="SS">mose</unclear> the top or return to the base camp. I hope to go up if
+          possible.</p>
+            <p/>
+            <pb n="85" facs="0012_003086_000201_0085.jpg" xml:id="d3e1809"/>
+            <p>May Friday 23<emph>rd</emph> 1912</p>
+            <p>Very cloudy &amp; snowing this morning again clearing Archdeacon suggested moving camp to
+          the flat place on the ridge. We packed up every thing each person carrying not less than
+          40 or 45 lbs. We only went <del type="overstrike" hand="rgt">a</del> a short way until
+          I suggested that we could not make it. All agreed. Arch d. realized his limitations and
+          said he could not make it We expect to all <unclear reason="illegible" resp="SS">tail</unclear> up tomorrow Archd. &amp; I pitch camp while the others advance the trail
+          to a higher</p>
+            <pb n="86" facs="0012_003086_000201_0086.jpg" xml:id="d3e1826"/>
+            <p>altitude. We hope to make the <unclear reason="illegible" resp="SS">lale</unclear> now in
+          a few days if we can have some clear weather. We will all take small packs tomorrow I have
+          been thinking of Miss Groves today and we have talked some of my experiences on the trail
+          at the crossing.</p>
+            <p>Any one that thinks climbing Denali is a picnic is <emph>badly
+          mistaking.</emph>
+            </p>
+            <pb n="87" facs="0012_003086_000201_0087.jpg" xml:id="d3e1839"/>
+            <p>May 24<emph>th</emph> Saturday</p>
+            <p>Had a high wind all night Took loads from here <del type="overstrike" hand="rgt">and
+            reached</del> this morning and reached the flat place on the <del type="overstrike" hand="rgt">last</del> ridge about 2 p.m. pitched our small tent digging some three feet
+          in the snow. We <del type="overstrike" hand="rgt">packed</del> moved our cache <del type="overstrike" hand="rgt">up</del> to the tent. And expect to move the bedding up
+          tomorrow. And as it is so clear tonight we hope that we can make the call tomorrow</p>
+            <pb n="88" facs="0012_003086_000201_0088.jpg" xml:id="d3e1862"/>
+            <p>Sunday</p>
+            <p>May 25</p>
+            <p>We left camp this morning with all the bedding 2 caribou skins and other necessities.
+          Reached our ridge camp about 11<emph>30</emph> a.m. Had lunch and Mr. K. &amp; W
+          went up the ridge prospecting a trail they returned about 7<emph>00</emph> p.m. This
+          morning we had service before we left our base camp.</p>
+            <pb n="89" facs="0012_003086_000201_0089.jpg" xml:id="d3e1879"/>
+            <p>May 26th Monday</p>
+            <p>No one slept last night on account of altitude etc. We are very comfortable in our small
+          camp. Walter &amp; I went up the ridge to prospect a trail advanced some distance Mr. K
+          and Arch d. stayed in camp. And had dinner ready when we returned. We are quite tired
+          tonight. Expect to arise at 4<emph>30 in the morning and Rise to make the call
+            tomorrow. And will advance some provisions also</emph>
+            </p>
+            <pb n="90" facs="0012_003086_000201_0090.jpg" xml:id="d3e1889"/>
+            <p>Tuesday</p>
+            <p>May 27th</p>
+            <p>I dreamed last night that we were living at 400 East Main Ave and Papa died. I was
+          sitting in the sitting room &amp; Bertha came &amp; kissed me- or rather it&apos;s
+          equivalent, in my dream- and after that I was alright. I cried also in <del type="overstrike" hand="rgt">y</del> my sleep. Walter said. And I feel very blue and
+          ill at ease today Mr. K &amp; W. have gone up the ridge today and Archd. &amp; I are
+          staying in camp It is rather clear on the ridge today but </p>
+            <pb n="91" facs="0012_003086_000201_0091.jpg" xml:id="d3e1902"/>
+            <p>cloudy on the glacier I am reading Papas letter over today and feel rather homesick Mr. K
+          and W. have reached the smoothe snow slope. and returned to camp about 6<emph>20</emph> p.m. We were glad to see<del type="overstrike" hand="rgt">n</del> them there
+          tho it is very dangerous climbing. They have to make the call tomorrow and dig out a camp
+          Right while Archd. &amp; I relay I rather fear climbing the ridge with A.d. but will as it
+          is my duty.</p>
+            <pb n="92" facs="0012_003086_000201_0092.jpg" xml:id="d3e1914"/>
+            <p>May 28 Wednesday</p>
+            <p>Archd &amp; I expect to relay today up the ridge I feel very blue and <unclear reason="illegible" resp="SS">Glat-case</unclear> also nervous. Mr. K &amp; W. have gone
+          and expect to reach the Call today. I have thought of home a great deal. Archd. &amp; I
+          have just returned from one relay to the Earthquake <unclear reason="illegible" resp="SS">cleverage</unclear> took our sack of Pummican one sack of tea - 1 can butter 1 pack
+          chocolate 2 pkgs raisens and one pack of candied almonds. We had a slow safe</p>
+            <pb n="93" facs="0012_003086_000201_0093.jpg" xml:id="d3e1928"/>
+            <p>trip and hope to make another this afternoon if it clears off. Archd. and I had a long
+          talk this morning about the work &amp; workers. This afternoon just before starting up the
+          ridge I lighted the Premus stove and started to prick it and the pricker broke off. Archd.
+          was very much upset and I would have been to blame for the party&apos;s either delay or not
+          reaching the top had such have happened. A.d. would not let me touch the stove after
+          words. After the stove was fixed</p>
+            <p/>
+            <pb n="94" facs="0012_003086_000201_0094.jpg" xml:id="d3e1935"/>
+            <p>every thing was alright and of course I would not have been to blame</p>
+            <p>Mr. K &amp; W. returned about 4<emph>30</emph> and Mr. K fixed it. They nearly
+          reached the top of the smoothe slope but were driven back by the high wind. They fully
+          expect to reach the <unclear reason="illegible" resp="SS">Cal</unclear> tomorrow.</p>
+            <pb n="95" facs="0012_003086_000201_0095.jpg" xml:id="d3e1949"/>
+            <p>Thursday May 29</p>
+            <p>Sleeping was very uncomfortable last night and the bedding is getting very wet. Mr. K
+          &amp; W. left about 9<emph>30</emph> am. Mr. K dreadfully displeased about
+          something. They took big packs and we are drying the bedding as best we can. Every body
+          A.d. &amp; all are wishing it were all at an end but guess we will stick it out to the
+          end. We hope to leave in a few minutes with packs.</p>
+            <p>It makes me feel very blue when I think</p>
+            <pb n="96" facs="0012_003086_000201_0096.jpg" xml:id="d3e1962"/>
+            <p>that it might take us until June 15<emph>th</emph> or after to reach the top. Have
+          been thinking much of home and friends and will be very glad indeed to get some mail.
+          Archd. &amp; I took a load up to the cache 850 feet above our camp here at 13000 feet
+          returned and Walter &amp; Mr K returned from their days <unclear reason="illegible" resp="SS">new</unclear>, Alas they have reached the <unclear reason="illegible" resp="SS">call</unclear> and we expect to move up tomorrow.</p>
+            <pb n="97" facs="0012_003086_000201_0097.jpg" xml:id="d3e1977"/>
+            <p>Friday May 30</p>
+            <p>We expect to move camp today. The wind is blowing just <unclear reason="illegible" resp="SS">mow</unclear> on the upper ridge and we will start out shortly hope to make
+          the top by the 6th at the earliest.</p>
+            <p>Well we have at last reached the cal and every body feels well and happy. This camp is
+          pitched where Parker had his We now have <unclear reason="illegible" resp="SS">ginh</unclear> for 3 days. And expect to</p>
+            <pb n="98" facs="0012_003086_000201_0098.jpg" xml:id="d3e1993"/>
+            <p>bring the rest up tomorrow. Have splendid view of the broken glacier here the <unclear reason="illegible" resp="SS">bason</unclear> and <unclear reason="illegible" resp="SS">bugs hund</unclear> It has been clear this after noon and we hope it will be so in the
+          morning. It took 5 hours steady climbing from our ridge camp at 13000 feet. This altitude
+          we call 15500 feet. And are camped in the same spot Parker was caped when his Pemmican</p>
+            <p/>
+            <pb n="99" facs="0012_003086_000201_0099.jpg" xml:id="d3e2006"/>
+            <p>failed him.</p>
+            <p>Rice takes 50 min to cook at this altitude instead of 40 min. Mr. K &amp; W. saw a bend
+          at 15000 ft. yesterday. Walter &amp; I expect to move the caches tomorrow while Mr. K
+          &amp; Arch d prospect ahead. I have a touch of <del type="overstrike" hand="rgt">t</del> rhumatisme tonight The worst I have had on the trip as my stomach is a little
+          bound up I will say nothing until tomorrow I wore a frozen glove today but am in hopes it
+          will pass off.</p>
+            <pb n="100" facs="0012_003086_000201_0100.jpg" xml:id="d3e2018"/>
+            <p>Saturday May 31<emph>st</emph>
+            </p>
+            <p>Walter &amp; I went down to the old ridge camp today at 13000 feet brought up the
+          creepers skins my <unclear reason="illegible" resp="SS">scarff</unclear> and a few odds
+          and ends. picked up the oil at our first cache. And a number of articles at our second
+            <del type="overstrike" hand="rgt">camp</del> cache and I packed up Archdeacon
+          Berometer at the third cache. We grew very thirsty &amp; weary before reaching the
+            <unclear reason="illegible" resp="SS">call</unclear> and there is still one trip to make
+          below to our</p>
+            <pb n="101" facs="0012_003086_000201_0101.jpg" xml:id="d3e2037"/>
+            <p>ridge cache at 13800 Expect to make that try early int he morning. Arch d. &amp; Mr. K.
+          went a head and located a camping place we hope to move camp partly tomorrow. I woke up
+          this morning with <unclear reason="illegible" resp="SS">rhumatyne</unclear> in my left
+          wrist and it <unclear reason="illegible" resp="SS">worried</unclear> considerably but it
+          has not bothered me very much I do not worry so much God will carry me through..</p>
+            <pb n="102" facs="0012_003086_000201_0102.jpg" xml:id="d3e2049"/>
+            <p>Sunday June 1<emph>st</emph>
+            </p>
+            <p>This morning we arose at 5<emph>30</emph> had breakfast &amp; morning prayer. Then
+          Walter &amp; I went down to our ridge cache and brought up good heavy loads. Got back by
+          noon. Mr. K &amp; A.d. <unclear reason="illegible" resp="SS">stuck</unclear>
+               <del type="overstrike" hand="rgt">buw</del> took a load over to the cache at 16000 feet
+          after lunch Mr. K. W. &amp; I took a heavy load over and Ad. read his <unclear reason="illegible" resp="SS">Wolaineal</unclear> Baromiter we returned to our Cal camp
+          and the wind was blowing a <unclear reason="illegible" resp="SS">holt</unclear> Gale
+          down</p>
+            <pb n="103" facs="0012_003086_000201_0103.jpg" xml:id="d3e2073"/>
+            <p>the Big <unclear reason="illegible" resp="SS">basin</unclear> and <del type="overstrike" hand="rgt">after</del> about 800 p.m. It began to clear off in the
+          south and we saw the Alaskan range spread out like a great map before us I was able to
+          take a few angles from this point. We expect to move camp in the morning.</p>
+            <p>Boiling point thermometer reads 186 8/10°</p>
+            <p>The Barometer registered 15000 feet</p>
+            <p>Angles from Parker Cal.</p>
+            <p>South peak - 200</p>
+            <p>North peak - 250</p>
+            <pb n="104" facs="0012_003086_000201_0104.jpg" xml:id="d3e2095"/>
+            <p>Muldrow Glacier - 252 (High peak of <unclear reason="illegible" resp="SS">Ice rdg. 8
+            or</unclear> Ice peak of N. E. Ridge) Mount hunter - 35</p>
+            <p>Snow Mountain distance- thought to be at the head of the Nenana 37°</p>
+            <p>Monday <del type="overstrike" hand="rgt">May</del> June 2</p>
+            <p>We dried out the robe at the cal camp this morning and then broke camp and moved it <del type="overstrike" hand="rgt">it</del> to our 15800 ft <del type="overstrike" hand="rgt">camp</del> cache where <del type="overstrike" hand="rgt">we</del> Arch d
+          &amp;</p>
+            <pb n="105" facs="0012_003086_000201_0105.jpg" xml:id="d3e2122"/>
+            <p>I are staying this afternoon while Mr. K &amp; Walter have gone ahead prospecting. This
+          camp is located at the base of a <unclear reason="illegible" resp="SS">sarae</unclear> on
+          the South limit of the big <unclear reason="illegible" resp="SS">Bowow</unclear>. We
+          expect to move forword tomorrow and hope to bring our journey to a success ful conclusion
+          by the last of this <unclear reason="illegible" resp="SS">werik</unclear> Arch deacon
+          &amp; I have had a pleasant talk this afternoon and has offered to send me some books of
+            <unclear reason="illegible" resp="SS">referance</unclear> if he gathers resources from
+          any lectures he also promised me a</p>
+            <pb n="106" facs="0012_003086_000201_0106.jpg" xml:id="d3e2140"/>
+            <p>dictionary regardles of <unclear reason="illegible" resp="SS">proccess</unclear> of this
+          trip which I shall be thankful to have. Mr K &amp; W. returned found a camping place at
+          the head of the first <unclear reason="illegible" resp="SS">Sarac</unclear> and we expect
+          to move camp tomorrow.</p>
+            <p>Tuesday June 3</p>
+            <p>High wind blew all night and we were very <unclear reason="illegible" resp="SS">wouder</unclear> and slept but very little we expect to move</p>
+            <pb n="107" facs="0012_003086_000201_0107.jpg" xml:id="d3e2159"/>
+            <p>camp today. And with even hope will reach the top by the 7<emph>th</emph> or 8<emph>th</emph> either Saturday or Sunday. We expect to have one more camp besides
+          this one that we will move to today. The low lands have been quite clear yesterday &amp;
+          today and we have had a very broad view from this camp. <del type="overstrike" hand="rgt">We</del>
+            </p>
+            <pb n="108" facs="0012_003086_000201_0108.jpg" xml:id="d3e2173"/>
+            <p>Tuesday June 3 <unclear reason="illegible" resp="SS">it con.</unclear>
+            </p>
+            <p>
+               <del type="overstrike" hand="rgt">Wednesday, June 4</del>
+            </p>
+            <p>This morning we broke camp about 1020 a.m. had a high wind all night where we were
+          sitting resting about half way to our new camp Archdeacon mention the fact if the flock
+            <unclear reason="illegible" resp="SS">stalf</unclear> were up it would be on one of the
+          lower peaks. Then W. cried out &quot;I see it&quot; Then Mr. K saw it and with the glasses
+          the four of us saw it This <unclear reason="illegible" resp="SS">vendies</unclear> all and
+          we we will not have to climb the North peak. We moved further on and</p>
+            <pb n="109" facs="0012_003086_000201_0109.jpg" xml:id="d3e2192"/>
+            <p>pitched camp at 16800 We expect to stay <unclear reason="illegible" resp="SS">born</unclear> here tomorrow and move forward soon.</p>
+            <p>Wednesday June 4</p>
+            <p>
+               <del type="overstrike" hand="rgt">Thursday</del>
+            </p>
+            <p>Archd &amp; I relayed while Mr. K &amp; W prospected ahead. Archdeacon was unwell and we
+          had to turn back from the head of the first Sarac. Mr. K &amp; W. returned early in the
+          after noon on account of the scortching hot sun. However they located a camp sight and we
+          expect to move</p>
+            <pb n="110" facs="0012_003086_000201_0110.jpg" xml:id="d3e2208"/>
+            <p>tomorrow. It has been cloudy today and we are afraid we will not have a clear day on
+          top.</p>
+            <p>Thursday June 5<emph>th</emph>
+            </p>
+            <p>This morning we broke camp and move to a place on the second <unclear reason="illegible" resp="SS">sorce</unclear> about half way up and expect to move to our 18000 ft camp
+          tomorrow It has been very foggy today and not very promising We moved our cache</p>
+            <pb n="111" facs="0012_003086_000201_0111.jpg" xml:id="d3e2224"/>
+            <p>to the head of the Sarac.</p>
+            <p>Friday. June 6<emph>th</emph>
+            </p>
+            <p>Today we moved camp from the Second Sarac tot he 18000 ft camp. it is located by a great
+          bolder of ice and the scenery is most superb. To the south of us rises the great North
+          Summit of South peak and <del type="overstrike" hand="rgt">in front</del> by looking
+          out our tent door <del type="overstrike" hand="rgt">if</del> we see the great Alaskan
+          range spread like a map before us. The North</p>
+            <pb n="112" facs="0012_003086_000201_0112.jpg" xml:id="d3e2242"/>
+            <p>peak also rises sheer up thousands of feet directly North of us and back of our tent
+          rises another Sarac some 600 feet. After which continues a smoothe <unclear reason="illegible" resp="SS">swoon</unclear> slope that ends abruptly <del type="overstrike" hand="rgt">we</del> and Denali&apos;s children rise in all other
+          majesty beyond.</p>
+            <p>We expect to make the final dash by leaving tonight about midnight</p>
+            <pb n="113" facs="0012_003086_000201_0113.jpg" xml:id="d3e2256"/>
+            <p>1913 Saturday June 7<emph>th</emph>
+            </p>
+            <p>Today stands a big red <unclear reason="illegible" resp="SS">litcer</unclear> in my life
+          as our party of four Hudson Stuck Harry Phillipp Karstens Walter Harper &amp; my self
+          reached the summit of Mount McKinley (Denallis) some 20600 feet above the sea level the
+          highest mountain <del type="overstrike" hand="rgt">in a</del> on the N. American
+          continent. I was quite sick &amp; so was Mr. K. but we left this morn at 4<emph>00</emph> a.m. and reached the summit at 100 pm Arch d was very short winded and had
+          great difficulty</p>
+            <pb n="114" facs="0012_003086_000201_0114.jpg" xml:id="d3e2275"/>
+            <p>in making the ascent but we took it very slowly. Walter reached the top first Mr. K next
+          Archd. third &amp; I last. I had made a flag an raised it. First of all after we all shook
+          hands with congratulations. Arch deacon offered a prayer of thanks. Then the Instruments
+          were read and I raised the flag and Archd. photographed it. Then while I took some angles
+          with the prysmatic compas W. &amp; Mr. K</p>
+            <p/>
+            <pb n="115" facs="0012_003086_000201_0115.jpg" xml:id="d3e2282"/>
+            <p>erected a cross. And set it up. And we all gathered around it and said &quot;Te
+          Deun&quot; Then Mr. K. <del type="overstrike" hand="rgt">toro</del> took a picture of
+          us.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Thee</unclear> was a better wind blowing and the
+          thermometer registered 4+ It was too cold to change the philm in the camera.</p>
+            <p>After spending <del type="overstrike" hand="rgt">ni</del> an hour up there we made our
+          way down going some two miles out of our way to look for Parkers thermomiter we were
+          unable to find it</p>
+            <pb n="116" facs="0012_003086_000201_0116.jpg" xml:id="d3e2300"/>
+            <p>but gathered a few <del type="overstrike" hand="rgt">paces</del> pieces of granit for
+          souveneers we returned to our little camp about <del type="overstrike" hand="rgt">f</del> 5<emph>00</emph> p.m. Very tired but happy and expect to move <del type="overstrike" hand="rgt">back</del> downward tomorrow</p>
+            <p>I thought of those at home and would have reread papas letter on top had it not have been
+          so cold.</p>
+            <pb n="117" facs="0012_003086_000201_0117.jpg" xml:id="d3e2320"/>
+            <p>Sunday June 8<emph>th</emph>
+            </p>
+            <p>We all slept well last night. Yesterday and today have been two &quot;red letter days
+          Yesterday we accomplished our purpose and today we have retraced our steps over the most
+          dangers part of our journey We left our 18000 ft camp at 9<emph>30</emph> a.m.
+          having service just before leaving and at the Parker Call let the Premus stove and made a
+          big pot of tea. Arch deacon cached his thermomiter <del type="overstrike" hand="rgt">on</del> at the foot of an up <unclear reason="illegible" resp="SS">inded
+            slaf</unclear> at the call on the face towards the Grand <unclear reason="illegible" resp="SS">boson</unclear>. We</p>
+            <pb n="118" facs="0012_003086_000201_0118.jpg" xml:id="d3e2342"/>
+            <p>came down very carefully and had heavy packs. Mine weighed some 45 pounds. Mr. K lead the
+          way an Walter was at the wheel. We passed our four camps in the Grand <unclear reason="illegible" resp="SS">Boson</unclear> one by one and then our then our ridge camp
+          and lastly our Glacier camp at 11500 we reached at 9<emph>00</emph>
+               <emph>pm</emph>. We were all tired and very glad to reach it. We hope to leave early
+          in the morning and reach our base camp in about eight hours. We are exceedingly
+          anxious</p>
+            <pb n="119" facs="0012_003086_000201_0119.jpg" xml:id="d3e2356"/>
+            <p>to see Johnnie.</p>
+            <p>About 18 miles of new snow has fallen on the ridge since we left the lower end of it. And
+          the whole ridge has changed in places.</p>
+            <p>We will have been away from land 12 mo &amp; 22 days tomorrow. The wonderful
+          transformation from winter among ice &amp; snow to mid summer among the green grass and
+          leaving grees is indeed wonderful.</p>
+            <pb n="120" facs="0012_003086_000201_0120.jpg" xml:id="d3e2366"/>
+            <p>Monday June 9<emph>th</emph>
+            </p>
+            <p>We all slept well last night and left the 11500 ft glacier camp this morning about 10<emph>am</emph>. We expect to find very hard going and had quite a load on the Yukon
+          sled but as for <unclear reason="illegible" resp="SS">trooled</unclear> over the lower
+          glacier we found it quite easy and after trail till heed all but one bridge was safe to
+          travel and we went around the end of that crevass The four miles at this end of the <del type="overstrike" hand="rgt">Mudrow</del>
+            </p>
+            <pb n="121" facs="0012_003086_000201_0121.jpg" xml:id="d3e2384"/>
+            <p>Muldrow was well thawed and we had a great deal of water Before climbing the short ascent
+          to the <del type="overstrike" hand="rgt">pas</del> Magonigal Pass We cached the Yucon
+            <unclear reason="illegible" resp="SS">sled</unclear> some snow shoes and a tent. Where
+          this was done we came slowly down the <unclear reason="illegible" resp="SS">camon</unclear> of the base camp with our heavy packs. Travling over snow most of the
+          way. Reached the camp about 8 <emph>pm</emph> &amp; found Johnnie well &amp; happy.
+          He had been</p>
+            <pb n="122" facs="0012_003086_000201_0122.jpg" xml:id="d3e2403"/>
+            <p>alone exactly one month and had killed 4 sheep &amp; 1 caribou. As we came over the Pass,
+          Walter picked some blue flower. the first we had seen in the sudden transformation from
+          Mid Winter to Mid Summer.</p>
+            <pb n="123" facs="0012_003086_000201_0123.jpg" xml:id="d3e2409"/>
+            <p>Tuesday June <emph>10</emph>
+            </p>
+            <p>Today we lay in camp making dog packs, cooking &amp; washing. and expect to move to the
+          Mc Kinly fork tomorrow If all goes well We are still having cloudy weather.</p>
+            <pb n="124" facs="0012_003086_000201_0124.jpg" xml:id="d3e2419"/>
+            <p>Wednesday June 11<emph>th</emph>
+            </p>
+            <p>This morning we broke camp and left about 18 <unclear reason="illegible" resp="SS">Dim</unclear> left quite a cache then in the tent we made our way slowly on until noon
+          and this afternoon as we were following Loyds trail over the lowlands the rain came down
+          in torrents and we were thoroughly soaked. Reached Loyds tent on the McKinley Fork about 3
+          p.m. And will stay here over night</p>
+            <pb n="125" facs="0012_003086_000201_0125.jpg" xml:id="d3e2432"/>
+            <p>and try today out It is a very large tent and has a small stove in it. So we will take
+          turns in keeping the fire up to dry out our cloths before morning.</p>
+            <p>Thursday June 12<emph>th</emph>
+            </p>
+            <p>Last night we sat up all night drying our cloths and just when we were ready to leave
+          this morning it began to pour the rain in. K thought it would</p>
+            <pb n="126" facs="0012_003086_000201_0126.jpg" xml:id="d3e2444"/>
+            <p>pass over and so it did about 11 o clock and we had a cup of tea and left the tent
+          immediately. As we were crossing the <unclear reason="illegible" resp="SS">rion</unclear>
+          which I had so long dreaded and as Arch deacon had to be carried across. I took Walters
+          dog. Johnnie had quite a hard time making his dog go forward so I was pushing him and
+          after he started on I lost hold on my ice axe and my two dogs started across steam and
+          pulled me over. Then</p>
+            <pb n="127" facs="0012_003086_000201_0127.jpg" xml:id="d3e2453"/>
+            <p>they threw me on my back and splashed my face full of water and I lost my breath. The
+          current was very strong and the water filed upon me. Mr. K rushed to me <del type="overstrike" hand="rgt">and</del> just before I was about to go under he grabbed
+          my hand and saved me. Walter came over too and took my pack. Mr K &amp; Johnnie led me
+          over as my breath was very short and I was weak. When I reached shore &amp;</p>
+            <pb n="128" facs="0012_003086_000201_0128.jpg" xml:id="d3e2462"/>
+            <p>fell on the ground and wept for thanks. We waited some time for me to gather strength and
+          then traveled on to Eureka reaching there about 8 p.m. Mr. Jack Hamilton cooked supper and
+          we got to bed about 2 a.m. We stayed for lunch <del type="overstrike" hand="rgt">and</del> on the side of a little hill before reaching the lake and made tea &amp; hot
+          cakes. The lake is beautiful. From then on we had had</p>
+            <pb n="129" facs="0012_003086_000201_0129.jpg" xml:id="d3e2471"/>
+            <p>Friday June 13<emph>th</emph>
+            </p>
+            <p>This morning we rose late. Mr. Quinn came to see us. Later he went up and told <unclear reason="illegible" resp="SS">Frt</unclear> to come down which he did. We were all glad
+          to see him. He gave us a nugget of his gold.</p>
+            <p>Mr. Hamilton walked down to Friday Creek with us. And we made our way over the Hills to
+            <unclear reason="illegible" resp="SS">Jac</unclear> &amp; Fannie Quigley&apos;s. Met Mr.
+          MacGonigal and <unclear reason="illegible" resp="SS">Jac</unclear> &amp; Fannie came in
+          very late she cooked a delicious</p>
+            <pb n="130" facs="0012_003086_000201_0130.jpg" xml:id="d3e2492"/>
+            <p>supper. And we got to bed about twelve and up late. Archd. had talk with MacGonigal and
+          got a straight forward narrative of their trip in 1910. </p>
+            <p>--&gt; Saturday June 14th</p>
+            <p>We got up late this morning Had a delicious breakfast and left there about 11 00 a.m. We
+          made good time to Glacier right down the stream. And reached <unclear reason="illegible" resp="SS">Lire</unclear> about 6 p.m. <unclear reason="illegible" resp="SS">Few</unclear> weeks travel from the top of the mountain</p>
+            <pb n="131" facs="0012_003086_000201_0131.jpg" xml:id="d3e2508"/>
+            <p>and before we were here on Easter one weeks travel from Nenana</p>
+            <p>We used some of Mr. Taylor&apos;s (Bill Taylor) <unclear reason="illegible" resp="SS">grub</unclear> Got to bed late.</p>
+            <p>Sunday June 15<emph>th</emph>
+            </p>
+            <p>We slept too cheap last night. The mosquitoes were very bad last night <unclear reason="illegible" resp="SS">we</unclear> left Glacier this morning about 1000 a.m. and
+          reached Mr <unclear reason="illegible" resp="SS">Grice&apos;s</unclear> cabin seven miles
+          below, about 1<emph>00</emph> p.m. He gave us lunch and let us</p>
+            <pb n="132" facs="0012_003086_000201_0132.jpg" xml:id="d3e2534"/>
+            <p>have his boat to go down moose creek in to Diamond City. Walter &amp; John will return
+          with it tonight It took us five hours to reach Diamond. Fortunately we found every thing
+          in good condition. Also found some potatoes. We will stay over tomorrow and part of the
+          next day until the boat is ready then launch out on the last stage of our journey happily
+          - Moose <unclear reason="illegible" resp="SS">Creek</unclear> &amp; The Bear Paw are very
+          low but we anticipate no bad going.</p>
+            <pb n="133" facs="0012_003086_000201_0133.jpg" xml:id="d3e2544"/>
+            <p>Monday June 16<emph>th</emph>
+            </p>
+            <p>This morning we arose about seven a.m. Cooked breakfast and did <unclear reason="illegible" resp="SS">around</unclear> Did not sleep well last night so do not
+          feel well today. We expect to launch forth tomorrow about noon It has been hot and sultry
+          all day today and I am cooking a Ham &amp; goose.</p>
+            <p>Have been thinking of mama and all the family yesterday &amp; today. The Boys returned at
+          900 p.m. this evening</p>
+            <pb n="134" facs="0012_003086_000201_0134.jpg" xml:id="d3e2559"/>
+            <p>Tuesday June 17<emph>th</emph>
+            </p>
+            <p>
+               <del type="overstrike" hand="rgt">The Boys returned to Mr. Brice with the palling boat
+            and returned to DIamond at 9 p.m. this evening</del>
+            </p>
+            <p>I <del type="overstrike" hand="rgt">ho</del> chopped wood all morning for our voyage
+          to Tanana Mr. K &amp; John fixed the boat. Archd. has been waiting all morning while
+          Walter reorganized his btiches. At Three p.m. we left Diamond <unclear reason="illegible" resp="SS">aud one</unclear> making good time travling day</p>
+            <pb n="135" facs="0012_003086_000201_0135.jpg" xml:id="d3e2578"/>
+            <p>and night.</p>
+            <p>June 18</p>
+            <p>Wednesday</p>
+            <p>This mornig we reached the Kantishna at 500 a.m. and expect to reach the Tanana in the
+          morning. Passed the <unclear reason="illegible" resp="SS">Zoklat</unclear> at 530 p.m.
+          today. Yesterday <del type="overstrike" hand="rgt">w</del> I saw a (beaver) &amp; 2
+            <del type="overstrike" hand="rgt">cal</del> calf moose. We are working on 4 hour
+          shifts and <unclear reason="illegible" resp="SS">moving on</unclear> rapidly</p>
+            <pb n="136" facs="0012_003086_000201_0136.jpg" xml:id="d3e2602"/>
+            <p>Thursday June 19</p>
+            <p>Reached the Tanana at 7<emph>30</emph> p.m. this morning we made splendid time, 7
+          miles an hour and this evening has found us so near our journeys end that we scarcely can
+          believe that we ar so near again to civilization again. We xpect to reach Tanana about
+            1<emph>00</emph> a.m.</p>
+            <pb/>
+            <pb n="138" facs="0012_003086_000201_0138.jpg" xml:id="d3e2622"/>
+            <p>These flowers were gathered at the head of the Magonigal Pass. The first we saw after 82
+          days on the Mountain (Denalli)</p>
+            <p>Gathered on June 9th 1913</p>
+            <pb/>
+            <pb/>
+            <pb n="141" facs="0012_003086_000201_0141.jpg" xml:id="d3e2642"/>
+            <p>Friday June 20</p>
+            <p>We reached Tanana this morning at 6<emph>20</emph> a.mm. As we drifted since
+          yesterday evening. First we had <del type="overstrike" hand="rgt">lunch</del> breakfast
+          at the <unclear reason="illegible" resp="SS">reslurau</unclear> and then went down to
+            <unclear reason="illegible" resp="SS">Roduruns</unclear> store and awaited the opning of
+          the telegraph office Arch deacon send a long message to Mr. <unclear reason="illegible" resp="SS">Bruch</unclear> at Seattle Mr. K left in the boat for Ruby and we expect him
+          to return about Wednesday or Thursday</p>
+            <pb n="142" facs="0012_003086_000201_0142.jpg" xml:id="d3e2665"/>
+            <p>and Johnnie <del type="overstrike" hand="rgt">o</del> will return to Nenana with him.
+          I bought underware, hat, shoes, suit, ($35) tee shirt, colar sox, suspenders oranges
+            (<unclear reason="illegible" resp="SS">Awuont expender</unclear>) ( ) <del type="overstrike" hand="rgt">I made some signs for Archdeacon also and tacked them
+            up</del>
+            </p>
+            <p>Saturday June 21</p>
+            <p>This noon I went down town <unclear reason="illegible" resp="SS">attude</unclear> to
+          considerable business and met Capt. Bond Lieut Singleton, and was invited to</p>
+            <pb n="143" facs="0012_003086_000201_0143.jpg" xml:id="d3e2686"/>
+            <p>dinner By Capt B made some signs for Arch deacon and had a shove. Arch deacon let me have
+            $10<emph>00</emph> which I shall return when I <unclear reason="illegible" resp="SS">reach 7 bks.</unclear> I sent a message home yesterday also to Mr. B. I also
+          met Tom Nelson today.</p>
+            <p>Sunday, June 22</p>
+            <p>I attended service at &quot;The Mission of Our Sorrows&quot; this morning. The first</p>
+            <pb n="144" facs="0012_003086_000201_0144.jpg" xml:id="d3e2703"/>
+            <p>Communion I have attended since <del type="overstrike" hand="rgt">we</del> Palm Sunday
+          March 16<emph>th</emph> Also attended service at 12 <unclear reason="illegible" resp="SS">M Aud native</unclear> enjoyed it. Arch deacon will have Service at 8 p.m. at
+          St James Chapel. Expect a large congregation.</p>
+            <p>I will have Jonnies nugget made into a pin. Also order him a nice prayer book.</p>
+            <pb n="145" facs="0012_003086_000201_0145.jpg" xml:id="d3e2720"/>
+            <p>Monday June 23</p>
+            <p>This morning we rose about nine. Had breakfast &amp; <unclear reason="illegible" resp="SS">stand</unclear> down to the <unclear reason="illegible" resp="SS">Camish</unclear> Arch deacon wrote some letter to go off on the St Michael to <unclear reason="illegible" resp="SS">Dawson</unclear> I did not get my letter home finished Mr
+          &amp; Mrs <unclear reason="illegible" resp="SS">Kilroy</unclear> left on <unclear reason="illegible" resp="SS">S &amp; M</unclear>
+            </p>
+            <p>I worked on the boat <del type="overstrike" hand="rgt">w</del> most of the day then
+          went to Capt. Bonds for dinner Capt Langley &amp; Mr Rack were there. After dinner I met
+          Lieut <del type="overstrike" hand="rgt">Singleton</del> &amp; and Mrs Singleton Lieut
+          Bartow &amp; Lieut <unclear reason="illegible" resp="SS">Aid</unclear> playing ping
+          pong.</p>
+            <p>I slept at Mr <unclear reason="illegible" resp="SS">Simpaw</unclear> and will work on the
+          boat tomorrow</p>
+            <pb n="146" facs="0012_003086_000201_0146.jpg" xml:id="d3e2758"/>
+            <p>June 24</p>
+            <p>Tuesday</p>
+            <p>Worked all day on the Pelican and slept in the <unclear reason="illegible" resp="SS">lawch</unclear>
+            </p>
+            <p>Wednesday 25</p>
+            <p>Worked on the <unclear reason="illegible" resp="SS">lawch</unclear> and slep and had
+          meals on it</p>
+            <p>Thursday 26<emph>th</emph>
+            </p>
+            <p>Worked on the <unclear reason="illegible" resp="SS">lawch</unclear> painting &amp;
+          cleaning walked to the mission had tea</p>
+            <p>Friday 27</p>
+            <p>Sent telegram to Mr <unclear reason="illegible" resp="SS">Quon</unclear>
+            </p>
+            <pb n="147" facs="0012_003086_000201_0147.jpg" xml:id="d3e2792"/>
+            <p>&amp; Mr Shaw <unclear reason="illegible" resp="SS">lfn</unclear> has not arrived.</p>
+            <p>Saturday <emph>28</emph>
+            </p>
+            <p>wrote signs for Arch deacon about services <unclear reason="illegible" resp="SS">Herljed</unclear> Walter &amp; Johnnie <unclear reason="illegible" resp="SS">launch</unclear> boat And expect to start engine tonight</p>
+            <pb n="148" facs="0012_003086_000201_0148.jpg" xml:id="d3e2813"/>
+            <p>Sunday June 29</p>
+            <p>This morning we were late in arrising and were consequently late with breakfast. We went
+          down town in the Mission boat and attended service at St James Chapel. Arch deacon had a
+          purely devotional communion service and gave a splendid talk. Walter worked on the boat
+          and slept on it last night. and he &amp; Johnnie <del type="overstrike" hand="rgt">came
+            to service</del> did not attend service</p>
+            <pb n="149" facs="0012_003086_000201_0149.jpg" xml:id="d3e2824"/>
+            <p>Monday June 30</p>
+            <p>I started to paint the <unclear reason="illegible" resp="SS">ry</unclear> stains room
+          this after noon and found it quite a job Was disappointed in not getting the paint to
+          match Walter is making speed with his engine and is an adoreable boy. He will be greatly
+          missed when away.</p>
+            <p>Tuesday July 1</p>
+            <p>Have been painting all day and helping around the house Miss Langdon is quite fussy but
+          we can get along.</p>
+            <pb n="150" facs="0012_003086_000201_0150.jpg" xml:id="d3e2839"/>
+            <p>Wednesday July 2</p>
+            <p>I have sent for my mail &amp; hope that Mr. Betticher will bring it down from <unclear reason="illegible" resp="SS">Nenana</unclear> when he comes. I have thought of home
+          folks a great deal since my return but have been unable to do any writing I have finished
+          the room today and hope to <unclear reason="illegible" resp="SS">brain</unclear> the roof
+          at once There is plenty of work to be done at this mission and a man is needed but to take
+          this place requires quite a bit of <unclear reason="illegible" resp="SS">trink</unclear>
+            </p>
+            <pb n="151" facs="0012_003086_000201_0151.jpg" xml:id="d3e2855"/>
+            <p>Thursday</p>
+            <p>I painted all day on the roof. This after noon we reed telegram from Mr. B that he would
+          be on Tanana and it arrived at 2 a.m. about 10pm The St Michael passed and the Bishop was
+          on it. The came up late &amp; it was 3 a.m. before we retired. I have thought of Bertha
+          &amp; <unclear reason="illegible" resp="SS">Ken</unclear> today</p>
+            <pb n="152" facs="0012_003086_000201_0152.jpg" xml:id="d3e2866"/>
+            <p>Friday July 4</p>
+            <p>We arose very late this morning and immediately after breakfast Miss Langdon had a <emph>long</emph> talk with Bishop until lunch Immediately after lunch Mr B Ad. Bishop
+          &amp; I went to Ad&apos;s cabin &amp; I had a long talk and a very satisfactory one with
+          the exception that I go to Mt Hermon He has stationed Mr at Nenana for this winter and
+          next summer I will</p>
+            <pb n="153" facs="0012_003086_000201_0153.jpg" xml:id="d3e2877"/>
+            <p>go outside &amp; have a tutor &amp; hope to ender the <emph>UT</emph>
+            </p>
+            <p>He spoke of my holding services &amp; and delivering sinple explanations of the Bible He
+          gave permission to take any books</p>
+            <p>The Archdeacon spoke very highly of me to Bishop &amp; Mr B</p>
+            <p>Miss Langdon &amp; <unclear reason="illegible" resp="SS">Mealoness</unclear> pick one to
+          be stationed here. Bishop requires of me to write him</p>
+            <pb n="154" facs="0012_003086_000201_0154.jpg" xml:id="d3e2894"/>
+            <p>a letter every <emph>3 mo</emph> as a report of my work. I shall also have to write
+          the Arch deacon. Mr. B brought my mail and I have been very happy today</p>
+            <p>Saturday July 5</p>
+            <p>Mr. B &amp; I went to town with Ard. Bishop &amp; W. and they departed about noon. Mr. B
+          &amp; I called on Major <unclear reason="illegible" resp="SS">Ranking</unclear>, Mrs.
+            <unclear reason="illegible" resp="SS">Swortz</unclear> - Mrs Burgman a <unclear reason="illegible" resp="SS">loor</unclear> of flowers - Mrs. Bond and took</p>
+            <pb n="155" facs="0012_003086_000201_0155.jpg" xml:id="d3e2917"/>
+            <p>dinner with <unclear reason="illegible" resp="SS">Caft</unclear> and Mr. Pearson and
+          afterwards Mrs <unclear reason="illegible" resp="SS">Ealy Ms Artow</unclear> Mrs <unclear reason="illegible" resp="SS">Brad</unclear> and Mrs Pearson with Capt. Pearson &amp; Mr.
+          B went up to the mission and attended two weddings. Joseph <del type="overstrike" hand="rgt">&amp; K</del> Nicholi and Dom Hunter and Frank <del type="overstrike" hand="rgt">slyhen &amp; Dora Alex</del> Alex &amp; Dora Stephens, very pretty wedding
+          Returned to Black House &amp; retired awaiting St Michael</p>
+            <pb n="156" facs="0012_003086_000201_0156.jpg" xml:id="d3e2938"/>
+            <p>Sunday July 6<emph>th</emph>
+            </p>
+            <p>I have read most of the day today <del type="overstrike" hand="rgt">and</del> this
+          morn. we went to the Telegraph office and post office &amp; around town Then Left Tanana
+          about 11<emph>00</emph> a.m. Mr. B <unclear reason="illegible" resp="SS">His</unclear> here fairly pleasant and Says Mr W. is going to Tanana Crossing</p>
+            <p>Monday July 7</p>
+            <p>This morning we passed Hot Springs and I saw Mr Whittney for a little while I have read
+          &amp; slept most of the day This after noon The Steamer Delta over took us</p>
+            <pb n="157" facs="0012_003086_000201_0157.jpg" xml:id="d3e2961"/>
+            <p>on the St. Michael and Mr. B &amp; I <unclear reason="illegible" resp="SS">transfound</unclear> and are making splendid time. Hope to reach Tenana by noon
+          tomorrow. This is a very pleasant boat &amp; travel <unclear reason="illegible" resp="SS">on</unclear> the state room is very comfortable indeed.</p>
+            <p>Tuesday July 8</p>
+            <p>I rested well last night and was up early this morning Expect tor each Nenana by 1100
+            <unclear reason="illegible" resp="SS">pm</unclear>
+            </p>
+            <pb n="158" facs="0012_003086_000201_0158.jpg" xml:id="d3e2979"/>
+            <p>well we arrived at 10 a.m. found every body well &amp; happy Karstens had left but an
+          hour before and when he was here he said all sorts of things <unclear reason="illegible" resp="SS">slandering</unclear> the Arch deacon. Much to my surprise as he vowed he would
+          say nothing to the out siders about our little differences I had a long talk with Mr.
+            <unclear reason="illegible" resp="SS">Bahon</unclear> affairs and are very much dis
+          pleased about <unclear reason="illegible" resp="SS">Madana</unclear> wanting to stay
+          here.</p>
+            <pb n="159" facs="0012_003086_000201_0159.jpg" xml:id="d3e2994"/>
+            <note type="transcription">The following text was crossed out by the author.</note>
+            <p>ask Mr <unclear reason="illegible" resp="SS">R</unclear>
+               <del type="overstrike" hand="rgt">about</del> when Mr. <unclear reason="illegible" resp="SS">M</unclear> will leave.</p>
+            <p>ask him about going to <unclear reason="illegible" resp="SS">Fblos</unclear>.</p>
+            <p>Inquire about my church letter</p>
+            <p>Give Mr. B copy of my church letter</p>
+            <p>Get trousers from boat.</p>
+            <p>Speak to Arch deacon about books in church</p>
+            <p>Borrow razor from W.</p>
+            <p>ask Bishop to send 1/2 my stypend home.</p>
+            <note type="transcription">The preceding text was crossed out by the author.</note>
+            <pb n="160" facs="0012_003086_000201_0160.jpg" xml:id="d3e3030"/>
+            <p>
+               <unclear reason="illegible" resp="SS">Whist</unclear> broom</p>
+            <p>tooth brush</p>
+            <p>face powder</p>
+            <p>tooth powder</p>
+            <p>2 <unclear reason="illegible" resp="SS">colors</unclear>
+            </p>
+            <p>1 shirt</p>
+            <p>comb</p>
+            <pb n="161" facs="0012_003086_000201_0161.jpg" xml:id="d3e3052"/>
+            <p>Born Inaugurated</p>
+            <p>James Buchanan Apr 23, 1791 Mar 4, 1957</p>
+            <p>Abraham Lincoln Feb 12 1809 &apos;61</p>
+            <p>Andrew Johnson Dec 29 &apos;08 Apr. 15 &apos;65</p>
+            <p>Ulysses S. Grant Apr 22 &apos;22 Mar 4 &apos;69</p>
+            <p>Rutherford B Hayse <del type="overstrike" hand="rgt">Oct</del> Oct 4 22 &quot; 5
+          &apos;77</p>
+            <p>James A Garfield Nov 19 &apos;31 &quot; 4 ^&apos; 81</p>
+            <p>Chester A Arthur Oct 5 &apos;30 Sept 30 &apos;81</p>
+            <p>Grover Cleveland Mar 18 &apos;37 Mar 4 85</p>
+            <p>Benjamin Harrison Aug 20 &apos;33 &apos;89</p>
+            <p>Grover Cleveland Mar 18 &apos;37 93</p>
+            <p>W<emph>m</emph> McKinley Jan 29 43 97</p>
+            <p>Theodore Roosevelt Oct 27 58 Sept 14 1901</p>
+            <note type="transcription"> The following text is written perpendicular to the above
+          list.</note>
+            <p>William Howard Taft B Sept 15 1857</p>
+            <p>Inaugurated Mar 4 1909</p>
+            <note type="transcription">The preceding text is written perpendicular to the above
+          list.</note>
+            <pb n="162" facs="0012_003086_000201_0162.jpg" xml:id="d3e3097"/>
+            <note type="transcription">The following text is written perpendicular to the list
+          below.</note>
+            <p>Presidents of U.S.</p>
+            <note type="transcription">The preceding text is written perpendicular to the list
+          below.</note>
+            <p>Born Inaugurated</p>
+            <p>George Washington Feb. 22, 1732 - Apr. 30, 1789-</p>
+            <p>John Adams, Oct 31 1735 - Mar 4 1799-</p>
+            <p>Thomas Jefferson Apr 2 1743 - &quot; 4 1801</p>
+            <p>James Madison Mar 16, 1751 - &quot; 4 &apos;09</p>
+            <p>John Quincy Adams July 11 1757 &quot; 4 &apos;25</p>
+            <p>Andrew Jackson Mar 16 1767 &quot; 4 &apos;29</p>
+            <p>Martin Van Buren Dec 5 1782 &quot; 4 &apos;37</p>
+            <p>W<emph>m</emph> H Harrison Feb 9 1773 &quot; 4 &apos;41</p>
+            <p>John Tylor Mar 29 &apos;90 Apr 6 &apos;41</p>
+            <p>James K Polk Nov 2 &apos;95 Mar 4 &apos;45</p>
+            <p>Zachary Taylor Sept 24 &apos;84 &apos;49</p>
+            <p>Millard Filmore Feb 7 1800 Jul 9 &apos;50</p>
+            <p>Frlanklin Piece Nov 23 &apos;04 Mar 4 &apos;53</p>
+            <pb/>
+            <pb/>
+            <pb n="165" facs="0012_003086_000201_0165.jpg" xml:id="d3e3151"/>
+            <p>
+               <emph>DEBTS.</emph>
+            </p>
+            <p>✓ Rodman Trading Co. 57.75</p>
+            <p>✓ <unclear reason="illegible" resp="SS">Vashon Tanana Com. Co.</unclear> 3.50</p>
+            <p>✓ Stuck 15.00</p>
+            <p>Will send his <unclear reason="illegible" resp="SS">Gun.</unclear> Walter Harper .25</p>
+            <p>✓ D. T. McClure 2.25</p>
+            <p>78.75</p>
+            <note type="transcription">The following text is written on top of the text on this
+          page.</note>
+            <p>Paid</p>
+            <note type="transcription">The preceding text is written on top of the text on this
+          page.</note>
+            <pb/>
+            <pb n="167" facs="0012_003086_000201_0167.jpg" xml:id="d3e3190"/>
+            <p>
+               <unclear reason="illegible" resp="SS">Foricher E12</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">M pk McK 332</unclear>
+            </p>
+            <p>Mudrow 10</p>
+            <pb n="168" facs="0012_003086_000201_0168.jpg" xml:id="d3e3202"/>
+            <p>Bourroughs</p>
+            <p>Welcome &amp; Co.</p>
+            <p>N.Y.</p>
+            <p>Medicine Case like Arch deacons</p>
+            <p>J J O&apos;Brien &amp; Son</p>
+            <p>122 East 23rd St</p>
+            <p>N.Y. Standard Diary</p>
+            <p>Mucklucks</p>
+            <p>King Island</p>
+            <pb n="169" facs="0012_003086_000201_0169.jpg" xml:id="d3e3224"/>
+            <p>cheese onions caribou extract</p>
+            <p>combination - comb brush &amp; mirror. serving kit. pocket magnifying glass. <unclear reason="illegible" resp="SS">pack of stace</unclear> tape. toth brush. Diary. Silk
+          handherchiefs. Reading <unclear reason="illegible" resp="SS">matter</unclear> tools.
+          Hammer. files combination tool etc. knife. folding packet scissors. Folding lantern.
+          Combination twesers &amp; magnifying glass for extracting splinters.</p>
+            <pb n="170" facs="0012_003086_000201_0170.jpg" xml:id="d3e3238"/>
+            <p>
+               <del type="overstrike" hand="rgt">
+                  <unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="SS">Erbs
+              worst</unclear>
+               </del>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Erbs worst. Peters chocolate <unclear reason="illegible" resp="SS">Swigback</unclear>
+               </unclear> Pemmican balls.</p>
+            <p>Sugar. Salt. Bay Leaves. Rice. Meat. ham. bacon. coffee. tea. Spices. <unclear reason="illegible" resp="SS">How.</unclear> flavoring. Eggs. butter. milk. cocoa. soap.
+          Worcestershire Sauce. <unclear reason="illegible" resp="SS">Mabelene</unclear>.
+          pepper.</p>
+            <pb n="171" facs="0012_003086_000201_0171.jpg" xml:id="d3e3260"/>
+            <p>Woolen socks. Insoles &amp; <unclear reason="illegible" resp="SS">inner diffe</unclear>
+          for Moccasins. long stockings. heavy.</p>
+            <p>Silk tents. pyramid. &amp; green to break glare. Tent &amp; stove. Cooking utensils.
+          Great deal of canvis <unclear reason="illegible" resp="SS">Yeager</unclear> blankets
+          Feather quilts Candles. Carbide light</p>
+            <p>Medicine especially lanilene. Borascic acid &amp; vasoline.</p>
+            <pb n="172" facs="0012_003086_000201_0172.jpg" xml:id="d3e3276"/>
+            <p>High mountains equipment. For Snow Mountain climbing</p>
+            <p>Ice axe</p>
+            <p>Hemp climbing rope.</p>
+            <p>Premer stove</p>
+            <p>Rough locked snow shoes</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Cerupers</unclear>
+            </p>
+            <p>fur parka. Drill</p>
+            <p>overalls.</p>
+            <p>Moccasins</p>
+            <p>Leather mitts. woolen</p>
+            <p>woolen underwear</p>
+            <p>woolen shirt</p>
+            <pb n="173" facs="0012_003086_000201_0173.jpg" xml:id="d3e3306"/>
+            <p>The 20<emph>th</emph> century commentary - 10 Vol</p>
+            <p>The <del type="overstrike" hand="rgt">remaining vol of the</del> set of commentarys by
+          W W Now excepting the one <unclear reason="illegible" resp="SS">on the</unclear> 4 Gospels
+          of the Acts of Revalation</p>
+            <p>a prayer book for Johnnie.</p>
+            <p>The heart of Happiness &quot;By Percy C Ainsworth</p>
+            <pb n="174" facs="0012_003086_000201_0174.jpg" xml:id="d3e3327"/>
+            <p>Frederick A Stokes Company - N.Y.</p>
+            <p>G. A. Henty { The night of the White Cross.</p>
+            <p>{ The Lion of St Mark in Venice</p>
+            <p>R L Stephens { Treasure Island</p>
+            <p>{ The Rector&apos; Vade Mecurn</p>
+            <p>{ EP button &amp; Co. 39 West 23<emph>st</emph> NY</p>
+            <p>{ Compiled Chiefly from <unclear reason="illegible" resp="SS">Brok</unclear> of <unclear reason="illegible" resp="SS">Common Prayer</unclear>
+            </p>
+            <pb n="175" facs="0012_003086_000201_0175.jpg" xml:id="d3e3353"/>
+            <p>Plutarch&apos;s Lives By The Rev. John. &amp; William Langhorne (Published by Lovell,
+          Cornell &amp; Co. 43, 45 &amp; 47 10<emph>th</emph> St. N.Y.</p>
+            <p>The Religio Medical Masquerade By Frederick W Peabody <unclear reason="illegible" resp="SS">L.F.B.</unclear> The <unclear reason="illegible" resp="SS">prices</unclear>
+          this book is $100 &amp; 8 cts. postage The Hancock Press P.O. Box 2789 Boston Mass.</p>
+            <p>The Siege of the South Pole (By) Hugh R. Mill <unclear reason="illegible" resp="SS">D.sc,
+            LSD.</unclear> with Illustrations from Drawings Photographs &amp; Maps (Pub. by)</p>
+            <pb n="176" facs="0012_003086_000201_0176.jpg" xml:id="d3e3375"/>
+            <p>Henry <unclear reason="illegible" resp="SS">Altenus Co. Phila. Penn.</unclear>
+            </p>
+            <p>The American YearBook Alminac and Atlas.</p>
+            <p>San Francisco Examiner San Francisco Calif.</p>
+            <p>Spangenbergs Practical Arithmetic</p>
+            <p>Geo A Zeller Book Co. St. Louis Mo.</p>
+            <p>The Complete Mountain-eer. - By - George D. Abraham - <unclear reason="illegible" resp="SS">D tribe day. Page &amp; Co. N.Y.</unclear>
+            </p>
+            <pb n="177" facs="0012_003086_000201_0177.jpg" xml:id="d3e3396"/>
+            <p>Life of David Livingston a Missionary in Africa</p>
+            <p>Crecy&apos;s Fifteen Decisive Battles of the Wourld.</p>
+            <p>A Phisical Geography</p>
+            <p>Dr. Johnsons life of Boswell</p>
+            <p>The Rambler.</p>
+            <p>The Spectator.</p>
+            <p>Dr. Johnsons Essays.</p>
+            <p>The Beauty of a Life of Service - Phillipps Brook</p>
+            <pb n="178" facs="0012_003086_000201_0178.jpg" xml:id="d3e3416"/>
+            <p>Books.</p>
+            <p>$10. Liponcott&apos; Gazetteer</p>
+            <p>$150. Botanical Incyclopedia <del type="overstrike" hand="rgt">$150</del>
+            </p>
+            <p>or</p>
+            <p>$50 Century dictionary &amp; Incyclopedia &amp; Atlas combined ($50)</p>
+            <p>$300 Dictionary of National Biography By $300 <unclear reason="illegible" resp="SS">Stevens</unclear> - 50 volumes</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Ardinos Ward.</unclear>
+            </p>
+            <p>Fisk&apos;s Discovery of America - 3 Volumes.</p>
+            <p>Prescotts Narratives Conquest of Mexico, &quot; &quot; Peru.</p>
+            <pb n="179" facs="0012_003086_000201_0179.jpg" xml:id="d3e3444"/>
+            <p>Prof. Parsons. stick pin</p>
+            <p>Dr. Hodge. - May be <unclear reason="illegible" resp="SS">sticked</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Kent.</unclear>
+            </p>
+            <p>Mother Missler. &amp; <unclear reason="illegible" resp="SS">Marmie</unclear>
+            </p>
+            <p>Louise Phillipps</p>
+            <p>Addie Rollen</p>
+            <p>Gertrude <unclear reason="illegible" resp="SS">Schoefield</unclear>
+            </p>
+            <p>Mildred &amp; <unclear reason="illegible" resp="SS">Bon.</unclear>
+            </p>
+            <p>Momma Papa Rosa &amp; Roy</p>
+            <p>Walter Pearl &amp; Lena &amp; <unclear reason="illegible" resp="SS">Jone</unclear>
+            </p>
+            <p>Howard &amp; Margaret, &amp; M.J.</p>
+            <p>Allen <unclear reason="illegible" resp="SS">Turbeville</unclear> stick pin</p>
+            <p>Sadie Nixon</p>
+            <p>Robert Turnbell</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Mah</unclear> Reynolds Wells</p>
+            <p>Mrs. <unclear reason="illegible" resp="SS">Brownlow</unclear>
+            </p>
+            <p>Miss Elizabeth Alice Haslam</p>
+            <p>Delia Harris</p>
+            <pb n="180" facs="0012_003086_000201_0180.jpg" xml:id="d3e3503"/>
+            <p>Bertha H</p>
+            <p>Ken H</p>
+            <p>Alma &amp; Val. G.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Trula</unclear> W.</p>
+            <p>Mack R &amp; <unclear reason="illegible" resp="SS">Chubby</unclear>
+            </p>
+            <p>Clint J. - stick pin</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Velda</unclear> W</p>
+            <p>Ella T.</p>
+            <p>Fosters - Jack &amp; <unclear reason="illegible" resp="SS">Shy</unclear> stick pin</p>
+            <p>Tilley</p>
+            <p>McCrary - Carl - <unclear reason="illegible" resp="SS">Moot</unclear> stick pin <unclear reason="illegible" resp="SS">Aunt S.</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Toursand <del type="overstrike" hand="rgt">Geo.</del>
+               </unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Ola L.</unclear>
+            </p>
+            <p>Frank &amp; Geo. G. stick pins</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Addict</unclear>
+            </p>
+            <p>Mrs. <unclear reason="illegible" resp="SS">Boars Wilks Baars.</unclear>
+            </p>
+            <p>Mr. <del type="overstrike" hand="rgt">Br</del> Hyde stick pin</p>
+            <p>The Williams at Little Rock</p>
+            <p>Frank Tatum stick pink</p>
+            <p>Irwin</p>
+            <p>Isabel Million</p>
+            <p>Zola Keeton &amp; Harry stick pin</p>
+            <pb n="181" facs="0012_003086_000201_0181.jpg" xml:id="d3e3577"/>
+            <p>To Archdeacon I thank you for the kindness you have shown me in so many many ways. I can
+          assure you that it is greatly appreciated I am very thankful indeed to have <del type="overstrike" hand="rgt">had</del> been able to spend 3 mos with you It is one of
+          the greatest privileges I have ever had.</p>
+            <p/>
+            <pb n="182" facs="0012_003086_000201_0182.jpg" xml:id="d3e3587"/>
+            <p>3277</p>
+            <p>120</p>
+            <p>19.</p>
+            <p>5.</p>
+            <p>
+               <emph>18.</emph>
+            </p>
+            <p>152.</p>
+            <p>19</p>
+            <p>79</p>
+            <p>
+               <emph>50</emph>
+            </p>
+            <p>300</p>
+            <p>
+               <emph>50</emph>
+            </p>
+            <p>
+               <emph>350</emph>
+            </p>
+            <p>4175</p>
+            <p>
+               <emph>5000</emph>
+            </p>
+            <p>11</p>
+            <pb n="183" facs="0012_003086_000201_0183.jpg" xml:id="d3e3627"/>
+            <p>[Back Cover Recto]</p>
+            <pb n="184" facs="0012_003086_000201_0184.jpg" xml:id="d3e3633"/>
+            <p>[Back Cover]</p>
+            <pb n="185" facs="0012_003086_000201_0185.jpg" xml:id="d3e3639"/>
+            <p>Girls at Nenana</p>
+            <p>Lucy Henry</p>
+            <p>Laura <unclear reason="illegible" resp="SS">Better</unclear>
+            </p>
+            <p>Julia Albert</p>
+            <p>Sallie <unclear reason="illegible" resp="SS">Salvet</unclear>
+            </p>
+            <p>Eva Henry</p>
+            <p>Mary Wells</p>
+            <p>Maggie Albert</p>
+            <p>Edna Burgess</p>
+            <p>Lena Smith</p>
+            <p>Dora Henry</p>
+            <pb n="186" facs="0012_003086_000201_0186.jpg" xml:id="d3e3670"/>
+            <p>Boys at Nenana</p>
+            <p>
+               <del type="overstrike" hand="rgt">Samuel Abraham</del>
+            </p>
+            <p>Esaias George</p>
+            <p>John Fredrick</p>
+            <p>George <unclear reason="illegible" resp="SS">Mowers</unclear>
+            </p>
+            <p>Mike <unclear reason="illegible" resp="SS">Micholi</unclear>
+            </p>
+            <p>Alfred Star</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Ala Kellunn</unclear>
+            </p>
+            <p>Johnson <unclear reason="illegible" resp="SS">Ean</unclear>
+            </p>
+            <p>Abraham Joseph</p>
+            <p>Harry Riley</p>
+            <p>Peter John</p>
+            <p>Timothy Bennett</p>
+            <p>David Albert</p>
+            <p>Charlie Smith</p>
+         </div>
+      </body>
+   </text>
+</TEI>

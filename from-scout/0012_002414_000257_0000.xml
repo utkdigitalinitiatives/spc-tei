@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000257_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Delafield</name>
+				                   in New York, N.Y. to Eben Hazard.,<date when="1796-01-31">1796 Jan. 31</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John Delafield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000257_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Delafield in New York, N.Y. to Eben Hazard.,1796 Jan. 31</title>
+               <date when="1796-01-31">1796 Jan. 31</date>
+               <author>
+                  <name type="person">John Delafield</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000257_0001.jpg" xml:id="d4e39"/>
+            <p>Mr. Eben: Hazard</p>
+            <p>Philadelphia</p>
+            <p>Letter</p>
+            <p>John Delafield</p>
+            <p>Janry 31st , 1796</p>
+            <pb n="2" facs="0012_002414_000257_0002.jpg" xml:id="d4e51"/>
+            <p>New York  Jany 31.  96</p>
+            <p>Dear Sir</p>
+            <p>G Lynchs Note was not left with Hazard or Addams to be put in unit and delayed by reasons then urged by You.___ I have no recollection what is
+				       become it _ after looking again and without success _ be kind enough when you pass that way to ask Mr. McConnel if He has any knowledge of it.</p>
+            <p>I doubt if your plan for Insurance as : Fire will become general_ if I understand it right your price is too high._  The <unclear reason="illegible" resp="pw">Phonis</unclear>
+				       in London Insure the Belvedere which is all Timber and distant from this City at 13/PCent.__ A more faithful description of My Stores cannot be given_
+				       they are all of Timber   The Buildings about them will be the same_ they are near, indeed close to the River and instant help all around __ at what
+				       Rate will you Ins: those Buildings _______</p>
+            <p>A new Marine Insurance Company is formed</p>
+            <pb n="3" facs="0012_002414_000257_0003.jpg" xml:id="d4e66"/>
+            <p>Here the Names I inclose you_ and tom:w we chase 17<unclear reason="illegible" resp="pw">Doiectorr</unclear>_ our Capital <unclear reason="illegible" resp="pw">depoiled</unclear>
+				       100m Dolls: and a further sum secured of 300m Dolls: add to this the property of the whole_ (for we have no Charter) may be considered as good security
+				       for what we may risk. ________</p>
+            <p>If you see no impropriety in the thing, I will thank you to send Me a Copy of your internal regulations _  The expence of transcribing I will gladly repay _
+				       I will oblige.  Yse. very truly</p>
+            <p>Jno. Delafield</p>
+            <p>
+               <unclear reason="illegible" resp="pw">illegible</unclear>._ not to store Hemp, Flax, Hay Straw, unthreshed Corn, Spirits of Turpentine, Turpentine,
+				       Pitch Tar, Rosin Gunpowder Shingles or Fodder</p>
+            <p>Mr  E. Hazard</p>
+            <pb/>
+         </div>
+      </body>
+   </text>
+</TEI>

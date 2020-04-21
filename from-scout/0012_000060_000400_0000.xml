@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000400_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>James A. Wallace</name>
+ in Clayton, Ala., to J.G.M. Ramsey in Charlotte, N.C.<date when="1871-04-22">1871 Apr. 22</date>
+            </title>
+            <author>
+               <name type="person">Wallace, James A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000400_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, James A. Wallace in Clayton, Ala., to J.G.M. Ramsey in Charlotte, N.C. 1871 Apr. 22</title>
+               <date>1871-04-22</date>
+               <author>
+                  <name>Wallace, James A.</name>
+               </author>
+               <extent>6 digital images; 6 pages</extent>
+               <note type="abstract">James A. Wallace wrote to J.G.M. Ramsey on April 22, 1871. He pointed out many printing errors in the Davidson Monthly in regards to articles he had submitted about Rev. H. J. Balch. He asked Ramsey to read the proofs of the latest article he had mailed. He stated the importance of facts and correct dates to future historians. He also planned to submit a paper to clear up some misprints about the Mecklenburg Declaration. He told some tales of a private nature that he said he had facts on.  He mentioned he had familial anecdotes that had never been published. 
+
+ 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>History--Sources--Publishing.</term>
+               <term>Proofs (Printing)</term>
+               <term>Printing.</term>
+               <term>Wallace, James A.--Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884--Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000400_0001.jpg" xml:id="d3e153"/>
+            <p>Clayton, Ala. April 22nd. 1871.</p>
+            <p>Dr. J.G.M. Ramsey:</p>
+            <p>Dear Sir, </p>
+            <p>From a limited acquaintance in former years, I have presumed to address you on a subject in which you doubtless feel interested I suppose you have seen two articles in the Davidson Monthly touching Rev. H.J. Balch and some of his friends. These have suffered such fearful injustice at the hands of the printers, that I was tempted after the appearance of the first no. to with hold all the others, I have written a good deal for the Press in Philadelphia, Columbia and other places and have edited two papers since the war and I generally have found the proof correct. the <unclear reason="illegible" resp="NW">second</unclear> no. of my articles referred to is more correct than the first: but instead of &quot; attrition of one mind on another, &quot; it is attention <unclear reason="illegible" resp="NW">&amp; </unclear> making sheer nonsense. the date of <unclear reason="illegible" resp="NW">Mr. </unclear> B.s. licensure in his epitaph </p>
+            <pb n="2" facs="0012_000060_000400_0002.jpg" xml:id="d3e176"/>
+            <p>is printed 1758 instead of 1768. this must be the result of carlessness as Mr. B. was then only 12 years old.</p>
+            <p>Another no. has been snt on, and if it be not out of your <unclear reason="illegible" resp="NW">power, </unclear> I request you to read the proofs and see that these errors do not recur in the future. These facts are published to prevent being lost: and as they may be <unclear reason="illegible" resp="NW"> arawn in</unclear> by future historians, it is very important that they should be correct. I have been treasuring them up ever since the death of my father in 1830. My mother died in Sept. 1844, and the communications of <unclear reason="illegible" resp="NW">C.P.M. </unclear> Foote in the watchman of the South, were the subject of many conversations between her and myself. Foote&apos;s Sketches are greatly marred by erronious dates, and therefore unsafe as authority. For instance the controversy about the genuineness of the <unclear reason="illegible" resp="NW">hecklenburg</unclear> Declaration, <unclear reason="illegible" resp="NW">brught</unclear> about by the sneers of Wm. Jefferson, is dated 1830 (after the death </p>
+            <pb n="3" facs="0012_000060_000400_0003.jpg" xml:id="d3e201"/>
+            <p> of <unclear reason="illegible" resp="NW">Dm Heanter </unclear> instead of 1820. It is my design to present in a future paper, the testimony and the arguments in proof of the genuinness of that Document, and particularly the Resolves of the 20th instead of the 30th. of May, in oppositionto the views of Peter <unclear reason="illegible" resp="NW">Force.</unclear>
+            </p>
+            <p>I could give many facts of a private nature, that would throw light on the course of <unclear reason="illegible" resp="NW">M.</unclear> Archibald: but as there are descendants of his living it would not be prudent to publish them <unclear reason="illegible" resp="NW">There</unclear> was a <unclear reason="illegible" resp="NW">Dm. Strain</unclear>, a son of the Rev. John <unclear reason="illegible" resp="NW"> Strain</unclear> of Tenn. when the good people of Mecklenburg educated for the ministry, hoping to make out of him a man like his father. My father attended the same Academy with him taught by Rev. Robert Finley on Mc. <unclear reason="illegible" resp="NW">Alpin &apos;s </unclear> Creek some distance east of Charlotte. This <unclear reason="illegible" resp="NW">Strain </unclear> studied <unclear reason="illegible" resp="NW">medcine</unclear> and boarded in the house of <unclear reason="illegible" resp="NW">Mrs. </unclear> Archibald, after he came into </p>
+            <pb n="4" facs="0012_000060_000400_0004.jpg" xml:id="d3e241"/>
+            <p>practice. The marriage of <unclear reason="illegible" resp="NW">Mrs.</unclear> Archibald was uncongenial. His wife married him through the persuasion of friends, and not learning my <unclear reason="illegible" resp="NW">love</unclear> for him, a manifest estrangement took place after <unclear reason="illegible" resp="NW">Dm. Strain</unclear> went to live in the family. And so strong was the belief in the community of an improper intimacy between him and Mrs. A. that three men went to his room early one morning to tar &amp; feather him, but released him on his promising to leave the place. Instead of fulfilling the promise however, he brought an action against them and recovered heavy damages. I have heard more than of the <unclear reason="illegible" resp="NW">old</unclear> people tell how <unclear reason="illegible" resp="NW">Mr. </unclear> A. would go to the houses of his neighbors, and talk over his infelicities to his intimate friends. Mental <unclear reason="illegible" resp="NW">derangement </unclear> in peculiar <unclear reason="illegible" resp="NW">form was</unclear> perhaps the result. This is subrosa.</p>
+            <p>Of old <unclear reason="illegible" resp="NW">Mrs. </unclear> Caldwell it was said, that he was so stingy that when he went inot the woods to feed his hogs, if he found one to <unclear reason="illegible" resp="NW">feeble</unclear> to walk he would give it an ear. one that was able to go, he would just show it an ear. He died with a bag of silver under his head and his son Charley then studying in Salisbury did not come to see him until after his death. </p>
+            <pb n="5" facs="0012_000060_000400_0005.jpg" xml:id="d3e279"/>
+            <p>My father was in Gen. Davidson &apos;s command, when he fell at Cowan &apos;s Ford, and stood sentinal at the door of his marquee, only a short time previously. He went on <unclear reason="illegible" resp="NW">man Dickens</unclear> and joined the army of Greene, but was discharged at the same time with Graham &apos;s company, before the battle. I have several anecdotes from him and some other old men, that have never been published. </p>
+            <p>Francis Bradley was the uncle of my mother, by marriage. His wife was Abby <unclear reason="illegible" resp="NW">Camron</unclear>, the sister of John and James Camron: the latter was the <unclear reason="illegible" resp="NW">grandfather</unclear> of the late <unclear reason="illegible" resp="NW">Dn.</unclear> Franklin Camron of Jackson Mo. John Camron, my grandfather, lived near neighbor to Capt. Bradley; and when the latter was killed both families gathered immediately to the spot. When the foraging party of red coats went to Mc Intire &apos;s, two of them went to my grand father &apos;s took a cord out of a bed, cut it in two, and </p>
+            <pb n="6" facs="0012_000060_000400_0006.jpg" xml:id="d3e301"/>
+            <p>tied up the cords full of fodder, and started off with their plunder on their horses. When the firing commenced at Mc. Intyre &apos;s, they strewed the fodder in the road, and rode off at full speed.</p>
+            <p>I Remain Yours Very Truly</p>
+            <p>James A. Wallace.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

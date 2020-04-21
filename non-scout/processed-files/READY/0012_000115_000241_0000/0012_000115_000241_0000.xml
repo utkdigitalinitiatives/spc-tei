@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000241_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J. M. Saunders</name>
+				                    in Warrenton, Va., to Maj. David Burford in Dixon Springs, Tenn.,  <date when="1832-10-02">1832 Oct. 02</date>
+            </title>
+        <author>
+          <name type="person">Saunders, J.M.</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000241_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J. M. Saunders in Warrenton, Va., to Maj. David Burford in Dixon Springs, Tenn., 1832 Oct. 02</title>
+          <date when="1832-10-02">1832 Oct. 02</date>
+          <author>
+            <name type="person">J. M. Saunders</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000115_000241_0001.jpg" xml:id="d4e44"/>
+        <p>From J. M. Saunders</p>
+        <p>Oct 2 - 1832</p>
+        <p>Warrenton Va</p>
+        <p>Oct 3rd Double 50</p>
+        <p>Maj David Burford</p>
+        <p>Dixon Spring</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_000115_000241_0002.jpg" xml:id="d4e60"/>
+        <p>Warrenton Octr: 2nd 1832</p>
+        <p>Dear Burford</p>
+        <p>Your letter of the 22nd Sept. Countermanding your order of the 19th same month was rcd: this morning, and agreeable to your instruction, I return you the check for $1200 - having made it payable to your order - It is impossible at this time to purchase such negros as you want at the price you authorised me in your last letter to pay - I will however keep you advised of the state of the market whenever a change worthy of notice <unclear reason="illegible" resp="JCM">occurs</unclear>
+            </p>
+        <pb n="3" facs="0012_000115_000241_0003.jpg" xml:id="d4e70"/>
+        <p>I have resumed business in the small way, and will not undertake to enlarge it to any great extent until there is a change for the better in the market - negroes are generally lower in this country, in the latter part of the winter, thank at any other season of the year, and if you should determine to try the market at any future period, my services will at all time be at your command, and I would now retain your friends in anticipation of a favorable change in the <unclear reason="illegible" resp="JCM">puir of flures,</unclear> but for fear of putting you to some inconvenience in the event of such a contengency not coming to pass in a resonable time-</p>
+        <p>Your friend</p>
+        <p>JMSaunders</p>
+      </div>
+    </body>
+  </text>
+</TEI>

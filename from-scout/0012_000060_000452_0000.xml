@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000452_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1879-04-05">1879 April 5</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Rosinski, Wanda</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000452_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1879 April 5</title>
+               <date>1879-04-05</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>4 digital images; 4 p.</extent>
+               <note type="abstract">1879 Apr. 5 Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Explanation for his tardiness in seeing Dr. Lindsley concerning a manuscript which was to have been sent to J.G.M. and Dr. Lindsley&amp;#x0027;s knowledge of it. Discusses plans for publishing histories by J.G.M. and Dr. Lindsley. Refers to the reception held for Dr. Ramsey&amp;#x0027;s 82nd birthday.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>History --  Sources -- Manuscripts.</term>
+               <term>Books -- Prices.</term>
+               <term>Tennessee -- History -- 19th century --  Sources -- Manuscripts.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Manuscripts.</term>
+               <term>Lindsley, John Berrien, 1822-1897 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000452_0001.jpg" xml:id="d3e151"/>
+            <p>Nashville, April 5, 1879</p>
+            <p>My very Dear Sir:</p>
+            <p>Do not think me negligent of your interests. I could not see Dr. Lindsley when your letter before the last came to hand, for the reason that he had gone to Memphis. When he returned, he was here only one day, and I did not know if until I heard he had gone to Knoxville. As soon as he returned, the State Medical Society met, in which he was much engaged. So I could not see him until to-day. I to-day talked matters over with him and he said he could not imagine where that Ms. could be, but that he would look for it again at home --</p>
+            <pb n="2" facs="0012_000060_000452_0002.jpg" xml:id="d3e163"/>
+            <p>that he thought he had sent it to you a long time ago, <unclear reason="illegible" resp="JR">so.</unclear> I read him what you said in one of your letters to me on that subject, and he replied that he might be mistaken about it, and would make a more thorough search at home -- that he had a large amount of manuscript, <unclear reason="illegible" resp="JR">&amp;e</unclear> at home, and it might be mixed in with that, <unclear reason="illegible" resp="JR">&amp;e</unclear>
+            </p>
+            <p>Dr. L told me that he told your business agent at Knoxville how he thought your work and his should be published separately, and that he (your agent) seemed to be satisfied with the plan. As well as I can recollect he proposes to publish a large work, embracing the History of the State</p>
+            <pb n="3" facs="0012_000060_000452_0003.jpg" xml:id="d3e181"/>
+            <p>for several years past, in his own name. Another large work, embracing the earlier History of the State, by you is to follow -- each at $5 per vol. You to have the profits of the first edition of each, he the other half. Afterwards, each one to go on his own book.</p>
+            <p>I am not sure that I got the idea very correctly, and did not try very hard to remember for the reason that he said he would write to you or your Agent in a day or two, at length.</p>
+            <p>Dr. L. said he talked over the matter with your agent at Knoxville (I do not remember his name) and that an understanding was reached. I hope such is the case. Let me know.</p>
+            <pb n="4" facs="0012_000060_000452_0004.jpg" xml:id="d3e193"/>
+            <p>Mrs. Nelson and myself join in sincere good wishes to you and yours. May God bless you, and lengthen out your days to at least a century!</p>
+            <p>I was proud to see all about your reception on the 82nd anniversary of your birth.</p>
+            <p>Very Truly your friend,</p>
+            <p>Anson Nelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

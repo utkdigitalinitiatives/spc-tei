@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002513_000205_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, 
+				<name>Della</name> to Charlie <date when="1863-06-28">1863 June 28</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Della</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002513_000205_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Della to Charlie 1863 June 28</title>
+          <date when="1863-06-28">1863 June 28</date>
+          <author>
+            <name type="person">Della</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Watson B. Smith Papers, June 1863 - Sept. 1863</note>
+          <note type="manuscript">3324</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Michigan -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States. Army. Corps, 23rd (1863-1865).</term>
+          <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002513_000205_0001.jpg" xml:id="d4e39"/>
+        <p>Dear Charlie I seat myself to answer your very kind letter I assure you nothing afforded me more pleasure than to receive this letter and to hear that you were well.  Charlie you cannot imagine how astonished I was when I came home from the singing this evening and saw Mr. Poore sitting in the house I looked around for you but I saw you not I asked Mr. Poor where you was but he did not say where you was I just as I was agoing out to retire he handed me this letter O I was so glad to hear from you once more bitter thoughts have swelled my bosom since your departure I felt as if I had lost the dearest best friend on earth All that I have heard you said against me can <unclear reason="illegible" resp="AH">neve</unclear> turn me in any way what ever I have confidence in </p>
+        <pb n="2" facs="0012_002513_000205_0002.jpg" xml:id="d4e46"/>
+        <p>you their has been a great many things told me that you have said to a seren young man I presume you know whoo he is Charlie I donot believe you said any thing to him a bout me though I could not help feeling sad to think that any person would interfere with us I was talking to Mary Murphy this evening about what I heard she consoled me greatly we are great friends to console one another she says that Robert is her dearest friend and you next I love Mary though I never tell her any thing about you as far as I am concerned though she knoes by my actions thtat I cherresh for you a love that cannot be broken Charlie donot think this <unclear reason="illegible" resp="AH">imprndence</unclear> of me for speaking so plainly to you although we are spearated in person yet you are never absent from my thoughts I think of you all day and night Charlie I have no news to write and it is getting late I must bring my few remarks to a close hoping that I have not wearied you in trying to read this of badly written letter I will excuse you for not comeing by this time as I know you cannot be every where I onely hope you will come as soon as circumstances will admit I had rather see you now than I ever did in nothing more for the present I remain yours with all the devotion of amy sad and lonely heart.  I leave ywith you my best regards hoping that I carry with me yours</p>
+        <p>I am yours until Death</p>
+        <p>Della</p>
+        <p>Charlie if you see that young ma thas been so medlesom please donot say any thing about what I have wirtten you know whoo he is for h is watching me as cloze as if he thought that I belong to him but I never will no never never</p>
+      </div>
+    </body>
+  </text>
+</TEI>

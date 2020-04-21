@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000347_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Francis A. Ramsey</name> at Swan-pond, Tenn., to J.G.M.
+Ramsey, at Mount Ebenezer Academy, Knox County, Tenn. <date when="1813-03-25">1813 March 25</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000347_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Francis A. Ramsey in Swan-Pond, Tenn., to J.G.M. &amp; W.B.A. Ramsey at Mount Ebenezer Academy, Knox County, Tenn. 1813 Mar. 25</title>
+               <date>1813-03-25</date>
+               <author>
+                  <name>Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1813 Mar. 25, Francis A. Ramsey, Swan-Pond, Tenn., to his sons, J.G.M. and W.B.A. Ramsey, students at Mount Ebenezer Academy, Knox County, Tenn. Greetings on J.G.M.&apos;s sixteenth birthday and advice for building a good character now that he has reached this &quot;very critical period.&quot;</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Moral exhortation -- History -- 19th century. </term>
+               <term>Communication -- Moral and ethical aspects -- Tennessee -- History -- 19th century.</term>
+               <term>Friendship -- Tennessee -- Sociological aspects -- History -- 19th century.</term>
+               <term>Knox County (Tenn.)</term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000347_0001.jpg" xml:id="d3e157"/>
+            <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+            <p>
+               <unclear reason="illegible" resp="bds">N.B</unclear> Your grand Pa expected to go down but the rain
+has prevented I will however keep this and send it to you the first opportunity Please to keep and
+<unclear reason="illegible" resp="bds">lay</unclear> by you for future perusal all my letters
+and I will keep yours also - Billy will please to write to his Papa also - both of you write
+occasionally to your <unclear reason="illegible" resp="bds">Sissy</unclear> - she loves you both, and
+it may be of service to write to her - </p>
+            <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+            <p>Mr James G.My. Ramsey</p>
+            <p>Student at Mount Ebenezzer Academy</p>
+            <p>Knox County Tennessee</p>
+            <pb n="2" facs="0012_000060_000347_0002.jpg" xml:id="d3e183"/>
+            <p>Swan-pond March 25th 1813</p>
+            <p>My dearly beloved, and now my oldest Son,</p>
+            <p>Sixteen years ago this day, I first seen your face, on that day, and on many days since I endeavoured
+to give you to God, I almost dayly and hourly feel anxiety of mind about your happiness in this life and
+in the life that is to come, you have now arrived at a very critical period of your life, a time when the
+mind is very often formed as to the future character, the dispositions and habits formed about your present
+age, and a few years after are such as is generally seen to accompany thro the whole course of life
+afterwards, If this be true, then of what vast importance is it to set out right - Oh my son if you
+knew, or could recognize how much my happiness, as well as your own depends on your good conduct, I
+am sure you would still continue to try to add to my happiness, by guarding against youthful follies,
+and now when you are coming near to mans years strive to &quot;put away childish things&quot;</p>
+            <p>&quot;My Son, if thine heart be wise, my heart shall rejoice, even mine; yea, my reins shall rejoice,
+<unclear reason="illegible" resp="bds">when</unclear> thy lips speak right things.&quot; Prov. XXIII -
+15.16</p>
+            <p>&quot;I have no greater Joy than to hear that my children walk in Truth&quot; 3rd Epistle of John 4th
+verse</p>
+            <p>You will be careful to take all opportunities of storing your mind with useful and ornamental
+knowledge <unclear reason="illegible" resp="bds">nad</unclear> such books as may be of most
+advantage to you in this respect, and for this purpose I herewith</p>
+            <pb n="3" facs="0012_000060_000347_0003.jpg" xml:id="d3e207"/>
+            <p>Send you <unclear reason="illegible" resp="bds">Beatties</unclear> Elements - which if I am not
+mistaken is elegantly written, (but of this I am not a competent Judge) - I think it would be
+advisable for you to make a small blank book in which you should write down your own observations on
+every author you read, particularly noting the section page &amp;c - and if in any thing you are at
+loss to understand your author - particularly note that, and write it down by way of interrogation,
+and take some occasional opportunity of proposing it to your Uncle, or to any person whom you think
+would be able to give you light on the subject - cultivate a disposition to reflect on, and apply all
+you read, this is the way to make your reading profitable to you, and your life a pleasure to
+your-self and to those connected with you - </p>
+            <p>There is one thing my dear Son I think it my Duty to advise you about and to caution you respecting,
+it is this - young men of ingenuous minds, and of a Friendly disposition, in the ardor of their Friendship
+sometimes unintentionally injure the feelings or character of one Friend or associate in the mind of
+another Friend or associate - I will give you an example - suppose I have two Friends A. and B -
+<unclear reason="illegible" resp="bds">with</unclear> whom I am intimate - and they are unacquainted
+with each other - My Friend A. in the confidence of his Friendship with me, does some act before me,
+or says something to me, that he would not wish to be known by any body else - I afterwards in the
+confidence of my Friendship with B tell him</p>
+            <pb n="4" facs="0012_000060_000347_0004.jpg" xml:id="d3e223"/>
+            <p>about my Friend A. not intending any injury to A by telling B - yet you see at once that A is thereby
+lessened in the eyes of B altho I have told nothing but what was true and in the ardor of my
+Friendship for B - and at the same time not intending to act unfriendly to my Friend A. - this is an
+evil that frequently arises among young Friends who are communicative, and the more Friends or
+associates we have we are in the more danger of falling into this snare and still doing it in
+the exercise of a Friendly disposition, I am the <unclear reason="gap" resp="bds">most</unclear> particular
+in mentioning this as it is an error I have seen very many fall into, that they were not aware of
+it - because they were unconscious of a design to injure any Friend, and as it only injures by
+consequence and not of design.</p>
+            <p>My Dear Son I am anxious that you should excel in every thing that is praise worthy, and ornamental
+to the human character - you are naturally an Example to your dear little Brother Billy whose
+naturally placid, and yielding disposition you may be very helpful to lead in the paths of Virtue,
+Sobriety and Piety - this letter I design for you both but it was suggested principally from the
+circumstance of this being your birthday - </p>
+            <p>Let me exhort you in the words of an apostle &quot;The youthful lusts which war against the Soul&quot;
+&quot;Let none despise thy youth, but be (both of you) an example to others&quot; &quot;<unclear reason="gap" resp="bds">Abstain from an appearance of evil&quot;</unclear> &quot;Pray without
+ceasing&quot; I shall conclude with the words of Solomon &quot;My Sons, hear the instructions of
+a Father,&quot; that you both may be disposed to walk in the <unclear reason="illegible" resp="bds">Fear</unclear> and Love of God, and to seek him now in the days of your youth is
+the Earnest and constant prayer of my dear sons your affectionate Father</p>
+            <p>F.A. Ramsey</p>
+            <p>To J.G.My &amp; W.B.A. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

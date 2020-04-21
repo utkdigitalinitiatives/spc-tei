@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000426_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>W.A. Harrison</name>
+ in Harrodsburg, Ky., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1874-11-12">1874 Nov. 12</date>
+            </title>
+            <author>
+               <name type="person">Harrison, W. A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>McClain, Lindsay</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000426_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W.A. Harrison in Harrodsburg, Ky., to J.G.M. Ramsey in Knoxville, Tenn. 1874 Nov. 12</title>
+               <date>1874-11-12</date>
+               <author>
+                  <name>Harrison, W. A.</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">Rev. W.A. Harrison wrote to J.G.M. Ramsey on Nov. 12, 1874. He told J.G.M. he was sorry about his injury resulting from a fall from his horse. He discussed politics, expressing happiness in the outcome of recent elections which he saw as a Southern victory. He saw Ramsey as a prophet, as well as a historian. He agreed with Ramsey that the South would rise again and save our country. He saw this as one of God&apos;s works. He bemoaned the atrocities that had happened to the South. He thought the North would come around to the South&apos;s way of thinking. He thought the South would attain Constitutional freedom through the recent elections. He realized toward the end of his letter which was meant to be a &quot;get well expression,&quot; that it had turned into a political ranting and apologized to Ramsey. He knew Ramsey would understand because of his mutual views.
+
+ 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Religion and politics -- Southern States -- History -- 1865-1877.</term>
+               <term>Elections -- Southern States -- History -- 1865-1877.</term>
+               <term>Confederate States of America -- Politics and government.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Harrison, W. A. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000426_0001.jpg" xml:id="d3e157"/>
+            <p>Harrodsburg KY Nov 12th 1874</p>
+            <p>Hon J.G.M. Ramsey</p>
+            <p>Knoxville Tenne:</p>
+            <p>Dear Dr. I have just heard, this letter from Knoxville, of your sickness, occasioned by a fall from your horse, or a hurt, in some way, received from riding. I was sorry to hear of your indisposition, and especially at this time when the news that comes in upon us from all quarters is cheering &amp; so full of hope. I know it will act like a tonic on you &amp; if it is possible you will be on your horse again, visiting your friends, and pointing them, as in daze of you, to a future all light with the promise of good things to come. For now the day dawns on us &amp; the night is past and gone. Now we can say with Franklin, when he looked at the sun painted behind the chair of the speaker of the house &quot;Now we know it is a rising and not a setting sun.&quot; Like Franklin I have been of late puzzled to determine whether our sun was rising or setting, but thank God since the</p>
+            <pb n="2" facs="0012_000060_000426_0002.jpg" xml:id="d3e171"/>
+            <p>elections I fancy I see that sun not clapping towards the horizon, but mounting upward to the zenith. I think now of the conversations we used to have in your back about the future of our country, and <unclear reason="illegible" resp="LM">severely believe</unclear> they will all come true, &amp; that you will prove prophet as well as historian. You said it was the destiny of the South to save this country &amp; to put us on a higher lead as a nation than ever before attained &amp; that the south would be equal &amp;up to her high destiny. I believe it. But it was been done in a way altogether unexpected, &amp; that is like light from darkness, &amp; life from the midst of death. And yet this, the way God works-- &amp; how blind i was not to see it. &quot;Except a corn of wheat fall into the ground and die, it is abideth alone; but if it die, it bringeth forth much fruit.&quot; The South, by her heroic struggle for Constitutional liberty has, the slain herself saved our country. It will yet be confessed that we have been saved through the shock of the terrible civil war that overwhelmed us for a time. The very principles for which</p>
+            <pb n="3" facs="0012_000060_000426_0003.jpg" xml:id="d3e182"/>
+            <p>the South contended will, in due time, be reaffirmed by those who have stricken us into the dust. So that ours is not &quot;a Lost Cause.&quot; The corn that is lost under the clod is not dead, the coming harvest shall be its vindication from the charge. &quot;Truth crushed to earth will rise again, the eternal years of God are hers.&quot;</p>
+            <p>The principles for which we contended, as you historians know &amp; have taught us, have again &amp; again been slain in battle in other countries, but they have risen from their graves &amp; flourished. And so it seems it is to be in our history.Constitutional freedom is not dead. I thot it was &amp; that you old historians were meditating the epitaph to be written above its grave. The election gives the token of a reaction a resurrection from the bloody grave in which I thot freedom was to slumber forever. The history of the last ten years has revealed the crime against constitutional liberty in all its ghastly deformities. The</p>
+            <pb n="4" facs="0012_000060_000426_0004.jpg" xml:id="d3e192"/>
+            <p>people of the North, no longer maddened by the cry of slavery, slavery, are horrified at the crimes perpetrated in the name of Liberty, and see that if they would save themselves they must vindicate the South &amp; hurl radicalism &amp; all its instruments in to perdition.</p>
+            <p>But I must not go on at this rate. I am no politician, I sat down to write you a letter of comfort in your affliction, &amp; so, I am preaching a sermon on politics. But I know you will forgive me, for being exultant at the prospect of seeing justice (even in prospect) done to our poor, crushed, victimized South.</p>
+            <p>I hope you will soon be out, and if God has appointed other wise, why I know you will acquiesce in the divine appointment.</p>
+            <p>All things work for good &amp;e.</p>
+            <p>Love to your dear wife &amp; family:</p>
+            <p>As ever Yours in the best of bonds</p>
+            <p>W.A. Harrison</p>
+         </div>
+      </body>
+   </text>
+</TEI>

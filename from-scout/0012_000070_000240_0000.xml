@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000240_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Carter, J. V.</name>
+ in Knoxville, Tenn. to Customs House Officers, Cincinnati, Ohio.<date when="1863-10-07">1863 October 7</date>
+            </title>
+            <author>
+               <name type="person">Carter, J.V.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000240_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, G. V. Carter in Knoxville, Tenn., to Customs House Officers, Cincinnati, Ohio, 1863 October 7</title>
+               <date>1863-10-07</date>
+               <author>
+                  <name>Carter, J.V.</name>
+               </author>
+               <extent>1  digital image;  1 page</extent>
+               <note type="abstract"> In this letter dated 7 of October, 1863, G. V. Carter writes to the Customs House Officers, Cincinatti, Ohio that O.P. Temple be permitted to ship family supplies and merchandise to Knoxville, Tenn. Burnside signature approved.</note>
+               <note type="collection">O. P. Temple Papers,1863</note>
+               <note type="manuscript">MS.21</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Personal belongings -- Transportation -- Government policy -- Ohio -- Cincinnati -- History -- Civil War, 1861-1865.</term>
+               <term>Household supplies -- Transportation -- Government policy -- Tennessee -- Knoxville -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee, East -- Politics and government -- 19th century.</term>
+               <term>Cincinnati, Ohio -- Politics and government -- 19th century.</term>
+               <term>Carter, J. V. -- Correspondence.</term>
+               <term>Burnside, Ambrose Everett, 1824-1881 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000070_000240_0001.jpg" xml:id="d3e157"/>
+            <p>Office Pro. M. G. of E. Tenn</p>
+            <p>Knoxville, Octr. 7th 1863.</p>
+            <p>To</p>
+            <p>Custom House Officers </p>
+            <p>Cincinatti</p>
+            <p>It is recommended that O.P. Temple Esqr. a loyal citizen - be permitted to ship family supplies &amp; merchandise to Knoxville, Tenn. </p>
+            <p>J. V. Carter </p>
+            <p> B. G. &amp; P. M. G of </p>
+            <p>E. Tenn.</p>
+            <p>Appr A E Burnside</p>
+            <p>Maj Gen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

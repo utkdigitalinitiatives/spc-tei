@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000212_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Deposition,
+					<name>John, Sevier</name>
+				                    in Knoxville, Tenn<date when="1804-04-20">1805 November 02</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Caldwell, Chris</name>
+        </respStmt>
+        <author>
+          <name type="person">John, Sevier</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000212_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Deposition, John, Sevier in Knoxville, Tenn1805 November 02</title>
+          <date when="1804-04-20">1805 November 02</date>
+          <author>
+            <name type="person">John, Sevier</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">John Sevier Collection, 1782-1839</note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Caldwell, Chris">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000543_000212_0001.jpg" xml:id="d4e39"/>
+        <p>Jenkins Whiteside</p>
+        <p>ads 9 Answer</p>
+        <p>Joseph Jackson</p>
+        <pb n="2" facs="0012_000543_000212_0002.jpg" xml:id="d4e47"/>
+        <p>State of Tennessee</p>
+        <p>The seperate answer of Jenkins Whiteside to the Bill exhibited against him and Hugh Montgomery Defendants in the Honorable Chancery Court for the Staunton District in the Commonwealth of Virgina by Joseph Jackson Complainant</p>
+        <p>The Defendent now and at all times serving and reserving to himself all advantage and benefit of exception to the many Imperfections and untruths in said Bill contained, for answer to so much thereof as he deems material for him to answer unto, Says that sometime about the first of September 1797 said Hugh Montgomery showed him a bond which appeard to have been executed by the Complainant and was then due as he believes for the sum of £60 pounds and requested him to take it in satisfaction of some each that this defendant either had advanced as a promised to pay for said Montgomery and some other transactions between them which this defendant agreed to do if said Jackson would acknowledge the Justice of the demand and said Montgomery would afterwards indorse it, or something to that effect; the Defendant soon after said said Complainant and Montgomery together when the said Bond was produced and Jackson acknowledged that the sum therin specified was justly due and that he had given the bond proposed some modes of descharging it, which this defendent cannot now recollect, and promised to satisfy it within a short time. Complainant did not then or any time after pretend that there was any defect in the in the title to the land he had purchased from said Montgomery or claim any equity or credit whatever against said Bond to the knowledge of this Defendant before he found it <unclear reason="illegible" resp="CC">regussate</unclear>to make some extraordinary attempt to evade payment longer by filed his bill to obtain an <unclear reason="illegible" resp="CC">Tryanetion</unclear>; This Defendent afterward on the 11th December in the last mentioned year obtained an assignment of said bond from said Montgomery and after said assignment before just was commenced on</p>
+        <pb n="3" facs="0012_000543_000212_0003.jpg" xml:id="d4e61"/>
+        <p>said Bond in the Washington District Court the Complainant recognized the said Debt and promised ths Defendant to pay it within a short time; This Defendant further answers that after he caused Suit to be commenced in the Washington District Court against said Jackson he wrote to this Defendant in Tennessee acknowledging that said sum of £60 was justly due and urging this Defendant to take Loss in discharge of it; This Defendant wrote to said Complainant that he would take Loss if he would deliver it at Hawkins Court house in Tennessee, but he never sent any. This Defendant further answers that he has been informed and believes that Judgment was obtained on said bond in the Washington District Court, against said Complainant that execution was sued out and levied on this property which this Defendent had directed to be done. This defendant futher states that he has been informed and believes that said Complainant  after said judgment had been received and after the Execution was levied on his property acknowledged to Daniel Shoppey esq this Defendants ally in the business, that he justly owed said sum of money and would pay it, if he could get longer indulgence; This Defendant knows nothing of the Title to said <unclear reason="illegible" resp="CC">Mouty</unclear>of the <unclear reason="illegible" resp="CC">Server</unclear> such <unclear reason="illegible" resp="CC">Forgs</unclear> and tract of Land there to  <unclear reason="illegible" resp="CC">aussined</unclear>, or whether said Complainant had to purchase again any part of the the Land which he had purchased from Montgomery nor does he know anything of the contract between Montgomery and the Complainant but by Information from said Montgomery. This Defendant denies all and all manner of fraud ?continuation fe Without that fe fe and humbly requests to be <unclear reason="illegible" resp="CC">Desanssed</unclear> with his costs fe fe</p>
+        <p>J Whiteside</p>
+        <p>State of Tennessee towit</p>
+        <p>This day Jenkins Whiteside the Defendant above named personally appeared before me Hugh L White esquire of the Judges of the Superior Courts of Law&amp;Courts of Equity in and for the State aforesaid &amp;made oath that the facts and Statements in the above answers contained set</p>
+        <pb n="4" facs="0012_000543_000212_0004.jpg" xml:id="d4e86"/>
+        <p>forth as of his own Knowledge are true and those not of his own knowledge he believes to be true as there stated.</p>
+        <p>Jenkins Whiteside</p>
+        <p>Sworn to and Subscribed this 26 th day of October 1805. Before me</p>
+        <p>HL White</p>
+        <p>Stae of Tennessee, towit</p>
+        <p>I John Sevier esquire Governor in and over the said State of Tennessee, do hereby certify to whom it may concern that Hugh L White esquire before whom the above answer was taken and subscribed, at the time of taking the same was and yet is one of the Judges of the Superior Courts of law and Courts of equity in and for said State of Tennessee, and as such authorised by the laws of said State to administer oaths to, and take the answers of Defendants to Bills in Equity out of court, either in or out of the Sessions of said courts. In Testimony of which i have hereunto Subscribed my name and caused the Great Seal of the State to be affixed at Knoxville the 2nd day of November 1805.</p>
+        <p>By the Governor</p>
+        <p>Wm Macline, Secretary</p>
+        <p>John Sevier</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

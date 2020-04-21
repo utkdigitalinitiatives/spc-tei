@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000227_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Power of Attorney,
+					<name>Samuel B. Breese</name>
+				                   in New Jersey, to Ebenezer Hazard,<date when="1799-02-09">1799 Feb. 9</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Samuel B. Breese</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000227_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Power of Attorney, Samuel B. Breese in New Jersey, to Ebenezer Hazard,1799 Feb. 9</title>
+               <date when="1799-02-09">1799 Feb. 9</date>
+               <author>
+                  <name type="person">Samuel B. Breese</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000227_0001.jpg" xml:id="d4e39"/>
+            <p>Saml. B. Breese</p>
+            <p>to</p>
+            <p>Eben Hazard</p>
+            <p>Feby. 9. 1799</p>
+            <p>Power to Transfer</p>
+            <p>Stock. __ .</p>
+            <pb n="2" facs="0012_002414_000227_0002.jpg" xml:id="d4e53"/>
+            <p>Know all Men by these presents that I, Samuel B. Breese of Shrewsburg, in the County of Monmouth and State of New Jersey, 
+				      have made ordained, constituted, and by these presents do make, ordain and Consitute, and in my place and stead put and
+				      <unclear reason="illegible" resp="pw">dipute</unclear>Ebenezer Hazard of Philadelphia my true and lawfull attorney for me,
+				      and in my name to sell assign and transfer the whole or any part of the stock standing in my name on the books of the president
+				      and directors of the Insurance Company of North America, In witness whereof I have hereunto set my hand &amp;seal this 9th
+				      day of February.  In the year of our Lord one thousand and seven hundred &amp;ninety nine</p>
+            <p>Sealed and delivered in the presence of</p>
+            <p>Elizabeth Breese</p>
+            <p>Abigail Breese</p>
+            <p>Monmouth County</p>
+            <p>State of New Jersey</p>
+            <p>Sam-el B. Breese</p>
+            <p>Be it Known that this Ninth Day of February in the year of our Lord one thousand seven hundred and ninety nine personally
+				       appeared before me Samuel Breese Esquire one of the Judges of the Superior Court of <unclear reason="illegible" resp="pw">commopytion</unclear>
+				       and for the County of Monmouth &amp;State of New Jersey Samuel B. Breese. subscribing party to the above power of attorney.
+				       who acknowledged he sealed and delivered the same as his voluntary act I deed for the purpose therein Contained.</p>
+            <p>Acknowledged Before me</p>
+            <p>Samuel Breese</p>
+         </div>
+      </body>
+   </text>
+</TEI>

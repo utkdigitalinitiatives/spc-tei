@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000245_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in camp near Corinth, Miss., to Caroline M. Brown,<date when=" 1862-06-13">1862 June 13</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000245_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in camp near Corinth, Miss., to Caroline M. Brown,1862 June 13</title>
+          <date when=" 1862-06-13">1862 June 13</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000245_0001.jpg" xml:id="d4e39"/>
+        <p>June 13th 1862</p>
+        <p>Camp Near Corinth</p>
+        <p>Caroline M. Brown</p>
+        <p>Most respected wife I thought I would tell you about some of the boys i will tell no names but there is some of them that I thought a great deal of till went back from home there is one that we thought was verry smart that is one of the meanest and the most vulgar talking young men that i ever heard in my and he is as deceatful as the</p>
+        <pb n="2" facs="0012_000599_000245_0002.jpg" xml:id="d4e49"/>
+        <p>old devel wants him to be you may guess who it is if you can he is a pretty good <unclear reason="illegible" resp="LW">coquelt</unclear> to now you mind if he aint just as i tell you he is agoing to make a fool of somebody if they dont wach that is anough of that you may till Mrs Law that i think i will be at home against peach time so she can hear tell something about the swamps down here for i tell you there is anough of them here said that you had not got the letter that I wrote to the Boys you will get it yet so good by to you</p>
+        <pb n="3" facs="0012_000599_000245_0003.jpg" xml:id="d4e56"/>
+        <p>A few words to the boys Now boys we are a great ways apart you are in the state of Ohio and i am in the Confederate State of Mississippi a grate ways apart now i am a fighting for your liberty as well as mine now I want you to do the best you can for me at home and let the neighbours see what good boys you are and how well you can work and how nice you can tend your corn and things in order on the place and how nice you will have things when i get home if so lucky</p>
+        <pb n="4" facs="0012_000599_000245_0004.jpg" xml:id="d4e60"/>
+        <p>Now boys i am in the woods about a quarter of mile from camp by my self sitting on a big writing these few lines to you Now i cicearly hope these few lines may find you boat well and in good heart about your work and not quarling about whitch does the most I would like to see you first rate and your young stock of all kinds colt calf lamb and pigs I exspect they will be nice when i come home so no more at present but remain your father write soon Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

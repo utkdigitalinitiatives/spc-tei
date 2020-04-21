@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000210_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    at Uncle Billy&apos;s, to his father <date when="1858-07-26">1858 July 26</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000210_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson at Uncle Billy&apos;s, to his father 1858 July 26</title>
+               <date when="1858-07-26">1858 July 26</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000210_0001.jpg" xml:id="d4e39"/>
+            <p>At Uncle Billy&apos;s July 26th 1858</p>
+            <p>Hon. AJ Donelson</p>
+            <p>Memphis</p>
+            <p>Tennessee</p>
+            <p>My Dear Father</p>
+            <p>According to my letter to you from Nashville, I came up here day before yesterday. Found Uncle Billy and all with him well; also Uncle Stokely and family.  The latter are all at home now expect Cousin Emily and Mr. Bodie, who have gone to the<unclear reason="illegible" resp="EMS">Youngs</unclear>, Bob, <unclear reason="illegible" resp="EMS">Curry</unclear>, and cousin Mary, Washington and cousin Emily, and their families are in good health; Cousin Mary looking as well as I could have expected to see her. All that I have mentioned, including besides cousin Eliza Polk and miss Emma Erwin, a young lady from Town, spent the day and dined yesterday with Uncle Billy. Misses Polk and Erwin have been spending a week at Uncle Stokely&apos;s. Uncle Billy has a great deal to say to you, and he has told me to embody it in this letter. He feels very uneasy about you, but hopes and thinks if you can preserve your own health, and avoid losing any of the negroes, that all may go well. He is very anxious for you to move back into the neighbourhood, and says that if you can assist at all and feel so  </p>
+            <pb n="2" facs="0012_000435_000210_0002.jpg" xml:id="d4e59"/>
+            <p>disposed, he will unite with you in purchasing and improving the northern potion, 500 acres, of the Hermitage tract, and then he will guarantee $3000 a year for those objects. It is a beautiful place, and although the owners charge now $60 an acre for it, he thinks it can be bought for $50, Uncle Billy is renting a portion of it and has fine corn on the <unclear reason="illegible" resp="EMS">cany</unclear> field. His oats on the field south of that have been destroyed by <unclear reason="illegible" resp="EMS">rust</unclear>. If you cannot comply with his proposition, he thinks the next best thing for you is to buy an upland place wither in North Mississippi or West Tennessee, better in West Tenn, where you can reside with your family as well as make cotton. And with reference to your purchasing a place of residence in or near Memphis, his advice is by all means to wait and not be in a hurry; he thinks this property of every kind will come down and that you could make a much better purchase at some future time than now. Grandma Saunder&apos;s place is still for sale and it is thought could be bought for $16000. You and your family are very much regretted in the old neighbourhood; indeed, from what they all say, I should judge that no community ever felt the departure of a family as much as in this case. Uncle Billy&apos;s and Stokely&apos;s corn and cotton crops are very good, and every thing seems to be prospering on their places. It is said that Cockrill is doing very </p>
+            <pb n="3" facs="0012_000435_000210_0003.jpg" xml:id="d4e69"/>
+            <p>little at Tulip Grove; he has no good crops; many of his hogs have died with the cholera; his place is going to rack and ruin; and I believe he is dissatisfied.</p>
+            <p>I was very agreeably disappointed with Mr. Wade who married Cousin Laura, and find him a very clever gentleman. I stopped and dined at Dr. <unclear reason="illegible" resp="EMS">Hoggatt&apos;s</unclear>the day I came up, and found all well there.</p>
+            <p>Uncle Billy wishes you to write to him soon and tell him all your news.</p>
+            <p>He joins me in love for you, ma, John, cousin Kate, and all at home. I shall leave Nashville to morrow afternoon or next morning, proceeding to Washington, but perhaps stopping a while at the Virginia Springs, if I am not well when I reach them. I shall of course keep you posted as to my movements. Keep my letters in Memphis until you hear from me.</p>
+            <p>Your affectionate son</p>
+            <p>AJDonelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003086_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Robert G. Tatum</name> Diary, <date when="1918-10-07">1918 October 7-31</date>
+            </title>
+            <author>
+               <name type="person">Tatum, Robert G.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Stone, Sarah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date>2013</date>
+            <idno type="SPC">0012_003086_000204_0000</idno>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <extent>96 pages</extent>
+               <note type="collection">Robert G. Tatum Papers</note>
+               <note type="manuscript">MS.0774</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Episcopal Church -- Clergy.</term>
+               <term>Tatum, Robert G.</term>
+               <term>Military education.</term>
+               <term>Military drills.</term>
+               <term>Chemical weapons.</term>
+               <term>Mustard gas.</term>
+               <term>Rifles.</term>
+               <term>Grenades.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d3e116">
+            <pb n="1" facs="0012_003086_000204_0001.jpg" xml:id="d3e117"/>
+            <p>[Front Cover]</p>
+            <pb n="2" facs="0012_003086_000204_0002.jpg" xml:id="d3e123"/>
+            <p>[Front Cover Verso]</p>
+            <pb/>
+            <pb/>
+            <pb n="5" facs="0012_003086_000204_0005.jpg" xml:id="d3e141"/>
+            <p>Oct 7, 1918</p>
+            <p>This diary is started Just one week later than I had planned to begin it for my devoted friend.
+On account of Strict quarentine it has been impossible to go even to the canteen only across the
+road from the barracks Saturday and Sunday morning I was the N.C.O. in charge of quarters and of
+course could not leave quarters. Saturday the quaran-tine was lifted to the extent that we were able
+to go to the Canteen and barber shop. Sunday</p>
+            <pb n="6" facs="0012_003086_000204_0006.jpg" xml:id="d3e149"/>
+            <p>afternoon was payday. Had hair cut in the afternoon - a thankful hour - at the same time
+telephoned to Bp. <unclear reason="illegible" resp="SS">M. kell</unclear> and Louis Estes home.
+Learned that he is a 1st Lt. much to my joy. Sorry he is no longer at Sewanee. Made first visit to
+Canteen to day and purchased this book- all they had, so it has to do. To-day, Monday is the easiest
+day we have had. The mental work greater &amp; physical lighter from now on 1st Lt Campbell told us
+to-day <del type="overstrike" hand="rgt">than</del> that we were to finish the course in 11
+weeks. That is 8 weeks from now.</p>
+            <note type="transcription"> [The following text is written sideways on the left side of the
+page.]</note>
+            <p>thought of return from Denali</p>
+            <note type="transcription">[The preceding text is written sideways on the left side of the
+page.]</note>
+            <pb n="7" facs="0012_003086_000204_0007.jpg" xml:id="d3e167"/>
+            <p>anticipate end with great joy.</p>
+            <p>Tuesday slipped away quickly My thoughts turned, after the days drill, to a very devoted friend
+who died on Thursday Oct 2nd with pneumonia another victim to this terrible epidemic. She was
+beautiful to look upon, accomplished, played the piano well and had a sweet voice was cultured and
+refined. Mrs Alma <unclear reason="illegible" resp="SS">Kbly Gethens</unclear> we lived next door to
+each other all through our childhood and were like brother</p>
+            <pb n="8" facs="0012_003086_000204_0008.jpg" xml:id="d3e178"/>
+            <p>and sister. Most of all for my sister Rosa&apos;s sake I am sad. Dear Rosa has not so many
+friends and Alma was her oldest I mean they were friends from childhood and the same age. She was I
+reckon her closest too. They loved each other. Rosa an invilid (you remember Archdeacon we talked of
+her a while at the Base camp) without many opportunities has not known very great happiness as I
+would have her now. All my thoughts</p>
+            <pb n="9" facs="0012_003086_000204_0009.jpg" xml:id="d3e184"/>
+            <p>have been much with those Dear loved ones at home this week I shall be happy when I can help them
+Some more financially But there are greater things than that I, through this time of trainig look
+most of all to the time when they at home will receive the Blessed Sacrament with me They were with
+me They were with me before I left home last Thurs and believe they will go again the benefit is
+very great.</p>
+            <p>Thursday</p>
+            <p>They days are to short for me to write all I want to</p>
+            <pb n="10" facs="0012_003086_000204_0010.jpg" xml:id="d3e194"/>
+            <p>We have taken up in our drill &quot;rushes&quot; as <unclear reason="illegible" resp="SS">skermirsh ers</unclear> both in squad and platoon formation. It&apos; great sport. Just like the
+dive in football only we havn&apos;t pads on. Thus far the course has been very inclusive and
+thorough. I should think a man ought to be prepared when he gets out to drill men. Training to go
+right into the service of traing others to go right into the services of traing others to win this
+war. It is a great inspiration. On Lieutenants Keep that before <del type="overstrike" hand="rgt">up</del> us we are going out to be leaders <unclear reason="illegible" resp="SS">nuce</unclear>,
+some may be very good instructors but others darn poor leaders.</p>
+            <pb n="11" facs="0012_003086_000204_0011.jpg" xml:id="d3e209"/>
+            <p>Give some men a little authority and their heads swell right up their eyes roll around and they
+are Generals at order. We have two in our platoon that have had a little experience and they even
+presume to say the major is wrong and they are right The remarkable thing is how they make others
+believe it is right. Then we have a <unclear reason="illegible" resp="SS">wstn</unclear> big fellow
+Van Buren a husky homely clumsy fellow that has had about the same experience and evry body
+likes</p>
+            <pb n="12" facs="0012_003086_000204_0012.jpg" xml:id="d3e219"/>
+            <p>him. I have heard him say that he knows nothing about it.</p>
+            <p>Friday. 11<emph>th</emph> Oct.</p>
+            <p>Another boy in our company died this morning and another boy went home because his brother is
+dead. I went up to him just before we went out to drill this morning and told him I hoped he got his
+pass all right (passes are hard to get even when there is a death in the family) and that his
+brother would recover (he was not dead then)</p>
+            <pb n="13" facs="0012_003086_000204_0013.jpg" xml:id="d3e232"/>
+            <p>was very appreciatry. Well he did not get his pass until noon. In the mean time word came that
+his brother was dead He was leaving just as we came in from drill. a boy in my squad by the <unclear reason="illegible" resp="SS">mane of Shich</unclear> turned to me and said &quot;I wouldn&apos;t go
+home if my brother or sister was dead or dying, <unclear reason="illegible" resp="SS">hu!</unclear>
+what good would it do.&quot; I said &quot;Well, what about your mother and father and those that are
+left.&quot; <del type="overstrike" hand="rgt">Could</del> Dont you reckon</p>
+            <pb n="14" facs="0012_003086_000204_0014.jpg" xml:id="d3e247"/>
+            <p>you could be of some comfort to them?&quot; He shrugged his sholder and threw out his hands and
+with that New York sneer said &quot;To hell with them&quot;. This same boy wears a crucifix , a
+little card, and piece of <unclear reason="illegible" resp="SS">ovel shape tin</unclear> this letter
+for the Pope, he says, pinned to his jersey. It has not escaped my notice that he is one of the most
+selfish boys in all the barracks room. <unclear reason="illegible" resp="SS">Jakes</unclear> all he
+can get with</p>
+            <pb n="15" facs="0012_003086_000204_0015.jpg" xml:id="d3e259"/>
+            <p>out a thank you nearly every other word it seems is the Lords name in Vain. He is a married man
+and nothing is vile enough for him about women</p>
+            <p>The remarkable thing is how <unclear reason="illegible" resp="SS">just</unclear> this kind of a
+person seems to attract men to him. All spare moments are occupied in vulgar actions and vile talk.
+One is sneered at when one speaks of things aside from their line. Donald Hanks says these men make
+the supreme</p>
+            <pb n="16" facs="0012_003086_000204_0016.jpg" xml:id="d3e270"/>
+            <p>sacrifice and <del type="overstrike" hand="rgt">hive</del> live truly to make it I have
+enjoyed that book of his &quot;a student in Andes&quot; and have gaind something from it. Hope I
+shall have the privilige of discussing it with <unclear reason="illegible" resp="SS">jom</unclear>
+some day.</p>
+            <p>Saturday.</p>
+            <p>We prepared for in-spection this morning but a special order cam through, and we had our weekly
+examination from 7:30 to 9:30 instead of from 10:00 to 12:00. I was glad to get it over with</p>
+            <pb n="17" facs="0012_003086_000204_0017.jpg" xml:id="d3e286"/>
+            <p>It was not hard. Immediately after the exam. We were marched down to the ampitheatre <del type="overstrike" hand="rgt">by</del> in front of the Liberty Theatre. Then heard a lecture on
+the retiring <unclear reason="illegible" resp="SS">Septin</unclear> which is <unclear reason="illegible" resp="SS">wsed</unclear> through out the Army. A man is rated by his</p>
+            <p>physical Qualities</p>
+            <p>Intelligence</p>
+            <p>Leadership</p>
+            <p>General Value to the Service</p>
+            <p>and Personal Qualities</p>
+            <p>Officers must <unclear reason="illegible" resp="SS">so</unclear> rate then men and <unclear reason="illegible" resp="SS">place then</unclear>. Officers must be so</p>
+            <pb n="18" facs="0012_003086_000204_0018.jpg" xml:id="d3e319"/>
+            <p>rated and <del type="overstrike" hand="rgt">and</del> from this rating they are promoted It
+was a disappont-ment to us and that we could not go off on pass over the week end. After I did my
+washing I <unclear reason="illegible" resp="SS">carried us</unclear> to the barrack room, and took a
+little rest One of the <unclear reason="illegible" resp="SS">hinsecat wer so I have had
+has</unclear> gone by. We all learned this week where we stood. My scolarship is so much lower then
+I want and I shall try to pull it up.</p>
+            <pb n="19" facs="0012_003086_000204_0019.jpg" xml:id="d3e334"/>
+            <p>My qualification <unclear reason="illegible" resp="SS">unuage</unclear> is 62 <unclear reason="illegible" resp="SS">cand</unclear> a fraction The highest is 69 I am eager to get up into
+the <unclear reason="illegible" resp="SS">first tin at hast</unclear>.</p>
+            <p>About 20 of the boys were sent over into the 6 Batallion which starts out this week a new one
+starts every month. About 10 others were dismissed altogether &quot;Benzined&quot; we call it. We
+have great admiration for our Captain and Lieutenants. They are men of strong personalities force
+and good <unclear reason="illegible" resp="SS">henenour</unclear>
+            </p>
+            <pb n="20" facs="0012_003086_000204_0020.jpg" xml:id="d3e353"/>
+            <p>Capt Brensen has been made Capt. Since we have been here. He is from Southern Ga. and talks just
+like a negro. That takes with the fellows. What takes most is the way he takes the Lord&apos;s name
+in vain I don&apos;t know why these officrs feel that that thing in particular is necessary or why
+they think is necessary to use the vocabulary of the ordinary curs-ing and swearing man, but they do
+it and the best of them are falling into it as time goes on.</p>
+            <pb n="21" facs="0012_003086_000204_0021.jpg" xml:id="d3e359"/>
+            <p>One very admirable and fine quality about them is that they are absolutely just and fair. They
+have given these Candidates here 5 weeks in which to decide whether they want to be officers or
+whether they think themselves fit to be officers, or whether they are able to qualify. In other
+companies they &quot;benzined&quot; them after two weeks. Our Capt <unclear reason="illegible" resp="SS">lones in</unclear> and eats with us. He sings with us. He jokes with us. I have yet to
+hear the first person make the slightest suggestion</p>
+            <pb n="22" facs="0012_003086_000204_0022.jpg" xml:id="d3e368"/>
+            <p>of taking advantage of him. He is firm and a man of his word absolutely. and will do anything in
+the world he can for the fellows.</p>
+            <p>The Lieutenant of our Platoon Lt. <unclear reason="illegible" resp="SS">Ekfort</unclear> is
+&quot; hard boild&quot; Has strong opinions of his own and usually has his way. I should rather have
+him than any one else. I some times think that he hasn&apos;t a great deal of confidence in me, but
+not many people have. If I could command that I could do a hundred times as</p>
+            <pb n="23" facs="0012_003086_000204_0023.jpg" xml:id="d3e380"/>
+            <p>much. In the years of my life and experiences I have never been able to find out. Never been able
+to solve the problem why people dislike me so why they seem to go away from <del type="overstrike" hand="rgt">f</del> me. or if they like me at all It is only for a little
+while.</p>
+            <p>28<emph>th</emph> June I am sorry that I am not able to write in this daily I <unclear reason="illegible" resp="SS">liu ke</unclear> to write it and want to write it. The lights are out
+at a certain time and when night came comes I am very tired.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">He is Jackson</unclear> in the next <unclear reason="illegible" resp="SS">fink</unclear> and</p>
+            <pb n="24" facs="0012_003086_000204_0024.jpg" xml:id="d3e404"/>
+            <p>says that the <unclear reason="illegible" resp="SS">arriy</unclear> is nothing new to him. He has
+spent his life playing the fiddle in a circus. His ambitions are peculiar and ideas still more
+strange.</p>
+            <p>Thursday Oct 31 &apos;18</p>
+            <p>The sad word of Mr. Hougthling&apos;s death has just reached me.</p>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb n="30" facs="0012_003086_000204_0030.jpg" xml:id="d3e447"/>
+            <p>4 Troops will do things exactly the way you do then or have them demonstrated. 5 you must allow
+your men to ask questions Psycology <unclear reason="illegible" resp="SS">is</unclear> army -
+<unclear reason="illegible" resp="SS">ermit</unclear> handle men by set rule.</p>
+            <p>Languages</p>
+            <p>Do not show any idiocyncracies.</p>
+            <p>Patients.</p>
+            <p>Only the Irish can loose his temper. <emph>Be agressive.</emph>
+            </p>
+            <pb n="31" facs="0012_003086_000204_0031.jpg" xml:id="d3e469"/>
+            <p>Methods of Instructon</p>
+            <p>1 Preparation</p>
+            <p>2 Explination</p>
+            <p>3 Demonstration</p>
+            <p>4 Invtation</p>
+            <p>5 Interrogation</p>
+            <p>1. Lack of preparation means lack of confidence on part of student.</p>
+            <p>2. Explain thoroughly first in the <unclear reason="illegible" resp="SS">wrros</unclear> of book.
+Then in language that meets occasion. Don&apos;t say - &quot;The next thing will be&quot; - Rather
+say - &quot;Lets try this&quot; Tell reason why we execute certain <unclear reason="illegible" resp="SS">mor-ments</unclear>
+            </p>
+            <p>3. Have to show how. They will copy you</p>
+            <pb n="32" facs="0012_003086_000204_0032.jpg" xml:id="d3e496"/>
+            <p>Nerve irritans. </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Prussicarid, curnes</unclear> spasms &amp;
+con-voltions.</p>
+            <p>Caribon monoxide</p>
+            <p>Mustard gas latest &amp; most used</p>
+            <p>July 13<emph>th</emph> &apos;17</p>
+            <p>
+               <del type="overstrike" hand="rgt">Teri</del> all biligerants used it. Played big part in
+breaking down German Moral, 217° Cls. Faint odor no serious immediate effects. - After
+effects.</p>
+            <p>Gas margin. 40 °</p>
+            <p>Clean trench with fan.</p>
+            <p>Clear dugouts with fire.</p>
+            <pb n="33" facs="0012_003086_000204_0033.jpg" xml:id="d3e525"/>
+            <p>Gas</p>
+            <p>I. Lung Irritants clorine. 1/1000 death</p>
+            <p>They are carosive agents. 2 1/2 <unclear reason="illegible" resp="SS">trin</unclear> as heavy as
+<unclear reason="illegible" resp="SS">am</unclear>. Boiling at 33 cls.</p>
+            <p>
+               <del type="overstrike" hand="rgt">1A <unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="SS">clari
+picruia</unclear>
+               </del> Heart <unclear reason="illegible" resp="SS">Depue</unclear>
+            </p>
+            <p>1A POCL2 phosgene Diphosgene.</p>
+            <p>II Nasal Irritants</p>
+            <p>Diphenylchlorarisne.</p>
+            <p>Sneezing gas.</p>
+            <p>313° cls.</p>
+            <p>III 1. Eye irritants.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Bromocutone</unclear>. 1/1000000</p>
+            <p>2 Mustard Gas</p>
+            <p>IV Skin Irritants.</p>
+            <p>1. Delayed action on left</p>
+            <p>2. <unclear reason="illegible" resp="SS">Lings</unclear>. Causing blisters</p>
+            <p>3. Skin. - blisters</p>
+            <pb n="34" facs="0012_003086_000204_0034.jpg" xml:id="d3e580"/>
+            <p>Plan of action</p>
+            <p>The ideal condition</p>
+            <p>Derision</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Your</unclear> plan of action with out the ideal
+Terrain</p>
+            <p>
+               <unclear reason="illegible" resp="SS">climate</unclear>
+            </p>
+            <p>reaction</p>
+            <p>Terrain} affect the morrale</p>
+            <p>Orders.</p>
+            <p>clear &amp; concise and easily understood by subordinates. Written if possible. Then tell him
+about.</p>
+            <pb n="35" facs="0012_003086_000204_0035.jpg" xml:id="d3e605"/>
+            <p>The mission officer should most try to carry through in every detail circumstances change</p>
+            <p>Destroy bridges. Keep off <unclear reason="illegible" resp="SS">eveny</unclear>. Do not be
+<unclear reason="illegible" resp="SS">aconhalate</unclear>
+            </p>
+            <p>Agressiveness.</p>
+            <p>Intimation of enemy.</p>
+            <p>Rather underestimate than over estimate the enemy.</p>
+            <p>Cannot underestimate the enemis position Enemies probable intention. He acts with all good
+judgement. Your own troops</p>
+            <p>Their condition</p>
+            <p>Thy will go as far as you <emph>lead</emph> them.</p>
+            <pb n="36" facs="0012_003086_000204_0036.jpg" xml:id="d3e633"/>
+            <p>Do not break up an organizaton</p>
+            <p>Information &amp; <unclear reason="illegible" resp="SS">Seporthe tnores</unclear>
+            </p>
+            <p>2 <unclear reason="illegible" resp="SS">Mssion</unclear>.</p>
+            <p>3</p>
+            <p>4 Trains</p>
+            <p>5 Where messages will be sent.</p>
+            <p>Histroy of Gas Warfare and Methods of protection</p>
+            <pb n="37" facs="0012_003086_000204_0037.jpg" xml:id="d3e656"/>
+            <p>Minimum Effect Concntatn or M.E.C. will lay a man out for 5 minutes. greatest concentration that
+can be gotten on the battlefield is 1/1000</p>
+            <p>
+               <emph>Security</emph>
+            </p>
+            <p>That service which protects a body from surprise, annoyance and observation</p>
+            <p>Covering detachment</p>
+            <p>combat patrol</p>
+            <p>Out post, advance, flank &amp; rear guards</p>
+            <p>Size of these elements is governed by Terrain proximity of Enemy &amp; circumstances.</p>
+            <p>Outposts &amp; out Posts Patrols</p>
+            <pb n="38" facs="0012_003086_000204_0038.jpg" xml:id="d3e677"/>
+            <p>This gas - caused by lack of oxygen.</p>
+            <p>
+               <emph>Bromazatone</emph>
+            </p>
+            <p>Pungent odor. causes nausia. 1/1000000 concentration Black fluid</p>
+            <p>Battle Gas</p>
+            <p>Chlorine &amp; phosgine.</p>
+            <p>Mustard Gas</p>
+            <p>chemical formula</p>
+            <p>CH2CLCH2S2</p>
+            <p>Di-Chloro Di-Ethyl-Sulphide</p>
+            <p>First used &amp; most commonly in shells. Faint odor. One day German fired 2000 shells in one
+<unclear reason="illegible" resp="SS">place</unclear>
+            </p>
+            <p>no immediate effect.</p>
+            <p>Serious after effects.</p>
+            <p>Effect 12 hours later.</p>
+            <pb n="39" facs="0012_003086_000204_0039.jpg" xml:id="d3e711"/>
+            <p>(nerve) Prussic Acid</p>
+            <p>9/13 as heavy as air. alway mixed with some other kind of gas for weight. - colorless (skin)
+Mustard gas. first used by Germns</p>
+            <p>July 13 &apos;17. Boiling pt 217 Cls. causes blisters &amp; burns. sticks to skin &amp; clothes.
+Delayed effort upon lung breath it causes lesion of lung &amp; stomach Sometimes found in liquid
+form under ground.</p>
+            <p>chlormaine +10°</p>
+            <p>Glicerine 5°</p>
+            <p>Water 85°</p>
+            <p>Sneezing Gas</p>
+            <p>Boilng point 33° Cls.</p>
+            <p>
+               <emph>Carbon monoxide</emph>
+            </p>
+            <p>no protection aganst</p>
+            <pb n="40" facs="0012_003086_000204_0040.jpg" xml:id="d3e737"/>
+            <p>5 classes of gases</p>
+            <p>1 Lung Irritants.</p>
+            <p>2. Heart Depressers.</p>
+            <p>3 Eye Irritants.</p>
+            <p>4. Nerve Irritants.</p>
+            <p>5 Skin Irritants.</p>
+            <p>
+               <emph>Chlorine</emph> (lung) 1/10,000</p>
+            <p>a lung irritant. The first gas used by Germs greenish yellowish color 2 1/2 tries as heavy as air
+1/2000 concentration.</p>
+            <p>
+               <emph>Phosgene</emph> (heart) 3/10,000</p>
+            <p>Heart Depressive</p>
+            <p>Most deadly enemy slight odor. Colorless effect first the lung later on the heart.</p>
+            <p>It paralyses musceles of the heart</p>
+            <pb n="41" facs="0012_003086_000204_0041.jpg" xml:id="d3e770"/>
+            <p>Cont 3</p>
+            <p>With draw cord from rt hand compartment &amp; pass thrugh right D loop or permit to hang
+down.</p>
+            <p>Cont 4</p>
+            <p>Raising satchel to chest with left hand with rt. hand</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Straigntn</unclear> strap sling over sholders. &amp; draw
+it down on back.</p>
+            <p>Cont 5. Pass cord through sling around behind body, securing it to left D loop.</p>
+            <p>Cont 6</p>
+            <p>Tuck flap down.</p>
+            <pb n="42" facs="0012_003086_000204_0042.jpg" xml:id="d3e792"/>
+            <p>Cont 3. pass cord through wing on rt of satchel around waist &amp; secure it to ring on left of
+satchel</p>
+            <p>Cont 4.</p>
+            <p>Tuck flap down</p>
+            <p>Details of <unclear reason="illegible" resp="SS">comig</unclear> from sling to alternate <unclear reason="illegible" resp="SS">allert</unclear>
+               <emph>has</emph>
+               <emph>alternate <unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="SS">allect</unclear>
+               </emph> used by men at
+<unclear reason="illegible" resp="SS">wrt wnt 1</unclear>.</p>
+            <p>Carry satchel to <unclear reason="illegible" resp="SS">print</unclear> of body as in <unclear reason="illegible" resp="SS">Comng</unclear> to <unclear reason="illegible" resp="SS">Allert</unclear>.</p>
+            <p>Cont 2,</p>
+            <p>Open flap with left hand</p>
+            <pb n="43" facs="0012_003086_000204_0043.jpg" xml:id="d3e834"/>
+            <p>Gas.</p>
+            <p>Detail from sling to alert.</p>
+            <p>
+               <emph>Gas</emph>. <emph>Alert</emph> by <unclear reason="illegible" resp="SS">nos.
+cuntions</unclear> before <unclear reason="illegible" resp="SS">Conner</unclear>
+            </p>
+            <p>Cont 1.</p>
+            <p>Pass left arm through sling bring satchel through front of body <unclear reason="illegible" resp="SS">nodoing pastuers</unclear> with left hand. With <unclear reason="illegible" resp="SS">drav</unclear> whip <unclear reason="illegible" resp="SS">cow</unclear> from rt. hand compartmnt
+letting it hang down</p>
+            <p>Cont 2.</p>
+            <p>With right hand grasp hook at left of </p>
+            <pb n="44" facs="0012_003086_000204_0044.jpg" xml:id="d3e871"/>
+            <p>d plans of action e dicision brief</p>
+            <p>All of the above influenced by 1. Terrain 2. Weather 3. Climate 4. Soil 5 Morale</p>
+            <p>II The Orders.</p>
+            <pb n="45" facs="0012_003086_000204_0045.jpg" xml:id="d3e882"/>
+            <p>Reach a right &amp; clear decision. Lead troop to <unclear reason="illegible" resp="PW">blow out
+ntersion</unclear>.</p>
+            <p>Courage enterprse Confidence</p>
+            <p>Maj problems single situation.</p>
+            <p>I Estimate of Situation a. Mission (brief) b. Enemy 1 Strength 2 position 3 Movements 4 probable
+intentions c. Our own forces 1 Strength 2 position 3 supporting troop.</p>
+            <pb n="46" facs="0012_003086_000204_0046.jpg" xml:id="d3e897"/>
+            <p>Sqd rolls in wagon further away. Two Sqd rolls per Squad</p>
+            <p>Each Sqd roll (Carry one blanket = <unclear reason="illegible" resp="PW">pecbs</unclear>) - extra
+<unclear reason="illegible" resp="PW">blapet</unclear> Comfot oover coat</p>
+            <p>Spread blankets on bottom, comfots, open overcoats out op put Slickers til it on the mddle &amp;
+und.</p>
+            <p>Pack. Long pack Mess outfit toilet articles extrasuit underware</p>
+            <pb n="47" facs="0012_003086_000204_0047.jpg" xml:id="d3e915"/>
+            <p>Socks Shoes Shirt trousers <unclear reason="illegible" resp="PW">denims</unclear> Co divided into
+3 sections. 1st Sect. 1st platoon &amp; 1 &amp; 2 Sqds &amp; 4th platoon 2nd Sec 2nd pl. <unclear reason="illegible" resp="PW">nstr</unclear>3 4 &amp; 5 Sqds of 4th pl.</p>
+            <p>Monday afternoon 1st Section fires.</p>
+            <pb n="48" facs="0012_003086_000204_0048.jpg" xml:id="d3e929"/>
+            <p>2nd Sect. in the pits. 3rd Sect. hand grinads</p>
+            <p>2nd Sec. gets dinner first, before 12,00 fall in at 12:30 to store Fill canteens</p>
+            <p>up 4:15 Roll the Rolls Police Revelee 5:a.m</p>
+            <pb n="49" facs="0012_003086_000204_0049.jpg" xml:id="d3e939"/>
+            <p>Packs 5 to 530 Breakfast 5:30 Police 6:10 Form in Company Street at 6:35</p>
+            <p>2nd Sec. in the pits VanBuren, Stock Sect. leaders <unclear reason="illegible" resp="PW">osemany</unclear>stone <unclear reason="illegible" resp="PW">Freeinac</unclear>
+            </p>
+            <p>1 Man <unclear reason="illegible" resp="PW">pleoot fuish Shooter</unclear> mill score The Coach
+mill Shoot The near scoring wull coach the man that not score will shoot</p>
+            <pb n="50" facs="0012_003086_000204_0050.jpg" xml:id="d3e957"/>
+            <p>Take bolt out of rifle. When we arrive on range lay sight leaf down.</p>
+            <p>No cleaning of gun on <unclear reason="illegible" resp="LW">finding lius</unclear> breach covers
+on rifles.</p>
+            <p>Six points of <unclear reason="illegible" resp="LW">McNally</unclear>
+            </p>
+            <p>1. <emph>Correct</emph>
+               <emph>position</emph>
+            </p>
+            <p>2 <emph>Take</emph>
+               <emph>up</emph>
+               <emph>slack</emph>
+            </p>
+            <pb n="51" facs="0012_003086_000204_0051.jpg" xml:id="d3e986"/>
+            <p>3 <emph>align</emph>
+               <emph>sight</emph>
+            </p>
+            <p>4 <emph>take</emph>
+               <emph>breath</emph>
+            </p>
+            <p>5 <emph>squeeze</emph>
+               <emph>trigger</emph>
+            </p>
+            <p>6 <emph>cull</emph>
+               <emph>the</emph>
+               <emph>shot</emph>
+            </p>
+            <p>Determine what a man makes</p>
+            <p>The white dish means that the full 5</p>
+            <p>red means he made 4.</p>
+            <p>black with red cross 3</p>
+            <pb n="52" facs="0012_003086_000204_0052.jpg" xml:id="d3e1024"/>
+            <p>Ricochet couts the same as any <unclear reason="illegible" resp="LW">biter</unclear>.</p>
+            <p>Defensive grenade killing power 200 yds</p>
+            <p>1. American grenade</p>
+            <p>2 British mills</p>
+            <p>3 French 71</p>
+            <p>2 &amp; 3 same <unclear reason="illegible" resp="LW">funtiong</unclear> ability. Only pull pin on
+<unclear reason="illegible" resp="LW">them</unclear>
+            </p>
+            <p>Citron grinade</p>
+            <p>has cap</p>
+            <p>Detenator is inserted into the explosive part of the grinade</p>
+            <pb n="53" facs="0012_003086_000204_0053.jpg" xml:id="d3e1054"/>
+            <p>offensive grinade</p>
+            <p>Depend on concussion for killing power</p>
+            <p>3 yards</p>
+            <p>German <unclear reason="illegible" resp="LW">grinads</unclear>
+            </p>
+            <p>stick grinade</p>
+            <p>look like tin can on end of <unclear reason="illegible" resp="LW">bree</unclear> stick throw on
+<unclear reason="illegible" resp="LW">plane</unclear> of head <unclear reason="illegible" resp="LW">&amp; sholders</unclear>
+            </p>
+            <p>Egg grinade</p>
+            <p>Steel ring on end</p>
+            <pb n="54" facs="0012_003086_000204_0054.jpg" xml:id="d3e1084"/>
+            <p>Browning</p>
+            <p>1. <emph>Machine Rifle</emph>
+            </p>
+            <p>
+               <del type="overstrike" hand="lw">Browning</del>
+            </p>
+            <p>W.S. Model 1918</p>
+            <p>Louis weights 30 lbs.</p>
+            <p>Browning &quot; 15 lbs. 8oz</p>
+            <p>auto. or mach. Rifle.</p>
+            <p>Louis to light for heavy work</p>
+            <p>Louis <unclear reason="illegible" resp="LW">is</unclear>
+            </p>
+            <p>airplane gun.</p>
+            <p>auxiliary defence artillery</p>
+            <p>2. <emph>Sight Machine Rifle</emph>
+            </p>
+            <p>3 <emph>Heavy machine gun</emph>
+            </p>
+            <p>JW Browning</p>
+            <pb n="55" facs="0012_003086_000204_0055.jpg" xml:id="d3e1126"/>
+            <p>160 <emph>parts</emph> in Browning</p>
+            <p>stationary} parts</p>
+            <p>moving}</p>
+            <p>Bit stock</p>
+            <p>
+               <unclear reason="illegible" resp="LW">runner</unclear>
+            </p>
+            <p>trigger</p>
+            <p>sights</p>
+            <p>sling swivels</p>
+            <p>bolt</p>
+            <p>recoil 3 lbs.</p>
+            <p>60 shots 1 minute.</p>
+            <p>can fire 300 1 min.</p>
+            <pb n="56" facs="0012_003086_000204_0056.jpg" xml:id="d3e1160"/>
+            <p>Flush hydrant. {a <unclear reason="illegible" resp="LW">pipe to</unclear>
+            </p>
+            <p>{<unclear reason="illegible" resp="LW">con cealprt</unclear>
+            </p>
+            <p>Gas cylinder tube</p>
+            <p>Gas cylinder</p>
+            <p>forearm {1 position forward semiauto F</p>
+            <p>
+               <unclear reason="illegible" resp="LW">chang leaver</unclear> {2 middle A</p>
+            <p>{3 safe S</p>
+            <p>change leaver stop</p>
+            <p>operating handle</p>
+            <p>magazine <unclear reason="illegible" resp="LW">relids</unclear> {20</p>
+            <p>{40</p>
+            <p>Magazine filler</p>
+            <p>Magazine slot</p>
+            <p>Gas operated type</p>
+            <p>Long recoil of barrel</p>
+            <p>short &quot; &quot; &quot;</p>
+            <pb n="57" facs="0012_003086_000204_0057.jpg" xml:id="d3e1206"/>
+            <p>ejection slot</p>
+            <p>The lock rises into the recess.</p>
+            <p>Gas follows bullet</p>
+            <p>49000 lbs to sq inch</p>
+            <p>slide is in the gas cylinder tube</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Cofre</unclear> throws it forward gas throws it back</p>
+            <p>Dismounting tool</p>
+            <p>gas cylinder lock</p>
+            <p>trigger guard pin</p>
+            <p>recoil spring and a guide head</p>
+            <pb/>
+            <pb n="59" facs="0012_003086_000204_0059.jpg" xml:id="d3e1239"/>
+            <p>hammer pin</p>
+            <p>buffer.</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Shield</unclear> on lock &amp; firing pin engage</p>
+            <p>Gunner &amp; carrier carries 160 Rounds</p>
+            <p>If barrel jars loose it causes stoppage</p>
+            <p>Dirt in chamber</p>
+            <p>Two characterstic of machine Rifle.</p>
+            <p>1. Mobility</p>
+            <p>2. High firepower</p>
+            <pb n="60" facs="0012_003086_000204_0060.jpg" xml:id="d3e1263"/>
+            <p>1100 yds - 2 sec. at range of 1100 yds you have 20 bullets a saw 1100 yds</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Infilating</unclear> or in file or in line to <unclear reason="illegible" resp="LW">reo</unclear>
+            </p>
+            <p>Ammntion</p>
+            <p>Bullet made of something softer than riffling of barrel.</p>
+            <p>Bullet made of <unclear reason="illegible" resp="LW">pietro</unclear> nickle with little tin</p>
+            <p>Machine Riffle <unclear reason="illegible" resp="LW">de</unclear> shell <del type="overstrike" hand="lw">has</del> is crusher</p>
+            <p>Pyrocellulos inside of shell.</p>
+            <pb n="61" facs="0012_003086_000204_0061.jpg" xml:id="d3e1294"/>
+            <p>whole through kernel is to catch fire both in &amp; outside</p>
+            <p>rapid &amp; complete combustion</p>
+            <p>194400 revolution 1 minute <del type="overstrike" hand="lw">ta</del> bullet makes.</p>
+            <p>chauchat</p>
+            <p>called CSRG.</p>
+            <p>Riberyoul Gladiator</p>
+            <p>Long recoil of barrel</p>
+            <p>Flash <unclear reason="illegible" resp="LW">sarcin</unclear>
+            </p>
+            <pb n="62" facs="0012_003086_000204_0062.jpg" xml:id="d3e1319"/>
+            <p>only improvement operating handle</p>
+            <p>magazine catch handle</p>
+            <p>magazine holds 20</p>
+            <p>Regulaton bold am.</p>
+            <p>forward S</p>
+            <p>middle m</p>
+            <p>rear c</p>
+            <p>weighs 19 lbs</p>
+            <pb n="63" facs="0012_003086_000204_0063.jpg" xml:id="d3e1339"/>
+            <p>Machine <emph>Guns</emph>
+            </p>
+            <p>Types &amp; Characteristics</p>
+            <p>
+               <emph>Vicor &amp; Browning</emph>
+            </p>
+            <p>Division <unclear reason="illegible" resp="LW">cover</unclear> from 1 <unclear reason="illegible" resp="LW">%</unclear> to 15 hundred yards</p>
+            <p>3/4 casualty <unclear reason="illegible" resp="LW">M os.</unclear> fire</p>
+            <p>Gun fired from fixed base</p>
+            <p>Most have closer range than artil <unclear reason="illegible" resp="LW">expectin wood</unclear>
+at 3500 yds.</p>
+            <pb n="64" facs="0012_003086_000204_0064.jpg" xml:id="d3e1372"/>
+            <p>33 lbs</p>
+            <p>42 with water</p>
+            <p>tripod 50 lbs.</p>
+            <p>Front cover</p>
+            <p>Feed box</p>
+            <p>rear cover</p>
+            <p>recoil cover.</p>
+            <p>500 per min.</p>
+            <pb n="65" facs="0012_003086_000204_0065.jpg" xml:id="d3e1392"/>
+            <p>Bn</p>
+            <p>weight without water <unclear reason="illegible" resp="LW">28</unclear>
+            </p>
+            <p>with water <unclear reason="illegible" resp="LW">28</unclear>
+            </p>
+            <p>with tripod 96</p>
+            <pb n="66" facs="0012_003086_000204_0066.jpg" xml:id="d3e1408"/>
+            <p>ordinary 5 or 6 mi an hour</p>
+            <p>Rapid 7s8 or 9 mi. a hr</p>
+            <p>Urgent as fast as can be</p>
+            <p>Important message sent be 2 or more msgrs.</p>
+            <p>message a bit of written information sent by messenger or wire mst be short clear and
+concise.</p>
+            <p>source always be given</p>
+            <p>Report a more or less formal account of enterprise usually drawn up in composition <unclear reason="illegible" resp="LW">liosme</unclear> when compiled in a war diary.</p>
+            <pb n="67" facs="0012_003086_000204_0067.jpg" xml:id="d3e1430"/>
+            <p>The distance of enemy will determine formation.</p>
+            <p>
+               <del type="overstrike" hand="lw">1st col of squads</del>
+            </p>
+            <p>skirmishes</p>
+            <p>Enemy</p>
+            <p>4 skirmishes</p>
+            <p>3 combat groups</p>
+            <p>2 Half platoons}</p>
+            <p>1 Column of sqds} approach format</p>
+            <p>Observation</p>
+            <p>Study photographs</p>
+            <p>maps.</p>
+            <p>Read sketches at a glance</p>
+            <p>Observe <unclear reason="illegible" resp="LW">conculer</unclear>
+            </p>
+            <pb n="68" facs="0012_003086_000204_0068.jpg" xml:id="d3e1464"/>
+            <p>Reconnaissaince</p>
+            <p>Knowledge of enemy.</p>
+            <p>&quot; of your own troops</p>
+            <p>your own &amp; the Enemies gains &amp; losses &amp; plans.</p>
+            <p>Assalt</p>
+            <p>Hour of assalt known only by those directly in chg. Seiycological effect.</p>
+            <p>some time assalt is made in waves.</p>
+            <p>superiority of fire must be gained.</p>
+            <p>assalts made in succession <unclear reason="illegible" resp="LW">sometime</unclear> certain work
+for artillery cannot attend to <unclear reason="illegible" resp="LW">minus</unclear> details</p>
+            <pb n="69" facs="0012_003086_000204_0069.jpg" xml:id="d3e1492"/>
+            <p>counter attacks more fierce than first attacks</p>
+            <p>Tank used a great deal in the counterattacks.</p>
+            <p>Rapid and Vigorous <unclear reason="illegible" resp="PW">Mx apperi</unclear>to Infantry and
+Artillery as well as other branches</p>
+            <p>Assalt may be aftr Artill. open on <unclear reason="illegible" resp="PW">tnney</unclear>be first
+with fixed baynets</p>
+            <p>Clean up Party clean out Machine guns etc. that <unclear reason="illegible" resp="PW">reaping
+havc.</unclear>Look out for trap . complete mark the assalting movs started.</p>
+            <pb n="70" facs="0012_003086_000204_0070.jpg" xml:id="d3e1515"/>
+            <p>intermediate Halting at objective. Some <unclear reason="illegible" resp="SS">Time</unclear>
+objective not reached. These objectives are for purpose of holding strong point. Objective <unclear reason="illegible" resp="SS">obtruir Recuortimg</unclear> patrol are sent out</p>
+            <p>When out of artillery fire you advance. Col. of Sqd.</p>
+            <p>Circumstance</p>
+            <p>Nature of Terran</p>
+            <p>Proximity of Enemy.</p>
+            <p>Obsticles in shelter.</p>
+            <p>Artillery <unclear reason="illegible" resp="SS">GHannable</unclear> &amp; the holher</p>
+            <p>All enemy Defensives.</p>
+            <pb n="71" facs="0012_003086_000204_0071.jpg" xml:id="d3e1544"/>
+            <p>put obsticles up for <unclear reason="illegible" resp="SS">keeper</unclear> of aiding <unclear reason="illegible" resp="SS">yor</unclear> other area. Do not place obsticles when they were be
+object of artillery.</p>
+            <p>Do not <unclear reason="illegible" resp="SS">reabs</unclear> field of fire.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">for gases</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Charger</unclear> of powder in iron cases or holes</p>
+            <p>defensive</p>
+            <p>
+               <unclear reason="illegible" resp="SS">abati</unclear>
+            </p>
+            <p>offensive</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Rousdeloups</unclear>
+            </p>
+            <p>Shelters</p>
+            <p>
+               <unclear reason="illegible" resp="SS">giant enemy o</unclear> weather</p>
+            <pb n="72" facs="0012_003086_000204_0072.jpg" xml:id="d3e1585"/>
+            <p>[graph]</p>
+            <p>1/5000</p>
+            <p>20 cm = 1000 m.</p>
+            <p>10j cm = 500 m.</p>
+            <p>Read from bottom to top. Then from left to right.</p>
+            <pb n="73" facs="0012_003086_000204_0073.jpg" xml:id="d3e1599"/>
+            <p>Name map Seale 1/2000 or what ever it may be.</p>
+            <p>Gas Defense</p>
+            <p>3 <unclear reason="illegible" resp="SS">motors</unclear> of <unclear reason="illegible" resp="SS">pritidin</unclear>
+            </p>
+            <p>1 Principle of Diving suit.</p>
+            <p>2 <unclear reason="illegible" resp="SS">Salso&apos;s</unclear> Same as <unclear reason="illegible" resp="SS">minors are</unclear> Had to <unclear reason="illegible" resp="SS">cary</unclear> oxygen All gas masks are made on <unclear reason="illegible" resp="SS">prinpl of fit
+tranon</unclear>
+            </p>
+            <p>3 <unclear reason="illegible" resp="SS">Mitraly alin</unclear>
+            </p>
+            <p>Apr 22 1916</p>
+            <p>Gas first used 431 B.C. used by Sparta</p>
+            <pb n="74" facs="0012_003086_000204_0074.jpg" xml:id="d3e1637"/>
+            <p>4 machin Guns</p>
+            <p>2 French <unclear reason="illegible" resp="SS">mortars</unclear>
+            </p>
+            <p>a company <unclear reason="illegible" resp="SS">quinaly or cupers from</unclear> 300 to 1000
+yards.</p>
+            <p>Battalion postal Command</p>
+            <p>Communcation truck</p>
+            <p>Eng. &amp; <unclear reason="illegible" resp="SS">Frenchy</unclear> did not believe That German
+would use it.</p>
+            <p>Handkerchiefs much were used as protection</p>
+            <p>Apr. 25 Germans used gas Difusives Clorine was first gas used.</p>
+            <p>First used in <unclear reason="illegible" resp="SS">Ypus, are considian</unclear> destroyed</p>
+            <pb n="75" facs="0012_003086_000204_0075.jpg" xml:id="d3e1670"/>
+            <p>May 10 1915 at Hill 60 Germans made 2<emph>nd</emph> att.</p>
+            <p>1. Battles with broken <unclear reason="illegible" resp="SS">knicks</unclear> filled with moist
+earth.</p>
+            <p>2 pillows or resporators with moist earth.</p>
+            <p>May 12</p>
+            <p>Black veiling resporat-or a bag filled with waste saturated <unclear reason="illegible" resp="SS">onk</unclear>
+            </p>
+            <p>1 Gliiscerne &amp; Sodium carbonate</p>
+            <p>2 Sodium sulfate 4 water</p>
+            <p>3 Hypo helmet May 24 soaked in same solutioni as <unclear reason="illegible" resp="SS">mlka</unclear> was used for <unclear reason="illegible" resp="SS">lefts</unclear>. Made at 2:45
+A.M. Germans first made attacks at Regular intervals.</p>
+            <p>Green &amp; brown fumes</p>
+            <pb n="76" facs="0012_003086_000204_0076.jpg" xml:id="d3e1706"/>
+            <p>were seen comng. Trenches heavily <unclear reason="illegible" resp="SS">shelld</unclear>
+            </p>
+            <p>P Helmet.</p>
+            <p>soaked in</p>
+            <p>P.H. Helmet</p>
+            <p>1/1000 <unclear reason="illegible" resp="SS">Fosguin</unclear> &amp; Clorine were used in the
+attack.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Stranbos</unclear> Horn used a case of gas cloud attack</p>
+            <p>Claxon horn, <unclear reason="illegible" resp="SS">heles awils</unclear> etc. were used to warn
+against gas attacks.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">face</unclear> piece</p>
+            <p>tubes.</p>
+            <p>caunisters</p>
+            <pb n="77" facs="0012_003086_000204_0077.jpg" xml:id="d3e1743"/>
+            <p>
+               <unclear reason="illegible" resp="SS">Hasket out</unclear> but <unclear reason="illegible" resp="SS">valve alternitive abrt</unclear> position</p>
+            <p>Small box Spr.</p>
+            <p>Satchel (Made of canvas.)</p>
+            <p>Metal hook on satchel</p>
+            <p>Metal eyelet.</p>
+            <p>2 slides adjusters</p>
+            <p>Flaps</p>
+            <p>2 Snap fasteners</p>
+            <p>Partition (inside of Satchel)</p>
+            <p>Right &amp; left hand Compart-ments. platforms</p>
+            <p>Rt. <unclear reason="illegible" resp="SS">empt.</unclear> metal spring </p>
+            <p>Lft. <unclear reason="illegible" resp="SS">is</unclear> anti-<unclear reason="illegible" resp="SS">dimmg</unclear> solution</p>
+            <p>Metal loop.</p>
+            <p>Whip cord.</p>
+            <p>Attached to canisters is record card. Record cord Rept. <unclear reason="illegible" resp="SS">Nd</unclear>. of hours exposed to you.</p>
+            <pb n="78" facs="0012_003086_000204_0078.jpg" xml:id="d3e1796"/>
+            <p>Canister or Small box.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Wire gause</unclear> of netting</p>
+            <p>inlet valve</p>
+            <p>Tube attached on metal <unclear reason="illegible" resp="SS">flange</unclear>
+            </p>
+            <p>Wire</p>
+            <p>Adhesive tape</p>
+            <p>Flexible Tube</p>
+            <p>Elbow tube</p>
+            <p>outlet valve</p>
+            <p>outlet valve guard</p>
+            <p>mouth piece</p>
+            <p>mouth piece <unclear reason="illegible" resp="SS">busling</unclear>
+            </p>
+            <p>metal <unclear reason="illegible" resp="SS">flange</unclear>
+            </p>
+            <p>Face Piece</p>
+            <p>Ruberized <unclear reason="illegible" resp="SS">fobric</unclear>
+            </p>
+            <p>Reinforced <unclear reason="illegible" resp="SS">laurdng</unclear>
+            </p>
+            <p>Nose clips</p>
+            <pb n="79" facs="0012_003086_000204_0079.jpg" xml:id="d3e1847"/>
+            <p>Nose Clip pads</p>
+            <p>&quot; &quot; Springs</p>
+            <p>&quot; &quot; pocket</p>
+            <p>&quot; &quot; patch</p>
+            <p>Eye pieces</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Rhigs</unclear> &amp; lenses.</p>
+            <p>Straps. Elastic</p>
+            <p>Retaining tape</p>
+            <p>
+               <emph>
+                  <unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="SS">Mechanise of Cumstas</unclear>
+               </emph>
+            </p>
+            <p>A. Inlet valve</p>
+            <p>b. Empty dome {wire netting</p>
+            <p>C Wire netting</p>
+            <p>d <unclear reason="illegible" resp="SS">Clumsliles</unclear>
+            </p>
+            <p>e terkish bath towls</p>
+            <p>f <unclear reason="illegible" resp="SS">chemcle</unclear>
+            </p>
+            <p>g charcoal</p>
+            <p>h terkish bath towls</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Potasium</unclear> permanganate</p>
+            <pb n="80" facs="0012_003086_000204_0080.jpg" xml:id="d3e1898"/>
+            <p>
+               <unclear reason="illegible" resp="SS">Mortor</unclear>
+            </p>
+            <p>Weights 110 lbs.</p>
+            <p>Baseplate</p>
+            <p>1. Barrel in <unclear reason="illegible" resp="SS">pepe</unclear> blocked at one end</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Bore</unclear> cap.</p>
+            <p>3. <unclear reason="illegible" resp="SS">Mouriting</unclear>
+            </p>
+            <p>Traversing handle</p>
+            <p>Elevating handle</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Aunnae, auntae</unclear> &amp; T &amp; T <unclear reason="illegible" resp="SS">pretised</unclear>.</p>
+            <p>25 or 30 shots a minute</p>
+            <pb n="81" facs="0012_003086_000204_0081.jpg" xml:id="d3e1936"/>
+            <p>
+               <unclear reason="illegible" resp="SS">Detetched Joot</unclear> #4</p>
+            <p>Crowley</p>
+            <p>Hatches</p>
+            <p>Crossman.</p>
+            <pb n="82" facs="0012_003086_000204_0082.jpg" xml:id="d3e1950"/>
+            <p>1. <unclear reason="illegible" resp="SS">Requsite</unclear> for a gas</p>
+            <p>Very poisonous in <unclear reason="illegible" resp="SS">sevrall</unclear> quantities.</p>
+            <p>1 pt clorine ?&amp; 10,000 pts gain will make a man a Casulty for 5 mmts. <unclear reason="illegible" resp="SS">Minnm</unclear> effective concentration of gas is the <unclear reason="illegible" resp="SS">loewest</unclear> amt of gas 1/1000 gas in the M.E.C. of certan
+gases</p>
+            <p>2. Gas must be heavier than air.</p>
+            <p>It has to reach dugouts etc. Carbon monoxide most dangerous.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">carrsoflate</unclear> is used to place under a mine.</p>
+            <p>3. Gas must be easily liquified, <unclear reason="illegible" resp="SS">otey</unclear> gas can be
+liquified by pressure &amp; <unclear reason="illegible" resp="SS">losely tran</unclear> faster</p>
+            <p>4. Produced cheeply in large quantities.</p>
+            <pb n="83" facs="0012_003086_000204_0083.jpg" xml:id="d3e1990"/>
+            <p>5. It must e stable must not be easily decomposed of it is very active it will <unclear reason="illegible" resp="SS">fix</unclear> with <unclear reason="illegible" resp="SS">ortr gain in
+the oin &amp;</unclear> be ineffective</p>
+            <p>6 Must be able to protect yourself against it</p>
+            <p>1. Cloud method of attack</p>
+            <p>2. Shell &quot; &quot; &quot;</p>
+            <p>3. Projectile &quot; &quot; &quot;</p>
+            <p>1. Compressed <unclear reason="illegible" resp="SS">in recepticle</unclear> some time has 9000 to
+10000 <unclear reason="illegible" resp="SS">bas</unclear> pressure. German <unclear reason="illegible" resp="SS">reciptcle</unclear> 72 cm. high <unclear reason="illegible" resp="SS">carries</unclear>
+            </p>
+            <p>a hole provided <unclear reason="illegible" resp="SS">in fire step</unclear> of trench <unclear reason="illegible" resp="SS">for cylinder</unclear> of gas. <unclear reason="illegible" resp="SS">Salsdicke to cove</unclear> gas. for <unclear reason="illegible" resp="SS">protective gaint as
+soffing gass</unclear> and against discovery.</p>
+            <pb n="84" facs="0012_003086_000204_0084.jpg" xml:id="d3e2037"/>
+            <p>Margin of 45° as angle of safty, velocity of wind. Can be made with wind from 3 to 10 mi an
+hour.</p>
+            <p>Air currents rise in day times an fall at night. Attacks are normally made between 2 &amp; 5
+oclock a m .</p>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb n="89" facs="0012_003086_000204_0089.jpg" xml:id="d3e2070"/>
+            <p>Frederick H. Beckmeyer</p>
+            <p>776 Bergen Street,</p>
+            <p>Newark, N.J.</p>
+            <p>Grace church,</p>
+            <p>Newark, N.J.</p>
+            <p>Charles L. <unclear reason="illegible" resp="SS">Gernph</unclear>-Rector</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Mantm</unclear> Allen</p>
+            <p>Glendale. Ohio.</p>
+            <p>Christ Church, Glendale.</p>
+            <pb n="90" facs="0012_003086_000204_0090.jpg" xml:id="d3e2097"/>
+            <p>
+               <unclear reason="illegible" resp="SS">WWWare</unclear>
+            </p>
+            <p>Hopkinsville KY</p>
+            <p>Old A C Abbett</p>
+            <p>Grace Church.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">J Irene</unclear> Mitch</p>
+            <p>47 Westfield Ave</p>
+            <p>Roselle Park</p>
+            <p>NJ</p>
+            <p>Cathedral St John <unclear reason="illegible" resp="SS">Tine</unclear>
+            </p>
+            <p>NY City</p>
+            <p>Dean Robins</p>
+            <p>Chas. R. Williams</p>
+            <p>Port Norris</p>
+            <p>N.J.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">G.E.</unclear>
+            </p>
+            <p>Martinsburg W. Va.</p>
+            <pb n="91" facs="0012_003086_000204_0091.jpg" xml:id="d3e2140"/>
+            <p>Nicholas J Englebert</p>
+            <p>1 Batt. 2 sq. 26 Co.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Wallery ford</unclear> apartments</p>
+            <p>Phila Pa St Lukes Church</p>
+            <p>13th <unclear reason="illegible" resp="SS">I</unclear> Spruce Sts</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Geo Haken</unclear>
+            </p>
+            <p>74 Pine St</p>
+            <p>Mt. Holly. NJ</p>
+            <p>St. Andrews <unclear reason="illegible" resp="SS">Epos</unclear>.</p>
+            <p>Rev. Cooke</p>
+            <p>3<emph>rd</emph> Squad, 1<emph>st</emph> Platoon</p>
+            <p>C.H. Eagenton.</p>
+            <p>Chestertown, N. Y.</p>
+            <p>St. Luke&apos;s.</p>
+            <p>Rev. C. Wood,</p>
+            <p>Roselle, N.J.</p>
+            <pb n="92" facs="0012_003086_000204_0092.jpg" xml:id="d3e2192"/>
+            <p>C. N. Davis, Sandusky Ohio. St Pauls, Epis.</p>
+            <p>4th <unclear reason="illegible" resp="SS">Rlt</unclear> 6<emph>th</emph> squd</p>
+            <p>Rev. J.E. Forbes</p>
+            <p>Put-in-bay Ohio.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Lntn</unclear> W. <unclear reason="illegible" resp="SS">Bembardt</unclear>
+            </p>
+            <p>New York, Brooklyn</p>
+            <p>St. Lukes <unclear reason="illegible" resp="SS">Episcl</unclear>
+            </p>
+            <p>Rev. <unclear reason="illegible" resp="SS">Swezzel</unclear>
+            </p>
+            <p>Louis B. <unclear reason="illegible" resp="SS">Le Duc</unclear>
+            </p>
+            <p>Pl 3, Sq 9</p>
+            <p>Haddonfield, N.J.</p>
+            <p>Rev. Karl Block</p>
+            <p>Grace Church</p>
+            <pb/>
+            <pb/>
+            <pb n="95" facs="0012_003086_000204_0095.jpg" xml:id="d3e2251"/>
+            <p>[Back Cover Recto]</p>
+            <pb n="96" facs="0012_003086_000204_0096.jpg" xml:id="d3e2257"/>
+            <p>[Back Cover]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

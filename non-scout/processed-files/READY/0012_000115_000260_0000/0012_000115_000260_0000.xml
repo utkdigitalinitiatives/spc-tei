@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000260_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1819-11-22">1819 Nov. 22</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000260_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1819 Nov. 22</title>
+          <date when="1819-11-22">1819 Nov. 22</date>
+          <author>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000260_0001.jpg" xml:id="d4e38"/>
+        <p>Agreement</p>
+        <p>Robert Allen</p>
+        <p>&amp;</p>
+        <p>David Burford</p>
+        <pb n="2" facs="0012_000115_000260_0002.jpg" xml:id="d4e48"/>
+        <p>This Article <unclear reason="illegible" resp="EMS">mad</unclear>this 22 day of November in the year of our Lord 1819 between Robert Allen and David Burford that for the purposes of carrying on Trade and merchandise the said parties have entered into Partners <unclear reason="illegible" resp="EMS">hope</unclear> on the following Terms the said Robert Allen is to furnish four thousand dollars capital and a credit in Philadelphia sufficient to complete an aportment of goods suitable to <unclear reason="illegible" resp="EMS">bind in carthage and the said</unclear> David Burford is to furnish two thousand Dollars capital on his part and to transit and carry on the business entirely and each party to receive and be entitled to an Equal share of the <unclear reason="illegible" resp="EMS">prophits</unclear> arising from said  business at the <unclear reason="illegible" resp="EMS">expiration</unclear> of the partnership which is understood to be <unclear reason="illegible" resp="EMS">four</unclear> years from the date here of it is understood that the expenses necessary in carrying on the business is to be mutual and equal such as house rent store keeper <unclear reason="illegible" resp="EMS">time</unclear> &amp; board Traveling expense fire wood  <unclear reason="illegible" resp="EMS">to</unclear> and to be taken out of the prophits but that the individual expence of Either party as well as their clothing and every thing that is not <unclear reason="illegible" resp="EMS">in incured</unclear> necessaryly in Carrying on the business is at the private expense of the party incurring it and to be charged to him and taken out of his share of the Profits a true and</p>
+        <pb n="3" facs="0012_000115_000260_0003.jpg" xml:id="d4e80"/>
+        <p>complete <unclear reason="illegible" resp="EMS">ant</unclear> is to be kept thereof and charged on the books open to the inspection of all parties the sum furnished by the said parties first by each to be drawn out of the business at the disolution the <unclear reason="illegible" resp="EMS">residul</unclear> of the prophets to be Equaly divided after all debts paid in such a way as shall be fair and consistant the the nature of the business - the said David Burford is not to Enter into any Trade or speculation but what is for the benefit of the <unclear reason="illegible" resp="EMS">firm</unclear> during the time of partnership not to enter security or become liable for others contracts without the consint of the said Robert Allen the business to be carried on under the <unclear reason="illegible" resp="EMS">firm</unclear> of R Allen &amp; Burford in Testimony Whereof we have herewith set our hands &amp; seals the Day &amp; year first Written</p>
+        <p>Robert Allen</p>
+        <p>David Burford</p>
+        <p>Duplicates hereof signed</p>
+      </div>
+    </body>
+  </text>
+</TEI>

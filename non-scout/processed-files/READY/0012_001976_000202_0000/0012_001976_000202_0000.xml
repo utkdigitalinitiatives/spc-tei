@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001976_000202_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Charles W. Dabney</name>
+				                    in Knoxville, Tenn., to the State Agricultural &amp; Mechanical College in Knoxville, Tenn.,<date when="1888-04-14">1888 Apr. 14</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Henderson, Ian</name>
+        </respStmt>
+        <author>
+          <name type="person">Charles W. Dabney</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001976_000202_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Charles W. Dabney in Knoxville, Tenn., to the State Agricultural &amp; Mechanical College in Knoxville, Tenn.,1888 Apr. 14</title>
+          <date when="1888-04-14">1888 Apr. 14</date>
+          <author>
+            <name type="person">Charles W. Dabney</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Thomas W. Humes and Charles W. Dabney Papers, 1872-1904</note>
+          <note type="manuscript">0144</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>College presidents -- Tennessee.</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001976_000202_0001.jpg" xml:id="d4e39"/>
+        <p>UNIVERSITY OF TENNESSEE</p>
+        <p>State Agricultural and Mechanical College,</p>
+        <p>KNOXVILLE.</p>
+        <p>The Scandal</p>
+        <pb n="2" facs="0012_001976_000202_0002.jpg" xml:id="d4e49"/>
+        <p>University of Tennessee,		State Agricultural &amp; Mechanical College,	Knoxville, April 14th., 1888.</p>
+        <p>Dear Sir:-		As your paper published a scandalous story about the orphan girls of the Industrial Home of Knoxville and students of this University, which was sent out from here by an irresponsible scandal <gap reason="indecipherable" resp="Henderson"/> manufacturer named Peters, we expect you to publish the enclosed paper which has been prepared by the managers of these institutions, as an act of simple justice. The lie was told, or suggested by a wicked student, or students, who made the villanous attempt. But Peters should have, or certainly might have, known better than to have sent it out to the newspaper fortwith. We respectfully submit that a respectable paper like yours should not encourage such a despicable scadal-monger as this Peters by publishing and paying for his stuff. This is not the first instance of his offending the good people of Knoxville, and in publishing such lies you are injuring yourselves. We remain,		Yours respectfully, 	Chas, W. Dabney Jr		(Dictated)		President,		Also for for managers of Industrial Home of Knoxville.</p>
+        <pb n="3" facs="0012_001976_000202_0003.jpg" xml:id="d4e57"/>
+        <p>University of Tennessee,		State Agricultural &amp; Mechanical College,	Knoxville, April 14th., 1888.</p>
+        <p>Dear Sir:-		As your paper published a scandalous story about the orphan girls of the Industrial Home of Knoxville and students of this University, which was sent out from here by an irresponsible scandal <gap reason="indecipherable" resp="Henderson"/> manufacturer named Peters, we expect you to publish the enclosed paper which has been prepared by the managers of these institutions, as an act of simple justice. The lie was told, or suggested by a wicked student, or students, who made the villanous attempt. But Peters should have, or certainly might have, known better than to have sent it out to the newspaper fortwith. We respectfully submit that a respectable paper like yours should not encourage such a despicable scadal-monger as this Peters by publishing and paying for his stuff. This is not the first instance of his offending the good people of Knoxville, and in publishing such lies you are injuring yourselves. We remain,		Yours respectfully, 	Chas, W. Dabney Jr		(Dictated)		President,		Also for for managers of Industrial Home of Knoxville.</p>
+        <pb n="4" facs="0012_001976_000202_0004.jpg" xml:id="d4e65"/>
+        <p>A scandalous, false story concerning the girls of the Industrial Home of Knoxville, an institution for orphan and destitute young girls, and not for depraved women as was implied, and students of the University of Tennessee, has been sent out and published in some of the papers.</p>
+        <p>The management of these institutions unite in this denial of it, and ask those papers who have published the infamous story to publish this refutation, in justice, at least, to the innocent, defenseless girls who have been so ruthlessly robbed of their fair name, their only possession, and to the charitable institution which seeks to protect them.</p>
+        <p>After a thorough investigation of all the facts on both sides, we are positively convinced that nothing whatever of a criminal, or even positively or even positively improper character has occurred at any time in the relations of the young people thus slandered. There has been no social intercourse between them and no opportunity for such abuses. The story as published is at issue of falsehoods from beginning to end. It may have originated with a student who was promptly expelled from the University last Monday for attempting to get a private meeting with some of these girls, under a false name, by sending word to them through the innocence of the girls and the protection of students who witnessed it. Through the dismissal of this man and his departure the community is rid of the only person who has ever been known in the history of the institution to have attempted anything criminal in relation to these poor girls.		Chas W Dabney Jr	Prest <unclear reason="illegible" resp="IH">Mriw James.		J.B. Crawford.	Commandant</unclear>	Mrs James Park President	<unclear reason="illegible" resp="IH">Mrs Matthew Milling</unclear>
+               <gap reason="indecipherable" resp="Henderson"/> Mrs Lewis <gap reason="indecipherable" resp="Henderson"/> Jr	Miss L. <unclear reason="illegible" resp="IH">Jourolman</unclear> Mrs W. P. Chamberlain		<unclear reason="illegible" resp="IH">Mrs E L M Clung		Miss A. E. Bell</unclear> Mrs. W. W. Gibson</p>
+      </div>
+    </body>
+  </text>
+</TEI>

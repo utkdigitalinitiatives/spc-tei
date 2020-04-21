@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000338_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Andrew Russell</name> in Abingdon, Va., to Francis A. Ramsey,
+in Knox County, Tenn. <date when="1820-06-15">1820 June 15</date>
+            </title>
+            <author>
+               <name type="person">Russell, Andrew, III</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000338_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Russell in Abingdon, Va., to Francis A. Ramsey in Knox County, Tenn. 1820 June 15</title>
+               <date>1820-06-15</date>
+               <author>
+                  <name>Russell, Andrew, III</name>
+               </author>
+               <extent>4 digital images; 1 envelope, 3 pages</extent>
+               <note type="abstract">1820 June 15 Andrew Russell, Abingdon, Va., to his new brother-in-law, Francis A. Ramsey, Knox County, Tenn.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family life -- Tennessee, East -- History -- 19th century.</term>
+               <term>Travel -- Social aspects -- History -- 19th century.</term>
+               <term>Abingdon (Va.) -- Description and travel -- History -- 19th century.</term>
+               <term>Tennessee, East -- Social life and customs -- History -- 19th century.</term>
+               <term>Russell, Andrew, III -- Correspondence.</term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000338_0001.jpg" xml:id="d3e153"/>
+            <p>For Dr <unclear reason="illegible" resp="bds">F.A.M.</unclear>
+            </p>
+            <p>Dec. 19, 1876 with Love</p>
+            <p>of his Brother</p>
+            <p>J.G.M.R.</p>
+            <p>Colo. Francis A. Ramsey</p>
+            <p>Knox County</p>
+            <p>Tennessee</p>
+            <p>mail</p>
+            <p>They arrived last evening all well June 16 1820.</p>
+            <pb n="2" facs="0012_000060_000338_0002.jpg" xml:id="d3e180"/>
+            <p>Abingdon June 15th 1820.</p>
+            <p>Dear Sir,</p>
+            <p>Your favor of the 24th <unclear reason="illegible" resp="bds">recd.</unclear> was handed to me on Tuesday
+last by the Revd. Glenn who is now in our village or its vicinity - He informed me Mr. Saunders had gone to
+Mr. <unclear reason="illegible" resp="bds">McHenrys</unclear> Springs in the county of Scott where he would
+spend some time. Should he call on me I will extend to him such civilities as I can.</p>
+            <p>Altho I was not consulted either by my sister Margaret or yourself on the subject of your matrimonial union,
+yet presuming that the match was founded on prudent considerations, as well as on pure conjugal affection, I
+entertained from the first moment I heard it was intended, the strongest hopes that it was to be the means
+of promoting the comfort &amp; happiness of you both, and also that of your families. I could not fail being
+pleased, and therefore now tender to you as well as to my sister my sincere congratulations on an event, with
+which I am persuaded you have both reason to be pleased - Be assured Sir, it affords me much pleasure to avail
+myself of the present occasion, to acknowledge and receive you as a brother.</p>
+            <pb n="3" facs="0012_000060_000338_0003.jpg" xml:id="d3e200"/>
+            <p>Mrs. Russell and myself have experienced much anxiety for some time past waiting the arrival of our charming
+Grand daughter together with her parents on a visit from Lynchburg - The last intelligence from them by letter
+<unclear reason="illegible" resp="bds">leaving</unclear> date on the first inst. informed us they then calculated
+on leaving home on the Wednesday following, or at any rate within a day or two afterwards - My wife has grown
+quite impatient that their arrival has been delayed so long - she has been looking for them since last Monday
+evening. By the arrival of the Eastern Mail tomorrow we hope to hear from them should they not get here before. The
+Grand daughter Frances Ann, and her mother will spend the summer with us, but her father will return in a few days
+after they come, to Lynchburg, to attend to his business there.</p>
+            <p>My friend Captain Craig, Mr. William Smith his son in law, and daughter Mrs. Hamilton and Harriett, started on
+Tuesday last intending to go by the way of Jonesboro, Greensville and Dandridge to Knoxville to visit their friends
+in Tennessee and may probably give you a call on their way. Mrs. Hamilton is one of my very particular female friends,
+so is Mr. Smith and his lady. Should they call on you, I have no doubt you will find them</p>
+            <pb n="4" facs="0012_000060_000338_0004.jpg" xml:id="d3e213"/>
+            <p>quite agreeable - Harriett is remarkable for her literary acquirements and intelligence - Mr. Smith is a plain
+genteel person, and quite sociable and agreeable - Should Sarah Craig conclude to travel for her health they can
+afford her a convenient and easy mode of conveyance in Mr. Smiths carriage - It will give me pleasure to use any
+means within my power to have Sarah restored to health again, and shall be happy to see her at my house. I expected
+before this to have received a letter from my young friend Margaret <unclear reason="illegible" resp="bds">Cowan</unclear>
+ - I fear now she is determined not to write to me - Have I offended her - It is impossible - assure her if I
+have that I did not intend it.</p>
+            <p>I am Dear Sir your friend</p>
+            <p>Andrew Russell</p>
+         </div>
+      </body>
+   </text>
+</TEI>

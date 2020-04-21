@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000230_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in camp near Nashville, Tenn., to Caroline M. Brown,<date when="1862-03-18">1862 Mar. 18</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000230_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in camp near Nashville, Tenn., to Caroline M. Brown,1862 Mar. 18</title>
+          <date when="1862-03-18">1862 Mar. 18</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000230_0001.jpg" xml:id="d4e39"/>
+        <p>Camp Near Nashville</p>
+        <p>March 18th 1862</p>
+        <p>Dear wife it is with much pleasure that i set down to inform you that i am well at time and do sincearly hope these few lines may find you And the children in good health and the friends the same we are still At this place and we do not know how long we will have to stay here or how soon we will <unclear reason="illegible" resp="LW">have</unclear> to here or whare we will go when we leave this place i am out of heart I have not had but one</p>
+        <pb n="2" facs="0012_000599_000230_0002.jpg" xml:id="d4e50"/>
+        <p>letter from you since i left home the last time I feel as tho you have forgoton me I have nothing new to writ you for we can Not get out side of the guard lines when we want to All we here is in the Camp we still can hear good news on our side at Every side of us the word is that our men has made A great capture in missori they took one million of Dollars worth of property At that place i think the war will soon be over And we will get home soon again they say our mail was <unclear reason="illegible" resp="LW">capturday</unclear> to day by the Rebels if so</p>
+        <pb n="3" facs="0012_000599_000230_0003.jpg" xml:id="d4e57"/>
+        <p>we will not here from one other much more i supose Altho the Hemery got some letters yesturday they said that Stephen Beal was not exspected live they did not say what was the matter with him the health of the regt is midling good at this i would just that garver and McNeal is A getting Better general <unclear reason="illegible" resp="LW">Sheef</unclear>
+               <unclear reason="illegible" resp="LW">bigade</unclear> is together yet there is about 3000 men able for duty at this time in this bigade it is getting quite warm down here the plum trees are in blosome and some of the peach trees Are allmost out in blosome here to</p>
+        <pb n="4" facs="0012_000599_000230_0004.jpg" xml:id="d4e66"/>
+        <p>Now i will just say that i have sent ten dollars with J. A. Lumm to lexington by exspress he will send it to you when he get it I exspect we will soon Again and i shall send some more home i if can Now shall clos these i would like to hear from you once more if it could be so and that soon to i have no letter stamps i will have to send them with out paying for them or pay 5 cts on each letters they have no copers here so good by for this time</p>
+        <p>H, Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

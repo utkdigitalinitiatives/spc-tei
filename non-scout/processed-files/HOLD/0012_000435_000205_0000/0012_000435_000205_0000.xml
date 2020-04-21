@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    in New York, to his father <date when="1856-01-27">1856 Jan. 27</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000205_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson in New York, to his father 1856 Jan. 27</title>
+               <date when="1856-01-27">1856 Jan. 27</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000205_0001.jpg" xml:id="d4e39"/>
+            <p>Philadelphia Jan. 27/56</p>
+            <p>Hon A J Donelson</p>
+            <p>New York</p>
+            <p>My Dear Father</p>
+            <p>I wrote to you yesterday at the Metropolitan For fear that my letter did not reach you, I send this on by <unclear reason="illegible" resp="EMS">Alderman Dodge</unclear> of New York, who was introduced to me here by Mr. Westcott. Please write to me immediately when you will be here, or whether I had better come to New York to see you. I must see you before you start south. All well when I left home. Ma had not yet left her bed. I congratulate</p>
+            <pb n="2" facs="0012_000435_000205_0002.jpg" xml:id="d4e54"/>
+            <p>you again on your nomination.</p>
+            <p>Your affectionate son</p>
+            <p>AJ Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

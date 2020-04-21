@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000475_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-09-01">1880 Sept. 1</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000475_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Sept. 1</title>
+               <date>1880-09-01</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 p.</extent>
+               <note type="abstract">1880 Sept. 1 Lyman C. Draper, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Points out possible error in Dr. Ramsey&apos;s statement concerning where the men of the King&apos;s Mountain battle camped. Requests his authority for this statement. Reference to their invitations to the King&apos;s Mountain Centennial celebration. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>King&apos;s Mountain, Battle of, S.C., 1780 -- Centennial celebrations, etc.</term>
+               <term>South Carolina -- History -- Revolution, 1775-1783 -- Campaigns.</term>
+               <term>United States -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</term>
+               <term>Carter, W. B.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000475_0001.jpg" xml:id="d3e152"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville --</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000475_0002.jpg" xml:id="d3e164"/>
+            <p>Madison, Sept. 1st 1880.</p>
+            <p>My Dear Dr. Ramsey --</p>
+            <p>Only a single inquiry this time: Can you recall your authority for stating that the Kings Mtn. men camped the first night at Talbot&apos;s Mill? Not that you think you must have had good authority for saying so -- no doubt of that; but whether you know your man, &amp; whether he was one of <unclear reason="illegible" resp="JR">&apos;Enr?</unclear>
+            </p>
+            <p>It seems a short move from Sycamore Shoals -- some 3 miles -- hardly worth the effort.</p>
+            <p>There is one thing certain -- they made no two nights camp west of the Mountain. It was either</p>
+            <pb n="3" facs="0012_000060_000475_0003.jpg" xml:id="d3e182"/>
+            <p>as you say at Talbots -- or as WB carter writers some 20 odd miles from Sycamore at Crab Orchard. If at Talbots, then their next day&apos;s march was a long one -- for they went a little down the Eastern declivity of Yellow Mtn.</p>
+            <p>In haste -- Truly Yours,</p>
+            <p>Lyman C. Draper.</p>
+            <p>I see the Kings Mtn. Comtee. have invited <unclear reason="illegible" resp="JR">Hoges</unclear> &amp; his Cabinet, you &amp; I to share in the Centennial celebration. I would like to be there on many accounts; but I cannot go -- must keep pegging away at home.</p>
+            <p>L.C.D.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

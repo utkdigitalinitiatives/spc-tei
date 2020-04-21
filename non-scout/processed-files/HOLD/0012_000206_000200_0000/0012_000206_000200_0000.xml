@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000206_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Charles Christensen</name> at Head Quarters, 8th Regt. Wis. Vols.
+                Camp Cairo, Ill. to Friends <date when="1862-02-21">1862 February 21</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Rozema, Laurel</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Charles Christensen</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000206_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Charles Christensen at Head Quarters, 8th Regt. Wis. Vols. Camp Cairo, Ill. to Friends 1862 February 21</title>
+               <date when="1862-02-21">1862 February 21</date>
+               <author>
+                  <name type="person">Charles Christensen</name>
+               </author>
+               <title>[Letter] <date when="1862-02-21">Feby. 21st 1862</date> Head Quarters
+                        8th Regt Wis. Vols. Camp Cairo, Ill. [to] Friends</title>
+               <date>2006-05-22</date>
+               <author>
+                  <name/>
+               </author>
+               <author>
+                  <name type="person">Christensen, Charles</name>
+               </author>
+               <date when="1862-02-21">Feby. 21st 1862</date>
+               <extent>5 pages</extent>
+               <note type="abstract">This February 21, 1862, letter from Civil War soldier Charles Christensen, camped at Cairo, Illinois, to Richard Morris of Cedar Lake Wisconsin. Christensen, a member of the 8th Wisconsin, discusses his regiment, Union victories at Forts Donelson and Henry, Confederate General  Lloyd Tilghman, possible rebel attacks at Cairo, the overpopulation of prisoners of war, as well as personal family matters.</note>
+               <note type="collection">Charles Christensen Civil War Letter, 1862 February 21</note>
+               <note type="manuscript">MS.2762</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Rozema, Laurel">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e97">
+            <pb n="1" facs="0012_000206_000200_0001.jpg" xml:id="d4e98"/>
+            <p>Richard Morris</p>
+            <p>Cedar Lake. P.O.</p>
+            <p>Wanshara Co. Wisconsin</p>
+            <pb n="2" facs="0012_000206_000200_0002.jpg" xml:id="d4e106"/>
+            <p>Head Quarters 8th Regt Wis. Vols</p>
+            <p>Camp Cairo, Ill. Feby. 21st 1862.</p>
+            <p>Dear Friends:</p>
+            <p>I take the earliest opertunity to acknowledge the receipt of your kind letter, which came to hand this morning. Frudes and myself are enjoying good health, although, there are quite many sick in our Regt at present! I suppose that you have heard of our great victory at <unclear reason="inkspot" resp="lr">Fort</unclear> Donelson consequently I will endeavor to go into any details of the battle. Our loss was 500, killed &amp; 800 wounded, while the rebel loss was much less, as they were fortified, and laid in intrenchments but they must have lost a great many, because the battle was very severe. O our Gun boats done great execution among them. O our Regt did not participate in this great battle, on account of not having suitable uniforms, but we will have a turn one of these days. I have just returned from Alton Ill. and was absent 3 days. We went as an escort to take</p>
+            <pb n="3" facs="0012_000206_000200_0003.jpg" xml:id="d4e119"/>
+            <p>to take the Prisoners to Alton Prison, which was taken at Fort Henry. Genl. Tilghman is a very intilligent man &amp; I was surprised to think, that so smart a man, should ever think of sucession, but they are hearttly sick of il. The lattest official reports from our army in Tennesee states that Clarksville, is ours, also that Memphis has raised the white flag for a surrender. If this is true I predict a speedy termination of this war. There is also a rumor about  Cairo this eavning that the rebels are coming up from Columbus to attack this wun to night or to morrow morning, and if they do, we will have some pretty lively fighting to do, if we save Cairo, it is not at all imporobable that they will endeavor to make an attack, because if they succeed in taking all of our transports, Gunboats, &amp; commissary stores, it will encourage them very much, after reciving such a severe blow as they have had in Tennesee. It is rumored that Gov. Harris of Tenn has issued a proclaimation to the affect, that all armed forces in his state must lay down their arms, and surrender to the Union troops. It is indeed quite a scene, to see the vast numbers of Prisoners which arrive to this Place daily</p>
+            <pb n="4" facs="0012_000206_000200_0004.jpg" xml:id="d4e123"/>
+            <p>The streets are thronged so that it is almost impossible to pass. The Prisoners are sent by rail road. &amp; steam boat transportation evry hour in the day, to various parts of the north. I cannot amagine what we will do with all of these rebel prisoners, without we go to hanging them, which I think would be the best  way to dispose of the leaders. You stated in your last, that Aunt <unclear reason="inkspot" resp="lr">Electa</unclear> has been unfortunate enough to break her wrist. It grives me much to hear that she has got additional troubles, that lameness was enough to kill any common person, without being so unlucky as she has been. But I hope that she will recover before long. I hear that William had gone to canada after &quot;Ducky&quot;, and your letter annouces his safe carnival I was quite disappointed about your discription of his &quot;better half&quot;, because I have been told by men from Waupaca, that she is a very smart girl for work, &amp; that she is much of a lady I hope that she will make him a good &amp; true wife. - I recived a letter from Peter this week, he was still at camp Randall, but I see by dispatches that his Regt has been ordered to this Place, and will perhaps be here in a day or tow. I have not heard from &quot;Jacob&quot; in some time. I expect that he was in the engagement at Fort Donelson, &amp;  may be one of the unfortunate ones.</p>
+            <pb n="5" facs="0012_000206_000200_0005.jpg" xml:id="d4e130"/>
+            <p>I am quite anxious to hear from him, and I should think that he would write to you, perhaps he has not recived your letters, and for that reason does not write to you. &quot;by the way&quot; you stated that Joe or rather his wife has got a daughter. That is a fine joke on Joe.- I can amagine just how that little Newson looks.- I will bet a cow that it will have a great long nose just like her daddy. You cannot amagine what sport I would have with Jossi if I was up home for a week or two. &quot;By the way&quot; how do you &amp; Joe get along. is he as - blunt as ever, or is he sosciable and neighborly - I wish that you would write how your stock is getting along on your farm. You know that I am always anxious to know how you prosper. -. do you have plenty of of fodder, for your stock, this winter, that has always been a <unclear reason="illegible" resp="lr">grid</unclear> trouble <gap reason="illegible" resp="lr"/> you heretofore. It must be very hard times up north this winter, as produce is very low, consequently the Farmer suffers, Write soon and give me all the news. Tell Alice that she owes me a letter and that I should be very happy to hear from her soon. Give my best respects to Uncle Peter &amp; Aunt Eilien, also remember me to Mr Vanastrands folks, &amp; James Rossell.</p>
+            <p>Good Night</p>
+            <p>From Your Friend</p>
+            <p>Chas Christensen</p>
+            <p>Richard Morris &amp; Co.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

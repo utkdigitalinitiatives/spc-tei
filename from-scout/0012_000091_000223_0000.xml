@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000223_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>David L. Jones</name>
+ in Nashville, Tenn., to Anna Jones in Allegheny City, Pa.<date when="1865-06-30">1865 June 30</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L., Union soldier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000223_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa, 1865 June 30</title>
+               <date>1865-06-30</date>
+               <author>
+                  <name>Jones, David L., Union soldier</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">30 June 1865 David L. Jones in Nashville, Tenn., to his wife, Anna Jones in Allegheny City, Pa. Greets her with the exact date and time he received her last letter. Thanks her for the six dollars she sent and thinks that should be sufficient with mustering out eminent. Because she&apos;s shown interest, he goes through the chain of command, general by general, making sure who to blame for needlessly keeping them there. Relates how most of the camp activity involves turning in things like guns, mules, etc. Sadly, tells of a long time, very reliable soldier being shot while trying to be jailed for unknown reason. Before closing, gives opinion on how soon Anna should get her false teeth; which comes easily, since she&apos;s there, and he&apos;s yet to send her any money to have this done.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Nashville -- 19th century -- Correspondence.</term>
+               <term>Military camps -- Tennessee -- Nashville -- 19th century -- Anecdotes.</term>
+               <term>Generals -- United States -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+               <term>Military leadership.</term>
+               <term>Military discharge.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000091_000223_0001.jpg" xml:id="d3e164"/>
+            <p>Nashville, Tenn., June 30th, 1865</p>
+            <p>My Dear Anna</p>
+            <p>yours of the 24th came to hand on the 30th which was Sabbath Afternoon about two o clock I have mentioned in several letters that i have received 6 Dollars from you i wish you would mention it as soon as you get that Letter So you need not send any more at present I wish that they may be enough to do me until i come home Whenever that will be you wanted to know who was our General they tell me that Genl Thos is the head Genl which governs the state of Tennessee Alabama and Georgia and that send Doolittle is our genl and Genl Stoneman is the Commander of this state stationed at Knoxville they say that he has issued an order to muster us out it is our Colonel that has got us kept they make money doing nothing but going around a <unclear reason="illegible" resp="NW">whoiinj </unclear> but it may be that we may be mustered out quite unexpected to any of them Next Thursday is the Election day here What Wileys Mother was telling you I believe he had no notion of coming home on furlough he has to pay his fare and i think if he had any money to spare he would rather buy Whiskey. But the Second Lieut had applied for his Resignation and it was sent back because it was not properly drawn up so there was </p>
+            <pb n="2" facs="0012_000091_000223_0002.jpg" xml:id="d3e179"/>
+            <p>a man stood by told me that the clerk was talking to him about it and he told him not to mind it that he would get home Just as soon without it So it is hard to tell how it will be The most of our Officers is sorry to see the was coming to a close they are so slow turning things in such as mules and Niggerrs and <unclear reason="illegible" resp="NW">Juns</unclear> They are Paying soldiers off every day they Paid all the Nigers last week There was a very sad affair Occured last Saturday Afternoon one of our guard had Arrested a Soldier belonging to the 188 Ohio i could not ascertain whether it was for drunkness or not but at anyrate he was takeing him to Jail and the report is that he tryed to run away when the guard <unclear reason="illegible" resp="NW">hollerd </unclear>him three times what he paid no attention to so he up with his gun and shot him so that he died in a few minutes afterwards the Poor fellow had been out in the service ever since the War broke out and was a fine man so says them in the same Camp with him Anna What you said about your teeth i think you had better get ready for to get a set of Artificial but i think that i would let cooper pull the stumps you know that chlorform is dangerous But it is very easy for me to tell you to get them and dont send you no money to do it with I hope that this will find you all well as it leaves me </p>
+            <p>Yours as usual David</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001976_000201_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Lizzie N. Williams and Annie B. McKinney</name>
+				                    to the President and Board of Trustees of the University of Tennessee.,<date when="1894-06">1894 June</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Henderson, Ian</name>
+        </respStmt>
+        <author>
+          <name type="person">Lizzie N. Williams and Annie B. McKinney</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001976_000201_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Lizzie N. Williams and Annie B. McKinney to the President and Board of Trustees of the University of Tennessee.,1894 June</title>
+          <date when="1894-06">1894 June</date>
+          <author>
+            <name type="person">Lizzie N. Williams and Annie B. McKinney</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Thomas W. Humes and Charles W. Dabney Papers, 1872-1904</note>
+          <note type="manuscript">0144</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>College presidents -- Tennessee.</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001976_000201_0001.jpg" xml:id="d4e39"/>
+        <p>To	The President and Board of Trustees of the University of Tennessee.		Gentlemen,		At the request of Dr. to <unclear reason="illegible" resp="IH">N. Dabney</unclear> the Woman's Association of the State University was organized on the 22nd day of May. 1895. the object of which should be to take active interest in the Woman's Department; awaken the sympathies of the people throughout the state in the cause of co-education, and to <unclear reason="illegible" resp="IH">secure</unclear> funds for the erection of a Woman's Building on the University grounds.</p>
+        <p>Owing to the stringency of the times, all efforts to <unclear reason="illegible" resp="IH">secure</unclear> funds by individual <unclear reason="illegible" resp="IH">subscription were</unclear> abandoned in the early summer.		In June 1893 the Trustees unanimously voted to admit women to all departments of the University.		At the request of Dr. Dabney, Mrs. McKinney,  Mrs. Perkins, and </p>
+        <pb n="2" facs="0012_001976_000201_0002.jpg" xml:id="d4e57"/>
+        <p>Mrs. French on June 6 1893, at the close of Mr. James <unclear reason="illegible" resp="IH">Lane</unclear> Allen's address in Science Hall, spoke briefly on the subject of higher education, and the objects and needs of the Woman's Associations, just formed.</p>
+        <p>During the year, under the auspices of this Association, a reception was rendered the women students, <unclear reason="illegible" resp="IH">three</unclear> five lectures were given in Science Hall and a Shakespearian recital, which <unclear reason="illegible" resp="IH">netted</unclear> the Association a small fund through the influence of this Association A Literary Society was formed by the women students, called "
+The Barbara Blount Society, and we are glad to say, on the whole, creditable work has been done.	We <unclear reason="illegible" resp="IH">note milk</unclear> satisfaction the number of young women who have <unclear reason="illegible" resp="IH">associated</unclear> themselves of the <unclear reason="illegible" resp="IH">ppartementries</unclear> offered at this <unclear reason="illegible" resp="IH">institution</unclear> and in feel assured of the success of</p>
+        <pb n="3" facs="0012_001976_000201_0003.jpg" xml:id="d4e85"/>
+        <p>this moment. We believe that interest in the cause of co-education is increasing in this city as well as in other sections of the state. Last June the Trustees set apart and fitted up a special building for the use of the women students, which has been rendered more comfortable and attractive by the work of the Woman's Association, and the gift of a number of pictures from the citizens of Knoxville.		The experience of the past year has shown that self-government has not been entirely successfull and we would recommend.	1st That some plan be advised by which a competent woman be placed in charge of the Woman's Building, whose authority shall be recognized by the women students.	2nd That a more close adherence be made to the age requirement, and</p>
+        <pb n="4" facs="0012_001976_000201_0004.jpg" xml:id="d4e89"/>
+        <p>examination in the matriculation of women students.	Perhaps it would be proper to add that the association hopes during the coming year to prevent our imperative needs to the State Legislation in such a way as to secure recognition and practical aid.</p>
+        <p>Respectfully submitted	Lizzie N. Williams <unclear reason="illegible" resp="IH">Rec. Sec.</unclear>	Annie B. McKinney Prest.</p>
+        <pb n="5" facs="0012_001976_000201_0005.jpg" xml:id="d4e98"/>
+        <p><unclear reason="illegible" resp="IH">memorial of	Ladies University	Society	desiring a lady Professor</unclear>	June 12/94</p>
+      </div>
+    </body>
+  </text>
+</TEI>

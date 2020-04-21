@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000256_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1814-09-04">1814 Sept. 4</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000256_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1814 Sept. 4</title>
+          <date when="1814-09-04">1814 Sept. 4</date>
+          <author>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000256_0001.jpg" xml:id="d4e38"/>
+        <p>Copy</p>
+        <p>Letter of advice to the</p>
+        <p>Secretary of war N. 05</p>
+        <pb n="2" facs="0012_000115_000256_0002.jpg" xml:id="d4e46"/>
+        <p>Fort Pickering September 4th 1814</p>
+        <p>Sir - In obediance to an order issued here on the 1st day of Sept. by Maj. James Dohorty commandant of this post, requiring me to purchase provisions for 60 days for the Troops here there being no <unclear reason="illegible" resp="EMS">constrason</unclear> at this place, I have been obliged to obtain as the <unclear reason="illegible" resp="EMS">Us Factor</unclear> here, the sum of four hundred and twenty nine Dollars &amp; thirteen cents, to enable me to make the purchases, which sum is expended in the purchase of the articles, that the enclosed accounts and receipt will show, I have therefore drawn my Bill of <gap resp="Smither"/> on you No. 5 payable at ten days sight to order of Issac <unclear reason="illegible" resp="EMS">Nawborg Gen. U.S. Factor</unclear> for the sum of four hundred and twenty nine Dollars &amp; thirteen cents, which you will be pleased to honor on its appearance and charge to the provision account fo the army </p>
+        <p>Verry Respectfully Sir </p>
+        <p>Honble John Armstrong		I have the honor to be</p>
+        <p>Secretary of war					Your <unclear reason="illegible" resp="EMS">Mo Obl Hlls</unclear> Servant</p>
+        <p>David Burford</p>
+        <p>Lieut of Infantry</p>
+        <p>
+          <unclear reason="illegible" resp="EMS">A.G. Master</unclear>
+        </p>
+        <p>Bill of Exchange for $429.13</p>
+        <p>Exchange for $429.13 Fort Pickering</p>
+        <p>No. 5  September 4th 1814</p>
+        <p>At Ten days sight of this my first of exchange the second and third of the same date and <unclear reason="illegible" resp="EMS">tenor</unclear> not paid, pay to Isaac Rawlings <unclear reason="illegible" resp="EMS">Gen. U.S. Factor</unclear> on order, the sum of four hundred Twenty nine Dollars &amp; thirteen cents for value received, and charge the same as <unclear reason="illegible" resp="EMS">provice</unclear> of this date. Respectfully Sir</p>
+        <p>Honble John Armstrong		Your <unclear reason="illegible" resp="EMS">Mo Obl Hlls</unclear> Servant</p>
+        <p>Secretary of war					David Burford</p>
+        <p>Lieut of Infantry</p>
+        <p>
+          <unclear reason="illegible" resp="EMS">A.G. Master</unclear>
+        </p>
+        <pb n="3" facs="0012_000115_000256_0003.jpg" xml:id="d4e109"/>
+        <p>Lieutenant David Burford Chickasaw Bluffs, Sept. 4, 1814</p>
+        <p>
+          <unclear reason="illegible" resp="EMS">Acting W. Master Bat of Joshua Fletcher</unclear>
+        </p>
+        <p>To 25 Barrels Flour at $10 pr. Barrel $250.00</p>
+        <p>To 3222 pounds of Beef at 4 cents pr. pound 128.88</p>
+        <p>To 45 gallons Vinegar at 25 cents pr. gallon 11.25</p>
+        <p>To 178 pounds soap at <gap resp="Smither"/> cents pr pound 22.25</p>
+        <p>To 67 pounds Candles at 25 cents pr. pound 16.75</p>
+        <p>$429.13</p>
+        <p>received of Lieutenant David Burford Acting Quarter Master</p>
+        <p>four hundred twenty nine Dollars &amp; thirteen cents</p>
+        <p>which is in full of the above account</p>
+        <p>Joshua Fletcher</p>
+      </div>
+    </body>
+  </text>
+</TEI>

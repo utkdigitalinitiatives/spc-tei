@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000554_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>W. A. Anderson</name>
+ in Washington, DC, to J. G. M. Ramsey in Knoxville, Tenn.<date when="1900-01-27">1900 January 27</date>
+            </title>
+            <author>
+               <name type="person">Anderson, W. A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000554_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W. A. Anderson in Washington, DC, to J.G.M. Ramsey in Knoxville, Tenn. 1900 January 27</title>
+               <date>1900-01-27</date>
+               <author>
+                  <name>Anderson, W. A.</name>
+               </author>
+               <extent>3  digital images;  3 pages.</extent>
+               <note type="abstract">1900 January 27, W. A. Anderson of Southern Railway Company in Washington, DC, to J. G. M. Ramsey in Knoxville, Tenn. Enclosure of letter to John Allen of Nashville concerning the state seal.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Seals (Numismatics) -- Tennessee -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Allison, John, 1845-1920 -- Correspondence. </term>
+               <term>Watkins Institute. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000554_0001.jpg" xml:id="d3e151"/>
+            <p>Washington, D.C. January 27, 1900</p>
+            <p>J.G.M. Ramsey, Esq.,</p>
+            <p>Knoxville, Tenn.</p>
+            <p>My dear Mac:</p>
+            <p>For your information I beg to enclose you copy of a letter this day written to John Allison at Nashville. You may remember I spoke to you once about this matter.</p>
+            <p>Very truly yours,</p>
+            <p>W. A. Anderson</p>
+            <pb n="2" facs="0012_000060_000554_0002.jpg" xml:id="d3e171"/>
+            <p>January 27, 1900.</p>
+            <p>Hon. John Allison,</p>
+            <p>Nashville, Tenn.</p>
+            <p>Dear Sir:</p>
+            <p>I see that Dr. R. L. C. White was to present a paper at the Watkins Institute in your city on January 9th on &quot;The true history of our state seal, including a reply to Col. W. A. Henderson&apos;s pamphlet on that subject.&quot; I do not know what he means by the pamphlet, as none has never been issued by me. As you are aware, I delivered an address upon that subject in Nashville, and I presume he has heard or seen a copy of it. I received a communication from you upon this matter some months ago, but did not answer it, because I did not wish to get into a controversy with our our old friend, Dr. White, over an immaterial matter. I think the trouble is that in some question he had propounded to be answered, he got into an error on account of his want of knowledge derivable outside of the records. I have no doubt that the statements in my lecture are absolutely true. I had a long intimate acquaintance with Dr. J. G. M. Ramsey, and saw the original seal several times, which was correctly described in the lecture. While Dr. White is no doubt correct as to the manufacture of the seal in Philadelphia, under the resolution to the effect passed by the Legislature, yet he did not stop to consider that it would take a long time to get that product into Knoxville- say from three to six months,- and that in the meantime a seal was needed for constant use in the organization of the Government.</p>
+            <p>Since I received your letter I have had a conversation with J. G. M. Ramsey at Knoxville, a son and executor of the old annalist, and </p>
+            <pb n="3" facs="0012_000060_000554_0003.jpg" xml:id="d3e189"/>
+            <p>JA 2.</p>
+            <p>he remembers distinctly of having seen the seal and the account of it, and gives a perfect description of it. He says the same was kept in his father&apos;s office, and was either stolen by the federal soldiers or burned. If you have any further interest in the matter, and will write a letter to him, he will tell you the facts or will furnish an affidavit.</p>
+            <p>Very truly yours,</p>
+            <p>W. A. Anderson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000190_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Note, <name>Davis Tillson</name>
+					in Knoxville, Tenn., 
+					<date when="1864-01-20">
+						1864 January 20
+					</date>
+            </title>
+        <author>
+          <name type="person">Tillson, Davis</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000190_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Note, Davis Tillson in Knoxville, Tenn., 1864 January 20</title>
+          <date when="1864-01-20">
+						1864 January 20
+					</date>
+          <author>
+            <name type="person">Davis Tillson</name>
+          </author>
+          <title>Letter, <name>Davis Tillson</name>
+					in Knoxville, Tenn.,
+					<date when="1864-01-20">
+						1864 January 20
+					</date>
+               </title>
+          <date>2006-09-20</date>
+          <author>
+            <name>Tillson, Davis</name>
+          </author>
+          <date when="1864-01-20">
+						1864 January 20
+					</date>
+          <extent>1 page</extent>
+          <note type="abstract">In a January 20, 1864, note from Knoxville, Brigadier General Davis Tillson, Chief of Artillery for the Department of the Ohio, states that "Mr. Mayberry" has permission to take slaves found within the city limits to his farm.</note>
+          <note type="collection">Davis Tillson Note, 1864</note>
+          <note type="manuscript">MS.2220</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Knoxville (Tenn.) -- Slavery.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e101">
+        <pb n="1" facs="0012_000190_000200_0001.jpg" xml:id="d4e102"/>
+        <p>Head Quarters Chief of Artillery</p>
+        <p>Dept. of the Ohio</p>
+        <p>Knoxville Tenn. Jan. 20 1864</p>
+        <p>Mr. Mayberry has permission to take any female slaves, or children under fifteen years of age wherever they may be found within the limits of this city to his farm, or Residence, &amp; detain them there.</p>
+        <p>By Command of</p>
+        <p>Davis Tillson</p>
+        <p>Brig. Gen'l Vols. &amp; Chief of</p>
+        <p>Artillery, Commd'g Defences of Knoxville,</p>
+        <p>WW Deane</p>
+        <p>
+          <unclear reason="illegible." resp="Josh Hogan">Lt WW D</unclear>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

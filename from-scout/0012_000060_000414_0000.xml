@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000414_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>W.A. Harrison</name>
+ in Harrodsburg, Ky., to J.G.M. Ramsey in Knoxville, Tenn. <date when="1873-02-21">1873 Feb. 21</date>
+            </title>
+            <author>
+               <name type="person">Harrison, W. A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Valine, Debbie</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000414_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W.A. Harrison in Harrodsburg, Ky., to J.G.M. Ramsey in Knoxville, Tenn. 1873 Feb. 21</title>
+               <date>1873-02-21</date>
+               <author>
+                  <name>Harrison, W. A.</name>
+               </author>
+               <extent>5 digital images; 4 pages, 1 envelope</extent>
+               <note type="abstract">Rev. W. A. Harrison wrote to J. G. M. Ramsey on Feb. 21, 1873. He mentions Ramsey&apos;s love for Tennessee and the history he had made known to many.  He was glad the war had not taken Ramsey&apos;s life and that Ramsey had returned to East Tennessee. Harrison was pleased to be remembered by so many people and happy about the growth of his former church. He tells Ramsey he would love to come visit. He sends his love to several people. He was currently preaching in his hometown of Harrodsburg, Kentucky. This is the place he was baptized and where he was while writing the letter.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Historians --Tennessee -- Knoxville.</term>
+               <term>Clergy -- Kentucky -- Harrodsburg.</term>
+               <term>Knoxville (Tenn.)</term>
+               <term>Harrodsburg (Ky.)</term>
+               <term>Harrison, W. A. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000060_000414_0001.jpg" xml:id="d3e158"/>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000414_0002.jpg" xml:id="d3e170"/>
+            <p>Harrodsburg Ky</p>
+            <p>Feb 21st 1873</p>
+            <p>Dear Dr.:</p>
+            <p>I have first returned from Springfield where I have been holding a Sacramental meeting <unclear reason="illegible" resp="DV"> fer bro </unclear> &amp; Saunders. Your letter I found in the office on my return,-and on opening it I tho &apos; t I knew the hand writing; glancing down to the close, there was the well know &amp; familiar signature, the name we have all seen on so many bank bills, <unclear reason="illegible" resp="DV"> books </unclear> , &amp; <unclear reason="illegible" resp="DV"> divers </unclear> records: There it was, written precisely after the same old fashion as clear, as steady, &amp; uniform as print. I know you are older than when I was in Knoxville, but no one would <unclear reason="illegible" resp="DV"> perceive </unclear> it from your writing. How few at your age have the firm steady hand you have.</p>
+            <pb n="3" facs="0012_000060_000414_0003.jpg" xml:id="d3e196"/>
+            <p>You will no doubt be amused when I tell you that I used to be troubled lest during the war you might die, and not be sepulchered in Tennessee; the state you love, &amp; whose History you have given us. And then after the war, I was uneasy until I heard you had returned to your old home, &amp; that your face was to be seen again among the inhabitants of Knoxville. Every thing seems to be working for good. I am happy in the tho &apos; t that you are back at home, &amp; that your dear wife &amp; children (some of them) are with you. I know, <unclear reason="illegible" resp="DV"> contented </unclear> as you were, your pilgrimage would be sad if shut out from Tenn. You have forgotten the conversation we had one bright morning riding in from your home to the city, but I have not, &amp; never can forget it. You spoke of your identity with every thing in your <unclear reason="illegible" resp="DV"> county </unclear> , even the very stumps</p>
+            <pb n="4" facs="0012_000060_000414_0004.jpg" xml:id="d3e210"/>
+            <p>&amp; trees, &amp; rock, &amp; brooks, &amp; <unclear reason="illegible" resp="DV"> rivers </unclear> &amp; c, &amp; c,</p>
+            <p>You spoke of the benefits of association, that you left something of your heart in every place where joy or where sorrow in your practice had met you, Some-how-or other you said your experience seemed to go out, even to the material objects, every where around you in your country, and your own feelings seemed to become the attributes of familiar outward objects &amp; to endow them with life. So that every thing about you, the door-steps, the hearth-stone, the old tree, the spring, the well, the gate, the fence, &quot; the mountain ravine &amp; valley low, &quot; all seemed living things and ready to greet you with a human sympathy. - I knew, after that mornings ride, you could not feel settled &amp; at home any where else but in or near your old home. and I am so glad you are back. and a thousand thanks to you for your kind letter, &amp; as many to</p>
+            <pb n="5" facs="0012_000060_000414_0005.jpg" xml:id="d3e223"/>
+            <p>your dear wife &amp; family. &amp; to all the dear friends in K who are so good as to remember this former minister. Love to <unclear reason="illegible" resp="DV"> Bro </unclear> &amp; Park &amp; his family. It fills me with joy to hear of the growth of the old <unclear reason="illegible" resp="DV"> ch </unclear> . How I would <unclear reason="illegible" resp="DV"> rejoce </unclear> to visit you some of these days,- for there is something of your nature in me. I never forgot even the outward places <unclear reason="illegible" resp="DV"> where am </unclear> I have lived &amp; labored. Is Mrs <unclear reason="illegible" resp="DV"> McCamm living </unclear> ? My love to her <unclear reason="illegible" resp="DV"> the Misses Deaderick White, King </unclear> , Kennedy Boyd, Dr <unclear reason="illegible" resp="DV"> Crozier </unclear> , Mrs <unclear reason="illegible" resp="DV"> Swain </unclear> , Scott &amp; all the brethren.</p>
+            <p>I am here in my native town &amp; preaching to the <unclear reason="illegible" resp="DV"> Ch </unclear> in <unclear reason="illegible" resp="DV"> wh </unclear> Dr. Clelland baptized me more than forty years ago.</p>
+            <p>My wife &amp; daughter are now on a visit to Tenn. God bless you &amp; be your sun &amp; shield &amp; exceeding great reward - Most affectionately</p>
+            <p>yrs W. A. Harrison</p>
+         </div>
+      </body>
+   </text>
+</TEI>

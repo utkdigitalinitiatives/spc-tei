@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000222_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">William Smith</name> in <name type="place">Bulls Gap, Tenn.</name> to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-04-02">1865 April 2</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000222_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William Smith</name> in <name type="place">Bulls Gap, Tenn.</name> to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-04-02">1865 April 2</date>
+               </title>
+               <date when="1865-04-02">1865 April 2</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>            
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">               
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-17" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e206">
+            <pb facs="0012_001356_000222_0001.jpg" n="1" xml:id="d2e208"/>
+            <opener>
+               <dateline>
+                  <date when="1865-04-02">Sunday April the 2 1865</date> 
+                  <choice><orig><name type="place">Bulls gap Tennsee</name></orig><corr><name>Bulls Gap, Tennessee</name></corr></choice>
+               </dateline>
+            </opener>
+            
+            <p>my dear wife I now take the opportunity in writing to you these few lines hopeing to find you all well at the time at wich it leaves me not very well at this time I have not got well of my cold yet my eyes are very Bad the sun is so ot here and I had a strong inflmation in them but I ham going to ask the Docter to give me some <unclear reason="illegible" resp="NL">watrye</unclear> water to dress them with it as been such heavey rains here the thunder and lighting heare is awfull some times it rais two or three days and nights and after that the sun comes so ot that it burns thru your cloths and that makes it so <unclear reason="illegible" resp="NL">miserables</unclear> heare
+               
+               <pb facs="0012_001356_000222_0002.jpg" n="2" xml:id="d2e235"/>
+               my dear wife I think it very straing that you Dont write to me if you have writen I have had not one letter from you yet the last letter I wrote to you was on the twenty teuleveth of march dear wife I must tell you I pray to the blessed lord for my Ealth and strength as Long as I have to stay heare I must tell you that we have to put up with a good deal heare in this construction coare there is three hundreed men in this coare we all belong to general Shermas Department if you weare see worke here you would never for get the sight to see the bridges burned and Railroad tore up the Bridge we are bulding
+               
+               <pb facs="0012_001356_000222_0003.jpg" n="3" xml:id="d2e237"/>
+               now is beteem eaght amd nine hundred feet long and the next one from 12 to 15 hundred feet long this railroad goes to <choice><orig><name type="place">richmont</name></orig><corr resp="nl"><name type="place">Richmond</name></corr></choice> and we are following up the road all the way into <unclear reason="illegible" resp="NL"><choice><orig>vergeney</orig><corr resp="nl">Virginia</corr></choice> genearall Stamers</unclear> that are to repar the road cleare to <name type="place"><choice><orig>hopers fery</orig><corr resp="nl">Harper's Ferry</corr></choice></name> in <choice><orig>vergeney</orig><corr>Virginia</corr></choice> and I hope we shall go through theare and then I hope we shall get strong and come home this place is bulls gap seventy miles from Bristil and when we get to Bristil we then will be on the line of <choice><orig>vergeney</orig><corr>Virginia</corr></choice> there we are now in Eastern tennesee three hundred and 50 miles from Nashville dear wife I ham a good many hundred miles from you now but never the wase 
+               
+            <pb facs="0012_001356_000222_0004.jpg" n="4" xml:id="d2e275"/>
+               nere the worse that I shall long for the time to see you again with my kind love you and a kiss for you and my dear henry and austin and tell them I as well as can be expected at this time I have not heard anything of alfred since I left nashvill that on was on the 11 march I will write to him soon as I can he told me he would write to you when I left nashvill please to send all the partickler about home and give my respects to Mr King and and familey and tell them pretty well but have a cold send me workd weather alfred wrote to you my dear wife write to me as soon as you can there peach trees are in full Bloo they look hansom</p>
+               <closer>
+                  <salute>my kiss</salute>
+                  <signed>William Smith</signed>
+               </closer>
+            <postscript><p>I conclude love to you all</p></postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

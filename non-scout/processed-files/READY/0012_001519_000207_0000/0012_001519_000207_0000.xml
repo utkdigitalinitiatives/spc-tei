@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000207_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Edward Maynard</name> in Murfreesboro, Tenn. to Washburn
+					Maynard in Newport, R.I. <date when="1863-03-13">1863 March 13</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Edward Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000207_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Edward Maynard in Murfreesboro, Tenn. to Washburn Maynard in Newport, R.I. 1863 March 13</title>
+          <date when="1863-03-13">1863 March 13</date>
+          <author>
+            <name type="person">Edward Maynard</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001519_000207_0001.jpg" xml:id="d4e40"/>
+        <p>Midn. Washburn Maynard</p>
+        <p>U.S.S. Constitution</p>
+        <p>Newport</p>
+        <p>R.I.</p>
+        <pb n="2" facs="0012_001519_000207_0002.jpg" xml:id="d4e50"/>
+        <p>Murfreesboro.' Tenn.</p>
+        <p>March 13th 1863</p>
+        <p>Dear Brother,</p>
+        <p>I received from you one day last week a letter containing your carte de visite and it is I think a very good likeness of my sailor boy - </p>
+        <p>How much I do wish I was with you I can not now be satisfied in the Army. Still if I can not get to the Naval School I would like to go into the Regular Army, one of the two professions of arms must be mine - I have not heard from father or mother for some time. I suppose that Congress has adjourned and that father is on his way here and where our mother now is I cam at a loss to know.</p>
+        <p>Duty is now all the go - I am on duty as "Officer in Charge" of pickets at least once a week and sometimes twice - Then we have little trips to make every now and then - Work sometimes on the fortifications and sometimes in unloading trains of provisions and ammunition - Yesterday I had from our Regt. 130 men on picket The Col. with 225 was gone to Versailles</p>
+        <pb n="3" facs="0012_001519_000207_0003.jpg" xml:id="d4e64"/>
+        <p>to guard a supply train and one Capt. and twenty five men were at the <unclear reason="illegible" resp="bds">R.N.</unclear> depot unloading supply trains. And there were only 430 men reported for duty in the Regt. So you see it was nearly all at work.</p>
+        <p>I was at Nashville one day last week. I there saw Lt. Col. Jas. P. Brownlow - He was well. He says their Regt. has duty to do also - Jim took Pryor Harris of Knoxville prisoner with his own hand - and got from him a horse worth 500 dollars - </p>
+        <p>I met one of my Westboro schoolmates here - It was Geo. Stone sone of Jonas - He is a member of the 19th Illinois Infy - </p>
+        <p>Parson Brownlow was here a few days ago He talks of starting his paper in Nashville I hope he will for then our Tenn Regts. will get their full share of praise.</p>
+        <p>The First and Second E Tenn. Infy. have left us and gone back to Ky. I wish we could follow them - Because I believe  that that is the nearest route home and because as we know every path in those mountains we can do a great amount of damage to our enemies while here we work all the time and accomplish very little - Genl. Rosecrans says our Regt. is the best disciplined in his Army</p>
+        <pb n="4" facs="0012_001519_000207_0004.jpg" xml:id="d4e79"/>
+        <p>and that from him and of so many Regiments amounts to a great deal. Our folks got badly picked up at or near Spring Hill last week - Almost the whole of four Regts. of Infantry were taken. 1300 certainly were taken - One of the Regts. was with us all last summer and on our retreat from the Gap - The 33rd Indiana - It lost 445 men killed wounded &amp; prisoners - Every little while however we take a batch of Butternuts and send them one North. I think a forward move is intended soon as the signs are right. When we do start rebs. cannot stop us easily and unless their force is much larger than I think it is not at all.</p>
+        <p>Well I have no news of importance to give you please write at once to me - With much love I close - </p>
+        <p>Your afftc Brother</p>
+        <p>Edward Maynard</p>
+        <p>Lieut. Col. 6th E. T. Vols - </p>
+      </div>
+    </body>
+  </text>
+</TEI>

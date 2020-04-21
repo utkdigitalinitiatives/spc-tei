@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001990_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>William Blount</name>
+				                   in Knoxville, Tenn., to Col. David Henley,<date when="1795-10-26">1795 Oct. 26</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">William Blount</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001990_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, William Blount in Knoxville, Tenn., to Col. David Henley,1795 Oct. 26</title>
+          <date when="1795-10-26">1795 Oct. 26</date>
+          <author>
+            <name type="person">William Blount</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">William Blount Papers, 1795</note>
+          <note type="manuscript">MS.0980</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Henley, David, 1749-1823</term>
+          <term>Governors -- Tennessee.</term>
+          <term>Tennessee -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001990_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Knoxville October 26th 1795</p>
+        <p>Sir</p>
+        <p>The time you propose for sending the Powder Lead &amp; other Articles for The Indians is as Soon as I could expect. I did not recollect the order to you as to the mode of authenticating deliveries to Indians. My only object in mentioning Col. McKee as the person in whose presence Such deliveries Should be made was because I knew he would be at the Spot where the delivery was ordered to be made. It was not an Inclination to infringe on the duties of your office.</p>
+        <p>Mr. Dinsmoor will I presume wait until the deliveries are made &amp; to Indians I Should Suppose Agents would be the best evidences of the Delivery. I have considered that the Contracts made with Barclay McGee for Supplies at the Conference would extend to the time the Creeks will leave Tellico Block House &amp; at present I foresee no necessity for Agent at that Place after that time but Should I find one Necessary I will give you notice.</p>
+        <p>I am  Your obedient Servant</p>
+        <p>WmBlount</p>
+        <p>Col. David Henley</p>
+        <p>Agt. for the Department of War.</p>
+        <pb n="2" facs="0012_001990_000200_0002.jpg" xml:id="d4e57"/>
+        <p>Knoxville 26 October 1795</p>
+        <p>Governors Letter Respecting the delivery of the Powder &amp; Lead &amp; his opinion upon an agent being appointed at Tellico</p>
+      </div>
+    </body>
+  </text>
+</TEI>

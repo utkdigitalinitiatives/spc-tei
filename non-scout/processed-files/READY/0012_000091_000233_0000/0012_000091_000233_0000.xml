@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000233_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>David Jones</name>
+				                    to his wife <date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">David Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000233_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, David Jones to his wife</title>
+          <date>undated</date>
+          <author>
+            <name type="person">David Jones</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000091_000233_0001.jpg" xml:id="d4e38"/>
+        <p>I dont know how the weather is with you there whether it is cold or Pleasant if safe in your opinion i would give the children Some Sulpher it is cold enough for an Overcoat here this morning although we have not a spark of fire in the house All our fellows nearly are out of money <unclear reason="illegible" resp="EMS">Snubbs</unclear> have not had a cent for a Long time even when he sends to his wife i give him stamp Do not let any one know this though Ill tell you a Joke on him him and some more fellows went to the wharf and they came a cross a Pittsburgh Boat and for their dinner there Snubbs ate to hearty and when he came back he was that bad that I thought he would have died but he got over it I dont know of anything else to write you about Just now </p>
+        <pb n="2" facs="0012_000091_000233_0002.jpg" xml:id="d4e45"/>
+        <p>I have wrote you a great deal this week i shall try and manage in writing so as you will hear from me twice a week I cant expect you to write often to me though this morning is Just like a fair here some cleaning their guns some <unclear reason="illegible" resp="EMS">swearing</unclear> some singing  if some shaving Now i will close my letter as soon as I get that from the cap i shall send it you right away give my respects to all that enquires for me I do not know whether Jane is with you or not - Does Sharon ask of me Does Anna May make any effort of walking yet Tell the older ones to try and be good Kiss all the children for me while I remain yours faithfully </p>
+        <p>David</p>
+      </div>
+    </body>
+  </text>
+</TEI>

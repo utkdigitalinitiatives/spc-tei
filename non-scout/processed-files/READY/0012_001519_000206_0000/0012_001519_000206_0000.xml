@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000206_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Laura Maynard</name> in Washington, D.C. to Washburn
+					Maynard, R.I. <date when="1862-12-29">1862 December 29</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Laura Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000206_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Laura Maynard in Washington, D.C. to Washburn Maynard, R.I. 1862 December 29</title>
+          <date when="1862-12-29">1862 December 29</date>
+          <author>
+            <name type="person">Laura Maynard</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001519_000206_0001.jpg" xml:id="d4e40"/>
+        <p>Washington, Dec. 29 / 62</p>
+        <p>My dear Washburn,</p>
+        <p>I hope you were not much disappointed about going to Westboro' - It would have been a <unclear reason="illegible" resp="bds">very &amp; hoch</unclear> visit, anyhow, &amp; since you have consecrated yourself to your country, it may be better for you to <unclear reason="illegible" resp="bds">seek</unclear> your satifaction &amp; comfort in her service. I saved you Com. Blake's reason for declining to let you go - But for this order from the Sec'y of the Navy, I am certain he would have gratified you.</p>
+        <p>I thank you, heartily, for your explanation respecting demerits I do not see, how you could</p>
+        <pb n="2" facs="0012_001519_000206_0002.jpg" xml:id="d4e56"/>
+        <p>avoid getting some marks, under the circumstances you describe but get as few as possible, &amp; disappoint those who would like to have you get a large number - I am delighted that you have taken so high rank, &amp; I expect to be proud to visit our Midshipman whenever I go there.</p>
+        <p>Your father has talked with Mr. <unclear reason="illegible" resp="bds">Train</unclear> about getting John a place, &amp; he says he will try - I will write to John &amp; tell him about it. We have heard nothing more from your brother - Rosecrans is still at Nashville - We heard by way of John Brownslow, that James Cowan, Charles &amp; Frank McClung, <unclear reason="illegible" resp="bds">Jo.</unclear> McDannell &amp; <unclear reason="illegible" resp="bds">Trace Barry</unclear> have been forced into the Southern Army.</p>
+        <p>Ann Mary sends love &amp; says she had a heap of Christmas Gifts. Father, too, sends love - We are going to Baltimore to pass the night - May God be with you, darling - </p>
+        <p>Your Mother - </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000357_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Knoxville, Tenn., to Maj. F. S. Heiskell in Nashville, Tenn., <date when="1848-01-21">1848 Jan. 21</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000357_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Knoxville, Tenn., to Maj. F. S. Heiskell in Nashville, Tenn., 1848 Jan. 21</title>
+               <date when="1848-01-21">1848 Jan. 21</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">F. S. Heiskell Letters</note>
+               <note type="manuscript">MS.0751</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000357_000201_0001.jpg" xml:id="d4e39"/>
+            <p>Knoxville</p>
+            <p>Jan</p>
+            <p>21</p>
+            <p>Ten.</p>
+            <p>Maj. F. S. Heiskell</p>
+            <p>Nashville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000357_000201_0002.jpg" xml:id="d4e55"/>
+            <p>Knoxville. Jany 21, 1848</p>
+            <p>Maj. F. S. Heiskell,</p>
+            <p>Dear Sir,</p>
+            <p>The banking facilities of this place are found to be much top <unclear reason="illegible" resp="JCM">then</unclear> the exiquicies of business require. Their is no exchange to be had at this time upon any point except Nashville. As a consequence, <unclear reason="illegible" resp="JCM">niucautile</unclear> men are subjected to inconviences; and the balance of the community are made to pay for it in an increased price of goods &amp;c. This is occasioned by our Bank being dependant upon the parent Bank at Nashville; and not being allowed to extend its operations further than the Nashville directory way choose.</p>
+            <p>The Legislature at the Session of 1843-4, suacts of the Session Chapter II. X. pays 65. granted a charter to establish the Bank of East Tennessee. Under the provision of that charter the stock was subscribed and enough paid in to secure the charters. For reasons not neccessary to be dwelt upon, the bank has not yet been put into operation, as you are aware-</p>
+            <pb n="3" facs="0012_000357_000201_0003.jpg" xml:id="d4e73"/>
+            <p>Apearance is given, however, that it shall go into operation at once provided a small award <unclear reason="illegible" resp="JCM">went</unclear> can be <unclear reason="illegible" resp="JCM">made</unclear> in the charter. The award went proposed relates to the number of Directors. By the 4th Section of the Charter twelve directors are required. This number while by dividing the responsibility among so many persons it gives no greater apearance to the community, is at the same time so great as to be <unclear reason="illegible" resp="JCM">unwieldy and discordant</unclear> It is proposed to <unclear reason="illegible" resp="JCM">aurcud</unclear>the 4th section of the charter so that instead of twelve Directors their shall be but six</p>
+            <p>That it is deirable for the <unclear reason="illegible" resp="JCM">cirurur cial</unclear> interests of East Tennessee that she should have banking privileges independept of Nashville, is a question about which their can be no doubt. Will you, therefor, use your influence in the Legislation to <unclear reason="illegible" resp="JCM">hair</unclear> the ammendment maide, as above sugested, and these oblige, Your Friends</p>
+            <p>S R Rodgers</p>
+            <p>
+               <unclear reason="illegible" resp="JCM">Sawl</unclear> B Boyd</p>
+            <p>Horace Maynard</p>
+         </div>
+      </body>
+   </text>
+</TEI>

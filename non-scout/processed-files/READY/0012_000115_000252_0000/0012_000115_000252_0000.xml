@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000252_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1818-06-02">1818 June 02</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000252_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1818 June 02</title>
+          <date when="1818-06-02">1818 June 02</date>
+          <author>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000252_0001.jpg" xml:id="d4e38"/>
+        <p>Treasury Department</p>
+        <p>
+          <unclear reason="illegible" resp="EMS">3 Auditors office</unclear>
+        </p>
+        <p>2 nd June 1818</p>
+        <p>I have rec.d your lettre of the 15 <unclear reason="illegible" resp="EMS">ult</unclear> with its enclosures - The payments made by you for the purchase of provisions at Fort Pickering and for a boat to transport Troops from that port in 1814, amounting to $296.36 have been admitted to your audit, which opposed to the amount of your two drafts in favor of Joshua Fletcher &amp; <unclear reason="illegible" resp="EMS">Benj Fory</unclear> for the above purposes, closes your accounts on the books of this office</p>
+        <p>Your claims for transportation of baggage <unclear reason="illegible" resp="EMS">from</unclear> the Chickasaw Agency and back to Fort Pickering has been allowed and the amount 13.20$ will be <unclear reason="illegible" resp="EMS">trunmith</unclear> you by the Treasurer of the U States to whom you will forward a reciept and one to this office - <unclear reason="illegible" resp="EMS">as</unclear> your claims for extra services as an Acting Quarter Master no allowance can be made without the sanction of the Secretary of War</p>
+        <pb n="2" facs="0012_000115_000252_0002.jpg" xml:id="d4e66"/>
+        <p>who is now absent from the seat of Government, I therefore return you that account with the documents connected with it</p>
+        <p>Respectfully</p>
+        <p>Your Ob Serv</p>
+        <p>
+          <unclear reason="illegible" resp="EMS">Paul Haynes Asd</unclear>
+        </p>
+        <p>David Burford <unclear reason="illegible" resp="EMS">Rogre</unclear>
+            </p>
+        <p>
+          <unclear reason="illegible" resp="EMS">late Se. of U S. Regd</unclear>
+        </p>
+        <p>Carthage</p>
+        <p>Tennessee</p>
+        <pb n="3" facs="0012_000115_000252_0003.jpg" xml:id="d4e88"/>
+        <p>N 3</p>
+        <p>3 Auditors Letter Re June 22nd 1818 by me</p>
+        <p>D. Burford</p>
+      </div>
+    </body>
+  </text>
+</TEI>

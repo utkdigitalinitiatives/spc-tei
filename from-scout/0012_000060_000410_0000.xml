@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000410_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>W.S. Doak</name>
+ in Knoxville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1872-10-08">1872 Oct. 8</date>
+            </title>
+            <author>
+               <name type="person">Doak, W. S.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000410_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W.S. Doak in Knoxville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1872 Oct. 8</title>
+               <date>1872-10-08</date>
+               <author>
+                  <name>Doak, W. S.</name>
+               </author>
+               <extent>4  digital images; 4 pages</extent>
+               <note type="abstract">W.S. Doak replied on Oct. 8, 1872 to a Sept. 17th letter written by J.G.M. Ramsey. He sent Ramsey news that a monument would be raised to his father, Samuel W. Doak, in Greeneville and an account of how this all came about. He asked Ramsey to send some facts about Samuel&apos;s character to a Dr. Wills who would deliver the address at this ceremony. W.S. sent Ramsey some facts about Tusculum College and mentioned its merger with Greeneville College. He enclosed a list of the current trustees with his letter. He invited Ramsey to the ceremony and for a visit to his house.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>College presidents -- Monuments -- Tennessee -- Greeneville.</term>
+               <term>Monuments -- Tennessee -- Greenville.</term>
+               <term>Universities and colleges -- Tennessee -- Greenville -- History..</term>
+               <term>Greeneville (Tenn.) -- History.</term>
+               <term>Doak, W. S. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000060_000410_0001.jpg" xml:id="d3e159"/>
+            <p>&quot; <unclear reason="illegible" resp="NW">Horne </unclear> &quot; Tenn. </p>
+            <p>Oct. 8. 1872.</p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Dr. Sir,</p>
+            <p>Yours of Sept. 17th. came to hand in due time. Dr. Wills of Atlanta Ga. has been formally invited to deliver an address at the raising of a Monument to my Father. We have not yet setled on a day for the address to be delivered, but suppose it will be sometime in November, I have been able to collect the greater part of the dates &amp;c, mentioned in your letter, but have not all. The dates of his ordination &amp; vice-presidency at Wash. Col. are not found </p>
+            <pb n="2" facs="0012_000060_000410_0002.jpg" xml:id="d3e178"/>
+            <p>I am greatly obliged to you for the interest you take in his memory, and trust you may be able to forward to Dr. Wills at Atlanta Ga. many facts that will illustrate his character. </p>
+            <p>I have not at present full lists of the Trustees of Tusculum Col. This college has been lately united by an act of our <unclear reason="illegible" resp="NW"> Legilature </unclear>, with Greeneville college. The Institution in its present form goes under the style of Greeneville &amp; Tusculum College. I enclose a list of those present acting as Trustees of the Consolidated Institution. The movement for a monument was not </p>
+            <pb n="3" facs="0012_000060_000410_0003.jpg" xml:id="d3e191"/>
+            <p>started &amp; is not directed by the Trustees officially. It was started by a Convention called some months ago, for this special purpose, &amp; is directed by a Committee appointed by the <unclear reason="illegible" resp="NW">same</unclear> Convention. The Members of this Committee are Sam. Milligan, Wm. B. Robinson, R.A. Crawford, Rev. G. Taylor, James Britton, The last named is now dead. </p>
+            <p>I should be very much pleased to have you present at the raising of the monument, &amp; trust that you will be able to make us a visit at that time. I shall be very glad to have you come</p>
+            <pb n="4" facs="0012_000060_000410_0004.jpg" xml:id="d3e204"/>
+            <p>to <unclear reason="illegible" resp="NW">my </unclear> house &amp; if you can let me know a few days in advance, I shall meet you at Greeneville with conveyance for my house. </p>
+            <p>Truly yours</p>
+            <p>W. S. Doak</p>
+         </div>
+      </body>
+   </text>
+</TEI>

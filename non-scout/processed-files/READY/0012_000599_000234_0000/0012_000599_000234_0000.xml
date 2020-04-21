@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000234_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Caroline M. Brown,<date when="1862-03-26">1862 Mar. 26</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000234_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,1862 Mar. 26</title>
+          <date when="1862-03-26">1862 Mar. 26</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000234_0001.jpg" xml:id="d4e39"/>
+        <p>Liberty and Union, now and forever</p>
+        <p>March 26th 1862</p>
+        <p>Dear wife and children I sit down this morning with usual health hopeing these few lines will find you all the same and the neighbours the same i will just say that the Hemerys are All well but Stephen we left him at Nashville in the Hospitle the health of our Regt is not very good at All  <unclear reason="illegible" resp="LW">I.</unclear> N. Joseph is quite poorly he is still able to be About you may till virgina Byers that i can not tell whare her man is gone they left this place before we left i never got out to see</p>
+        <pb n="2" facs="0012_000599_000234_0002.jpg" xml:id="d4e50"/>
+        <p>them at tall we ware <unclear reason="illegible" resp="LW">kep</unclear> up just like hogs on half feed Altho we have plenty to eat such as it is crackers and Beef andn some bacon and pork some beans and some potatos and some times soft bread and coffee now i will tell you the prices tea two dolars A pound potatoes one dollars a bushel A bushel sweet potatoes one Dollar and 25 cents butter 50 cts Chickens from 25 to 50 cts apeice and turkey one dollar and 25 cts apeice pies 25 cts apeice and 4 cakes for 5 cts cheese 40 cts a pound Now i have given you the prices i far as i can at this time anough of that for this time so i shall quit good by to that</p>
+        <pb n="3" facs="0012_000599_000234_0003.jpg" xml:id="d4e57"/>
+        <p>I want you to teell me whether you got the pipe stem i sent you and that big ring and them pictures that i sent from Nashville to you and the boys And my coat and me what it cost you and tell me whether you got that money I sent i a letter and i sent you ten Dollars more by Exspress to Mr <unclear reason="illegible" resp="LW">Lumm</unclear> six of us sent $85.00 Dolars Now you try to get the orchard sowed to oats if you can if you have not done it and have the new ground cleand off And get Steward to plow it and have the <unclear reason="illegible" resp="LW">othes</unclear> oats take about 3 acres of that old feild back of the hous to oats the end next to Straits</p>
+        <pb n="4" facs="0012_000599_000234_0004.jpg" xml:id="d4e67"/>
+        <p>you must try to keep the fences up the best you can have James Hemery to come and put them up and you keep some of that money to pary for such work as that and you had better keep some of it to pay your tax if bone does not want his to bad for i do not know when we will be paid any more It may not be before we are discharde as that is the case they must bare with me I must close my letter for this time Hopeing you will writ to me soon and let me have the news of the day I still remain your Husband</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000236_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>George W. Custis</name>
+				                    in Alexandria, Va., to John C. Smith,<date when="1835-08-27">1835 Aug. 27</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Henderson, Ian</name>
+            </respStmt>
+            <author>
+               <name type="person">George W. Custis</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000236_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, George W. Custis in Alexandria, Va., to John C. Smith,1835 Aug. 27</title>
+               <date when="1835-08-27">1835 Aug. 27</date>
+               <author>
+                  <name type="person">George W. Custis</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000236_0001.jpg" xml:id="d4e39"/>
+            <p>To John C Smith Esqr.		Prest N A Insurance Compy.		No 40, Walnut, near Second St. Philadelphia.</p>
+            <pb n="2" facs="0012_002414_000236_0002.jpg" xml:id="d4e43"/>
+            <p>Arlinton House 27 Aug. 1835		near Alexandria Dist <unclear reason="illegible" resp="IH">C of A</unclear> 	Sir 	I wish to effect Insurance on my House of this place, and upon applying to yr Agent Mr. Getty in <unclear reason="illegible" resp="IH">Gurp Lawn, am informed </unclear> that he cannot make Insurance, because my property is in the Country. Now turning to yr advertisement, I find you particularly State <unclear reason="illegible" resp="IH">Town or Country.</unclear> I was insured a few years ago by the <unclear reason="illegible" resp="IH">cow joy of a <gap reason="indecipherable" resp="Henderson"/> town, &amp; am as much in the country now as I was then.</unclear>
+            </p>
+            <p>The following is a description of the property._</p>
+            <p>
+               <unclear reason="illegible" resp="IH">Mansion Howa of Arlington. 80 feet by 85, including large portico, wings 40 by 26. _ all brick, except a portion of interior walls of Cast &amp; Plaster two offices, each 40, by about 20, Brick &amp; Stone, divisiony brick, &amp; Cast &amp; plaster. Stable &amp; Coach House 300 yards from other buildings, brick (not of much value) all the roofs, shingles. _ _ A pump of water in the yard.</unclear>
+            </p>
+            <pb n="3" facs="0012_002414_000236_0003.jpg" xml:id="d4e65"/>
+            <p>together with furniture plate painting <gap reason="indecipherable" resp="Henderson"/> the whole valued when before insured at 25,000 $ <gap reason="indecipherable" resp="Henderson"/> to make insurance for 1.2.3. or 5 years of 15.000 $ on the said property._ Please inform me of the terms for either of the aforesaid periods and whether I shall pay the premium to Mr Getty or <gap reason="indecipherable" resp="Henderson"/>
+            </p>
+            <p>Respectfully your ob <gap reason="indecipherable" resp="Henderson"/>		George W. Custis		Declined Aug 31 1835 		<gap reason="indecipherable" resp="Henderson"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

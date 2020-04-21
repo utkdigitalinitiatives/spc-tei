@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in La Grange, Tenn., to his wife <date when="1864-01-17">1863 Jan. 17</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in La Grange, Tenn., to his wife 1863 Jan. 17</title>
+               <date when="1864-01-17">1863 Jan. 17</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">William Randolf Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000200_0001.jpg" xml:id="d4e39"/>
+            <p>La Grange Tenn Jany 17th 1864</p>
+            <p>My Darling wife</p>
+            <p>Yours of the 31. Dear Hattie of later date and your of 3d, 4, 5 &amp; 6th of Jany. recd during the last week but I have not been able to answer them as I am at my desk from 8 in the <unclear reason="illegible" resp="JCM">forenoon</unclear> to 4, PM and have not time to go to dinner and by that time I am too tired to write but will try to write you a short note in the week besides my usual Sunday one. Tell my Boy that Pa is not angry with him at all for breaking the Barometer and my darling you should not feel so bad about it and as for one of your precious <unclear reason="illegible" resp="JCM">linils</unclear> being broken I had rather every thing in the house should be smashed up than that you should ever cut your finger - so that you and our dear ones are well and comfortable I dont care about much else. I have got the <unclear reason="illegible" resp="JCM">album</unclear> and am waiting to <unclear reason="illegible" resp="JCM">have some pictures tat</unclear> (which can be done here, to send them by express they will go early in the week and if the <unclear reason="illegible" resp="JCM">rim</unclear> is not closed again with ice you will get them by next sunday. I hope you get the $150.00 sent by Express on 2 Jany before you <unclear reason="illegible" resp="JCM">were</unclear> in</p>
+            <pb n="2" facs="0012_000298_000200_0002.jpg" xml:id="d4e66"/>
+            <p>want of new coat th, I fear the state of this <unclear reason="illegible" resp="JCM">Run</unclear> and roads made it long in reaching you. I have had 2 night shirts made  as the old ones had given out entirely but they only cost me the making, 45/ each - the cloth was given me as also many other things in fact whatever I want I have so much power over the Merchants that they offer me every thing so as to keep in my good graces. I hope that the <unclear reason="illegible" resp="JCM">entine</unclear> cold has ceased with you as it has here - tho all the ice has not melted and Jan 15 days it froze every night infact I felt colder than I ever did before the ice in my water bucket in bed room did not thaw for 12 days. I send you a photograph of myself and one of Old Abe in a $10 bill. I shall have to close the mail <unclear reason="illegible" resp="JCM">hour being near</unclear> and will try and write you with the albums in a day or two Kiss all and tell all to kiss you for me.</p>
+            <p>Your affc husband</p>
+            <p>W.R.Hackley</p>
+            <p>Mrs W R. Hackley</p>
+            <p>
+               <unclear reason="illegible" resp="JCM">I writ I Ur</unclear>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio,
+<date when="1863-12-15">
+1863 December 15
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000212_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to Sarah Probert in Pittsfield, Ohio, 1863 December 15</title>
+               <date>1863-12-15</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>7  digital images;  1 envelope, 6 pages</extent>
+               <note type="abstract">In this letter, dated December 15, 1863, from John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins writes about general news from Knoxville and thanks Ms. Probert for her letters. He closes the letter with a description of the Battle of Fort Sanders, explaining that Burnside had named the fort after General Sanders, who had been killed in the fighting during the siege of Knoxville.</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Fort Sanders, Battle of, Knoxville, Tenn., 1863.</term>
+               <term>Soldiers&apos; bodies, Disposition of -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Campaigns.</term>
+               <term>Watkins, John, b. 1839 -- Anecdotes.</term>
+               <term>United States. Army. Ohio Independent Light Artillery Battery, 19th (1862-1865). </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000074_000212_0001.jpg" xml:id="d3e157"/>
+            <p>Dec 15th 1863</p>
+            <p>Mr George. W. Probert</p>
+            <p>Pittsfield Swain Co</p>
+            <p>Ohio</p>
+            <pb n="2" facs="0012_000074_000212_0002.jpg" xml:id="d3e171"/>
+            <p>Knoxville Tennessee Dec 15th 1863</p>
+            <p>My own dear Sarah</p>
+            <p>It is a long time darling since I have written to you, or have even had a chance to write to you. and it is some time since I have had a letter from you, but I cant find any fault and especially with you, for we have been shut up here pretty close. but the last mail that came in before we were besieged I got a letter from you (that was the 15th of last month) and the first mail that came in after the siege was raised I got a letter from you. that was day before yesterday and oh Sarah how glad I was when I found out the letter was from you. I jest went off by myself and gave it a thorough reading. the 1st one I got was mailed the 28th of Oct, the last one the 30th of Nov. and I see by the last one that there is one somewhere that I have not got. the one with the Photograph in it and I had rather loose most anything else than that. but it may come yet. I hope it will. in your letter of the 28th of Oct you ask me if your letter of 26 of Aug was over weight. there is nothing about it that I could ever tell wheather it was or not. it came along the same as all the rest of my letters. your letter of the 29th came through in good season. and I suppose you little thought that we were in the midst of a battle</p>
+            <pb n="3" facs="0012_000074_000212_0003.jpg" xml:id="d3e183"/>
+            <p>the same day you wrote that letter the 29th of November. I believe that I shall remember that day a long while, for of all the sights I have yet seen I saw the worst that day.</p>
+            <p>I see you have considerable writing to do now that the boys have gone away. and it seems as though the young people are having pretty good times to at home. well joy be with you all. I wish I could be there myself but that is all the use there is in wishing. but darling be careful of yourself for this is a bad time of year to have a hard cold it might last you all winter. I should hardly thought Sheffield would have allowed the boys to go there for a dance. Sarah that letter you sent me the night before you went to Cleveland I have not got yet. I cant hardly tell why that has not got along unless it has been overlooked somewhere and left. it dont seem as though any body would take it because they was a picture in it. and I really hope they haven&apos;t.</p>
+            <p>Sarah I heard the other day that there was two or three places in town that a person could get pictures taken. it is men that have followed the army and have got nothing but tents for there rooms, but if I can get a good likeness taken anywhere in town I will send you one jest as soon as I can. for I should feel glad to get yours Sarah. and if will do you any good to get mine you shall have it and welcome. for judging by my own feelings you would</p>
+            <pb n="4" facs="0012_000074_000212_0004.jpg" xml:id="d3e195"/>
+            <p>give anything for it. and as long as I can do anything for you as easy as that will be I will do it, providing I can get a good one. I suppose before this time you have had a pretty full account of all that has been going on around this place and are very anxious to hear from me. I wrote a few lines the next day after the siege was raised to George and sent it by the Chaplain of the 20th Michigan. I have not heard of any mail leaving here yet nor dont know when one will leave but I should think before long unless things take a different turn up above here. in speaking about furloughs I dont hardly think our Capt ever intends to grant his men many of them. it wouldn&apos;t be a bit like him. but furlough or not when I do get home we will try and make up for this 3 years soldiering, if I have to stay that long. our good houses are all gone and we are trying to put up some new ones, although we are not all in camp yet. I should think the boys had got a pretty cold place on that Island unless they have got pretty good quarters. oh my eyes I wonder if you call Ira E young folks yet. if so when will he get to be old folks.</p>
+            <p>wednesday morning the 16th</p>
+            <p>as I did not have time yesterday to finish this letter I will try and do it this morning. I am in hopes darling that the late victories our troops have gained will have a tendency to close this war by next summer. there is a great many that think the war cant possibly last another summer. they think</p>
+            <pb n="5" facs="0012_000074_000212_0005.jpg" xml:id="d3e207"/>
+            <p>the rebel soldiers will close themselves by going home, or else come over and give themselves up to our forces, and let there officers go. and if I only can get home all right, I think sometimes I will be satisfied and well paid. and oh what comfort and happiness there is in store for me when I do get home. I think more then there is in store for some men. plenty to live on and comfortable quarters to live in then I would warrant you.</p>
+            <p>my picture, for I dont think I could shake my head to you now, and oh Sarah if I could only tell you how many times the likeness that I have got has cheered me up, when nothing else would. you could but say you were glad you let me have it. for I tell when officers and most all hands are beastly drunk and get to tying the men up and sometimes put them on extra duty, and the innocent always have to suffer with the guilty, I used to feel jest as though I could see the whole batch of them annihilated at one stroke. it makes me feel disgusted with myself, for being in such a batch, and everybody else. and I dont consider myself perfection by any means but when I came into the Battery I made up my mind to behave myself and do whatever duties devolved on me. when they have been going on at that rate I have many a time taken two or three of your latest letters in my possession and go off by myself and read them over, and have your picture with me and by the time I had got them read over I would feel better, and make up my mind to get along the best I could till my time was out.</p>
+            <p>we have had pretty pleasant weather here most of the time this fall. but some of the time it has</p>
+            <pb n="6" facs="0012_000074_000212_0006.jpg" xml:id="d3e219"/>
+            <p>been cold enough to snow but it has not come yet. </p>
+            <p>now Sarah I will write you as near as I can what has been going on here for the last month. on the 14th of last month we were ordered out of camp to take position on a hill on the east side of the town. that was saturday. the next day I got a letter from you, the last mail that came in. during those two days the rebels drove our forces to within 5 miles of town. this was on the south side of the river (the river here runs nearly east and west) there force was all Cavalry. we stayed on the hill till the 17th then moved down so as to command the pontoon bridge and stayed there till the 23d. that night we moved (our section only) up into the fort that had been built on the west side of the town. before this some time we find out that the rebels under Longstreet Buckner and Hood were marching on the place from towards Loudon and Burnside was falling back in to Knoxville by order of Gen&apos;l Grant. there had been some severe fighting along the road and among the killed we had lost one General by the name of Sanders. Burnside named the fort after him. on the 25th there was considerable firing all around the town between the skirmishers and the rebels had got so close that there sharpshooters picked off a great many of our men in the fort. balls were continually flying over our heads. there was 7 or 8 men shot that day mostly officers and the most of them killed. one of them I saw taken to the field hospital a Lieu Col. he was shot through jest below the heart. the surgeons were taking his</p>
+            <pb n="7" facs="0012_000074_000212_0007.jpg" xml:id="d3e229"/>
+            <p>clothes off to examine the wound when I saw him. he was as pale as death and in awful agony. the first words he spoke were (I cant stand this long, and then he exclaimed (oh my dear wife and child). that is all I heard him say. the wound was pronounced mortal and so it proved that very night. oh I cannot tell how I felt but I would have given anything if that mans wife could have been there to have seen him die. but the brave man died in a strange land and among strangers. such is the uncertainty of life in the army. on the 26th there was the usual amount of skirmish firing and quite a number shot in the fort. on the 27th the chief of Artillery had our piece fire 3 or 4 times at an earthwork the rebels had thrown up about a mile off. that was about all the firing there was that day. on the 28th every gun in the fort was fired at them 4 or 5 times apiece and at dark we turned in with boots and everything on by order of the Lieut., so in case of an attack we could get at the gun in the least possible time. about 11 oclock we were called up and the firing was pretty warm. the rebels had charged our skirmish line and driven our pickets in all the way around, and they had a working party digging new pits within 300 yards of the fort. our pickets reported them in force at such a distance from the fort and we were ordered to open on them, and we kept at it at short intervals till daylight and shortly after day light, the rebels opened on us with all there Artillery and I tell you the shell came around and above us pretty thick. almost the first shell that came over killed a horse within 3 rods of where our gun stood. they kept up there shelling for 3/4 of an hour maybe and by that time they had a force in position to charge the fort. and with a yell they came on about 5000 of them (so prisoners said) and dearly they paid for it to. they were in short range of our muskets as soon as they showed themselves and our boys dropped them all along till they got to the fort. then there was a deep ditch for them to get over and in that the dead and wounded were piled up 3 and 4 deep. they planted there colors in the side of the fort but no farther till they surrendered. as soon as they done that there was a flag of truce sent out and hostilities ceased till 7 oclock that evening. there was about 400 of them came in. and about that many of them in the ditch and on the ground dead and wounded. such a night I never dreamed of. and such groaning, no person ever heard the like unless on a battle field. it took all day to carry the dead and wounded off. they did not make another attempt of our lines and by saturday the 5th of this month they had pulled up and gone. and are now about 25 miles above here with our forces all around them. the 41st is here among the reinforcements. well darling I shall have to close. I did not get a scratch nor any of our men and I am as well as ever, and still in the fort. oh I often though of you darling while the fuss was going on. and hoping this will find you well, I remain as true as ever to you and you only. and if I live to get home Sarah we will be jest the happiest couple alive. write when convenient, and direct as usual. from your own true soldier boy</p>
+            <p>John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

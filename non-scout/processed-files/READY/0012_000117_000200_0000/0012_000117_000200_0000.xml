@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Robert Allen</name>
+				                    in Washington, D.C. to David Burford, in Carthage, Tenn., <date when="1820-03-12">1820 Mar. 12</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jordan, Seth</name>
+        </respStmt>
+        <author>
+          <name type="person">Robert Allen</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robert Allen in Washington, D.C. to David Burford, in Carthage, Tenn., 1820 Mar. 12</title>
+          <date when="1820-03-12">1820 Mar. 12</date>
+          <author>
+            <name type="person">Robert Allen</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">David Burford Papers, 1820-1860</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000200_0001.jpg" xml:id="d4e39"/>
+        <p>
+          <unclear reason="illegible" resp="SMJ">Frer</unclear>
+        </p>
+        <p>Robert Allen</p>
+        <p>Major David Burford</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_000117_000200_0002.jpg" xml:id="d4e50"/>
+        <p/>
+        <p/>
+        <pb n="3" facs="0012_000117_000200_0003.jpg" xml:id="d4e54"/>
+        <p>Washington</p>
+        <p>March 12th 1820</p>
+        <p>Dear Sir</p>
+        <p>I have just recieved your letter of the 23d <unclear reason="illegible" resp="SMJ">All</unclear>, in which you notice my remarks on James Allens note I have no Idea that you want in any way intentionaly give me uneasiness and may have my self to blame perhaps for not being more explicit I might have said the way I expected pay from him wanted <unclear reason="illegible" resp="SMJ">him</unclear> to take his note and sell it but I intended to reserve to my self the time of doing so as I cannot bring my mind to that of distressing him and the case of James Reed is an other which gives me great Pain because he was with me Just before I started and drew from a promise to have word to <unclear reason="illegible" resp="SMJ">apist</unclear> him in dificulty in my absence instead</p>
+        <pb n="4" facs="0012_000117_000200_0004.jpg" xml:id="d4e73"/>
+        <p>instead of expecting me to add to his dificulty I would not seemingly act so decietfully with him for four times the amount in truth I never did intimate any thin like setting his note altho, I have no doubt you thought it was proper course however I am extremely sorry for it and of it is not too late I wish it could be remedyed in same way - I have written to you more than once acknowledging the reciept of the $300 and that it has been paid together with the whole of the balance due on that acceptance by me to <unclear reason="illegible" resp="SMJ">Merrel</unclear> Richardson - yesterday I recieved a letter from New York stating they had just recieved accounts that my Tobacco was sold in amsterdam for 5 1/4 <unclear reason="illegible" resp="SMJ">silvers</unclear> that is I am <unclear reason="illegible" resp="SMJ">hiss</unclear> told about Equal to 10 cents they say accounts of sales is not yet recieved but will furnish me with copy when it comes to have not knowing what the freight charges will take of this sum I cannot tell what kind of a sale</p>
+        <p/>
+        <pb n="5" facs="0012_000117_000200_0005.jpg" xml:id="d4e87"/>
+        <p>but <unclear reason="illegible" resp="SMJ">Inquiring</unclear> of the price of Tobacco now at New York I expect it will not exceed <unclear reason="illegible" resp="SMJ">10</unclear> cents <unclear reason="illegible" resp="SMJ">neat</unclear> - as that is the highest price quoted there and the purchasers are I suppose regulated by what they hear of the price abroad you have Enough of the <unclear reason="illegible" resp="SMJ">article</unclear> I think and if you can sufficiently confide in others to carry it down safe it might be as well not to go <unclear reason="illegible" resp="SMJ">without</unclear> as your <unclear reason="illegible" resp="SMJ">business</unclear> at home may require your attention to failures and <unclear reason="illegible" resp="SMJ">reassurances</unclear> as in these hard times there must be many and I calculate you have under your care a sufficient share of them. in future try to keep the goods <unclear reason="illegible" resp="SMJ">the</unclear> well count yet as few must be imported during such difficulty I have never heard from Elisha Dellard yet respecting the power of attorney he was to furnish to Draw the pay on his soldiers claim I expect</p>
+        <pb n="6" facs="0012_000117_000200_0006.jpg" xml:id="d4e116"/>
+        <p/>
+        <p>Your friend Robert Allen</p>
+      </div>
+    </body>
+  </text>
+</TEI>

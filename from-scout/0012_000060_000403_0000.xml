@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000403_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Knoxville, Tenn., to Mrs. Elizabeth Ramsey Breck in Atlanta, Ga.<date when="1871-12-20">1871 Dec. 20</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000403_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Knoxville, Tenn., to Mrs. Elizabeth Ramsey Breck in Atlanta, Ga. 1871 Dec. 20</title>
+               <date>1871-12-20</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2  digital images; 2 pages</extent>
+               <note type="abstract">J. G. M. Ramsey wrote to his daughter Elizabeth Alexander Ramsey Breck (Liddy) on December 20, 1871. He told her about his recent travels and mentioned about her travel. He updated her about her mother and siblings. He mentioned Sue&apos;s bond and that he could help Liddy rent her house and lot. He told her that McKnitt could probably find work if he came to Knoxville. He mentioned times being hard. He also mentioned that it had snowed and was very cold.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Fathers and daughters -- Correspondence.</term>
+               <term>Finance, Personal.</term>
+               <term>Labor supply -- Tennessee -- Knoxville.</term>
+               <term>Knoxville (Tenn.) -- Economic conditions -- 19th century.</term>
+               <term>Southern States -- Economic conditions -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e159">
+            <pb n="1" facs="0012_000060_000403_0001.jpg" xml:id="d3e160"/>
+            <p>Wednesday Morning</p>
+            <p>Dec 20. 1871</p>
+            <p>My Dear Liddy</p>
+            <p>Willie brought us out last night yours of the 15th with Robs P.S. <unclear reason="illegible" resp="NW">MKnitts</unclear> of the 13.th. &amp;I reply hastily to all of them. We were glad to hear that you got to Charlotte so well you must not discard <unclear reason="illegible" resp="NW">Genl. </unclear> Sorry for not meeting you at the Depot. The train that brought your Ma &amp; me to Knoxville also brought to senoirs a letter to me from him (forwarded next mail to me at K / advising that you should not start till the night train &amp; that he would certainly meet you &amp; give all the facilities he could possibly do at Atlanta. He is a polite gentleman &amp; will I know feel sorry that you did not receive his advise before you left <unclear reason="illegible" resp="NW">Lenoirs</unclear>. We came on Wednesday A.M. to town. I went with your Ma in the Buss to W. Deadericks gate &amp; then came immediately home &amp; found <unclear reason="illegible" resp="NW">then </unclear> all were leaving <unclear reason="illegible" resp="NW">her there where</unclear>she remained till Saturday. <unclear reason="illegible" resp="NW">Parmatier</unclear> sent her out in his finest carriage? She had spent the time very pleasantly &amp; seems now very well yesterday Cornelia sent her Harper Putnams &amp; other Magazines &amp; reading matter enough to last her all winter. Besides I had got her some fine yarn &amp; she began her knitting &amp; will have employment all the <unclear reason="illegible" resp="NW"> time </unclear> I am quite well &amp; Thursday went up to Jacob <unclear reason="illegible" resp="NW">Hufaires</unclear> (11 miles) to see some patients - staid all night &amp; next day came home without fatigue - &amp; have visited others since. M. J. is quite well &amp; the boys too. Tell <unclear reason="illegible" resp="NW">Mknitt</unclear> that one of my letters must have miscarried as I wrote in full about <unclear reason="illegible" resp="NW">Lues</unclear> Bond &amp; now repeat that they are worth 85 units - the coupon $3.00 is nearly due. </p>
+            <pb n="2" facs="0012_000060_000403_0002.jpg" xml:id="d3e205"/>
+            <p>&amp; she ought to cut it off before selling it - The stock ought to bring <unclear reason="illegible" resp="NW">par</unclear> as it is 6 per cent payable in N.Y. Tell <unclear reason="illegible" resp="NW">Mknitt </unclear> to say to Mr. Williams that I have not found time to write any thing about <unclear reason="illegible" resp="NW">Ropurwell</unclear> yet </p>
+            <p>I will see Charleston &amp; get him to rent your house &amp; lot soon &amp; try to make you some money out of it. If MK. was here I think he could find something to do. Times are very tight tho &amp; many are discouraged about business. </p>
+            <p>It snowed last night &amp; the room is so cold that my letter is hardly legible &amp; Millie is ready to <unclear reason="illegible" resp="NW">stand. </unclear>Your next will give us something about <unclear reason="illegible" resp="NW">Joe Bactir</unclear>Jimmie Andie &amp; the rest Kiss them all for me. I hope <unclear reason="illegible" resp="NW">W</unclear>K will come out in Jany <unclear reason="illegible" resp="NW">Parmatier</unclear> wrote him last week- </p>
+            <p>Love to you &amp; all the friends</p>
+            <p>Affectionately</p>
+            <p>J. G. M. Ramsey.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000221_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Butler, M.C.</name>
+ in Poland, Ohio to O.P. Temple in Knoxville, Tenn. <date when="1865-02-27">1865 February 27</date>
+            </title>
+            <author>
+               <name type="person">Butler, M.C.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000221_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, M.C. Butler in Poland, Ohio to O.P.Temple in Knoxville, Tenn., 1865 February 27</title>
+               <date>1865-02-27</date>
+               <author>
+                  <name>Butler, M.C.</name>
+               </author>
+               <extent>4 digital images;  4 pages</extent>
+               <note type="abstract">1865 February 27 M.C. Butler in Poland, Ohio to O.P. Temple Encloses notes against Dr. Doak, James Wilson and John Sloan (not found); predicts public sentiment against slavery in the south; also prosperity within ten years; are Ramsey and Spery to be tried for treason?</note>
+               <note type="collection">The O.P. Temple Papers, 1865</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Politics and culture -- Tennessee -- Knoxville -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000070_000221_0001.jpg" xml:id="d3e150"/>
+            <p>Poland, Ohio, Feb 27th 1865</p>
+            <p>Col O P Temple:</p>
+            <p>Dr Sr;</p>
+            <p>Yours of the 14th Inst. came in due time. In the same mail with this I send a note to Perez Dickinson Esq soliciting his opinion as to the best desposal to be made of my deposit. You will, therefore take up the deposit, at such time as you deem most favorable for me and convert the same into &quot;greenbacks&quot; or retain it in Southern currency as you and Mr dickinson may think it the wiser course. </p>
+            <p>I send you notes against Dr Doak James Wil-</p>
+            <pb n="2" facs="0012_000070_000221_0002.jpg" xml:id="d3e166"/>
+            <p>son and John Sloan with Robert McIntyre, surety This note I had not by me when I wrote you last. Of course this settles the whole matter and no testimony of Col Craig&apos;s is needed, for I suppose what Confederate courts or authorities did is not regarded. The proof of my deed of trust may be difficult if Col Craig dies.</p>
+            <p>I do not know as the Rev James Wilson is in your region, but knew of his going there some two years ago. He and his son John owned some landed property in East Knoxville, at the time I left. It is a small </p>
+            <pb n="3" facs="0012_000070_000221_0003.jpg" xml:id="d3e176"/>
+            <p>amount, and I do not want to press the old gentleman with it. He is a good old man that I would not trouble for ten times the amount.</p>
+            <p>I am not surprised at the progress of anti-slavery sentiment in the South, and rejoice over it, beyound the power of language to express, cheifly for the bearing it would have upon the educational and religious interests of that region: and of one thing we may rest assured, that for all persons and parties concerned it is always expedient to do right;to be found in harmony</p>
+            <pb n="4" facs="0012_000070_000221_0004.jpg" xml:id="d3e186"/>
+            <p>with the one unchanging laws of the Supreme Ruler; and the time will soon come in the south when the general if not the universal opinion of Southern slave-holders (that were) will be that slavery is one of the highest crimes against natural and revealed law.</p>
+            <p>I think that ten years hence, notwithstanding all the present desolation, the Southern states will be more prosperous and richer than ever before. If my life is spared I purpose to visit Knoxville next July. Brownlow I suppose will be elected by a large majority. Will not Ramsey as well as Sperry be tried for treason? I remain Yours Truly</p>
+            <p>M C Bu</p>
+         </div>
+      </body>
+   </text>
+</TEI>

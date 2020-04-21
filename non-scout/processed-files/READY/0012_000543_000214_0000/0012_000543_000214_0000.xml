@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000214_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Colonel James Winston</name>
+				                    in Raleigh, North Carolina, to John Sevier<date when="1812-12-23">1812 December 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Caldwell, Chris</name>
+        </respStmt>
+        <author>
+          <name type="person">Colonel James Winston</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000214_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Colonel James Winston in Raleigh, North Carolina, to John Sevier1812 December 23</title>
+          <date when="1812-12-23">1812 December 23</date>
+          <author>
+            <name type="person">Colonel James Winston</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">John Sevier Collection, 1782-1839</note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Caldwell, Chris">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000543_000214_0001.jpg" xml:id="d4e39"/>
+        <p>The Honourable</p>
+        <p>John Sevier</p>
+        <p>City of Washington</p>
+        <p>Colonel J Winston</p>
+        <p>with No. Carolina <unclear reason="illegible" resp="CC">rardus</unclear>
+            </p>
+        <pb n="2" facs="0012_000543_000214_0002.jpg" xml:id="d4e53"/>
+        <p>Raleigh December 23rd 1812</p>
+        <p>Dear Sir,</p>
+        <p>I hereby acknowledge with pleasure the receipt of your favour dated 30th <unclear reason="illegible" resp="CC">ultivw</unclear> at Washington City - I am at all times ready to obey the call of friendship &amp; acquaintance and particularly so when coming from yourself - your memorial was introduced by myself into the Legislature of this State - although the subject had been dormant for a long time, yet it was not possible for one of that nature to be entirely forgotten - The enclosed resolution will fully inform you the steps taken by our Legislature upon your memorial - it seems that you were mistaken as to the pair of pistols, a second only being ordered to be presented  - I know you will receive only this with equal satisfaction as it goes to testify</p>
+        <pb n="3" facs="0012_000543_000214_0003.jpg" xml:id="d4e64"/>
+        <p>the same service performed by you, and the same gratitude felt by your Countrymen as if both had been presented.</p>
+        <p>I am Dr Sir your most Obe Hble Ser.</p>
+        <p>PS. Present my most respectful compliments to Gov. Shelby - Inform him I received his polite favour just before I left home, but owing now to a pressures of business, I cannot answer it</p>
+        <p>J. Winston</p>
+        <p>The Hble</p>
+        <p>John Sevier</p>
+      </div>
+    </body>
+  </text>
+</TEI>

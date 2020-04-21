@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001591_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Legal Agreement between <name>Andrew Jackson</name>, <name>William Donelson</name>, and <name>Stockley Donelson</name> in Davidson County, Tennessee with Jackson's comments on verso, <date from="1840-04" to="1844-10-07">1840 April, 1844 October 7</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dunham, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">Andrew Jackson</name>
+          <name type="person">William Donelson</name>
+          <name type="person">Stockley Donelson</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001591_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Legal Agreement between Andrew Jackson, William Donelson, and Stockley Donelson in Davidson County, Tennessee with Jackson's comments on verso, 1840 April, 1844 October 7</title>
+          <date from="1840-04" to="1844-10-07">1840 April, 1844 October 7</date>
+          <author>
+            <name type="person">Andrew Jackson</name>
+          </author>
+          <extent>2</extent>
+          <note type="collection"> Andrew Jackson Papers, 1840 April, 1844 January 2-October 7</note>
+          <note type="manuscript">3228</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Donelson, Andrew Jackson, 1799-1871</term>
+          <term>Davidson County (Tenn.) -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dunham, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e44">
+        <pb n="1" facs="0012_001591_000200_0001.jpg" xml:id="d4e45"/>
+        <p>State of Tennessee: County Court of said County</p>
+        <p>Davidson County: April Term 1840</p>
+        <p>During the abrv Term of said Court the following agreement was presented to wit:</p>
+        <p>A Jackson Donelson [with] Capts. Stockly Donelson, William Donelson, Genl. Jackson, Mr. Albert G. Ward and Mr Timothy Dotson have agreed that a Road shall be laid out to run as follows, from Jones bend to the Nashville &amp; Lebanon Turnpike - viz - Beginning at or near the mouth of the lane seperating the land of Capt Stockley Donelson from Mr. Jacob Bondurant, thence to run either East or West of Capt. Donelson's new building at his option + then East of William Donelson's orchard to the sinking spring, where the old road formerly crossed - then through Genl. Jackson's land to the No. W. corner of the Donelson field (so called) thence with or near that fence (West of it) to the line of Mr. Ward and Genl. Jackson, thence on a line to be agreed upon through the lands of Mr. Ward and Mr. Donelson to the Turnpike-  A road thus laid out by the consent of the parties supersedes the action of the Jury recently appointed to lay out a road from the mouth of dry creek to Earhart's Shop, and it is understood, settles satisfactorily every dificulty in dispute which has arisen respecting the Creation of such a road.  It is also at the same time vunderstood that each of the parties to this agreement has until the 1st of January 1840 to arrange his fences to as to open the road</p>
+        <p>Andrew Jackson</p>
+        <p>Wm Donelson</p>
+        <p>Stockely Donelson</p>
+        <p>A true copy Cert. Ro. B. Castleman</p>
+        <p>Clerk of Davidson cty Court</p>
+        <pb n="2" facs="0012_001591_000200_0002.jpg" xml:id="d4e65"/>
+        <p>Rec'd the enclosed by A.J. Junr. this 7th Octbr. -44 AD Least I should die before the within suit may be settled I pronounce the within statement of John Desmukes and Stockly Donelson and records of <unclear reason="illegible">contract</unclear> a false caloumny + false- Mr Desmukes + S- Donelson has secreted the written agreement by consent of all parties subject to the rec'd which will speak for itself- why not produce it  it was handed to Mr. Ewing by stockly Donelson</p>
+        <p>after Stockly Donelson had said to me in the presence of Thomas W. Fletcher and A. Ewing Esqrs- that he had it at home- I then stated to him tomorrow I will send for it- I did so, but he wrote me that he had not the agreement, but afterwards gave it to Mr. Ewing- Let the originals be produced, + not Mr. Desmukes statement who was a signer to the agreement- the very concealment of the paper shews the falsehood of Mr. Desmukes statement-</p>
+        <p>A. Jackson</p>
+        <p>Octb. 7th. 1844</p>
+        <p>Hermitage-</p>
+      </div>
+    </body>
+  </text>
+</TEI>

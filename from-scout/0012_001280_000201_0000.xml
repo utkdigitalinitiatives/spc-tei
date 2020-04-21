@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001280_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Samuel Andrew Baker</name> in McMinnville, Tenn., to William Young Wells in Whitley County, Ind. <date when="1863-07-26">1863 July 26</date>
+            </title>
+            <author>
+               <name type="person">Baker, Samuel Andrew, ca. 1844-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dunham, Elizabeth</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_001280_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Samuel Andrew Baker in McMinnville, Tenn. to William Young Welles in Whitley County, Ind.</title>
+               <date>1863-07-26</date>
+               <author>
+                  <name>Baker, Samuel Andrew, ca. 1844-1865</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">Samuel Andrew Baker wrote to his brother-in-law, William Young Wells, on July 26, 1863. He told him he could not send him any money because he had had his pockets picked while swimming. He mentioned that the weather was hot. He talked about Fourth of July celebrations and about a breastpin he would be giving to &quot;Little William.&quot; He mentioned being on picket and camp guard duty. He had 15 more months to serve. 
+</note>
+               <note type="collection">Samuel Andrew Baker Letters</note>
+               <note type="manuscript">2895</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- United States -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Gifts.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Baker, Samuel Andrew, ca. 1844-1865 -- Correspondence.</term>
+               <term>Wells, William Young, 1840-1922 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_001280_000201_0001.jpg" xml:id="d3e156"/>
+            <p>McMinville Tennessee</p>
+            <p>July 26th, 63</p>
+            <p>Brother William</p>
+            <p>It is with pleasure that I once more take my pen in hand to address you a few lines &amp; let you know that I am well and hearty. I am sorry that I can send you no more money but I had my pocket picked last night while I was in swimming in the river and it serves me right for not taking better care of my things in fortune. The weather is very hot now but there is a little breeze blowing most all the time, which makes it bearable, for us Yanks as the rebels <unclear reason="gap" resp="EGD">eqlly.</unclear>
+            </p>
+            <pb n="2" facs="0012_001280_000201_0002.jpg" xml:id="d3e172"/>
+            <p>The 4th of July was celebrated around the united states in different ways but it was celebrated down at Vicksburg about right to my notion This little Gun and bayonet breastpin I am going to give to little William for a present but it is not very nice but still it will look well enough if it is brightened up a little I got it in a package of paper and envelopes that I bought</p>
+            <p>We are on duty regular every other day either on picket or camp guard but I hope that such things will play out in the course of another year.</p>
+            <pb n="3" facs="0012_001280_000201_0003.jpg" xml:id="d3e182"/>
+            <p>I know that it will in 15 months for us that is our regiment and then I will stay at home a while if I ever get there but I can think of no more to write at present but hoping that this will find you well I subscribe myself your true friend and brother</p>
+            <p>Samuel A. Baker</p>
+         </div>
+      </body>
+   </text>
+</TEI>

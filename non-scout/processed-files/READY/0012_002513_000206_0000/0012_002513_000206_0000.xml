@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002513_000206_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>L. D. Rodgers</name> in Gilmore Co. Geo to Lethy Gene Mincy
+					<date>Aug. 20</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">L. D. Rodgers</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002513_000206_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, L. D. Rodgers in Gilmore Co. Geo to Lethy Gene Mincy Aug. 20</title>
+          <date>Aug. 20</date>
+          <author>
+            <name type="person">L. D. Rodgers</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Watson B. Smith Papers, June 1863 - Sept. 1863</note>
+          <note type="manuscript">3324</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Michigan -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States. Army. Corps, 23rd (1863-1865).</term>
+          <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002513_000206_0001.jpg" xml:id="d4e39"/>
+        <p>
+          <unclear reason="illegible" resp="AH">The State of Geo</unclear>
+        </p>
+        <p>
+          <unclear reason="illegible" resp="AH">Gilmore County</unclear>
+        </p>
+        <p>
+          <unclear reason="illegible" resp="AH">August the twenth</unclear>
+        </p>
+        <p>
+          <unclear reason="illegible" resp="AH">mis Leathey Gene</unclear>
+        </p>
+        <p>
+          <unclear reason="illegible" resp="AH">mincy</unclear>
+        </p>
+        <p>
+          <unclear reason="illegible" resp="AH">after my complements i can say to you i am better then i was when i saw you and i truly hope those lines may come cufe to hand and find you well i was fore days a giten home after i left Loudon i will be  back in afew Days if i mend on i woud be glad to see you i am not rite musafe at this time i will try to stop as i go back but i wont you to rite as soon as you git this leter and let me know how you comeon i wosh i cood rite more but i can not at this time rite Direct your leters to white path</unclear>
+        </p>
+        <pb n="2" facs="0012_002513_000206_0002.jpg" xml:id="d4e54"/>
+        <p>so i will close i remane</p>
+        <p>yours</p>
+        <p>truley LD Rodgers</p>
+        <p>to lethy miney</p>
+        <p>rite soon</p>
+      </div>
+    </body>
+  </text>
+</TEI>

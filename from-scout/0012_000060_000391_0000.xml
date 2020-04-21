@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000391_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>T.R. Cornick</name>
+ in Knoxville, Tenn., to J.G.M. Ramsey in Charlotte, N.C.<date when="1871-01-16">1871 Jan. 16</date>
+            </title>
+            <author>
+               <name type="person">Cornick, T. R.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000391_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, T.R. Cornick in Knoxville, Tenn., to J.G.M. Ramsey in Charlotte, N.C. 1871 Jan. 16</title>
+               <date>1871-01-16</date>
+               <author>
+                  <name>Cornick, T. R.</name>
+               </author>
+               <extent>5  digital images; 4 pages, 1 envelope</extent>
+               <note type="abstract">Atty. T. R. Cornick wrote to J.G.M. Ramsey on January 16, 1871. He mentioned Ramsey&apos;s son&apos;s court case against Mead should be heard in mid-February, 1871. Cornick reassured Ramsey of all the effort he had put into the case and about his belief they would win the case. Cornick wrote about a serious injury to his arm. He mentioned a case involving Ramsey in the U. S. Supreme Court in which he was not involved. He said one partner in the firm representing Ramsey might weaken Ramsey&apos;s chances because of his sympathy for the South. He made reference to the case of Brownlow and Ross versus Lyon and Ramsey about which he felt uncertain, even though he had put a lot of work into it.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Law -- Tennessee.</term>
+               <term>Lawyers -- Tennessee -- Knoxville -- 19th century.</term>
+               <term>Trials -- Tennessee -- Knoxville.</term>
+               <term>Tennessee -- History -- 1865-1877.</term>
+               <term>Knoxville (Tenn.) -- Trials, litigation, etc.</term>
+               <term>Cornick, T. R. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884 -- Trials, litigation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e159">
+            <pb n="1" facs="0012_000060_000391_0001.jpg" xml:id="d3e160"/>
+            <p>Dr J.G.M. Ramsey</p>
+            <p>P.O.Box 32.</p>
+            <p>Charlotte</p>
+            <p>North Carolina</p>
+            <pb n="2" facs="0012_000060_000391_0002.jpg" xml:id="d3e174"/>
+            <p>Knoxville Tenn Jan 16th -71</p>
+            <p>Dr J.G.M. Ramsey</p>
+            <p>Dear Sir:</p>
+            <p>Yours of date was received last mail. Nearly four weeks ago I met with an accident by which my right arm was so much injured that I am as yet unable to write, but am able to attend to business in every other respect. As I supposed that Col Crozier and Capt Walley had advised you fully relative to all matters of interest that had occurred since my last letter to you I felt disposed to defer writing till my arm got well. I think the probability is that the case of your <unclear reason="illegible" resp="NW">Son </unclear> against head will be heard during the present term</p>
+            <pb n="3" facs="0012_000060_000391_0003.jpg" xml:id="d3e191"/>
+            <p>of U.S. Court. It will probably be heard somewhere about the middle of next month. </p>
+            <p>I feel safe in saying that every thing has been done which the nature of the case admits of towards preparing it for trial I think we ought to gain it. but let the result be what it may, you shall be promptly advised.</p>
+            <p>As regards your case in Supreme Court of U.S. as Col Crozier had employed counsel I did not feel authorized to interfere, nor did I feel there was any necessity for it. I really know nothing about Mr Moore one of your Lawyers; but his partner Jessy B. Bright is a man of distinguished ability. On the other hand I fear the fact that Bright during the late Civil War was expel- </p>
+            <pb n="4" facs="0012_000060_000391_0004.jpg" xml:id="d3e203"/>
+            <p>-led from the U.S. Senate as Senator from Indiana, because of his avowed sympathy for the South. will tend to weaken his influence with a Radical Court.</p>
+            <p>Yours truly</p>
+            <p>T.R Cornick</p>
+            <p>per S.K. Cornick</p>
+            <p>P.S. I am looking forward with great solicitude to the hearing at the March Chancery Court of the case of Brownlow &amp; Ross vs. Lyon &amp; Ramsey. I have bestowed a great deal of labour in trying to master the details. and whether I shall have done any good or not I believe I can frighten the opposite council by presenting some points which never have heretofore been presented. </p>
+            <pb n="5" facs="0012_000060_000391_0005.jpg" xml:id="d3e219"/>
+            <p>I do not by any means give up the case notwithstanding I tremble at what may be the results.</p>
+            <p>T R. Cornick.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

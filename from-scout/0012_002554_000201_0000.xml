@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002554_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>A. H. Pierce </name>Diary, 
+<date when="1862-08-30">1862 August 30-1863 May 7</date>
+            </title>
+            <author>
+               <name type="person">Pierce, A. H.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Deane, Christine H.</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_002554_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <extent>166 pages</extent>
+               <note type="collection">A. H. Pierce Diary and Other Materials, 1862-1863</note>
+               <note type="manuscript">MS.3351</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865 -- Diaries.</term>
+               <term>Corinth (Miss.) -- History -- Siege, 1862.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Hospitals.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Iowa Infantry Regiment, 5th (1861-1864).</term>
+               <term>Vicksburg (Miss.) -- History -- Siege, 1863.</term>
+               <term>Civil War Diaries</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d3e146">
+            <pb n="1" facs="0012_002554_000201_0001.jpg" xml:id="d3e147"/>
+            <p>[Front Cover]</p>
+            <pb n="2" facs="0012_002554_000201_0002.jpg" xml:id="d3e154"/>
+            <p>[Inside Front Cover]</p>
+            <pb n="3" facs="0012_002554_000201_0003.jpg" xml:id="d3e160"/>
+            <p>
+               <unclear reason="illegible" resp="IH">A H 8 H</unclear>
+            </p>
+            <p>Columbus</p>
+            <p>
+               <unclear reason="illegible" resp="IH">Getysove</unclear>
+            </p>
+            <p>Enlisted</p>
+            <p>in the 5th</p>
+            <p>Com <unclear reason="illegible" resp="IH">G J.V.I.</unclear>
+            </p>
+            <pb n="4" facs="0012_002554_000201_0004.jpg" xml:id="d3e180"/>
+            <p>Welch</p>
+            <p>Barlowe</p>
+            <p>
+               <unclear reason="illegible" resp="IH">Perlman</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="PW">Batley</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="IH">Past</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="IH">Freemont</unclear>
+            </p>
+            <p>Evans</p>
+            <p>
+               <unclear reason="illegible" resp="PW">Elaxander</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="IH">Bassnett</unclear>
+            </p>
+            <p>Joseph</p>
+            <pb n="5" facs="0012_002554_000201_0005.jpg" xml:id="d3e211"/>
+            <p>Daily</p>
+            <p>Miniature Diary</p>
+            <p>For</p>
+            <p>1862</p>
+            <p>New York:</p>
+            <p>Published Annually By</p>
+            <p>Kiggins &amp; Kellogg,</p>
+            <p>123 &amp; 125 William Street.</p>
+            <p>1860.</p>
+            <pb n="6" facs="0012_002554_000201_0006.jpg" xml:id="d3e236"/>
+            <p>
+               <unclear reason="illegible" resp="IH">Ecla Briy</unclear>
+            </p>
+            <p>Contents.</p>
+            <p>Almanac-Banking Table-Counting House</p>
+            <p>Calendar-A blank space for Memoranda</p>
+            <p>for every day in the year-Cash Account</p>
+            <p>for every month in the year.</p>
+            <pb n="7" facs="0012_002554_000201_0007.jpg" xml:id="d3e253"/>
+            <p>Calendar For 1860.</p>
+            <p>1860. Jan. Feb. Mar. April May June 1860. July. Aug. Sept. Oct. Nov. Dec.</p>
+            <p>Sun. Mon. Tues. Wed. Thurs. Frid. Sat. Sun. Mon. Tues. Wed. Thurs. Frid. Sat. Sun.</p>
+            <pb n="1" facs="0012_002554_000201_0008.jpg" xml:id="d3e264"/>
+            <p>A Table,</p>
+            <p>Showing the number of days from any day in one month, to the same day in any</p>
+            <p>other month, throughout the year.</p>
+            <p/>
+            <p>Look for April at the left hand, and September at the top; in the angle is 153</p>
+            <pb n="1" facs="0012_002554_000201_0009.jpg" xml:id="d3e277"/>
+            <p>1860. 1st mo., January. A.</p>
+            <p>Moon&apos;s Phases. D. H. M.</p>
+            <p>Full Moon, 8 10 27 Morning.</p>
+            <p>Last Quarter, 15 2 3 Morning.</p>
+            <p>New Moon, 22 7 21 Evening.</p>
+            <p>First Quarter, 31 0 15 Morning.</p>
+            <p>Notable Days. rises sets. sets.</p>
+            <p>Slave Trade abolished, U. S. 7 25 4 43 morn</p>
+            <p>2 M Sun in Perigee. 1808 7 25 4 44 1 9</p>
+            <p>3 T Battle of Princeton, 1777. 7 25 4 45 2 15</p>
+            <p>Thomas Nelson died, 1789. 7 25 4 46 3 19</p>
+            <p>5 T Treaty bet. Eng. and U. S. ., 7 25 4 47 4 27</p>
+            <p>6 F Moon the Highest 1784 7 25 4 48 5 35</p>
+            <p>7 S Liberia colonized, 1822. 7 25 4 49 6 38</p>
+            <p>8 A Battle of New Orleans, 1815. 7 24 4 50 rises.</p>
+            <p>Sir Francis Drake died, 1596. 7 24 51 6 22</p>
+            <p>Stamp Act Passed, 1765. 7 24 4 52 7 39</p>
+            <p>11 W Linnaeus died, 1519. 7 23 4 54 10 9</p>
+            <p>12 T Maximilian died, 1519. 7 23 4 54 10 9</p>
+            <p>13 F The Lexington burnt, 1840. 7 23 4 55 11 20</p>
+            <p>14 S Bruce the Hero died, 1611. 7 23 4 55 11 20</p>
+            <p>15 A Charlestown burnt, 1778. 7 22 4 57 32</p>
+            <p>16 M Gibbon, the historian, d. 1794. 7 22 4 59 1 42</p>
+            <p>17 T Benj. Franklin born, 1706. 7 21 5 0 2 53</p>
+            <p>18 W Battle of the Cowpens, 1781. 7 21 5 1 3 59</p>
+            <p>19 T The Moon lowest. 7 21 5 2 4 59</p>
+            <p>20 Garrick died, 1779. 7 20 5 3 5 51</p>
+            <p>21 S Louis XVI. beheaded, 1793. 7 19 5 4 6 35</p>
+            <p>22 A Byron born, 1783. 7 19 5 5 sets.</p>
+            <p>23 M William Pitt died, 1806. 7 18 5 7 6 0</p>
+            <p>24 T Caligula died, 41. 7 17 5 8 7 2</p>
+            <p>25 W Robert Burns born, 1759. 7 17 5 9 8 1</p>
+            <p>26 T Jupitor South 10.56 evening. 7 16 5 10 8 59</p>
+            <p>27 F Burr&apos;s Conspiracy, 1807. 7 15 5 11 9 58</p>
+            <p>28 S Peter the Great died, 1725. 7 14 5 13 10 58</p>
+            <p>29 A George III. died, 1720. 7 13 5 14 11 59</p>
+            <p>30 M Dr. Burdell murdered, 1857. 7 12 5 15 morn</p>
+            <p>31 T Ben. Johnson born, 1754. 7 12 5 16 1 2</p>
+            <pb n="1" facs="0012_002554_000201_0010.jpg" xml:id="d3e360"/>
+            <p>1860. 2nd mo., FEBRUARY. D.</p>
+            <p>MOON&apos;S PHASES. D. H. M.</p>
+            <p>Full Moon, 6 9 39 Evening.</p>
+            <p>Last Quarter, 13 1 55 Evening.</p>
+            <p>New Moon, 21 2 42 Evening.</p>
+            <p>First Quarter, 29 <unclear reason="illegible" resp="IH">2</unclear> 59 Evening.</p>
+            <p>DD NOTABLE DAYS. rises sets. sets.</p>
+            <p>1 W First President of U.S. 1789 7 11 5 18 2 9</p>
+            <p>2 T Moon highest. 7 10 5 19 3 17</p>
+            <p>3 F Peace of Paris, 1783. 7 9 5 20 4 18</p>
+            <p>4 S John Rogers burnt, 1555. 7 7 5 21 5 17</p>
+            <p>5 A Sir Robert Peel born, 1788. 7 6 5 22 6 4</p>
+            <p>6 M Eclipse of Moon visible. 7 5 5 23 rises.</p>
+            <p>7 T Henry Neil died, 1828. [1587 7 4 5 25 6 30</p>
+            <p>8 W Mary Queen of Scots killed, 7 3 5 26 7 47</p>
+            <p>9 T Jupiter South 9.55 evening. 7 2 5 27 9 2</p>
+            <p>10 F Great Comet, 1680. 7 1 5 28 10 16</p>
+            <p>11 S De Witt Clinton died, 1828. 7 0 5 30 11 30</p>
+            <p>12 A Lady J. Grey beheaded, 1554. 6 58 5 31 morn</p>
+            <p>13 M Young the poet, died, 1852. 6 57 5 32 43</p>
+            <p>14 T St. Valentine&apos;s Day. 6 56 5 34 1 51</p>
+            <p>15 W Galileo born, 1564. 6 55 5 35 2 49</p>
+            <p>16 T Ship Independence lost, 1853 6 53 5 36 3 48</p>
+            <p>17 F Michael Angelo died, 1564/ 6 52 5 37 4 35</p>
+            <p>18 S Luther died, 1564. 6 51 5 39 5 13</p>
+            <p>19 A Florida ceded to U. S., 1821. 6 49 5 40 5 42</p>
+            <p>20 M James I. killed, 1437. 6 48 5 41 6 8</p>
+            <p>21 T Ogdensburg taken, 1813. 6 46 5 43 sets.</p>
+            <p>22 W Ash-Wednesday. 6 45 5 44 6 52</p>
+            <p>23 T J. Q. Adams died, 1848. 6 44 5 45 7 50</p>
+            <p>24 F Robert Fulton died, 1815. 6 42 5 46 8 49</p>
+            <p>25 S Battle of Trenton, 1776. 6 41 5 48 <gap reason="indecipherable" resp="White"/>
+            </p>
+            <p>26 A Quadragasima Sunday. 6 39 5 49 10 53</p>
+            <p>27 M Battle of Tarquin, 1829. 6 38 5 50 11 56</p>
+            <p>28 T William Stockton died, 1781. 6 37 5 51 morn</p>
+            <p>29 W Deerfield burnt, 1704. 6 37 5 51 1 1</p>
+            <pb n="1" facs="0012_002554_000201_0011.jpg" xml:id="d3e443"/>
+            <p>1860. 3d mo., MARCH. D.</p>
+            <p>MOON&apos;S PHASES. D. H. M.</p>
+            <p>Full Moon, 7 7 48 Morning.</p>
+            <p>Last Quarter, 14 4 13 Morning.</p>
+            <p>New Moon, 22 8 59 Morning.</p>
+            <p>First Quarter, 30 1 57 Morning.</p>
+            <p>D D NOTABLE DAYS. rises sets. sets.</p>
+            <p>M W</p>
+            <p>1 T Moon the highest. 6 35 5 53 2 5</p>
+            <p>2 F Czar Nicholas died, 1855. 6 34 5 53 3 2</p>
+            <p>3 S War with Algiers, 1815. 6 32 5 54 3 53</p>
+            <p>4 A Second Sunday in Lent. 6 30 5 55 4 36</p>
+            <p>5 M James Madison born, 1751. 6 29 5 56 5 11</p>
+            <p>6 T La Place died, 1827. 6 27 5 57 5 44</p>
+            <p>7 W Battle of Craonne, 1814. 6 25 5 58 rises.</p>
+            <p>8 T British fired on Boston, 1778, 6 24 5 59 7 50</p>
+            <p>9 F David Rizzio killed, 1566. 6 22 6 0 9 7</p>
+            <p>10 S Benjamin West died, 1820. 6 20 6 1 10 23</p>
+            <p>11 A Mercury sets 7.30 evening. 6 19 6 2 11 36</p>
+            <p>12 M Chelsea Hospi&apos;l founded, 1682. 6 17 6 3 morn</p>
+            <p>13 T War bet. Eng. &amp; France, 1783 6 16 6 4 47 </p>
+            <p>14 W Treaty with Cherokees, 1835. 6 14 6 5 1 43</p>
+            <p>15 T Caesar killed, 40 B.C. 6 12 6 7 2 37</p>
+            <p>16 F Bowditch died, 1838. 6 11 6 8 3 13</p>
+            <p>17 S St. Patrick&apos;s Day. 6 9 6 9 3 45</p>
+            <p>18 A Stamp Act repealed, 1766. 6 7 6 10 4 14</p>
+            <p>19 M Rheins taken, 1814. 6 6 6 11 4 35</p>
+            <p>20 T Bonaparte crowned, 1815. 6 4 6 12 4 58</p>
+            <p>21 W Cramner burnt, 1556. 6 2 6 13 5 18</p>
+            <p>22 T Stamp Act passed, 1763. 6 16 14 sets.</p>
+            <p>23 F 5 59 6 15 7 45</p>
+            <p>24 S Elizbeth died, 160 5 58 6 16 8 46</p>
+            <p>25 A Lady Day. 5 56 6 17 9 49</p>
+            <p>26 M General Hull tried, 18 5 54 6 18 10 54</p>
+            <p>27 T Bruce crowned, 1306. 5 52 6 19 11 56</p>
+            <p>28 W Thomas Morton died, 1838. 5 51 6 20 morn</p>
+            <p>29 T Swedenborg died, 1772. 5 49 6 21 56</p>
+            <p>30 F Allies entered Paris, 1813. 5 47 6 22 1 45</p>
+            <p>31 S John C. Calhoun died, 1850. 5 46 6 23 2 33</p>
+            <pb n="1" facs="0012_002554_000201_0012.jpg" xml:id="d3e528"/>
+            <p>1860. 4th mo., APRIL. G.</p>
+            <p>MOON&apos;S PHASES. D. H. M.</p>
+            <p>Full Moon, 5 5 4 Evening.</p>
+            <p>Last Quarter, 12 8 38 Evening.</p>
+            <p>First Quarter, 28 9 40 Morning.</p>
+            <p>D D NOTABLE DAYS. rises sets. sets.</p>
+            <p>M W</p>
+            <p>1 A Palm Sunday. 5 44 6 24 3 9</p>
+            <p>2 M Jefferson born, 1743. 5 42 6 26 3 41</p>
+            <p>3 T Napier died, 1617. 5 41 6 27 4 9</p>
+            <p>4 W General Harrison died, 1841. 5 39 6 28 4 37</p>
+            <p>5 T Plato died, 347 B.C. 5 37 6 29 rises.</p>
+            <p>6 F Good Friday. 5 36 6 31 7 55</p>
+            <p>7 S Lalande died, 1807. 5 34 6 32 9 12</p>
+            <p>8 A Easter Sunday. 5 33 6 33 10 24</p>
+            <p>9 M Lord Bacon died, 1626. 5 31 6 34 11 30</p>
+            <p>10 T U.S. Bank Incorp&apos;ed, 1816. 5 30 6 35 morn</p>
+            <p>11 W Peace of Utrecht, 1713. 5 28 6 36 25</p>
+            <p>12 T Seneca died, 65. 5 26 6 37 1 9</p>
+            <p>13 F Cairo taken, 1517. 5 25 6 38 1 46</p>
+            <p>14 S Battle of Mileximo, 1796. 5 23 6 39 2 14</p>
+            <p>15 A Low Sunday. 5 22 6 40 2 38</p>
+            <p>16 M Shakespeare born, 1564. 5 20 6 41 3 1</p>
+            <p>17 T Franklin died, 1790. 519 6 42 3 22</p>
+            <p>18 W Abernethy died, 1831. 5 17 6 43 3 43</p>
+            <p>19 T Battle of Lexington, 1775. 5 16 6 44 4 5</p>
+            <p>20 F Gov. Clinton died, 1812. 5 14 6 45 4 27</p>
+            <p>21 S Battle of San Jacinto, 1836. 5 13 6 46 sets.</p>
+            <p>22 A Second Sunday after Easter. 5 11 6 47 8 45</p>
+            <p>23 M Shakespeare died, 1616. 5 10 6 48 9 49</p>
+            <p>24 T Robinson Crusoe died, 1731. 5 8 6 49 40 49</p>
+            <p>25 W Cowper died, 1800. 5 7 6 50 11 44</p>
+            <p>26 T Danbury burnt, 1777. 5 6 6 51 morn</p>
+            <p>27 F Capture of York, 1813. 5 4 6 52 30</p>
+            <p>28 S Battle of Sidney, 1760. 5 3 6 53 1 8</p>
+            <p>29 A Rufus King died, 1827. 5 2 6 54 1 46</p>
+            <p>30 M Washington Inaug&apos;d, 1789. 5 0 6 55 2 10</p>
+            <pb n="1" facs="0012_002554_000201_0013.jpg" xml:id="d3e610"/>
+            <p>1860. th mo., MAY. B.</p>
+            <p>MOON&apos;S PHASES. D. H. M.</p>
+            <p>Full Moon, 52 6 Morning.</p>
+            <p>Last Quarter, 12 2 20 Evening.</p>
+            <p>New Moon, 20 1 50 Evening.</p>
+            <p>First Quarter, 27 3 9 Evening.</p>
+            <p>D D NOTABLE DAYS. rises sets. sets.</p>
+            <p>M W</p>
+            <p>1 T Eng. &amp; Scot. united, 1707. 4 59 6 56 2 38</p>
+            <p>2 W Battle of Lutzen, 1813. 4 58 6 57 3 3</p>
+            <p>3 T Byron swam Hellespont. 4 56 6 58 3 30</p>
+            <p>4 F Bonaparte died, 1821. [1810. 4 55 6 59 4 0</p>
+            <p>5 S Battle of Prague, 1757. 4 54 7 0 rises.</p>
+            <p>6 A Battle of Oswego, 1814. 4 53 7 1 9 10</p>
+            <p>7 M General Worth died, 1849. 4 52 7 2 10 11</p>
+            <p>8 T General Stark died, 1822. 4 51 7 3 11 1</p>
+            <p>9 W Count D&apos;Estaing guillotined. 4 49 7 4 11 42</p>
+            <p>10 T Astor Place Riot, 1849. [1794 4 48 7 7 5 morn</p>
+            <p>11 F Charleston surrendered, 1780. 4 47 7 6 14</p>
+            <p>12 S John Jackson died, 1763. 4 46 7 7 41</p>
+            <p>13 A Jamestown settled, 1607. 4 45 7 8 1 4</p>
+            <p>14 M Henry Gratton died, 1820. 4 44 7 9 1 25</p>
+            <p>15 T Daniel O&apos;Connell died, 1847. 4 43 7 10 1 47</p>
+            <p>16 W Mrs. Hemans died, 1835. 4 42 7 11 2 7</p>
+            <p>17 T Ascension Day. 4 41 7 12 2 30</p>
+            <p>18 F Acre taken, 1291. 4 40 7 13 2 55</p>
+            <p>19 S Cuba discovered, 1494. 4 39 7 14 3 26</p>
+            <p>20 A Columbus died, 1506. 4 39 7 15 sets.</p>
+            <p>21 M Battle of Esling, 1809. 4 38 8 16 8 42</p>
+            <p>22 T First Steamship, 1819. 4 37 7 17 9 39</p>
+            <p>23 W Venus sets 10.47 evening. 4 36 7 18 10 28</p>
+            <p>24 T Victoria born, 1819. 4 36 7 19 11 9</p>
+            <p>25 F Battle of Camden, 1781. 4 35 7 20 11 44</p>
+            <p>26 S T. Hayden died, 1809. 4 34 7 20 morn</p>
+            <p>27 A Pentecost. Whit-Sunday. 4 34 7 21 13</p>
+            <p>28 M Noah Webster died, 1843. 4 33 7 22 40</p>
+            <p>29 T General Putnam died, 1790. 4 32 7 23 1 6</p>
+            <p>30 W Alex. Pope died, 1744. 4 32 7 23 1 32</p>
+            <p>31 T Stony Point evacuated, 1779. 4 31 7 24 1 59</p>
+            <pb n="1" facs="0012_002554_000201_0014.jpg" xml:id="d3e695"/>
+            <p>1860. 6th mo., JUNE. E.</p>
+            <p>MOON&apos;S PHASES. D. H. M.</p>
+            <p>Full Moon, 3 11 50 Evening.</p>
+            <p>Last Quarter, 11 8 8 Morning.</p>
+            <p>New Moon, 19 0 28 Morning.</p>
+            <p>First Quarter, 25 7 40 Evening.</p>
+            <p>D D NOTABLE DAYS. rises sets. sets.</p>
+            <p>1 D Chesapeake taken, 1813. 4 31 7 24 2 33</p>
+            <p>2 S Riots in London, 1780. 4 30 7 25 3 12</p>
+            <p>3 A Trinity Sunday. 4 30 7 25 3 12</p>
+            <p>4 M St. Paul&apos;s, Eng., built, 1561. 4 30 7 26 8 52</p>
+            <p>5 T First Balloon raised, 1783. 4 29 7 27 9 37</p>
+            <p>6 W Patrick Henry died, 1799. 4 29 7 28 10 13</p>
+            <p>7 T Mahomet died, 622. 4 29 7 28 10 42</p>
+            <p>8 F Thomas Paine died, 1809. 4 29 7 29 11 7</p>
+            <p>9 S Battle of Arklow, 1798. 4 28 7 30 11 29</p>
+            <p>10 A Dutch landed at N.Y., 1667. 4 28 7 30 11 49</p>
+            <p>11 M Ben Johnson bornm 1574. 4 28 7 31 morn</p>
+            <p>12 T New York incorporated, 1665. 4 28 7 31 10</p>
+            <p>13 W Battle of Ghent, 1794. 4 28 7 32 32</p>
+            <p>14 T Arnold died, 1801. 4 28 7 32 55</p>
+            <p>15 F Polk died, 1849. 4 28 7 33 1 25</p>
+            <p>16 S Joseph Butler died, 1752. 4 28 7 33 1 59</p>
+            <p>17 A Battle of Bunker&apos;s Hill, 1775 4 28 7 33 2 41</p>
+            <p>18 M War bet. Eng. &amp; U.S. 1812. 4 28 7 33 3 32</p>
+            <p>19 T General Greene died, 1786. 4 28 7 34 sets.</p>
+            <p>20 W Victoria crowned, 1837. 4 28 7 34 9 5</p>
+            <p>21 T Madson died, 1836. 4 28 7 34 9 45</p>
+            <p>22 F Bonparte&apos;s 2d abdi&apos;n, 1815. 4 29 7 34 10 16</p>
+            <p>23 S Battle of Springfield, 1780. 4 29 7 34 10 44</p>
+            <p>24 A Battle of Bannockburn, 1314. 4 29 7 35 11 10</p>
+            <p>25 M Bonaparte&apos;s Farewell, 1815. 4 29 7 35 11 36</p>
+            <p>Cromwell Protector, 1657. 4 30 7 35 morn</p>
+            <p>27 W Cholera in New York 1832. 4 30 7 35 2</p>
+            <p>28 T Battle of Monmouth, 1778. 4 31 7 35 33</p>
+            <p>29 F Henry Clay died, 1852. 4 31 7 35 1 9</p>
+            <p>30 S Battle of Fleurus, 1690. 4 31 7 35 1 52</p>
+            <pb n="1" facs="0012_002554_000201_0015.jpg" xml:id="d3e776"/>
+            <p>1860. 7th mo., JULY. G.</p>
+            <p>MOON&apos;S PHASES. D. H. M.</p>
+            <p>Full Moon, 2 11 11 Evening.</p>
+            <p>Last Quarter, 11 1 2 Morning.</p>
+            <p>New Moon, 18 9 24 Morning.</p>
+            <p>First Quarter, 25 0 44 Morning.</p>
+            <p>D D NOTABLE DAYS. rises sets. sets.</p>
+            <p>M W</p>
+            <p>1 A Battle of Porto Novo, 1781. 4 32 7 35 2 44</p>
+            <p>2 M Rossean died, 1778. 4 32 7 35 rises.</p>
+            <p>3 T Fort Erie taken, 1798. 4 33 7 34 8 12</p>
+            <p>4 W Independence declared, 1776. 4 34 7 34 8 42</p>
+            <p>5 T Battle of Chippewa, 1814. 4 34 7 34 9 9</p>
+            <p>6 F Battle of James&apos; River, 1781. 4 35 7 33 9 31</p>
+            <p>7 S Thomas Hooker died, 1647. 4 35 7 33 9 53</p>
+            <p>8 A Montgomery b&apos;d, N.Y. 1818. 4 36 7 33 10 12</p>
+            <p>9 M Gen. Zach. Taylor d. 1850. 4 37 7 32 10 33</p>
+            <p>10 T London Bridge burnt, 1212. 4 37 7 32 10 56</p>
+            <p>11 W Hamilton shot, 1804. 4 38 7 31 11 22</p>
+            <p>12 T Julius Caesar born, 100 B.C. 4 39 7 31 11 54</p>
+            <p>13 F Battle of the Pequods, 1637. 4 39 7 30 morn</p>
+            <p>14 S Battle of Prague, 1420. 4 40 7 30 31</p>
+            <p>15 A Gov. Clinton born, 1739. 4 41 7 29 1 19</p>
+            <p>16 M Bill Rogers born, 1823. 4 42 7 29 2 16</p>
+            <p>17 T Sun Eclipsed, visible (18th). 4 43 7 28 3 24</p>
+            <p>18 W John Hampden killed, 1783. 4 43 7 27 sets.</p>
+            <p>19 T Battle of Paulus Hook, 1779. 4 44 7 26 8 16</p>
+            <p>20 F John Playfair died, 1819. 4 45 7 26 8 46</p>
+            <p>21 S Burns died, 1796. 4 46 7 25 9 14</p>
+            <p>22 A Piazza died, 1826. 4 47 7 24 9 39</p>
+            <p>23 M Bagdad sacked, 1401. 4 48 7 23 10 7</p>
+            <p>24 T Battle of Niagara, 1759. 4 48 7 22 10 36</p>
+            <p>25 W Battle of Lundy&apos;s Lane, 1814. 4 49 7 22 11 11</p>
+            <p>26 T Coleridge died, 1834. 4 50 7 21 11 40</p>
+            <p>27 F Ticonderoga taken, 1759. 4 51 7 20 morn.</p>
+            <p>28 S Willberforce died, 1833. 4 52 7 19 39</p>
+            <p>29 A Dog days begin. 4 53 7 18 1 35</p>
+            <p>30 M Wm. Penn died, 1718. 4 54 7 18 2 38</p>
+            <p>31 T London Bridge finished, 1831. 4 55 7 17 3 44</p>
+            <pb n="1" facs="0012_002554_000201_0016.jpg" xml:id="d3e861"/>
+            <p>1860. 8th. mo., AUGUST. C.</p>
+            <p>Full Moon, 1 0 37 Evening.</p>
+            <p>Last Quarter, 9 4 27 Evening.</p>
+            <p>New Moon, 16 5 24 Evening.</p>
+            <p>First Quarter, 23 7 54 Morning.</p>
+            <p>Full Moon, 31 4 1 Morning.</p>
+            <p>D D NOTABLE DAYS. rises sets. rises.</p>
+            <p>M W</p>
+            <p>1 W John Rogers died, 1838. 4 56 7 16 rises.</p>
+            <p>2 T Plague in London, 1563. 4 57 7 14 7 36</p>
+            <p>3 F Burr&apos;s trial, 1807. 4 58 7 13 7 57</p>
+            <p>4 S Gen. Burgoyne died, 1792. 4 59 7 12 8 17</p>
+            <p>5 A Gen. How died, 1799. 5 0 7 11 8 38</p>
+            <p>6 M Ben Johnson died, 1637. 5 1 7 10 8 59</p>
+            <p>7 T Battle of Thermopylae, 480 B.C. 5 2 7 9 9 24</p>
+            <p>8 W Jerusalem taken, 70 A.D. 5 3 7 7 9 52</p>
+            <p>9 T Fort Henry taken, 1757. 5 4 7 6 10 25</p>
+            <p>10 F St. Lawrence. 5 5 7 5 11 8</p>
+            <p>11 S Barbadoes destroyed, 1831. 5 6 7 4 11 59</p>
+            <p>12 A King Philip shot, 1676. 5 7 7 2 morn</p>
+            <p>13 M Cortez took Mexico, 1521. 5 8 7 1 1 1</p>
+            <p>14 T Printing invented, 1437. 5 9 7 0 2 11</p>
+            <p>15 W Napoleon born, 1769. 5 10 6 58 3 27</p>
+            <p>16 T Battle of Camden, 1780. 5 11 6 57 sets.</p>
+            <p>17 F Battle of Smolensko, 1812. 5 12 6 55 7 12</p>
+            <p>18 S Santa Fe occupied, 1846. 5 13 6 54 7 40</p>
+            <p>19 A Guerriere captured, 1812. 5 14 6 53 8 8</p>
+            <p>20 M The Atlantic sunk, 1852. 5 15 6 51 8 37</p>
+            <p>21 T Lafayette taken, 1792. 5 16 6 50 9 11</p>
+            <p>22 W Dr. Gall died, 1828. 5 17 6 48 9 50</p>
+            <p>23 T Alex. Wilson died, 1813. 5 17 6 47 10 37</p>
+            <p>24 F Washington burnt, 1814. 5 18 6 45 11 31</p>
+            <p>25 S Venus rises 2.21 morning. 5 19 6 44 morn</p>
+            <p>26 A Louis Philippe died, 1850. 5 20 6 42 31</p>
+            <p>27 M Battle of Long Island, 1776. 5 21 6 41 1 34</p>
+            <p>28 T James Wilson died, 1798. 5 22 6 39 2 40</p>
+            <p>29 W St. John beheaded, 30 A.D. 5 23 6 37 3 43</p>
+            <p>30 T Dr. Webster hung, 1850. 5 24 6 36 4 43</p>
+            <p>31 F Bunyan died, 1688. 5 25 6 34 rises.</p>
+            <pb n="1" facs="0012_002554_000201_0017.jpg" xml:id="d3e946"/>
+            <p>1860. 9th mo., SEPTEMBER F.</p>
+            <p>MOON&apos;S PHASES. D. H. M.</p>
+            <p>Last Quarter, 8 6 11 Morning.</p>
+            <p>New Moon, 15 1 13 Morning.</p>
+            <p>First Quarter, 21 6 29 Evening.</p>
+            <p>Full Moon, 29 8 44 Evening.</p>
+            <p>D D NOTABLE DAYS. rises sets. rises.</p>
+            <p>M W</p>
+            <p>1 S Richard Steel died, 1729. 5 26 6 33 6 43</p>
+            <p>2 A Great Fire of London, 1666. 5 27 6 31 7 6</p>
+            <p>3 M Battle of Actium, 31 B.C. 5 28 6 29 7 27</p>
+            <p>4 T Robert Dudley died, 1588. 5 29 6 28 7 54</p>
+            <p>5 W First Congress met, 1774. 5 30 6 26 8 26</p>
+            <p>6 T Mayflower sailed, 1620. 5 31 6 25 9 4</p>
+            <p>7 F Hannah Moore died, 1833. 5 32 6 23 9 50</p>
+            <p>8 S Bat of Eutaw Springs, 1781. 5 33 6 21 10 45</p>
+            <p>9 A U.S. first so called, 1776. 5 34 6 20 11 50</p>
+            <p>10 M Battle of Lake Erie, 1813. 5 35 6 18 morn</p>
+            <p>11 T Battle of Brandywine, 1777 5 36 6 16 1 2</p>
+            <p>12 W Baltimore bombarded, 1814. 5 37 6 15 2 17</p>
+            <p>13 T Lord Wellington died, 1852. 5 38 6 13 3 34</p>
+            <p>14 F Moscow burned, 1812. 5 39 6 11 4 51</p>
+            <p>15 S Howe entered N.Y., 1776. 5 40 6 9 sets.</p>
+            <p>16 A Farenheit died, 1736. 5 41 6 8 6 35</p>
+            <p>17 M Quebec taken, 1759. 5 42 6 6 7 8</p>
+            <p>18 T Deerfield burned, 1675. 5 43 6 4 7 46</p>
+            <p>19 W Battle of Stillwater, 1777. 5 44 6 3 8 32</p>
+            <p>20 T Bishop Hobart died, 1831. 5 45 6 1 9 23</p>
+            <p>21 F Emmet hanged, 1803. 5 46 5 59 10 24</p>
+            <p>22 S Arnold&apos;s Treason, 1780. 5 48 5 56 morn</p>
+            <p>23 A Major Andre arrested, 1780. 5 48 5 56 morn</p>
+            <p>24 M Albany taken, 1664. 5 49 5 54 33</p>
+            <p>25 T Venus rises 2.6 morning. 5 50 5 53 1 36</p>
+            <p>26 W Constantinople founded, 329. 5 51 5 51 2 38</p>
+            <p>27 T Arctic lost, 1854. 5 52 5 50 3 38</p>
+            <p>28 F Massilon died, 1742. 5 53 5 48 4 36</p>
+            <p>29 S South Sea bubble, 1720. 5 54 5 46 rises</p>
+            <p>30 A Whitfield died, 1770. 5 55 5 44 5 33</p>
+            <pb n="1" facs="0012_002554_000201_0018.jpg" xml:id="d3e1029"/>
+            <p>1860. 10th mo., OCTOBER. A.</p>
+            <p>MOON&apos;S PHASES D. H. M.</p>
+            <p>Last Quarter, 7 6 9 Evening.</p>
+            <p>New Moon 14 9 41 Morning.</p>
+            <p>First Quarter, 21 9 14 Morning.</p>
+            <p>Full Moon, 29 1 54 Evening.</p>
+            <p>D D NOTABLE DAYS. rises sets. rises.</p>
+            <p>M W</p>
+            <p>1 M 1st St&apos;mboat to Albany, 1807. 5 56 5 43 5 59</p>
+            <p>2 T 1st Railroad in U.S. 1833. 5 57 5 41 6 29</p>
+            <p>3 W Black Hawk died, 1838. 5 58 5 39 7 4</p>
+            <p>4 T Selkirk exiled, 1704. 6 0 5 38 7 47</p>
+            <p>5 F Cornwallis died, 1805. 6 1 5 36 8 38</p>
+            <p>6 S Jesse Buell died, 1839. 6 2 5 35 9 38</p>
+            <p>7 A E.A. Poe died, 1849. 6 3 5 33 10 44</p>
+            <p>8 M John Hancock died, 1793. 6 4 5 31 11 56</p>
+            <p>9 T Lewis Cass bron, 1782. 6 5 5 30 morn</p>
+            <p>10 W N.S. in France, 1582. 6 7 5 28 1 9</p>
+            <p>11 T Battle of Vigo, 1702. 6 8 5 27 2 23</p>
+            <p>12 F Siege of Orleans, 1428. 6 9 5 25 3 38</p>
+            <p>13 S Murat shot, 1815. 6 10 5 23 4 56</p>
+            <p>14 A Wm. Penn born, 1644. 6 11 5 22 sets.</p>
+            <p>15 M Battle of Camden, 1776. 6 12 5 20 5 44</p>
+            <p>16 T Burgoyne defeated, 1777. 6 13 5 19 6 21</p>
+            <p>17 W Battle of Leipsic, 1813. 6 14 5 17 7 12</p>
+            <p>18 T Moon lowest. 6 15 5 16 8 12</p>
+            <p>19 F Battle of Yorktown, 1781. 6 16 5 14 9 16</p>
+            <p>20 S America discovered, 1492. 6 18 5 13 10 22</p>
+            <p>21 A Battle of Trafalgar&apos;s, 1805. 6 19 5 12 11 27</p>
+            <p>22 M Battle of Red Bank, 1777. 6 20 5 10 morn</p>
+            <p>23 T Irish Rebellion, 1641. 6 21 5 9 30</p>
+            <p>24 W Daniel Webster died, 1852. 6 22 5 7 1 31</p>
+            <p>25 T Hogarth died, 1764. 6 23 5 6 2 29</p>
+            <p>26 F Doddridge died, 1751. 6 24 5 4 3 27</p>
+            <p>27 S Death of Brutus, 42 B.C. 6 25 5 3 4 27</p>
+            <p>28 A Locke died, 1704. 6 26 5 2 5 27</p>
+            <p>29 M Sir W. Raleigh executed, 1618 6 27 5 1 rises.</p>
+            <p>30 T John Adams born, 1735. 6 28 4 59 5 6</p>
+            <p>31 W Reformation began, 1517. 6 29 4 58 5 47</p>
+            <pb n="1" facs="0012_002554_000201_0019.jpg" xml:id="d3e1114"/>
+            <p>1860. 11th mo., NOVEMBER. D.</p>
+            <p>MOON&apos;S PHASES. D. H. M.</p>
+            <p>Last Quarter, 6 4 21 Morning.</p>
+            <p>New Moon, 12 7 40 Evening.</p>
+            <p>First Quarter, 20 3 57 Morning.</p>
+            <p>Full Moon, 28 6 42 Morning.</p>
+            <p>D D NOTABLE DAYS. rises sets. rises.</p>
+            <p>M W</p>
+            <p>1 T Puddeaux died, 1724. 6 30 4 57 6 36</p>
+            <p>2 F St. Johns taken, 1773. 6 31 4 56 7 33</p>
+            <p>3 S Battle of Torgan, 1760. 6 32 4 54 8 37</p>
+            <p>4 A Guadaloupe discovered, 1493. 6 34 4 53 9 46</p>
+            <p>5 M Gen. Kepler died, 1630. 6 35 4 52 10 55</p>
+            <p>6 T Battle of Lubec, 1806. 6 36 4 51 morn</p>
+            <p>7 W Battle of Tippecanoe, 1811. 6 37 4 50 7</p>
+            <p>8 T Milton died, 1674. 6 38 4 49 1 17</p>
+            <p>9 F Cape Cod discovered, 1620. 6 40 4 48 2 31</p>
+            <p>10 S Spurgheim died, 1832. 6 41 4 47 3 46</p>
+            <p>11 A Luther born, 1483. 6 42 4 46 5 4</p>
+            <p>12 M Montreal captured 1775. 6 43 4 45 sets.</p>
+            <p>13 T Meteoric Showers, 1833-37. 6 44 4 44 4 57</p>
+            <p>14 W Charles Carroll died, 1832. 6 46 4 43 5 53</p>
+            <p>15 T Fort Mifflin taken, 1777. 6 47 4 42 6 58</p>
+            <p>16 F Tea destroyed, 1773. 6 48 4 42 8 4</p>
+            <p>17 S Queen Mary died, 1558. 6 49 4 41 9 12</p>
+            <p>18 A Napoleon disinterred, 1840. 6 50 4 40 10 17</p>
+            <p>19 M Jay&apos;s Treaty, 1794. 6 51 4 39 11 21</p>
+            <p>20 T St. Paul shipwrecked, 63. 6 53 4 39 morn</p>
+            <p>21 W James Hogg died, 1835. 6 54 4 38 20</p>
+            <p>22 T Battle of Soano, 1795. 6 55 4 38 1 19</p>
+            <p>23 F Dr. Parkman killed, 1849. 6 56 4 37 2 18</p>
+            <p>24 S John Knox died, 1572. 6 57 4 36 3 15</p>
+            <p>25 A New York evacuated, 1783. 6 58 4 35 4 17</p>
+            <p>26 M Queen Isabella died, 1504. 6 59 4 35 5 17</p>
+            <p>27 T Horace died, 8 B.C. 7 0 4 35 6 20</p>
+            <p>28 W Great Fog in London, 1840. 7 2 4 35 rises.</p>
+            <p>29 T Moon highest. 7 3 4 34 5 27</p>
+            <p>30 F Treaty with the Creeks. 7 4 4 34 6 29</p>
+            <pb n="1" facs="0012_002554_000201_0020.jpg" xml:id="d3e1197"/>
+            <p>1860. 12th mo., DECEMBER. F.</p>
+            <p>Moon&apos;s Phases. D. H. M.</p>
+            <p>Last Quarter, 5 1 5 Evening.</p>
+            <p>New Moon, 12 7 52 Morning.</p>
+            <p>First Quarter, 20 1 14 Morning.</p>
+            <p>Full Moon, 27 10 21 Evening.</p>
+            <p>DM DW NOTABLE DAYS. rises sets. rises.</p>
+            <p>1 S Siege of Quebec, 1775. 7 5 4 34 7 37</p>
+            <p>2 A Advent Sunday, 7 6 4 33 8 47</p>
+            <p>3 M Battle of Hohenlinden, 1800. 7 7 4 33 9 58</p>
+            <p>4 T John Gay died, 1732. 7 8 4 33 17 8</p>
+            <p>5 W Battle of Lissa, 1754. 7 9 4 32 morn</p>
+            <p>6 T Rhode Island taken, 1776. 7 10 4 32 18</p>
+            <p>7 Ney shot, 1815. 7 11 4 32 1 31</p>
+            <p>8 S R. Baxter died, 1691. 7 12 4 32 2 44</p>
+            <p>9 A Battle of the Nieves, 1813. 7 13 4 32 3 58</p>
+            <p>10 M Peace of Ryswick, 1697. 7 14 4 32 5 16</p>
+            <p>11 T Indiana admitted, 1816. 7 15 4 32 6 26</p>
+            <p>12 W Charles XII. killed, 1718. 7 15 4 32 sets.</p>
+            <p>13 T 7 16 4 32 5 44</p>
+            <p>14 F Washington died, 1799. 7 16 4 33 6 53</p>
+            <p>15 S Wayne died, 1776. 7 17 4 33 8 0</p>
+            <p>16 A Great Fire in N. Y., 1835. 7 18 4 33 10 6</p>
+            <p>17 M Bolivar died, 1830. 7 18 4 33 10 6</p>
+            <p>18 T Washinton burned, 1799. 7 19 4 34 11 8</p>
+            <p>19 W Attack on Narraganset, 1675. 7 20 4 34 morn</p>
+            <p>20 T U.S. Bank discont&apos;d, 1791. 7 20 4 35 5</p>
+            <p>21 F Pilgrims landed, 1621. 7 21 4 35 1 4</p>
+            <p>22 S Dr. Hosack died, 1835. 7 21 4 36 2 4</p>
+            <p>23 A Xerxes enthroned 486 B. C. 7 22 4 36 3 4</p>
+            <p>24 M Treaty of Ghent, 1814. 7 22 4 37 4 6</p>
+            <p>25 T Christmas. 7 23 4 37 5 7</p>
+            <p>26 W Battle of Trenton, 1777. 7 23 4 38 6 7</p>
+            <p>27 T Blair died, 1800. [1814. 7 23 4 39 rises.</p>
+            <p>28 F Ratification Treaty of Ghent, 7 23 4 39 5 25</p>
+            <p>29 S Savannah taken, 1778. 7 24 4 40 6 36</p>
+            <p>30 A Buffalo burned, 1813. 7 24 4 41 7 47</p>
+            <p>31 M Battle of Quebec, 1775. 7 24 4 42 8 59</p>
+            <pb n="8" facs="0012_002554_000201_0021.jpg" xml:id="d3e1280"/>
+            <p>January, SUNDAY, 1, 1860.</p>
+            <p>Report to Gen Hamilton Head <unclear reason="illegible" resp="IH">Martens to high mas ten</unclear> with 50 way you by order of <unclear reason="illegible" resp="IH">carmal van gen lumpys 9mm</unclear>
+            </p>
+            <p>MONDAY, 2.</p>
+            <p>Dec 30, 1862</p>
+            <p>Laid in camp</p>
+            <p>a night loaded</p>
+            <p>with <unclear reason="illegible" resp="IH">hand</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="IH">Bread got in</unclear>
+            </p>
+            <p>to covel at ole</p>
+            <p>pleasant</p>
+            <pb n="9" facs="0012_002554_000201_0022.jpg" xml:id="d3e1313"/>
+            <p>Dec 31, 1862.</p>
+            <p>Went to germantown <unclear reason="illegible" resp="IH">Gao</unclear> waggons 15 mil from Memphis</p>
+            <p>pleasant</p>
+            <p>Jan -1- 63</p>
+            <p>Went to <unclear reason="illegible" resp="IH">Lagfay ette</unclear> 20 miles</p>
+            <p>
+               <unclear reason="illegible" resp="IH">Thet the 11. 13 158 I m</unclear>
+            </p>
+            <p>Pleasant</p>
+            <p>Jan. 2</p>
+            <p>came back to germantown loaded with amunition</p>
+            <p>
+               <unclear reason="illegible" resp="IH">pained all my</unclear>
+            </p>
+            <pb n="10" facs="0012_002554_000201_0023.jpg" xml:id="d3e1346"/>
+            <p>January 3, 1863.</p>
+            <p>Went to Headquarters 3 miles from Memphis</p>
+            <p>January 4,</p>
+            <p>Went to town with amunition</p>
+            <p>loaded with provision &amp; came to camp</p>
+            <p>January 5,</p>
+            <p>went to germantown</p>
+            <p>pleasant</p>
+            <pb n="11" facs="0012_002554_000201_0024.jpg" xml:id="d3e1366"/>
+            <p>January 6, 1863.</p>
+            <p>came back #2.</p>
+            <p>pleasant</p>
+            <p>January 7,</p>
+            <p>Laid in camp</p>
+            <p>very pleasant</p>
+            <p>January 8,</p>
+            <p>
+               <unclear reason="illegible" resp="IH">laid</unclear> in camp</p>
+            <p>rain at Night</p>
+            <pb n="12" facs="0012_002554_000201_0025.jpg" xml:id="d3e1391"/>
+            <p>January 9, 1863.</p>
+            <p>Staid in camp</p>
+            <p>Was pleasant</p>
+            <p>January 10,</p>
+            <p>
+               <unclear reason="illegible" resp="IH">Went</unclear> to Memphis for Hay &amp; grn</p>
+            <p>Warm &amp; pleas</p>
+            <p>January 11,</p>
+            <p>went out to germantown for Mail</p>
+            <p>warm</p>
+            <pb n="13" facs="0012_002554_000201_0026.jpg" xml:id="d3e1415"/>
+            <p>January 12, 1863.</p>
+            <p>went to Mem for forage &amp; Clothing.</p>
+            <p>warm &amp; pleas</p>
+            <p>January 13,</p>
+            <p>Went Memphis for clothing Ambulance &amp; Harness</p>
+            <p>Pleasant</p>
+            <p>Rain all night</p>
+            <p>January 14,</p>
+            <p>laid in Camp</p>
+            <p>rained all day Snowed all Night.</p>
+            <p>
+               <unclear reason="illegible" resp="PW">pleasynigh</unclear>
+            </p>
+            <pb n="14" facs="0012_002554_000201_0027.jpg" xml:id="d3e1443"/>
+            <p>January 15, 1863.</p>
+            <p>Snowed 10 inches</p>
+            <p>the deepest Snow that has fell here for 18 yr</p>
+            <p>January 16,</p>
+            <p>very Cold</p>
+            <p>went the City for rations <add place="inline">forage</add></p>
+            <p>
+               <gap reason="indecipherable" resp="White"/>forage</p>
+            <p>January 17,</p>
+            <p>laid in camp</p>
+            <p>very cold</p>
+            <pb n="15" facs="0012_002554_000201_0028.jpg" xml:id="d3e1472"/>
+            <p>January 18, 1863.</p>
+            <p>Went to <unclear reason="illegible" resp="PW">mtn</unclear> city</p>
+            <p>Saw Cap Neil</p>
+            <p>Mc Arther Divis. were going on <unclear reason="illegible" resp="IH">mtn Roats</unclear>
+            </p>
+            <p>January 19,</p>
+            <p>Went to Mtn City</p>
+            <p>bad Cold Weather</p>
+            <p>January 20,</p>
+            <p>went AM</p>
+            <p>got a letter<unclear reason="illegible" resp="IH">from</unclear>Ann</p>
+            <pb n="16" facs="0012_002554_000201_0029.jpg" xml:id="d3e1505"/>
+            <p>January 21, 1863.</p>
+            <p>went to City ware house</p>
+            <p>
+               <unclear reason="illegible" resp="PW">did not</unclear>
+            </p>
+            <p>January 22,</p>
+            <p>Went to the City got 33 bales of Hay</p>
+            <p>got letter<unclear reason="illegible" resp="PW"> H - &amp; Ann</unclear>
+            </p>
+            <p>Pleasant</p>
+            <p>January 23,</p>
+            <p>Went to town for forage</p>
+            <p>Cloudy</p>
+            <pb n="17" facs="0012_002554_000201_0030.jpg" xml:id="d3e1533"/>
+            <p>January 24, 1863.</p>
+            <p>Laid in Camp</p>
+            <p>Cloudy</p>
+            <p>January 25,</p>
+            <p>Went to Town for forage</p>
+            <p>rainey</p>
+            <p>January 26,</p>
+            <p>Laid in Camp</p>
+            <p>Rained all day</p>
+            <pb n="18" facs="0012_002554_000201_0031.jpg" xml:id="d3e1555"/>
+            <p>January 27, 1863.</p>
+            <p>Laid in Camp</p>
+            <p>pleasant</p>
+            <p>January 28,</p>
+            <p>Went to town for forage 20 teams</p>
+            <p>Cold froze</p>
+            <p>January 29,</p>
+            <p>laid in Camp</p>
+            <p>Wrote to Wife &amp; Hor</p>
+            <p>pleasant</p>
+            <pb n="19" facs="0012_002554_000201_0032.jpg" xml:id="d3e1580"/>
+            <p>January 30, 1863.</p>
+            <p>Laid in Camp</p>
+            <p>at night went to the regiment</p>
+            <p>Pleasant</p>
+            <p>January 31,</p>
+            <p>went to Memphis with 25 teams for forage</p>
+            <p>rained all night</p>
+            <p>February 1,</p>
+            <p>Laid in camp</p>
+            <p>pleasant</p>
+            <p>wrote to father</p>
+            <pb n="20" facs="0012_002554_000201_0033.jpg" xml:id="d3e1607"/>
+            <p>February 2, 1863.</p>
+            <p>Laid in Camp</p>
+            <p>Recieved letter from Ann</p>
+            <p>pleasant</p>
+            <p>February 3,</p>
+            <p>laid in Camp</p>
+            <p>pleasant</p>
+            <p>February 4,</p>
+            <p>went to Memphis</p>
+            <p>snowed all night</p>
+            <pb n="21" facs="0012_002554_000201_0034.jpg" xml:id="d3e1632"/>
+            <p>February 5, 1863.</p>
+            <p>laid in Camp</p>
+            <p>Snowed &amp; cold</p>
+            <p>wrote to wife</p>
+            <p>February 6,</p>
+            <p>Went to forage</p>
+            <p>Cool</p>
+            <p>February 7,</p>
+            <p>Went for Clothing</p>
+            <pb n="22" facs="0012_002554_000201_0035.jpg" xml:id="d3e1654"/>
+            <p>February 8, 1863.</p>
+            <p>Laid in Camp</p>
+            <p>Cloudy &amp; cool</p>
+            <p>February 9,</p>
+            <p>went to Memphis for Clothing</p>
+            <p>Moved Head Quarters one mile from Memphis</p>
+            <p>February 10,</p>
+            <p>Went to town for forage</p>
+            <p>bad weather</p>
+            <pb n="23" facs="0012_002554_000201_0036.jpg" xml:id="d3e1677"/>
+            <p>February 11, 1863.</p>
+            <p>Went to town for Hay Coal &amp; Q M Stores</p>
+            <p>bad weather</p>
+            <p>February 12,</p>
+            <p>Went to town for <unclear reason="illegible" resp="PW">Tn</unclear>
+Cloudy <unclear reason="illegible" resp="PW">bamvas</unclear>
+            </p>
+            <p>February 13,</p>
+            <p>Laid in camp</p>
+            <p>Cloudy</p>
+            <pb n="24" facs="0012_002554_000201_0037.jpg" xml:id="d3e1702"/>
+            <p>February 14, 1863.</p>
+            <p>Laid in Camp</p>
+            <p>pleasant</p>
+            <p>February 15,</p>
+            <p>went to town for Hay.</p>
+            <p>pleasant</p>
+            <p>February 16,</p>
+            <p>went to town for grain</p>
+            <p>pleasant</p>
+            <pb n="25" facs="0012_002554_000201_0038.jpg" xml:id="d3e1724"/>
+            <p>February 17, 1863.</p>
+            <p>went to town for blanks</p>
+            <p>rain</p>
+            <p>February 18,</p>
+            <p>went to town for Clothing</p>
+            <p>Coal</p>
+            <p>rainey</p>
+            <p>February 19,</p>
+            <p>went to town for Hay</p>
+            <p>pleasant</p>
+            <pb n="26" facs="0012_002554_000201_0039.jpg" xml:id="d3e1749"/>
+            <p>Febrary 20, 1863.</p>
+            <p>went to town for Corn</p>
+            <p>wrote to wife 20 <unclear reason="illegible" resp="PW">$</unclear>
+   pleasant</p>
+            <p>February 21,</p>
+            <p>Laid in camp</p>
+            <p>rainey</p>
+            <p>February 22,</p>
+            <p>Laid in Camp</p>
+            <p>turned the teams over to Hurlbut</p>
+            <p>pleasant</p>
+            <pb n="27" facs="0012_002554_000201_0040.jpg" xml:id="d3e1777"/>
+            <p>February 23, 1863.</p>
+            <p>went to town for tents</p>
+            <p>Waiting  W. home</p>
+            <p>Cap   A though</p>
+            <p>pleasant</p>
+            <p>February 24,</p>
+            <p>Turned over to the Post 48 animals</p>
+            <p>pleasant</p>
+            <p>February 25,</p>
+            <p>rained all day went to town &amp; turned over 2 miners &amp; 20 Harness</p>
+            <pb n="28" facs="0012_002554_000201_0041.jpg" xml:id="d3e1802"/>
+            <p>February 26, 1863</p>
+            <p>Laid in Camp</p>
+            <p>pleasant</p>
+            <p>February 27,</p>
+            <p>Went to town for Hay got 74 bales</p>
+            <p>very pleasant</p>
+            <p>February 28,</p>
+            <p>went to town with 18 teams but got no load</p>
+            <p>very pleasant</p>
+            <pb n="29" facs="0012_002554_000201_0042.jpg" xml:id="d3e1824"/>
+            <p>March 1, 1863</p>
+            <p>Moved in to Memphis &amp; went board the Steamer <unclear reason="illegible" resp="JMN">Sirpemon</unclear>
+            </p>
+            <p>March 2,</p>
+            <p>turned over to the post 88 Mules 16 horses load ed on the teams</p>
+            <p>very pleasant</p>
+            <p>March 3</p>
+            <p>loaded on Comisary Stores</p>
+            <p>Left Memphis at 6 o clock for lake Providence</p>
+            <p>pleasant</p>
+            <pb n="30" facs="0012_002554_000201_0043.jpg" xml:id="d3e1848"/>
+            <p>March 4, 1863</p>
+            <p>Landed 3 miles north of, Louisania line in Arkansas near Grand lake at Sun down.</p>
+            <p>very pleasant</p>
+            <p>March 5</p>
+            <p>Staid on Shore <unclear reason="illegible" resp="JMN">keanas turning</unclear>
+   peach trees in bloom</p>
+            <p>pleasant</p>
+            <p>March 6</p>
+            <p>Laid in Camp</p>
+            <p>Cloudy &amp; warm</p>
+            <pb n="31" facs="0012_002554_000201_0044.jpg" xml:id="d3e1873"/>
+            <p>March 7, 1863</p>
+            <p>at 3 o clock the divis</p>
+            <p>Started up the river</p>
+            <p>March 8,</p>
+            <p>arrived at Hellena at Sun down  Cold &amp; foggy.</p>
+            <p>March 9,</p>
+            <p>Rained Hard all day Laid on <unclear reason="illegible" resp="PW">Grone</unclear>
+       4 miles below Hellena Got a letter from Ann.</p>
+            <p>wrote home</p>
+            <pb n="32" facs="0012_002554_000201_0045.jpg" xml:id="d3e1896"/>
+            <p>March 10, 1863.</p>
+            <p>pleasant  Illness</p>
+            <p>Hay &amp; grain</p>
+            <p>March 11,</p>
+            <p>Went up to hellena the Superior went off &amp; I Staid on the
+   <unclear reason="illegible" resp="JMN">primadona</unclear>
+            </p>
+            <p>very Pleasant</p>
+            <p>March 12,</p>
+            <p>Laid on Shore drew raitons for 30 days</p>
+            <p>Loaded on the Primadona</p>
+            <p>pleasant</p>
+            <pb n="33" facs="0012_002554_000201_0046.jpg" xml:id="d3e1923"/>
+            <p>March 13, 1863.</p>
+            <p>Went up to Hellena. pleasant</p>
+            <p>Loaded the teams on the <unclear reason="illegible" resp="PW">AreEli Steam</unclear> 
+   Worked All Night</p>
+            <p>March 14,</p>
+            <p>pleasant</p>
+            <p>started down the Yazoo pass at 8 o &apos; cl the Stream 70 feet wide at noon</p>
+            <p>stops- to take down the pipes two Mile from Moon<unclear reason="illegible" resp="JMN">lost</unclear> but did not
+       went 10 miles</p>
+            <p>March 15,</p>
+            <p>pleasant</p>
+            <p>traveled about 8 miles the stream very difficult to navigate</p>
+            <p>tied up for the night near a plantation passed</p>
+            <pb n="34" facs="0012_002554_000201_0047.jpg" xml:id="d3e1957"/>
+            <p>March 16, 1863.</p>
+            <p>was coming down the <unclear reason="illegible" resp="PW">Sun frower</unclear>pleasant</p>
+            <p>very warm</p>
+            <p>March 17</p>
+            <p>arrived in cold water at three o clock</p>
+            <p>very warm took the <unclear reason="illegible" resp="JMN">stack as hom</unclear>
+            </p>
+            <p>March 18</p>
+            <p>waited for the fleet to come up</p>
+            <pb n="35" facs="0012_002554_000201_0048.jpg" xml:id="d3e1982"/>
+            <p>March 19, 1863.</p>
+            <p>Started down the cold water  very pleasant &amp; warm</p>
+            <p>passed the gun boat Price</p>
+            <p>March 20,</p>
+            <p>on the boat going down the river</p>
+            <p>March 21,</p>
+            <p>on the way down the Cold water got to the Tallahatchee at 6 o &apos; clock</p>
+            <p>passed the <unclear reason="illegible" resp="JMN">22-32-33-36</unclear> Iowa regmts &amp; 4 gun
+   Boats going to Hellena</p>
+            <pb n="36" facs="0012_002554_000201_0049.jpg" xml:id="d3e2005"/>
+            <p>March 22, 1863.</p>
+            <p>Still going down the Tallahatchee</p>
+            <p>Cloudy a very dull day</p>
+            <p>rained all night</p>
+            <p>March 23,</p>
+            <p>Arrived within 4 miles of the R.Bat &amp; tied up</p>
+            <p>rained all day</p>
+            <p>tok 14 prisoners</p>
+            <p>March 24,</p>
+            <p>Was sick did not do any thing</p>
+            <p>rained all day ordely Tipton was Shot</p>
+            <pb n="37" facs="0012_002554_000201_0050.jpg" xml:id="d3e2032"/>
+            <p>March 25, 1863.</p>
+            <p>onloaded the waggons &amp; Hawled wood for the Boats</p>
+            <p>wrote to wife</p>
+            <p>pleasant</p>
+            <p>March 26,</p>
+            <p>Laid in camp</p>
+            <p>pleasant</p>
+            <p>March 27,</p>
+            <p>gen 2 two <unclear reason="illegible" resp="PW">Regs</unclear> Same Battery &amp;
+   Cavelry gone out reconorttring</p>
+            <p>rained at night</p>
+            <pb n="38" facs="0012_002554_000201_0051.jpg" xml:id="d3e2060"/>
+            <p>March 28, 1863.</p>
+            <p>Laid in camp</p>
+            <p>go a letter from Harrison &amp; Ella</p>
+            <p>wrote to Ella</p>
+            <p>rained at night</p>
+            <p>March 29,</p>
+            <p>Laid in Camp</p>
+            <p>very Cold</p>
+            <p>got a letter from wife &amp; answered it</p>
+            <p>March 30,</p>
+            <p>Laid in Camp</p>
+            <p>very Cold heavy frost at night</p>
+            <pb n="39" facs="0012_002554_000201_0052.jpg" xml:id="d3e2089"/>
+            <p>March 31, 1863.</p>
+            <p>pleasant nothing transpired of note</p>
+            <p>April 1,</p>
+            <p>very pleasant</p>
+            <p>Laid in Camp</p>
+            <p>April 2,</p>
+            <p>do nothing of importance</p>
+            <p>5th grey arrived at our Camp</p>
+            <p>Skermishing &amp; canonadeing in the distance</p>
+            <pb n="40" facs="0012_002554_000201_0053.jpg" xml:id="d3e2111"/>
+            <p>April 3, 1863.</p>
+            <p>Staid in camp</p>
+            <p>pleasant &amp; warm</p>
+            <p>April 4,</p>
+            <p>pleasant</p>
+            <p>at night loaded the teams on the Duke Argyle</p>
+            <p>April 5,</p>
+            <p>Started up the river for Hellena  Abandoned the yazoo Expadition</p>
+            <p>The Cheese Man fired into her  Cap Killed</p>
+            <pb n="41" facs="0012_002554_000201_0054.jpg" xml:id="d3e2133"/>
+            <p>April 6, 1863.</p>
+            <p>going up the Tallahatchie. Tthe Tecumsa fired into Tis with reluctance
+   that Gen Quimby returnes up the pass but he has to abay orders of Superiors</p>
+            <p>by <unclear reason="illegible" resp="IH">relines</unclear> up the pass</p>
+            <p>April 7,</p>
+            <p>very pleasant</p>
+            <p>arrived at the mouth of Cold Water</p>
+            <p>April 8,</p>
+            <p>tied up at the mouth of Sun flower</p>
+            <p>en</p>
+            <pb n="42" facs="0012_002554_000201_0055.jpg" xml:id="d3e2158"/>
+            <p>April 9, 1863.</p>
+            <p>pleasant going up</p>
+            <p>
+               <unclear reason="illegible" resp="PW">ltn</unclear> sun flower</p>
+            <p>April 10,</p>
+            <p>got 3 letters from <unclear reason="illegible" resp="IH">Ann</unclear>
+            </p>
+            <p>arrived at Hellena at moon of safe - </p>
+            <p>wrote to father &amp; wife</p>
+            <p>pleasant</p>
+            <p>April 11,</p>
+            <p>Laid in Camp 4 miles below Hellena</p>
+            <p>rained all night</p>
+            <pb n="43" facs="0012_002554_000201_0056.jpg" xml:id="d3e2189"/>
+            <p>April 12, 1863</p>
+            <p>Went to Hellena to turn over mules</p>
+            <p>very pleasant</p>
+            <p>April 13</p>
+            <p>The 1st &amp; 3d Brig left here for lake providence</p>
+            <p>rained hard all night</p>
+            <p>April 14</p>
+            <p>Lt Hurlbut went to Memphis</p>
+            <p>Still rains &amp; is cold</p>
+            <pb n="44" facs="0012_002554_000201_0057.jpg" xml:id="d3e2211"/>
+            <p>April 15, 1863</p>
+            <p>Went to Hellena</p>
+            <p>got a letter from wife  Been unwell for Sometime with the Cronic diareah</p>
+            <p>April 16</p>
+            <p>Head Quarters &amp; 2</p>
+            <p>Brig left Camp in Hellena for</p>
+            <p>So Providence at 4. pm.</p>
+            <p>April 17</p>
+            <p>passed Lake Providence at 4 pm</p>
+            <p>Arrived at Millikens Bend in the night</p>
+            <pb n="45" facs="0012_002554_000201_0058.jpg" xml:id="d3e2237"/>
+            <p>April 18, 1863</p>
+            <p>went to the reg Haspatal sick with the Billious feever</p>
+            <p>Rained at night very hard</p>
+            <p>April 19</p>
+            <p>Drew Six months pay $83.20</p>
+            <p>very pleasant day</p>
+            <p>April 20</p>
+            <p>wrote to Ann</p>
+            <p>pleasant</p>
+            <pb n="46" facs="0012_002554_000201_0059.jpg" xml:id="d3e2259"/>
+            <p>April 21, 1863</p>
+            <p>Sent home $125.</p>
+            <p>rained</p>
+            <p>April 22</p>
+            <p>Several Trans-ports run the Blockade.</p>
+            <p> Heavy Canonading all night</p>
+            <p>April 23</p>
+            <p>Nothing of note</p>
+            <p>Co Mathies got his papers as Brig gen</p>
+            <pb n="47" facs="0012_002554_000201_0060.jpg" xml:id="d3e2281"/>
+            <p>April 24, 1860</p>
+            <p>Came to this con-valescent hospital Crystol Palace</p>
+            <p>there is 700 sick on board -9-died - to day</p>
+            <p>April 25</p>
+            <p>There is not nourses</p>
+            <p>Enough food rather hard for a Sick man</p>
+            <p>April 26</p>
+            <p>wrote to Sister Ann</p>
+            <p>Took a Bathe</p>
+            <p>rained at night</p>
+            <pb n="48" facs="0012_002554_000201_0061.jpg" xml:id="d3e2306"/>
+            <p>April 27</p>
+            <p>Damp Some rain</p>
+            <p>Apr 28</p>
+            <p>one of the large gunboats went down the river.</p>
+            <p>Took a long walk</p>
+            <p>April 29</p>
+            <p>took a walk</p>
+            <p>wrote to wife</p>
+            <p>very pleasant</p>
+            <pb n="49" facs="0012_002554_000201_0062.jpg" xml:id="d3e2328"/>
+            <p>April 30, 1863</p>
+            <p>gun Boats all went up the Yazoo</p>
+            <p>Heavy fireing all day</p>
+            <p>May 1</p>
+            <p>very warm the water is falling fast</p>
+            <p>Still in Hos. do not gain very much</p>
+            <p>May 2</p>
+            <p>nothing of interest Still in the Haspatal</p>
+            <p>not gaining very fast</p>
+            <pb n="50" facs="0012_002554_000201_0063.jpg" xml:id="d3e2350"/>
+            <p> May 3, 1863</p>
+            <p>very warm had <unclear reason="illegible" resp="JN">Preaching</unclear> on
+   the Bank at night</p>
+            <p>May 4</p>
+            <p>very warm</p>
+            <p>J Brown died to day</p>
+            <p>got discharged from Hospatal</p>
+            <p>May 5</p>
+            <p>Came to HQr</p>
+            <p>very pleasant</p>
+            <pb n="51" facs="0012_002554_000201_0064.jpg" xml:id="d3e2375"/>
+            <p>May 6, 1863</p>
+            <p>very cold</p>
+            <p>wrote to sister Ann</p>
+            <p>May 7</p>
+            <p>wrote to wife</p>
+            <p>May 8</p>
+            <pb n="52" facs="0012_002554_000201_0065.jpg" xml:id="d3e2391"/>
+            <p>May 9, 1863</p>
+            <p>May 10</p>
+            <p>May 11</p>
+            <pb/>
+            <p>May 12, 1863</p>
+            <p>May 13</p>
+            <p>May 14</p>
+            <pb n="54" facs="0012_002554_000201_0102.jpg" xml:id="d3e2411"/>
+            <p>Aug 30</p>
+            <p>A H Pierce Enlisted under D E Huse in 6th Iowa 5 11, I.C.C.</p>
+            <p>Aug 31</p>
+            <p>Washington Iowa</p>
+            <p>Went home to Columbus City</p>
+            <p>rainey</p>
+            <pb n="55" facs="0012_002554_000201_0103.jpg" xml:id="d3e2427"/>
+            <p>Sept. 1, 1862</p>
+            <p>Left home for davenport at 8, PM</p>
+            <p>arived at Camp</p>
+            <p>Sept. 2,</p>
+            <p>Was Examed and Passed</p>
+            <p>Weather fine</p>
+            <p>Sept. 3,</p>
+            <p>drew my uniform and made Application for a Pass</p>
+            <pb n="56" facs="0012_002554_000201_0104.jpg" xml:id="d3e2448"/>
+            <p>Sept. 4, 1862</p>
+            <p>at night rain</p>
+            <p>Sept. 5,</p>
+            <p>rain</p>
+            <p>Sept. 6,</p>
+            <p>rainey</p>
+            <pb n="57" facs="0012_002554_000201_0105.jpg" xml:id="d3e2464"/>
+            <p>Sept. 7, 1862</p>
+            <p>pleasant</p>
+            <p>Sept. 8,</p>
+            <p>pleasant</p>
+            <p>Sept. 9,</p>
+            <p>went to town</p>
+            <p>pleasant</p>
+            <pb n="58" facs="0012_002554_000201_0106.jpg" xml:id="d3e2482"/>
+            <p>Sept. 10, 1862</p>
+            <p>pleasant &amp; warm</p>
+            <p>Sept. 11,</p>
+            <p>Stood on Gard</p>
+            <p>Rainey</p>
+            <p>Sept. 12,</p>
+            <p>Pleasant</p>
+            <pb n="59" facs="0012_002554_000201_0107.jpg" xml:id="d3e2500"/>
+            <p>Sept. 13, 1862</p>
+            <p>Stood on Guard</p>
+            <p>Pleasant</p>
+            <p>Sept. 14,</p>
+            <p>Brass band plaied in Camp</p>
+            <p>Pleasant</p>
+            <p>Sept. 15,</p>
+            <p>Pleasant</p>
+            <pb n="60" facs="0012_002554_000201_0108.jpg" xml:id="d3e2520"/>
+            <p>Sept. 16, 1862</p>
+            <p>Cloudy</p>
+            <p>Sept. 17,</p>
+            <p>recieved a letter from Sister Ann</p>
+            <p>rains</p>
+            <p>Sept. 18,</p>
+            <p>Made 2 tables &amp; Cubboard for Capt Suttles</p>
+            <p>Pleasant</p>
+            <pb n="61" facs="0012_002554_000201_0109.jpg" xml:id="d3e2540"/>
+            <p>Sept. 19, 1862</p>
+            <p>recieved a letter from father &amp; one from my wife</p>
+            <p>Pleasant</p>
+            <p>Sept. 20,</p>
+            <p>Stood guard</p>
+            <p>very pleasant</p>
+            <p>Sept. 21,</p>
+            <p>had grand inspection  brass band plaied</p>
+            <p>Very Pleasant</p>
+            <pb n="62" facs="0012_002554_000201_0110.jpg" xml:id="d3e2562"/>
+            <p>Sept. 22, 1862</p>
+            <p>Pleasant</p>
+            <p>Sept. 23,</p>
+            <p>Pleasant</p>
+            <p>Sept. 24,</p>
+            <p>Pleasant</p>
+            <pb n="63" facs="0012_002554_000201_0111.jpg" xml:id="d3e2578"/>
+            <p>Sept. 25, 1862</p>
+            <p>Went to the fair</p>
+            <p>Tom Hine troted a mile in 2.81</p>
+            <p>Bashaw was the next best Horse</p>
+            <p>Pleasent</p>
+            <p>Sept. 26,</p>
+            <p>Pleasant</p>
+            <p>Sept. 27,</p>
+            <p>Recvd letter from HHP</p>
+            <p>Pleasant</p>
+            <pb n="64" facs="0012_002554_000201_0112.jpg" xml:id="d3e2603"/>
+            <p>Camp McClellan</p>
+            <p>Sept. 28, 1862</p>
+            <p>Visited the forts in Rock Iland</p>
+            <p>Brass Band plaid at Camp McClellan</p>
+            <p>pleasant &amp; warm</p>
+            <p>Sept. 29,</p>
+            <p>275 men</p>
+            <p>the cavelry left here for St. Louis</p>
+            <p>I am Supervisi-nerary Guard</p>
+            <p>Cloudy rain AM</p>
+            <p>Sept. 30,</p>
+            <p>rainier</p>
+            <pb n="65" facs="0012_002554_000201_0113.jpg" xml:id="d3e2632"/>
+            <p>October 1, 1862</p>
+            <p>rainey</p>
+            <p>October 2,</p>
+            <p>One of our men died</p>
+            <p>Wached with the Corps</p>
+            <p>Cloudy some rain</p>
+            <p>in night &amp; very <unclear reason="illegible" resp="NH">heavy</unclear>
+            </p>
+            <p>October 3,</p>
+            <p>Pleasant</p>
+            <pb n="66" facs="0012_002554_000201_0114.jpg" xml:id="d3e2656"/>
+            <p>October 4, 1862</p>
+            <p>Was Corp of Guard</p>
+            <p>got a letter from <unclear reason="illegible" resp="NH">Anne</unclear>
+            </p>
+            <p>pleasant</p>
+            <p>October 5,</p>
+            <p>Band plays hine</p>
+            <p>Went to town in Eve</p>
+            <p>Very pleasant</p>
+            <p>October 6,</p>
+            <p>
+               <unclear reason="illegible" resp="NH">3 Cavay oring wondied</unclear>
+            </p>
+            <p>went to town in Eve</p>
+            <p>Pleasant</p>
+            <pb n="67" facs="0012_002554_000201_0115.jpg" xml:id="d3e2689"/>
+            <p>October 7, 1862</p>
+            <p>Capt Spittler refused to give a pass from events go to my 
+   <unclear reason="illegible" resp="NH">Sist</unclear>family</p>
+            <p>Pleasant windy</p>
+            <p>October 8,</p>
+            <p>raine</p>
+            <p>October 9,</p>
+            <p>Went to town &amp; herd C C <unclear reason="illegible" resp="NH">Nourse</unclear>
+   discuss the Issue of the present afairs in our coun-try</p>
+            <p>was well paid for attending</p>
+            <p>Cloudy</p>
+            <pb n="68" facs="0012_002554_000201_0116.jpg" xml:id="d3e2717"/>
+            <p>October 10, 1862</p>
+            <p>Very Cold</p>
+            <p>October 11,</p>
+            <p>Pleasant</p>
+            <p>October 12,</p>
+            <p>pleasant</p>
+            <pb n="69" facs="0012_002554_000201_0117.jpg" xml:id="d3e2733"/>
+            <p>October 13, 1862</p>
+            <p>Pleasant</p>
+            <p>October 14,</p>
+            <p>125 men left of <unclear reason="illegible" resp="NH">Dixie</unclear>
+            </p>
+            <p>Election in camp</p>
+            <p>Republican 320</p>
+            <p>rebels     140</p>
+            <p>majority  1,80</p>
+            <p>Pleasant</p>
+            <p>October 15,</p>
+            <p>Cap Spittler for Mahony</p>
+            <p>Went to town</p>
+            <p>Pleasant</p>
+            <pb n="70" facs="0012_002554_000201_0118.jpg" xml:id="d3e2766"/>
+            <p>October 16, 1862</p>
+            <p>got a letter from Ann</p>
+            <p>Pleasant</p>
+            <p>October 17,</p>
+            <p>Recieved a box from home</p>
+            <p>Pleasant</p>
+            <p>October 18,</p>
+            <p>Pleasant</p>
+            <pb n="71" facs="0012_002554_000201_0119.jpg" xml:id="d3e2786"/>
+            <p>October 19, 1862</p>
+            <p>Corpl of the Guard</p>
+            <p>Brass band plaid here today</p>
+            <p>Very Pleasant</p>
+            <p>October 20,</p>
+            <p>Pleasant Windy</p>
+            <p>October 21,</p>
+            <p>Pleasant Windy</p>
+            <pb n="72" facs="0012_002554_000201_0120.jpg" xml:id="d3e2806"/>
+            <p>October 22, 1862</p>
+            <p>Cool but Pleas</p>
+            <p>October 23,</p>
+            <p>Went home found folks well</p>
+            <p>Cold</p>
+            <p>October 24,</p>
+            <p>Very Cold</p>
+            <pb n="73" facs="0012_002554_000201_0121.jpg" xml:id="d3e2824"/>
+            <p>October 25, 1862</p>
+            <p>Returned to camp</p>
+            <p>McClellan on furlough</p>
+            <p>very Cold</p>
+            <p>October 26,</p>
+            <p>Leaft Camp McClellan</p>
+            <p>
+               <unclear reason="illegible" resp="NH">5 8th 11th 3rd</unclear>
+            </p>
+            <p>Recieved bounty 25$</p>
+            <p>&quot;   premium 4$</p>
+            <p>Sent 25 dollars home</p>
+            <p>Pleasant but cool</p>
+            <p>October 27,</p>
+            <p>Very Pleasant passed Burlington in the night</p>
+            <p>got to Keo Kuk at dark</p>
+            <pb n="74" facs="0012_002554_000201_0122.jpg" xml:id="d3e2858"/>
+            <p>October 28, 1862</p>
+            <p>passed Quincy</p>
+            <p>October 29,</p>
+            <p>Sunrise arrived at <unclear reason="illegible" resp="NH">St Louis</unclear>
+            </p>
+            <p>Saw Hosford</p>
+            <p>went aboard the boat</p>
+            <p>New whole <unclear reason="illegible" resp="NH">Same</unclear> to go</p>
+            <p>to Columbus Ky</p>
+            <p>very pleasant</p>
+            <p>Oct. 30</p>
+            <p>Staid at St. Louis</p>
+            <p>went &amp; staid with Hosford</p>
+            <p>We had a good visit.</p>
+            <pb n="75" facs="0012_002554_000201_0123.jpg" xml:id="d3e2894"/>
+            <p>Oct 31, 1862</p>
+            <p>Started from St. Le</p>
+            <p>at 8 o&apos;clock about 3 miles be low we passed Carondelet where they
+   were making Several Iron clad Boats.</p>
+            <p>November 1,</p>
+            <p>7 o&apos;clock arrived at Cape Jerid some 40 miles above Cairo wery pleasant</p>
+            <p>arrived at Cairo at 2 o &apos; c</p>
+            <p>left Cairo at 4 o &apos; clock P.M.</p>
+            <p>arrived at Colinia at 7 o&apos;c</p>
+            <p>Staid on the boat then</p>
+            <p>
+               <unclear reason="illegible" resp="NH">ft</unclear> House was set fire</p>
+            <p>November 2,</p>
+            <p>left Columbus K. at 8</p>
+            <p>for 10 miles out, heavy timber very level &amp; wet</p>
+            <p>Union City Tenn. 28mi</p>
+            <p>11 o c <unclear reason="illegible" resp="NH">obine</unclear> Co fortified</p>
+            <p>arrived at Corinth at 7 P.M.</p>
+            <p>very Pleasant</p>
+            <pb n="76" facs="0012_002554_000201_0124.jpg" xml:id="d3e2938"/>
+            <p>Nov. 3, 1862</p>
+            <p>Went to Camp found Charles well  went out over the battle
+   ground &amp; the grave yard</p>
+            <p>very warm Pleas &apos;</p>
+            <p>this Place strongly fort</p>
+            <p>November 4,</p>
+            <p>Very pleasant- heavy frost ice 1/4 inch</p>
+            <p>200 prisoners came in</p>
+            <p>November 5,</p>
+            <p>went out after water</p>
+            <p>
+               <unclear reason="illegible" resp="NH">fased</unclear> cold night</p>
+            <pb n="77" facs="0012_002554_000201_0125.jpg" xml:id="d3e2965"/>
+            <p>Nov., 6 1862</p>
+            <p>Cold ice 1/2 inch thick</p>
+            <p>
+               <unclear reason="illegible" resp="NH">fone</unclear>
+            </p>
+            <p>November 7,</p>
+            <p>very windy &amp; dusty</p>
+            <p>laid in camp</p>
+            <p>November 8,</p>
+            <p>Cool but pleasant</p>
+            <p>left Corinth for grand junction at 2 o &apos; clock. We camped
+   10 miles north of corinth in a corn field at <unclear reason="illegible" resp="NH">gosolack</unclear>
+            </p>
+            <p>very cold at night and frost</p>
+            <pb n="78" facs="0012_002554_000201_0126.jpg" xml:id="d3e2994"/>
+            <p>Nov. 9, 1862</p>
+            <p>Started at Sun rise</p>
+            <p>passed through purdy at 2 o &apos; clock &amp; Bethel at 5 o &apos; clock</p>
+            <p>Campt 5 miles west of Bethel Camp 5 miles west of Bethel froze</p>
+            <p>Nov. 10,</p>
+            <p>
+               <unclear reason="illegible" resp="NH">I hhat</unclear> night started at Gol
+   passed through some good country. there is Pine Chesnut &amp; Oak timber</p>
+            <p>Campt at a Steam mill 9 miles from Bolivar  Pleasant</p>
+            <p>Nov. 11,</p>
+            <p>Started at 6 o &apos; clock</p>
+            <p>Pased through Bolivar about noon. This is a prety place. 
+   plenty of <unclear reason="illegible" resp="NH">niy</unclear>
+            </p>
+            <p>Campt 5 miles west of Bolivar. Pleasant but very dusty</p>
+            <p>rained all night</p>
+            <pb n="79" facs="0012_002554_000201_0127.jpg" xml:id="d3e3027"/>
+            <p>Nov. 12, 1862</p>
+            <p>Started at 7 o &apos; clock</p>
+            <p>passed Some good plantations but the Boys made the
+   things along the road suffer. Cloudy</p>
+            <p>Campt at Grand Junc</p>
+            <p>Nov. 13,</p>
+            <p>Started at 8 o &apos; clock</p>
+            <p>Very pleasant arrived at camp on Davis Creek Miss. found
+   George fat and Saucy as ever. this is a pleasant place.</p>
+            <p>Nov. 14,</p>
+            <p>Very warm and pleasant in Camp near Davis Creek</p>
+            <p>A waiting to have the R.R. bridges re bilt that the
+   Rebels burnt</p>
+            <p>Wrote to Ann</p>
+            <pb n="80" facs="0012_002554_000201_0128.jpg" xml:id="d3e3054"/>
+            <p>Nov. 15, 1862</p>
+            <p>very warm</p>
+            <p>George &amp; I washed</p>
+            <p>this is a pleasant day</p>
+            <p>wrote a letter to Wille. we ar campt
+   near a nice church</p>
+            <p>Nov. 16,</p>
+            <p>went on grand review  Saw U S</p>
+            <p>Grant. Went to church.</p>
+            <p>rained at night</p>
+            <p>Nov. 17,</p>
+            <p>Started on a March</p>
+            <p>passed through Lagrange at Noon.</p>
+            <p>rained all the after noon Campt 7 
+   miles west of Lagrange.</p>
+            <pb n="81" facs="0012_002554_000201_0129.jpg" xml:id="d3e3085"/>
+            <p>Nov. 18, 1862</p>
+            <p>Started at day light</p>
+            <p>Cloudy. Stopt at moscow for diner</p>
+            <p>Campt at Moscow 10 miles from Laagrange</p>
+            <p>rained all night</p>
+            <p>Nov. 19,</p>
+            <p>very pleasant our regiment gone forageing</p>
+            <p>recvd a letter from wife - father &amp; Sister</p>
+            <p>Nov. 20,</p>
+            <p>wrote to father drilled</p>
+            <p>pleasant</p>
+            <p>wrote to wife</p>
+            <pb n="82" facs="0012_002554_000201_0130.jpg" xml:id="d3e3114"/>
+            <p>Nov. 21, 1862</p>
+            <p>heavy frost</p>
+            <p>Stood guard</p>
+            <p>66 mules and 11 men of our division
+           taken prisoners</p>
+            <p>Nov. 22,</p>
+            <p>washed</p>
+            <p>Pleasant</p>
+            <p>Nov. 23,</p>
+            <p>went to church</p>
+            <p>recieved a letter from Harrison &amp; James</p>
+            <p>Pleasant</p>
+            <pb n="83" facs="0012_002554_000201_0131.jpg" xml:id="d3e3141"/>
+            <p>Nov. 24, 1862</p>
+            <p>Pleasant &amp; warm</p>
+            <p>Nov. 25,</p>
+            <p>Cloudy &amp; cool</p>
+            <p>Nov. 26,</p>
+            <p>wrote to Mr James</p>
+            <p>&quot; &quot; wife</p>
+            <p>on guard</p>
+            <p>very pleasant</p>
+            <pb n="84" facs="0012_002554_000201_0132.jpg" xml:id="d3e3163"/>
+            <p>No. 27, 1862</p>
+            <p>
+               <unclear reason="illegible" resp="NH">Yanky win grp</unclear>
+            </p>
+            <p>went to Church</p>
+            <p>Nov. 28,</p>
+            <p>commenced to drive Brigade team</p>
+            <p>Started on a march to Holly Springs</p>
+            <p>Slept in the road</p>
+            <p>very Pleasant</p>
+            <p>Nov. 29,</p>
+            <p>Advanced 3 miles &amp; Halted  Staid there till Sunset</p>
+            <p>We traveled till one o &apos; clock</p>
+            <p>passed Holly Springs</p>
+            <pb n="85" facs="0012_002554_000201_0133.jpg" xml:id="d3e3193"/>
+            <p>Nov. 30, 1862</p>
+            <p>laid down in the road to Sleep - Came in
+   to camp near a pond</p>
+            <p>rained all night</p>
+            <p>Dec. 1,</p>
+            <p>went to Davis Creek Station after provisions</p>
+            <p>Dec. 2,</p>
+            <p>left D Creek 45 teams</p>
+            <p>Campt at Cold Water  rained</p>
+            <p>Slept in wet blankets</p>
+            <pb n="86" facs="0012_002554_000201_0134.jpg" xml:id="d3e3215"/>
+            <p>Dec. 3, 1862</p>
+            <p>very bad roads</p>
+            <p>campt 4 miles south of Holly Springs</p>
+            <p>Dec. 4,</p>
+            <p>Came in to Head quarters near</p>
+            <p>the Tally Hatchey river</p>
+            <p>rain</p>
+            <p>Dec. 5,</p>
+            <p>went to Holly Sp</p>
+            <p>froze ground</p>
+            <p>1 in ch</p>
+            <p>Cold rain</p>
+            <pb n="87" facs="0012_002554_000201_0135.jpg" xml:id="d3e3244"/>
+            <p>Dec. 6, 1862</p>
+            <p>Cold</p>
+            <p>went to Lynn</p>
+            <p>
+               <unclear reason="illegible" resp="NH">River</unclear> Mills</p>
+            <p>Campt at the pond</p>
+            <p>Dec. 7,</p>
+            <p>came to Abbyville</p>
+            <p>campt at a creek 7 miles north of oxford</p>
+            <p>Dec. 8,</p>
+            <p>came to oxford</p>
+            <p>12 hundred prisners here</p>
+            <p>wrote to father</p>
+            <p>pleasant</p>
+            <pb n="88" facs="0012_002554_000201_0136.jpg" xml:id="d3e3277"/>
+            <p>Dec. 9, 1862</p>
+            <p>went out 8 miles &amp; got 68 bales of cotton</p>
+            <p>got a letter from Ann-
+   Ann-</p>
+            <p>pleasant.</p>
+            <p>Dec. 10,</p>
+            <p>laid in Camp</p>
+            <p>pleasant</p>
+            <p>Dec. 11,</p>
+            <p>went out 5 miles &amp; got 100 bales cotton
+   all marked C.S.A.</p>
+            <pb n="89" facs="0012_002554_000201_0137.jpg" xml:id="d3e3300"/>
+            <p>Dec. 12, 1862</p>
+            <p>Came to Hills-dale &amp; back to
+   Oxford</p>
+            <p>rainey</p>
+            <p>Dec. 13,</p>
+            <p>came to Hillsdale</p>
+            <p>camp</p>
+            <p>wrote to wife</p>
+            <p>Cloudy &amp; warm</p>
+            <p>Dec. 14,</p>
+            <p>went out 5 miles after corn to grind</p>
+            <p>warm &amp; cloudy</p>
+            <pb n="90" facs="0012_002554_000201_0138.jpg" xml:id="d3e3327"/>
+            <p>Dec. 15, 1862</p>
+            <p>laid in camp</p>
+            <p>rained all day</p>
+            <p>Dec. 16,</p>
+            <p>went to oxford for rations</p>
+            <p>pleasant cool</p>
+            <p>Dec. 17,</p>
+            <p>laid at oxford waiting for the cars</p>
+            <p>very pleasant</p>
+            <pb n="91" facs="0012_002554_000201_0139.jpg" xml:id="d3e3349"/>
+            <p>Dec. 18, 1862</p>
+            <p>went out to camp</p>
+            <p>got a letter from Home</p>
+            <p>pleasant</p>
+            <p>Dec. 19,</p>
+            <p>went after cotton- 8 miles H
+   <unclear reason="illegible" resp="NH">&amp; P2ice</unclear>
+   nice farm</p>
+            <p>wrote to wife</p>
+            <p>pleasant</p>
+            <p>Dec. 20,</p>
+            <p>Went to Oxford</p>
+            <p>Pleasant</p>
+            <pb n="92" facs="0012_002554_000201_0140.jpg" xml:id="d3e3379"/>
+            <p>Dec. 21, 1862</p>
+            <p>March back to Oxford Expected an attack</p>
+            <p>pleasant</p>
+            <p>Dec. 22,</p>
+            <p>laid in Camp was appointed Waggon
+   Master</p>
+            <p>warm &amp; fine</p>
+            <p>Dec. 23,</p>
+            <p>returned &amp; campt north of the Talla Hatchee</p>
+            <pb n="93" facs="0012_002554_000201_0141.jpg" xml:id="d3e3399"/>
+            <p>Dec. 24, 1862</p>
+            <p>went to <unclear reason="illegible" resp="NH">Lenimikins</unclear>
+   Mill.</p>
+            <p>Cloudy</p>
+            <p>Dec. 25,</p>
+            <p>Went forageing</p>
+            <p>Pleasant</p>
+            <p>Dec. 26,</p>
+            <p>Started for Memphis went</p>
+            <p>4 miles &amp; was ordered</p>
+            <p>to go to Holly Sp
+with <unclear reason="illegible" resp="PW">60</unclear>wagons</p>
+            <p>Very rainey</p>
+            <pb n="94" facs="0012_002554_000201_0142.jpg" xml:id="d3e3432"/>
+            <p>Dec. 27, 1862</p>
+            <p>went to H.S. &amp; loaded with Sick
+   &amp; went 15 miles on toward Memphis
+   &amp; overtook the train</p>
+            <p>Cloudy</p>
+            <p>Dec. 28,</p>
+            <p>Went to a creek 7 miles from Memphis</p>
+            <p>Very pleasant</p>
+            <p>Dec. 29,</p>
+            <p>went to Memphis</p>
+            <pb n="95" facs="0012_002554_000201_0143.jpg" xml:id="d3e3452"/>
+            <p>                                        580</p>
+            <p>Sept 17 MEMORANDA.<unclear reason="illegible" resp="NH">die</unclear>
+            </p>
+            <p>lunch                                    10</p>
+            <p>Postage Stps                             75</p>
+            <p>incidentals                            1 00</p>
+            <p>Paid on in Sep                         7.65</p>
+            <p>Oct.27/62 11 o &apos; clock</p>
+            <p>pased ft. Madison is a very fine city but little
+   buisness at present. The penitentiary buildings are
+   2 1/2 Stories high Surrounded by a Stone Wall 18 feet high 
+   The sentinals were walking on the top-</p>
+            <p>This boat The Canada is 175 feet long &amp; 40 ft wide it 
+   toes 3 barges 100 feet long all loaded with grain.</p>
+            <p>
+               <unclear reason="illegible" resp="NH">Manwas</unclear> Ill.
+   part of the old, Morman temple is Still Standing there</p>
+            <p>Mount Rose Iowa is a sad town we Stoped there.</p>
+            <pb n="96" facs="0012_002554_000201_0144.jpg" xml:id="d3e3483"/>
+            <p>MEMORANDA.</p>
+            <p>3 o &apos; clk</p>
+            <p>to take off Some of the load So that we could go
+   over the rappids there is 17000 Sacks of Wheat,
+   Barley &amp; oats. The cars run through this place
+   to Burlington from KeoKuk</p>
+            <p>Arrived at Keokuk at 6 o &apos; c</p>
+            <p>this is the nicest city that I have seen in Iowa it
+   contains 15,000 inhabitance  I went ashore with Mr. Mays
+   to See his brother &amp; had a good Supper, then is 2000
+   Sick &amp; wounded Soldiers there. We left in the night
+   and arrived at Quincy, Ill. at 7o &apos; c</p>
+            <p>this is a fine city contains 20,000 inhabitance is
+   noted for its coal mines</p>
+            <p>45 miles below Keokuk.</p>
+            <pb n="97" facs="0012_002554_000201_0145.jpg" xml:id="d3e3501"/>
+            <p>MEMORANDA.</p>
+            <p>Recieved of <unclear reason="illegible" resp="NH">W Sin Chothis</unclear>
+            </p>
+            <p>1 Blanket</p>
+            <p>1 over Coat</p>
+            <p>2 Shirts          146</p>
+            <p>1 pair pants      303</p>
+            <p>2 pair Drawers</p>
+            <p>1 Cap              63</p>
+            <p>1 Blouse          215</p>
+            <pb n="98" facs="0012_002554_000201_0146.jpg" xml:id="d3e3525"/>
+            <p>1862</p>
+            <p>MEMORANDA.</p>
+            <p>Oct. 28- 10 o &apos; clock</p>
+            <p>passed Hanibal 20 miles below Quincy. It is the tirmination
+   of the Hanibal &amp; St. Jo R. R.</p>
+            <p>The farm houses along the Mo Shore are mostly built of logs
+   the Shore is very bluffy &amp; light timbered. The Ill. Shore
+   is level below Hanibal &amp; heavy timbered</p>
+            <p>Louisiana Mo is a town of 1000 inhabitance a prety place with
+   a number of Tabaco factories in it</p>
+            <p>Clarksville is 12 miles</p>
+            <p>Blow we were hailed here with Several Union flags we gave
+   them a loud cheer.</p>
+            <p>this is a small place of about 3 to 500 inhab.</p>
+            <p>we arrived at a small town by the name of Westport at dark</p>
+            <pb n="99" facs="0012_002554_000201_0147.jpg" xml:id="d3e3550"/>
+            <p>MEMORANDA.</p>
+            <p>Distances from St. Louis</p>
+            <p>Alton                                                             25</p>
+            <p>Capan Gris                                                        45- 70</p>
+            <p>Clarksville                                                       35- 105</p>
+            <p>Louisiana                                                         12 117</p>
+            <p>Hannibal                                                          30 147</p>
+            <p>Quincy                                                            20 167</p>
+            <p>LaGrange                                                          10 177</p>
+            <p>Canton                                                             8 185</p>
+            <p>WarSaw &amp; Alex                                                 22 207</p>
+            <p>Keokuk                                                             5 212</p>
+            <p>Montrose &amp; <unclear reason="illegible" resp="NH">now</unclear>12 224</p>
+            <p>Ft. Madison                                                       12 236</p>
+            <p>Dallas                                                             8 244</p>
+            <p>Burlington                                                        15 256</p>
+            <p>
+               <unclear reason="illegible" resp="PW">Cquaiola</unclear>          15 274</p>
+            <p>Keithsburg                                                        12 286</p>
+            <p>New Boston                                                         7 293</p>
+            <p>Muscantine                                                        25 318</p>
+            <p>Davenport                                                         30 348</p>
+            <pb n="100" facs="0012_002554_000201_0148.jpg" xml:id="d3e3604"/>
+            <p>Oct 1862</p>
+            <p>MEMORANDA.</p>
+            <p>The river here is interSperced with isleands</p>
+            <p>We passed to today the 21 Ill. Regiment going
+   up the river</p>
+            <p>29 we arrived at alton at 4 o &apos; clock this morning</p>
+            <p>the Ill States prison is at this place there is a great
+   many cescesh prisoners it takes two reg. to guard them.</p>
+            <p>we arrived at St. Louis</p>
+            <p>at Sunrise there is about 100 Boats landing here 3 were burned down. 
+   This City looks very much like Boston the Streets are narrowr there 
+   is two double tracked <unclear reason="illegible" resp="PW">horsa</unclear>
+   in town 1 - 4 <unclear reason="illegible" resp="NH">rivers</unclear> &amp; the
+   <unclear reason="illegible" resp="PW">next 10 Best</unclear>
+            </p>
+            <pb n="101" facs="0012_002554_000201_0149.jpg" xml:id="d3e3632"/>
+            <table rows="14" cols="3">
+               <row role="data">
+                  <cell>CASH ACCOUNT, January.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+               <row role="data">
+                  <cell>25</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>47</cell>
+                  <cell>oats</cell>
+                  <cell>110</cell>
+               </row>
+               <row role="data">
+                  <cell>50</cell>
+                  <cell/>
+                  <cell>75</cell>
+               </row>
+               <row role="data">
+                  <cell>36</cell>
+                  <cell/>
+                  <cell>60</cell>
+               </row>
+               <row role="data">
+                  <cell>24</cell>
+                  <cell/>
+                  <cell>50</cell>
+               </row>
+               <row role="data">
+                  <cell>182 Hay</cell>
+                  <cell/>
+                  <cell>67</cell>
+               </row>
+               <row role="data">
+                  <cell>110 corn</cell>
+                  <cell/>
+                  <cell>73</cell>
+               </row>
+               <row role="data">
+                  <cell>65</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>60</cell>
+                  <cell/>
+                  <cell>435</cell>
+               </row>
+               <row role="data">
+                  <cell>48</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>70</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>78</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>431</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0150.jpg" xml:id="d3e3721"/>
+            <table rows="1" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, February.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0151.jpg" xml:id="d3e3735"/>
+            <table rows="1" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, March.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0152.jpg" xml:id="d3e3749"/>
+            <table rows="1" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, April.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0153.jpg" xml:id="d3e3763"/>
+            <table rows="1" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, May.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0154.jpg" xml:id="d3e3777"/>
+            <table rows="1" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, June.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0155.jpg" xml:id="d3e3791"/>
+            <table rows="1" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, July.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0156.jpg" xml:id="d3e3805"/>
+            <table rows="1" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, August.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0157.jpg" xml:id="d3e3820"/>
+            <table rows="18" cols="3">
+               <row role="data">
+                  <cell>1862 CASH ACCOUNT, September.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>$ cts</cell>
+                  <cell>$ cts</cell>
+               </row>
+               <row role="data">
+                  <cell>1 of Col B.</cell>
+                  <cell>8.00</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>10 picturs</cell>
+                  <cell/>
+                  <cell>3.25</cell>
+               </row>
+               <row role="data">
+                  <cell>11 shears</cell>
+                  <cell/>
+                  <cell>.50</cell>
+               </row>
+               <row role="data">
+                  <cell>stationary</cell>
+                  <cell/>
+                  <cell>.25</cell>
+               </row>
+               <row role="data">
+                  <cell>Postage</cell>
+                  <cell/>
+                  <cell>.15</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell>.25</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell>.35</cell>
+               </row>
+               <row role="data">
+                  <cell>Diary</cell>
+                  <cell/>
+                  <cell>.15</cell>
+               </row>
+               <row role="data">
+                  <cell>Stationary</cell>
+                  <cell/>
+                  <cell>.25</cell>
+               </row>
+               <row role="data">
+                  <cell>17 of Apr.</cell>
+                  <cell>2.00</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Postage on Pictu</cell>
+                  <cell/>
+                  <cell>.25</cell>
+               </row>
+               <row role="data">
+                  <cell>fix Pants</cell>
+                  <cell/>
+                  <cell>.15</cell>
+               </row>
+               <row role="data">
+                  <cell>washing</cell>
+                  <cell/>
+                  <cell>.10</cell>
+               </row>
+               <row role="data">
+                  <cell>2 papers</cell>
+                  <cell/>
+                  <cell>.10</cell>
+               </row>
+               <row role="data">
+                  <cell>Blacking</cell>
+                  <cell/>
+                  <cell>.5</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell>5.80</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0158.jpg" xml:id="d3e3938"/>
+            <table rows="13" cols="3">
+               <row role="data">
+                  <cell>CASH ACCOUNT, October. 1862</cell>
+               </row>
+               <row role="data">
+                  <cell>1 Cask on Hand</cell>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>2.35</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Paid for</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>BoE knife</cell>
+                  <cell/>
+                  <cell>.55</cell>
+               </row>
+               <row role="data">
+                  <cell>23 for home</cell>
+                  <cell/>
+                  <cell>1.20</cell>
+               </row>
+               <row role="data">
+                  <cell>&quot; of Payne</cell>
+                  <cell>.50</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>&quot; of Candy</cell>
+                  <cell/>
+                  <cell>.10</cell>
+               </row>
+               <row role="data">
+                  <cell>freight on Box</cell>
+                  <cell/>
+                  <cell>.50</cell>
+               </row>
+               <row role="data">
+                  <cell>25 of Ann</cell>
+                  <cell>2.00</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>2 fare to Davenport</cell>
+                  <cell/>
+                  <cell>2.40</cell>
+               </row>
+               <row role="data">
+                  <cell>Bounty</cell>
+                  <cell>25.00</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Premium</cell>
+                  <cell>4.00</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Sent home</cell>
+                  <cell/>
+                  <cell>25.00</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0159.jpg" xml:id="d3e4024"/>
+            <table rows="1" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, November.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0160.jpg" xml:id="d3e4038"/>
+            <table rows="3" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, December.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>for gloves</cell>
+                  <cell>1.00</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>&quot; Envelopes</cell>
+                  <cell>.15</cell>
+               </row>
+            </table>
+            <pb n="1" facs="0012_002554_000201_0161.jpg" xml:id="d3e4064"/>
+            <table rows="13" cols="3">
+               <row role="data">
+                  <cell> CASH ACCOUNT, Summary.</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+               <row role="data">
+                  <cell>January,........</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <pb n="102" facs="0012_002554_000201_0162.jpg" xml:id="d3e4150"/>
+            <p>
+               <unclear reason="illegible" resp="NH">Mike Hillary</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">the plsand</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">The Hill</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">H Bissnett</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">Jas Knight</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">6 flashed</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">9 W bottom</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">Il Overpine</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">11 Parker</unclear>
+            </p>
+            <p>71</p>
+            <p>4</p>
+            <pb n="103" facs="0012_002554_000201_0163.jpg" xml:id="d3e4186"/>
+            <p>
+               <unclear reason="illegible" resp="NH">Paxan Lark</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">Sam Peersone</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">HEs Bell</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">Matt Carmichle</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">C C Marentine</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">M W Kerby</unclear>
+            </p>
+            <p>W Evans</p>
+            <p>
+               <unclear reason="illegible" resp="NH">Jas Alexander</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">le Setraean</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">Tom Bille</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">oH 3-</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">enaopif</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">V O Farmantin</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="NH">P S S h groght</unclear>
+            </p>
+            <pb n="104" facs="0012_002554_000201_0164.jpg" xml:id="d3e4232"/>
+            <p>5</p>
+            <p>Jo Brumett</p>
+            <p>A Fergason</p>
+            <p>Jacb Bocher</p>
+            <p>Jas Hicks</p>
+            <p>John Oslin</p>
+            <p>Sam</p>
+            <pb n="105" facs="0012_002554_000201_0165.jpg" xml:id="d3e4250"/>
+            <p>[Numerical Calculations]</p>
+            <pb n="106" facs="0012_002554_000201_0166.jpg" xml:id="d3e4256"/>
+            <p>[Back Cover]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

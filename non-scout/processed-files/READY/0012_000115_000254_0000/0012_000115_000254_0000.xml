@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000254_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <date when="1829-07-11">1829 July 11</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">
+                  Unknown
+               </name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000254_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1829 July 11</title>
+          <date when="1829-07-11">1829 July 11</date>
+          <author>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000254_0001.jpg" xml:id="d4e38"/>
+        <p>Wilson L. Ramsey</p>
+        <p>To Bill Sale</p>
+        <p>Sundries</p>
+        <p>D Burford</p>
+        <pb n="2" facs="0012_000115_000254_0002.jpg" xml:id="d4e48"/>
+        <p>Know all men by these presents that I Wilson L. Ramsey have this day bargained and sold unto David Burford all the cherry plank and scantling which I now have at Rome; also conevey to said Burford all the plank and scantling which I have at Samuel Capligners mill consisting of about 2800 feet of poplar weatherboarding and cealing - also all my cooking utintials, house hold furniture &amp;c &amp;c. And I further agree to woork up the cherry plank which said Burford bought of Mr Moses Lawson and if I should sell any of the furniture to take the note or notes payable to said Burford: It is however understood and agreed that on any paying to said Burford about ninety dollars that then said Burford is to relinquish to said Ramsey that above property. I also agree to sell to said Burford my Saddle, Bridle, and martingill for the above purpose also: and it is further understood and agreed that said Burford may take possesion of any part or the whole of said property at any time and dispose of the same as he may think best to secure said debt.</p>
+        <p>Witness my hand and seal this 11 day of July 1829 WL Ramsey seal</p>
+        <p>S_P_ Hughes</p>
+        <p>Ro. Po. Allison</p>
+      </div>
+    </body>
+  </text>
+</TEI>

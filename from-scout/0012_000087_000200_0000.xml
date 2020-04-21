@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000087_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+William J. Helsley
+</name>
+in Chattanooga, Tenn., to Mary Helsley in Southington, Ohio,
+<date when="1864-07-23">
+1864 July 23
+</date>
+            </title>
+            <author>
+               <name type="person">Helsley, William J.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000087_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William J. Helsley in Chattanooga, Tenn. to Mary Helsley in Southington, Ohio, 1864 July 23</title>
+               <date>1864-07-23</date>
+               <author>
+                  <name>Helsley, William J.</name>
+               </author>
+               <extent>5 digital images; 0.1 linear feet; 1 envelope, 3 p.</extent>
+               <note type="abstract">In this letter, dated July 23, 1864, William J. Helsley writes to his wife Mary Helsley, informing her that he has been given &quot;detached&quot; duty at a military bridge in Chattanooga, rather than being sent to the front. He also reports that General Sherman has captured Atlanta.</note>
+               <note type="collection">William J. Helsley Letters, 1864</note>
+               <note type="manuscript">MS.1439</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Atlanta Campaign, 1864 -- Personal narratives.</term>
+               <term>Georgia -- History -- Civil War, 1861-1865 -- Campaigns.</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>Sherman, William T. (William Tecumseh), 1820-1891.</term>
+               <term>Helsley, William J. (William Jefferson) -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000087_000200_0001.jpg" xml:id="d3e151"/>
+            <p>Mrs. Mary. Helsley.</p>
+            <p>Southington,</p>
+            <p>Trumbull,</p>
+            <p>County, Ohio</p>
+            <pb n="2" facs="0012_000087_000200_0002.jpg" xml:id="d3e165"/>
+            <p>August the 16th 64</p>
+            <p>From Bill</p>
+            <p>in haste</p>
+            <p>and bring back</p>
+            <p>a letter</p>
+            <pb n="3" facs="0012_000087_000200_0003.jpg" xml:id="d3e181"/>
+            <p>Chattanooga Tenn July the 23d</p>
+            <p>Dear Mary</p>
+            <p>After a delay of most two weeks I take up my pen to inform you whare I am and how I am getting along soon after my seckond letter that I wrote at Nashville I was sent back to this place to the convalecant camp and expected to go to the Regiment in a few days but instead of sending me to the front they put me on detached duty in Chattanooga at the Military Bridge over the Tenn River I have a good place to stay and plenty to eat and have not much duty to do and I think I will stay here a couple of weeks and I may stay longer I have got about well again and begin to feel like myself again we have good newes from Sherman this morning but no</p>
+            <pb n="4" facs="0012_000087_000200_0004.jpg" xml:id="d3e193"/>
+            <p>perticulars he has possession of Atlanta and the newes is that thare is a General fight coming of. the weathe has been very warm and it is getting very dry &amp; the roads are very dusty I was out in the country yesterday about four miles after Blackberries and found plenty of them five of us went out and in two hours we picked over a bushel I neve saw berries hang as thick and nearley all ripe.</p>
+            <p>I have not heard from any of you since I left the Regiment and I am getting very anxious to hear from you I have been expecting a letter for some time but they have not come yet the letters that I had you send to Nashville I had them sent on to Chattanooga if they came thare. I found one of the Southington boys here a few days ago and had an old fashion visset the man was Harrison</p>
+            <pb n="5" facs="0012_000087_000200_0005.jpg" xml:id="d3e203"/>
+            <p>Eggleston he is a soldier and belongs to the 24th Ohio or did he is now with 18th Ohio and I saw James Hurd at Bridge Port when I came from Nashville here. I have wrote all I can think of this time and hope when it reaches you that it will find you well and I will</p>
+            <p>Bid you Good Bye</p>
+            <p>And Ever Remain</p>
+            <p>Your Loveing Husband</p>
+            <p>Wm J Helsley</p>
+            <p>Write as soon as you can after you get this and send it to Chattanooga Tenn</p>
+            <p>In care of the U.S. Christain Commission</p>
+            <p>My Love to all</p>
+         </div>
+      </body>
+   </text>
+</TEI>

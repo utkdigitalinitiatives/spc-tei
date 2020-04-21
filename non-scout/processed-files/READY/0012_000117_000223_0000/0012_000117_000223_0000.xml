@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000223_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Jos W. Allen</name>
+				                    in New Orleans, La., to David Burford in Dixon Springs, Smith Co., Tenn., <date when="1855-04-03">1855 April 3</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">Jos W. Allen</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000223_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Jos W. Allen in New Orleans, La., to David Burford in Dixon Springs, Smith Co., Tenn., 1855 April 3</title>
+          <date when="1855-04-03">1855 April 3</date>
+          <author>
+            <name type="person">Jos W. Allen</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000223_0001.jpg" xml:id="d4e39"/>
+        <p>Via Chattanooga</p>
+        <p>Maj. D. Burford</p>
+        <p>Dixons Springs</p>
+        <p>Smith County</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_000117_000223_0002.jpg" xml:id="d4e51"/>
+        <p>Tuesday</p>
+        <p>N Orleans April 24 th 1855</p>
+        <p>Maj D Burford</p>
+        <p>My Dear Sir</p>
+        <p>An hour or two after putting my letter of the 21 st with P.O. a negro man of my brother James arrived with the enclosed letter for me. I went next morning up to his place and had him buried in Thibodeauxville. I succeeded in procuring the service of the overseer he had last year and put him on the place. I also obtained the consent of a very suitable and responsible man to administer on his estate. I shall have the place worked until the present crop is made and then sell it if it is thought advisable. I am so much distressed at his death and the primary cause, (which need not be concealed or disguised from one who has always sustained the relation you have to our family.) of it that I do not now feel like existing or doing anything - for as mortifying is it is I must say to you that his death was caused by dissapation which has been carried to great excess during the past winter. He has certainly one of the most desirable and best improved places in the country - would you not like to come down and look at it this spring or next fall and make an investment in it? I give you the names of some persons</p>
+        <pb n="3" facs="0012_000117_000223_0003.jpg" xml:id="d4e63"/>
+        <p>in the neighborhood who know the place well; who I would be glad you would correspond with. I would be glad you would write to Louis Bush Esqr (the administrator) Thibodeauxville Parish of Safourche Louisiana and enquire of him freely and fully about the probable value of the estate and the amount of James' indebtedness I want you to do this. James has been planting for many years with a man b the name of Robinson who deed some years since each one owned a part of the land and each one owned a certain negroes there is no undivided property except the sugar house &amp; machinery &amp; stock &amp; farming utensils. There has never been any settlement between them both estates will now be <unclear reason="illegible" resp="SLJ">suvandess</unclear> and the place sold, and I do not think such an opportunity will soon offer to make an investment to any one fond of planting &amp; able  to pay some 30 or $40,000 down. </p>
+        <p>Your friend</p>
+        <p>Jos W Allen</p>
+        <p>Maj. John Nelson</p>
+        <p>Winchester Hall Esqr</p>
+        <p>John C Reatty Esq</p>
+        <p>Dock James A. Scudday</p>
+        <p>Thibodeaux Lafourche Louisiana</p>
+        <p>Mr Bush has been informed by me of the amt James owes you &amp; myself.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000248_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1818-05-15">1818 May 15</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000248_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1818 May 15</title>
+          <date when="1818-05-15">1818 May 15</date>
+          <author>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000248_0001.jpg" xml:id="d4e38"/>
+        <p>Peter Hagner Esqr</p>
+        <p>3d Auditor Treasury Depart</p>
+        <p>Washington</p>
+        <p>City</p>
+        <pb n="2" facs="0012_000115_000248_0002.jpg" xml:id="d4e48"/>
+        <p>Carthage 15th May 1818</p>
+        <p>Sir</p>
+        <p>yours of the 27th <unclear reason="illegible" resp="EMS">ultimore</unclear> came to hand this day to gether with the accompaning papers. </p>
+        <p>you will herewith find an abstract for 2473 complete Rations, 8th of candles &amp;254 Gills of Whiskey Extras for which my Bill of Exchange No. 2 was drawn in favor of Joshua Fletcher for $256.36. Flethers Rect. for Said Draft was forwarded with a duplicate of the written abstract to the Secretary of war, under date of 30th June 1814 it is not therefore possible for me to forward the duplicate as I did not take duplicates for the Draft, nor do I conceive it necessary that any thing But the abstract for which the Bill was drawn should be had to entitle me to the credit, but should it be required I can obtain his affidavit (if living and to be found) that he gave me a Rect for Sd. draft and that it was in payment for issues made as for abstract herewith. </p>
+        <p>I have also inclosed you Benjamin <unclear reason="illegible" resp="EMS">Fays</unclear> Rect for payment, of hire, of <unclear reason="illegible" resp="EMS">Keet </unclear> Boat, a duplicate of which was also forwarded to the Secretary of war under date of 8 Sept 1814. It is presomed that those Vauchers are Sufficient to entitle me to the Just credits</p>
+        <pb n="3" facs="0012_000115_000248_0003.jpg" xml:id="d4e69"/>
+        <p>and agreeable to your instructions have again forwarded you my Rects for Q. Masters Services &amp; Transpotation, all of which you will be pleased to adjust as soon as possible - and advise me of the Settlement as soon as practicable With Respect Sir</p>
+        <p>With Respect Sir</p>
+        <p>Your Mo Obt Servt</p>
+        <p>D. Burford</p>
+        <p>Peter Hagner Esqr</p>
+        <p>3d Auditor Washing</p>
+        <p>City</p>
+        <p>2473 Rations at .10 cts $247.30 Issues made from 31 May 1814</p>
+        <p>8 lb candles at 20 cts 1.60 to 30 June 1814</p>
+        <p>254 Gills Whiskey at 3 cts 7.64</p>
+        <p>$256.52</p>
+      </div>
+    </body>
+  </text>
+</TEI>

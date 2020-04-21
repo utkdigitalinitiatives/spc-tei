@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000298_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Murray &amp; Son</name>
+				                  in New York, N.Y. to Joseph Ball., <date when="1800-04-21">1800 Apr. 21</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John Murray &amp; Son</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000298_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Murray &amp; Son in New York, N.Y. to Joseph Ball., 1800 Apr. 21</title>
+               <date when="1800-04-21">1800 Apr. 21</date>
+               <author>
+                  <name type="person">John Murray &amp; Son</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000298_0001.jpg" xml:id="d4e39"/>
+            <p>Joseph Ball Esqr</p>
+            <p>President of the North America</p>
+            <p>Insurance Company</p>
+            <p>Philadelphia</p>
+            <p>N York  April  21, 1800</p>
+            <p>John Murray &amp;Son</p>
+            <p>respecting expences on the</p>
+            <p>case of Ship Flora, <unclear reason="illegible" resp="pw">Govctner</unclear>.</p>
+            <pb n="2" facs="0012_002414_000298_0002.jpg" xml:id="d4e60"/>
+            <p>New York  21  April  1800</p>
+            <p>Joseph Ball Esqr</p>
+            <p>Sir,</p>
+            <p>Mr John Blaggi informs us that the North America Insurance Company were underwriters upon the Cargo of the Ship Flora Cup.  
+				       Joseph Lovett, bound from the Spanish Maine to New York for $20,000 (Say twenty thousand Dollars)  This Ship was Captured
+				       and carried into Jamaica where the Cargo was Condemned, notwithstanding every exertion of William Savage &amp;Co. who 
+				       had undertaken to claim the same, but it was at the same time thought proper to Lodge an appeal; which has been done, and 
+				       the necessary papers for prosecuting the same are now in our possession</p>
+            <p>Messr William Savage &amp;Co. have expended in endeavouring to prevent the Condemnation of vessel and Cargo a considerable
+				       Sum, which Mr Blaggi</p>
+            <pb n="3" facs="0012_002414_000298_0003.jpg" xml:id="d4e72"/>
+            <p>in his present situation is not able to pay, and us a considerable part of the money expended has been for the benefit of the Cargo
+				        we are of opinion that such Sums as has been expended for that purpose should be paid by the underwriters upon the Cargo, we
+				        shall therefore expect before we deliver up the necessary papers to prosecute the appeals that the underwriters in the Cargo will
+				        pay their proportion of the Expence.  We believe you yere already have been furnished with the accounts,  if however you have
+				        not, we will forward them to you.  Your attention to this business will oblige</p>
+            <p>Your humble Servants</p>
+            <p>John Murray &amp;son</p>
+            <p>paid on the Cargo of the above Vessel}  $17,657.64</p>
+         </div>
+      </body>
+   </text>
+</TEI>

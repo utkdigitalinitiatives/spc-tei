@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Decher Station, Tenn., to Crittenden Cregmile, <date when="1863-07-16">1863 July 16</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000212_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Decker Station, Tenn. to Crittenden Cregmile, 1863, July 16</title>
+               <date>1863-07-16</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">1863 July 16 Southgate Cregmile in Decher Station, Tenn., to his brother Crittenden. Continuous rain was the highlight on the trek from Murfreesboro. Not much action now that Bragg&apos;s Confederate forces are so far out of range; however, deserters continue to flood the camp by the hundreds with many more lying in wait to do the same. With Brig. Gen. Rosencrans&apos;s reputation as a commander and the presence of numerous mounted infantry seven shooters, under Gen. Turchin&apos;s command; retreat by both Bragg&apos;s and Morgan&apos;s forces continues to increase. Payday nears. Write soon. </note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Tennessee -- History -- 19th century -- Social aspects.</term>
+               <term>Desertion, Military -- Tennessee - History -- 19th century .</term>
+               <term>Command of troops -- History -- 19th century.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865 -- Campaigns.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military leadership.</term>
+               <term>Horse artillery.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e160">
+            <pb n="1" facs="0012_000092_000212_0001.jpg" xml:id="d3e161"/>
+            <p>Campe Near Decher</p>
+            <p>Staction</p>
+            <p>Tenn</p>
+            <p>July 16th 1863</p>
+            <p>Brother Crit</p>
+            <p>I receved your welcolm letter but had no chance to rite on till to day.</p>
+            <p>we have had fine weather sence we have been here - but it rained most every day and night sence we left Murfreesboro I never saw as much rain as there has been this time of the year be four. </p>
+            <p>our army is on a stand still and I doent see any sines of us moving on for Bragg has got so far a head the we will never</p>
+            <pb n="2" facs="0012_000092_000212_0002.jpg" xml:id="d3e184"/>
+            <p>catch up with him a gain. there are derserters coming in by the hundred every day and say the <unclear reason="illegible" resp="NW">Acoun tings </unclear> is full of them a frade to come in. </p>
+            <p>when we were fighting at <unclear reason="illegible" resp="NW">Hovers</unclear> Gap Bragg tolde his men when thay come on to our five and seven shoters for to lite out. so thay done it.</p>
+            <p>thay just more than <unclear reason="illegible" resp="NW">seadader </unclear>
+            </p>
+            <p>I hearde that olde morgan has been up though Indiana and Ohio if he is that will wake the people up if any thing will. he knows better than to fool Round old Rosey now we have to many mounted Infentry of seven shoters</p>
+            <pb n="3" facs="0012_000092_000212_0003.jpg" xml:id="d3e206"/>
+            <p>for him now and Gen turchin in command.</p>
+            <p>Company E has sixteen Comishions and Non Comishion Ofisers and fifteen privets we are a going to be pade of for four months in a few days</p>
+            <p>I havend time to rite any more this time</p>
+            <p>rite soon</p>
+            <p>Southgate Cregmile</p>
+            <p>To</p>
+            <p>Crittenden Cregmile</p>
+         </div>
+      </body>
+   </text>
+</TEI>

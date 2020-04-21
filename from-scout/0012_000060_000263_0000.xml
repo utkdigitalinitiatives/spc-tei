@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000263_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name> J. Crozier Ramsey </name> in Nashville, Tenn., to J.G.M.Ramsey
+in Charlotte, N.C. <date when="1865-11-13"> 1865 November 13 </date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. Crozier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+               <name>Veve, Marielle</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000263_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. Crozier Ramsey in Nashville, Tenn., to J.G.M. Ramsey in Charlotte, N.C. 1865 Nov. 13</title>
+               <date>1865-11-13</date>
+               <author>
+                  <name>Ramsey, J. Crozier</name>
+               </author>
+               <extent>7 digital images; 6 pages, 1 envelope</extent>
+               <note type="abstract">1865 Nov. 13 J. Crozier Ramsey, Nashville, Tenn., to his father, J.G.M.
+Ramsey, Charlotte, N.C. Sentimental expression of his affection and
+loneliness for his family. Description of the state of his health and his
+financial condition. Long discussion of the legal aspects of J.G.M.&apos;s
+chances of recovering his property. Advises his father to risk a trial and
+to sell the property at a loss only if his need for money makes it
+essential. </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Land tenure -- Political aspects -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Right of property -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Economics -- Psychological aspects -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>Ramsey, J. Crozier (John Crozier) d. 1868 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000263_0001.jpg" xml:id="d3e157"/>
+            <p>arrd Dec. 2. / 65</p>
+            <p>Dr J.G.M. Ramsey</p>
+            <p>Charlotte</p>
+            <p>N.C.</p>
+            <pb n="2" facs="0012_000060_000263_0002.jpg" xml:id="d3e171"/>
+            <p>Nashville Ten Nov 13th</p>
+            <p>Dear Sir</p>
+            <p>I received your letter a few days ago also a letter and my pocketbook by Express I was glad to learn that you were all well and
+getting along as well as could be expected under the circumstances. You cant imagine how much I am pleased when I receive letters
+from you all. I thiink you all might write oftener and could so arrange it that I could get a letter at least every week. There is
+not a day passes but what I frequently think of you all - and how I would rejoice to see you all settled at some</p>
+            <pb n="3" facs="0012_000060_000263_0003.jpg" xml:id="d3e183"/>
+            <p>quiet and pleasant home in Ten. I hope the day is not distant when that time will come. You ask how my health is and how I am
+off for money I have improved in flesh and strenght since I was released from prison - but still I wish I had more strength and flesh. I
+could attend to business with more ease and pleasure. I have been getting some practice (but the profession is very much 
+<unclear reason="illegible" resp="bds">crowed</unclear>) my expenses are considerable - but the greatest thing I miss is my law
+library - I lost all my books at Knoxville. I must only try to do the best I can - if I was able to go at some other business. I might
+make more than I am now making - but I hope</p>
+            <pb n="4" facs="0012_000060_000263_0004.jpg" xml:id="d3e194"/>
+            <p>my practice may improve - if I had the energy I once had I could get along much better - but I now work out of necessity without any
+taste for it. As to the sale of your property. I can hardly advise you what to do - if you are really compelled to have money my
+advice would be to sell even at a sacrifice - but if not I would not for I think the price offered is too low. I have heard that the two
+houses are renting at five thousand dollars a year - if that is so that part of the house (or that house could be easily rented for a
+thousand dollars a year and I hope there is a prospect of you getting possession of it soon if you had your pardon by next Court (which
+is the fourth Monday in this month. You could get possession and then you could rent it perhaps for more than the amount. I have
+mentioned - if you have not yet got your pardon you might write to the Hon D.T. Patterson at Washington - and if you should get it
+I dont think there would be any danger in you visiting Knoxville during the Court and pleading the pardon and then the cases would
+be dismissed I understand that that property has not been sold or confiscated - it is only in the process of confiscation and
+consequently when the pardon comes it will be restored to you - I suppose Court will last there some five or six weeks and I
+understand that every thing is now quiet there - if you dont get</p>
+            <pb n="5" facs="0012_000060_000263_0005.jpg" xml:id="d3e202"/>
+            <p>your pardon by the time court meets I intended to write to Judge Brown or Col Nelson and get the case continued on the
+grounds that you have applied for pardon and expect to receive it - I would have but very little to do with Mr Cooke as a
+Lawyer as I have but little confidence in his judgment and he is <unclear reason="illegible" resp="bds">unexmpelus</unclear> in
+the way of fees - that however is between ourselves. I have never been able to learn whether the title to your town property is in
+your name. I have not yet received a copy of the transcripts of the proceedings in your case though I have written some time ago
+about it. It is very hard for me to get any <unclear reason="illegible" resp="bds">correct</unclear> information from them about
+any of your business there. It cant be expected that my sister can give me the desired information but I have written to
+gentlemen there - but they seem to know or care but little about it - if any body had taken any interest in the matter the
+<unclear reason="illegible" resp="bds">m<gap resp="Dyson-Smith"/>ah</unclear> of your property might have been saved - but I still have not
+lost all hopes of a recovery - if I could only get the facts of the condition things are in. I hope certainly I will get the
+<unclear reason="illegible" resp="bds">documents</unclear> soon - if not I will look into when I go there in February - if you
+move to sell the house and lot in a credit the notes might be attacked unless you</p>
+            <pb n="6" facs="0012_000060_000263_0006.jpg" xml:id="d3e224"/>
+            <p>were to sell them - and I suppose you could not do so with out a sacrifice - I know their are persons that will take
+the advantage of you and others that have property for sale and try an get it for less than its value - by forcing you to sell
+that was the object of a great many in bringing about the condition East Ten is now in - in order that they might get your
+property for a little of nothing before I would be forced to sell under those circumstances (unless you need the money.) I would
+take my chances for the recovery of it - Any thing you do however will be satisfactory to me. Enclosed I send you Judge Friggs
+opinion in <unclear reason="illegible" resp="bds">McCanns</unclear> case - you will see that we lost the case - but the Judges
+opinion will be of great service to us. We will make one more effort and I hope we will be more successful. I have had no letters
+from Knoxville for two or three weeks I presume they are all well. Love to all - will be pleased to hear from you all at any time</p>
+            <p>Yours truly</p>
+            <p>J.C. Ramsey</p>
+            <pb n="7" facs="0012_000060_000263_0007.jpg" xml:id="d3e239"/>
+            <p>P.S.</p>
+            <p>If you should get your pardon and dont want to come to Knoxville you could send your pardon and the cases I suppose could
+be disposed of in your absence</p>
+            <p>J.C.R.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

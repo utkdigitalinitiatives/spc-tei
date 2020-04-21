@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng"
+type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng"
+type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000215_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name> to <name type="person">William Smith</name> in <name type="place">Chattanooga, Tenn.</name>, 
+               <date when="1865-05-14">1865 May 14</date>
+            </title>
+            <author>
+               <name>Smith, Eliza</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000215_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name> to <name type="person">William Smith</name> in <name type="place">Chattanooga, Tenn.</name>, 
+                  <date when="1865-05-14">1865 May 14</date>
+               </title>
+               <date when="1865-05-14">1865 May 14</date>
+               <author>
+                  <name>Smith, Eliza</name>
+               </author>
+               <extent>5 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl> 
+            <p>Corrections have been applied to the text only where there is a high degree of
+            certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-17" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>         
+         <div type="letter" xml:id="d2e209">
+            <pb facs="0012_001356_000215_0002.jpg" n="1" xml:id="d2e211"/>
+            
+            <opener>
+               <name type="person">Eliza Smith</name>
+               <dateline>Binghamton May 14 1865<lb/>
+                  Sunday morning
+               </dateline>
+               <salute>Dear husband</salute>
+            </opener>
+            
+            <p>i am rather lonesome  i have taken up my pen to rite these few lines to you in answer to your kind and welcome letter that i received May 12  i was very sory to here you say that you was not well  i think it must be the hard work and getting wett that is caused it but everey body round binghamton is got such dreadfull colds and coughs  henery was sick last wensday and thursday with a cold and fever and crope  i had to have the doctor but bless god he is well again now and Austin is got a very bad cold and cought but he is not laid up with it doctor <unclear reason="illegible" resp="PW">thayer</unclear>you could not hardly here him speak when he came to see henery and he says every body is soo it is such a wet season  doctors are so to i am am well myself  i have got over my cold bless god for it and i hope by</p>
+            
+            <pb facs="0012_001356_000215_0003.jpg" n="2" xml:id="d2e233"/>
+            <p>by this time you are better  i am very sory to here you complain of your side and heart but i hope by this time it is beter  my dear husband when you think you are coming home send me word so that i may except you  you say the first of june that will be soner than you expected but i shall be glad to have you home again but if you realey want to stay any longer i do not want to be you hindrance as long as you are well but my dear when you have you discharge i hope you will return home safe and i wonder if alfred will return with you or stay  my dear husband be sure and take good care of you money as there will be pleanty of pick pockets  you have worked hard for <unclear reason="illegible" resp="PW">a</unclear>thing i would send it by Adams express company  it would come the <unclear reason="illegible" resp="PW">oopestz</unclear> only what you want to bring you
+               
+               <pb facs="0012_001356_000215_0004.jpg" n="3" xml:id="d2e243"/>
+               home with it would be dreadfull for to lose it after your are worked so hard for it  bussiness it very dull in binghamton  things are coming down some such as provisson  the flower 9 dollars a barell meat is pretty high  i have been tracting at bet since you have been gone  we are paing him about 8 dollars but Austin is gone in to work now and we shall soon say that Mr leet is been very good to us since you went away  i am afraid you will scould because we could not pay for ever thing  but i hope we shall pay all up before you come home  we shall try my dear i am tried my best  iam planting pottatoes every day so you may think of me when far away  i have had all the popttotoes to plant pretty much because i would not hinder Austin now he is gone to work  Amelia is not been to see me for a month  i doo not know the reason without it is her plants that keep her at home
+               
+               <pb facs="0012_001356_000215_0005.jpg" n="4" xml:id="d2e245"/>
+               George how send his best respects to you  Austin works for George  still Mr Mrs Coley and Daniel sussan send ther best respects to you Mrs Mrs king send there resspects to you  Andrew under is left the water cure and gone to dine in henery street  he is just as he was getting drunk  i have never seen any of them only Austin tell me since you went away i dont go out no where  i am a home bird  Austin send his kind love to you and he long to see you  Henery send his father a thousand kises  i have sent you some stamps in a letter a week ago  those was pretty flowers i wish you could get some seeds of them besure and rite to me as often as you can  i had a letter from Alfred he was well he says he shall not have any money till June and if you rite to him tell him to send it home  it will be the best plan i can take care of it for you by Adams express  my kind love to you i long to kiss you once again  i am very lonesome i am all alone this evieng  sunday eveing so i must conclud with my kindes love to you</p>
+            <p>yours for ever till Death does us part</p>
+            <closer>
+               <salute>and i remain<lb/>
+                  your for ever</salute>
+               <signed>Eliza</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="envelope" xml:id="d2e267">
+         <pb facs="0012_001356_000215_0001.jpg" n="5" xml:id="d2e269"/>
+         <p>BINGHAMTON</p>
+         <p>MAY</p>
+         <p>15</p>
+         <p>N.Y.</p>
+         <p><address>
+               <addrLine>Mr William Smith</addrLine>
+               <addrLine>Chatanooga</addrLine>
+               <addrLine>Care S. C. Mears</addrLine>
+               <addrLine>Tenn</addrLine>
+               <addrLine>Box 27.</addrLine></address></p>
+         </div>
+      </back>
+   </text>
+</TEI>

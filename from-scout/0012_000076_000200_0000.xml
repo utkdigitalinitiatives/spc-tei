@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000076_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+William M. Cloer
+</name>
+in Cumberland Gap, Tenn. to his friends in Morristown, Tenn.,
+<date when="1863-06-24">
+1863 June 24
+</date>
+            </title>
+            <author>
+               <name type="person">Cloer, William M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000076_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William M. Cloer in Cumberland Gap, Tenn. to his friends in Morristown, Tenn., 1863 June 24</title>
+               <date>1863-06-24</date>
+               <author>
+                  <name>Cloer, William M.</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">This letter dated June 24, 1863, was written by William M. Cloer, a Confederate solider and a private in the 62nd Regiment, North Carolina Infantry. He writes the letter from a three days journey to Cumberland Gap, Taswell County, Tennessee to friends in Morristown, Tennessee. He mentions recent Yankee raids in Tennessee, specifically the push towards Knoxville.</note>
+               <note type="collection">William M. Cloer Letter, 1863</note>
+               <note type="manuscript">MS.2796</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- North Carolina -- Correspondence. </term>
+               <term>Offenses against property -- Tennessee, East -- History -- 19th century.</term>
+               <term>Cumberland Gap (Tenn.) -- History -- 19th century.</term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Cloer, W. M. (William M.) -- Anecdotes. </term>
+               <term>Confederate States of America. Army. North Carolina Infantry Regiment, 62nd.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000076_000200_0001.jpg" xml:id="d3e154"/>
+            <p>June 24th 1863</p>
+            <p>Morristown Tenn.</p>
+            <p>Friends at home I now take the oppurtunity of writing you a few lines and they will tell you that I am well and I hope you all are well I have got to this place and is very tired and has hered a heap of news mor than I can tell you but any how the yankees has made a nother rade in Tenn and has done a good deel of damage and is gon back they commenced at Knoxville and come up in 15 miles of this place and burnt 2 bridges and a great deel of other damage I cant tell you half what I have hered I have not time and I would not wrote yet but we cant here where our Redgment is and if they are gon from the gap I new it would be a long time before you could here from me</p>
+            <pb n="2" facs="0012_000076_000200_0002.jpg" xml:id="d3e166"/>
+            <p>but it may be that I can give you more news when I write again I Shall write but few lines this time it will take us 3 days more to get to the gap we have had a good spell of weather for traveling and prettey good <unclear>faire</unclear>. I left home with 12 dollars and got here with 6 and spint 2 dollars for tobaco and 1 for a dram we will start on to the gap in a few minuts and I will not write much more and you write as soon as you get this and if we are not at the gap the lettes will follow after me we have got meat and bread to do us to the gap so I will git for this time and try to give you full history of the yankee rade when I write again. Nothing more this time</p>
+            <p>W M Cloer</p>
+            <p>Direct to</p>
+            <p>Mr W M Cloer</p>
+            <p>Cumberland Gap</p>
+            <p>Taswell County Tenn</p>
+            <p>62 NC Troops Co D</p>
+            <p>in care of Capt</p>
+            <p>R M Henry</p>
+         </div>
+      </body>
+   </text>
+</TEI>

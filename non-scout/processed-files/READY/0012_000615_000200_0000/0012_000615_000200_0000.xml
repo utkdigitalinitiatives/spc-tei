@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000615_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Gideon J. Pillow</name>
+				                    in Pueblo, Mexico., to James W. Bradlord in New Orleans, La., <date when="1847-08-07">1847 Aug. 07</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Gideon J. Pillow</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000615_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Gideon J. Pillow in Pueblo, Mexico., to James W. Bradlord in New Orleans, La., 1847 Aug. 07</title>
+          <date when="1847-08-07">1847 Aug. 07</date>
+          <author>
+            <name type="person">Gideon J. Pillow</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Gideon J. Pillow Letter</note>
+          <note type="manuscript">MS.2138</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Pillow, Gideon Johnson, 1806-1878</term>
+          <term>Mexican War, 1846-1847 -- Personal narratives, American.</term>
+          <term>Mexican War, 1846-1848 -- Campaigns -- Mexico.</term>
+          <term>Mexican War, 1846-1848.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000615_000200_0001.jpg" xml:id="d4e39"/>
+        <p>To./</p>
+        <p>James W. Bradlord Esq.</p>
+        <p>New Orleans</p>
+        <p>La -</p>
+        <pb n="2" facs="0012_000615_000200_0002.jpg" xml:id="d4e49"/>
+        <p>Pueblo Mexico.</p>
+        <p>Augst 7th 1847</p>
+        <p>My Dear Sir</p>
+        <p>Your several kind letters, with the packages are recieved, for which please accept my thanks. I am placed under many obligations to you for <unclear reason="illegible" resp="JCM">attentions</unclear> so grateful.</p>
+        <p>the Whigs seem to think it necessary to keep up their fire against me all the time. If the Democracy loved me, or the Whigs hate me I should consider myself on the high road to destruction And indeed it would seem they had some fear of that sort, <unclear reason="illegible" resp="JCM">else,</unclear> why persecute me &amp; traduce my character, while I am in a foreign country fighting - (not the Whigs) - but the common enemy of our country. But I ought not to complain at the exercise of a habit, so fixed and <unclear reason="illegible" resp="JCM">iterate</unclear> by long usage &amp; a <unclear reason="illegible" resp="JCM">consistent appetite</unclear> as to have become necessary for the very existance of these defamers. There are many conductors of the Whig press, who are high minded, honorable Gentlemen - who can appreciate merits &amp; Gallantry , even in a political Advirsary; But There are a few <unclear reason="illegible" resp="JCM">unprincipled</unclear> hollow hearted hypocrites &amp; political knaves, who mask themsevles under false colors, by claiming to conduct neutral <unclear reason="illegible" resp="JCM">processes,</unclear> while they pour out their malignant hate against all those likely to occupy a little public attention who do not agree with them in sentiments. Among this</p>
+        <pb n="3" facs="0012_000615_000200_0003.jpg" xml:id="d4e79"/>
+        <p>class is the vindictive Editor who conducts the Picayune. He has escaped long enough, unwhipped of public justice - should be stripped of his <unclear reason="illegible" resp="JCM">assumed</unclear> neutrality, and exposed to the world as an assassin of character &amp; a political knave who attempts to add additional poignancy to his shafts of malice by professions which are false in facts.</p>
+        <p>I have observed with surprise and astonishment the liberty taken in the use of my named, to a letter professing to be a reply to the <unclear reason="illegible" resp="JCM">batallion</unclear> of the committee of your citizens, to attend the <unclear reason="illegible" resp="JCM">festivities</unclear> given by the citizens of New Orleans in honor of the <unclear reason="illegible" resp="JCM">vetericy</unclear> volunteers on th e10th May last.</p>
+        <p>I never saw the letter until the mail (just reached here), arrived - The letter is not mind - nor are its sentiments or opinions - I did not write it - nor authorize any one else to do so, or to write in my behalf or in use my name - I cannot father its now - nore can I allow any <unclear reason="illegible" resp="JCM">friend</unclear> to use such liberties with my name-</p>
+        <p>I have written to the Editor of the Delta disclaiming the letter, but fearing that tletter may not have safely arrived, I mention the subjects here, &amp; must trouble you to have the writter placed properly before the public. <unclear reason="illegible" resp="JCM">Sinse</unclear> writing to the Delta</p>
+        <pb n="4" facs="0012_000615_000200_0004.jpg" xml:id="d4e107"/>
+        <p>I have received no less than 6 letters -(all by the mail brought up by Genl. <unclear reason="illegible" resp="JCM">Pierces column)-</unclear> from the Gentleman who wrote it as he says ( <unclear reason="illegible" resp="JCM">friend</unclear> I have no doubts Truly) - from considerations of kindness &amp; notions of frienship which I fully appreciate, but which nontheless do not reconcile me to remainl silent with such consequences to my reputation as must <unclear reason="illegible" resp="JCM">logistically</unclear> follow the ascriptions of such sentiments to me. I deem it proper, however, for the present to withhold the name of the author - trusting that his friendship for me will not lead here again to any similar acts of <unclear reason="illegible" resp="JCM">indiscretion.</unclear> It is an abuse of my rights, &amp; a violation of my opinions, in connection with a subject of national <unclear reason="illegible" resp="JCM">intent,</unclear> which in my present position <unclear reason="illegible" resp="JCM">would</unclear> be improper in me to tolerate for one moment, if no other objection properly <unclear reason="illegible" resp="JCM">existed.</unclear> Your son is a highly honorable Gentleman - is a gallant young office, whom I am proud to have in my command.</p>
+        <p>He has been quite sick, but now better &amp; though sick I mean to take him forward with me on the march to the capital my Division will march in the morrow - In 15 days we will be in possession of the renown Capital of Mexico.</p>
+        <p>Your Friend</p>
+        <p>Gid. J. Pillow</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Dickinson</name> in Wilmington to Charles Pettit (Petit) <date when="1804-05-18">1804 May 18</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">John Dickinson</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000206_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Dickinson in Wilmington to Charles Pettit (Petit) 1804 May 18</title>
+               <date when="1804-05-18">1804 May 18</date>
+               <author>
+                  <name type="person">John Dickinson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000206_0001.jpg" xml:id="d4e39"/>
+            <p>5th Month May 18, 1809</p>
+            <p>John Dickinson</p>
+            <p>Acknowledging Rect of</p>
+            <p>Certificate of $2,000 at</p>
+            <p>his Credit in Bank North America</p>
+            <p>PAID</p>
+            <p>Charles Petit Esquire</p>
+            <p>Philadelphia</p>
+            <p>paid</p>
+            <pb n="2" facs="0012_002414_000206_0002.jpg" xml:id="d4e59"/>
+            <p>My respected Friend,</p>
+            <p>My Letter of the Second insland, with a copy of a certificate that I have credit in the Bank of North America for two thousand Dollars deposited by the Insurance Company of North America, is received and I thank thee for thy promptness and kind attentions to the Business on which We have lately corresponded.</p>
+            <p>I am very sincerely thy friend,</p>
+            <p>Jony Dickinson</p>
+            <p>Wilmington</p>
+            <p>The 18th of the 5 Month</p>
+            <p>1804</p>
+            <p>Charles Petit Esquire</p>
+            <p>Philadelphia</p>
+         </div>
+      </body>
+   </text>
+</TEI>

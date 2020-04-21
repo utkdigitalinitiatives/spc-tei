@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000302_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Elliston Perot &amp;John Perot</name>
+				                   in Abington to Charles Pettit., <date when="1799-09-24">1799 Sept. 24</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Elliston Perot &amp;John Perot</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000302_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Elliston Perot &amp;John Perot in Abington to Charles Pettit., 1799 Sept. 24</title>
+               <date when="1799-09-24">1799 Sept. 24</date>
+               <author>
+                  <name type="person">Elliston Perot &amp;John Perot</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000302_0001.jpg" xml:id="d4e39"/>
+            <p>Charles Pettit Esqr. Presidt.</p>
+            <p>of The Insurance Office of No. America</p>
+            <p>Philadelphia</p>
+            <p>Septr  24th  1799</p>
+            <p>E &amp; J  Perot</p>
+            <p>E &amp; J. Perot  24 Sept.</p>
+            <pb n="2" facs="0012_002414_000302_0002.jpg" xml:id="d4e53"/>
+            <p>Ansd. 15 warled. Danish B &amp; <unclear reason="illegible" resp="pw">Oor</unclear>
+            </p>
+            <p>More -- as hestates it</p>
+            <pb n="3" facs="0012_002414_000302_0003.jpg" xml:id="d4e61"/>
+            <p>Abington 24 Septemr. 1799</p>
+            <p>Gentn.</p>
+            <p>We want to make Insurance at and from St. Thomas to Leghorn upon the Brig Triton Capt. Andreas Frederickson &amp; Cargo.
+				       You will Oblige us by mentioning by the return of the bearer what will be the premium say, 20000 Dollars to be Insured on both</p>
+            <p>The following information is given us in a letter Dated St. Thomas 25 August 1799. on which Day the Triton began to take her Cargo
+				       on board in which there will be nothing counterband and expected she would sail within the next fortnight.</p>
+            <p>&quot;This vessel is Philadelphia built of Live oak &amp;cedar by the famous Penrose formerly belonged to John Crag _ and was 
+				       insured at your Office in 1795 by James Fard, and in 1796 by Messieurs Odier and Bosquet Brothers her other Insurances have been
+				       made in Copenhagen  she has been regularly in the Streights Trade from hence ever since  has been taken examined and suffered
+				       to pass _ by French &amp; English and was once carried into there detained a long while and after the Strictest Investigation was
+				       released,  she has had the same Captain and almost the same Crew for several years,  the first ever since the purchase was made of
+				       her from Mr. Crag.  The papers under which she now sails are not of the West Indies,  but from Copenhagen with the most ample
+				       Certificates of</p>
+            <pb n="4" facs="0012_002414_000302_0004.jpg" xml:id="d4e73"/>
+            <p>Of Neutrality certified and confirmed at different periods by Consular Signatures.  The Triton moreover Sails well and is in Excellent
+				       Order.  As the papers were originally taken out and have been regularly kept in the Name of Mr. John Dunlop of St. Croise it has been
+				       thought adviseable to continue them the same, tho: Mr. Dunlop has sold out and I have become the purchaser it is with Mr. Dunlop&apos;s
+				       approbation that they should be thus continued  &quot;</p>
+            <p>The Gentleman for whom this Insurance is intended to be made wishes it to be made as explicit as possible and says of late Policies
+				       have been filled up with the following conditions.   Vos</p>
+            <p>&quot; That the Captains Protest be considered Sufficient proof of Loss and the policy Sufficient proof of Property&quot;</p>
+            <p>In order that we may meet his wishes let us know if you will Comply with it in case we write you to make the Insurance.</p>
+            <p>We are respectfully </p>
+            <p>Your <unclear reason="illegible" resp="pw">Assured</unclear>Friends</p>
+            <p>Elliston  &amp; John Perot</p>
+            <p>Charles Pettit Esqr. President of the Insurance Co. of No. America</p>
+         </div>
+      </body>
+   </text>
+</TEI>

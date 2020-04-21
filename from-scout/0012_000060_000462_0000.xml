@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000462_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-04-14">1880 Apr. 14</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000462_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Apr. 14</title>
+               <date>1880-04-14</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 p.</extent>
+               <note type="abstract">1880 Apr. 14 Lyman C. Draper, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Expresses the hope that, with commendations from J.G.M. and other friends, his book will be published by a Cincinnati firm. Mentions his beginning of new work and sending Dr. Ramsey a publication concerning the Wisconsin Historical Society&apos;s collections.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Authors and patrons -- Wisconsin.</term>
+               <term>Authors and patrons -- Tennessee.</term>
+               <term>Books -- Evaluation.</term>
+               <term>Wisconsin -- History -- Sources.</term>
+               <term>Tennesse -- History -- Sources.</term>
+               <term>Draper, Lyman Copeland,  1815-1891 -- Correspondence.</term>
+               <term>Ramsey, James G. My. (Gettys McGready), 1797-1884 -- Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000462_0001.jpg" xml:id="d3e154"/>
+            <p>Dr. J.G.M. Ramsey --</p>
+            <p>Knoxville,</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000462_0002.jpg" xml:id="d3e166"/>
+            <p>Madison, Apl. 14th, 1880.</p>
+            <p>My Dear Dr. Ramsey --</p>
+            <p>I thankfully reed. your obliging letters -- &amp; also one from Mr. Paulette. I have not yet written to Mr. P., as I am waiting for a better understanding with intended publishers. I have no do doubt I shall succeed with my Cincinnati friend, &amp; get him to venture its publication -- &amp; in good style, too-- &amp; especially if the preliminary commendations of the work can be secured -- which I hope with your aid &amp; that of other friends, can be effected. As one of the Tenn. communications &amp; with whom I formerly corresponded, I have just written to Hon. J.N. Van Dyke, at Athens --</p>
+            <pb n="3" facs="0012_000060_000462_0003.jpg" xml:id="d3e178"/>
+            <p>suggesting that he see or correspond with you as to the propriety of submitting some compensatory resolution at the Charlotte conference in June. So you will see what I have done -- &amp; why I have done it.</p>
+            <p>I have commenced on the work -- &amp; must say I find my materials even more complete than I had expected -- they are all that could be desired. But they ought to have been very full, as the result of forty years faithful gathering.</p>
+            <p>I sent you the first copy of our new Vol. of Collections I got hold of -- &amp; trust it will safely reach you, &amp; afford you some satisfaction.</p>
+            <p>Mr. Paulette will hear from me in due time.</p>
+            <p>God bless you!</p>
+            <p>Truly yours,</p>
+            <p>Lyman C. Draper.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000221_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">William Smith</name> in 
+               <name type="place">Nashville, Tenn.</name>, to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-03-12">1865 March 12</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000221_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William Smith</name> in 
+                  <name type="place">Nashville, Tenn.</name>, to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-03-12">1865 March 12</date>
+               </title>
+               <date when="1865-03-12">1865 March 12</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>7 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-17" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>         
+         <div type="letter" xml:id="d2e206">
+            <pb facs="0012_001356_000221_0002.jpg" n="1" xml:id="d2e208"/>
+            <opener>
+               <dateline>
+                  <name type="place">Chattanooga</name> 
+                  <date when="1865-03-12">Sunday March 12 1865</date><lb/>
+                  Chattannooga Tennsee
+               </dateline>
+               </opener>
+            
+            <p>My dear wife I now take the opportinity in writing to you these lines hoeing they will find you and my dear henry austin quite well dear wife since I left campinain the gan of the me were Broken up and I weare left out of the gan theare wear a gan of men going out to chattanooga and I ham now with them heare <name type="place">Chattanooga</name> for safer lookout mountin is a little way from here it is nothing but rack of stone I left alfred in pretty spirits good at <name type="place">Nashville</name> on Saturday afternoon he had the <unclear reason="illegible" resp="NL">diarae</unclear> for some dayes but thank god he is better now my dear wife I have had the worst cold on my longs that I ever in my</p>
+            
+            <pb facs="0012_001356_000221_0003.jpg" n="2" xml:id="d2e235"/>
+            <p>my life I have had achang on me for two weeks but it is no more then could be expeted by sleeping in such places as we have to sleep in dear I hope my cold will b better in a few days the man that hired me is a man from Scranton Pa is name is mears meares the men tell me he is a good Bas I asked him what he paied per Day and he told me two Dollers and half per Day this is a <choice><orig>manters</orig><corr resp="nl">monstrous</corr></choice> country here but I dont like it my wife I hope I shall thank sand have my health while in this part of the country and meet you all well when I come home kiss my dear henry and austin alfred kind love to mama and a kiss to you all for him my dear with my love you and a kiss to you from me <unclear reason="illegible" resp="NL">huzbind</unclear></p>
+            
+            <pb facs="0012_001356_000221_0004.jpg" n="3" xml:id="d2e249"/>
+            <p>I want to know weather you have got the money that I sent by express and if you have not must send me word when you write to me and if not got it please to send me word and morgan express to let you have it I will send you the reciet from the express offices I want to know weather you have writen me yet if you have I have not had any leter yet when I went to nashville post office I did not get any letter when you write to me William Smith Chattanooga in care of SC Mears Tennessee the Bass told the men that we are going farther than heare one hundred and 60 miles farther south he said all the men that must stay with him Sx 6 months I dont want to stay 6 months in this place dear wife you must not fret</p>
+            
+            <pb facs="0012_001356_000221_0005.jpg" n="4" xml:id="d2e254"/>
+            <p>my wife you musent fret about me long as I ham well and Alfred is well I shall to alfred as soon as I hear setted and to you all when you write to me send me word if Mr Spencer is come home gif my respects to him and I hope he and is family is well and tell I ham sorry he whent home so soon he might of ad a good <orig>gob</orig> if stayed kong please to give my kind respects all inquiring friend and tell them I prett well but cold my to Mr Mathers with see him and and Mrs and Mr Clark hope they will and tell them give that Lines Bissan has again come back to Binghamton to peap you may see him my wife conclude with my kind to you all at this time please write to me as you can</p>
+            
+            <closer>
+               <salute>God bless you all</salute>
+               <signed>William Smith Chattanooga<lb/>
+                  in care of SC Mears</signed>
+            </closer>
+            <postscript><p>Excuse my writing I no ink</p></postscript>
+         </div>
+         
+         <div type="enlosure" xml:id="d2e278">  
+            <pb facs="0012_001356_000221_0006.jpg" n="5" xml:id="d2e280"/>
+            <p><address>
+               <addrLine>William Smith</addrLine>
+               <addrLine>Camp Irvin</addrLine>
+               <addrLine>Nashville</addrLine>
+               <addrLine>Tenn</addrLine>
+               <addrLine>care of Capt Irvin</addrLine></address></p>
+            <pb facs="0012_001356_000221_0007.jpg" n="6" xml:id="d2e300"/>
+            <p><address>
+               <addrLine>William Smith</addrLine>
+               <addrLine>Camp Irvin</addrLine>
+               <addrLine>Nashville</addrLine>
+               <addrLine>Tenn</addrLine>
+               <addrLine>care of Capt Irvin</addrLine></address></p>
+         </div>
+      </body>
+      
+      <back>
+         <div type="envelope" xml:id="d2e324">
+         <pb facs="0012_001356_000221_0001.jpg" n="7" xml:id="d2e326"/>
+         <p><address>
+               <addrLine>Austin H. Smith</addrLine>
+               <addrLine>Binghamton</addrLine>
+               <addrLine>Broomecounty</addrLine>
+               <addrLine>NY</addrLine>
+            </address></p>
+      </div>
+      </back>
+   </text>
+</TEI>

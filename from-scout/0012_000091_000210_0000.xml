@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000210_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>David L. Jones</name>
+ in Nashville, Tenn., to Anna Jones in Allegheny City, Pa. <date when="1865-05-06">1865 May 06</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000210_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa., 1865 May 6</title>
+               <date>1865-05-06</date>
+               <author>
+                  <name>Jones, David L.</name>
+               </author>
+               <extent>2 digital images; 2 pages.</extent>
+               <note type="abstract"> In this letter dated May 6, 1865, David L. Jones in Nashville, Tenn. writes to Anna Jones in Allegheny City, Pa. about life at the camp and comments on his apprehension about &quot;Tennessee Troops &quot; take charge of camp, and the uncouth behavior of the soldiers. </note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+               <note type="item">14</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Conduct of life.  </term>
+               <term>Soldiers -- Tennessee -- Nashville -- History -- Civil War, 1861-1865. </term>
+               <term>Soldier -- Pennsylvania -- Correspondence.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865 -- Personal narratives. </term>
+               <term>Jones, David L., Union soldier -- Views of soldiers.</term>
+               <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866) -- Military life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000091_000210_0001.jpg" xml:id="d3e157"/>
+            <p>Nash Tenn May 6th</p>
+            <p>My Dear Wife</p>
+            <p>I take my pen in hand to write you a few lines to let you know that I am well hopeing that you and the children are in the same state The weather at present is warm it has been threatning rain for the last two or three days but this morning there is no sign of any I had intended to write you last night But we had to out on a Batallian Drill I saw Mr <unclear reason="illegible" resp="NW">Carnel </unclear> then Senior on Thursday last and young <unclear reason="illegible" resp="NW"> Carnel </unclear>told me that he thought he would be discharged for my Part I think he was very foolish to come here an old man like him John sends his Respects to his Mother he says that he has not heard from her for some time every time i write when i am at the Camp i have always always asked him to write a few </p>
+            <pb n="2" facs="0012_000091_000210_0002.jpg" xml:id="d3e175"/>
+            <p>lines so as to send them home in mine he always promises but never done it yet I dont think that we shall be here long We are about to leave here pretty soon i think I have heard that the <unclear reason="illegible" resp="NW"> Caps</unclear> has the Transportation to Louisville According to reports the Tenne Troops is to take charge of this place some of our fellows dont want to go home they say before the year is up it would be a small loss to the public where they are or what will become of them for my part i think it would be a Blessing to the country in general if they were dead Any one that wants to see ungodliness in its highest pitch ought to go to the army for a while not saying anything of swearing in common conversation which privilege is allowed by all the churches i think at least they do it and that in the hearing of their Preacher of all that I have heard talking I have not come across but a few yet that dont swear and one of them is a second Lieutenant I must be off on guard</p>
+            <p>Yours David</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000529_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lizzie R. Jarnagin</name>
+ in Seneca, Md., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-05-13">1884 May 13</date>
+            </title>
+            <author>
+               <name type="person">Jarnagin, Lizzie R. (Ramsey)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000529_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lizzie R. Jarnagin in Seneca, Md., to M.B.C. Ramsey in Knoxville, Tenn. 1884 May 13</title>
+               <date>1884-05-13</date>
+               <author>
+                  <name>Jarnagin, Lizzie R. (Ramsey)</name>
+               </author>
+               <extent>4 digital images; 1 envelope, 3 pages.</extent>
+               <note type="abstract">1884 May 13 Lizzie R. Jarnagin, Seneca, Md., to her grandmother, M.B.C. Ramsey, Knoxville, Tenn. Expression of sympathy for the loss of her grandfather. Points to his life with pride. Mentions her own husband, who has died, and their children. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family -- Health and hygiene -- Maryland -- Seneca Creek (Montgomery County)    </term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Death and burial.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Appreciation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000060_000529_0001.jpg" xml:id="d3e150"/>
+            <p>Lizzie</p>
+            <p>Mrs. M.B. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tenn-</p>
+            <pb n="2" facs="0012_000060_000529_0002.jpg" xml:id="d3e164"/>
+            <p>Seneca Md May 13th 1844</p>
+            <p>Dear Grandma</p>
+            <p>I have not written because I was looking for a letter from Uncle <unclear reason="illegible" resp="JR"> Mr C</unclear> or some of the Family. I only heard of Dear GrandPa&amp;s death through the papers. What a Grand record he leaves. Why is not the retrospection of every man&amp;s life pure and good and useful, like his, it is certainly worth the striving for. To be honored and lamented as GrandPa is. I am proud that I can say that I am a descendant of such a noble Grand Parent. I have met several persons here who knew GrandPa they all speak in the highest terms of him, even often having lived in a distant part of the Land a number of years, he made a an</p>
+            <pb n="3" facs="0012_000060_000529_0003.jpg" xml:id="d3e179"/>
+            <p>impression <unclear reason="illegible" resp="JR"> onto</unclear> their minds that time or distance could not-obliterate. I had such a comforting dream of Mr. Jarnagin a few nights since. I saw him as plainly as I ever did in Life, and awoke feeling the warm pressure of his life to my own. The disappointment of him not-being actually present was great, but the memory of the dream will go with me through Life as something too sweet to be forgotten.</p>
+            <p>The children are <unclear reason="illegible" resp="JR">perfectly</unclear> well. I have been sick most of the time of the Last three weeks I have had unusually good health all winter, but the spring has been so wet and cold it has cause some sickness. I wish I lived nearer as that</p>
+            <pb n="4" facs="0012_000060_000529_0004.jpg" xml:id="d3e195"/>
+            <p>you all could see the children. The Baby is so interesting. I heard a great noise in the Back yard the other evening. When I went to see what it was I found Baby <unclear reason="illegible" resp="JR">balooing</unclear> and throwing rocks at the moon. it had just risen and was very bright. I would lik to send you their pictures will do so as soon as I can have them taken. I have not had a letter from Ma in a good while am getting anxious about Them.</p>
+            <p>I will write to Aunt Lizzie soon I do not feel well To night have a large boil on my face it is very painfull and affects my eyes, give my Love to all relations. Tell Aunt May to write and, I would like to have a letter from Willie and Melvin too, with much Love your Granddaughter Lizzie R. Jarnagin</p>
+         </div>
+      </body>
+   </text>
+</TEI>

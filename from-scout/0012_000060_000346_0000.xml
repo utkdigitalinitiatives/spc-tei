@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000346_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Francis A. Ramsey</name> in Swan-Pond, Tenn., to J.G.M. and William Baine Alexander
+Ramsey, at Washington College, Tenn. <date when="1815-07-24">1815 July 24</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000346_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Francis A. Ramsey in Swan-pond, Tenn., to J.G.M. and William Baine Alexander Ramsey at Washington College. 1815 July 24</title>
+               <date>1815-07-24</date>
+               <author>
+                  <name>Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1815 July 24 Francis A. Ramsey, Swan-Pond, Tenn., to his sons, J.G.M. and William Baine Alexander Ramsey, Washington College, Tenn. News of the family&apos;s health and of harvesting wheat. Instruction for the improvement of the boys&apos; handwriting and his expectations of their spiritual development.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Christian ethics -- Tennessee -- History -- 19th century.</term>
+               <term>Penmanship, American -- History -- 19th century.</term>
+               <term>Moral exhortation -- History -- 19th century. </term>
+               <term>Washington College (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000060_000346_0001.jpg" xml:id="d3e158"/>
+            <p>James G. My. Ramsey</p>
+            <p>Student at Washington College Tennessee</p>
+            <p>By the politeness of Squire Brown.</p>
+            <pb n="2" facs="0012_000060_000346_0002.jpg" xml:id="d3e170"/>
+            <p>Swan-pond July 24th 1815</p>
+            <p>My Dear Sons</p>
+            <p>thro the kindness of indulgent Providence we are all yet alive, tho Ma &amp; Grand Pa - both complain
+almost dayly - I believe your Ma and Uncle Samuel will go next week to the Yellow Spring at the head of Little
+Pigeon - Your Uncle has had a very bad spell for two months past, is now something better and thinks he is
+gathering strength, but is still very weak - we have succeeded (with difficulty) in getting in our 
+<unclear reason="illegible" resp="bds">gadin</unclear>, wheat began to grow in the shock before it was
+got out of the field; I have this morning began to cut the meadow but I am still afraid we shall have wet
+weather, upwards of four weeks we have had rain almost every day and the weather yet appears
+unsettled - </p>
+            <p>we have had one letter from your Uncle <unclear reason="illegible" resp="bds">Caldwelle</unclear> dated
+the 20th of June, all were then well, we have had no other word from Carolina Friends but the letter
+from <unclear reason="illegible" resp="bds">Winslow</unclear> that accompanies this - I have got Mr Brown
+to engage to call upon you - he can give you neighborhood news - </p>
+            <p>we were very much grateful in hearing from you by your first letter, as we had not heard the
+<unclear reason="illegible" resp="bds">least</unclear> account from you, since we parted with you, and
+were <unclear reason="illegible" resp="bds">getting</unclear>
+            </p>
+            <pb n="3" facs="0012_000060_000346_0003.jpg" xml:id="d3e200"/>
+            <p>
+               <unclear reason="illegible" resp="bds">getterig</unclear> very uneasy to know your situation, I think
+my son James you ought not to write so small and so cramp a hand as you do - If you were to accustom your self
+to write a longer hand, your writing would appear better and more masculine than it does - Billy my son, you
+ought to write to me or some of us, to keep you in practice, and to improve your diction and writing, make
+your letter large and fair, and dont allow your self to fall in to a careless and indifferent habit,
+but strive to improve by every epistle you write be particularly attentive to your spelling, to the
+grammatical construction of your words and to the forming of your letters, these may be
+<unclear reason="illegible" resp="bds">denomise</unclear> both learned and elegant accomplishments, and
+they will always be expected from both of you.</p>
+            <p>your sister is now at school with Mr <unclear reason="illegible" resp="bds">Nelson</unclear> your Cousin
+Jane is in town, I believe she intends going to school to learn drawing, Jane is really a fine woman
+posessing some of the greatest &amp; best accomplishments - </p>
+            <p>My Dear Sons there is one thing needful, see that you be not negligent or baseless as to the
+attainment <unclear reason="illegible" resp="bds">of it</unclear>
+            </p>
+            <pb n="4" facs="0012_000060_000346_0004.jpg" xml:id="d3e222"/>
+            <p>For what is a man profited if he should gain the whole world, and lose his own soul, or what
+will a man give in exchange for his Soul? my dear sons earnestly, constantly and fervantly strive
+to possess that better part which cannot be take away</p>
+            <p>give me joy and not grief concerning you - Tell young Mr. Doak that in consequence of a
+<unclear reason="illegible" resp="bds">Sacrament</unclear> at Bakers Creek, one at Poplar Creek,
+and one at Washington, Mr <unclear reason="illegible" resp="bds">Nelson</unclear> could not make
+an appointment to administer a <unclear reason="illegible" resp="bds">Sacrament</unclear> at the
+Fork - But if Mr Doak would himself appoint <unclear reason="illegible" resp="bds">a time</unclear>
+when he could attend, and give two or three weeks notice before hand Mr Nelson would certainly
+attend here with him - </p>
+            <p>My Sons I konw not of any thing else to write that you would have any curiosity to know, be
+careful to miss no opportunity of writing to some of us, as it refreshes us greatly to hear from
+you</p>
+            <p>May that God who has hitherto preserved you, Still have you in his Holy keeping, and Preserve
+you from every false, wicked, and deceitful way is the earnest Prayer of your affectionate
+Father.</p>
+            <p>F.A. Ramsey</p>
+            <p>To J.G.My. &amp; <unclear reason="illegible" resp="bds">ppn</unclear> B.A. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

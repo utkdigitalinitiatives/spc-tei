@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000169_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Colonel John T. Lockman</name>
+ in Marietta, Ga, to Edward Dewitt in New York, N.Y. <date when="1864-06-22">1864 June 22</date>
+            </title>
+            <author>
+               <name type="person">Lockman, John T., 1834-1912</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000169_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Colonel John T. Lockman in Marietta, Ga. to Edward Dewitt in New York, N.Y.</title>
+               <date>1864-06-22</date>
+               <author>
+                  <name>Lockman, John T., 1834-1912</name>
+               </author>
+               <extent>13 digital images; 12 pages, 1 envelope</extent>
+               <note type="abstract">Colonel John T. Lockman of the 119th New York Infantry wrote this letter to Edward Dewitt in New York, N.Y. The letter, written in diary form, was addressed from &quot;near Marietta, Ga.&quot; and postmarked from Nashville, Tenn. It chronicled the activities of Lockman&apos;s unit from June 22-July 6, 1864. He mentioned moving closer to the enemy and getting set up. Another division had been attacked by the Rebels nearby before having had the chance to get set up. He mentioned some battles the Union won. Between battles they strengthened their breastworks. The temperature was very hot with little shade. They were expecting reinforcements. They were given orders to return fire if attacked only. Rebels attacked and Union won another battle on June 30. He moved to new position on July 1, 300 yards from main line for observation. Firing started from Rebels. Union fired heavily and Rebels retreated on July 2. Lockman&apos;s division took about 200 prisoners, the whole number on July 2 was between 3000-5000. Rebels were tiring and getting ready to desert. The Union had not taken Atlanta yet, but hoped to soon. Atlanta was in view. </note>
+               <note type="collection">Colonel John T. Lockman Letter</note>
+               <note type="manuscript">MS.2784</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Armed forces -- Officers -- Correspondence.</term>
+               <term>Commanf of troops -- History -- 19th century.</term>
+               <term>Tactics -- History -- 19th century.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Campaigns.</term>
+               <term>Nashville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>Lockman, John T., 1834-1912 -- Correspondence.</term>
+               <term>DeWitt, Edward, 1816-1872 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000169_000200_0001.jpg" xml:id="d3e155"/>
+            <p>1864 June 22-July 6 </p>
+            <p>Lockmans <unclear reason="illegible" resp="NW">diary</unclear>
+            </p>
+            <p>Soldiers Letter</p>
+            <p>John T. Lockman</p>
+            <p>@ <unclear reason="illegible" resp="NW">il ins V</unclear>
+            </p>
+            <p>Edward Dewitt Esqr</p>
+            <p>88 Nassau <unclear reason="illegible" resp="NW">prest </unclear>
+            </p>
+            <p>New York</p>
+            <p>City,</p>
+            <pb n="2" facs="0012_000169_000200_0002.jpg" xml:id="d3e186"/>
+            <p>Hqres 119 M near Marietta Ga June 22nd 1864 4 am still in old position - nothing new or stirring</p>
+            <p>10 am</p>
+            <p>we have moved 3/4 ofa mile nearer to the rebels &amp; taken a good position - built breastworks &amp; are awaiting the next move</p>
+            <p>8 PM About 4 1/2 pm the Rebels made an attack on one of the Brigades <unclear reason="illegible" resp="NW">afour</unclear> 1st division &amp;were signally repulsed with heavy loss we had a good view of the attack and repulse as it occurred about half a mile to our right - our men had just taken position &amp;had not thrown up any breast works &amp;did not number all told 1000 men the rebel Genl Hood&apos; Corps <unclear reason="illegible" resp="NW">nunurred ages </unclear>
+            </p>
+            <pb n="3" facs="0012_000169_000200_0003.jpg" xml:id="d3e205"/>
+            <p>the extreme right afour line and &quot;stevensons&quot; division charged the federal Brigade we killed<unclear reason="illegible" resp="NW">&amp; wounded </unclear>nearly double the number ofmen we had under fire - our artillery fire was effective &amp;destructive - &amp; served to great advantage it was almost enough to drive them back alone.</p>
+            <p>At dusk our Brigade moved to close up a gap between the 1<unclear reason="illegible" resp="NW">dw </unclear> &amp; <unclear reason="illegible" resp="NW">ans </unclear> (the 2nd) &amp; we had to build more breastworks - the rebels did not come out very boldly &amp; when they retired it was in anything but good order &amp; with heavy loss.</p>
+            <p>June 23d 4am. nothing new </p>
+            <p>8 Pm ourfront is very quiet the 4 Corp</p>
+            <pb n="4" facs="0012_000169_000200_0004.jpg" xml:id="d3e228"/>
+            <p>had a brisk skirmish at 4 1/2 p.m. lasting until 5 pm we busied ourselves with strengthening our works.</p>
+            <p> June 24 1864 5am</p>
+            <p>No move this am - the picket firing increases at intervals &amp; then there is a lull along the lines. The weather is most awfully hot - &amp; but little shade - the troops stand it well &amp; dont seem to mind it a great deal</p>
+            <p>9 PM Heavy picket firing - nothing new or important to note </p>
+            <p>June 25 1864 5am</p>
+            <p>No move this am one Corps still occupies it old position</p>
+            <p>6 PM There has</p>
+            <pb n="5" facs="0012_000169_000200_0005.jpg" xml:id="d3e248"/>
+            <p>been heavy firing on our left to day &amp; it is presumed this <unclear reason="illegible" resp="NW">a</unclear> portion of the 14 Corps engaged - where the army of the Tennessee is, no one appears to know. We hold one of the main roads leading from Marietta to Atlanta and are just as near the river as the Rebels should they fall back we can pursue as rapidly as they retreat - Everything seems <unclear reason="illegible" resp="NW">working</unclear> finely</p>
+            <p>June 26 5am </p>
+            <p>Still in old position - a new work was finished last night for Artillery &amp; our breastworks were connected on the <unclear reason="illegible" resp="NW">righr</unclear>&amp; left so as to form a continuous line- </p>
+            <p>11 am Tis rumored to day that Genl Rosecranz with 100000 men</p>
+            <pb n="6" facs="0012_000169_000200_0006.jpg" xml:id="d3e271"/>
+            <p>is moving to re-enforce our Army - with that number added to our present force - we will be able to surround Johnston&apos;s Army = we are situated so that should Johnston rtreat we could reach Atlanta about the same- time</p>
+            <p>8 P.M. rumors of a move to-morrow morning at daylight. to attack a hill in front of 4.corp tis rumored that our attack is to be a feint.</p>
+            <p>June 27 4AM all ready for a move</p>
+            <p>7 AM moved and took position in front of our division and soon moved on the enemy after driving their advance</p>
+            <pb n="7" facs="0012_000169_000200_0007.jpg" xml:id="d3e285"/>
+            <p>picket &amp; skirmishes in we were halted &amp; directed to entrench which we did in short order &amp; we now hold the ground entrenched &amp; <unclear reason="illegible" resp="NW">20sdy</unclear> for a stubborn resistance in case of attack -</p>
+            <p>9 PM. Pickets keep up a <unclear reason="illegible" resp="NW">bruily</unclear>fire &amp; do but little damage -</p>
+            <p>June 28 1864. 4am Still in old position all remains same - as usual.</p>
+            <p>9 PM nothing new</p>
+            <p>11 PM heavy musketry fire <unclear reason="illegible" resp="NW">hoke</unclear> out on the night but it soon ceased - I have not learned the cause of it</p>
+            <p>June 29, 1864 4 am</p>
+            <pb n="8" facs="0012_000169_000200_0008.jpg" xml:id="d3e312"/>
+            <p>under Arms a daylight no attack night passed rather quietly</p>
+            <p>1 PM detailed as Field Officer of the day of division - </p>
+            <p>11 PM just returned from a visit to the lines gave the Brigade officers instructions not to allow the men to fire unless the enemy made an advance or demonstration consequently we had a quiet night-</p>
+            <p>June 30 4 am About 2am the Rebels attacked a portion of the 14 Corp immediately on the left of &amp; connecting with our division &amp;they were repulsed with loss the action lasted about 20 min</p>
+            <p>7 PM orders recd</p>
+            <pb n="9" facs="0012_000169_000200_0009.jpg" xml:id="d3e328"/>
+            <p>to hold ourselves in readiness to move at a moments notice as we were to be relieved &amp;move further to the right</p>
+            <p>11 PM moved from old position</p>
+            <p>July 1. 2am in new position any Regt being in the advanced <unclear reason="illegible" resp="NW">works </unclear> about 300 yards from main line - till called a port of observation but <unclear reason="illegible" resp="NW">use e c dont</unclear>see anything but woods on any side. </p>
+            <p>9 PM quiet sieges all day long the bullets have rung - hummed and whizzed over and darkness brings us quite a relief - </p>
+            <p>July 2 -4am Heavy Artillery and skirmish fire opened along our lines the Rebels did not reply</p>
+            <p>9 PM quiet rebels reported to be retreating</p>
+            <pb n="10" facs="0012_000169_000200_0010.jpg" xml:id="d3e352"/>
+            <p>July 3d 1864. 3 am Rebels left their position at 11 PM &amp; retreated - tis said to the south bank of the Chattahoochee river - our skirmishes are getting a large number of prisoners - I being in the temporary command form Brigade - was the first into &quot;the Rebel works.- &quot;the 1 &amp; 3d Brigades lying <unclear reason="illegible" resp="NW">nearce</unclear> followed</p>
+            <p>6 P M we have just halted to Camp for the night - Marietta &amp; the strong position on Kenesaw Mts are in our possession we are camped 6 1/2 miles from the river &amp;1 <unclear reason="illegible" resp="NW">b - </unclear> from Atlanta - <unclear reason="illegible" resp="NW">Giony</unclear> enough for one 4&amp; of July = I think the number of prisoners taken by our div</p>
+            <pb n="11" facs="0012_000169_000200_0011.jpg" xml:id="d3e371"/>
+            <p>will amount to 200. nearly all the div average 150 - &amp; the whole number taken yesterday will be over 3000 some say 5000. they are getting tired of fighting ^&amp; hundreds will desert &amp; come in as soon as they can -</p>
+            <p>9 PM all quiet</p>
+            <p>July 4 1864. 4 am Our Bands are all playing &amp; the National Airs float over Georgia in grand style we have penetrated one vast wilderness. 170 miles fought almost daily since 8-May- &amp; we are not out of the woods yet nor have we Atlanta - both of which events I trust to be able to chronicle are another score of days God willing</p>
+            <p>9 PM quiet reigned</p>
+            <pb n="12" facs="0012_000169_000200_0012.jpg" xml:id="d3e386"/>
+            <p>along our front. the 15 corp attacked &amp; carried the 1st line of the enemies works in their front</p>
+            <p>July 5. 4 am- The Rebels retreated during the night - we move in pursuit immediately </p>
+            <p>4 1/2 PM we have come up with the enemy they are strongly posted on a ridge running parallel with the Chattahoochee river &amp; distant about 1 1/2 miles there from - I climbed a tree &amp; had a good view of the famed City of Atlanta &amp; the surrounding Country &amp; works tis a likely place - &amp; seems to stand on high ground - the Country looks level but very woody - the sight of the town enspirits the men &amp; they really have an opportunity </p>
+            <pb n="13" facs="0012_000169_000200_0013.jpg" xml:id="d3e398"/>
+            <p>of seeing the (objective) point of their 6 3 days campaign the trees are filled with the curious &quot;Yanks&quot; all eager to see Atlanta. At Genl Hookers Hd Qurs a view of the town can be attained from the ground - &amp; hundreds avail themselves of it - Tis no word that the 17 Corp is to attack this afternoon their artillery is now engaged</p>
+            <p>9 P.M. no attack made - quiet reigns</p>
+            <p>July 6. 1864. 5 am No orders to move as yet skirmishes are being pushed <gap resp="Williams"/> to <unclear reason="illegible" resp="NW">feel</unclear> for the rebels <gap resp="Williams"/> have found them - tis not likely they will fall back without being compelled to by a flank movement or a defeat- </p>
+         </div>
+      </body>
+   </text>
+</TEI>

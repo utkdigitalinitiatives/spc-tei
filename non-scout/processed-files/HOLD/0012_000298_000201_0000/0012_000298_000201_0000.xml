@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Yazoo City, Miss., to Mrs W. R. Hackley in Bloomington, Il.<date when="1865-09-17">1865 Sept. 17</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Yazoo City, Miss., to Mrs W. R. Hackley in Bloomington, Il.1865 Sept. 17</title>
+               <date when="1865-09-17">1865 Sept. 17</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolf Hackley Letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000201_0001.jpg" xml:id="d4e39"/>
+            <p>Office of Assistant Special Agent Treasury Department,</p>
+            <p>District of Vicksburg,</p>
+            <p>FOR ABANDONED AND SURRENDERED PROPERTY.</p>
+            <p>Yazoo City 186</p>
+            <p>Sept 17. 1865</p>
+            <p>My Darling</p>
+            <p>I arrived here on the morning of the 13th 12 hours from Vicksburg from which place I write you. this is a nice little town on high Bluffs and <unclear reason="illegible" resp="JCM">pand</unclear> sidewalks and many pretty houses and gardens and being about 100 miles north of Tallahassee the same plants flourish here The crape Myrtle grows to quite a tree and is now in full bloom the cape Jessamine in every garden 8 or 10 feet high and in large bunches, Figs trees as high as my leg but the first crop of fruit is gone and the second not ripe. <unclear reason="illegible" resp="JCM">Muscadine</unclear> grapes ripe and plenty and fine large pears - roses of many <unclear reason="illegible" resp="JCM">hind</unclear> in bloom in feet I enjoy it much but hot oh! how hot I am out all day with perspiration The people are large tal and healthy looking but alas! many with one leg or arm gone nearly every man in this place was in the Southern army and tho conquered have the same feeling still</p>
+            <pb n="2" facs="0012_000298_000201_0002.jpg" xml:id="d4e64"/>
+            <p>the negroes as every where else a perfect <unclear reason="illegible" resp="JCM">nirscan</unclear> and the troops here bring all Black the niggers is Master, I heard of a fine farm within six miles of town having been sold for fifty cents an acre but what is property worth when under the present state of things. I find several persons here from Fredericksburg who were well acquainted with the Carmichaels and Willis and <unclear reason="illegible" resp="JCM">in</unclear> first Cousin of Mine a Mrs Morton when I have not  yet seen as she lives a short way out in the country and I have been very busy getting things to work as I shall <unclear reason="illegible" resp="JCM">leave</unclear> for home next Friday the 22D leaving Steapeh Athearn here  - the office pays about $30 per day exclusion of niy $6 per day and mileage the Episcopal Church is a wreck so I <unclear reason="illegible" resp="JCM">aimaim</unclear> at them to day. The Roman Catholic Presbyterian &amp; the Universal Methodist have churches and services. This is the first sunday since I left home that I hav enot been on the River and suppose next sunday I will be on my way to Memphis from Vicksburg. I should be well satisfied with my present position if it was not for your disappointment which worries me all the time. I hope <unclear reason="illegible" resp="JCM">however</unclear> that we may soon be able to get a home where we will be together all the rest of our days this hope is the only thing that partially reconciles me to our frequent and long separation</p>
+            <pb n="3" facs="0012_000298_000201_0003.jpg" xml:id="d4e83"/>
+            <p>God grant that we may not be disappointed I cannot say what you had but do about the childrens schooling you will judge for yourself in that as all other mothers about the house I have found a <unclear reason="illegible" resp="JCM">liy</unclear> here who wishes to go up with me he is a bout the size of Sam and bears the same name I have him about the office and will see how he will do before I start, I expect to be with you about the 27 - in the night <unclear reason="illegible" resp="JCM">Curio</unclear> train praying that you may all be well and not miss me too much</p>
+            <p>I remain</p>
+            <p>Your affe husband</p>
+            <p>W R Hackley</p>
+            <p>Mrs W. R. Hackley</p>
+            <p>Bloomington</p>
+            <p>Ills</p>
+         </div>
+      </body>
+   </text>
+</TEI>

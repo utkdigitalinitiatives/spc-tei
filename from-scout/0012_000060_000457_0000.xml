@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000457_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter (copy),
+<name>J.G.M. Ramsey</name>
+ in Knoxville, Tenn., to Albert S. Marks in Nashville, Tenn.<date when="1879-11-18">1879 Nov. 18</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Rosinski, Wanda</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000457_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter (copy), J.G.M. Ramsey in Knoxville, Tenn., to Albert S. Marks in Nashville, Tenn. 1879 Nov. 18</title>
+               <date>1879-11-18</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2 digital images; 2 p.</extent>
+               <note type="abstract">1879 Nov. 18 J.G.M. Ramsey, Knoxville, Tenn., to Gov. Albert S. Marks, Nashville, Tenn. (Copy) Expresses appreciation for the honor of being appointed a delegate to the Yorktown Centennial. Gives account of Tennessee&apos;s part in the founding of American independence. Declines the appointment because of his lameness.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Tennessee -- History -- Revolution, 1775-1783.</term>
+               <term>Yorktown (Va.) -- History -- Siege, 1781 -- Centennial celebrations, etc.</term>
+               <term>United States -- History -- Revolution, 1775-1783.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e147">
+            <pb n="1" facs="0012_000060_000457_0001.jpg" xml:id="d3e148"/>
+            <p>Copy of answer</p>
+            <p>To</p>
+            <p>Gov. Albert S. Marks Letter of</p>
+            <p>Nov. 13. 1879 -- appointing me</p>
+            <p>delegate to Yorktown</p>
+            <p>To His Excellency</p>
+            <p>My Dear Sir</p>
+            <p>Your esteemed favor of the 13th has been received.</p>
+            <p>I feel greatly obliged to you for the offer you make of appointing me the Delegate from Tennessee to the Centennial Celebration at Yorktown Oct. 19, 1781. I consider your selection as highly complimentary to myself &amp; the matter of it as the highest honor of my long life when you say it belongs to me as a matter of right. You over estimate any services I may have rendered to my native State -- proud, patriotic Tennessee when you say they amount to a right. I have only done &quot;what I could&quot;.</p>
+            <p>But Tennessee &amp; her pioneers have a very valid &amp; perfect right to be represented at Yorktown. Tho not one of the &quot;good Old Thirteen&quot; <unclear reason="illegible" resp="JR">(to nominee)</unclear> bore an early, a very active &amp; most decisive part in the establishment of the American Independence.</p>
+            <pb n="2" facs="0012_000060_000457_0002.jpg" xml:id="d3e178"/>
+            <p>Her pioneers at <unclear reason="illegible" resp="JR">Abinance</unclear> in 17 formed the first armed defense against British <unclear reason="illegible" resp="JR">mionela</unclear> &amp; Colonial Tyranny &amp; the first armed resistance to arbitrary authority &amp; usurpation.</p>
+            <p>Driven from the field at Abinance they shook the <unclear reason="illegible" resp="JR">cold from their brow</unclear> crossed the mountains &amp; at Watauga -- in a condition of political orphanage these bold &amp; patriotic freemen laid the foundation of <gap resp="Roberts"/> government &amp; of freedom in Tennessee. It subsequent periods of the Revolutionary struggle these pioneers were the first to resist the advances of the British army &amp; this ended in the defeat &amp; capture &amp; surrender of Cornwallis at Yorktown -- the Centennial of which approaches.</p>
+            <p>Most cheerfully would I accept the appointment you have offered me in representing the descendents of so gallant an ancestry as ones at the approaching Centennial, but this in usual health &amp; in the 83 year of my age the <unclear reason="illegible" resp="JR">lamones</unclear> which confined me to my room when I last had pleasure of seeing you have still continued &amp; will make it almost physically impossible for me to attend.</p>
+            <p>In disclaiming the high position your too great <unclear reason="illegible" resp="JR">partiabity</unclear> his assigned me I must add that it is done most reluctantly &amp; almost against my full consent But imperative necessity must control my decision</p>
+            <p>In the mean time I may not omit this opportunity to express to you my high appreciation of the honor intended me &amp; the assurance of the consideration &amp; esteem with which I am </p>
+            <p>most Respectfully your Obt. Svt.</p>
+            <p>J.G.M. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

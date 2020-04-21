@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000238_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Request from
+					<name>Thomas P. Cope</name>
+				                    to the President and Directors of the Insurance Co. of North America,<date when="1806-10-10">1806 Oct. 10</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Henderson, Ian</name>
+            </respStmt>
+            <author>
+               <name type="person">Thomas P. Cope</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000238_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Request from Thomas P. Cope to the President and Directors of the Insurance Co. of North America,1806 Oct. 10</title>
+               <date when="1806-10-10">1806 Oct. 10</date>
+               <author>
+                  <name type="person">Thomas P. Cope</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000238_0001.jpg" xml:id="d4e39"/>
+            <p>October 10. 1806		Thomas P. Cope		application for loan	on respondentia agreed_</p>
+            <pb n="2" facs="0012_002414_000238_0002.jpg" xml:id="d4e43"/>
+            <p>Gentlemen		I understand that you have money to let on respondentia _ I want $20.000 for the new Ship <unclear reason="illegible" resp="IH">Surquchanna Cap. Blackiston</unclear> for Calcutta_ provided the terms can be rendered mutually satisfactory_ I offer you as my <unclear reason="illegible" resp="IH">sureties Gn. K. Helmuth &amp; Henry K Helmuth_</unclear>
+            </p>
+            <p>Yours Sr		Thos. P Cope	Octor. 10th 1806		The President &amp; Directors of the N. America Insurance Office</p>
+         </div>
+      </body>
+   </text>
+</TEI>

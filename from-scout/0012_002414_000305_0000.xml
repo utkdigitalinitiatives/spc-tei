@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000305_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Report,
+					<name>Jacob Shaltz, William Poyntell, John Large</name>
+				                    in City, State., to Recipient in City, State., <date when="1807-11-17">1807 Nov. 17</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Jacob Shaltz, William Poyntell, John Large</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000305_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Report, Jacob Shaltz, William Poyntell, John Large in City, State., to Recipient in City, State., 1807 Nov. 17</title>
+               <date when="1807-11-17">1807 Nov. 17</date>
+               <author>
+                  <name type="person">Jacob Shaltz, William Poyntell, John Large</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000305_0001.jpg" xml:id="d4e39"/>
+            <p>Report</p>
+            <p>Committee in Case</p>
+            <p>of Woodrapp Sims</p>
+            <pb n="2" facs="0012_002414_000305_0002.jpg" xml:id="d4e47"/>
+            <p>The Committee appointed to enquire into the case of the Ship Woodrapp Sims, Heath Master</p>
+            <p>Report</p>
+            <p>After due enquiry, and consideration of all the facts that can be ascertained, they are of opinion, that the damage sustained in the
+				       first instance, by cutting away a part of the Masts and rigging for the preservation of the People and Cargo after She took ground,
+				       is the only proper charge to a general average   This opinion they conceive is supported by the following considerations.</p>
+            <p>1st.   Because it appears in testimony that no human efforts could have prevented the ship from grounding somewhere at the time,
+				       the direction therefore said to have been given to it, was only a choice of immenent dangers.</p>
+            <p>2nd.  Because after She had taken the ground, a considerable intervening time elapsed when it remained doubtful whether She would
+				       not be eventually and totally lost, no question therefore could have existed during that period as to the general average embracing
+				       any subsequent charges ; such an Idea could only have occurred when the circumstance of her being got on floats was ascertained.</p>
+            <p>3rd.   Because the doubtful state of her ultimate preservation existed so long as to occasion the entire breaking up of her intended
+				       Voyage and was the cause of a considerable part of her funds being shipped on board other Vessels.  For</p>
+            <pb n="3" facs="0012_002414_000305_0003.jpg" xml:id="d4e61"/>
+            <p>these reasons your Committee thinks that the subsequent expences incurred on the ship, are inadmissable under the claim of general
+				       average.</p>
+            <p>As regards a question of referrence, your Committee feel some doubts as to the propriety of acquiesence as it would involve a
+				       concession of principle in a case that appears to them to be conclusively plain.   If however for the honor of the Office, and to evidence
+				       a disposition to meet all questions of claims in a prompt and amicable spirit of accomodation the board should think it advisable to refer,
+				       (in case a majority of the Offices concerned agree to the measure,) your Committee respectfully submits the decision to their better
+				       Judgement.</p>
+            <p>Will. Poyntell</p>
+            <p>Jacob Shaltz              } Committee</p>
+            <p>John Large</p>
+            <p>Insurance Office of No. Ama.</p>
+            <p>Nov. 17, 1807.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

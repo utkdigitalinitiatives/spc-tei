@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000341_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J.G.M. Ramsey</name> in Mecklenburg, Tenn. <date when="1823-02-03">1823 February 3</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000341_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 1823, Feb. 3, J.G.M. Ramsey, Mecklenburg, Tenn. </title>
+               <date>1823-02-03</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1823 Feb. 3, J.G.M. Ramsey, Mecklenburg, Tenn., to apparently the same man as above. (Copy. On same sheet as above) Reports that a pamphlet on the Mecklenburg Declaration has already been published by someone else, but that he still desires information for an appendix to this pamphlet. Mentions that he has named his new home Mecklenburg.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Pamphlets -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Political conventions -- History -- 18th century.</term>
+               <term>Declaration of intention -- History -- 18th century.</term>
+               <term>Mecklenburg County (N.C.) -- History -- 18th century.</term>
+               <term>Tennessee, East -- History -- 19th century -- Pamphlets.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000341_0001.jpg" xml:id="d3e155"/>
+            <p>Mecklenburg Feby. 3. 1823.</p>
+            <p>Dear Sir</p>
+            <p>During the last summer I troubled you with a communication of the subject of the declaration of Independence
+in May 1775 by the County of Mecklenburg N.C. that time I expressed a determination of procuring &amp;
+<unclear reason="illegible" resp="bds">unlocking all</unclear> the evidence on that subject for the press. In
+this I have been anticipated - As a pamphlet in the last year has been published at Raleigh - a copy
+of which Col. <unclear reason="illegible" resp="bds">Polk</unclear> of that place has lately presented
+me with.</p>
+            <p>I still however wish to collect for an appendix to that pamphlet all the information I can. I recollect in
+a conversation with you of hearing you tell many interesting &amp; important facts about the first inhabitants
+of that section of Country lying between the Catawba &amp; Yadkin Rivers - The care they took in the early
+instruction of their youth their J.G.M.R. republican habits - primitive simplicity - American principles &amp;
+attachment to representative Government - With the relation you gave me of a meeting at Col. <unclear reason="illegible" resp="bds">Fifers</unclear> (in <unclear reason="illegible" resp="bds">Cabarris</unclear> County -) for some
+public purpose I was <unclear reason="illegible" resp="bds">peculiarly</unclear> pleased - I hope I do not ask
+too much Sir when I request you to give me a written account of any of the above subjects - &amp; particularly
+the meeting refered to - And the general character of the population of that Country.</p>
+            <p>If I am not mistaken they are the most enlightened virtuous patriotic - Republican people now in the U.S.</p>
+            <p>You will excuse my feelings on this matter - A - descendent myself of one of the members of that immortal
+Convention &amp; am enthusiastic admirer of that lofty spirit of freedom &amp; Indepence which dictated its
+resolutions I shall spare no pains in procuring the evidence that will <unclear reason="illegible" resp="bds">establish</unclear> such an important historical fact - </p>
+            <p>You see I have called my new residence Mecklenburg</p>
+            <pb n="2" facs="0012_000060_000341_0002.jpg" xml:id="d3e193"/>
+            <p>Mecklenburg Near Knoxville</p>
+            <p>Dear Sir</p>
+            <p>In the course of the last year a pamphlet was published at Raleigh N.C. containing documents of a new
+&amp; interesting nature It appears from it that in May 1775 a convention composed of two members from each
+Militia Company in Mecklenburg County (which then included what is now Cabarrus) met at Charlotte to take
+into consideration the existing state of affairs. General Thomas Polk was chosen their president and my
+late Grand-father John McKnitt Alexander Esq. their Secretary. They soon unanimously formed a declaration
+of Independence. This is certainly an important event in the history of this Country and altogether
+honorable to the illustrious &amp; patriotic members of the Convention that formed it. Not only because
+in that interior section of the Country where the oppresions of the Mother Country were scarely felt they
+declared their Independence of her and their attachment to the principles a representative government more
+than thirteen months before the declaration by Congress was made but also because the same declaration
+then made was afterwards adopted by the General Congress which you will plainly see by adverting to the
+instrument itself where not only the same lofty spirit is expressed but also in the same <unclear reason="illegible" resp="bds">phraseology</unclear> and even the very words.</p>
+            <p>Best I leave it to others to eulogise this great national event - The object I have in view in writing
+to you is this - I intend publishing the Pamphlet with an apendix - In which additional evidence shall
+be contained, and additional facts I have opened a correspondence with several Individuals from 
+whom I expect to obtain &amp; from some of whom I have already obtained confirmations of the fact
+&amp; additional matter of the same kind. And knowing of several old <unclear reason="illegible" resp="bds">Gentament</unclear> of your acquaintance had emigrated from Meck - at an early period
+to this state &amp; settled near you I determined to make application to you to assist me in my inquiries.
+Could you see old Uncle <unclear reason="illegible" resp="bds">Ezekiel</unclear> Alexander and ask him
+to give you a written statement of any thing he may know respecting the above subjects? From Mr. Ezekiel
+Sharpe if yet living &amp; Mayor John Sharpe I hope you will also procure all the testimony which they
+yet can give of any transactions of that Convention. A certificate under the signatures of these three
+men would be a desirable addition in my appindix - Or if their is any other source from which you can
+collect any thing be so good as to communicate it to me by mail.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

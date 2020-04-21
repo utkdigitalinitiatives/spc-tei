@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000205_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                  in Convalesent camp near Nashville, Tenn. to Caroline M. Brown,<date when="1862-09-14">1862 Sept. 14</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000205_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Convalesent camp near Nashville, Tenn. to Caroline M. Brown,1862 Sept. 14</title>
+          <date when="1862-09-14">1862 Sept. 14</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.599</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000205_0001.jpg" xml:id="d4e39"/>
+        <p>Convalesent Camp Near</p>
+        <p>Nashville Tenn</p>
+        <p>September</p>
+        <p>CAROLINE  M.  BROWN</p>
+        <p>14th  1862</p>
+        <p>Dear Companion I Sit down This Sabath After noon To inform You how I am at this Time I am not verry well 
+				       I tell you <unclear reason="illegible" resp="pw">how</unclear>I feel verry poorly With what i Sufer with
+				       My feet and legs and The athsma has set in with the rest or Something Like it i have to coff A grate deal at
+				       night And Some throught The day and i am Getting verry poor</p>
+        <pb n="2" facs="0012_000599_000205_0002.jpg" xml:id="d4e56"/>
+        <p>And for getting home i See But a Slim chance For my part the old Papers are all lost and I cant tell when they will
+				  get up any new Ones for us thar is one Thing i know and is This if i was at home I would be better cared For than
+				  whare i am  My feet and legs are Not weld as much as They ware Some time Ago But pain me By Spells rite Smarte</p>
+        <p>The Skin just above The ancle Was allmost Growed to the bone  it Feels like grisle Now If this to hand I do not
+				  want you to greave</p>
+        <pb n="3" facs="0012_000599_000205_0003.jpg" xml:id="d4e62"/>
+        <p>About my Situation For we are too far apart To help Each other at this Time altho i would Like to be with you And
+				  the rest of the Family to in Joy peace And comfort once more To gether i think if i Was there now i would Not be
+				  Excited gain  For i see i cant stand Any longer in the Servise  I am wore out with Hardships and Exsposier  I do hope 
+				  these few Lines will find you all In good health I will Just we have not bin Paid any Since i sent you them 12 Dollars
+				  there Is about Sixty dollars</p>
+        <pb n="4" facs="0012_000599_000205_0004.jpg" xml:id="d4e66"/>
+        <p>Due me now if i had Some of that now i Could get thing that i Could Eat  you wanted To know whare you Should
+				  Sow Some wheat If i did not get home In time you had better Try and get the corn Cut up as soon as it will do
+				  atall and Sow that field that A <unclear reason="illegible" resp="pw">Svers</unclear>had  in and the Orchard
+				  lot up as far As that row of peach Trees back of the house  you must do the best you can and Cook  Look for me
+				  untill you see me comeing  No more yours untill Death good by</p>
+        <p>HENRY  BROWN.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000458_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Albert S. Marks</name>
+ in Nashville, Tenn., to J.G.M Ramsey in Knoxville, Tenn.<date when="1879-11-13">1879 Nov. 13</date>
+            </title>
+            <author>
+               <name type="person">Marks, Albert Smith, 1836-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000458_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Albert S. Marks in Nashville, Tenn., to J.G.M Ramsey in Knoxville, Tenn. 1879 Nov. 13</title>
+               <date>1879-11-13</date>
+               <author>
+                  <name>Marks, Albert Smith, 1836-1891</name>
+               </author>
+               <extent>2 digital images; 1 envelope, 1 p.</extent>
+               <note type="abstract">1879 Nov. 13 Albert S. Marks, Governor of Tennessee, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Appoints J.G.M. a delegate to the Yorktown Centennial celebration. Requests that he advise the writer as to whether he will accept the appointment. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Yorktown (Va.) -- History -- Siege, 1781 -- Centennial celebrations, etc.</term>
+               <term>Yorktown (Va.) -- History.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e143">
+            <pb n="1" facs="0012_000060_000458_0001.jpg" xml:id="d3e144"/>
+            <p>Dr J.G.M. Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000458_0002.jpg" xml:id="d3e156"/>
+            <p>Nashville, Novr. 13th, 1879.</p>
+            <p>Dr JGM Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>My dear sir:</p>
+            <p>It is my duty to appoint a delegate to represent the State of Tennessee in the Yorktown Centennial Celebration. If you will accept the appointment I will confer it upon you as it belongs to you as a matter of right. Advise me at you earliest convenience whether you you accept and oblige</p>
+            <p>Your friend</p>
+            <p>Albert S. Marks</p>
+         </div>
+      </body>
+   </text>
+</TEI>

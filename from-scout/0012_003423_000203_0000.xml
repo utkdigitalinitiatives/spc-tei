@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003423_000203_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Joseph Oliver Freeman</name> in <name type="place">Corinth, Mississippi</name>, to Indiana Freeman, 
+               <date when="1862-03-25">1862 March 25</date>
+            </title>
+            <author>
+               <name>Freeman, Joseph Oliver</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_003423_000203_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Joseph Oliver Freeman</name> in <name type="place">Corinth, Mississippi</name>, to Indiana Freeman, 
+                  <date when="1862-03-25">1862 March 25</date>
+               </title>
+               <date when="1862-03-25">1862 March 25</date>
+               <author>
+                  <name>Freeman, Joseph Oliver</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Joseph Oliver Freeman Letters, 1863 October 13, to 1864 April 11</note>
+               <note type="manuscript">MS.0806</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Religious aspects.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e175">
+            <pb facs="0012_003423_000203_0001.jpg" n="1" xml:id="d2e177"/>
+            
+            <opener>
+               <dateline>    
+                  <date when="1862-03-25">March 25 D 1862</date><lb/>
+                  <name type="place">Corinth</name><name type="place">tishmingo CO</name><lb/>
+                  State of <name type="place">mississippi</name>
+               </dateline>
+            </opener>
+            
+            <salute>my Dears wife</salute>
+            
+            <p>I take the opetuney of Riten you a few lines to lete you no that I am yeat a live hope when thes few lines comes to hands that thay may finds you in gud helth my Dear has noth new to Rite oly all is well  I has Rote and Rote and hav never hav receve no letter from you yeat  I hav lost all hopes of ever heren from you evr moer thay is A bote ninty thousent Chalgs her</p>
+            <p>wee ar fixten to Draw our money and as son as i can Draw hit I will send hit home the ferst chanch I git</p>
+            
+            <pb facs="0012_003423_000203_0002.jpg" n="2" xml:id="d2e208"/>
+            <p><unclear reason="illegible" resp="PW">pucky A</unclear>member of hor Comney <unclear reason="illegible" resp="PW">Dibe</unclear>to day we ar
+               in <name type="person"><choice><orig>genrel Chalmes</orig><corr resp="pw">General Chalmers</corr></choice></name> brigad  I noth no to rite Indy Rite to me as son as you git this let me no how you ar a to me as son as you git this  let me no how you ar a gitten along and how times is thar so noth mo at present</p>
+            <p>giv my lov and repecekes to all my frends so no but remane your Dears Boy so far you well my Dear Inday</p>
+            <p>Direck you letter to the <name type="org"><choice><orig>fiftey first Rigman tennssee</orig><corr resp="pw">51st Regiment, Tennessee</corr></choice></name> voltears Comney A</p>
+            <p>Inday I am mity <unclear reason="illegible" resp="PW">ovessey</unclear>abote you my harte all most brak sumtimes when I thik abote us A ben paret bute we muste taket hit the best way we can we hafter weark evr Day Dige in the Diches</p>
+            
+            <pb facs="0012_003423_000203_0003.jpg" n="3" xml:id="d2e244"/>
+            <p>and chofendon trese thay ar forfine this plase I sene luis Daves and gorge smith her noles Rigmon is her I excpek you Brother Frank is her but cant git a chance to look for him for I Cant git A Canch to goe ef From the Rigman  I did git A chanch to go and see luis the erthr Day</p>
+            <p>tel Brother Charle that I receve his litter that he sent by fil boles and I was sarre to her that he was sick  tel Mrs Scales that ed is well all the rest is well  tel Chrle that we hav move abote A mile From whor we wer  tel all my Frends to Rit to me I wod like to git A leter ever Day so noth mo but remane you afection Husban so Far you well my Dears Inday  Direck you letters to the Fiftey First Rigman tennessee volters to - Compeney A  So Far you well my Dears</p>
+            
+            <pb facs="0012_003423_000203_0004.jpg" n="4" xml:id="d2e253"/>
+            <p>Joseph. O. Freeman</p>
+            <p>Inday I am A Com home as son as I can thay hav shot don on Furlow thay onl let no one leve no long then tow ower at time</p>
+            <p>giv my Repeckes to Mrs Dennis and Famley and John Stokes and Famley and to all the conneck</p>
+            <p>So Far you well my Dears and Fection <unclear reason="illegible" resp="PW">of</unclear>Wife</p>
+            <p>I Joseph. O. Freeman</p>
+            <p>So Far ye</p>
+         </div>
+      </body>
+   </text>
+</TEI>

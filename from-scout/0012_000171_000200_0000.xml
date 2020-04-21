@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000171_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>William T. Presley</name>
+ in Chattannooga, Tenn., to H.A. Presley in Prattville, Ala.<date when="1862-09-20">1862 September 20</date>
+            </title>
+            <author>
+               <name type="person">Presley, William T.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000171_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William T. Presley in Chattanooga, Tenn. to H. A. Presley in Prattville, Ala., 1862, September 20</title>
+               <date>1862-09-20</date>
+               <author>
+                  <name>Presley, William T.</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">William T. Presley of the 1st Alabama Cavalry, Company A wrote to his wife in Prattville, Alabama on September 20, 1862 from &quot;camp direction Chattanooga.&quot; He mentioned a minor health problem and that he had orders to leave soon for Knoxville. He mentioned 2 men who were with him that were sick. Presley mentioned his need for a horse. He said the ones in the cavalry weren&apos;t very good. He felt people who were not in the war should help those who were. He sent his wife a song ballad and asked her to keep it until he got home. He seemed low in spirits. He sent her and others his love and respect. He missed his children. He prayed God would protect his loved ones. </note>
+               <note type="collection">William T. Presley Correspondence </note>
+               <note type="manuscript">MS.2783</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Alabama -- Correspondence.</term>
+               <term>Families of military personnel -- United States.</term>
+               <term>Military spouses -- United States.</term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Alabama -- History -- Civil War, 1861-1865.</term>
+               <term>Presley, William T. -- Correspondence.</term>
+               <term>Presley, H. A. (Henry A.) -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000171_000200_0001.jpg" xml:id="d3e164"/>
+            <p>Camp direction chattanooga Tenn Sept 20th 1862</p>
+            <p>Dear Henry</p>
+            <p>I again seat myself to invite you again we have orders to leave and I will write you a few lines today for fear I dont get the chance to write you again soon. I am in pretty good health at this time. I am troubled yet with my bowels though not half so bad as when I wrote to you before. I hope these lines may find you and the family well. Wright and Newton is both in camp Wright has been at the Hospittal ever since I wrote to you before until yesterday he come to camp him and Newton is both improving though it is slow Newt is as poor as a shad they both Stay they with me the most of the Time Newton has been here about 4 or 5 days he has stayed with me every night since he got here. we will go from here to Knoxville on the cars and <unclear reason="illegible" resp="NW">then</unclear> take it a few feet across our regt all the Soldiers about this place are ordered away. we had orders yesterday evening to be ready to start to day by 12 oclock but we have heard nothing of it to day and the probability is that we want start before day after tomorrow which will be Monday, oh how I do want a horse to ride and go straight on to the regt as it is I will have to make out the best I can and only draw half pay. I think if I was at home </p>
+            <pb n="2" facs="0012_000171_000200_0002.jpg" xml:id="d3e179"/>
+            <p>that Brother Evan would let me have that Sorril Pony of his. She would make a far superior cavalry horse to what some of them are now in Service. I think that all men that are worth Property ought to try to help us poor creatures that have left our families to fight to protect them as well as our own families. the worth of a Horse wont be nothing to them and wont be of great help to us. Notwithstanding they have done a good part that is not like having all these property confiscated by the Yankees which would have been the case if it had not been for the Poor men of the country Henry you must excuse a short letter this time as I have so much knocking about to do that it keeps me bothired so I cant half write. I send you a song ballad and Narcissa can show it off from the one I send you and you must keep it Till I get home if I ever do. My respect to Mrs. and Mr. Sale and John and all inquiring friends My love to Brother Evan and Family and reserve a large share for yourself Kiss all the children for me oh if I was with them today it would be a treat to good for me to talk about unless I could be there Sure enough May God in his mercies Guide and protect you is my prayer for you all</p>
+            <p>Good Bye for the Present </p>
+            <p>W.T. Presley or Willie</p>
+            <p>To Mrs H.A. Presley</p>
+            <p>Henry when you get this you need not write until you hear from me again</p>
+            <p>W.T. Presley </p>
+         </div>
+      </body>
+   </text>
+</TEI>

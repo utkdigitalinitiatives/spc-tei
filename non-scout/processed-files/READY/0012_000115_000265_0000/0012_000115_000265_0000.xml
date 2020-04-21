@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000265_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1845-10-31">1845 Oct. 31</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000265_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1845 Oct. 31</title>
+          <date when="1845-10-31">1845 Oct. 31</date>
+          <author>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000265_0001.jpg" xml:id="d4e38"/>
+        <p>Major Bradford,</p>
+        <p>Sir</p>
+        <p>Enclosed is your account which you will oblige me by paying over to Mr.<unclear reason="illegible" resp="EMS">J.Mc Clarina</unclear> when convinient - I hope you will be satisfied with Betty's progress in her music and that on my return to Carthage she will again join my class - I respect to recommence my school here in Jany.</p>
+        <p>Respectfully Yrs.</p>
+        <p>Isabelle C. Robertson</p>
+        <pb n="2" facs="0012_000115_000265_0002.jpg" xml:id="d4e53"/>
+        <p>Cathage Oct 31st 1845</p>
+        <p>Major Bradford,</p>
+        <p>To Mrs I. C. Robertson</p>
+        <p>Tuition in Music 4 1/2 months $22.50</p>
+        <p>Burrowes Primer .62 1/2</p>
+        <p>Use of Instruction Book .25</p>
+        <p><unclear reason="illegible" resp="EMS">Ninlock &amp; Recruiting Insich</unclear>.25</p>
+        <p>Brunswick waltz &amp; reels.25</p>
+        <p>$23.87 1/2</p>
+        <pb n="3" facs="0012_000115_000265_0003.jpg" xml:id="d4e75"/>
+        <p>Received Carthage 25th Jany. 1846 of David Burford Twenty three Dollars &amp; 87 1/2 Cents in full of the written acct $23.87 Jamison &amp; M. Clarin</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000305_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J.G.M. Ramsey</name>
+				               in Charleston, S.C., to Mrs. Daniel Breck and M.B.C. Ramsey in Mecklenburg, Tenn., <date when="1852-12-06">1852 December 6</date>
+            </title>
+        <author>
+          <name type="person">Ramsey, J. G. M. (James Gettys McGready)</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000305_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J.G.M. Ramsey in Charleston, S.C., to Mrs. Daniel Breck and M.B.C. Ramsey in Mecklenburg, Tenn., 1852 December 6</title>
+          <date when="1852-12-06">1852 December 6</date>
+          <author>
+            <name type="person">J.G.M. Ramsey</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1852</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000305_0001.jpg" xml:id="d4e44"/>
+        <p>Charleston Dec. 6. 1852.</p>
+        <p>My Dear Liddy</p>
+        <p>This morning I recd. your Dalton letter - one from your uncle A. &amp; also one from Charlotte.  I answer yours at once.  How considerate it was in you to write to me.  I had heard nothing direct from you so long - I did not know where - nor how you were &amp; was very glad to hear you were so near home &amp; hope you arrived there on the 2nd Dec.  You say you wish you could have seen me before I left.  Well you are now at home &amp; must spend at least the whole winter there &amp; I should wish a long life after at Mecklenburg  I hope the Col. has arrived before this &amp; that you &amp; he can content yourselfs there.</p>
+        <p>I am quite engrossed with my book.  The Publishers give me daily one from 16 pages to revise.  It will take 8 or 10 weeks to get it out.  I will hur<gap resp="Hogan"/>m all I can.  I can hardly consent t<gap resp="Hogan"/>om home that long - &amp; if I have to continue<gap resp="Hogan"/> than the 8 weeks may possibly visit y<gap resp="Hogan"/> all at the holidays  Tell Col. B. to write me - &amp; I hope to hear from you occasionally with the rest.  Charlotte your letter was the very thing - all home news - I devoured every word.  How is it that my letters have not reached home.  I wrote all along the road - &amp; several times since I arrived here - have heard twice from Crozier but from no one else yet but Charly.  All will come along after a little.  I suspect the Mecklenburg packages are all sent via Nashville &amp; I therefore send in future all my</p>
+        <pb n="2" facs="0012_000060_000305_0002.jpg" xml:id="d4e62"/>
+        <p>letters to Knoxville - care of J.C. Ramsey into whose box &amp; office Alex. Rob. Mc. &amp; Dr. D. will hereafter always look for them.  I have not yet seen Dr. D's mother.  She happened to be out when I called.  I have called on several friends &amp; have received calls - cards - &amp; invitations in such frequency as to be annoyed by them.  I am too busy to act the genteleman all the time.  But I have to accept some civilities or be considered uncivil myself - I have to dine out to day &amp; to get this letter in the mail must shorten what I wanted to write - but must add one word to your ma.  My Dear Peggy keep yourself perfectly easy - I promise once mo<gap resp="Hogan"/> that when my book is finished I will try never to leave such a burden on you again.  No body else could act in this behalf for me &amp; we must therefore consent temporarily <gap resp="Hogan"/>ngs as they are.  Are you quite <gap resp="Hogan"/>oor Mc. has had the tooth ache <gap resp="Hogan"/> You stay in the cold too much <gap resp="Hogan"/> this time you &amp; R. are through the work.  Both of you enter at once &amp; earnestly &amp; constantly on your studies  Dr. D. is a first rate chance for instructing you &amp; I hope you will both become first rate schollars.  Peggy write me yourself some of these times - kiss Arthur Sue &amp; Charlotte for me &amp; that little fellow upstairs.  All friends here enquire for him &amp; Ardy.  Liddy give my love to all the older ones.  Your Affectionately</p>
+        <p>J.G.M. Ramsey.</p>
+        <p>Alexander what about the mill &amp; your (over) contract in R.R.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

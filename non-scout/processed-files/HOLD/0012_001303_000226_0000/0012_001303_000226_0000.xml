@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000226_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France to Ellen Smith in Jackson, Tenn.,<date when="1918-07-16">1918 July 16</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000226_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1918 July 16</title>
+          <date when="1918-07-16">1918 July 16</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000226_0001.jpg" xml:id="d4e39"/>
+        <p>J.L. Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Rx F</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tenn.</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000226_0002.jpg" xml:id="d4e55"/>
+        <p>July 16 1918</p>
+        <p>Some where in France</p>
+        <p>Dear Ellen:</p>
+        <p>Well I am two days late in writing you this week. But will tell you have been a real busy man here of late. </p>
+        <p>I havent had a letter from you since I wrote you last Sunday We got some mail to day but I didnt get a single letter and I sure did feel bad about it. Most all the boys reading letters and me without  But maybe I will get some before long.</p>
+        <p>I am back home again you know I told you I was at a different place last week, but I came back saturday night. I am with Company headquarters but some times I have to go with one of the other detachments and then I have to be away from what I call home.s</p>
+        <p>We are having some real hot days now but they are not near so hot as it is back in Tennessee</p>
+        <p>I can just amagine how hot you get these days and just laugh up my <unclear reason="illegible" resp="PW">sleaneWORD</unclear>about how nice</p>
+        <pb n="3" facs="0012_001303_000226_0003.jpg" xml:id="d4e76"/>
+        <p>it is over here. But thank I could stand the heat alright if I was at home.</p>
+        <p>Well I may run a little late on my Christmas dinner spect we had better put off that dinner until next february. But I dont know any more about it than you do I am just here and that is all.</p>
+        <p>I have heard some good news to day I hope it is true. But if it is you will know it as soon as I do. Things are real quiet where I am now, dont have near so much mail as we use to.</p>
+        <p>Jno Cortmell got some real bad news to day he got an announsment of his girls wedding I am real sorry for him. I told him I was going to write her and tell her it was a dirty trick to marry some other man while he was so far away that he couldnt take his <unclear reason="illegible" resp="PW">ouen<unclear reason="illegible" resp="PW">hoctWORD</unclear>
+               </unclear>
+            </p>
+        <p>Now if he had been over ther and talk for himself would be different</p>
+        <p>Will I am afraid to laugh at him to much I might get one myself. But I dont believe you would do that way about it.</p>
+        <pb n="4" facs="0012_001303_000226_0004.jpg" xml:id="d4e94"/>
+        <p>What is going on in the city these days? Have they had any picnic this summer? Out at Roberts Park All of us boys talk most every days of how glad we will be when we get back home and what we are going to do</p>
+        <p>But I know most of them will have a hard time for a while Cortmell and McAnnaly any way talking for they talk so much French they have most forgotten English  Can you amagin such a thing Ha Ha. I cant either.</p>
+        <p>Well Ellen it is awful hard for a fellow to write much of a letter for we cant tell very much. I am like a fellow said the other day all I know to write is where I am and what I am doing and I cant tell either one</p>
+        <p>I just thank of some things and write them so guess you would nt enjoy such long letters any way  Write me ever soon the same</p>
+        <p>James L. Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Ex Force</p>
+        <p>France</p>
+        <p>Via, N Y.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

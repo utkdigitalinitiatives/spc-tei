@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000473_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>John M. Lea</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-08-12">1880 Aug. 12</date>
+            </title>
+            <author>
+               <name type="person">Lea, John M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000473_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John M. Lea in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Aug. 12</title>
+               <date>1880-08-12</date>
+               <author>
+                  <name>Lea, John M.</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 p.</extent>
+               <note type="abstract">1880 Aug. 12 John M. Lea, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Long discussion of Tennessee&apos;s part in the Battle of King&apos;s Mountain, research done on this subject by Mr. Lea, and further research planned.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>Cowpens, Battle of, Cowpens, S.C., 1781.</term>
+               <term>Generals -- United States -- Biography.</term>
+               <term>Tennessee -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>United States -- History -- Revolution, 1775-1783 -- Campaigns.</term>
+               <term>Campbell, William, 1745-1781.</term>
+               <term>Shelby, Isaac, 1750-1826.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000473_0001.jpg" xml:id="d3e153"/>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Prest. Tenn. Historical Society</p>
+            <p>Mecklenburg near</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000473_0002.jpg" xml:id="d3e169"/>
+            <p>41 North Vine Street</p>
+            <p>Nashville, Tenn., Aug 12 1880</p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Prest. Tenn. Historical Society</p>
+            <p>My Dear Sir,</p>
+            <p>Not having been able to leave home last Monday, I spent some time in trying to learn &quot;the name of the Senior Officer of the Tennessee Company who was with the North Carolina Troops at the Cowpens.&quot; Simmon&apos;s and also Caldwell&apos;s Life of Greene give no information. The Life of Greene by Johnston in the <unclear reason="illegible" resp="JR">Agatheredan</unclear> Library I have not seen. Mr. Clark the Librarian is absent.</p>
+            <p>The Battle of King&apos;s Mountain was fought the 7th of <unclear reason="illegible" resp="JR">October</unclear> 1880. The Battle of the Cowpens in January 1881. I find in the &quot;Field Book of the Revolution&quot; some lines from an old song --thus --</p>
+            <p>&quot;We marched to the Cowpens, Campbell was there,</p>
+            <p>Shelby, Cleveland, and Col. Sevier,</p>
+            <p>Men of <unclear reason="illegible" resp="JR">remorse</unclear>, Sir, like lions so bold</p>
+            <p>Like lions undaunted, not to be controlled <unclear reason="illegible" resp="JR">V.&quot; Vo.</unclear>
+            </p>
+            <p>The time intervening between these battles was so short. The locality so close, that <unclear reason="illegible" resp="JR">amany</unclear> of the North Carolina (Tennessee) Troops participated in both battles, of course. It seems to me, if those distinguished men had all participated in the Battle of the Company, the record of their names would be marked in</p>
+            <pb n="3" facs="0012_000060_000473_0003.jpg" xml:id="d3e214"/>
+            <p>the description of the battle. I have examined without gathering any light <unclear reason="illegible" resp="JR">Tarleton&apos;s</unclear> Campaigns in America. &quot;The North Carolina Militia&quot; incorporated with which the Tennessee troops won was commanded by Major McDowell and on the day of the battle, the best riflemen of this corps were placed 150 yards in advance of the first line.</p>
+            <p>When I get back home, I shall try to get Johnston&apos;s Life of Greene, but I doubt whether the name of the Officer is mentioned. Would it not be sufficient to say &apos;That the pioneers of Tennessee participated notably in the achievement of the victory&quot; -- or some such declaration. I infer, it is intended to inscribe on the monument the names of the Officers.</p>
+            <p>I shall continue my research and would be glad to hear from you, if convenient on my return home in about a week. In the mean time, would it not be well to make inquiry of Dr. Draper?</p>
+            <p>Very Sincerely</p>
+            <p>Your friend</p>
+            <p>John M. Lea</p>
+         </div>
+      </body>
+   </text>
+</TEI>

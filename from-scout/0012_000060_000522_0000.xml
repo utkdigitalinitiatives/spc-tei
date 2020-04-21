@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000522_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>E.A. Ramsey</name>
+ in Athens, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-04-14">1884 Apr. 14</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, E.A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000522_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, E.A. Ramsey in Athens, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 Apr. 14</title>
+               <date>1884-04-14</date>
+               <author>
+                  <name>Ramsey, E.A.</name>
+               </author>
+               <extent>3 digital images; 3 digital images; 3 p.</extent>
+               <note type="abstract">1884 April 14 E.A. Ramsey, Athens, Tenn., to his aunt, M.B.C. Ramsey, Knoxville, Tenn. Expression of sympathy for the loss of Dr. Ramsey. Explains that business duties prevented his coming to Knoxville.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey family -- health aspects.</term>
+               <term>Tennessee, East -- History, Local.</term>
+               <term>Ramsey, E.A. -- Correspondence.</term>
+               <term>Ramsey, M.B.C. (Margaret Barton Crozier), 1802-1889.</term>
+               <term>Southern States -- History -- 1865-1951.</term>
+               <term>Bereavement and consolation</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000522_0001.jpg" xml:id="d3e151"/>
+            <p>Mrs. J.G.M. Ramsey</p>
+            <p>Knoxville,</p>
+            <p>E. Tenn.</p>
+            <pb n="2" facs="0012_000060_000522_0002.jpg" xml:id="d3e163"/>
+            <p>Athens Tenn. Apr. 14, 1884.</p>
+            <p>Dear Aunt Peggie:-</p>
+            <p>I know your heart is bleeding and crushed today under the great affliction that you have borne the loss of your life companion of more than sixty years; and I write you this note to assure you of my armest and tenderest sympathy with you in this hour of bereavement. Of course I was not suprised to hear of the death of the Dr. because I had frequently heard lately of his rapid decline. But death always comes into our homes as a terrible blow to our hearts.</p>
+            <p>I wanted to be with you yesterday; but my engagements here were such that it seemed out of my power to change them.</p>
+            <p>While this stroke of providence is a heavy one indeed, it is a matter of profound gratitude that you have such rich assurances, that the community&apos;s love, the family&apos;s loss, and the country&apos;s loss, is your husband&apos;s gain. A long life of active influence of earnest faith, and <unclear reason="illegible" resp="JR">consecrated</unclear> service to the master has only ended in the rich rewards that &quot;God the righteous Judge has in reserve for those that love his</p>
+            <pb n="3" facs="0012_000060_000522_0003.jpg" xml:id="d3e182"/>
+            <p>appearing.&quot; I know of no man of whom it may be more <unclear reason="illegible" resp="JR">fitty</unclear> said than of your husband, that &quot;he has fought the fight, he has kept the faith, he has finished his course, hence-forth is laid up for him the crown of righteousness,&quot; - And after all the frosses and trials of a long eventful life, the crown is only the brighter &amp; richer.</p>
+            <p>My prayer is that God in his mercy may abundantly sustain and comfort your heart in the years that are yet left to you, and that you may look with the eye of faith to the meeting that awaits you on the other shore, where it is said of its inhabitants that &quot;they shall hunger no more, neither thirst any more, neither shall the sun light on them nor any heat, for the Lamb which is in the midst of the throne shall feed them and shall lead them into living fountains of waters; and God shall wipe away all tears from their eyes.&quot;</p>
+            <p>With deepest sympathy and kindest regards to Mc &amp; <unclear reason="illegible" resp="JR"> Cousin</unclear> Lizzie I am Yours Very Truly,</p>
+            <p>E.A. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

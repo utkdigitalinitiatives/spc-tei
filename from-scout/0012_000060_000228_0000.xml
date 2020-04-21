@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000228_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J.G.M. Ramsey and M.B.C. Ramsey</name> in Charlotte, N.C., to Mrs. E.A.R. Breck,
+in Liberty, V.A. <date when="1867">1867</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000228_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey and M.B.C. Ramsey in Charlotte, N.C., to Mrs. E.A.R. Breck in Liberty, Va. 1867 undated</title>
+               <date>1867</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready)</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1867 Letters from J.G.M. Ramsey and wife, M.B.C. Ramsey, Charlotte, N.C., to their daughter, E.A.R. Breck in Liberty, Virginia. J.G.M. briefly mentions a long letter from son Crozier. Expresses details of family&apos;s prosperity and abundance of livestock/poultry and fresh fruits/vegetables. His wife expresses details of Sophie Alexander&apos;s wedding. Gives details of her own plans for traveling via buggy, and condition of her health.  </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family life -- North Carolina -- Charlotte -- History -- 19th century.</term>
+               <term>Elite (social sciences) -- North Carolina -- Charlotte -- History -- 19th century.</term>
+               <term>Charlotte (N. C.) -- Social life and customs -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Ramsey, M. B. C. (Margaret Barton Crozier), 1802-1889 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000228_0001.jpg" xml:id="d3e152"/>
+            <p>another good &amp; long letter C. sent me three copies of the Commercial. When <unclear reason="illegible" resp="bds">Progress</unclear> full out honest people used to get their own May be it will be so now. Nows 
+<unclear reason="illegible" resp="bds">serons.</unclear>, We are all well - have <unclear reason="illegible" resp="bds">luxuriated</unclear> on strawberries cream &amp; sugar for a month. They are almost but cherries &amp;
+currants take their place. Our garden is fine &amp; the poultry yard is full of chickens ducks geese &amp; (20) young
+turkeys. We have two fine cows &amp; of course plenty of milk &amp; butter &amp; a little money in th Bank. &amp; the
+promise of a good crop. Love to all the rest &amp; a kiss to little <unclear reason="illegible" resp="bds">Suzy</unclear>.
+Has she forgotten me? Your Ma will add a line J.G.M. Ramsey</p>
+            <pb n="2" facs="0012_000060_000228_0002.jpg" xml:id="d3e172"/>
+            <p>My dear Daughter, your Pa has written so fully on every subject there is buy little for me to say. Sophia Alexander
+was married last wednesday morning to Dr Lamples an old flame he is 57 - she is 30 they left immediately for Memphis where
+he resides a number of the clan were present most of whom it is said were not invited - none of our set were invited but
+Capt Johnson &amp; Mr Holliday, not even Davidson A., of course they are teased by the rest, especially by the ladies.
+Lue. &amp; Mc were at Ms H. the evening before Old Ms H. is there, she begged them to stay all night, &amp; she would
+have an opposition breakfast. When the throng of wash is over I will go up to Roberts he will send his buggy for me, it
+will be a long ride for me, if I am well can go, last week I was not well. Write often and tell us all the news of Tenn. I
+am very uneasy about Crozier. I received a letter last week from Nannie, they were all well and seem much pleased with
+their new home. Give my love to your Aunt Mary tell her when she moves again had better come to N.C. your aff Ma</p>
+            <p>M.B. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

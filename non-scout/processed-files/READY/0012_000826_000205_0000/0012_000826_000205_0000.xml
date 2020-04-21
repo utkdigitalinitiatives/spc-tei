@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000826_000205_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Postcard,  
+					<name>Pricscilla</name>
+				                 to Mr. John Calahan in Asheville, N.C., <date when="1920-09-17">1920 Sept. 17</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">Pricscilla</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000826_000205_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Postcard, Pricscilla to Mr. John Calahan in Asheville, N.C., 1920 Sept. 17</title>
+          <date when="1920-09-17">1920 Sept. 17</date>
+          <author>
+            <name type="person">Pricscilla</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.2379</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Asheville (N.C.) -- History.</term>
+          <term>Asheville (N.C.) -- Social life and customs.</term>
+          <term>World War, 1914-1918.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000826_000205_0001.jpg" xml:id="d4e39"/>
+        <p>Y. M. C. A. AUDITORIUM. CAMP LEWIS, WASH.</p>
+        <pb n="2" facs="0012_000826_000205_0002.jpg" xml:id="d4e43"/>
+        <p>There was a man killed about 1/2 mi from school Friday on a spidder Too bad they cant locate two people at all.</p>
+        <p>You all whose views you can they will be welcome visitors that other card was nice "about the clouds" nearly to Heaven eh?</p>
+        <p>Im going home tomorrow goody good by suffragett -</p>
+        <p>Priscilla</p>
+        <p>Mr John Callahan</p>
+        <p>Asheville</p>
+        <p>Box 626,</p>
+        <p>N.C.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

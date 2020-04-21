@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000213_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>David L. Jones</name>
+ in Nashville, Tenn., to Andrew Jones in Allegheny City, Pa.<date when="1865-05-16">1865 May 16</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000213_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Andrew Jones in Allegheny City, Pa., 1865 May 16</title>
+               <date>1865-05-16</date>
+               <author>
+                  <name>Jones, David L.</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 pages.</extent>
+               <note type="abstract"> In this letter dated May 16, 1865, David L. Jones in Nashville, Tenn. writes to Andrew Jones in Allegheny City, Pa.about escorting Confederate soldiers back to their homes in Chattanooga via the railway, and talking to them about their families, long seperations, and having no news of their children for years. David admonishes his children to behave, help out their mother with the household and younger children.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+               <note type="item">17</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Confederate States of America -- History -- 19th century.  </term>
+               <term>Soldiers -- Family relationships -- Tennessee -- Chattanooga -- History -- 19th century.</term>
+               <term>Soldier -- Pennsylvania -- Correspondence.</term>
+               <term>Chattanooga (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865 -- Personal narratives. </term>
+               <term>Jones, David L., Union soldier -- Anecdotes.</term>
+               <term>Confederate States of America. Army -- History -- 19th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000091_000213_0001.jpg" xml:id="d3e156"/>
+            <p>Master Andrew J. Jones</p>
+            <p>No 34 Poplar Street.</p>
+            <p>Allegheny City</p>
+            <p>Penna</p>
+            <pb n="2" facs="0012_000091_000213_0002.jpg" xml:id="d3e170"/>
+            <p>Your Brother James was not please to get a few lines in his Mother,s letter But he wanted me to write a whole pile to himself and now because that I love you Just as much as i do him and Tom as much as eaither of you I shall write to the both of you if i am spared But I shall write to you at this time I shall tell you first what i have done to day after getting up and went as fare as you live to the Babtist Church then i came back and got one cracker and a cup of coffee then i went and washed a shirt <unclear reason="illegible" resp="NW"> Drawres </unclear> socks and Handkerchief After that i went</p>
+            <pb n="3" facs="0012_000091_000213_0003.jpg" xml:id="d3e181"/>
+            <p> to work and cleaned my gun after that i had to write a letter for another man Just as i got through the bugle Blowed for dinner which was Bean Soup some Pork and Bread Then i went back to the Barracks i sat me down to write to you I suppose its vacation with you at this time I hope that you will be a good boy keep <unclear reason="illegible" resp="NW"> of </unclear> from bady boys and keep off the fences and keep out of any body else s 
+<unclear reason="illegible" resp="NW"> gards </unclear> Do what your Mother tells you and help her to take care of the children Anna May and Sharon wants a good deal of wathing so you can help do that I Just came back from Chatanoga yesterday after taking a lot of Rebels to their home they were taken away some of them 2 and some 3 years and some of them had never heard a word from home all that time good many of them </p>
+            <pb n="4" facs="0012_000091_000213_0004.jpg" xml:id="d3e195"/>
+            <p>had little boys and girls but they did not get to hear a word from them. they did not know whether they were dead or alive or whether they <unclear reason="illegible" resp="NW">droven</unclear> away or starved how do you think that i would feel if i was not to get a letter from your mother for 3 years in the place of that I get to hear from you often Another thing i tell you we Land on the floor at the Depot on Saturday night you have seen soldiers stacking their guns they stand them up on their Butts with the Bayonets up So i laid my over coat in the stack and i laid on it trying to keep my head at <unclear reason="illegible" resp="NW">leas </unclear> from being tramped on and i slept right Sound too for i had not Slept a wink the night before and what i was about to write to you and there was some old people there that night and little children too</p>
+            <pb n="5" facs="0012_000091_000213_0005.jpg" xml:id="d3e209"/>
+            <p>They have been drove away from home and will never see it again I saw one Rebel here he asked me if i knew where such a Person lived thinking that i lived about there he then said that he had left there 2 years ago his Wife &amp; Children but did not know where to find them Now all that i have to tell you is to try and be a good boy who knows it may be that i shall come popping in to the house when you the least expect me. I found a ripe strawberries last Saturday when on my way to Chatannooga i guess it must have been in the state of Alabama Now Andrew you might write me a few lines in your Mother s Letter Tell Tome that I sent him 2 little papers from Chattanoga give my respects to Jane and Mr &amp; Mrs White and your Brothers from </p>
+            <p>Your Father</p>
+         </div>
+      </body>
+   </text>
+</TEI>

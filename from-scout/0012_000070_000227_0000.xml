@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000227_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Burnett, Wm. M.</name>
+ in Sevierville, Tenn. to O.P. Temple in Knoxville, Tenn. <date when="1865-06-10">1865 June 10
+ </date>
+            </title>
+            <author>
+               <name type="person">Burnett, Wm. M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000227_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William M. Barnett in Sevierville, Tenn. to O.P.Temple in Knoxville, Tenn., 1865 June 10</title>
+               <date>1865-06-10</date>
+               <author>
+                  <name>Burnett, Wm. M.</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">1865 June 10 William M. Burnett, Sevierville, Tenn., to O. P. Temple in Knoxville, Tenn. Can his niece Evaline Moon get damages for loss consequent on forced acceptance of Confederate money in payment of debt and banishment of husband for refusal to accept same?
+</note>
+               <note type="collection">The O.P. Temple Papers, 1865</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Actions and defenses -- Tennessee -- Sevierville -- History --19th century.</term>
+               <term>Landowners -- Tennessee -- Sevierville -- History --19th century.</term>
+               <term>Land tenure -- Political aspects -- Tennessee -- Sevierville -- History -- 19th century.</term>
+               <term>Sevierville (Tenn.) -- Politics and government --19th century.</term>
+               <term>Confederate States of America -- Claims.</term>
+               <term>Burnett, William M. -- Correspondence.</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000070_000227_0001.jpg" xml:id="d3e159"/>
+            <p>Sevierville June 10 1865</p>
+            <p>Col temple</p>
+            <p>I wish to consult you in the case of my niece, Evaline Moon,</p>
+            <p>I will give you the facts as near as I can. About 4 years ago her Husband John Moon loaned about $300 to Porter McCulloch &amp; Robert McCamy - It was state money - they presented Confederate money Moon refused to receive it, they threatened to report him and to have him punished for refusing it. he was notified to leave the country for his refusal of Confederate money Moon left home &amp; joined the federal army and has been dead nearly two years his widow has the confederate money that was forced upon her Husband, I wish to know if she can get damages for the Banishment of her Husband, and for the loss she has sustained in the money - she has no heirs, and there is no Administrator appointed. The land of McCamy was put in pledge for the payment of the note, it has since been sold, can it be held for the money loaned, you are requested if the case can be reached to attend to it and if it can I wish the suit to be commenced in this County we will sue some Reb in sevier, and issue counterparts, both the defendants are non residents, please write to me by my son next week and oblige your friend</p>
+            <p>William M Burnett</p>
+            <pb n="2" facs="0012_000070_000227_0002.jpg" xml:id="d3e175"/>
+            <p>William M Burnett </p>
+            <p>A June 12/65</p>
+         </div>
+      </body>
+   </text>
+</TEI>

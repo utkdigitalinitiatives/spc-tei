@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000449_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Tennessee Historical Society</name>
+ to all whom it may concern<date when="1879-03-22">1879 March 22</date>
+            </title>
+            <author>
+               <name type="person">Tennessee Historical Society</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Rosinski, Wanda</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000449_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Tennessee State Historical Society to whom it may concern, 1879 March 22</title>
+               <date>1879-03-22</date>
+               <author>
+                  <name>Tennessee Historical Society</name>
+               </author>
+               <extent>2  digital images;  2 p.</extent>
+               <note type="abstract">1879 Mar. 22 J.G.M. Ramsey, Knoxville, Tenn., for Alvis Gettys Scott, (no city), Texas. Letter of introduction for Alvis Gettys Scott, formerly principal of the Deaf and Dumb Asylum in Knoxville, now of Texas. 
+
+1879 Mar. 25? J.G.M. Ramsey, Knoxville, Tenn., to James Park, Knoxville, Tenn. (On same sheet as above letter) Note to accompany the gift of a journal to James Park, pastor of 1st Presbyterian Church of Knoxville. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Teachers of children with disabilities -- Tennessee -- Knoxville.</term>
+               <term>Special education educators -- Tennessee -- Knoxville.</term>
+               <term>Diaries.</term>
+               <term>Knoxville (Tenn.)</term>
+               <term>Scott, Alvis Gettys</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000449_0001.jpg" xml:id="d3e151"/>
+            <p>Knoxville T. March 22, 1879</p>
+            <p>To all whom it may concern</p>
+            <p>It gives me a very sincere pleasure to state that I have known Mr. <unclear reason="illegible" resp="JR">Alvis</unclear> Gettys Scott formerly of Knoxville T. but now a citizen of Texas. He was well educated in our University &amp; acquired the respect &amp; esteem of all who knew him both as a scholar &amp; a gentleman He has held the position of Principal in the Assylum for the Deaf &amp; Dumb -- a State Institution located on this City. In this capacity he both made character &amp; reputation &amp; was exceedingly popular in the peculiar Branch of Education in which he gave instruction while his <unclear reason="illegible" resp="JR">suavity</unclear> &amp; kind feelings made him the favorite of his Pupils his <unclear reason="illegible" resp="JR">peculiar</unclear> great qualifications</p>
+            <pb n="2" facs="0012_000060_000449_0002.jpg" xml:id="d3e172"/>
+            <p>&amp; his long experience &amp; success in his Profession secured the confidence of the Trustees &amp; of the Public.</p>
+            <p>Rev James Park D.D.</p>
+            <p>Pastor of 1st Presbyterian church Knoxville T. Please accept from me this Journal -- If you can use it hereafter in your future missionary tours -- establishing new churches in our districts or vacant neighborhoods please allow me to suggest to you to preserve for the men of the future historians of our beloved Presbyterian Church -- the names of the places you may visit -- important incidents in your several travels -- the <unclear reason="illegible" resp="JR"> Tents</unclear> &amp; duties of your several sermons preached &amp; the results of your benevolent &amp; Christian labor. I make this request for the reason that I have much in the long past the Journals of the early Pres - ministries &amp; missionary nis <gap resp="Roberts"/>
+               <unclear reason="illegible" resp="JR">for them ledonais Providen</unclear>Maryland <gap resp="Roberts"/> journals are now the Basis of our present <unclear reason="illegible" resp="JR">eccles the</unclear> history to your past &amp; future journals may become the basis of some future Tennessee ecclesiastical historian of our proud state.</p>
+            <p>With my best wishes for your success -- at home &amp; abroad</p>
+            <p>I am very Respectfully &amp;Truly</p>
+            <p>your <unclear reason="illegible" resp="JR">obl. svt.</unclear>
+            </p>
+            <p>J.G.M. <unclear reason="illegible" resp="JR">R.</unclear>
+            </p>
+            <p>Mecklenburg Place</p>
+            <p>March 25</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000223_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn., <date when="1918-05-23">1918 May 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000223_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn., 1918 May 23</title>
+          <date when="1918-05-23">1918 May 23</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000223_0001.jpg" xml:id="d4e39"/>
+        <p>James L Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Ex Force</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson, Tennesse</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000223_0002.jpg" xml:id="d4e55"/>
+        <p>June 17-18</p>
+        <p>Some where in France</p>
+        <p>Dear Ellen:</p>
+        <p>This is some rainy day here so will write to you. I am feeling fine and hope you are in the best of health. We havent had any mail for most two weeks  I dont know what is the matter</p>
+        <p>I am real anxious to here from some one back home. Some one sent Jno<unclear reason="illegible" resp="PW">rtmell</unclear>two Jaxan Suns and a Memphis paper so we have been reading the news for the last two days</p>
+        <p>This afternoon we were on our bunks reading. So I got sleepy and went to sleep. just got up in time for supper we have supper at 530 PM and then it is a long time until dark.</p>
+        <p>It doesnt get dark until about 9 oclock. We moved again yesterday but just a short ways. </p>
+        <p>We are in a larger town now but a little nearer the front. Well I am in a different job now. I am helping</p>
+        <pb n="3" facs="0012_001303_000223_0003.jpg" xml:id="d4e76"/>
+        <p>on a army truck Jno Cortmell and I are together Dont get excited the ink is out of my <unclear reason="illegible" resp="PW">hin</unclear>and there isnt any more around. </p>
+        <p>Say we have a town clock here that stacks just like your little clock on the hand 10-30 and 45 minuts so I told Jno I was going to have it stoped cause it reminded me of you just to murch.</p>
+        <p>and I am to far away from there to thank of that time ever fifteen minuts.</p>
+        <p>I dont have to have a clock to remind of you for I thank of you many times ever day and how much I would like to see you.</p>
+        <p>Now just think if I was at home tonight we could go to the show cause I dont believe it is raining there.</p>
+        <p>Well I dont know any thing else to write this time. Will do better next time write me when you can and tell me all the news with lots of love</p>
+        <p>James L. Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Ex Force</p>
+        <p>France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

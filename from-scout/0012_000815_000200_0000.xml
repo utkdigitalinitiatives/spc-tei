@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000815_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Wilson Enochs</name> in Huntingdon, Tenn., to Susie Gentry in Franklin, Tenn. <date from="1911" to="1915">1911-1915</date>
+            </title>
+            <author>
+               <name type="person">Enochs, Wilson</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dunham, Elizabeth</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000815_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Judge Wilson Enochs in Huntingdon, Tennessee to Susie Gentry in Franklin, Tennessee</title>
+               <date>1911-1915</date>
+               <author>
+                  <name>Enochs, Wilson</name>
+               </author>
+               <extent>2 digital images; 1 page, 1 envelope</extent>
+               <note type="abstract">In this letter, Judge Wilson Enochs informs Susie Gentry that his grandfather, Thompson Enochs, fought in the War of 1812 and is buried near Westport, Tennessee.  Gentry had previously solicited information about such soldiers through an advertisement in the Banner.</note>
+               <note type="collection">Susie Gentry Papers, circa 1908-1985 (bulk circa 1908-1916)</note>
+               <note type="manuscript">2367</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers&apos; bodies, Disposition of -- Tennessee -- Carroll County.</term>
+               <term>Soldiers&apos; bodies, Disposition of -- Tennessee -- Wesport.</term>
+               <term>Soldiers -- Tennessee -- Carroll County.</term>
+               <term>United States -- History -- War of 1812.</term>
+               <term>Tennessee -- History -- War of 1812.</term>
+               <term>Enochs, Wilson -- Correspondence.</term>
+               <term>Gentry, Susie -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e90">
+            <pb n="1" facs="0012_000815_000200_0001.jpg" xml:id="d3e91"/>
+            <p>Huntingdon, Tenn. Oct 26&quot; 1911</p>
+            <p>Miss. Susie Gentry,</p>
+            <p>Franklin, Tennessee,</p>
+            <p>Dear Miss. Gentry;</p>
+            <p>Noticing in the Banner that you are trying to locate the graves of the soldiers of the War of 1812 buried in this State.</p>
+            <p>My Grand-Father Thompson Enochs, who was buried near Westport in the 24&quot; Civil district of this County, was a soldier in the War of 1812.</p>
+            <p>Yours very truly,</p>
+            <p>Wilson Enochs</p>
+            <pb n="2" facs="0012_000815_000200_0002.jpg" xml:id="d3e111"/>
+            <p>Miss. Susie Gentry,</p>
+            <p>Franklin,</p>
+            <p>Tennessee,</p>
+            <p>Thompson Enochs-</p>
+            <p>Carroll Co.</p>
+            <p>1812</p>
+         </div>
+      </body>
+   </text>
+</TEI>

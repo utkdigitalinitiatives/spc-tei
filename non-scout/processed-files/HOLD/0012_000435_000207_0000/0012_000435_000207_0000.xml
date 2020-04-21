@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000207_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    in Washington, to his wife, Elizabeth <date when="1857-01-18">Jan. 18, 1857</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000207_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson in Washington, to his wife, Elizabeth Jan. 18, 1857</title>
+               <date when="1857-01-18">Jan. 18, 1857</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000207_0001.jpg" xml:id="d4e39"/>
+            <p>Mrs. A J Donelson</p>
+            <p>Tulip Grove</p>
+            <p>Nashville, Tennessee</p>
+            <pb n="2" facs="0012_000435_000207_0002.jpg" xml:id="d4e47"/>
+            <p>Washington 01-18-1857</p>
+            <p>My dear Elizabeth</p>
+            <p>It is eleven at night and your letter of the <unclear reason="illegible" resp="EMS">co.</unclear> reaches me just in time to answer it before the <unclear reason="illegible" resp="EMS">hafu</unclear> goes to <unclear reason="illegible" resp="EMS">press</unclear>. Tomorrow is <unclear reason="illegible" resp="EMS">Landay the only biseue</unclear> I have for the answer of a <unclear reason="illegible" resp="EMS">thousand whilual</unclear> letters. I will devote it to my private affairs and will give an hour to Mr. Alexander, who I am <unclear reason="illegible" resp="EMS">valifull</unclear> from your letter ought not to be again employed. Do the best you can with him until the year is out </p>
+            <p>What you say of Mary <unclear reason="illegible" resp="EMS">greives me moress</unclear>. I would as soon see a <unclear reason="illegible" resp="EMS">Rupean brar</unclear> about her as the Dr you mention. Lecture her kindly. I hope Rachel is doing better. You know if I could have avoided it I would not be here. It was <unclear reason="illegible" resp="EMS">cimpopible</unclear> to make the money necessary to out wants &amp; family. Something was to be done and I hoped that you could manage without me for a little while. I am doing my duty, but am full of trouble, assailed <unclear reason="illegible" resp="EMS">by bent for more than by</unclear> open enemies.  Wait but a little longer and we shall see whether I was right or wrong.</p>
+            <p>Kiss all the children. I will write again tomorrow.  V. aff. Husband</p>
+            <p>A J Donelson </p>
+         </div>
+      </body>
+   </text>
+</TEI>

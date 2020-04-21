@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000469_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>A.V. Goodpasture</name>
+ in Clarksville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-07-24">1880 July 24</date>
+            </title>
+            <author>
+               <name type="person">Goodpasture, A. V. (Albert Virgil), b. 1855</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000469_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, A.V. Goodpasture in Clarksville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1880 July 24</title>
+               <date>1880-07-24</date>
+               <author>
+                  <name>Goodpasture, A. V. (Albert Virgil), b. 1855</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 p.</extent>
+               <note type="abstract">1880 July 24 A.V. Goodpasture, Clarksville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Makes inquiries concerning an early settlement in Middle Tennessee and one of its first settlers for his history of Montgomery County. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Pioneers -- Tennessee -- Biography.</term>
+               <term>Frontier and pioneer life -- Tennessee.</term>
+               <term>Montgomery County (Tenn.) -- History.</term>
+               <term>Tennessee, Middle -- History.</term>
+               <term>Sevier, Valentine, 1747-1800.</term>
+               <term>Sevier, John, 1745-1815.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000469_0001.jpg" xml:id="d3e152"/>
+            <p>Ans. A.V. Goodpasture</p>
+            <p>July 27. /80 &amp; inclosed</p>
+            <p>circular</p>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000469_0002.jpg" xml:id="d3e170"/>
+            <p>Clarksville, Tenn., July 24th 1880.</p>
+            <p>Dr. J.G.M. Ramsey:</p>
+            <p>Dear Sir,</p>
+            <p>I am preparing a history of Montgomery County, and desire to ask some information of you, if you will not consider it an imposition.</p>
+            <p>Among the early Stations upon the Cumberland, was one called &quot;Kilgore&apos;s,&quot; which I believe to have been subsequently known as <unclear reason="illegible" resp="JR">&quot;Maulding&apos;s.&quot;</unclear> In the map accompanying your &quot;Annals,&quot; you seem to locate this Station in Red River, about midway between Clarksville and Port Royal, while Putnam, in his &quot;History of Middle Tennessee,&quot; places it &quot;on the head-waters of Red river, near the cross-Plains, in Robertson County.&quot; If you have any information by which its locality can be identified I would be very thankful to you for it.</p>
+            <p>In the course of my investigation I have become much inter-</p>
+            <pb n="3" facs="0012_000060_000469_0003.jpg" xml:id="d3e191"/>
+            <p>ested in Col. Valentine Sevier, who died in this County in the year 1800, and I would like to know more of him. I take the liberty of sending you a copy of the Tobacco Leaf, containing a notice of him which I had published, principaly for the purpose of awakening an interest in the early times here, as a means of gaining informations. There is none of his family in the County now that I know of. His son John, who seems to have been a favorite of the Governors, administered on his estate, but what ever because of him I know not.</p>
+            <p>With great respect,</p>
+            <p>I am your able Serv&apos;t</p>
+            <p>A.V. Goodpasture</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001047_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Corporal Alfred Pickard</name>
+				                    in Aix Les Bains, France, to Mrs. W.B. Pickard in Nashville, Tenn., <date when="1918-12-11">1918 December 11</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Caldwell, Chris</name>
+        </respStmt>
+        <author>
+          <name type="person">Corporal Alfred Pickard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001047_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Corporal Alfred Pickard in Aix Les Bains, France, to Mrs. W.B. Pickard in Nashville, Tenn., 1918 December 11</title>
+          <date when="1918-12-11">1918 December 11</date>
+          <author>
+            <name type="person">Corporal Alfred Pickard</name>
+          </author>
+          <extent>32 pages</extent>
+          <note type="collection">Corporal Alfred Pickard Letter</note>
+          <note type="manuscript">MS.2626</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>United States. Army. American Expeditionary Forces. Air Service.</term>
+          <term>World War, 1914-1918 -- United States.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Caldwell, Chris">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001047_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Casino</p>
+        <p>Grand Cercle</p>
+        <p>AIX-LES-BAINS</p>
+        <p>(SAVOIE)</p>
+        <p>Corp. A.E. Pickard</p>
+        <p>159th Aero Squadron</p>
+        <p>Am. E.F. France</p>
+        <p>Mrs. W.B. Pickard</p>
+        <p>813 Lea Ave</p>
+        <p>Nashville</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <p>Ralph N. Kendall</p>
+        <p>2nd Lieut. A.S.</p>
+        <pb n="2" facs="0012_001047_000200_0002.jpg" xml:id="d4e70"/>
+        <p>American Y.M.C.A.</p>
+        <p>ON ACTIVE SERVICE</p>
+        <p>WITH THE</p>
+        <p>AMERICAN EXPEDITIONARY FORCE</p>
+        <p>Aix Les Bains France</p>
+        <p>12-11-18</p>
+        <p>Dear Mother &amp;all.</p>
+        <p>Your letter of nov 2&amp;9 no's 11&amp;12 received a days ago just before I started on leave. and were much enjoyed.</p>
+        <p>I am very sorry to hear of Aunt Leisa bad health&amp;hope she will soon be o.k.</p>
+        <p>Where is this Grocery you write me so much about I have never received a letter telling about where you you happened to get hold of it.</p>
+        <p>Well I will start with my trip. it was on the 6th day of Dec 1918 about 3:15 P.M. when I left</p>
+        <pb n="3" facs="0012_001047_000200_0003.jpg" xml:id="d4e95"/>
+        <p>(2)</p>
+        <p>camp for the Station to catch the train to procede on leave. The train was due to arrive at Latrecey at 4:10 P.M. well it came about 7:00 P.M. from there to Chaumont is 18 kilometers (about 12 miles) and in only takes 3 hours and 45 min to make the trip so I missed connection for Paris and must go another way. I left Chaumont at 11:30 and arrived at Langoe at 12:30 one hour later. I layed over there until 10:30 a:m that same day and then caught the train to another little station to change again but only waited a very few minutes. There I caught the Nance to Dujour Express. well it is some express</p>
+        <pb n="4" facs="0012_001047_000200_0004.jpg" xml:id="d4e101"/>
+        <p>(3)</p>
+        <p> In Peace times it is about 1 1/2 or 2 hours run but now it takes about twice as long and I had to stand up all that way. In Longue we had to Sleep in the station as all the Hotels were full and missed our breakfast &amp;dinner and did not get any thing to eat untill about 7:00 P.M. in Dijon &amp;I'm eat an 18 Frank ($3.56) meal I was sure hungry. My room in Dujon that night cost 15 Franks $3.00 well I sure enjoyed sleeping between white sheets&amp;on good springs once more. I slept</p>
+        <pb n="5" facs="0012_001047_000200_0005.jpg" xml:id="d4e107"/>
+        <p>(4)</p>
+        <p>untill 10:30 next day. then had my breakfast brought to my room well I sure enjoyed that once more. and had to laught at myself but it could not be helped. I cost me 10 Franks ($2.00) then I got up had a bath &amp;shave and went out to see the city and wondering around I blew into the American red cross where I got my dinner for 1 1/2 Fran () ( some drop) It was just as good meal but not put out in Style At 3:00 P.M. I left Dujon for Lyon where I spent that night and the next day.</p>
+        <pb n="6" facs="0012_001047_000200_0006.jpg" xml:id="d4e113"/>
+        <p>(5)</p>
+        <p>upon getting off the train at Lyon I loaded into a taxi and went to the Hotel De La Universe the best in the city That night was 20 Franks ($4.00) My supper 15 Franks $(3.00) but I had some room and meals my breakfast was 12 Fr. $2.50 I got up early that morning about 8:00 a.m. and looked the city over and left at 2:00P:m for Aix les Bains where I am now. This is some place up in the mountains near they border of Italy Switzland and France not very far from Geneve Swiss.</p>
+        <p>I am stopping here at the best Hotel in the city the Hotel Du Louvre et Savoy. in the center of the city. I have a</p>
+        <pb n="7" facs="0012_001047_000200_0007.jpg" xml:id="d4e121"/>
+        <p>6</p>
+        <p> large front room on the 3rd floor. with private bath hot &amp;cold water at all times and always have my breakfast brought up to the room. I am living in A-1 style&amp;comefort but it will be my last for about 12 days more. and then back to the Army life.</p>
+        <p>This place is a great summer resort where people that can afford it come from all over the world to spend the Summer. the season is closed but I am having some time. in the valy where the city is Located you can see the snow capped mountains on all sides. yet in the valey it is nice&amp;warm I have not</p>
+        <pb n="8" facs="0012_001047_000200_0008.jpg" xml:id="d4e129"/>
+        <p>(7)</p>
+        <p>had on my over coat since I arrived.</p>
+        <p>The Y.M.C.A. has a wonderful place here it in the old Casino the Gamberling hall that Harry K. Shaw&amp;Stanford White once owned. And it sure is fixed up Eleborate. I has two theatre one Seats about 2500 or 3000 the other about 1000 to 1500; Everything here is in Q-1 style all at the Expense of our rich uncle the U.S. Gov. All this does not cost me one red cent unless you want to buy something</p>
+        <pb n="9" facs="0012_001047_000200_0009.jpg" xml:id="d4e137"/>
+        <p>(8)</p>
+        <p>Extra. While we are here we are Just the Same as being in Civil life once more only we do not foot the Bill.My first day here Dec 9 I did not do very much only sit around the Hotel. yesterday I did not get up until the dinner bell was ringing then had to hurry to dinner in the afternoon I was out to the Band concert then to the Movies then in to Supper in the Evening I stayed in&amp;listened to a very interesting lecture given</p>
+        <pb n="10" facs="0012_001047_000200_0010.jpg" xml:id="d4e143"/>
+        <p>(9)</p>
+        <p>by a frenchman who waas a prisoner in germany for 4 years. About his experence while there 7 what they made him do while There. he is an Artist and was painting in Germany at the out break of the war. They made him paint a picture of Rems Cathedral for the German Gov. It taken hom over a year to do it As he was in no hurry but had to Stay on the Job. He has all Kinds of reproductions of this painting which he was showing on a schreen. from the time he started untill it was complete and they are sure wonderfull.</p>
+        <pb n="11" facs="0012_001047_000200_0011.jpg" xml:id="d4e149"/>
+        <p>(10)</p>
+        <p>Dec 11. I got up early this a.m. about 8:30. camedown for break-fast. Had two Fried Eggs Butter toast Jam &amp;coffee. Then over to the Y.M. an taken a trip around old Aix as they call it. Mrs Beefe was the Guide and she was one of the finest Guides that I have ever been out with. She gives the full history of everything. We first went to the City Museum it is about 100 ff x 50 ff. but it has some material in there to talk about provided you have a Guide that know. what they are talking about we spent about one&amp;one half hours in there&amp;could Easy spend a week. </p>
+        <pb n="12" facs="0012_001047_000200_0012.jpg" xml:id="d4e156"/>
+        <p>11</p>
+        <p>I was on this trip from 10:00-12:00 then back to the hotel for lunch. in the Afternoon I walked around the city a little and back for the Band Concert at the Y.M. at 3:00 P.M. After the Band concert there is Movies from 4:30 untill 6:00 P.M. Then to the Hotelk for Dinner at 6:30 after Supper There is always a good show on at the Y.M. from 8:30 untill 11:30 A complete change every night. And I sure enjoying seeing good American talent once more I am out for the show every night.</p>
+        <p>The Hotels here give the Soldiers</p>
+        <pb n="13" facs="0012_001047_000200_0013.jpg" xml:id="d4e164"/>
+        <p>12</p>
+        <p>the same accomaditions as they did the people whp came here in peace time. They will serve our meal in bed or we can come down and get them. Every meal is served in Courses they always consist of from six to ten courses. It is quire amusing to watch some of the boys eating after haveing been in the trenches for So long, but you could never want to see a better behaved bunch of men than the ones here they are all perfect Gentlemen.</p>
+        <pb n="14" facs="0012_001047_000200_0014.jpg" xml:id="d4e170"/>
+        <p>13.</p>
+        <p>There is from 4,000 to 5,000 men here on leave all the time and since I have been here I have never seen one make a crooked move.</p>
+        <p>The U.S. Gov. has over 100 hotels here for the boys. And the funny part of it is that they are not trying to stop the boys from drinking while here. Gen. Pershing Said Let the boys have a drink while they are here. And you never See one the least bit Intocated. At the Hotels at meal times or Any other time we can buy anything from champhage on down. just as we like</p>
+        <pb n="15" facs="0012_001047_000200_0015.jpg" xml:id="d4e178"/>
+        <p>(14)</p>
+        <p>Dec.12. Well today I intended going to Cats Tooth about a ten mile hike up the mountain but as it was a misty foggy day I did not go. I was up at 8:00 A.M&gt; but in seeing the weather out side I went back to bed and slept untill 11:30 up washed and Shaved&amp;down to Lunch.</p>
+        <p>This afternoon I went back to the Mesieum with one of the boy that could speak french. And spent very near the whole of the after noon there.</p>
+        <p>One of the forst thing you see upon entering the door is an old trunk of Louis VI</p>
+        <pb n="16" facs="0012_001047_000200_0016.jpg" xml:id="d4e188"/>
+        <p>15</p>
+        <p>This trunk is priceless they have been offered several thousand Franks but refused the offer And All Kinds of old China weare. from. Holland Italy Greece Austria France Germany and many more countries And All this they have refused enormas prices.</p>
+        <p>There is a map in there of the country around here and the Lecture we heard on that was wonderfull. It was relating to the Old Roman and Ancient history I studied in school&amp;</p>
+        <pb n="17" facs="0012_001047_000200_0017.jpg" xml:id="d4e196"/>
+        <p>(16)</p>
+        <p>at that time I hated the very thought of Ancient history but now I can see what I was missing. The country about here was was trampled over by different tribes&amp;races back 2000BC. There is building still standing here that were put up in the first few hundred A.D. All of the Passes thro the mountains thro which the Romans came to France is neare here. From my room in the Hotel I can see two very distinctly. on a clear day altho they are about 40 miles apart.</p>
+        <pb n="18" facs="0012_001047_000200_0018.jpg" xml:id="d4e202"/>
+        <p>.17.</p>
+        <p>Another thing in there that interested me was an old Egyptian Mummie. This Mummie was brought to France by an American physician several years ago and given to the Musieum. It is estimated to be over 5000 years old And to be the daugh-ter of some Barbain King. It is in the same box that it was found in and is in very good condition with all kinds of Fancy Egyptian painting both on the inside&amp;outside of the casket.</p>
+        <p>The body is not of a very</p>
+        <pb n="19" facs="0012_001047_000200_0019.jpg" xml:id="d4e210"/>
+        <p>(18)</p>
+        <p>large lady rather small. but all the features are very distinct. It is estimated that there is 7000 meters (22.750 ft,) of Tape around this body. So you can see it was quite a little Job to embomb one of these bodies in thoes days.</p>
+        <p>In the 14th Century (from what I  understand) there was a land slide neare this place in one valey they was 14 villages cover up by the slide And in the other valey there was about 20 Covered. In digging in these ruins they have found a great deal of interesting material in</p>
+        <pb n="20" facs="0012_001047_000200_0020.jpg" xml:id="d4e218"/>
+        <p>(19)</p>
+        <p>the Last few years. the old major that has charge of the place showed us several thing that he dug up himself when at the age of 10 years. Such as an old Bronze sword and needles Bracelets&amp;bones.</p>
+        <p>A few years ago when the sent the railroad up to Mt. Revard they found some more very old Pottery Some of the old water Jugs like you all pictures of in the bible so you can tell they are very old.</p>
+        <p>There is a statue in there of a woman who had not walked for 18 years but</p>
+        <pb n="21" facs="0012_001047_000200_0021.jpg" xml:id="d4e228"/>
+        <p>(20)</p>
+        <p>in comeing here and takeing these hot Sulphor bathes She was able to walk again the old Man says he that to be an absolute fact. Another Statue is of an Italian woman play a violin. it is a wonderfull piece of work. She used to come here and give great concert and was a very fine violin player.</p>
+        <p>Then there is the Limbs of three old King they found in the ruins about here some place. There are big stone boxes about 7 ft x 2 ft x 3 ft.</p>
+        <pb n="22" facs="0012_001047_000200_0022.jpg" xml:id="d4e236"/>
+        <p>(21)</p>
+        <p>without a top. All that is in there what seems to me to be dirt rocks and bones. each one has has a skull in it.. There were many other things too numerous to mention. Then tonight I went to the show as usial.</p>
+        <p>Dec.13. Well another foggy day so no use in going up to the mountains so I went over and taken one of these famous Sulphor Baths and they are sure fine. Ther make you fell like a 16 year older. I fell 10 years younger this afternoon I sure feel fine. I am at the Y.M. writeing</p>
+        <pb n="23" facs="0012_001047_000200_0023.jpg" xml:id="d4e245"/>
+        <p>22</p>
+        <p>and as the show is ready to start I will quit for a few minutes</p>
+        <p>Well I will add a little more to my book. I went to the show this afternoon and then back to the Hotel for Supper.</p>
+        <p>The Y.M. Gave a big dance tonight for the boy and every one seemed to enjoy it very Much. Altho there were not very many girls there.</p>
+        <p>Dec.14 Well I slept untill noon again today as it was not a clear day in the Morning but this afternoon it was fine so I went up to Hanibal Pass. About 7 miles from the Hotel up on the Mt. </p>
+        <pb n="24" facs="0012_001047_000200_0024.jpg" xml:id="d4e257"/>
+        <p>23</p>
+        <p>It was some fine trip altho a little tiresom not being use to Mountain climbing.</p>
+        <p>At this pass is located a very old Hotel put up many years ago in memory of this Great Warrier where he brought his army accross the Mountain from italy into France. he also brough his Elephants accross at the Same place. And thro the valley out over the other Mt. at st. bernards Pass. From this Pass you can see All down the Rhone valley In Itlay. The scenery from this pass is</p>
+        <pb n="25" facs="0012_001047_000200_0025.jpg" xml:id="d4e265"/>
+        <p>(24)</p>
+        <p>veary beautiful. One of the boy had a pair of Field Glasses he taken off of a German&amp;they helped a great deal. to make the scenery more perfect.</p>
+        <p>Belive me I sure will sleep tonight as I am going to bed now. good night more to morrow.</p>
+        <p>Dec. 15. Good morning this Fine day not a cloud in the sky. And I am feeling fine. Altho I am not up untill 10:30 this a.m. I had to Shave this a.m. then out for a little walk and back to lunch.</p>
+        <p>I was up on Mt. Revard</p>
+        <pb n="26" facs="0012_001047_000200_0026.jpg" xml:id="d4e277"/>
+        <p>(25)</p>
+        <p>this Afternoon. And it is sure some ride up there. We went up on the train that goes up. The Engine is built low in front&amp;light at the back so it will be on a level after it get started. One engine pushes up one car and it has some time put one car up. It is a cog railway so ther is not much danger of accident occuring. The cars are about like the old Cedar st. car. so you can tell about what they are. There was three trains and I manage to get on the first one. It takes us 1 hr 45 min to make the climb winding around the mountains. And over the bridges And the view that we got of the town below us was simply great. When we arrived at the top we had About 1/4 mile of very hard climbing to get to the tower where you can see all over the country.</p>
+        <pb n="27" facs="0012_001047_000200_0027.jpg" xml:id="d4e283"/>
+        <p>(26)</p>
+        <p>This Tower is about 100 ft. high and the Mountain 5000 so you can tell we had a little view of the country. the montains are all covered with Snow and the ray of sunshine on them was very pretty indeed. From this town Alps Mt. of Swis&amp;lso of Italy. There was a very powerfull Glass there and we could distinguish All posts very plainly. We could see on of the Itlaien fortiforcations one one of the high peaks, which was several miles awy, tho we could see St. Bernards pass where Hanibal led his Army out of this section of the country which is said to be 45 miles from where we were</p>
+        <pb n="28" facs="0012_001047_000200_0028.jpg" xml:id="d4e289"/>
+        <p>.27.</p>
+        <p>We stayed up for Sunset And it was the most beautiful scene I ever saw the way the sun shone on those Glacier cliff Just as it was going over the horizon. And from one point comeing down in the train we could see another very beautiful Scene over on the oppisite Mt. from Revard. the way the sun shone there or rather the reflection. It takes us 1: hs. 30 Min to come down. And Just did get back to the Hotel for Dinner And it was some dinner</p>
+        <pb n="29" facs="0012_001047_000200_0029.jpg" xml:id="d4e295"/>
+        <p>(28)</p>
+        <p>a real honest to goodess chicken dinner the Second one since I have been here. I sure did enjoy it very Much.</p>
+        <p>Tonight we went to the French Movies and had a barrel of fun got to talking to two girls that were in front of us. we did not see the show at all for laughing with them of course we take them home but could make them undersatand very little English. &amp;we understood less. Well it is now 12:50 a.m. so I will say good night again with more tomorrow,</p>
+        <pb n="30" facs="0012_001047_000200_0030.jpg" xml:id="d4e303"/>
+        <p>29.</p>
+        <p>Dec 16. Another wonderful day Just like Spring. I am up early this A.M. 8:30 I went down had breakfast go to talking with one of the boy And we decided to have a bicycle trip to the out skirts of the City and it was fine, but did not see any thing perticular to write about, We came in time for lunch then out again this Afternoon to little Itlay and Saw many Funny sight and one young girl (about 18 I should guess) driveing two Milk cows to a wagon hauling Barrels of wine&amp;one load of house furniture. The cows look to me to me Jersey And were real good looking milk cows</p>
+        <pb n="31" facs="0012_001047_000200_0031.jpg" xml:id="d4e309"/>
+        <p>(30)</p>
+        <p>but were walking along with there load. Well it is About Dinner time so will sing off untill I come in tonight. Well I was out to the show tonight and Saw a real good picture and am going to bed Early as I will have to get up at 8:00 A.M. tomorrow.</p>
+        <p>Dec 19. I Aix Les Bains on the 17th And retraced my foot steps back to camp and arrived Safely this a.m. at 10:30 After having 13 days of the most enjoyable time I ever spent in My life. In other words 13 days in Heaven.</p>
+        <p>I Found waiting for me 5 letters and a package of</p>
+        <pb n="32" facs="0012_001047_000200_0032.jpg" xml:id="d4e319"/>
+        <p>31</p>
+        <p>Am sending you some views of the hotel where I was stopping I marked my room&amp;place in the Dinning room with an X.</p>
+        <p>papers which I sure enjoyed reading.</p>
+        <p>Your letter of 11-15- was waiting for me when I came to Camp today.</p>
+        <p>I will be on the look out for the box untill it comes but feel sure that it will be O.K.</p>
+        <p>Well as I think the Censore will get tired reading this&amp;you also will Say good by.</p>
+        <p>Your only Son</p>
+        <p>Corp. Alfred E. Pickard</p>
+        <p>159th Aero Squadron</p>
+        <p>U.S. Air Service</p>
+        <p>American. E.F. France</p>
+        <p>A.P. 0706.</p>
+        <p>Ralph N. Kendall 2nd Lieut. A.S.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000236_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J.M. Saunders</name>
+				                    in Warrenton, Va., to Maj. David Burford  in Dixon Springs, Tenn., <date when="1833-02-12">1833 Feb. 12</date>
+            </title>
+        <author>
+          <name type="person">Saunders, J.M.</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000236_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J.M. Saunders in Warrenton, Va., to Maj. David Burford in Dixon Springs, Tenn., 1833 Feb. 12</title>
+          <date when="1833-02-12">1833 Feb. 12</date>
+          <author>
+            <name type="person">J.M. Saunders</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">William Randolf Hackley Letter</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000115_000236_0001.jpg" xml:id="d4e44"/>
+        <p>Warrenton Va</p>
+        <p>Feb 13     25</p>
+        <p>Maj. David Burford</p>
+        <p>Dixon Spring</p>
+        <p>Tennessee</p>
+        <p>From J. M. Saunders</p>
+        <pb n="2" facs="0012_000115_000236_0002.jpg" xml:id="d4e58"/>
+        <p>Warrenton Febr. 12 33</p>
+        <p>Dear Burford</p>
+        <p>I this moment rcd your letter of the 28th Jany: - Williams letter has not come to hand - the letter I inclosd you from James R Franklin will give you some idea of the demand for slaves, hey are at this time higher in <unclear reason="illegible" resp="JCM">this</unclear> country than I have ever known them since I have been in the trade, we are now <unclear reason="illegible" resp="JCM">preparing</unclear> to make a shipment which will be <unclear reason="illegible" resp="JCM">there</unclear> time since the <unclear reason="illegible" resp="JCM">RT</unclear> of Nov last, consequently you see that I shall have no difficulty in finding a place</p>
+        <pb n="3" facs="0012_000115_000236_0003.jpg" xml:id="d4e78"/>
+        <p>for all I have on hand</p>
+        <p>your order upon this subject of your funds shall be attended to as soon as I can <unclear reason="illegible" resp="JCM">proclaim</unclear> a check of the right sort for the Philadelp Money Market, having made use of the one you sent me, of which you shall be duly adivsed -</p>
+        <p>In answer to your inquiry upon the suject of may &amp; her child, I will only remark that you can have them for $500 Your friend</p>
+        <p>JMSaunders</p>
+      </div>
+    </body>
+  </text>
+</TEI>

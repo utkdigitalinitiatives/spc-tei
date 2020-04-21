@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000224_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Dodds, James L.</name>
+				                    in France to Ellen Smith in Jackson, Tenn., <date when="1918-06-25">1918 June 25</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Dodds, James L.</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000224_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Dodds, James L. in France to Ellen Smith in Jackson, Tenn., 1918 June 25</title>
+          <date when="1918-06-25">1918 June 25</date>
+          <author>
+            <name type="person">Dodds, James L.</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000224_0001.jpg" xml:id="d4e39"/>
+        <p>J.L.Dodds</p>
+        <p>Co L 23 Engr</p>
+        <p>American Ex Force</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tennesse</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000224_0002.jpg" xml:id="d4e55"/>
+        <p>June 25 1918</p>
+        <p>Some where in France</p>
+        <p>Dear Ellen</p>
+        <p>Well will try to write you a few lines this evening. I am feeling fine and hope you are the same. I sure would like to here from you but cant.</p>
+        <p>I dont think it is your fault but we cant get any mail now I know the reason but guess I cant tell you</p>
+        <p>I think things will soon be alright again and then I will have to have a day off to read my mail when it comes  It has been about three weeks sence we got mail</p>
+        <p>I am working real hard I am driving a big army truck and we have some pretty bad roads to drive over so it not as easy as one would think</p>
+        <p>I have give up the idea of being a cook. I was afraid some one would want me to cook when I came back home and I wouldnt do that at all I like the truck much better</p>
+        <pb n="3" facs="0012_001303_000224_0003.jpg" xml:id="d4e73"/>
+        <p>than I did the cooking. I am moving around all the time seeing different things and that is what I like I dont want to spend all my money in one place.</p>
+        <p>But we get in some places that don't look so good I have been up pretty close to the Germans front line trenches a couple of times they have aeroplanes and balloons up</p>
+        <p>and all they would have to do is to tell the German Art. where we were and off goes my head. Oh well I might get by if I was lucky.</p>
+        <p>We have a Y.M.C.A. here where we are now and ever night we have some thing doing there is going to be a show to night so I will have to get through with this letter in time to see it</p>
+        <p>but I have lots of time yet Jno Cortmell is sitting here writing thank he is writing to his girl </p>
+        <p>He will write a few lines and then laugh I guess he is tell her just how it happened Well I dont blame him do you?</p>
+        <pb n="4" facs="0012_001303_000224_0004.jpg" xml:id="d4e87"/>
+        <p>Well what is going on in Jaxon? Sure would like to be there this evening as it is about 12 oclock there now and I have done had my supper So you can see I am ahead of you</p>
+        <p>Well I had a funny dream last night I dreamed I got married Now who do you thank the unlucky one was just tell you It was Clara Fox now isnt that funny how a fellow will have such foolish dreams</p>
+        <p>But I was awful dissatisfid I had not married the right girl well I wont tell you who the right one was, and at last I jumped about half out of my bed and there wasnt any of it true.</p>
+        <p>Well I have told you about all there is to tell so guess I will quit for this time hope I will soon get my mail and will be a dozen or more letters from you write me real soon and tell me all the news.</p>
+        <p>As Ever</p>
+        <p>James L Dodds</p>
+        <p>Co L 23 Engr</p>
+        <p>American Ex Force</p>
+        <p>Via N.Y.  France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

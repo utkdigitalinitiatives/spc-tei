@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000119_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Nathan Crawford</name> in Columbia, Tenn., to Rachel Crawford in Kansasville, Wis.<date when="1862-05-26"> 1862 May 26</date>
+            </title>
+            <author>
+               <name type="person">Crawford, Nathan</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dunham, Elizabeth</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000119_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Nathan Crawford in Columbia, Tenn., to Rachel Crawford in Kansasville, Wis.</title>
+               <date>1862-05-26</date>
+               <author>
+                  <name>Crawford, Nathan</name>
+               </author>
+               <extent>5 digital images; 4 handwritten pages</extent>
+               <note type="abstract">In this letter to his sister Rachel, Nathan Crawford discusses family matters, his health and the health of other soldiers from his hometown, troop movements, the battle of Pittsburgh Landing (known more commonly as the Battle of Shiloh), and his opinion that his sister would have made an excellent soldier. Crawford also asks his sister and the rest of his family to write often. Nathan was killed on 19 September 1863 at Chickamauga. Rachel married Miles Trowbridge on 22 February 1869 and died in Portland, Oregon, on 6 February 1900.</note>
+               <note type="collection">Union Soldier&apos;s Letter regarding the Battle of Shiloh</note>
+               <note type="manuscript">2662</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Shiloh, Battle of, Tenn., 1862</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865</term>
+               <term>United States -- History -- Civil War, 1861-1865</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e146">
+            <pb n="1" facs="0012_000119_000200_0001.jpg" xml:id="d3e147"/>
+            <p>Direct Co. C., 1st Reg&apos;t Wis. Vol.</p>
+            <p>Provost Guards, Camp Tom Green</p>
+            <p>Columbia, Tennessee</p>
+            <p>Columbia May 26th/62</p>
+            <p>Headquarters</p>
+            <p>Provost Guards</p>
+            <p>Co. C 1st Reg&apos;t Wisconsin Volunteers, Camp Tom Green</p>
+            <p>Dear Rachel,</p>
+            <p>I received yours of the 10th &amp; also one of latter date dated the 20th, which is the last that I have received. Preceived one from Bill, dated 10th and a small piece in a letter to Thomas Barrett. Dear Rachel. Preceived that half Dollars worth Stamps a good while ago, although I did not mention it. the reason I askid whether Father got the money which I sent with Lieut. Sheldon or not, was because I was not sure that I had read so, in one of your letters because after I had read it once over I lost it and thought no more about it, still I thought I had read so, in one of your letters somewhere</p>
+            <pb n="2" facs="0012_000119_000200_0002.jpg" xml:id="d3e172"/>
+            <p>I know that you got those $5.00 dollars as you answered it right away. Rachel if I had kept those $5. I could have sent you my likeness before this time but I am in a place now where I can get it quite handy. Co C. is Provost Guards in Columbia now. and we will soon be paid off now, as we have signed our Pay Roll. I feel quite well, and so are all the Dover Boys (as you call them). the remainder of our Regiment is about 10 miles south of Columbia on the Railroad they are guarding a Bridge. all that belongs to our Company are here, &amp; Miles is with us, you know his post is with the Colors, but he got leave to go with us from Gen. Starkweath. Miles says he will go with the Colors if the Reg&apos;t starts any where else. if he knows when they are going to start, but Lieut. Nickels, says he won&apos;t let him. Lieutenant Robert Nickels, is all the Commissioned Officer, that we have now. and he is fit to be a Captain, the boys all like him.</p>
+            <pb n="3" facs="0012_000119_000200_0003.jpg" xml:id="d3e180"/>
+            <p>Lieutenant Sheldon came back to Nashville, and he heard that our Reg&apos;t had gon on to Pitsburgh Landing (that was about the time of the fight) so he took a boat at Nashville and went to Pitsburgh Landing. where he looked for us, but could not find us. I suppose that he went to Gen. Buels Headquarters to see if we were coming down there soon, (as our Brigade is under Gen Buels Command), and of coarse Gen Buel told him what to do, in the fight of Pitsburgh Landing. Many Regiments lost all their field Officers and many Companies lost all their Commandants. and I heard that Sheldon is Commanding a Company, in an Ohio Regiment near Corinth. I heard also that our forces were driven back 4 miles at Corinth. I suppose if they need help at Corinth, that we shall go there. but I do not know. in fact we do not know where we are going at any time till we get there.</p>
+            <pb n="4" facs="0012_000119_000200_0004.jpg" xml:id="d3e188"/>
+            <p>Well, Dear Rachel, so you think it is a pitty that you could not be a soldier. so that you could be under little Mc. (as you call him). I think he must be a little-big man for he is making the rebels think so. any how. well Rachel I think it is a pitty too. for you would see some wonders, if I am not mistaken but you must be patient . and think of those who are laying down their life for truth and liberty. and its preservation and say a kind word when you can to those who are engaged in the great war whether under direct or indirect command of Maj. Gen. McClellan. and I think taht will be your share of fighting, you may think it is but little, but you do not know how much good a little note, or a kind word, does to a soldier. on a dreary march, or his solitary watch. Dear Rachel, I should like to have some more of your kind words, and also a little note from Wm &amp; Henry, and Robert. I know you are all buisy. but I like to hear from you, each of you can say something I know in your last I got a Wis. violet it was just like those I used to see on her old soil every thin in in full bloom. the wheat will soon be ready to cut here, no more at this time, my love to you and all at home, your true and most affectionate</p>
+            <p>Brother Nathan</p>
+            <pb n="5" facs="0012_000119_000200_0005.jpg" xml:id="d3e198"/>
+            <p>Miss Rachel Crawford</p>
+            <p>Kansasville, Racine Co.</p>
+            <p>Wisconsin</p>
+         </div>
+      </body>
+   </text>
+</TEI>

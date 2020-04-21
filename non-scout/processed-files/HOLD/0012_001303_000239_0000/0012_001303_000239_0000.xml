@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000239_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn., <date when="1919-04-06">1919 Apr. 6</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Giles, Sheldon</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000239_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn., 1919 Apr. 6</title>
+          <date when="1919-04-06">1919 Apr. 6</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Giles, Sheldon">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000239_0001.jpg" xml:id="d4e39"/>
+        <p>J. L. Dodds</p>
+        <p>T Co #8 = 23rd Engir</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000239_0002.jpg" xml:id="d4e55"/>
+        <p>Savilly France</p>
+        <p>April 6 1919</p>
+        <p>Dear Ellen</p>
+        <p>Well at last I resuced a letter from you, and of course you know I was glad to hear from you. I will have to <unclear reason="illegible" resp="SG">fuss</unclear> just a little though becasue the letters came so far apart.</p>
+        <p>I can't understand why you cant hear from me I write you every week I wrote you on my last letter about Tim leaving here.</p>
+        <p>But for fear you dont get the letter will write it again I sure did hate to see him go for we would visit each other most every week.</p>
+        <pb n="3" facs="0012_001303_000239_0003.jpg" xml:id="d4e72"/>
+        <p>and talk of the good times we were going to have when we get back to Jackson and how good 111 Hatton Street would look to us.</p>
+        <p>Not as much the street as the ones that live there.</p>
+        <p>I am sure Lin will get there first but my day will come some time or other they wont even tell us when they think we will get home.</p>
+        <p>Of course they can move us in short maters for we are just a Rgmt. and about 5000 men is alll we have I am sure by the time you get this you will have</p>
+        <p/>
+        <pb n="4" facs="0012_001303_000239_0004.jpg" xml:id="d4e83"/>
+        <p>Harold back with you if he isnt already, Now let me tell you what  I have got to do this week Work in the kitchen and that means peel spuds wash <unclear reason="illegible" resp="SG">hass</unclear>
+                                      and a lots of other things that I dont like a lot, but I cant fuss for is the first time I have been on A. K. P. (kitchen police) since I have been across the pond. I was a cook for about a month when I first came over here. But that is better than this job. </p>
+        <p>I should worry <unclear reason="illegible" resp="SG">less</unclear> I wont do enough to hurt myself at any time.</p>
+        <pb n="5" facs="0012_001303_000239_0005.jpg" xml:id="d4e95"/>
+        <p>You were talking about  Ernest Warlick he isnt married you are thinking if Ben the one that used to work at the fire dept Ernest was a breakman one the M. S. O. He is on his way back home now. 
+                                          lucky devil and little Caz is going to be a farmer now I know he will be a failure at that</p>
+        <p>No you didnt step on my toes very much (about gambling.) I never was as bad as some really thought I was. I just have to bet a little on ball games and the races at the fair.
+                                         Now you wouldnt fuss much about that would you.</p>
+        <pb n="6" facs="0012_001303_000239_0006.jpg" xml:id="d4e101"/>
+        <p>I was about to forget to say something about the weather. It is fine here been warm the last week and look as though  would stay that way. And I sure hope so. 
+                                          Yes I noticed your letter being longer than usual and hope you will keep up the long ones for I enjoy them so much</p>
+        <p>Write me real often and the tell me the news A little French</p>
+        <p>Au revoir Mon Cher</p>
+        <p>Avec l'amour pour vous</p>
+        <p>Fayette</p>
+      </div>
+    </body>
+  </text>
+</TEI>

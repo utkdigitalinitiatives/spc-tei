@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000406_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Riverside, Tenn., to Elizabeth Ramsey Breck near Charlotte, N.C.<date when="1872-01-07">1872 Jan. 07</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000406_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Riverside, Tenn., to Elizabeth Ramsey Breck near Charlotte, N.C. 1872 Jan. 7</title>
+               <date>1872-01-07</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">J.G.M. Ramsey wrote to his daughter, Elizabeth (Liddy) on Jan. 7, 1872. He mentioned it was normal for family members not to be near each other forever and we should be content and happy even if there are voids and try to make others happy. He told her kindness was cheap and made others and ourselves feel better. He told her about the miserable weather. He talked about money being hard to come by. He said Presbyterians were scarce around Lebanon since the war. He was content with all he had. He told her to wait to visit until spring and he would pay for her trip. He wondered how business was in North Carolina. He told her credit was bad in Tennessee, even for the rich. He mentioned that McKnitt may be able to enter business in Knoxville although the area was depressed economically.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Separation (Psychology)</term>
+               <term>Kindness.</term>
+               <term>Presbyterians -- Tennessee -- Lebanon.</term>
+               <term>Charlotte (N.C.) -- Economic conditions -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- Economic conditions -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e162">
+            <pb n="1" facs="0012_000060_000406_0001.jpg" xml:id="d3e163"/>
+            <p>River-Side Jany. 7. 1872.</p>
+            <p>My Dear Liddy</p>
+            <p>Your kind letter of the last reached us two days after its Post-March. We were of course glad to hear that you all were well &amp; from M Knitts P.<unclear reason="illegible" resp="NW">S.</unclear>that he expected to leave on the 9th for Knoxville. We will look for him Thursday or at furthest Friday you &amp; <unclear reason="illegible" resp="NW">Sue</unclear>must not feel lonesome after he leaves. It is not the order of nature nor of Providence that we should all be long together or near each other. Let it be our aim to appeal contented &amp; happy even if there be &quot;an aching void the world can never fill&quot; - Let us endeavour to make others happy. I saw Mr. Robt. M. <unclear reason="illegible" resp="NW">Wutt</unclear> passing by to Church in the rain just now &amp; asked him to take my overcoat to protect him from the storm. I felt better after doing so. These little civilities &amp; offers of kindness are very cheap - cost little &amp; sometimes make others feel better &amp; more kindly. It is raining &amp; the preacher has not come. Very few will attend this wintry weather. I wish I had put in a claim for a <unclear reason="illegible" resp="NW">chromo.</unclear> I will be sharper the next time. Does the observer come to Mr. A.? you </p>
+            <pb n="2" facs="0012_000060_000406_0002.jpg" xml:id="d3e187"/>
+            <p>might get $3.00 or even $2.50 from Mrs. Kearnes or <unclear reason="illegible" resp="NW">Hetta</unclear> A. or Frank Dickson or cousin Nora &amp; thus get a Chromo. No one near me has that much to spare or I would try to get an other subscriber Presbyterians are very scarce around Lebanon since the war &amp; I see little prospect of any immigrants. I direct this to you at Charlotte - no P.M. can tell where A. J. &amp; O Rail Road is &amp; they thus start the letters wrong &amp; they fail to arrive in proper time. Beside you will of course accept Roberts polite invitation to spend part of your time with him. If while there you see Dr. Miller be sure to give him &amp; his family our cordial respects. So also of others in Charlotte. I see a gleam of opening business for MK - but it is only a gleam. When he quits here it can be tested. We are both well &amp; getting along the old way. Plenty to eat - pleanty to <unclear reason="illegible" resp="NW">read</unclear> - good fines &amp; warm rooms &amp; plenty of new books. Cornelia sent out quite a number to your Ma which we all seem to <unclear reason="illegible" resp="NW">relish.</unclear> The weather is too bad to give us any society. No visiting seems to be the new order of things here in Tennessee If we look for a change we will be disappointed for half &apos;century to come. The population <unclear reason="illegible" resp="NW">out</unclear> here &amp; may never be. I hear this from every body in town &amp; country. </p>
+            <p>I am glad you are so good a traveller as to go 700 miles on three cups of coffee. <unclear reason="illegible" resp="NW">Gnacls</unclear> lunch was like the widows curse of oil. It lasted well. If when you wish to come home you write for money, I will send you a draft. on Nc. you had beter stay in N.C. till spring. I Head from Dr. L. last week that the little boys were well said they would come up any time to see us but that he could not come with them Near Years who of all the gentlemen at Lenoirs save you &amp; your trunk on the cars? Thos. R. I expect. </p>
+            <p>Write us often hereafter &amp; always let us hear how Robert &amp; <unclear reason="illegible" resp="NW">Sue</unclear> are. Is R. doing well trading? but here there is a great stagnation nothing doing It is a bad time to credit any one even the rich. Kiss all the little folks for me - especially Jimmy - he is to be a preacher yet I hope. Our love to all &amp; you. Affectionately J.G.M. Ramsey </p>
+         </div>
+      </body>
+   </text>
+</TEI>

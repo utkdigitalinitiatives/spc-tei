@@ -1,0 +1,2143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001702_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Charles Henry Shriner</name> Diary, 
+					<date when="1843-10">1843 October - 1844 April</date>
+            </title>
+            <author>
+               <name type="person">Shriner, Charles Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_001702_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Charles Henry Shriner Diary, 1843 October - 1844 April</title>
+               <date when="1843-10">1843 October - 1844 April</date>
+               <author>
+                  <name type="person">Charles Henry Shriner</name>
+               </author>
+               <extent>256 pages</extent>
+               <note type="collection">Charles Henry Shriner Diary</note>
+               <note type="manuscript">MS.3458</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Jackson, Andrew, 1767-1845</term>
+               <term>Polk, James K.,  (James Knox), 1795-1849</term>
+               <term>Abolitionists -- Tennessee</term>
+               <term>Nashville (Tenn.) -- History.</term>
+               <term>Slavery -- Tennessee</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary">
+            <pb n="1" facs="0012_001702_000201_0001.jpg" xml:id="d4e37"/>
+            <p>[Front Cover]</p>
+            <pb n="2" facs="0012_001702_000201_0002.jpg" xml:id="d4e41"/>
+            <p>[Inside Front Cover]</p>
+            <pb/>
+            <pb/>
+            <pb n="5" facs="0012_001702_000201_0005.jpg" xml:id="d4e53"/>
+            <p>1896</p>
+            <p>Charles H. Shriner&apos;s</p>
+            <p>Book</p>
+            <p>Bought of</p>
+            <p>F. Carpenter</p>
+            <p>Oct 20th 1843</p>
+            <pb n="6" facs="0012_001702_000201_0006.jpg" xml:id="d4e67"/>
+            <p>yys</p>
+            <p># Le For</p>
+            <p>178</p>
+            <p>Pa.</p>
+            <p>Economites  135</p>
+            <p>W.Va  &amp;  Tenn.</p>
+            <p>Buchanan  52</p>
+            <p>John Brown  94</p>
+            <p>Ohio River  101</p>
+            <p>John C Breckinridge  105</p>
+            <p>Andrew Jackson</p>
+            <p>Partial index</p>
+            <pb n="7" facs="0012_001702_000201_0007.jpg" xml:id="d4e94"/>
+            <p>Charles H Shriner&apos;s</p>
+            <p>Book</p>
+            <p>Bought of</p>
+            <p>F. Carpenter</p>
+            <p>Oct 30th 1843</p>
+            <p>George</p>
+            <pb n="8" facs="0012_001702_000201_0008.jpg" xml:id="d4e108"/>
+            <p>On Drink</p>
+            <p>Much has been said against alcoholic liquors; little for them.  Drink is sack-cloth and ashes; Drink fells our pride.  Give it time. Frank.</p>
+            <p>I might contribute my little say to this after sixty years or more from the first date in book.</p>
+            <p>&quot;Life is what we make it.&quot;</p>
+            <p>God&apos;s in his heaven all&apos;s right with the world.&quot;</p>
+            <pb n="9" facs="0012_001702_000201_0009.jpg" xml:id="d4e120"/>
+            <p>A</p>
+            <p>B</p>
+            <p>C</p>
+            <pb n="10" facs="0012_001702_000201_0010.jpg" xml:id="d4e128"/>
+            <p>The R.R.Bond Question.</p>
+            <p>Letter from Maj. C. H. Shriner on the Matter.</p>
+            <p>Mr. Editor: In last week&apos;s TELEGRAPH you printed an article from &quot;Linn&apos;s Annals of Buffalo Valley,&quot; which [unintentionally on
+				   the part of the author,] is an entire perversion of the truth of history.</p>
+            <p>I wrote Mr. Linn that his history of that great meeting was all wrong, and he replied that he was living in Sullivan county at the time and got his
+				   information from the Lewisburg papers, and requested me to write a true history of it, which I will now do, as briefly as possible.</p>
+            <p>1st.  Two meetings were held in New Berlin on July 31st. 1852--one in favor of giving two hundred thous-and dollars in bonds to the R. R. Co.  That
+				   meeting was made up of Lewisburg men, who were unanimous in favor of giving the bonds, as the Railroad would go through their town and benefit them
+				   greatly.  Ner Middleswarth was President of that</p>
+            <pb n="11" facs="0012_001702_000201_0011.jpg" xml:id="d4e140"/>
+            <p>D</p>
+            <p>E</p>
+            <p>F</p>
+            <p>meeting, and they of course passed resolutions in favor of the $200,000 bonds.  This meeting had about 500 people.  The other meeting was pre-
+				   sided over by the late Col. Robert B. Barber and was attended by five thousand men, who marched in pro-cession and were counted.  Almost every man 
+				   in what is now Union and Snyder county was at the Bar-ber meeting, which passed resolu-tions against the $200,000 bonds unanimously.  I wrote the
+				   resolu-tions and spoke in favor of them at the Barber meeting, in English and German, and they were printed in the old &quot;Union Times,&quot; in
+				   New Berlin, and also the papers of Philadelphia and New York.  We had them printed in these city papers in order to prevent the sale of the bonds
+				   in those cities.  But the Lewisburg papers printed only the proceedings of the Lewisburg meeting, thinking, no doubt, to thus help the sale of the
+				   bonds, and it was from these Lew-isburg papers that the Hon. Jno. B. Linn got his information.</p>
+            <p>The day after the great anti-bond meeting I drove to the house of Geo. Heimbach, one of the commissioners who had agreed to issue the $200,000 bonds.
+				   I found Mrs. Heimbach in great distress, and weeping bitterly.  I asked her what was wrong?  She said George had been offered $2,000 to sign the bonds,
+				   but she had told him that if he took that money, the curse of God would rest on them and their children.  I told her there was no doubt of that.  He
+				   was in the field when I came, but soon returned to the house.  I said to him, you ought to have been to our big meet-ing in New Berlin.  He said,
+				   &quot;I was there.&quot;  Then she said, &quot;Yes, he was hid in the house of our son in New Berlin ; he saw the big crowd of excited men, but was
+				   afraid to go</p>
+            <pb/>
+            <pb n="13" facs="0012_001702_000201_0013.jpg" xml:id="d4e157"/>
+            <p>G</p>
+            <p>H</p>
+            <p>I</p>
+            <p>out for fear the people would tear him to pieces.&quot;  I asked him if that was true?  He said it was and ad-ded, in German, &quot;Ich sign de benner
+				   nicht.&quot;  (I will never sign the bonds.) He then told me he had been offered $2,000 to sign the bonds, but said again he would never sign them and
+				   said, also, he would turn state&apos;s evidence and expose the whole con-cern, provided I would get Gov. Bigler, under whom I then held of-fice, to
+				   grant him a previous pardon.  This I agreed to do and did, or, rather, got a promise in writing to that effect from Gov. Bigler.  Then we got up the big
+				   dinner in honor of Heimbach at the house of Capt. Forster in Mifflinburg, to which Col. A.C. Simpson, S. F. Lyndall and others were invited, as shown by
+				   the letters you printed last week.</p>
+            <p>Some months after the dinner at Capt. Forster&apos;s, Heimbach signed the bonds, for which he was arrested on charge of bribery.  With the penitentiary
+				   staring him and the bribers in the face, they agreed to give up the bonds, and thus Union county was saved from the payment of $200.000, from which no
+				   part of the county would have received any benefit except Lewisburg, at least that was the opinion of the anti-bond men throughout the county.</p>
+            <p>I will not attempt to describe the excitement and bitterness that grew out of that R. R. bond fight, which finally brought about the division of Union
+				   county.</p>
+            <p>The men who took an active part in that fight, more than forty years ago, are nearly all gone--&quot;to the hap-py hunting grounds,&quot; let us hope.</p>
+            <p>&quot;None linger now upon the plain  Save those who ne&apos;er shall fight again.&quot;</p>
+            <p>Chas. H. Shriner,</p>
+            <p>3223 Calumet Ave., Chicago, Ill.</p>
+            <pb/>
+            <pb n="15" facs="0012_001702_000201_0015.jpg" xml:id="d4e183"/>
+            <p>K</p>
+            <p>L</p>
+            <p>M</p>
+            <pb/>
+            <pb n="17" facs="0012_001702_000201_0017.jpg" xml:id="d4e195"/>
+            <p>N</p>
+            <p>O</p>
+            <p>P</p>
+            <pb/>
+            <pb n="19" facs="0012_001702_000201_0019.jpg" xml:id="d4e207"/>
+            <p>Q</p>
+            <p>R</p>
+            <p>S</p>
+            <pb/>
+            <pb n="21" facs="0012_001702_000201_0021.jpg" xml:id="d4e219"/>
+            <p>T</p>
+            <p>U</p>
+            <p>V</p>
+            <pb/>
+            <pb n="23" facs="0012_001702_000201_0023.jpg" xml:id="d4e232"/>
+            <p>How to Clean Feathers in Pillows.</p>
+            <p>In the May Woman&apos;s Home Com-panion appears a department called &quot;The Exchange&quot; to which contributors make various household
+				   suggestions.  A Wisconsin contributor tells, as fol-lows, how to renovate feathers in pillows:</p>
+            <p>&quot;Open one corner of the ticking cover and pour boiling water in.  This renders the feathers a kind of pulpy wet mass which can be easily
+				   handled.  Take them out and wash in soap and water thoroughly, rinse in several waters until quite free from soap put back into the washed
+				   cover and hang out in the hot sun, where the feathers will swell to fill the cover and be won-derfully light and perfectly clean with-out
+				   having been scattered at all, as happens when handled dry.&quot;</p>
+            <p>W</p>
+            <p>Y</p>
+            <p>Z</p>
+            <pb n="24" facs="0012_001702_000201_0024.jpg" xml:id="d4e246"/>
+            <table>
+               <row role="data">
+                  <cell/>
+                  <cell>Born</cell>
+                  <cell>Married</cell>
+                  <cell>Died</cell>
+               </row>
+               <row role="data">
+                  <cell>Samuel Shriner</cell>
+                  <cell>May 1 - 1798</cell>
+                  <cell>May 9 - 1818</cell>
+                  <cell>Aug 9 - 1828</cell>
+               </row>
+               <row role="data">
+                  <cell>Joanna Wheeler (Shriner)</cell>
+                  <cell>April 13 - 1799</cell>
+                  <cell>May 9 - 1818</cell>
+                  <cell>Dec 2 - 1857</cell>
+               </row>
+               <row role="data">
+                  <cell>Children born to Samuel and Joanna W. Shriner</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>William Babb Shriner</cell>
+                  <cell>Nov 25 - 1819</cell>
+                  <cell/>
+                  <cell>Sept 26 - 1862</cell>
+               </row>
+               <row role="data">
+                  <cell>Sarah Jane Shriner</cell>
+                  <cell>July 15 - 1820</cell>
+                  <cell/>
+                  <cell>Feb 25 - 1821</cell>
+               </row>
+               <row role="data">
+                  <cell>Charles Henry Shriner</cell>
+                  <cell>Feb 25 - 1822</cell>
+                  <cell/>
+                  <cell>Jan 19 - 1899</cell>
+               </row>
+               <row role="data">
+                  <cell>Joseph Wheeler Shriner</cell>
+                  <cell>Nov 12 - 1824</cell>
+                  <cell/>
+                  <cell>Nov 15 - 1897</cell>
+               </row>
+               <row role="data">
+                  <cell>Caroline Matilda Shriner</cell>
+                  <cell>Oct 27 - 1826</cell>
+                  <cell/>
+                  <cell>Aug 4 - 1827</cell>
+               </row>
+               <row role="data">
+                  <cell>Samuel Shriner</cell>
+                  <cell>Oct 9 - 1828</cell>
+                  <cell/>
+                  <cell>Jan 17 1868</cell>
+               </row>
+            </table>
+            <pb n="25" facs="0012_001702_000201_0025.jpg" xml:id="d4e329"/>
+            <p>[continuation of the table from the previous page]</p>
+            <pb/>
+            <pb n="27" facs="0012_001702_000201_0027.jpg" xml:id="d4e337"/>
+            <p>1843</p>
+            <p>Charles H Shriner</p>
+            <p>Left Home on Wednesday Oct 18th 1843 for Western Virginia &amp; Tenesee</p>
+            <table>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell>Miles</cell>
+               </row>
+               <row role="data">
+                  <cell>Oct 18th</cell>
+                  <cell>travell&apos;d to Mots&apos;s</cell>
+                  <cell>26</cell>
+               </row>
+               <row role="data">
+                  <cell>19th</cell>
+                  <cell>to Fine Grove </cell>
+                  <cell>32</cell>
+               </row>
+               <row role="data">
+                  <cell>19th</cell>
+                  <cell>to Fine Grove </cell>
+                  <cell>32</cell>
+               </row>
+               <row role="data">
+                  <cell>20th</cell>
+                  <cell>to Yellow Springs took dinner with center Volunteers</cell>
+                  <cell>30</cell>
+               </row>
+               <row role="data">
+                  <cell>21st</cell>
+                  <cell>to Loysburg</cell>
+                  <cell>30</cell>
+               </row>
+               <row role="data">
+                  <cell>23rd</cell>
+                  <cell>9 Mile Beyond Bedford</cell>
+                  <cell>25</cell>
+               </row>
+               <row role="data">
+                  <cell>24</cell>
+                  <cell/>
+                  <cell>30</cell>
+               </row>
+               <row role="data">
+                  <cell>25</cell>
+                  <cell>Mount pleasant</cell>
+                  <cell>30</cell>
+               </row>
+               <row role="data">
+                  <cell>26</cell>
+                  <cell>29 Miles beyond</cell>
+                  <cell>29</cell>
+               </row>
+               <row role="data">
+                  <cell>27</cell>
+                  <cell> Washington Co</cell>
+                  <cell>27</cell>
+               </row>
+               <row role="data">
+                  <cell>28</cell>
+                  <cell>to Wheeling Va.</cell>
+                  <cell>22</cell>
+               </row>
+               <row role="data">
+                  <cell>30</cell>
+                  <cell>to </cell>
+                  <cell>16</cell>
+               </row>
+               <row role="data">
+                  <cell>Nov 3d</cell>
+                  <cell>to Wheeling</cell>
+                  <cell>16</cell>
+               </row>
+               <row role="data">
+                  <cell>&quot;</cell>
+                  <cell>for Cumberland</cell>
+                  <cell>800</cell>
+               </row>
+               <row role="data">
+                  <cell>9</cell>
+                  <cell>for Nashville</cell>
+                  <cell>203</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>landed at Nashville on the 10th cost from Wheeling $30.00</cell>
+                  <cell>1316</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>cost from or to Wheeling</cell>
+                  <cell>26.00</cell>
+               </row>
+            </table>
+            <pb n="28" facs="0012_001702_000201_0028.jpg" xml:id="d4e474"/>
+            <p>1</p>
+            <p>1843  Memorandum</p>
+            <p>Nov 1st  To L.R. <unclear reason="illegible" resp="PW">Fleming</unclear> Brooks and Ohio counties for a one horse Bugee.  one Wheel broke off paid
+				   2.37 1/2 cents for repairing it. took it to wheeling on Nov 3d  Exchanged it for a Gold Watch receiving $13.50 difference.</p>
+            <p>Dec 1st  To James McCullough 3 counties Va. Davidson, Wilson &amp; sumner. recieving in pay one sorrel horse, 2 Yankee clocks, one rifle bolt for
+				   $80.00 to be taken in boarding &amp; horse feed, and $10.00 in cash</p>
+            <p>1844</p>
+            <p>Jan 9  Sold <unclear reason="illegible" resp="PW">misans</unclear> McCullough &amp; Nathan Robertson &amp; Shelby counties for $50.00 in boarding
+					&amp; horse feed &amp; a &quot;slow note&quot; for $55.00</p>
+            <p>
+               <unclear reason="illegible" resp="PW">May 7</unclear> To Col. Snow the balance of Tennessee Kentucky &amp; Virginia  Waggon, Watch Horses &amp;
+					Harness for <unclear reason="illegible" resp="PW">.000</unclear> acres of land in coffee county and one hundred dollars in cash. Machine going into the bargain</p>
+            <pb n="29" facs="0012_001702_000201_0029.jpg" xml:id="d4e501"/>
+            <p>2</p>
+            <p>Went to Manchester, winchester and sparta to examine the quality &amp; title of our land. returned &amp; left for Home on the fourth of June 1844</p>
+            <pb n="30" facs="0012_001702_000201_0030.jpg" xml:id="d4e507"/>
+            <p>3</p>
+            <pb n="31" facs="0012_001702_000201_0031.jpg" xml:id="d4e513"/>
+            <p>4</p>
+            <p>Paradoxical as it may appear it is nevertheless true that the laboring man above all others is robb&apos;d of his hard earnings by a high tariff.
+					Here&apos;s my position --- &quot;It enhances and raises the price of any article upon which it is laid, while it leaves the laboring man&apos;s
+					wages stationary&quot;  Now I propose to prove these positions  1st that it raises the price of every article upon which it is laid</p>
+            <p>2nd that it leaves the laboring man&apos;s wages Stationary.  In order to prove our first position.  Let us suppose a can suppose we even now doing
+					business under a system of low duties or &quot;Free trade&quot; or whatever you please to style it.  Good cloth can be purchas&apos;d at $3.00 per
+					Yard &amp; other articles in proportion.  Now suppose our Government lays a tariff of say 50 per cent upon imported cloth, How will this affect
+				    the importers of cloth?  How will he manage under this new state of things?  As a matter of course when he sells to our</p>
+            <pb n="32" facs="0012_001702_000201_0032.jpg" xml:id="d4e521"/>
+            <p>5#</p>
+            <p>American Merchant here after he will add 50 per cent to the former price of the article.  this add-ition of 50 per cent he will transfer to our
+					Government &amp; go home with his usual price of $3.00 per Yard.  When our city merchants sell these goods to county merchants they tack this
+				   50 per cent on again of course, and when our county merchant sells to You or Me he tacks them 50 per cent on again and for the last time.
+				   Ultimately the tariff is always paid by the consu-mer in the shape of an increas&apos;d price.  Under the present system we buy our cloth for 3.00
+				   per Yard under a high tariff system we pay $4.50 per yd. or 3.00 per yd plus 50 per cent = the tariff Which is equal to 4.50 per yard.  is not
+				   my first position clear, &quot;it raises the price of evry article upon which it is laid&quot; the consumer as a general rule always pays the tariff
+				   in the</p>
+            <pb n="33" facs="0012_001702_000201_0033.jpg" xml:id="d4e527"/>
+            <p>6#</p>
+            <p>form of an increased price.  Ah but says one  Your theory don&apos;t hold good in practice.  How does it happen say they who contend that an
+					addition of 50 per cent to the prime cost of an article reduces it&apos;s price.  How does it happen that imediately after the imposition of the
+					present tariff, many of the articles upon which it was laid fell instead of increasing in price?  that is easily explain&apos;d.  All markets are
+					regulated by supply and demand, Whenever the Supply of any article. very much exceeds the demand the price of that article unless influenc&apos;d
+				   by some powerful secondary cause, must in the very nature of things fall.  the experience and observation of eny individual teaches him this truth.
+				   Now this was precisely the condition of our county at the time the tariff of 42 went into operation.  our market <unclear reason="illegible" resp="PW">was 
+				   	glutted with</unclear> fabrics of evry <unclear reason="illegible" resp="PW">scame</unclear> kind &amp; description. How happened</p>
+            <pb n="34" facs="0012_001702_000201_0034.jpg" xml:id="d4e540"/>
+            <p>7#</p>
+            <p>they to be Glutted?  I will show and by way of illustration Let us suppose a case.  Suppose there was now no tariff on sugar. congress Lays a tariff
+				   of 2 cents per pound on it the Law to go into operation one Year from this day.  What course would american sugar growers and foreign importers pursue
+				   under such circumstances?  Evry American Sugar Grower able to do it would hold on to his sugar this Year in order to take advantage of the expected
+				   raise.  Evry importer would endeavor to have all the sugar imported into this country this Year, he possibly could for the two-fold purpose of taking
+				   advantage of the expected raise and also of dodging the tariff which would be demanded on the article at the expiration of this Year.  What would be the
+				   consequence?  the consequence would be that on the day our tariff went into operation our markets would</p>
+            <pb n="35" facs="0012_001702_000201_0035.jpg" xml:id="d4e546"/>
+            <p>8th</p>
+            <p>be so Glutted with Sugar that the price insted of raising as was expected might temporarily fall.  But would it fall in consequence of the tariff?  No
+				   it would fall in consequence of the Glut of the market, counteracting causes, such as a Glut of the market improvement in Machinery or a contracted
+				   currency may temporarily reduce the price but in all such cases the price of the article falls in spite of the tariff &amp; not in consequence of it.
+				   But to put the point to rest.  Satisfactorily at least to our Whig brothers we will Quote the best of Whig authority, take <unclear reason="illegible" resp="PW">guily</unclear>
+					&amp; <unclear reason="illegible" resp="PW">McClrath&apos;s</unclear> life &amp; speeches of Henry Clay Vol. 2nd page 144 and you will hear the great
+					&quot;Em-bodiment&quot; speaks as follows</p>
+            <p>Henry Clay</p>
+            <p>&quot;if there is any truth in political Economy, it cannot be thatresult will agree, with the</p>
+            <pb n="36" facs="0012_001702_000201_0036.jpg" xml:id="d4e562"/>
+            <p>9th</p>
+            <p>prediction.  for <unclear reason="illegible" resp="PW">ae</unclear> an instructed all experiences that the consumption of any article is in proportion
+					to the redirection of it&apos;s price &amp; that in general it may be taken as a rule that the duty on an article forms a portion of it&apos;s price&quot;</p>
+            <p>Danl Webster in 1824</p>
+            <p>&quot;our whole annual consumption of this article (iron) is suppos&apos;d the chairman of the comittee to be 48,000 or 50,000 tons, let us supp-ose the latter -
+				   the Amt of our Manufacturer he estimates I think at 12,000 tons, the present duty (1824) on the imported article is $15.00 per ton, and as this duty causes of
+				   of course an Equivalent Augmentation of the price of the Iron Manufacture the whole increase of price is equal to $75,000 annually!! this sum we pay on a
+				   <unclear reason="illegible" resp="PW">raca</unclear> national and on an absolute necesary of life, the bill proposes</p>
+            <pb n="37" facs="0012_001702_000201_0037.jpg" xml:id="d4e578"/>
+            <p>10th</p>
+            <p>to raise the duty from $15.00 to 22.50 Which would be equal to $1,125,000 on the whole annual consumption.  So that suppose the point of prohibition which is
+					arm&apos;d at to be attain&apos;d the consumers of the article would pay this last mention&apos;d sum evry year to the producers of it, over &amp; above
+					the price at which they could supply themselves with the same article from other scources&quot;</p>
+            <p>Extract from the report of the Hon Jno Quincy Adams in 1832</p>
+            <p>&quot;the doctrine that duties of import cheapen the price of the articles upon which they are levied seems to con-flict with common sense . the duty operates
+				   as a bounty or prem-ium to the domestic manufacturer.  But by whom is it paid?  certainly if the purchase of the article wither of foreign or domestic
+				   manufacture &quot; the duty forms</p>
+            <pb n="38" facs="0012_001702_000201_0038.jpg" xml:id="d4e588"/>
+            <p>11th</p>
+            <p>a part of the price of the whole mass of the article in Market it is substantially paid upon the article of domestic manufacture as well as upon that of
+				   foreign production, upon the one it is a bounty , upon the other it is a burden , and the repeal of the duty must operate as an equivalent reduction of the
+				   price of the article, whether of foreign or domestic manuf-acture..... the general &amp; perm-anent effect must be to &quot;increase the price of the article
+				   &amp; it is then paid by the consumer&quot;  if the effect of a tariff was to &quot;reduce the price of the article would our manufacturers ask for a tariff?
+				   is not our first point clear?  does it not stand out in cold relief like the &quot;<unclear reason="illegible" resp="PW">Allegetions</unclear> in the sunlight&quot;
+					Must not he &quot;Hood-wink&apos;d be indeed &amp; darkness low who cannot or will not se that the &quot;General &amp;</p>
+            <pb n="39" facs="0012_001702_000201_0039.jpg" xml:id="d4e597"/>
+            <p>12th</p>
+            <p>permanent effect of a tariff is to increase the price of the article&quot;  So much for our 1st position  Now for our 2nd position <unclear reason="illegible" resp="PW">Vig</unclear>
+					that it leaves the laboring man&apos;s wages stationary&quot; it has been a popular doctrine thus far with all protectionists that high tariffs made high wages.
+					that high tariffs may temporarily raise wages we readily admit,  But that the ultimate tending is to reduce wages, no one who Judges of the &quot;future by
+					the past&quot; can fairly deny   Suppose there was <unclear reason="illegible" resp="PW">nora</unclear> no tariff upon iron the consequence is it can-not be
+					made in this county &amp; is pur-chas&apos;d from abroad.  Government lays a high tariff upon iron capitalists engage in the business  Men who were formerly
+					engag&apos;d in other employments are now drawn into the manufacture of iron.  But men cannot be drawn from other branches</p>
+            <pb n="40" facs="0012_001702_000201_0040.jpg" xml:id="d4e609"/>
+            <p>13th</p>
+            <p>without high wages.  But in the course of time, as the system advances and the operatives settle down around these establishments and get in debt, and as their
+				   children grow up around them a completion springs up around their mills for this very employ-ment.  competition reduces the price.  And if the manufacturers
+				   combine for the purpose of reducing the wages of their hands the only remedy of these operations is to &quot;<unclear reason="illegible" resp="PW">Striter</unclear>&quot;
+				   Whichever party can hold out longest in a contest of this kind that party will conquer.  Which will it be?  the rich employer who can live for years even if his works
+				   do stand idle.  Or the poor laborer who is depen-dent on his doing labor for his daily bread?  I know that our Whig Brithers tell us that we live in a &quot;land
+				   of plenty&quot; they talk very <unclear reason="illegible" resp="PW">laigily</unclear> &amp; very eloquently about our &quot;Stripes &amp; Star&quot;</p>
+            <p>No man in</p>
+            <pb n="41" facs="0012_001702_000201_0041.jpg" xml:id="d4e623"/>
+            <p>14th</p>
+            <p>this fine land , say they is compell&apos;d to work for low wages unless he is willing - if the Manufacturers com-bine for the purpose of reducing wages the
+					operatives can refuse to work.  so he can. &amp; how long can he refuse to work?  perhaps a week, perhaps a month. or at farthest only until his little means of
+					subsistence are exhausted , and then when his family begins to look Hungry and ragged.  When his childrun begin to cry for &quot;bread&quot; and he has no bread
+				   to give.  that man will go back to his rich employer and work if need be for whatever he in all good graces sees fit to give.  Sooner than see his family. Hunger
+				   &amp; perish!!  Now there is my theory of wages is it true?  I appeal to the history of evry tariff country on the face of the earth and ask is my theory true?
+				   look to my land.  Your high tariff system.  Your &quot;<unclear reason="illegible" resp="PW">protect house industry</unclear> system&quot;  Your</p>
+            <pb n="42" facs="0012_001702_000201_0042.jpg" xml:id="d4e632"/>
+            <p>15th</p>
+            <p>&quot;keep our Gold &amp; silver at home&quot; system has there been in opper-ation for 200 Years &amp; it has created a population of Naboles and Slaves!!  if
+					high tariffs make high wages, Why are wages so low in england Where they hav higher tariffs than in any other country &amp; Where the object of the government
+				   has always been to force Manufacturing?  is not my 2nd position clear, high tariffs do not make high wages, on the contrary they ultimately reduce them by putting
+				   the laborer into the power of the capatalists, if then the Effect of the tariff is to increase the price of evrything which the laboring man consumes.  While at
+				   the <unclear reason="illegible" resp="PW">home turn</unclear> it reduces his wages.  What is the tariff to him but a curse?  But the farmer is told that he is
+				   benefitted by a high tariff, that it furnishes him with a home market etc.  Now let us look at the solidity of this argument according to our Secratry</p>
+            <pb n="43" facs="0012_001702_000201_0043.jpg" xml:id="d4e641"/>
+            <p>16th</p>
+            <p>Walker&apos;s report then on about 4 Hundred thousand individuals in the U S  who are engaged in Manufacturing, about 1/50th of our population   Now there are
+					something like 16 Million eng-ag&apos;d in agriculture.  Just as one is to 40 20 is our Man-ufacturing to our agricultural population.  Now these manufacturers
+					tell these far-mers if they will only suffer them-selves to be tax&apos;d from 30 to 100 per cent upon evrything they produce, they will consume all their
+					produce &amp; give them high price for it, is not this adding insult to injury ?  cannot the <unclear reason="illegible" resp="PW">liqiest simpecton</unclear>
+            </p>
+            <p>In that then 400 thousand Manufacturers cannot consume the surplus then  16 Millions of farmers produce can our Manufacturers consume all that 40 farmers produces</p>
+            <p>Whenever our protective system Enlarges the stewards of our</p>
+            <pb n="44" facs="0012_001702_000201_0044.jpg" xml:id="d4e653"/>
+            <p>17</p>
+            <p>Manufacturers so as to enable 1 of them to eat the surplus of Wheat Rye corn oats pork etc.  Which 40 farmers produce then but not till them will protection
+					furnish us with a&quot;home Market&quot;  Let us illustrate the matter in another way, let us take 2 counties.  North d &amp; Union, let us applyYour theory of
+					protection &amp; free trade to them 2 counties &amp; in doing so let us remember that Whatever is true on a small is true on a large scale.  Let these 2
+					counties then represent 2 Nations of peoples with seperate governments &amp; seperate interests.  North d is a barren Mountainous country illy adapted to farming,
+					but great advantage for Manufacturing.  <unclear reason="illegible" resp="PW">The</unclear> has a vry dense population low wages &amp; perfect Manufacturing , in
+				    a word she can Manufacture much cheaper than we can in</p>
+            <pb n="45" facs="0012_001702_000201_0045.jpg" xml:id="d4e663"/>
+            <p>18</p>
+            <p>Union county.  the same amt of labor necesry to make one yd of cloth in Union will make 2 yds in North d.  But Union is better calculated for agricultism.  the
+					face of the county is the vry reserve of North d here are no mountains here is no barren soil.  the land is rich as the garden of eden &amp; produces in great
+					abundance almost without any cultivation on the part of him.  in a word we can produce Wheat Rye corn oats etc. in much greater abundance &amp; much cheaper
+					than our Neighbors in North d   the same amt. of Labor Necesary to produce one <unclear reason="illegible" resp="PW">bus</unclear> of wheat  then will produce
+					2 <unclear reason="illegible" resp="PW">bus</unclear> here.  And the same amt of Labor Necessay to Make 13d of <unclear reason="illegible" resp="PW">Lath</unclear> here will produce 23d there.</p>
+            <p>Now would it not clearly be the interest of each one of those counties to pur-sue that which Nature had clearly Marked out for them?</p>
+            <pb n="46" facs="0012_001702_000201_0046.jpg" xml:id="d4e680"/>
+            <p>19</p>
+            <p>Let each one pursue that branch of business which they are naturally best calculated for &amp; exchange their products with one another on fair &amp; equal terms
+					&amp; each one will rein in this way by the smallest amt of labor the largest amt of the necessaries &amp; comforts of life.  the man in North d will get his
+					bread &amp; meat easier and cheaper by exchanging his fabrics for thus &amp; we will get our fabrics easier &amp; by exchanging our produce for them  thus if we
+					Manufactured them ourselves , all would be thus benefitted by &quot;free trade&quot;</p>
+            <p>Now apply your theory of pro-yection to these 2 counties, protection says to the farmers in Union.  Your system of doing business is all wrong , there is no
+				   necessity in Your being dependant on North county for your fabrics  You can make them your-</p>
+            <pb n="47" facs="0012_001702_000201_0047.jpg" xml:id="d4e688"/>
+            <p>20</p>
+            <p>-selves.  Says the capitalists to our ten thousand farmers in Union.  there is no necessity in your supporting the &quot;pauper labor&quot; of North d  give me a
+					tariff of 50 per cent for protection &amp; I will build an establishment in lewisburg that will employ 250 hands &amp; will make all the fabrics you are able to
+					consume.  the Manufacturing establishment is built a tariff of 50 per cent is laid on all goods bro&apos;t from North d  Manufacturing goes into operation the 
+				   ten thousand farmers are supplied with home fabrics at Just 50 per cent higher than they could hav bought them in exchange for their produce in North d county</p>
+            <p>But as time rolls round the farmer finds that after these 250 manufacturers here consum&apos;d all they are able to consume he has still a large surplus of grain
+				   cotton tobbacco etc. left   What is he to do with that ?</p>
+            <pb n="48" facs="0012_001702_000201_0048.jpg" xml:id="d4e696"/>
+            <p>21</p>
+            <p>Can he sell it to his old cus-tomers in North d ? No. if the farmers buy nothing of the man-ufacturers in North d they can buy nothing from the farmers in Union
+					because they would not have the means to buy.  does not this policy <unclear reason="illegible" resp="PW">ease</unclear> the farmer dependent upon the poor market
+				   alone.  Whereas before this policy was adopted he had a foreign market</p>
+            <pb n="49" facs="0012_001702_000201_0049.jpg" xml:id="d4e705"/>
+            <p>22nd  Calumet Av - No 3223           115</p>
+            <p>Life &amp; times of Charlie Shriner</p>
+            <p>Continue&apos;d - from back part of this book - Chicago oct 6th 1890</p>
+            <p>the people - that the hard stories told by the Republican leaders about the border Ruffian outrages and Murders etc. - here all a pack of Abolition lies, -
+					and I thought I was telling the truth &amp; I suppose You did the same, but said he, I have been there now several months my-self - and</p>
+            <pb n="50" facs="0012_001702_000201_0050.jpg" xml:id="d4e715"/>
+            <p>I am sorry to say that most of them hard stories are not only true - but the the truth has not been half told&quot; - Why he said You will hardly beleive me when
+					I tell You, they had the impu-dence to come &amp; tell me, how I must decide certain cases when they came up in Court!</p>
+            <p>I said - &quot;Why gentlemen I came here as a Judge and in court I will know no man - non</p>
+            <pb n="51" facs="0012_001702_000201_0051.jpg" xml:id="d4e721"/>
+            <p>117</p>
+            <p>his <unclear reason="illegible" resp="PW">folstiches</unclear> I will decide according to the law &amp; evidence &amp; Justice in the case - but they soon made me
+				   understand that if I was going to act the d - m - n fool by deciding in that way, - the best thing I could do would be to get out of Kan-sas as quick as possible</p>
+            <p>Why my life has not been safe , sir - Gov</p>
+            <pb n="52" facs="0012_001702_000201_0052.jpg" xml:id="d4e732"/>
+            <p>Jno W Gearny, had to Resign &amp; leave Kansas as he would have been kill&apos;d said he - Why I was standing by Gov Geary&apos;s side - When a Border Ruffian Gang
+					got around him with the intention of killing him - right on the floor of the Legislatiore, - one of them walk&apos;d up to Geary &amp; spit in his face - thinking
+					he would resent it - and then they would fall on him &amp; kill him - </p>
+            <pb n="53" facs="0012_001702_000201_0053.jpg" xml:id="d4e736"/>
+            <p>119</p>
+            <p>but Geary understood their game &amp; although he was a very brave man &amp; distinguish&apos;d himself afterward in the war in many Battles&quot; - Yet he smothered
+					his wrath &amp; walk&apos;d away &amp; thus &quot;liv&apos;d to fight another day&quot; - </p>
+            <p>Geary had been appointed Gov of Kansas by President Pierce - and was after the war - twice elected Gov of Pa. - Judge Cuningham</p>
+            <pb n="54" facs="0012_001702_000201_0054.jpg" xml:id="d4e744"/>
+            <p>120</p>
+            <p>was not only an able Lawyer - he was also a very honest &amp; high minded man - he said that on the first day of his arrival at Ft. Leavanwerth a &quot;border
+					Ruffian troop&quot; was parading on horse-back &amp; said he - one of the hardest looking men in that troop  was pointed out to me, as my Colleague - Chief Justice
+				   Le -</p>
+            <pb n="55" facs="0012_001702_000201_0055.jpg" xml:id="d4e750"/>
+            <p>121</p>
+            <p>Cernpte of Kansas - then &quot;Border Ruffian trooper&quot; - were mad up of Southern Men Chiefly - who had gone over from Mo - and other Slave states to force
+					Slavery into Kansas - on the Election day they went over by thousands &amp; took forcible posession of the polls in Atchison Leavanwerth &amp; all other voting
+				   precincts along</p>
+            <pb n="56" facs="0012_001702_000201_0056.jpg" xml:id="d4e757"/>
+            <p>122</p>
+            <p>the river &amp; other places in the Territory - driving away &amp; killing the free state men - and then electing themselves to all the offices, - in 1860 the
+					Judge &amp; myself were elected delegates to the Democratic State Convention, held in Reading Pa to nom-inate a Candidate for Govener &amp; also to elect
+				   delegates to the dem-ocratic Natinal</p>
+            <pb n="57" facs="0012_001702_000201_0057.jpg" xml:id="d4e763"/>
+            <p>123</p>
+            <p>Convention held in Chalestin South Car-olina - he was made delegate to Charleston &amp; when he came home he told me there would be war, - he said the southern
+					delegates left that convention, or the bulk of them - and afterward met in Baltimore &amp; nominated, Jno C</p>
+            <pb n="58" facs="0012_001702_000201_0058.jpg" xml:id="d4e769"/>
+            <p>124</p>
+            <p>Breckenridge to run against Douglass, who had been nominated by a majority of the Convention, - simply because they wanted to defeat Douglass and thereby elect
+					Lincoln &amp; there take Lincoln&apos;s Election as an excuse to secede - make war &amp; break up the goverments</p>
+            <p>- in 1864 Judge cuning-ham was one of the Electors at large</p>
+            <pb n="59" facs="0012_001702_000201_0059.jpg" xml:id="d4e777"/>
+            <p>125</p>
+            <p>for Lincoln, and I was also an Elector for him for the 14th in Harris-burg dis&apos;t in Pa - We met in Harr-is-burg &amp; cast our Votes &amp; both went from
+					there to Washington &amp; on the next day to hit on the 14th of Dec 1864 I was Nominated by Lincoln for Collector of Int Rev-enue for the 14th dist - on
+					which I felt good for it was worth $6,000 per Year <unclear reason="illegible" resp="PW">in Lesider</unclear> a good many nice</p>
+            <pb n="60" facs="0012_001702_000201_0060.jpg" xml:id="d4e786"/>
+            <p>126</p>
+            <p>places I could give to my friends - such as Asst Assessers - Store - keepers - guagers &amp; one deputy collecter for each of the 5 Counties in My district -
+					each plan worth $5. per day &amp; but little to do. -</p>
+            <p>Cunningham was a very ambitious man &amp; could not brook defeat, - he was a candidate for Congress again in 1866  I think - but was beat for the Nomination, 
+				   by the treachery of his</p>
+            <pb n="61" facs="0012_001702_000201_0061.jpg" xml:id="d4e794"/>
+            <p>127</p>
+            <p>own conferces, - and I think he died from the effects of this defeat, - at any rate he only liv&apos;d a short time - and died I think in the early part of 1867</p>
+            <p>during the seven years I lived in <unclear reason="illegible" resp="PW">Becrer</unclear> county, M S Quay, <unclear reason="illegible" resp="PW">Mm</unclear> U S
+					Senator from Pa and Chm of the Republican Nat Committee, - was one Clerk of our court &amp; No Man ever suspected that</p>
+            <pb n="62" facs="0012_001702_000201_0062.jpg" xml:id="d4e808"/>
+            <p>he was more than an ordinary man - but</p>
+            <p>M S Quay</p>
+            <p>has since then prov&apos;d himself to be a very extraordinary man, - When the word broke out he resign&apos;d his office of Clerk &amp; went to the war as Col of a
+					Regiment. - his health broke down &amp; he return&apos;d from the army a mere skeleton, - I saw him in Harrisburg on his return &amp; did not think he would live
+				   a Month</p>
+            <pb n="63" facs="0012_001702_000201_0063.jpg" xml:id="d4e816"/>
+            <p>129</p>
+            <p>- but he recover&apos;d &amp; to day, oct 6th 1890 he is the absolute ruler of the great state of Pa - as well as U S Senator &amp; the Commander in Chief of the
+				   Republican party in the U S - by Virtue of his position as Chairman of their Nat Committees. - the rise of this man is one of the most won-derful things in the history
+				   of the world - </p>
+            <p>Simon Cameron ruled Pa for full forty years - but the secret of his power is not so strange, - in</p>
+            <pb n="64" facs="0012_001702_000201_0064.jpg" xml:id="d4e824"/>
+            <p>early life he made what was then a great fortune - he became a Banker &amp; knew how to use his money - he was a printer with a printers practical education - none
+				   better in the world. - </p>
+            <p>he bought his first Election to the U S Senate, - beyond all doubt &amp; perhaps one or two after that - but in his later days he had no need for money - the vast
+				   Majority of Man-kind are so base that they will serve</p>
+            <pb n="65" facs="0012_001702_000201_0065.jpg" xml:id="d4e830"/>
+            <p>131</p>
+            <p>any man for nothing who has the reputation of hav-ing - money &amp; power, - in other words - &quot;A few Men &amp; a great many beasts, that is what this world&quot;
+				   is made up of - but this man Quay had neither Money Nor power - Nor Patronage. - I know him very well in Bearn - I dont think he was worth a bushel of potatoes  When
+				   he went to Harris-burg in 1861 - he is a very quiet modest unassuming man - but well</p>
+            <pb n="66" facs="0012_001702_000201_0066.jpg" xml:id="d4e836"/>
+            <p>educated &amp; well read, - Gov <unclear reason="illegible" resp="PW">Curtin</unclear> made him his private secretary after he left the Army - in the long fight between
+					Curtin &amp; Cameron - he was of course a Curtin Man - he was elected to the Legislature in 1867 I think &amp; was a candidate for Speaker &amp; Quay told me himself
+					that the Camerons spent $75,000 to defeat him!  - but one day to the surprise of all men Quay left Curtin &amp; went over to cameron!  - he acted as Cameron&apos;s
+				   Lieut. untill after Don Cameron got into the U S Senate</p>
+            <pb n="67" facs="0012_001702_000201_0067.jpg" xml:id="d4e844"/>
+            <p>133</p>
+            <p>- at last the Cameron&apos;s thought Quay was getting too big, - they now lik&apos;d a Man to set up for him-self, - Men were born into the world to serve the
+					Cameron&apos;s, - so they undertook to skotch him a little - When Don went to Europe - he made Mcgee of Pitts-burg his Lieutenant - then Quay came out for State
+					Treasurer - Cameron&apos;s offer&apos;d his nomination - but he beat them &amp; was elected by over</p>
+            <pb n="68" facs="0012_001702_000201_0068.jpg" xml:id="d4e850"/>
+            <p>forty thousand Majority - then before his term expired as State Treasurer - he was elected U S Sen-ater &amp; to day has Abso-lute sway in Pa. - </p>
+            <p>Don Cameron is penniless &amp; can never go back to the Senate unless Quay wills it - Simon Cameron was indeed popular - but his son Don never had but one friend in
+				   that state - that was Simon - and he</p>
+            <pb n="69" facs="0012_001702_000201_0069.jpg" xml:id="d4e856"/>
+            <p>135</p>
+            <p>is now dead</p>
+            <p>Economites of Beaver</p>
+            <p>I liv&apos;d from Apr 1st 1856 in Phillips-burg, until June 1859 - this term was made up of governors who had seceded from the &quot;Economy Society&quot; - ten
+				   miles further up the Ohio river, - there Economites came from Germany in 1804 with George Baff for their Leader, - they were what we call Second Advent people -
+				   and thus</p>
+            <pb n="70" facs="0012_001702_000201_0070.jpg" xml:id="d4e866"/>
+            <p>Strange History Shows the power of Religious fanaticism - Baff would not let them marry &amp; them that were Married had to Seperate &amp; live ap-art - because
+					as he said the time had now come When people must &quot;No longer Marry or be given in Marriage&quot; - but the society brought with them over the sea 351 Children
+					that liv&apos;d to become Men &amp; Women.</p>
+            <pb n="71" facs="0012_001702_000201_0071.jpg" xml:id="d4e870"/>
+            <p>137</p>
+            <p>there were 176 boys &amp; 175 girls - and when they grew up they wanted to Marry - they said to their parents - &quot;Father Baff dont know when Christ will come -
+					he told you in 1804 in Germany - &quot;Now he is Coming&quot; - then we were Children.  Now we are Men &amp; Women &amp; Christ has not come &amp; we want to 
+				   Marry</p>
+            <pb n="72" facs="0012_001702_000201_0072.jpg" xml:id="d4e876"/>
+            <p>Baff saw he would have trouble with these young folks - and <unclear reason="illegible" resp="PW">few ling</unclear> a Fanatic - he became an Imposter - he got a
+					man here from Ger-many, that call&apos;d himself <unclear reason="illegible" resp="PW">Curt Leers</unclear> to come here &amp; Palm&apos;d the&apos; Man off on
+					these poor deluded people for our Savior - he told them one day that he had a &quot;Vision&quot; (he often had them) - he said they had waited a</p>
+            <pb n="73" facs="0012_001702_000201_0073.jpg" xml:id="d4e886"/>
+            <p>139</p>
+            <p>long time - but now this season Christ would come - he did not yet know the exact day - but he would have another &quot;Vision&quot; soon &amp; there he would
+					know the very day &amp; hour, - of course he was in corresp-ondence with Leon &amp; knew he had landed in New York, - he had no Rail roads then &amp; peopled
+					travld by</p>
+            <pb n="74" facs="0012_001702_000201_0074.jpg" xml:id="d4e892"/>
+            <p>the old Stage Coach - 6 Miles an hour - at last Leon arriv&apos;d in Pitts-burg only 15 Miles from Economy - he recd another Vision &amp; told his people - &quot;to
+				   morrow Christ will come. - about 11 A M he will come from the East, - put on your best raiment, - get on your Brass Band - and March out in one grand procession
+				   to meet our Lord, - &amp; of Course</p>
+            <pb n="75" facs="0012_001702_000201_0075.jpg" xml:id="d4e896"/>
+            <p>141</p>
+            <p>the drooping faith of the young people was reviv&apos;d - they did as they were told - March&apos;d out to meet their Saviour - Who came in a carriage - and got
+				   down on their knees to worship him ! - Baff was King, and Leon, wanted to be, - he soon saw that these young folks wanted to marry - So he said to one of them
+				   one day</p>
+            <pb n="76" facs="0012_001702_000201_0076.jpg" xml:id="d4e902"/>
+            <p>&quot;Father Baff dont do right with you young folks - he ought to let you marry - it is my wish that you shall Marry&quot; - before the Sun went down that day
+				   each one of the 351 Young folks knew what Leon had siad - </p>
+            <p>Although it was one of the rules of the society that the boys &amp; girls did not dare even to speak to one another, - from that time on Leon had all the Young folks
+					on his side - but the old folks still clung to Baff who came out now</p>
+            <pb n="77" facs="0012_001702_000201_0077.jpg" xml:id="d4e908"/>
+            <p>143</p>
+            <p>&amp; denounc&apos;d Leon as an Imposter - said he was mistaken, - that he was no Christ at all - but the Young folks would not beleive that - they thought that
+					any one who preach&apos;d such good doc-trine, must be the real Christ &amp; they clung to him as one man. - the result was that, - them old &amp; Young people
+				   came near murdering one another - and if the Sheriff of Beaver Co</p>
+            <pb n="78" facs="0012_001702_000201_0078.jpg" xml:id="d4e915"/>
+            <p>had not interfer&apos;d and order&apos;d out - the Military they would have exterminated one another. - it was with great difficulty that old Sheriff Sholes could
+					prevent blood-shed &amp; civil war - at last Baff propos&apos;d a compromise - they own&apos;d the town of Phillips-burg - 10 miles further down the Ohio river 
+					&amp; several hundred acres of fine land around the town, - he offer&apos;d them the town &amp; land</p>
+            <pb n="79" facs="0012_001702_000201_0079.jpg" xml:id="d4e919"/>
+            <p>145</p>
+            <p>and one hundred &amp; five  $105,000 thousand dollars &amp; an old boat big enough to hold them all, Which offer they took - the 351 young folks got into the boat
+					with Leon &amp; floated down the river - took possesion of the town &amp; in 3 weeks all were Married except one - the old man - Jake Wagner. - who waited till a
+				   girl came from</p>
+            <pb n="80" facs="0012_001702_000201_0080.jpg" xml:id="d4e925"/>
+            <p>Germany, Whom he took to Wife. - I liv&apos;d in this town Phillips-burg from Apr 1st 1856 to June 1859 &amp; have this History from the leading Men of the town, 
+					Jake Wagner, Who was a Very intelligent man, - Who had been Baffs head Manager etc. - of course they were very happy - each man had his girl pick&apos;d out. -
+				   though it was against the rules for them to speak to one another, -</p>
+            <pb n="81" facs="0012_001702_000201_0081.jpg" xml:id="d4e929"/>
+            <p>147</p>
+            <p>Leon made them beleive he was an Alchemist and could make gold out of rocks etc. - and set then poor people to back breaking &amp; smelting rocks along the river
+					banks, - he went to Pitts-burg and bought gold bars &amp; then call&apos;d them together &amp; said - &quot;the Lord has smil&apos;d on your work - see - here
+				   are the first gold bars! - then their hearts were glad - but in</p>
+            <pb n="82" facs="0012_001702_000201_0082.jpg" xml:id="d4e935"/>
+            <p>time they began to sus-pect that funds were getting low - and they are Marrying call&apos;d on Leon - and wanted to know how much money they had left? - he said
+				   Oh - Children you must not bother about temporal things of this world, - put your trust in the Lord. - the Lord will provide etc. - Yes - they said they did put
+				   their trust in the Lord, - but, still they wanted to know how much money</p>
+            <pb n="83" facs="0012_001702_000201_0083.jpg" xml:id="d4e939"/>
+            <p>149</p>
+            <p>they had left? - they said we had $105,000 <unclear reason="illegible" resp="PW">lain</unclear> us that now? - No - well have we half that? - No - have we $20,000?
+				   - No - well have we $5,000? - No -</p>
+            <p>he had squander&apos;d all the money &amp; put the society over $15,000 in debt! - then they said to him - &quot;Count did you not tell us that if you ever
+					deceiv&apos;d us, we should crucify you? - &quot;Yes - he said I did, - here take me &amp; crucify me, - the Lord has forsaken me - they did not crucify him - but
+				   they</p>
+            <pb n="84" facs="0012_001702_000201_0084.jpg" xml:id="d4e950"/>
+            <p>put him into the same boat they all came in - &amp; sent him off down the Ohio river!  - and yet after this second <unclear reason="illegible" resp="PW">huperitios</unclear>, - 43 of them still clung to him &amp; got into that boat with him - leaving all their worldly goods &amp; floated down the Ohio 1000 Miles to the great &quot;Father
+					of Waters&quot; - and down that to New Orleans &amp; thence West with <unclear reason="illegible" resp="PW">river</unclear> to</p>
+            <pb n="85" facs="0012_001702_000201_0085.jpg" xml:id="d4e960"/>
+            <p>151</p>
+            <p>the red river country in Western Louisiania where the colony &amp; its desendents still are - the old Economy Society are now oct 8th 1890 all dead except some 30
+					who are all Millionares - provided they would divide the property which they now own in common, - ask them what they intend to do with all their immense wealth &amp;
+					they will all give you the same answer - &quot;we are only holding it for the Master&quot; - they still firmly think that before the last one is gone - Christ will
+				    come - it only</p>
+            <pb n="86" facs="0012_001702_000201_0086.jpg" xml:id="d4e966"/>
+            <p>shows the power of Re-ligious Fanaticism! - there is no other pwr like it on this Earth,</p>
+            <p>While I was living in Phillips-burg in 1857 - I traded the House in which I liv&apos;d &amp; some other property I had in the Village for a coal oil Factory in the
+				   City of Pitts-burg</p>
+            <p>I maid it down to Ro-chester opposite Phillips-burg &amp; was making coal oil when they first found coal oil wells - We made the oil from Canal Coal which is bought
+				   from</p>
+            <pb n="87" facs="0012_001702_000201_0087.jpg" xml:id="d4e974"/>
+            <p>153</p>
+            <p>the old Economites - I had partners who had seceded from the society (K&apos;nappes &amp; <unclear reason="illegible" resp="PW">Baitle)</unclear> and they would not go
+					to Economy for obvious rea-sons so it fell on me to buy the coal &amp; settle all the bills - Make payments etc. - with the old Economy Society, and thus I
+					<unclear reason="illegible" resp="PW">leearn wlr</unclear> acquainted with their ten Kings - Baker Who was then temperal King &amp; Hensiel - who was their Spiritual
+					King &amp; preacher. -</p>
+            <pb n="88" facs="0012_001702_000201_0088.jpg" xml:id="d4e986"/>
+            <p>Baker died I think about 15 years ago, - But Hensiei is still living nearly 90 years of age &amp; Manages their imense walth - I bought the House in Phillips-burg
+					Which Count Leon built &amp; liv d in - it was an immense House - 48 ft front &amp; 46 I think deep 2 1/2 stories High with an observatory on top , and</p>
+            <pb n="89" facs="0012_001702_000201_0089.jpg" xml:id="d4e991"/>
+            <p>155</p>
+            <p>standing right on the bank of the Ohio river - directly opposite the mouth of Bearn river - from that observatory we could see 9 towns to wit, Bearn - Rochester -
+					Freedom - Bridge-water - Fallston - New Brighton &amp; old Brighton  Van-port &amp; Phillips-burg  Also the great Steamers on the Ohio - and the scenery  I do
+				   think the most beautiful I ever saw - When I came to Phillips-burg</p>
+            <pb n="90" facs="0012_001702_000201_0090.jpg" xml:id="d4e997"/>
+            <p>in 1856 the big Leon House stood empty &amp; had stood so for many years - they said it was haunted - No one could live in it - I bought it for a trifle &amp;
+					fix&apos;d it up &amp; it made an Elegant House for us - in that House My son Charly was born in July 1857 - he is now practicing Medicine in Galina Kansas -
+				   I need hardly say</p>
+            <pb n="91" facs="0012_001702_000201_0091.jpg" xml:id="d4e1001"/>
+            <p>157</p>
+            <p>we were never troubled with &quot;Spooks&quot; - or Spirits - how often I have wish&apos;d I had remained in that House - I then <unclear reason="illegible" resp="PW">enn&apos;d</unclear> 518 Acres of fine coal land adjoining Industry - 8 Miles further down the river - Also the 145 acres that I had first bought near Shipping port, &amp; a good deal of other property, - but strange to say after I had been 7 years in Bearn County I got Home sick for old Buff-alo Valley &amp; in the</p>
+            <pb n="92" facs="0012_001702_000201_0092.jpg" xml:id="d4e1010"/>
+            <p>Spring of 1860 I mov&apos;d back to Mifflinburg  When I own&apos;d the old Rocky flowing mill one mile below town - Also some other property - I bought
+					the old &quot;Par-sonage&quot; in which a great preacher had liv&apos;d many years, to wit Rev Just Henry Fries - I fix&apos;d up the Parsonage &amp; liv&apos;d
+				   in it untill Apr 1st 1874 When I sold it to Martin Rudy for $3,300 and then built a New</p>
+            <pb n="93" facs="0012_001702_000201_0093.jpg" xml:id="d4e1014"/>
+            <p>159</p>
+            <p>House at the Mill one Mile below town. -</p>
+            <p>I sold My coal lands in Bearn Co after I mov&apos;d back to Union County &amp; mad some money on these - during my 7 years in Barer</p>
+            <p>I made about $30,000 in real estate - but to consumers, who bought my Industry land or most of it - Sold them after the war broke out at as - advance
+				   of nearly one Hundred thousand dollars! - I sold the 145 acres on the Shipping-port side for over $12,000 - an advance of oer $7,000 - I think Beaver
+				   County Pa one of the richest in the state - the 7 years I spent there were pleasant years - except 1854 to 1856 - My knee became</p>
+            <pb n="94" facs="0012_001702_000201_0094.jpg" xml:id="d4e1024"/>
+            <p>160</p>
+            <p>stiff on the night of the 19th of Agst 1854 and I suffered great pain for awhile &amp; was hardly able to attend to my affairs untill I mov&apos;d to
+				   Phillips-burg in Apr 1856 -</p>
+            <p>PS , I hav lost or mislaid a book in which a good part of my life is written - No doubt it will be found &amp; if so - it will then appear no doubt that
+					I have wrote the same things twice, - as I dont now remember what part I wrote in the lost book - Which is an old Ledger that I us&apos;d in 1848 - a
+				   Long Narrow blue book</p>
+            <p>I now begin in my Int Rev Ledger, us&apos;d from 1865 to 1869</p>
+            <pb n="95" facs="0012_001702_000201_0095.jpg" xml:id="d4e1034"/>
+            <p>Lock Port. June 3d. A D. 18,43.</p>
+            <p>Aphorisms and important words.</p>
+            <p>Erebus, P. The region of the dead.)
+				   Mausoleum, P. A magnificent tomb. )</p>
+            <p>Dilacerate, <unclear reason="illegible" resp="PW">B.t.</unclear> To tear to rend  )
+				   Dilapidate, <unclear reason="illegible" resp="PW">B.t. or6.</unclear> To pull down)</p>
+            <p>Dilapidation, P. A decay waste   )
+				   Dilatable, A. That may be dilated)</p>
+            <p>Dilatation, P. Act of dilating)
+				   Dilate, B.t. or O. To Esepand )</p>
+            <p>Dilator, P. One who dilates   )
+				   Dilatorily, AD. Slowly tardily)</p>
+            <p>Equilibrium, P. Equipoise      )
+				   Equine, A. Pertaining to horses)</p>
+            <p>Belle, P. A handsome Lady              )
+				   Bellesletters, P. pl. Polite Literature)</p>
+            <p>Beldam, P. A hag. A hag.  )
+				   Beleaguer, B.t. To besiege)</p>
+            <p>Bellesletters, P. Pl. Polite literature)
+				   Beldam, P. A hag. Beldam               )</p>
+            <p>Belfry, P. A place where bells are rung)
+				   Belgie, A. Pertaining to Flanders.     )</p>
+            <p>Catholicon, P. A universal medicine.  )
+				   Pepenthe. P. An Antidote for all pane.)</p>
+            <p>Oblated, A. Flatted at the poles)
+				   Oblate, A. Flatted at the poles )</p>
+            <p>Oblation, P. A <unclear reason="illegible" resp="PW">10</unclear> Offering)
+				   Oblectation, P. Act of pleasing                                          )</p>
+            <note type="transcription">The following text was written down the right side of the page, vertically.</note>
+            <p>Cseorgic, P. A rural Poem} Opera, P. Musical Entertainment.}</p>
+            <p>Veranda, P. An open portico.} Panorama, P. A complete view}</p>
+            <pb n="96" facs="0012_001702_000201_0096.jpg" xml:id="d4e1082"/>
+            <p>&quot;Paulding&quot; Wheeling Va</p>
+            <p>I Saw a temple rear&apos;d by the hands of Men standing with it&apos;s pinnacle on the distant plain  The Storm beat upon it.  The God of Nature
+					hurl&apos;d his thunderbolts against it, and yet it Stood firm As adamant.  Revelry was in its halls; the Gay, the happy, the Young and the beautiful
+					were there.  I return&apos;d, and Lo!! the temple was no more!  its high wallslay in Scatter&apos;d ruins; Moss &amp; wild Grass Green ran
+					<unclear reason="illegible" resp="PW">kly</unclear> there;</p>
+            <p>And at the Midnight hour the owl&apos;s lone cry added to the lone Solitude - the Young &amp; Gay who revell&apos;d there had pass&apos;d away.  I Saw a
+					child rejoicing in his Youth; the idol of his Mother, And the pride of his father;  I return&apos;d and the child had become old, trembling with the
+					weight of Years, he Stood the last of his Generation A Stranger amid the deso-lation around him.</p>
+            <pb n="97" facs="0012_001702_000201_0097.jpg" xml:id="d4e1093"/>
+            <p>I Saw the old oak Standing with all its pride upon the mountains; the birds were carrolling on its boughs; I return&apos;d And that oak was leafless
+					&amp; Sapless the winds were playing at pastimes thro&apos; its branches, &quot;Who is this destroyer?&quot; I Said to My Guardian Angel, &quot;It is
+					time&quot; Said he!  When the Morning Sang together with Joy over the new made World, He commenc&apos;d his course; And when he Shall have destroy&apos;d
+					all that is beautiful on earth, - <unclear reason="illegible" resp="PW">pleuk&apos;d</unclear> the Sun from it&apos;s Sphere - build the Moon in blood - .</p>
+            <p>Yea, when he Shall have roll&apos;d the heavens &amp; Earth away as a Scroll then Shall an angel from the throne of God came forth &amp; with one foot on
+					the Sea &amp; one on the Land lift up his hand toward heaven&apos;s Eternal - time was, time is.  Best time Shall be No More</p>
+            <p>Charles H Shriner</p>
+            <p>Oct 29th 1843</p>
+            <pb n="98" facs="0012_001702_000201_0098.jpg" xml:id="d4e1106"/>
+            <p>1843</p>
+            <p>Charles H Shriner</p>
+            <p>Left home on Wednesday Oct 18th 43 for Tenessee.  Arriv&apos;d in Wheeling Virginia on Saturday the 28th, in company with Frederick Carpenter Whom he
+					overtook in centre county Pa. And carried to Wheeling &amp; others  Gave Money to carry him home to columbus Ohio.</p>
+            <p>Bad Weather. &amp; Bad roads So far.  Left Wheeling, for Wellsburg Brooke County on Wednesday Oct 30th, on the first of November Sold Brooke &amp; Ohio
+					County to James R Fleming for a one horse-Buggy. Paid $2.37 1/2 for repairing it. Brought it to Wheeling on the 3d &amp; exchang&apos;d it for a Gold
+				   Watch receiving $16.00 difference</p>
+            <p>Left Wheeling for Tenesee on Nov 3d on the steamboat &quot;Alps&quot; Ushipp&apos;d at cincinatti on &apos;Western - <unclear reason="illegible" resp="PW">Bills</unclear>,&quot;
+					saw in Louis-Ville Kentucky the &quot;Kentucky Giant&quot; 7 foot &amp; 8 inches in height.  Ushipp&apos;d at smithsand for Nashville on board the
+					&quot;<unclear reason="illegible" resp="PW">Icecanhan</unclear> Capt Gilbert</p>
+            <pb n="99" facs="0012_001702_000201_0099.jpg" xml:id="d4e1124"/>
+            <p>Arrived at Nashville on friday night Nov 10th 1843  Making the entire distance from Wheeling to Nashville 1003 Miles in 7 days  Enquired in Livingston county
+					Kentucky.  At the Mouth of the cumberland river for a certain Man call&apos;d &quot;Lilburn Lewis&quot; A Grandson of Thomas Jefferson&apos;s  Was told by
+					our landlord&apos;s son that no such man had ever liv&apos;d there &amp; that if Abolitionists said so, they were all a d-m-d sett of liars &amp; cutthroats
+					&amp; deserv&apos;d to be Hung.</p>
+            <p>When our landlord came in I enquir&apos;d again he Said that such a Man had once lived there.  But that he had died before he came there about 30 Years ago.
+					He said that he had committed suicide  But that he knew nothing of his cruel treatment to his Slaves.  Our landlords Name was Mc Cormick</p>
+            <pb n="100" facs="0012_001702_000201_0100.jpg" xml:id="d4e1131"/>
+            <p>1843</p>
+            <p>Saturday</p>
+            <p>On friday Morning as we were About landing at Nashville a blast of Wind blew My waggon or Buggy, Harness, patterns etc. overboard into the cumberland river,
+				   lost forever!!  Put up on College Hill with W.W. Parks a very fine Jolly old fellow full of Music.  Had an introduction there, to Maj Doxy, the most
+				   singularly wicked man I ever saw.  But a man of splendid talents &amp; Great flowing of speech.  He had once been a Methodist preacher, and a Great orator.
+				   But is now a drunkard of the blackest die.  He is a man of property &amp; noted for his honesty in dealing.  he had came to the city to see a man for the
+				   purpose of paying a note of $570.00 for which he was Securing, this exasperated him so much that he swore He wished to die that night dam&apos;d his soul
+				   he did not thank God almighty for sparing him</p>
+            <pb n="101" facs="0012_001702_000201_0101.jpg" xml:id="d4e1139"/>
+            <p>and this moment.  He bid defiance to heavens king &amp; dared him to <unclear reason="illegible" resp="PW">Canord</unclear> forth his thunders.  &quot;No&quot;
+					Said he &quot;if the portals of high heaven were to open wide, &amp; a thunderbolt usher&apos;d forth &amp; I saw it were aime for Maj Doxy, damn My soul if
+					I would dodge it&quot;</p>
+            <p>Sunday 12th Nov, wrote a letter to I P. <unclear reason="illegible" resp="PW">Reoss, Tiv,</unclear> for patterns etc. rode with Maj Doxy to the county, in the
+				   afternoon  remained that night at Mr Gilfords.  A Monstrous Gabler and a Very Jolly old fellow</p>
+            <p>Monday 13th</p>
+            <p>Return&apos;d to Nashville in the forenoon  Saw capt Gilbert of the &quot;Jno Marshall&quot; And with all imaginable Good Humor and sincerity requested him to
+					pay me for my lost freight.  But he refus&apos;d on the Ground of an &quot;unavoidable Accident&quot;  Applied to a lawyer for advice, he thought I might
+				   recover by standing him a suit.  But could not</p>
+            <pb n="102" facs="0012_001702_000201_0102.jpg" xml:id="d4e1155"/>
+            <p>1843</p>
+            <p>have it tried before next May</p>
+            <p>Tuesday 14th  Next to the Legislature to hear the eloquence heard several speeches on &quot;reduction bill&quot; etc.</p>
+            <p>Wednesday 15th</p>
+            <p>Strolld around the city in the forenoon - afternoon took my horses to the county to Mr. Merrits to keep at $1.00 per Week each</p>
+            <p/>
+            <p>thursday 16th</p>
+            <p>took My machine to, Machine Shop to Get a fly Wheel etc. Which cost Me $6.00.  then went to the Senate to hear the speeches</p>
+            <p>Friday 17th</p>
+            <p>Wrote a letter to D. <unclear reason="illegible" resp="PW">Mizener</unclear> Pa then next to the legislature to hear the speechifying</p>
+            <p>Saturday 18th</p>
+            <p>Visited Genl Jackson at the &quot;Hermitage&quot; in company with Mr. Wheeler from Georgia. Who had fought under the old Hero But untill that day had never saw him.  We
+				   found the old Vetran sitting on his porch for the first time as he said in</p>
+            <pb n="103" facs="0012_001702_000201_0103.jpg" xml:id="d4e1184"/>
+            <p>3 months, he receiv&apos;d us kindly and took us into a large <unclear reason="illegible" resp="PW">parlorn</unclear> furnish&apos;d in the most splendid maner &amp; Adorn&apos;d
+				   with many beautiful paintings, - portraits of Great Men etc.  Over a large mirror on one side of the room in a splendid Gilt frame hung the portrait of Martin Vanburen on the
+				   opposite side of the parlour under a smaller Glass. on the Mantle piece on a very small board without any frame.  Stood the likeness of the Hero of New Orleans</p>
+            <p>Very modest thinks I to say the least of it  While we were there one of the old General&apos;s Neighbors came in &amp; said that one of his slaves had ran-away and that
+				   he suspected some of his Neig-hbors of enticing him away.  He then went on to Give his reasons for suspician, he said that about 10 or 12 Years ago when the people of
+				   tenesee had calld a convention for the purpose of revising their constitution Some of his Neighbors Who were Non slave-holders</p>
+            <pb n="104" facs="0012_001702_000201_0104.jpg" xml:id="d4e1193"/>
+            <p>Had got up a petition praying that Honorable body for the insertion of a clause in the constitution for the Gradual removal of slavery so that slavery would be anihilated
+				   by the Year 1866  he said that at a public meeting this petition was circulated for the purpose of Getting signers, he said that When it came near him he sprang upon it.
+				   sign&apos;d it &amp; put it in his pockett. - he hen drew it from his pockett and gave it to the General asking him What he thought of such sentiments the Genl read it
+				   &amp; then remark&apos;d that he had saw sentiments upon the subject even worse than that  the Genl then handed the petition to me, it had 4 or 5 signatures &amp; was in
+				   substance as follows. &quot;We the undersig-n&apos;d beleiving that there are evils conn-ected with our Goverment which cannot be eradicated so long as slavry exists
+				   among us, do humbly pray for the insertion of a clause in the constitution permitting the Gradual removal of Slavery</p>
+            <pb n="105" facs="0012_001702_000201_0105.jpg" xml:id="d4e1197"/>
+            <p>so that it may be entirely removed by the Year 1866&quot; the first speaker whose name I have forggotten. then <unclear reason="illegible" resp="PW">Asurr&apos;d.</unclear>
+					&quot;Gentlemen&quot; said he &quot;I consider such doctrines as Not only Wicked and fanatical. But as dangerous to civil liberty!!!! &quot;Hung be the heavens with
+					blacks&quot; I would like to hear Your definition of &quot;civil Liberty&quot; thought I. - Genl. Jackson then remark&apos;d that abolitionists deserv&apos;d to be hung X
+					or at least sent to the penitentiary for life, he said. that in Missouri: (I think) 2 or 3 of them had been sent to the penit-entiary for 12 Years &amp; they deserv&apos;d
+				   to be left ther till death.  He said Jno Quincy Adams was now travelling through the Western states lecturing on abolition-ism.  He said that Henry Clay had no more principle
+				   in him than his old shoe.  He denounc&apos;d the Whig campaign of 1840 as Idolatrous.  Said there was as much idolatry in dragging coon-skins, Hard cider, &amp; log cabins
+				   through the county With Yells &amp; shrieks &amp; tippacanoe songs.  As there was in</p>
+            <p>X  on acct of their disunion Sentiments they deservd  death  CHS</p>
+            <pb n="106" facs="0012_001702_000201_0106.jpg" xml:id="d4e1206"/>
+            <p>Worshipping at the wheels of Jangunant.</p>
+            <p>But he said the peoples were begining to Get their eyes open - With regard to Goverment he said the World was Govern&apos;d too much, if our Legislators would pass a good
+					code of laws &amp; let them stand so that the people would know them it would be much better.  After <unclear reason="illegible" resp="PW">covering</unclear> about 2 or 3
+					<unclear reason="illegible" resp="PW">hems</unclear> with the old Genl. we bid him Good Bye &amp; return&apos;d to Nashville - X See last page in this book</p>
+            <p>Sunday 19th</p>
+            <p>Rode home with Maj Doxy to Sumner County, had plenty of sport, while there.  returnd as far as McCullough&apos;s on</p>
+            <p>Tuesday 21st</p>
+            <p>Contracte&apos;d with Mr Mc Cullough for Boarding at $2.00 per week</p>
+            <p>Wednesday 22nd</p>
+            <p>Return&apos;d to Nashville. paid My bills to W. W Parks &amp; Mr. Merrit &amp; came back to Mc Cullough&apos;s</p>
+            <pb n="107" facs="0012_001702_000201_0107.jpg" xml:id="d4e1230"/>
+            <p>Thursday 23d 1843</p>
+            <p>Spent the day in reading the News etc. etc.</p>
+            <p>Friday 24th</p>
+            <p>Wrote a letter home to William read the papers etc. and went to the legislature in the evening &amp; was admitted as the Member from <unclear reason="illegible" resp="PW">Shelby</unclear> Conty</p>
+            <p>Saturday 25th</p>
+            <p>Hired a man to bring my machine from Nashville to Mc Cullough&apos;s Exhibited her in the afternoon to the admiration of all present</p>
+            <p>Sunday 26th</p>
+            <p>Read Note  Sung and Gabbled the time away Saw a drove of Horses, Mules, Men and Women pass on this road to Alabama for Market!!</p>
+            <pb n="108" facs="0012_001702_000201_0108.jpg" xml:id="d4e1251"/>
+            <p>Monday 27th</p>
+            <p>Rode with Mr. Cryder to church and heard a first rate, old, fashion&apos;d Methodist sermon. preach&apos;d to an audience of 17 imortal souls!!</p>
+            <p>Tuesday 28th</p>
+            <p>Found my black Horse founder&apos;d on corn.  A cloudy rainy day and has been so for 3 days  Mr. Hale proposes to enter into partnership with me for the purpose
+				   of making 200 Straw cutters.  Mr. Nealy Offers to make the wood work and put the irons on for $500.00  Mr. Walker proposes to buy that part of Tenesee Which lies
+				   North of the cumberland river.  Mr. Nealy offers me a horse for 5 Townships  Col. Snow offers to buy the County of Davidson providing Mr. Nealy will enter into
+				   partnership with him for the purpose of Manufacturing the Machines</p>
+            <pb n="109" facs="0012_001702_000201_0109.jpg" xml:id="d4e1261"/>
+            <p>Wednesday 29th 1843</p>
+            <p>Still continues cloudy &amp; rainy rode to Nashville city in the Morning with Maj Doxey. returnd home in the evening completely drench&apos;d with rain &amp;
+				   rather low in spirits</p>
+            <p>Thursday 30th</p>
+            <p>Was trying to sell 25 counties in Western Virginia to Mr. Mc Cullough  But could not agree on the price  He offer&apos;d $750.00 for it</p>
+            <p>Friday December first</p>
+            <p>Sold to James Mc Cullough Davidson County for $150.00 taking in payment 1 Horse, Henry Clay for 100 Dollars 1 rifle for 20. Dollars and 2 Yankee clocks for
+				   30. Dollars = $150.00  Went to the legislature in the evening and made 4 or 5 speeches against a bill proposing to reestablish a</p>
+            <pb n="110" facs="0012_001702_000201_0110.jpg" xml:id="d4e1275"/>
+            <p>license law.  then introduc&apos;d A bill proposing to Hang evry liquor seller as high as Heaven &amp; leave him to rot upon the Gibbet untill the Winds Whistle
+				   through his bones. the bill was rejected</p>
+            <p>Saturday 2nd</p>
+            <p>Rode to Nashville with Mr. Mc Cullough to make Arrangements for patterns for the Straw cutter etc.</p>
+            <p>Sunday 3d</p>
+            <p>Rode to church some 3 or 4 miles &amp; heard a scorching sermon from this text &quot;thy word is truth&quot; in the eve-ning I rode Home with Dr. Allen &amp;
+					remaind there untill next day and enjoy&apos;d myself mighty well</p>
+            <pb n="111" facs="0012_001702_000201_0111.jpg" xml:id="d4e1288"/>
+            <p>Monday 4th Dec. 1843</p>
+            <p>Fool&apos;d awy my time by being idle. When I should have been busy at something. &quot;Life too short. Yet waste&apos;d&quot; in the evening Mr. Scrugs with whom I
+					had exchang&apos;d horses on friday night came back for a <unclear reason="illegible" resp="PW">rue.</unclear> Mr. Mc Cullough Gave him $2.50 to keep his horse &amp;
+				   say no more about it</p>
+            <p>Tuesday 5th</p>
+            <p>We had a Barbecue at Mr. Mc Cullough&apos;s Where the candidates for the county offices met &amp; made speeches to the people.  there were some 10 or 12 Speeches 
+					&amp; some of them Mighty Good ones.  Mr. Smiley&apos;s in particular was very humorous &amp; very compliment-ary to his opponent &amp; friend &quot;Bob Turner.
+				   He said he wanted to beat Bob for 3 reasons. first because he wanted The office himself, secondly because. Bob. was his personal friend</p>
+            <pb n="112" facs="0012_001702_000201_0112.jpg" xml:id="d4e1301"/>
+            <p>thirdly. Because he thought it was a Great pity that a man of such splendid talents should Waste his time at a clerk&apos;s desk.  &quot;Why Sir&quot; said he.
+					&quot;if bob would return to the practice of the law Which he left some 8 Years ago tom Fletcher could&apos;nt hold a candle to him Now sir the office of clerk
+				   suits my capacity exactly etc. etc.</p>
+            <p>Wednesday 6th Dec 1843</p>
+            <p>Very rainy &amp; cloudy &amp; some snow and hail in the evening</p>
+            <p>Amen!!</p>
+            <p>Thursday 7th 1843</p>
+            <p>Still continues to rain &amp; is very disagreeable. being neither Warm nor cold</p>
+            <pb n="113" facs="0012_001702_000201_0113.jpg" xml:id="d4e1315"/>
+            <p>in the evening some kentucky drovers with Horses &amp; slaves put up at our house.&amp; A very clever Jolly Lott of fellows they were and with them we had plenty
+				   of sport</p>
+            <p>Friday 8th 1843</p>
+            <p>the sun rose in Glorious splendor this morning. As I suppose.  At any rate it was spreading a mighty blaze of Glory over the &quot;Heavens and the earth&quot;
+				   When I awoke which was precisely at half past 8 oclock!!  rather late to be sure.  But then must bear in mind that I very seldom Get asleep in this county until
+				   12 or 1 Oclock.  A bad habit but then You know a man must always form to the customs of the county in which he lives. Besides any thing that is easy or lazy is soon
+				   learn&apos;d.  the people in this county Generally take the </p>
+            <pb n="114" facs="0012_001702_000201_0114.jpg" xml:id="d4e1323"/>
+            <p>World mighty easy.  they go upon the principle of &quot;living while You live and when You die You will Go where the rest do&quot;  However. I would not be
+				   understood to say that people in this county are more wicked and dissolute than in Pennsylvania - far be it from me. on the contrary I beleive that if there be
+				   any Virtue or religion in Generosity, cleverness. or hospitality to strangers. there will be more Teneseeians in heaven than Pennsylvanians.  But then again
+				   the Whites in this county have nothing to do but to be clever thin slaves do all their work.  While the Whites sleep when &amp; as much as they please.  Get up
+				   when they please &amp; eat when they please.  ride when they please  Hunt when they please.  sing when they please.  Nat. quarrel and fight duels whenever they
+				   are a mind too.  in short.  As my friend Tom Hall says it makes very little difference to them</p>
+            <pb n="115" facs="0012_001702_000201_0115.jpg" xml:id="d4e1327"/>
+            <p>Wether corn be a shilling or a Dollar a barrel.  in the evening I went to the legislature and made some kind of a speech in opposition to the bill proposing
+				   to reestablish a license law  But all in vain it became the law of the land by a majority of one vote</p>
+            <p>Saturday 9th 1842</p>
+            <p>Rode some 2 or 3 miles to a funeral  Saw some inscriptions on the tombstones Which to me seem&apos;d very singular.  One of them for instance wound up by
+					saying &quot;Here lies&quot; such or such a fellow &quot;an englishman by birth.  And an honest Man!!!  Just as though honest Men were scarce in this land of
+				   liberty</p>
+            <pb n="116" facs="0012_001702_000201_0116.jpg" xml:id="d4e1335"/>
+            <p>Sunday 10th 1843</p>
+            <p>A beautiful day.  The morning sun shone in Glorious splendor.  Not as paulding says. &quot;Over the beauties of the new made earth&quot;  But over the beauties
+					of the fair &amp; happy land of the &quot;Sunny south&quot;  Giving it the appearance of the Very Garden of eden the weather was about as cold or as warm As a
+					fine september day in pennsylvania  Amus&apos;d myself by singing chatting and walking and upon the whole enjoy&apos;d myself exceedingly well in this land of
+				   strangers.</p>
+            <p>I have, thank God, been thrown into the very cleverist &amp; apparently the most happy cheerful &amp; certainly as intelligent an company as I can ever again
+				   expect to meet on top of the earth.  I have now been here 20 days!!  At least 15 days longer than I ought to stay in any one county.  the cause of my detention
+				   is, that Mr. Mc Cullough has not been able to Get a sett of patterns made.  And indeed I have almost Regretted that the time is not farther</p>
+            <pb n="117" facs="0012_001702_000201_0117.jpg" xml:id="d4e1343"/>
+            <p>distant When they are likely to be finish&apos;d.  Notwithstanding I might perhaps have sold 4 or 5 Hundred dollars worth of county rights while I am lying
+					here Idle.  About 10 Oclock Mr. Allen a Young Gentleman of the neighborhood came to our house and offer&apos;d to exchange horses with me.  But we could not
+					agree.  He is a pretty sharp keen intelligent Young Man, not easily cheated.  He told me that he had been an overseer and favor&apos;d me with a General
+					description of Negro Slavery &amp; the negro character   He says there is no prejudice in the south against the colour of the blacks, not half so much as
+				   at the North.  He says that the blacks here are despised.  Not on account of their colour but for their ignorance and degraded condition.</p>
+            <p>He says Also that whenever a Nigger Gets to smart here they sell him south.  there is no such a thing as managing him if he becomes enlighten&apos;d.  the
+				   Men are generally more intelligent than the women</p>
+            <pb n="118" facs="0012_001702_000201_0118.jpg" xml:id="d4e1349"/>
+            <p>He Gives it as his opinion that if the negroes were not kept in ignorance they could not be kept in slavery.  He says that in order to make any thing out of them
+					they must be kept in the dark. and made to know &amp; feel that they have a Master.  He says they are very affectionate.  He told me that he once undertook to
+					Whip a negro woman for attempting to ward off the blows of her mistress.  When he had fairly commenc&apos;d, her husband step&apos;t up pull&apos;d off his coat
+					&amp; told him to Give his wife clear &amp; whip him in her place presenting his back at the same time for the lashes   He told the fellow that he should wait
+				   a few moments till he was done lashing his wife and then he would lash him for interfering  the negro then picked up a club and told him he must quit whipping
+				   his wife.  He then drew a large knife and made at the negro &amp; caught him and made his wife bind him fast and then gave him 500 lashes</p>
+            <pb n="119" facs="0012_001702_000201_0119.jpg" xml:id="d4e1353"/>
+            <p>Monday 11th Dec 1843</p>
+            <p>A cloudy rainy day.  Mr. Mc Cullough Brought me a letter from Nashville from my brother William.  in the evening I sold 2 more counties to Mr. Mc Cullough.
+				   big Wilson and Sumner</p>
+            <p>Tuesday 12th</p>
+            <p>Rode to town in the morning with Maj James Walker.  Saw Nothing particularly interesting.  heard 3 or 4 speeches in the Senate and then rode home.  feeling
+					pretty near sick from a bad cold which had Settled in my lungs.  drank about a quart of sage tea.  bath&apos;d my feet and tumbled into bed and slept as
+				   sound as a rock untill</p>
+            <p>Wednesday 13th.  Morning about 8 or 9 Oclock.  Rose &amp; eat breakfast and a pretty hearty one too for a sick man  then wrote a letter to Mag - - -</p>
+            <pb n="120" facs="0012_001702_000201_0120.jpg" xml:id="d4e1365"/>
+            <p>Thursday 14th Dec 43</p>
+            <p>A very cloudy rainy day.  felt sick the weather here in the winter is very favorable for taking bad colds  some days are very warm And then it will change
+					very suddenly to a cold october day in pensylvania  I do not think it is more than half as cold here as in pensylvania even in the coldest Weather, Yet I
+				   feel the cold Just as sensibly here as at home</p>
+            <p>Friday 15th</p>
+            <p>Still continues to rain.  Made 4 or 5 speeches in the evening in our legislature on a bill proposing to expand the present tariff</p>
+            <p>Saturday 16th</p>
+            <p>Sent to my <unclear reason="illegible" resp="PW">pagnes</unclear> &amp; got the glory &amp; shame of england from him, read 30 or 40 pages &amp; then
+					adjourn&apos;d &quot;<unclear reason="illegible" resp="PW">siru die</unclear> &quot;</p>
+            <pb n="121" facs="0012_001702_000201_0121.jpg" xml:id="d4e1385"/>
+            <p>Sunday 17  Monday 18  &amp; tuesday 19th</p>
+            <p>Read the Glory &amp; shame of England through &amp; relished it Very Much.  He says let england with all her greatness remember that the barbarians steed
+					long lines made his home in the Golden house of Nero&quot;</p>
+            <p>Wednesday 20th</p>
+            <p>Rec&apos;d A letter from David <unclear reason="illegible" resp="PW">Miyenir</unclear>. replied to it imedi-ately.</p>
+            <p>Thursday 21st</p>
+            <p>Mail&apos;d my letter for D. Mizenir <unclear reason="illegible" resp="PW">wrote</unclear> some ball tickets etc.  A very rainy day.  My landlord Mr.
+				   Mc Cullough told me that a Negro who had been at his house sittling with him to day, was in the habit of hiring himself for $100.00 per Year from his
+				   Master &amp; thus working for himself</p>
+            <pb n="122" facs="0012_001702_000201_0122.jpg" xml:id="d4e1406"/>
+            <p>and he said he had in this way sav&apos;d considerable money for himself  had bought himself a good horse and bought for himself &amp; family (all slaves)
+				   many of the necessaries of life evry week.  He told me of another negro who I had saw pass frequently with a 6 horse team who lived in gallatin sumner county
+				   he said that, that negro by hiring himself had earn&apos;d mony enough to buy his freedom at $900.00 that he now own&apos;d the 6 horse team which I saw him
+				   drive, for which he paid $600.00 in cash &amp; that he had to his certain knowledge now owing to him, from White Men in the town of gallatin over 1000.00
+				   dollars!  He also told me of another negro once own&apos;d by his aunt in North Carolina who by hiring himself and working after night accummu-lated mony
+				   enough to buy his freedom the freedom of his wife &amp; all his children and after that acquir&apos;d</p>
+            <pb n="123" facs="0012_001702_000201_0123.jpg" xml:id="d4e1410"/>
+            <p>a property Worth some 10 thousand dollars.  He said this Negro&apos;s name was &quot;Carolina&quot; he said the last time he saw the negro he was in much trouble.
+					he said if he rema-in&apos;d in carolina at his death his children would become slaves again according to law.  He could avoid that in no possible way but by
+					removing to a free state &amp; that he did not like to do.  Carolina was his home the land of his child-hood &amp; although she had once en-slav&apos;d him
+					With all her faults he lov&apos;d her still.  he wish&apos;d to live where his fathers had livd and die where they had died &amp; lay his bones by their sides.
+					&quot;Home sweet home be it ever so humble their is no place like home&quot;  the Negro appears to hav a greater affection for home than other men</p>
+            <p>He loves when another Man would hate &amp; would pour out his heart&apos;s blood in defence of those whom others would stake to the heart</p>
+            <pb n="124" facs="0012_001702_000201_0124.jpg" xml:id="d4e1416"/>
+            <p>Friday 22nd Dec 1843</p>
+            <p>Read the speeches of Jno Q Adams &amp; Thos <unclear reason="illegible" resp="PW">Fellaslall</unclear> of kentucky on the bill proposing to censure Mr adams
+					for introducing a petition for a dissolution of the union in 1842  Went to the legislature in the evening &amp; made 5 or 6 speeches on the tariff bill &amp;
+				   3 or 4 in favor of repealing that license law</p>
+            <p>Saturday 23d</p>
+            <p>Read the speech of Mr underwood from kentucky on the &quot;bill proposing to censure John Q Adams for introducing a petition for the dissolution of the union
+					Mr. U. contended that this congress had&quot; no right to punish him for performing what he beleived to be his duty.  Mr. U. said that although &quot;he was bitterly
+					oppos&apos;d to the object of that petition</p>
+            <pb n="125" facs="0012_001702_000201_0125.jpg" xml:id="d4e1429"/>
+            <p>Yet he could not give his consent to punish the member simply for offering a petition, that was not the way to handle it let them take up the right of petition
+					and define it, let them proclaim what subjects shall be open for petition &amp; also those that should not.  he was oppos&apos;d to the dissolution of the union
+					and the destruction of the cons-t-itution of the U S. because he considerd them the only safe-guards for American slavery let the union be dessol&apos;d &amp;
+					Slavry must go down&quot;</p>
+            <p>Sunday 24th</p>
+            <p>A beautiful day.  About as warm as a fine June day in pensylvania amus&apos;d myself by reading speeches in the congressional Globe for 1842 and by talking to my
+					friend Maj James Washer about &quot;Matters &amp; things in general&quot;</p>
+            <pb n="126" facs="0012_001702_000201_0126.jpg" xml:id="d4e1437"/>
+            <p>Monday 25th Dec 1843</p>
+            <p>Christmas! Mery Christmas, is here the first tenesee Christmas I ever had the honor of seeing. and I tell You sis a Merry time these tenesseans made of it. to be sure
+					there was no such thing as sleighriding or sleigh bells Jing-ling.  But then sir there was &quot;Jingling&quot; enough of another sort to make the &quot;Heavens
+					thunder &amp; the earth rock&quot;  they &quot;Jingle&apos;d&quot; away their christmas in a fox hunt. in which the runing of horses &amp; the roaring of a few
+					sober &amp; many drunken Mens tounges was enough to make a pensylvanian think that Judgement was coming in the evening</p>
+            <p>I went to see My friend Maj Parns. Who had kindly invited me several times to pay him a visit.  6 Jolly <unclear reason="illegible" resp="PW">snels</unclear>
+					happend to find themselves at Maj Parn&apos;s that eve-ning And his lady being absent we concluded after supper we could form ourselves into 2 parties and debate this question &quot;Ought Capital punishment to be Abolished&quot;?</p>
+            <pb n="127" facs="0012_001702_000201_0127.jpg" xml:id="d4e1448"/>
+            <p>after hearing some 20 or 30 speeches the chair decided in our favor by giving the decision to the affirmative.  We then took up the tariff question &amp; discuss&apos;d
+					it.  it so happen&apos;d that I was the only man in the party who would oppose the present tariff.  But they agreed to leave me speak in reply to each one.  I done
+					so &amp; gain&apos;d the decision.  Some of the speeches on capital punishment were really sublime especially those of Maj parm&apos;s &amp; Mr. Estis&apos;s
+					people in this county are all orators, Stump orators are as thick as frogs in egypt - upon the <unclear reason="illegible" resp="PW">cobra</unclear> I enjoy&apos;d
+					myself first rate at Maj parm&apos;s</p>
+            <p>Tuesday 26th</p>
+            <p>on My return this morning I found my friend Robert estis at Mc Culloughs.  he said he had seen a Man Whipp&apos;d for not</p>
+            <pb n="128" facs="0012_001702_000201_0128.jpg" xml:id="d4e1459"/>
+            <p>choping more wood than he was able to chop untill he came by near dying.  He said his overseer took him evry morning and lash&apos;d him till breakfast at night
+					he plac&apos;d him in the stocks all night.  this process was continue&apos;d untill there was no more skin on the fellow&apos;s back, than if it had been skin&apos;d
+				   with a penknife</p>
+            <p>Wednesday 27th</p>
+            <p>Read several speeches in the &quot;congressional Globe&quot;, stroll&apos;d through the fields viewing the &quot;beauties of nature&quot; etc. etc. in the evening
+					we had a Tenesee ball at Mr. Mc Cullough&apos;s at which their were some hundred or so as mery lads &amp; as prittie lassie&amp;s as can easily be rak&apos;d up
+					in any county.  Ladies &amp; Gentleman single &amp; Married.  Saints &amp; Sinners all <unclear reason="illegible" resp="PW">loind</unclear> in the dance</p>
+            <pb n="129" facs="0012_001702_000201_0129.jpg" xml:id="d4e1470"/>
+            <p>Thursday 28th</p>
+            <p>Slept till 9 oclock.  then rose, eat breakfast &amp; danc&apos;d till evening.  people in this county seem to do nothing but sport from christmas to New Year, in
+					fact that seems to be their principal business the Whole Year round, but most especi-ally do they &quot;go it&quot; about christmas and New Year.  in the
+					evening 2 kentucky drovers came along with Horses Mules &amp; Niggers, the Niggers were handcuff&apos;d and chaind together.  One of the slaves seem&apos;d very
+					much cast down his owner said he had left a wife &amp; children in kent-ucky &amp; he was afraid he would try to make his escape.  the owner&apos;s seem&apos;d
+				   like very clever sensible fellows</p>
+            <p>Friday 29th</p>
+            <p>call&apos;d on my friend Maj Walker he gave me a talk on slavry</p>
+            <pb n="130" facs="0012_001702_000201_0130.jpg" xml:id="d4e1480"/>
+            <p>he said he never knew one slave to grow so old &amp; feeble that he or they did not earn their living.  they all earn&apos;d their keeping untill they tumble&apos;d
+				   into the grave he said he knew men or slaves who had been liberated when they were so old as to be considerd Worthless, that had after that made small fortunes by
+				   selling apples etc. he said he knew free Nigger &quot;tom&quot; in Nashville  North $25 thousand dolls. in cash he said he thought he had been a slave once but his
+				   Master at his death liberated him. he is a blacksmith.</p>                                                     
+				<p>in the evening I went to our mock legislature &amp; found it cram&apos;d with Ladies &amp; Gentlemen.  Mad 6 or 7 talks on capital punishment, tariff, and a bill to
+					prohibit dancing by Law, sent a Nashville paper to william &amp; then ajourn&apos;d to bed &quot;<unclear reason="illegible" resp="PW">sins die</unclear> &quot;</p>
+            <pb n="131" facs="0012_001702_000201_0131.jpg" xml:id="d4e1490"/>
+            <p>Saturday 29th Dec 1843</p>
+            <p>Read a few speeches in the &quot;Globe&quot; and some of &quot;Shakespear&apos;s plays&quot;</p>
+            <p>Sunday 30th 1843</p>
+            <p>Rode with Maj James Walker 3 or 4 Miles to see Mr. Phillips about renting his farm, on our return we found Mr. scrugs engag&apos;d in hauling his corn, fodder
+					etc. to our house.  Which he had bought.  He was a &quot;Shouting Methodist&quot;  Nevertheless his slaves must haul corn on sunday!!!</p>
+            <p>Christians in this county don&apos;t beleive in carrying religion to extremes, &quot;the better the day, the better the deed&quot; is their Motto.  Moving on
+					sunday is a very common occurrance in this county.  the best of christians would do it if they were any ways crow&apos;de&apos;d for room.  the first of Januay
+				   is the General Moving day in this state</p>
+            <pb n="132" facs="0012_001702_000201_0132.jpg" xml:id="d4e1502"/>
+            <p>Monday Jan 1st 1844</p>
+            <p>A very rainy disagreeable. New Yea&apos;s day, people all moving. this being, as I observ&apos;d before.  the General Moving time.  Never keep New Year&apos;s day
+				   in this county.  But frolic and sport from Christmas till New Year, and then all hands commence Moving</p>
+            <p>Tuesday 2nd Januay</p>
+            <p>Rode to Nashville to see Capt Gilbert about my freight. he still refuses to pay for it I have concluded to drop it. for &quot;2 - A - W does like a blister draw&quot;
+					even When gaines, in the evening I rode home with Wm. Pierce.  Who lives with his brotherinlaw Maj. Parm we thus debated the &quot;Liquor Bill&quot; etc. and had
+				   plenty of sport</p>
+            <p>Wednesday 3d</p>
+            <p>Rode to Sumner county to try to get a waggon to cary My Machine in But could get none.  Buggy&apos;s are very scarce &amp; very high in this county. in the evening
+					I returnd to Maj James Walker&apos;s and commenc&apos;d boarding with him</p>
+            <pb n="133" facs="0012_001702_000201_0133.jpg" xml:id="d4e1517"/>
+            <p>Thursday &amp; Friday 4th &amp; 5th</p>
+            <p>Read Conder&apos;d and reflecte&apos;d over some 35 or 40 pages of &quot;Blackstone&quot; in the evening of the 5th I went to our Legislature &amp; made 3 or 4
+					&quot;spouts&quot; on capital punishment and one on the annexation of texas</p>
+            <p>Saturday 6th</p>
+            <p>Rode to Mr. Mc Cullough&apos;s.  2 1/2 Miles from Nashville, found him  very well located at his new home.  He advis&apos;d me to come &amp; board with him &amp;
+				   read Law in the city.</p>
+            <p>Sunday 7th</p>
+            <p>Bannish&apos;d &quot;dull case away&quot; by reading the &quot;Mysteries of Paris&quot; &quot;Young Man&apos;s Companion&quot; &quot;Blair&apos;s Rhetoric&quot;
+				   etc. etc.</p>
+            <p>Monday 8th  anuay</p>
+            <p>this being the anniversary of the great Victory at NewOrleans.  And a day of general Welcome at Genl Jackson&apos;s, Mr. Mc Cullough and Myself agreed to visit the
+					&quot;Hermitage&quot;  But finding his riding horse sick &amp; the rest barefoote&apos;d he concluded not to go.  He however urg&apos;d me to go alone.  Assuring me that</p>
+            <pb n="134" facs="0012_001702_000201_0134.jpg" xml:id="d4e1535"/>
+            <p>on the 8th of Januay I would be as welcome as Martin Vanburen himself.  Not feeling much inclined to go alone i chang&apos;d my course and went to the penetentiary
+					Where Mr. Mc Cullough was having a straw-cutter made over my model.  one of the Guards took me through the whole concern &amp; show&apos;d me all the convicts. except
+					those who were sick in the hospital.  Among the latter was &quot;Merritt&quot; the Great Murderer and Negro Strater.  his 10 Years will expire in a few month.</p>
+            <p>they have 204 convicts &amp; only 200 cells.  the convicts were all loose in the Yard &amp; shops, together in day time &amp; at night each man shut up in his cell.
+					they appear&apos;d Gloomy &amp; sullen. Men looking up as we pass&apos;d.  My Guide told me that they had preaching nearly evry sabbath and that about on half of
+					them had been baptiz&apos;d while there.  he gave it as his opinion that many of them went away honest men.  But some said we sent back twice &amp; three time</p>
+            <pb n="135" facs="0012_001702_000201_0135.jpg" xml:id="d4e1541"/>
+            <p>After seeing the convicts he show&apos;d me a buggy which he said he thought I could trade by calling next morning at 10 Oclock</p>
+            <p>Tuesday 9th</p>
+            <p>Accordingly i went next morning to the penetentiary but could make no trade.  Return&apos;d to Maj Walker&apos;s</p>
+            <p>Wednesday 10th</p>
+            <p>Started with Maj Walker to mov about 14 miles to a tavern stand the roads were so horrible that we only travell&apos;d 7 miles &amp; put up for the night at &quot;Whites
+					creek springs&quot;</p>
+            <p>Thursday 11th</p>
+            <p>Arriv&apos;d at &quot;Walkers Hall&quot; about 2 or 3 oclock safe &amp; sound</p>
+            <p>Friday 12th</p>
+            <p>Read &quot;law&quot; till 2 or 3 o clock.  then went to see old &quot;York&quot; a black man once a slave.  Now a slave holder and the richest man in the neighborhood
+					he seem&apos;d to have more natural sense than some White Men</p>
+            <pb n="136" facs="0012_001702_000201_0136.jpg" xml:id="d4e1561"/>
+            <p>Saturday 13th Januay 1844</p>
+            <p>this happens to be a beautiful sun shiny day &amp; the first one for the last 8 or 10 days.  in fact I do not recollest of seeing the sun more than once before this Year.
+					I say sir this is a very beautiful climate &quot;When it don&apos;t rain&quot; it is plenty warm enough to sit out doors all day &amp; read.  Read &quot;Blackstone&quot;
+				   for instruction and wrote with this horrible stick by way of exercise.  in the evening had a General talk with Maj Walker on the subject of slavery.  he said that a few
+				   days ago . Mr. franklin&apos;s overseer attempted to Whip a slave &amp; that in order to avoid the Whipping &amp; to free himself for all time to come, the Negro plung&apos;d
+				   himself into the river and drown&apos;d himself!!!</p>
+            <p>Sunday 14th</p>
+            <p>A rainy dismal day.  Read &quot;Blackstone&quot; and the &quot;Outtimes of history&quot; etc. etc.</p>
+            <p>Monday 15th</p>
+            <p>Snowing moderately  But melting as fast as it fell  Read &quot;Blackstone&quot; etc.</p>
+            <pb n="137" facs="0012_001702_000201_0137.jpg" xml:id="d4e1575"/>
+            <p>Tuesday 16th Januay 1844</p>
+            <p>Rode to &quot;White&apos;s creeks springs&quot; to see Mr. Slatter about buying a buggy from him but could make no deal  these springs are a place of Great resort in the summer
+				   season.  Being one of the coolest &amp; most romantic spots perhaps in tenneessee.  in the evening i had a long talk with my friend Maj Walker on the subject of Religion V, the
+				   utillity of preaching etc.  He said religion had a very beneficial influence even if it were a humbug , in refining &amp; softining the passions of men  But he said he beleiv&apos;d
+				   many of our clergymen were corrupt and lov&apos;d Men&apos;s Money. much better than their souls.  As an evidence of that fact he told me that Mr. Phillip Lindley.  A Presbyterian
+				   clergyman.  President of the &quot;Nashville college&quot; had been requested to preach for his <unclear reason="illegible" resp="PW">treth-un.</unclear> Gratis. inasmuch as his
+					salary as President was abundantly sufficient for his support.  But he told them they might &quot;Go to hell &amp; be damned&quot; sooner than he could preach without pay!!!</p>
+            <pb n="138" facs="0012_001702_000201_0138.jpg" xml:id="d4e1584"/>
+            <p>Wednesday 17th Jan 1844</p>
+            <p>A cold morning for Teneessee  the Ground some frozen , but thaw&apos;d by 9 Oclock.  People complain of its being too cold to work!!!  Read &quot;Blackstone&quot; &amp; 
+					&quot;Shakespere&quot; etc. etc.</p>
+            <p>Thursday 18th</p>
+            <p>Wrote a letter home to Mother, the day is so fine &amp; warm that i sat out doors  without a coat all afternoon &amp; read &quot;Shakespere&quot;</p>
+            <p>Friday 19th 1844</p>
+            <p>&gt;Hook&apos;d My horse &quot;Skylock&quot; into the cart to break him.  He rar&apos;d &amp; plung&apos;d like a ferocious devil   But &quot;Cato&quot; Said
+					he was not afraid of him.  he would drive him if he was the devil himself!!  He is a cool calm Reckless Nigger, Seemingly putting life at a very low
+					estimate.  Not chiming well with the general idea that &quot;negroes are all cowards&quot;</p>
+            <pb n="139" facs="0012_001702_000201_0139.jpg" xml:id="d4e1598"/>
+            <p>Saturday 20th Jan 1844</p>
+            <p>A fine beautiful morning . suny &amp; warm.  Making all nature look so tempting. that it actually tempt&apos;d Maj Walker &amp; Myself.  Whom public
+					opinion hath stamp&apos;d &quot;the 2 Laziest Men in the state of Tenneessee&quot; to take a &quot;stroll&quot;.  We happen&apos;d to find ourselves at
+					old &quot;York&apos;s&quot;. in our travels.  Who by the by is one of the tallest curiosities in these diggins.  let me describe him if I can, so that the
+					World may know who &amp; what he is.  then, to begin with the beginning.  He is as black as the ace of spades.  But his Whiskers are as white as snow!!
+				   About as ugly a man as there is any use in.  And lame at that.  </p>
+            <p>He was a slave once in Virginia, his Master mov&apos;d to the northern part of the state as he thought.  but on the line&apos;s being run it was found that
+					he was in pennsylvania and , York actually a free man!!  &quot;Honor to Whom honor is due&quot; ever let it be said to the honor of old &quot;Tenn&quot;
+				   (thanks to Ben Franklin) no slave breathes there.  this old York is the richest man in this neighborhood.</p>
+            <p>in the evening I went to see my friend Slater owner of the springs</p>
+            <pb n="140" facs="0012_001702_000201_0140.jpg" xml:id="d4e1608"/>
+            <p>Sunday 21st Jan 1844</p>
+            <p>Rode from &quot;Sulphur Springs&quot; to Maj Walkers. capt. Slater told me in the way of conversation that whenever a &quot;Business man&quot; bought a nigger
+					the first thing he done with him was to take him home &amp; tie him up and give him about 50 lashes in order to make him afraid of him.  this is an uncomon
+					warm day.  I lay out doors all afternoon, reading &quot;shakespere&quot;, without a coat. And was perfectly comfortable</p>
+            <p>Monday 22nd</p>
+            <p>Rode to Maj Parm&apos;s &amp; got a complete &quot;dunking&quot; of rain at that.  Maj. Parm was full of talk as usual.  He gave me his views in a speech of
+					about an hour&apos;s length on the annexation of texas.  He said he was for annexation &amp; if war with Mexico must follow.  Let it come.  War was a curse.
+					But it had it&apos;s blessings also, it call&apos;d forth the energies of a country.  It enabl&apos;d valiant men to distinguish themselves.  &quot;Why what&quot;
+					said he &quot;was Genl Jackson himself untill the late war&quot;</p>
+            <pb n="141" facs="0012_001702_000201_0141.jpg" xml:id="d4e1618"/>
+            <p>Nothing but a &quot;cock fighter&quot; Besides it would sweep off thousands of <unclear reason="illegible" resp="PW">drones</unclear> and loafers who were now
+					living from the hard earnings of others &amp; make room for better men.  in short he said he beleived war for this county Now, would be a blessing.  it would
+					reconcile southern nullification and northern fanaticism.  it would cement the bonds of union &amp; make us all precisely what we ought to be one great family
+					of brothers, Able, &amp; willing to crush the minions of tyranny.&amp; spread the doctrines of universal Liberty from Pole to Pole!!!!!</p>
+            <p>Maj Parm is a prominent member of the Methodist church &amp; a very clever man</p>
+            <p>Tuesday 23d</p>
+            <p>Recd at Pleasant Hills a letter from &quot;Mag&quot; Rode to capt McCulloughs &amp; found them all high &amp; dry.  Very warm.  So warm as to compar us to
+					<unclear reason="illegible" resp="PW">hmmt</unclear> the shade.</p>
+            <p>Wednesday 24</p>
+            <p>Rod to Penetentiary.  Heard A. O. O. Nicholson make a speech in senate  Recd a letter from D. Mizener</p>
+            <pb n="142" facs="0012_001702_000201_0142.jpg" xml:id="d4e1638"/>
+            <p>thursday 25  friday 26  Saturday 27 Sunday 28 &amp; Monday 29th</p>
+            <p>on the 25th the weather chang&apos;d suddenly almost from one extreme to the other  However it could not have been near so cold , as pensylvania cold weather,
+					or the river &amp; creeks would have frozen over  Yet owing to the suddeness of the change I felt the cold Just as piercingly as I ever did in pensylvania.
+				   Such changes they say are not unfrequent here.  these 5 days have been decidedly the coldest part of the winter so far.</p>
+            <p>I amus&apos;d myself by reading the &quot;Southern literary Messenger&quot; &quot;Paid Allen&apos;s History of the american Revolution&quot; etc. etc.</p>
+            <p>Tuesday 30th</p>
+            <p>Had a talk with Mr. DeShields a slave holder from NewOrleans.  Who was then boarding at Mr. McCullough&apos;s.  in the course of conversation he told me he
+					knew men in Louisiana who own&apos;d from 100 to 300 slaves Who would call them up evry Monday Morning &amp; parcel out to each one 42 ears of corn for a
+					week&apos;s food being at the rate of 2 ears per Meal!  on</p>
+            <pb n="143" facs="0012_001702_000201_0143.jpg" xml:id="d4e1650"/>
+            <p>this they were compell&apos;d to work hard from day break till dark.  And part of the season from the last of October till about the middle of Jan. day &amp;
+					night!!  this being the &quot;grinding part&quot; of the season in which this sugar cane is ground up.  And if their mills were permitted to stand still &amp;
+					the cane get frost bitten they would lose a large portion of their crop.  consequently they keep their mills running day &amp; night sunday &amp; all untill
+				   they are done grinding.</p>
+            <p>He says he knew one man who had some 75 or 80 slaves.  that he us&apos;d to send them out in time of high water to catch drift wood.  each ones task wss to sett
+					up one cord of wood per day.  &amp; in case any one fail&apos;d to do so. Man or Woman.  they were tied up &amp; lash&apos;d on the bare back   He says they did
+					not have anything like 1/2 enough to eat.  that they were often driven out to labor with chains dragging by their feet!  What!  Women too said I &quot;Yes&quot;
+					said he.  &quot;I have seen women dragging chains by their limbs driven out &amp; compell&apos;d to catch 1 cord of wood a day.  Wether it</p>
+            <pb n="144" facs="0012_001702_000201_0144.jpg" xml:id="d4e1657"/>
+            <p>came down the river or not or be tied up &amp; lash&apos;d for laziness!!  And is this the land Where the Flag of freedom so proudly doth wave.  O&apos;er the land
+					of the free.  And the home of the brave&quot;?  Well may the english satirest exclaim &quot;the <unclear reason="illegible" resp="PW">fustian</unclear> flag that
+					proudly waves in splendid mockery in a land of slaves&quot;</p>
+            <p>Wednesday 31st  &amp;  Thursday Feb 1</p>
+            <p>Wrote 3 letters to  Pensylvania one to D. Mizener.  one to Nathan Mitchell.  one to Capt. <unclear reason="illegible" resp="PW">Ranck</unclear> &amp;
+					<unclear reason="illegible" resp="PW">P. heikh</unclear>
+            </p>
+            <p>Friday Feb 2nd</p>
+            <p>Rode to Maj James Walker&apos;s.  I got myself lost among the Mountin too.  Recd a paper from Lewisburg</p>
+            <p>Saturday 3d</p>
+            <p>fill&apos;d up my Journal for the last 12 days.  Made 2 or 3 speeches in reply to Liza Walker &amp; then adjourn&apos;d &quot;<unclear reason="illegible" resp="PW">si die</unclear> &quot;</p>
+            <pb n="145" facs="0012_001702_000201_0145.jpg" xml:id="d4e1684"/>
+            <p>Sunday 4th Feb 1844</p>
+            <p>Read 40 pages of &quot;Blackstone&quot; in the evening Maj James Walker &amp; myself rode to old Man &quot;York&apos;s&quot;  Who amus&apos;d us very much with his
+					&quot;conversational powers&quot;  He said in the war with the indians his wife could kill a red Man as good as Genl. Jackson&apos;s.  But said he I was a fool for
+					risking my life in defense of the very Men&apos;s liberties who would if they could strip me of all my rights liberty &amp; property etc. etc.</p>
+            <p>Monday 5th</p>
+            <p>Read 40 pages of &quot;law&quot; went hunting with Maj Walker.  Read Shakspere&apos;s &quot;Macbeth&quot; etc.</p>
+            <p>Tuesday 6th</p>
+            <p>Read 40 pages of Blackstone. Shakespere&apos;s &quot;Henry 4th&quot; etc. etc.</p>
+            <p>Wednesday 7th</p>
+            <p>Read &quot;Revolution in europe  Made 3 or 4 speeches in reply to Maj Walker on the Anexation of texas etc.</p>
+            <p>Thursday 8th  Friday 9th  &amp;  Saturday 10th</p>
+            <p>Read 40 pages. 40 pages  40 pages of Blackstone.  Shakespere&apos;s Henry 8th  Very cold for the last 3 days</p>
+            <pb n="146" facs="0012_001702_000201_0146.jpg" xml:id="d4e1706"/>
+            <p>February 1844</p>
+            <p>Sunday 11th  Monday 12th &amp;  Tuesday 13th </p>
+            <p>Very fine &amp; warm for the last 2 days.  Read &quot;Blackstone &amp; Shakespere&quot;</p>
+            <p>Wednesday 14th</p>
+            <p>Rode from Maj Walker&apos;s to Mr McCullough&apos;s on my way. I came across &quot;an old Man.&quot;Well.&quot; said I &quot;uncle are
+					You free?&quot; &quot;No&quot; said he. &quot;And never expect to be till God Almighty free&apos;s me&quot; have You a Good Master ? said I.
+					&quot;Yes&quot; said he.  &quot;I have a Good Mistress. Mrs. Wharton. My Master is dead&quot; then. said I. You are better off than if You were free.
+					You have a Good Mistress to take care of You &quot;Ah. I don&apos;t know&quot; said he.  Well speak out. said I. I won&apos;t hurt You.  I am from
+					a free state.  &quot;Well&quot; said he. &quot;i&apos;ll Just tell You Master (they call all white men &quot;Master&quot; I would&apos;nt give one
+					hour of the very worst kind of liberty. for a thousand Years of the very best kind of slavery &quot;But You have a good Mistress. said I. &quot;Yes&quot;
+					said he but there&apos;s nothing so good as liberty. all Men want to be free.  its in their hearts. they love liberty better than</p>
+            <pb n="147" facs="0012_001702_000201_0147.jpg" xml:id="d4e1718"/>
+            <p>mony.  <unclear reason="illegible" resp="PW">ays</unclear> as their own hearts blood&quot;  Would You go to africa if You could thereby gain Your Liberty??
+					said I. &quot;Yes said he I could start this very day if I dare&apos;d, to any part of the world. if I could only have liberty there.  I would go anywhere
+					if I could only get to a free country&quot;  A free country said I.  Why man this is the free&apos;st country on the face of the earth.  &quot;How can You
+					make that appear&quot; said he.  Why said I have not our forefathers fought, &amp; bled. and died for liberty.  And do not our 4th of July orators say we
+					are the free&apos;st and happiest people on which the sun shines.  And our poets do they not call this the &quot;land of the free. and the home of the brave&quot;?</p>
+            <p>well said he if this is a free country.  I don&apos;t see any use in runing away to another for i would&apos;nt give 8d for such liberty &quot;have You a wife
+					said I. Yes. said he but God knows where she is.  they sold My wife &amp; children 13 or 14 Years ago into a far off land. Where I can never expect to see
+					their faces again.&quot; did You love Your wife &amp; children? said I</p>
+            <pb n="148" facs="0012_001702_000201_0148.jpg" xml:id="d4e1727"/>
+            <p>&quot;Yes&quot; said he, &quot;I would as soon have lost my own hearts blood as my wife &amp; children&quot; do You think the white folks are christians,?
+					said I &quot;they say they are. said he but as for their religion, God must Judge that&quot;  Why they preach &amp; pray said I. &quot;Yes&quot; said he
+					they preach &amp; pray to &quot;fend (defend) God above &amp; please man below&quot;</p>
+            <p>Thursday 15th</p>
+            <p>walk&apos;d to Nashville to see the fashion  Recd a letter from Henry Zellers esq  Weigh&apos;d myself &amp; found that I had gain&apos;d 15 1/2 pounds
+				   since my arrival!!  Verrily, Thinks I this is the climate for Me it is now about as warm as May in pensylvania. people are making Garden sowing oats etc.</p>
+            <p>Friday 16th</p>
+            <p>Rode to Sumner County with Geo. McCullough.  Return&apos;d again on</p>
+            <p>Sunday 18th</p>
+            <p>Met My Good old friend &quot;Tom Doxey&quot; the most extraordinary Man</p>
+            <pb n="149" facs="0012_001702_000201_0149.jpg" xml:id="d4e1743"/>
+            <p>I have Yet met with.  Henry Clay has not a greater flurry of words than this same old &quot;Maj Tom doxey&quot; and as for cleverness. A more generous man
+					never trod the face of God&apos;s earth. &quot;come to my house&quot; said he. &quot;stay a week, stay a month, stay as long as You please &amp; i&apos;ll
+					be d-mn&apos;d if You do not meet with a generous welcome as long as their is bread &amp; meat at Tom doxey&apos;s&quot;  &quot;here is a &quot;cesar&quot;
+				   thought I when comes another&quot;</p>
+            <p>Monday 19th  tuesday 20th  &amp;  Wednesday 21st</p>
+            <p>Weather still continues very warm and beautiful.  Read the life of &quot;Sir Thomas Moon&quot; &amp; &quot;Arabian Knights&quot;</p>
+            <p>Thursday 22nd February</p>
+            <p>this was announc&apos;d by the firing of one hundred Guns.  this was also the day for the great whig convention  I rode to town with my friend McCullough
+					&amp; saw the proceedings &amp; heard the speeches &amp; among them one from the Great &quot;Jno Bell&quot; his speech was recd with tremendous applause.
+					their Motto was. &quot;clay first, Clay last, Clay all the time&quot;</p>
+            <pb n="150" facs="0012_001702_000201_0150.jpg" xml:id="d4e1755"/>
+            <p>Feb 1844</p>
+            <p>Friday 23d</p>
+            <p>Rode with Mr. Madison Stratton to Maj James Walker&apos;s on an electioneering expedition. he being a candidate for col comandent</p>
+            <p>Saturday 24th</p>
+            <p>Rode again with Col Stratton through the upper region of Davidson county in the evening fill&apos;d up my Journal for the last 10 days and then adjourn&apos;d
+					&quot;sine die&quot;</p>
+            <p>Sunday 25th</p>
+            <p>Read &quot;shakespeare&quot; &quot;Ladies companion&quot; etc. etc.  A fine warm day</p>
+            <p>Monday 26 &amp; tuesday 27th</p>
+            <p>Read &quot;Blackstone&quot; &quot;Ladies companion&quot; &quot;Shakespeare&quot; etc. etc.</p>
+            <p>Wednesday 28th</p>
+            <p>Rode to Nahville with Maj Walker and from <unclear reason="illegible" resp="PW">thener</unclear> to McCullough&apos;s</p>
+            <p>thursday 29th</p>
+            <p>Rode to Maj Walker&apos;s &amp; on my way announce&apos;d Myself a candidate for Major . an opponent of Mr. Geo. Stull</p>
+            <pb n="151" facs="0012_001702_000201_0151.jpg" xml:id="d4e1787"/>
+            <p>Friday March first 1844</p>
+            <p>Rode to &quot;Whites creek springs&quot; to attend a &quot;Barbecue&quot; and there made 3 stump speeches.  2 for myself &amp; 1 for my opponent Mr. Stull.
+				   He also made one for himself in the evening I rode home with col Enos Walker</p>
+            <p>Saturday 2nd</p>
+            <p>Rode to the election on &quot;Manscoe&apos;s creek&quot; and there mad another stump speech.  Also one at the 19th precinct in the evening My opponent. Mr.
+					Stull. (a first rate clever fellow by the by.) invited me home with him. which invitation I of course acceptted &amp; pass&apos;d the evening away very
+				   pleasantly</p>
+            <p>Sunday 3d</p>
+            <p>Rode to McCullough&apos;s from there to singing school &amp; from there to col Stratton&apos;s &amp; Maj Walkers</p>
+            <p>Monday 4th</p>
+            <p>recd a letter from &quot;Bill&quot;  Rode to the city. &amp; in the evening rode home with col Bower&apos;s of &quot;Manscoe&apos;s Creek&quot;</p>
+            <p>tuesday 5th</p>
+            <p>Scour&apos;d the creek in company with col Bower&apos;s on an electioneering expedition. in the <unclear reason="illegible" resp="PW">veni</unclear> I met</p>
+            <pb n="152" facs="0012_001702_000201_0152.jpg" xml:id="d4e1812"/>
+            <p>My opponent &amp; Rode with him as far as col Strattons where I remain&apos;d all night.  He then declin&apos;d being any longer a candidate &amp; so left the
+					field to myself &amp; Mr. Woodard</p>
+            <p>Wednesday 6th</p>
+            <p>Rode to McCullough. in the afternoon rode with Mr. Saml. Wharton. electioneering</p>
+            <p>thursday 7th</p>
+            <p>Rode with Dr. Wharton again.  remaind at Mr. Porter&apos;s untill</p>
+            <p>Friday 8th</p>
+            <p>Rode to col Walker&apos;s</p>
+            <p>Saturday 9th</p>
+            <p>Rode to Maj Walkers &amp; studied tactics untill</p>
+            <p>tuesday 12th</p>
+            <p>this being the day for electing Military officers.  I rode to W. C. springs election. in the evening I rode home again with col Walker</p>
+            <p>Wednesday 13th</p>
+            <p>Rode to McCulloughs remain&apos;d there untill</p>
+            <p>Friday 15th</p>
+            <p>this being the birth day of Genl. Jackson the Democrats concluded to celebrate it. &amp; the refunding of the fine&quot; by</p>
+            <pb n="153" facs="0012_001702_000201_0153.jpg" xml:id="d4e1845"/>
+            <p>holding a &quot;Jackson Jubilee&quot;. I went and heard ex Gov carrol (chairmen) Narrate the events of the battle of New Orleans.  He himself
+					was second in command. in the course of his remarks he declar&apos;d that on the day on which Judge Hall impos&apos;d his fine one waive of
+					Genl. Jackson&apos;s hand would have torn the court house to atoms.  He said Genl. Jackson. Genl. Gaines. Hinsely and others. were sitting at dinner
+					When news of peace arriv&apos;d.  Genl. Jackson rose imediately. walke&apos;d to his head quarters &amp; rescinded Martial law. then walk&apos;d
+				   and eat his dinner.</p>
+            <p>Ex Gov Polk made a speech in which he said he once heard a european minister declare that Genl. Jackson&apos;s fame in europe was greater than any
+				   other Man now living and that if Genl. Jackson were to make his appearance in one of the european cities, in Paris for instance, it would produce a
+				   Greater sensation than the assemblage of all the crown&apos;d heads of europe!!</p>
+            <p>tremendous chearing</p>
+            <pb n="154" facs="0012_001702_000201_0154.jpg" xml:id="d4e1853"/>
+            <p>Col. Laughlin also made a speech and offer&apos;d a Preamble &amp; resolutions expressive of the sense of the meeting and thanking President tyler.
+					Charles I ingersol of Pensylvania &amp; others for the part they had taken in passing the bill refunding Genl. Jackson&apos;s fine.  the resolution
+					pass&apos;d unanimously  the Meeting . then in the evening of the 77th Birth day of Genl. Jackson adjourn&apos;d &quot;Sine die&quot;  I rode home
+					with Maj Parm &amp; remaind untill   a letter from Ross</p>
+            <p>Saturday 16th</p>
+            <p>Rode to col. Stratton&apos;s &amp; found my friend Lieut Col Snow sick.  I had almost forgotten to say that Yesterday I saw the election returns by
+				   which I ascertained that charley Shriner was duly elected Major of the 2nd Battalion of the 86th Reg-iment of the 16th Brigade of the tenn-essee
+				   Malitia!!  I having recd 81 votes &amp; Mr. Woodard 33 giving Me a Majority of 48 votes!  pretty well done thinks I for a stranger</p>
+            <pb n="155" facs="0012_001702_000201_0155.jpg" xml:id="d4e1862"/>
+            <p>landed here on the 11th day of Nov 43  and on the 12th day of March 44 elected Major!!  By the powers of mud.  I neither brag nor banter, But I
+				   defy the universe to beat that</p>
+            <p>Sunday 17th</p>
+            <p>Rode to church at &quot;centre&quot; and then heard an outrageous sermon preach&apos;d to an outrageous small audience.  Rode from church to
+				   Maj James Walkers who undertook to learn me military tactics</p>
+            <p>Monday 18th</p>
+            <p>Studied military tactics &amp; filled up my Journal for the last 19 days</p>
+            <p>tuesday 19th</p>
+            <p>Read &quot;political economy&quot; etc. etc.</p>
+            <p>Wednesday 20th</p>
+            <p>Rode to McCulloughs &amp; on my way stop&apos;t to see my friend col. snow. then dangerously ill.  He kindly offer&apos;d to loan me his uniform
+					to parade in. &amp; appear&apos;d anxious to have me make a good appearance on the 13th</p>
+            <pb n="156" facs="0012_001702_000201_0156.jpg" xml:id="d4e1882"/>
+            <p>thursday 21st March</p>
+            <p>Wrote a letter to Mr. Ross. Pa.</p>
+            <p>Friday 22nd</p>
+            <p>Wrote a letter home to &quot;Mag&quot; carried it to the city. recd one from my friend D. Mizener &amp; heard that my long lost Buggy had been found
+				   5 or 6 miles below Nashville about 30 foot under the surface of the cumberland</p>
+            <p>Saturday 23d</p>
+            <p>Went to the election at Hinton Held for the purpose of electing a Magistrate.  B clemens beat my friend. Saml. Wharton nine votes.  Mr. Clemens is a
+					fine clever man &amp; one of the Hero&apos;s of &quot;San Jacinto&quot; Mr. Wharton is one of the most splendid &quot;Young Men I ever met with. 
+					talented - learn&apos;d &amp; accomplish&apos;d.  Very wining in his manners &amp; Gifted with extraordinary conversational powers  He says he does
+				   not think that</p>
+            <pb n="157" facs="0012_001702_000201_0157.jpg" xml:id="d4e1896"/>
+            <p>Slavery can be Justified in the abstract.  He is himself a slaveholder</p>
+            <p>Sunday 24th</p>
+            <p>Wrote a letter to Mr. Mizener ex gov carroll &quot;was buried this day&quot;.  But 9 days ago I heard him make a speech.  He was Gov of tennessee for
+					12 Years was a Major Genl. &amp; second in command at &quot;the battle of New Orleans.  He once fought a duel with Mr. Benton at the distance of 6 foot.
+					Genl. Jackson was his second &amp; the instigator of the fight. so at least report says, the story here runs thus, &quot;carrol was a pensylvanian
+					&amp; as a matter of course oppos&apos;d to duelling.  He became involv&apos;d in a quarrel with the Benton&apos;s.  One of them challeng&apos;d him.
+					He refus&apos;d to fight &amp; kick&apos;d the bearer of the challenge out of his house.  This brought on another challenge. the bearer of which he
+					kick&apos;d down stairs</p>
+            <pb n="158" facs="0012_001702_000201_0158.jpg" xml:id="d4e1904"/>
+            <p>Genl. Jackson was carrol&apos;s friend &amp; hearing of all this. went to car&apos;ol &amp; told him &quot;By the eternal God&quot; he must fight. or
+					he would be branded as a coward.  So Carrol agreed to accept a challenge from Mr. Benton. &amp; not being accustomd to killing men with pistols &amp;
+					of course a poor shot. he draws him up to 6 foot!!!  this somewhat alarm&apos;d our great duelist Mr. Benton who had all along look&apos;d upon
+					Mr. carrol as a coward.  the duel came on.  Benton appear&apos;d much agitated and trembled, carrol was as cool &amp; as calm as the
+					<unclear reason="illegible" resp="PW">nonru-ffled</unclear> ocean.  they fire&apos;d.  Benton miss&apos;d, Carrol shot him bang through the body.  So
+				   much for the courage of duelists put them into such a position as gives them no better chance for their lives than their enemy and they are often the
+					<unclear reason="illegible" resp="PW">veriest</unclear> cowards on earth</p>
+            <pb n="159" facs="0012_001702_000201_0159.jpg" xml:id="d4e1914"/>
+            <p>Lock-Port). June the 23 . AD 1843</p>
+            <p>
+               <unclear reason="illegible" resp="PW">Aphorismsp,</unclear> Axioms, Idioms, and soforth</p>
+            <p>1st   Entered according to the Act of Congress in the year one thousand eight hundred and thir-ty three, by Noah Webster, L.L.D. in the
+				         Clerks Office of the District Court of Connecticutt.</p>
+            <p>2nd   Derision shall strike the forlorn, A mockery that never shall Die; The curses of hate, and the hisses of scorn Shall burthen the winds of
+					     thy sky; And proud o&apos;er thy ruin forever be hurled The laughter of triumph, and the jeers of the world</p>
+            <p>3rd   Had the slanderer even the compassion that Devils are allowed to possess, he would pause at a distance, before he approached the sacred
+				         temple of female innocence, to stain its alter with her blood.  But in vain her feminine help-lessness pleads, for her, compassion impl-
+				         ores, and humanity weeps.  On comes the Demon of woe, the blue flames of the sulphurous Lake are in his glances, and death hovers in his
+				         glare</p>
+            <pb n="160" facs="0012_001702_000201_0160.jpg" xml:id="d4e1928"/>
+            <p>It may be that a jury can be found in Susquehannah County, who, like the Trustees of F A, will lend themselves the infamous instruments of
+				   punis-hment, as they have of insult for the novel crime of telling the truth! if so, and if this be the state of feeling in society, I am free
+				   to confess, I have long enough in society, and shall not regret the hour when I am called away to the seclusion of dungeon glooms; or, to the
+				   more friendly embraces of chilly death.</p>
+            <p>It is true he may easily fill sheets with his paltry trash and flimsy sophisms but it will avail him not-hing.  He cannot reach me or di-sturb
+				   my quiet, reposing as I do on the lofty Summit of concious rectitude, far above the vipers of selfishness and malice, whose green eyes roll in
+				   their Socets</p>
+            <p>perched in the halls of The Academy</p>
+            <pb n="161" facs="0012_001702_000201_0161.jpg" xml:id="d4e1936"/>
+            <p>Monday 25th March 44</p>
+            <p>Read &amp; slept all day &amp; in the evening rode with a serenading party.  Had fine music and plenty of sport. and a splendid supper given by
+				   Wm. Young to boot</p>
+            <p>Tuesday 26th</p>
+            <p>Rode with Capt. McCullough to Sumner county</p>
+            <p>Wednesday 27th</p>
+            <p>Rode with Messers Benters &amp; McCullough to Gallatin a handsome place. beautifully located &amp; honor&apos;d with a sem-inary which is said to
+					have produc&apos;d many eminent men</p>
+            <p>thursday 28th</p>
+            <p>Rode to Maj Walkers <unclear reason="illegible" resp="PW">Senr</unclear> and then remain&apos;d untill</p>
+            <p>Friday 29th</p>
+            <p>Rode to Capt. McCulloughs half sick &amp; slept the balance of the day</p>
+            <pb n="162" facs="0012_001702_000201_0162.jpg" xml:id="d4e1961"/>
+            <p>Saturday 30th March 44</p>
+            <p>Very cold this morning  Some snow fell through the day we have very sudden changes here in the weather, from extreme warmth to cold, making
+				   it appear much colder than it in reality is</p>
+            <p>Sunday 31st</p>
+            <p>Rode to church at Naashville and heard a tolerable good brebyterian sermon from a Methodist preacher</p>
+            <p>Monday Apr 1st</p>
+            <p>Rode to the city &amp; from the to &quot;hides ferry&quot; to see about my buggy, found it still under water &amp; the river to high to take
+				   it out</p>
+            <p>tuesday 2nd</p>
+            <p>Rode with capt. McCullough&apos;s daughters to sumner county</p>
+            <pb n="163" facs="0012_001702_000201_0163.jpg" xml:id="d4e1979"/>
+            <p>Wednesday 3d Apr. 44</p>
+            <p>Rode to Maj Parm&apos;s &amp;there remain&apos;d untill</p>
+            <p>thursday 4th</p>
+            <p>Rode to Mr Love&apos;s to see my friend col. snow. found him much better. from there I rode home to capt. Mc&apos;s</p>
+            <p>Friday 5th</p>
+            <p>went to town in the morning to get my Galvanic Battery. found Capt. Gilbert there.  He consented to pay for taking my buggy out of the river.
+				   in the evening I drove to Maj James Walkers</p>
+            <p>Saturday 6th</p>
+            <p>Went with Maj Walker to the muster ground &amp; saw them muster&apos;d by Maj Walker</p>
+            <p>Sunday 7th</p>
+            <p>drove to church in forenoon &amp; in the afternoon to Capt. McCullough&apos;s</p>
+            <pb n="164" facs="0012_001702_000201_0164.jpg" xml:id="d4e2001"/>
+            <p>Monday 8th Aprile , 44</p>
+            <p>Read &quot;say&apos;s on political Economy etc.  in the evening , rode to the city to make arangements for taking my waggon out of the
+				   river.  Mr. Merrit agrees to take his out next saturday or Sunday</p>
+            <p>Tuesday 9th</p>
+            <p>Read Say&apos;s political economy etc.</p>
+            <p>Wednesday 10th</p>
+            <p>Drove to Sumner county Where I remain&apos;d untill friday.  While there read &quot;Smilze on Slavery&quot;</p>
+            <p>Saturday 13th</p>
+            <p>Rode to scruggs&apos;s tavern in Military dress &amp; there with the assistance of James Walker as Adjt. paraded my Battallion as well
+					as I knew how, made a speech as well as I knew how &amp; then dismiss&apos;d heard 3 speeches from Messers. Haynes, Hickman &amp; Matlock</p>
+            <pb n="165" facs="0012_001702_000201_0165.jpg" xml:id="d4e2019"/>
+            <p>all candidates for brigadier Genl.</p>
+            <p>Sunday 14th</p>
+            <p>Rode to the &quot;city of rocks&quot; &amp; from there to &quot;Hides ferry&quot; to get my waggon out of the river.  after much hard work we
+				   succeeded ingetting her out.  But considerably Broken.</p>
+            <p>Monday 15th</p>
+            <p>Returnd from Genl. Hickman&apos;s Where I had been all night in company with Geo. McCullough.  in the forenoon I stroll&apos;d out into the
+					fields to see them plant cotton etc.  Mr. Grizard, Mr. Wheatly&apos;s overseer told me that cotton was a much more profitable crop than corn
+					he said  last Year he sold his crop for 2600 dollars.  Which he rais&apos;d with about 3-0 hands among whom their were may small ones making
+					his <unclear reason="illegible" resp="PW">most</unclear> profit about 100 dollars per hand.  as for expense he said there was scarcely any he
+				   had mechanicks of evry kind</p>
+            <pb n="166" facs="0012_001702_000201_0166.jpg" xml:id="d4e2035"/>
+            <p>necessary for farming among his slaves.  Blacksmith for instance etc. in the evening I rode to the &quot;city of rocks&quot; and in the
+				   representation hall saw the 2 silver pitcher sent by the Philadel-phia Whigs, presented to Gov Jones, they were presented by Dr. Jennings
+				   who deliverd them with a speech of about a 1/2 an hour length.  the Gov then responded in one of the most eloquent speeches that ever fell
+				   from the lips of man.  He eulogis&apos;d Philadelphia for her patriotism learning &amp; industry &amp; wound up by saying, &quot;Philadelphia
+				   as she was, Philadelphia as she is  Philadelphia as She will be  Philadelphia forever&quot; then came 9 long &amp; loud cheers for Gov Jones
+				   &amp; the Whigs of Philadelphia  the meeting then adjournd <unclear reason="illegible" resp="PW">sindi</unclear>
+            </p>
+            <p>Tuesday 10th</p>
+            <p>Rode to Nashville &amp; found  the a bill against</p>
+            <pb n="167" facs="0012_001702_000201_0167.jpg" xml:id="d4e2045"/>
+            <p>Me for $24.00 for taking my waggon out of the river.  This of course I refus&apos;d to pay</p>
+            <p>Wednesday 17th</p>
+            <p>Read Political economy etc.  in the evening I took my 2 watches to the city to have them repaird</p>
+            <p>Thursday 18th Apr. 44</p>
+            <p>This day 6 months ago I left Buffaloe Valley, thinking to have return&apos;d long before this time with a Great god&apos;s plenty of mony
+					When I waas about starting some one ask&apos;d me where I was going&quot;?  &quot;to tennessee&quot; said I to see the people &amp; gain
+				   the world</p>
+            <p>But &quot;the Gun thus aim d 
+					   at Duck &amp; plower
+					   bore wide and kick&apos;d
+					   its owner over&quot;
+					   I have now been 6 months from home &amp; I know not that for a whit wiser - richer or better a lead so so far</p>
+            <pb n="168" facs="0012_001702_000201_0168.jpg" xml:id="d4e2059"/>
+            <p>1882 Life &amp; times of Charlie Shriner</p>
+            <p>Aug 27th Dix on   Ills.</p>
+            <p>I returnd to Pa in June 1844, - with a bout $250, in gold, and 1669 Acres of land, near Manchester in Coffee Co Tenn. - This land
+					&amp; mony I rec d for the Patent right of <unclear reason="illegible" resp="PW">J P Bop</unclear> for his straw cutter. - I had to
+					have 50 pr ct in all sales made. - I sold Tenn &amp; Kentucky &amp; 13 counties in West Virginia. - This give me a stat in the wold.</p>
+            <p>I bought a House in Lewisburg Pa. on 4th street I think and mov&apos;d into it on Apr 1st 1845</p>
+            <pb n="169" facs="0012_001702_000201_0169.jpg" xml:id="d4e2072"/>
+            <p>41</p>
+            <p>in that House Alice was born. - I sold stores for <unclear reason="illegible" resp="PW">Gedder &amp; Mash</unclear> from 1844 to 1848, - 
+				   on corn, and made $4,000. with which I bought 63 Acres of land in Kelly tp Union Co Pa. - on the North Bank of Buffalo Creek. - I built
+				   a nice brick House on it, - and livd in it till 1849, - then </p>
+            <pb n="170" facs="0012_001702_000201_0170.jpg" xml:id="d4e2081"/>
+            <p>I exchang&apos;d that farm &amp; House for a Mill &amp; 90 Acres of Land one mile North of Mifflinburg Pa. that mill I sold to Henry Gast
+				   in 1851 for $ 10,000. - after I had built a still - House on it, Which cost me $ 1,500. - in</p>
+            <p>Agst. 1851</p>
+            <p>I bought the Rocky Mill &amp; 189 Acres of</p>
+            <pb n="171" facs="0012_001702_000201_0171.jpg" xml:id="d4e2089"/>
+            <p>43</p>
+            <p>land for $ 13,000. - This I bought on the same day. (I sold the &quot;Plank&quot; Mill to Gast.) -- in March 1850 I went to board in
+					Mifflinburg, with Capt. Jno Fenton, at his Hotel, - at this time a took an action put in Politicks; - &amp; was visited in 1851 by
+				   James Buchannan, Gov Wm. Bigler, and Judge Georg W Woodward</p>
+            <pb n="172" facs="0012_001702_000201_0172.jpg" xml:id="d4e2095"/>
+            <p>I was appointed flour inspector for the city of Phila. in <unclear reason="illegible" resp="PW">Jy</unclear> 1852 by Gov Bigler - but
+					I declin&apos;d, and agreed to take in <unclear reason="illegible" resp="PW">Gieu</unclear> - the office of &quot;Inspector of domestic
+					distill&apos;d spirits&quot; - for Phila. - This was one of the best paying offices in The gift of the Governor, - the first month paid
+					me $800. after paying my 4 deputies. - Who really done all the work , or nearly so, - I declin&apos;d the flour tnspectorship ,
+					<unclear reason="illegible" resp="PW">hult</unclear> $ 10,000 per Year , to help Judge George W Wood-ward to make his arrangements to be
+					elected U S Senator - as he (Woodward) with James Buchannan, had secur&apos;d for me, - the appointment of flour inspector, - from Gov
+				   Bigler. -</p>
+            <pb n="173" facs="0012_001702_000201_0173.jpg" xml:id="d4e2108"/>
+            <p>45</p>
+            <p>I was not 30 years of age, when I rec d this office. - and felt that I had done pretty well, - Considering.  When I started from; in 1841.
+				 - without a dime, - or any rich or great friends to help me along</p>
+            <p>James Buchannan had rather a bad reputation for sticking to his friends, - and I sec/-urd his support in a rather singular way. - in Agst.
+					1851 I went to Blum-field <unclear reason="illegible" resp="PW">Perry</unclear> C&quot; Pa. - to meet Col. Biglert, - then the dem candidate
+					for Governor. - Perry Co was his Native place &amp; he had a big meeting, - perhaps ten thousand people came to welcome him when Mother
+					only a few years ago, had sold cakes &amp; buns in that county for a living, for herself &amp; her</p>
+            <pb n="174" facs="0012_001702_000201_0174.jpg" xml:id="d4e2119"/>
+            <p>large family: - all of Whom were very warm personal &amp; political friend, - Bigler was elected Governor in 1851.  I help&apos;d him stump
+				   Union, Centre, Perry and other counties, - in July 1852.  Gov Bigler gave me my choice of 3 offices, - either - flour, a - Liquer or - or
+				   harbor master for Phila. - I Choose Liquer inspector ___</p>
+            <pb n="175" facs="0012_001702_000201_0175.jpg" xml:id="d4e2123"/>
+            <p>47</p>
+            <p>to gratify Judge Woodward, - Who with Jas. Buchannan was my <unclear reason="illegible" resp="PW">becun</unclear> backer. -  I prefer&apos;d
+					flour in-spector, - went to help Woodward out, Choose - Liquer inspector, - as this help&apos;d Wood-ward, as he thought to make other
+				   arrangements for himself</p>
+            <pb n="176" facs="0012_001702_000201_0176.jpg" xml:id="d4e2132"/>
+            <p>I had not gone to that meeting expecting to speak - only to bring Bigler to our county, as he was to speak in Mifflin-burg, on the 5th of
+					Agst 1851. - after Bigler had spoken. - the crow&apos;d call&apos;d on me. -</p>
+            <p>Although I was not an invited spe-aker, - I at first referr&apos;d as I was afraid of making a failure, - but Bigler &amp; the crow&apos;d
+					insisted, - and I pitch&apos;d inn, - it was a helter-skelter, disconnected speech, - Without head or tail - beginning or end . - but I
+					never made a speech in my life, perhaps that was so well rec d, - Bigler had made a long able and logical speech. - but talk&apos;d 
+					&quot;over their heads&quot; - and the crow&apos;d became tir d &amp; wearied. - I saw</p>
+            <pb n="177" facs="0012_001702_000201_0177.jpg" xml:id="d4e2139"/>
+            <p>49</p>
+            <p>his mistake &amp; shot a little lower, - told them stories etc., with which I was then pretty well supplied as I had been on the stump a
+					great deal in 1848, - 49, - &amp; 50. - Any crowd would rather be amuzed than instructed. - and hence it was that my speech rec d - a
+					great deal more applause than Bigler&apos;s, - Although his was <unclear reason="illegible" resp="PW">bortly</unclear> the best speech,
+					- I was Cheer&apos;d &amp; cheer&apos;d - again &amp; again, enough to make a Young Man like myself a little vain; - </p>
+            <p>among the spectators at that meet-ing, was the Hon C. L  Ward of <unclear reason="illegible" resp="PW">Pewanda</unclear> Pa, - he was a man
+					of great wealth &amp; influence - and a great friend of Mr. Buchannan, to who&apos;m</p>
+            <pb n="178" facs="0012_001702_000201_0178.jpg" xml:id="d4e2153"/>
+            <p>he was then paying a visit. - he had first came from &quot;Wheat Land&quot; Mr. Buchannan&apos;s Home. - to attend this great Bigler meeting, -
+					he returnd to Wheat Land &amp; gave &quot;old Buch&quot; - a glowing acct of the meeting &amp; of my <unclear reason="illegible" resp="PW">fon</unclear>
+					speech, - in a few days I rec d a nice letter from Mr. Buchannan stating what Ward had told him &amp; asking me to meet him in Lewis-burg
+					at the college comm-encement that month, - as he was a Curator at that College &amp; would attend, - that he wanted to make my acquaintance
+					etc. - as he had heard so much of me, &amp; a great many other nice things - Well calculated to tickle the vanity of a young man like myself.</p>
+            <pb n="179" facs="0012_001702_000201_0179.jpg" xml:id="d4e2160"/>
+            <p>51</p>
+            <p>Well, I went to Lewisburg of course to meet him.- as I was invited by him.  I did not stand on ceremony, - I ask&apos;d for Mr. Buchannans room
+					&amp; old &quot;Charlie Kline, the land lord, told me to go up to No 4. - I started into the Hall &amp; at the foot of the stairs I saw old
+					Buch at the head. - Just coming down, - I waited till he was half way down &amp; then said, - &quot;how are you Chalie Shriner&quot; - I ask&apos;d
+					him, - &quot;how did you know me&quot; - I said. - well I was standing here at the foot of the stair&apos;s &amp; looking up I saw a man at the head</p>
+            <pb n="180" facs="0012_001702_000201_0180.jpg" xml:id="d4e2166"/>
+            <p>and I knew at once, that he was a great Man, - So I knew it was Mr. Buchannan.&quot; - Well said he, that is Just the way I knew you. - &quot;I stood
+					at the head of the stairs &amp; looking down, I saw a man that I knew was a great man, - So I knew it must be Charlie Shriner&quot; - we took a hearty
+					laugh &amp; from that on, it seemed as if I had known him all my life</p>
+            <p>Dixon</p>
+            <p>Nov 19th 1888</p>
+            <p>Mr. Buchannan went with me to Mifflin-burg &amp; staid all night with me</p>
+            <pb n="181" facs="0012_001702_000201_0181.jpg" xml:id="d4e2176"/>
+            <p>53</p>
+            <p>at the old Hotel kept by capt Fenster   Where I then liv&apos;d, some 3 years - the next day I took him to New Berlin to mSee Jno M Baum
+					<unclear reason="illegible" resp="PW">dew</unclear> Editor of the &quot;Union Times&quot; - Who drove him to Northumberland to Genl. Hortons House
+					- on our way to New Berlin  Mr. Buchannan ask&apos;d me to cary our county for</p>
+            <pb n="182" facs="0012_001702_000201_0182.jpg" xml:id="d4e2185"/>
+            <p>him for President - I told him our county was for Genl. Cass, who had been beat in 1848 by Genl. Taylor - he said, - if this county goes for Cass
+				   people will say you have no influence at home, - that Cameren carried the County for Cass</p>
+            <pb n="183" facs="0012_001702_000201_0183.jpg" xml:id="d4e2189"/>
+            <p>55</p>
+            <p>Now I was the Anti Cameren lea-der in Union Co which he knew - &amp; Cameren was strong for Cass - hence it was that he said what he did about my
+					influence etc. - I said to him &quot;Mr. Buchannan they tell hard stories about You&quot; - do they said he, - yes sir</p>
+            <pb n="184" facs="0012_001702_000201_0184.jpg" xml:id="d4e2195"/>
+            <p>I said, - &quot;tell me what they are&quot; said he; - I said - &quot;Well they say you use your friends &amp; then put them out in the cold&quot;
+					- well said he, &quot;I have been out of the state so long and Cameron has told that story over</p>
+            <pb n="185" facs="0012_001702_000201_0185.jpg" xml:id="d4e2199"/>
+            <p>57</p>
+            <p>the state till the people perhaps beleive it, - but you do this for me, and then if I ever forget you, Why Just you join in with Cameron &amp; help
+				   him circulate this story. -</p>
+            <p>Well he carried Union Co for Buchannan, - and he</p>
+            <pb n="186" facs="0012_001702_000201_0186.jpg" xml:id="d4e2207"/>
+            <p>wrote me a nice letter of thanks. - Bigler had just been Elected Gov &amp; I wasa an applicant for flour inspector in Phila. - worth $ 10,000 per
+					year - I wrote Buchannan to send me a letter to Bigler, as he had made me a <unclear reason="illegible" resp="PW">pension</unclear> to &quot;help&quot;
+				   me, - when he was in Union Co. - but he wrote me</p>
+            <pb n="187" facs="0012_001702_000201_0187.jpg" xml:id="d4e2214"/>
+            <p>59</p>
+            <p>saying &quot;I cant give you a letter to Bigler, for I have promis&apos;d to give no letter to any one for office, - but I will &quot;help&quot; you
+					with Bigler as I promis&apos;d you to do - but in my own way,&quot; - then I said - yes Cameron tells the truth, about</p>
+            <pb n="188" facs="0012_001702_000201_0188.jpg" xml:id="d4e2221"/>
+            <p>Buchannan, - he helps no one but himself, - but after that I went to see Bigler at his home in Clea-field, - his Brother-in law Weaver was his private
+					secrety &amp; he show&apos;d me a letter rec d. from Buchannan urging me for flour inspector: -</p>
+            <pb n="189" facs="0012_001702_000201_0189.jpg" xml:id="d4e2225"/>
+            <p>61</p>
+            <p>then I found &quot;old Buch&quot; - all right, - he was true to me as steel - but had made a pledge to give no can-didate a letter to avoid conflict
+				   with friends, -</p>
+            <p>When I went to Harrisburg to Biglers inaugaration</p>
+            <pb n="190" facs="0012_001702_000201_0190.jpg" xml:id="d4e2233"/>
+            <p>in Jany 1852 I met Mr. Buchannan, at Bigler&apos;s Hotel, - he had drove up in his sleigh, - he ask&apos;d me if I had rec d. his letters ? -  I said,
+					yes - and did you think I had gone back on you?  - he ask&apos;d - I told him I did, - and do you still think so?  - he ask&apos;d - I said &quot;no
+					I don t.  I think now you have come up here to Harris-burg on purpose to help me,&quot; - he said</p>
+            <p>&quot;Yes, you are right now - I have come here to help you &amp; for no other purpose -</p>
+            <pb n="191" facs="0012_001702_000201_0191.jpg" xml:id="d4e2239"/>
+            <p>63</p>
+            <p>I told him I had no doubt of it, - and felt confident I would get the office, which I did.</p>
+            <p>Judge George W Woodward, (afterword the Chief Justice of our Supreme Court in Pa.) wanted to be Bigler&apos;s Secretary of State, - he had been the Judge
+					of the courts in Clear-field Where Bigler livd, for many years.  Also in Clinton &amp; Centre Counties, - he &amp; Bigler had been warm friends. - but
+				   Wood-ward was a man far superior to Bigler in Ability - Culture etc. - indeed he was one of the greatest men</p>
+            <pb n="192" facs="0012_001702_000201_0192.jpg" xml:id="d4e2247"/>
+            <p>that Pa. had ever turn&apos;d out. - he rank&apos;d next to Judge Black as a Jurist &amp; great Lawyer - and his friends thought he was the equal of that
+					great man - he was my Idol. - in my younger days I almost worshipp&apos;d Woodward, - to me he was evry thing that was great &amp; good &amp; Noble &amp;
+				   pure - in 1845 he was the democratic nom-inee in Pa. - for U S Senater - Simon Cameron who was then a democrat bent him, in this way. - Cameron was a high
+				   tariff &quot;Protection&quot; - democrat. - Woodward was a Free trader, or a <unclear reason="illegible" resp="PW">Raeucen</unclear> tariff man. - Cameron
+					got 4 or 5 Tariff demo-crats &amp; the solid Whig vote, - this elected him - I was then only 23 years of age, but a warm Woodward</p>
+            <pb n="193" facs="0012_001702_000201_0193.jpg" xml:id="d4e2254"/>
+            <p>65</p>
+            <p>Man, - because he was the nominee &amp; a Free-trader, - in all the fights in Union County Pa. - I was the leader of the Woodward democrats - of whom
+					there were but few. - Cameron being very popular in our county, - at each yearly county convention, I offer&apos;d Woodward resolutions denouncing Cameron,
+					- as a renegade etc. - Woodward liv&apos;d in Wilkes barre, and had to travel through our county to get to his Courts in centre &amp; Clinton &amp; Clearfield.</p>
+            <p>in 1847 he stopp&apos;d off to see me</p>
+            <pb n="194" facs="0012_001702_000201_0194.jpg" xml:id="d4e2262"/>
+            <p>I was delighted with him. - he was a fine Large good looking man &amp; the best talker I ever heard. - he prais&apos;d me for what I was doing in Union
+				   C. - and after that came to see me often in Union C. - </p>
+            <p>in 1851 his term expired as Judge in our Circuit Court &amp; I invited</p>
+            <pb n="195" facs="0012_001702_000201_0195.jpg" xml:id="d4e2268"/>
+            <p>67</p>
+            <p>him to come to Union C. &amp; make a speech. - Which he did in Sept. 1851 - our people are delig-hted with him &amp; his speech, and in the evening I
+				   drove him from New Berlin to Northumberland, - When we both spoke that evening at a large democratic meeting - on our way to North-umberland the Judge</p>
+            <pb n="196" facs="0012_001702_000201_0196.jpg" xml:id="d4e2274"/>
+            <p>told me that he exp-ected to be Secretary of State for Gov Bigler &amp; then he said &quot;if you want any thing you can get it&quot; - he said I had
+				   done him great good service in fight-ing Cameron in his strong-hold - his native county, and that he would be most happy to help me in return, if he
+				   was secretary for Bigler etc. - I thank&apos;d him &amp; said</p>
+            <pb n="197" facs="0012_001702_000201_0197.jpg" xml:id="d4e2278"/>
+            <p>69</p>
+            <p>I had never thought of an office, that what I had done in my humble way was done for the cause without hope of reward - but if he was Secretary of
+					State &amp; felt inclin&apos;d to help me, I would be glad to be flour inspector for Phila. - that I was a practical Miller &amp; therefore I felt
+				   Qualified etc.</p>
+            <pb n="198" facs="0012_001702_000201_0198.jpg" xml:id="d4e2284"/>
+            <p>he said, &quot;well Bigler will be elected no doubt &amp; I expect to be Secretary of State, and if I am, you can Just consider yourself flour
+				   Inspector for Phila. - </p>
+            <p>I had no doubt he had an understanding with Bigler. &amp; I felt good, for the office was with $10,000 a year, and as I was not 29 years old</p>
+            <pb n="199" facs="0012_001702_000201_0199.jpg" xml:id="d4e2291"/>
+            <p>71</p>
+            <p>and had started as nothing.  I felt very good over it indeed, -</p>
+            <p>Well Bigler was elected &amp; I was an applicant for flour inspector. - Mr. Cameron liv&apos;d in our County &amp; was King for he was the only
+					Millionare in the county &amp; rul&apos;d with a rod of iron, - at a meeting in 1850 in New Berlin I had pass&apos;d this</p>
+            <pb n="200" facs="0012_001702_000201_0200.jpg" xml:id="d4e2299"/>
+            <p>Resolution - Resolv&apos;d that Simon Cameron &amp; Felty Best have proven themselves traitors to the democratic party, &amp; the sooner that they
+					&amp; all the traitors who adhere to them, go over to the Whigs, Where there hearts are, the better for the democratic party&quot;</p>
+            <p>Felty Best was Speaker of the Pa. Senate then, - and</p>
+            <pb n="201" facs="0012_001702_000201_0201.jpg" xml:id="d4e2305"/>
+            <p>73</p>
+            <p>had got there by selling himself to the Whigs - although the democrats had elected him from Danville, - he was despis&apos;d by all true democrats
+					&amp; hence it was that I put him in with Cameron, - When Cameron got very angry at me for having that Resolution posted, for both he  and Simon were
+				   then Dem-ocrats - of course, all, the Cameron men in Union County were down on me - Also over the whole state I had their opposition, - led by Simon
+				   Cameron him-self, - Who waited as Gov Bigler himself &amp; ask&apos;d as a special favor to him that, I should not be appointed, - this I had from
+				   Gov Bigler himself - Well a few weeks before the inauguration of Gov Bigler I was in Lewisburg one day &amp; Mr. Thos. Hayes an old merchant, with
+				   Whom I had a great deal of traffic - told me that Col Henry Gross of Centre Co. had been to see him - that he was also an Applicant for flour Inspector,
+				   and</p>
+            <pb n="202" facs="0012_001702_000201_0202.jpg" xml:id="d4e2311"/>
+            <p> and Simon were
+					then Dem-ocrats - of course, all, the Cameron men in Union County were down on me - Also over the whole state I had their opposition, - led by Simon
+					Cameron him-self, - Who waited as Gov Bigler himself &amp; ask&apos;d as a special favor to him that, I should not be appointed, - this I had from
+					Gov Bigler himself - Well a few weeks before the inauguration of Gov Bigler I was in Lewisburg one day &amp; Mr. Thos. Hayes an old merchant, with
+					Whom I had a great deal of traffic - told me that Col Henry Gross of Centre Co. had been to see him - that he was also an Applicant for flour Inspector,
+					and</p>
+            <p>that he had shown him a letter from Judge Woodward to Gov Bigler urging him for flour Inspector for Phila.! - I could hardly think this possible. -
+					but I wrote Woodward at once &amp; he replied it was time he had given Gross a letter, - but on the condition that I was not an applicant! - Gross
+				   had told him</p>
+            <pb n="203" facs="0012_001702_000201_0203.jpg" xml:id="d4e2317"/>
+            <p>75</p>
+            <p>that he had shown him a letter from Judge Woodward to Gov Bigler urging him for flour Inspector for Phila.! - I could hardly think this possible. -
+					but I wrote Woodward at once &amp; he replied it was time he had given Gross a letter, - but on the condition that I was not an applicant! - Gross
+					had told him</p>
+            <pb n="204" facs="0012_001702_000201_0204.jpg" xml:id="d4e2323"/>
+            <p>that I had withdrawn on account of the Cameron opposit-ion!</p>
+            <pb n="205" facs="0012_001702_000201_0205.jpg" xml:id="d4e2327"/>
+            <p>77</p>
+            <p>&gt;And in this report, he had given him this conditioned letter, - but he sent me a strong letter to Bigler and with drew what he had wrote in favor
+					of Gross - I felt provok&apos;d at the Judge - but took his letter &amp; went to Clearfield to see Bigler himself, - I found the Governor was
+					willing to appoint me</p>
+            <pb n="206" facs="0012_001702_000201_0206.jpg" xml:id="d4e2333"/>
+            <p>but was afraid of the Cameron influence which was so strong ag-ainst me, - he sat up in his House till after midnight &amp; talk&apos;d it all
+					over, - finally he said - &quot;Woodward wants to be Secretary of State, - and is mad as a hornet because I cant appoint him - you can reconcile
+					him &amp; if you do</p>
+            <pb n="207" facs="0012_001702_000201_0207.jpg" xml:id="d4e2337"/>
+            <p>79</p>
+            <p>and he asks your appointment as a personal favor, I can say - well I had to do something for Wood-ward &amp; he insisted on Shriner&apos;s
+				   appointment.</p>
+            <p>I thought this equal to saying he would appoint me if the Judge would ask it as a favor to himself. - So I drove at once to Wilkes-barre where</p>
+            <pb n="208" facs="0012_001702_000201_0208.jpg" xml:id="d4e2345"/>
+            <p>the Judge livd. - </p>
+            <p>I found him trying a harder case, &amp; as mad as a man could be at Bigler - Call&apos;d him a Liar &amp; villian etc. - said he would neither
+					give him or me any thing &amp; that he would not go near him etc. - </p>
+            <p>I took tea with him at his House, - and after a long</p>
+            <pb n="209" facs="0012_001702_000201_0209.jpg" xml:id="d4e2353"/>
+            <p>81</p>
+            <p>talk, in which I told him that but for him I never would have been an applicant &amp; that how I must insist that he go to Harrisburg &amp; ask
+				   the Gov to appoint me, - he at last ag-reed to do so , assoon as the murder trial was over, Which he did - but with great reluctance, saying it</p>
+            <pb n="210" facs="0012_001702_000201_0210.jpg" xml:id="d4e2360"/>
+            <p>would do no good etc. - but he came &amp; met me at the old &quot;Buehler Hotel&quot; in Harrisburg and I recd. the office - </p>
+            <p>the Gov required me to live in Phila. &amp; I rented a House on 10th St. - one down south of Bruin St. in North Phila. &amp; liv&apos;d there during
+					one winter - long enough to gain a residence - this was in the Winter of 1852 &amp; 1853. -</p>
+            <pb n="211" facs="0012_001702_000201_0211.jpg" xml:id="d4e2366"/>
+            <p>83</p>
+            <p>having been married to Elizabeth Forster on the 30th day of december 1852 we went at once to Phila. &amp; began Housekeeping, - and I would have
+				   been very happy - but for a heavy loss I had met by enclosing notes for a friend, one Jno. Plank, by Where I lost nearly ten thousand dollars Which
+				   kept me &quot;hard up&quot;, for seven years</p>
+            <pb n="212" facs="0012_001702_000201_0212.jpg" xml:id="d4e2372"/>
+            <p>in May 1853 I went to New York City &amp; to Albany, where I spent 4 days taking depositions for a suit I had in the U S Court at Williamsport Pa.
+				   about a patent right - Judge Hilton was my Atty in Albany - the man who afterward became the Heir to the great H T Stewart Estate worth over 50
+				   Million - very <unclear reason="illegible" resp="PW">bife our</unclear> with</p>
+            <pb n="213" facs="0012_001702_000201_0213.jpg" xml:id="d4e2379"/>
+            <p>85</p>
+            <p>me. - and from Albany we went to Niagaria falls &amp; spent 4 days - the first time I had ever seen the falls. - from there went to St. Catherines
+					Canada to see Mr. Hathaway the Patenter whose right I was sued for infring-ing - I got him to come to Williamsport &amp; help me in the trial which
+				   I gain d in</p>
+            <pb n="214" facs="0012_001702_000201_0214.jpg" xml:id="d4e2385"/>
+            <p>June 1853 - the suit had been in Law for over 5 years &amp; a history of the case is printed in the &quot;Lewis-burg Democrat&quot; a paper own&apos;d
+					&amp; printed by my Youngest Brother Saml. B Shriner, who died in the winter of 1868 - I have a Bound copy of that &quot;Lewisburg Democrat&quot; now
+				   in the House no 3223 Calumet Av Chicago, my present Home, oct 3d.</p>
+            <pb n="215" facs="0012_001702_000201_0215.jpg" xml:id="d4e2389"/>
+            <p>87</p>
+            <p>1890, - having mov&apos;d here on the 24th of May 1890 - from Dixon Ills. where I had liv d about ten Years, - if this &quot;History&quot; is ever
+					printed I want the history of that Law Suit in the U S Court printed with it, - hence the reference to it here &amp; now.</p>
+            <p>Well from Niagaria falls we went to Erie Pa.</p>
+            <pb n="216" facs="0012_001702_000201_0216.jpg" xml:id="d4e2397"/>
+            <p>to see my life long friend Hon Morrow B <unclear reason="illegible" resp="PW">Lororny</unclear> Who was one of God Almi-ghtys Noblemen. - we had
+					been friends for a many many Years &amp; I had an admiration for him, far beyond any form of Language I have to tell, - he began the world poor -
+					a canal driver like Garfield &amp; got</p>
+            <pb n="217" facs="0012_001702_000201_0217.jpg" xml:id="d4e2404"/>
+            <p>89</p>
+            <p>to be several times a Millionare - he was before the war a Dem-ocrat like myself &amp; we often met as Delegates in State Conventions in Harris-burg
+					Pa. - he was for many Years State Senator from Crawford &amp; Erie Co&apos;s Pa. - and one of the few men When votes were not for sale - he was one
+				   of the </p>
+            <pb n="218" facs="0012_001702_000201_0218.jpg" xml:id="d4e2410"/>
+            <p>most elegant talkers I ever heard - he had red hair &amp; wore rufled shirts till the day of his death &amp; a white cra-vat, which gave him the
+					appearance of a prea-cher for which he was often taken, although a little profane in his Younger days, - he &amp; James Buchannan were great friends
+				   for many Years - but</p>
+            <pb n="219" facs="0012_001702_000201_0219.jpg" xml:id="d4e2414"/>
+            <p>91</p>
+            <p>finally became en-emies in this way, - in 1845 Buchannan was Secretary of State for President Polk  Lowry was then rich &amp; wanted to go to Europe
+					as Consul, Which Buchannan had promis&apos;d to give him </p>
+            <p>Lowry&apos;s Wife was in bad health &amp; Buchannan &amp; her were fast friends - Lowry wanted to take</p>
+            <pb n="220" facs="0012_001702_000201_0220.jpg" xml:id="d4e2422"/>
+            <p>her abroad for her health &amp; he wanted the Consulship to give him Character &amp; Standing in Euirope, - well he waited &amp; waited, but no
+					appointment came - mean time his wife got worse &amp; worse &amp; finally died. - While she was lying a corpse he rec d. a letter from old Buch.
+					saying &quot;I am sorry that</p>
+            <pb n="221" facs="0012_001702_000201_0221.jpg" xml:id="d4e2427"/>
+            <p>93</p>
+            <p>hitherto I have not seen my way clear to give you a con-sulship - but now there is a Vacancy - come on to Washington &amp; bring Mrs Lowry with you
+					&amp; You shall have the place, - dont fail to bring Your wife along, for I want You to know that I give You this on account of my</p>
+            <pb n="222" facs="0012_001702_000201_0222.jpg" xml:id="d4e2433"/>
+            <p>great &amp; ardent friend-ship for Mrs Lowry etc. etc. - Well Lowry was indignant, - he felt that but for this fatal delay they might be in Europe
+					&amp; his wife on her road to health - he took old Buchs letter &amp; wrote over the back - &quot;Mrs. Lowry has gone to Heaven, - and You may go to
+				   H-ll - Your</p>
+            <pb n="223" facs="0012_001702_000201_0223.jpg" xml:id="d4e2437"/>
+            <p>Ex friend Morrow B Lowry&quot;</p>
+            <p>I think he was wrong in this - but give it as Charact-eristick of the Man - he was a Man of terrible passions - but with a kind heart &amp; never
+				   forgot a friend, - he was a tanner in early life in Crawford C. Pa. - So was old John Brown. - </p>
+            <pb n="224" facs="0012_001702_000201_0224.jpg" xml:id="d4e2443"/>
+            <p>&quot;When soul goes mar-ching on&quot; - <unclear reason="illegible" resp="PW">thin Fanne-ries were close</unclear> together in Crawford County Pa.
+					and both were Abolition-ists, - When Brown was under sentance of death in Virginia - Lowry was a State Senator in Pa. &amp; went down to see old
+				   John Brown, - at that time it was dangerous for a North-ern man to go to</p>
+            <pb n="225" facs="0012_001702_000201_0225.jpg" xml:id="d4e2450"/>
+            <p>95</p>
+            <p>Virginia, especially if he was suspected of being an abolitionist, - Lowry told me himself that he would have been torn to pieces by the mob - if
+				   Gov Wise had not ord-ered out a Regiment of soldiers to protect him, -</p>
+            <p>Lowry said to me - &quot;I sat in his cell with old John Brown while Gov Wise made a speech to the crowd in front of the</p>
+            <pb n="226" facs="0012_001702_000201_0226.jpg" xml:id="d4e2458"/>
+            <p>Jail - he said Wise took up a small boy of about 9 or 10 Years of age &amp; Stood him on the table before the cro-wd and said. - &quot;if war
+					comes this boy can put a whol regiment of the Northern men to flight&quot;</p>
+            <p>Lowry ask&apos;d Gov Wise if he did not think Brown insane? - Yes, Wise said he did - then will you not pardon him? - do you think it right to 
+				   hang an insane man? - Yes said Wise, all</p>
+            <pb n="227" facs="0012_001702_000201_0227.jpg" xml:id="d4e2464"/>
+            <p>97</p>
+            <p>Men who have that kind of Insanity ought to hang&apos; - Brown told Lowry he did not want to be pardoned - he said &apos;I am old &amp; must
+					soon die anyhow &amp; if they hang me - it will free more slaves than I could free if I liv d a Hundred Years&quot;</p>
+            <p>poor Lowry the Brilliant Senator, became Insane himself about 1878 - and the last time I ever saw him</p>
+            <pb n="228" facs="0012_001702_000201_0228.jpg" xml:id="d4e2472"/>
+            <p>was in Kirk-Brides Asylum, Phila. in 1879 - I spent 2 hours with him, before I could see any thing wrong - he was still the most elegant talker - 
+					wore his ruffle shirt - dress&apos;d nicely &amp; I could not see any thing wrong - till he began to talk about his wife. - he said she had
+					conspir&apos;d with their preacher to put him in the Asylum &amp; get his property - all of which I knew was a mis take - but</p>
+            <pb n="229" facs="0012_001702_000201_0229.jpg" xml:id="d4e2476"/>
+            <p>99</p>
+            <p>he was a Monomaniack on that subject, from Erie we went to Ohio &amp; from there to Beaver County Pa. - When I bought a farm of 145 acres on the
+				   Banks of the Ohio river 33 miles below Pitts-burg and Joining the Village of Shipping-port - this was in May 1853 - I liv d in Beaver County 7
+				   Years &amp; return&apos;d to Union County Pa. in Apr 1860 &amp; bought &amp; rebuilt a House in old</p>
+            <pb n="230" facs="0012_001702_000201_0230.jpg" xml:id="d4e2482"/>
+            <p>Mifflin burg Pa. - I made mony in Beaver Co by buying &amp; selling land, - the farm on the Ohio river was one of the most beautiful &amp; fertile
+					I ever saw - it had a big Brick House 2 1/2 stories high - standing back on the secur&apos;d bank - about 100 Yards from the Ohio river, Which is
+					famous for it&apos;s beautiful scenery the world over - I dont think I ever saw any-</p>
+            <pb n="231" facs="0012_001702_000201_0231.jpg" xml:id="d4e2486"/>
+            <p>101</p>
+            <p>thing to equal the scenery along that river - we had but few Rail roads there - people travell&apos;d on the big steamers Which were floating
+				   Palaces</p>
+            <p>in 1854 the Commerce on the Ohio amounted to over Eight Hundred Mill-ions of dollars ! - our House had large Porches in front from which we could
+					see the big Steamers for miles up &amp; down the River -</p>
+            <p>I held my office</p>
+            <pb n="232" facs="0012_001702_000201_0232.jpg" xml:id="d4e2497"/>
+            <p>in Phila. 3 years - from 1852 to 1855 - we spent the summer of 1853 in Beaver Co - I went to Phila. once a month to Look after my office - I had 4
+					deputies in Phila. who perform&apos;d all the duties of the office - except signing papers &amp; making reports. - Which I did my self. - Gov Bigler
+				   was defeated in 1854 by Gov Pollock Who was elected by the</p>
+            <pb n="233" facs="0012_001702_000201_0233.jpg" xml:id="d4e2501"/>
+            <p>103</p>
+            <p>Whigs &amp; &quot;Know Nothing&quot; party - of course I had oppos&apos;d Pollock &amp; lost my office at the end of Biglers term in 1855 - We liv d
+					on the farm on the Ohio river untill Apr 1st 1856 - then I ren-ted it to a tenant &amp; mov&apos;d to Phillips-burg a german Village, 8 miles above
+					Shipping-port &amp; opposite Beaver town at the mouth of Bearn-river</p>
+            <pb n="234" facs="0012_001702_000201_0234.jpg" xml:id="d4e2507"/>
+            <p>in Agst. 1856 I was nominated by the democratic County Convention of Bearn County, as their candidate for the Legislature. - I Stump&apos;d
+					Bearn County &amp; Also spoke at many meetings in Butler Allegehny - Northumberland &amp; other Counties, - I spoke in English &amp; german
+					- in Pitts-burg I spoke to over ten thousand Ger-mans - on the same</p>
+            <pb n="235" facs="0012_001702_000201_0235.jpg" xml:id="d4e2511"/>
+            <p>105</p>
+            <p>day that Jno C Breck-enridge spoke - he was our candidate for Vice President on the ticket with James Buchannan. - </p>
+            <p>I think he was the most Elegant Speaker I ever heard - and he had an audience of forty thousand people - My speaking that day was a mere
+					accident - A great German Scholar &amp; writer had</p>
+            <pb n="236" facs="0012_001702_000201_0236.jpg" xml:id="d4e2519"/>
+            <p>been invited to speak German at that meeting ( the Editor of the great New <unclear reason="illegible" resp="PW">Yen</unclear> German paper
+					the &quot;Staats Gietung&quot; )- </p>
+            <p>While I was listening to Breckenridge, some man came up behind &amp; nearly pull&apos;d me from the stand - he said - &quot;we want you to
+					come over to the German stand at once - and talk dutch - this man <unclear reason="illegible" resp="PW">Dietz faw</unclear> New</p>
+            <pb n="237" facs="0012_001702_000201_0237.jpg" xml:id="d4e2531"/>
+            <p>107</p>
+            <p>York is making a dead failure - he has ten thousand Ger-mans - over there, - he has talk&apos;d an hour - and has never rais&apos;d a single
+					Cheer&quot; - I went over &amp; heard him a short time - he was making an elegant Speech - far better than I could make, - but he was talking
+					over their heads - &amp;</p>
+            <pb n="238" facs="0012_001702_000201_0238.jpg" xml:id="d4e2537"/>
+            <p> besides , he was speaking pure german , While most of his audience were Pa. dutch. - </p>
+            <p>I shot a little lower, talk&apos;d dutch - told them stories etc. - and they soon began to Cheer - &quot;Hurrah for Shriner&quot; etc. - and
+					although my speech eas not half as good as his, I got the honor &amp; applause</p>
+            <pb n="239" facs="0012_001702_000201_0239.jpg" xml:id="d4e2543"/>
+            <p>109</p>
+            <p>for beating the great German leader and Editor - Dietz from New York -</p>
+            <p>Judge Thos. Cunningham of Bea-ver was a candidate for Congress on the Dem ticket with my-self &amp; we attended many meetings together - he 
+					was a very able man - but of course we were both beaten for the Whigs &amp; know Nothings</p>
+            <pb n="240" facs="0012_001702_000201_0240.jpg" xml:id="d4e2551"/>
+            <p>had a <unclear reason="illegible" resp="PW">Jna Geritz</unclear> of over 3 thousand in the district. - my district for the Legislature was
+					Compos&apos;d of 3 counties - to wit Beaver - Laurance &amp; Butler Countie&apos;s.</p>
+            <p>Judge Thos. Cunningham the candidate for congress I have said was a very able man, - and a very bitter and Sarcastic Speaker, - his speeches
+					were so well rec d. by the people that he got to think he would be Elected to Congress</p>
+            <pb n="241" facs="0012_001702_000201_0241.jpg" xml:id="d4e2560"/>
+            <p>111</p>
+            <p>and took his defeat rather hard - but his wounds were heal&apos;d soon after the election by an appointment from President Pierce, as U S. Judge
+					for Kansas - he was delighted with this as he thought it would be a stepping stone to something higher - he spent the Sunday before he left for
+					Kansas at our House in Phillips-burg</p>
+            <pb n="242" facs="0012_001702_000201_0242.jpg" xml:id="d4e2566"/>
+            <p>and told me his plans - he said &quot;Kansas will soon be admitted as a state, - and I will make it a point to be elected U S Senator When it is
+					admitted, - he went to Kansas &amp; in a few months resign&apos;d &amp; came home, - I met him in Rochester as he stepp&apos;d from the cars on
+					his return - he was very much</p>
+            <pb n="243" facs="0012_001702_000201_0243.jpg" xml:id="d4e2571"/>
+            <p>113</p>
+            <p>down cast - I said Judge, I see by the papers you have resign&apos;d - is it true? - he said Yes - I have. - come over to my house to see me &amp;
+					I will tell you the reason why - I can&apos;t tell you here in this crow&apos;d, - a few days after - I went to see him &amp; after some preliminary&apos;s
+					he told me - he said &quot;When You &amp; I stump d this district last fall we told (transfer&apos;d to front of this book)   page 22</p>
+            <pb n="244" facs="0012_001702_000201_0244.jpg" xml:id="d4e2577"/>
+            <p>Mifflin burg  Jany 6th, 1874</p>
+            <table>
+               <row role="data">
+                  <cell>inventory</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Rocky mill, New Wolf Wheel</cell>
+                  <cell>$11,000.00</cell>
+               </row>
+               <row role="data">
+                  <cell>320</cell>
+                  <cell>acre farm in Mo</cell>
+                  <cell>7,500.00</cell>
+               </row>
+               <row role="data">
+                  <cell>21</cell>
+                  <cell>1/2 acres, irwin tract</cell>
+                  <cell>1 000.00</cell>
+               </row>
+               <row role="data">
+                  <cell>24</cell>
+                  <cell>1/2 acres,  tract</cell>
+                  <cell>1 200.00</cell>
+               </row>
+               <row role="data">
+                  <cell>180</cell>
+                  <cell>acres  Hillish  tract</cell>
+                  <cell>1 600.00</cell>
+               </row>
+               <row role="data">
+                  <cell>120</cell>
+                  <cell>acres   tract</cell>
+                  <cell>1 000.00</cell>
+               </row>
+               <row role="data">
+                  <cell>120</cell>
+                  <cell>acres  Hillish &amp; </cell>
+                  <cell>1 100</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>4  lots</cell>
+                  <cell>850</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell> Mill</cell>
+                  <cell>4 400</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell>750</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Geo Zeller Mortgage</cell>
+                  <cell>500</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Jno </cell>
+                  <cell>150</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Hursh &amp; Co   Note</cell>
+                  <cell>100</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Mrs. </cell>
+                  <cell>173</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Furniture horses etc.</cell>
+                  <cell>1 175</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Cash in Bank</cell>
+                  <cell>200</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Cash M Ready</cell>
+                  <cell>3000</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Cash Union Nat Bk</cell>
+                  <cell>1500</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Shingle Mill engine etc.</cell>
+                  <cell>1000</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Andy Sechler</cell>
+                  <cell>125</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>Wisconsin Land</cell>
+                  <cell>1000</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell>48,423</cell>
+               </row>
+            </table>
+            <pb n="245" facs="0012_001702_000201_0245.jpg" xml:id="d4e2744"/>
+            <p>Genl. Jackson spoke at great length of Henry Clay - said that in 1840 he (Clay) came to Nashville &amp; made a speech &quot;Slandering the living &amp; the
+				   dead&quot; -  he said - &quot;I suffer he thought I had no friends here, - but they - (his friends) came out &amp; told me - and I order&apos;d out my carriage
+				   &amp; drove to Nashville &amp; made him take back his words&quot; - he did not explain What Clay had said - but when we got back to Nashville I repeated What
+				   Genl. Jackson had said, and the people then explaind the whole thing in this way - Henry Clay said in his Nashville speech - that Genl. Jackson had appointed a
+				   defaulter to a high office - but did not explain the facts  Which were aas follows, - A man of high Character was collector at New Orleans</p>
+            <pb n="246" facs="0012_001702_000201_0246.jpg" xml:id="d4e2748"/>
+            <p>his name I think was Livingstone</p>
+            <p>While he was sick almost to death - his Chief Clerks stole one Hundred thousand dolls &amp; ran off. - in this way he became a defaulter &amp; resign&apos;d
+					- he was a fine Lawyer &amp; by his practice made $90,000 &amp; paid it into the treasury &amp; his old sister paid $10,000 to make up the rests - </p>
+            <p>Genl. Jackson then gave him the same office back - and Henry Clay who was then in the Senate &amp; knew all the facts voted to confirm him - these facts
+					Jackson publish&apos;d in the Nashville papers &amp; sent Clay a note asking him to confirm them - or, he would ask him for - &quot;the Satisfaction due
+					among Men of honor&quot;</p>
+            <pb n="247" facs="0012_001702_000201_0247.jpg" xml:id="d4e2756"/>
+            <p>Clay came out in the Nashville papers &amp; Confirm&apos;d all Jackson had said, - in conclusion Jackson said - &quot;Henry Clay - I have known him from a 
+					boy - and to my certain knowledge he never done a good act from dis interested motives&quot; - </p>
+            <p>during the 3 hours we spent at the &quot;Hermitage&quot; - Genl. Jackson talk&apos;d nearly all the time, &amp; among other things he spoke of the one thousand
+					dollar fine impos&apos;d on him by Judge Hall for proclaiming Martial law at New orleans in 1815 -</p>
+            <pb n="248" facs="0012_001702_000201_0248.jpg" xml:id="d4e2762"/>
+            <p>he said - &quot;I alwys knew I had not violated the Constitution, by proclaiming Martial law - but I never could tell the reason why, untill I read the great
+					speech of Judge Douglass on that subject&quot; - he said further - &quot;Now I can pay my debt &amp; die at peace - (the fine with interest amounted to nearly
+					$4,000) - &quot;but he said &quot;I did not care for the mony so much, - but I did not want to die with a stigma on my Character&quot;</p>
+            <pb n="249" facs="0012_001702_000201_0249.jpg" xml:id="d4e2766"/>
+            <table>
+               <head>Index from page ,40</head>
+               <row role="data">
+                  <cell>this book</cell>
+                  <cell>Pags</cell>
+               </row>
+               <row role="data">
+                  <cell>bought a house in 1844 in Lewis burg Pa Alice born in it }</cell>
+                  <cell>41</cell>
+               </row>
+               <row role="data">
+                  <cell> bought farm in 1848 &amp; Exchang&apos;d it for Mill in 1851</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>James Buchannan &amp; Gov Bigler visit me Also Judge Woodward }</cell>
+                  <cell>43</cell>
+               </row>
+               <row role="data">
+                  <cell>Gov Bigler, gave me 1st flour Inspector &amp; then Whiskey
+							Inspector}</cell>
+                  <cell>45</cell>
+               </row>
+               <row role="data">
+                  <cell>how Buchannan &amp;</cell>
+                  <cell> }47</cell>
+               </row>
+               <row role="data">
+                  <cell>Woodward treated me</cell>
+                  <cell>}59</cell>
+               </row>
+               <row role="data">
+                  <cell>Woodward at New Butler</cell>
+                  <cell> }63</cell>
+               </row>
+               <row role="data">
+                  <cell>Col gross &amp; =</cell>
+                  <cell>75</cell>
+               </row>
+               <row role="data">
+                  <cell>trouble comes =</cell>
+                  <cell>81</cell>
+               </row>
+               <row role="data">
+                  <cell>Patent right suit =</cell>
+                  <cell>85</cell>
+               </row>
+               <row role="data">
+                  <cell>Hon Morrow B Lowry =</cell>
+                  <cell>89</cell>
+               </row>
+               <row role="data">
+                  <cell>7 years in Beaver Co =</cell>
+                  <cell>100</cell>
+               </row>
+               <row role="data">
+                  <cell>in 1856 ran for the Legislature =</cell>
+                  <cell>105</cell>
+               </row>
+            </table>
+            <pb n="250" facs="0012_001702_000201_0250.jpg" xml:id="d4e2843"/>
+            <table>
+               <row role="data">
+                  <cell>Index brot over</cell>
+                  <cell>Page</cell>
+               </row>
+               <row role="data">
+                  <cell>Judge Cunningham =</cell>
+                  <cell>111</cell>
+               </row>
+               <row role="data">
+                  <cell>transferd to front of this book pags =</cell>
+                  <cell>115</cell>
+               </row>
+               <row role="data">
+                  <cell>Gov Geary =</cell>
+                  <cell>118</cell>
+               </row>
+               <row role="data">
+                  <cell>Presidential Election in 1864, for Lincoln}</cell>
+                  <cell>124</cell>
+               </row>
+               <row role="data">
+                  <cell>Lincoln appoints me Collector of Int. Rev}</cell>
+                  <cell>125</cell>
+               </row>
+               <row role="data">
+                  <cell>U S Senator Quay =</cell>
+                  <cell>128</cell>
+               </row>
+               <row role="data">
+                  <cell>Economites of Beaver =</cell>
+                  <cell>135</cell>
+               </row>
+               <row role="data">
+                  <cell>Rapp - Count Leon = </cell>
+                  <cell>150</cell>
+               </row>
+               <row role="data">
+                  <cell>I bought his House Charlie born in it</cell>
+                  <cell>154</cell>
+               </row>
+               <row role="data">
+                  <cell>in 1860 move back to Union County Pa }</cell>
+                  <cell>159</cell>
+               </row>
+            </table>
+            <pb/>
+            <pb n="252" facs="0012_001702_000201_0252.jpg" xml:id="d4e2905"/>
+            <p>Charles H. Shriner&apos;s</p>
+            <p>Book</p>
+            <p>to</p>
+            <pb/>
+            <pb/>
+            <pb n="255" facs="0012_001702_000201_0255.jpg" xml:id="d4e2922"/>
+            <p>Inside Back Cover</p>
+            <pb n="256" facs="0012_001702_000201_0256.jpg" xml:id="d4e2926"/>
+            <p>Back Cover</p>
+            <p>Shriner&apos;s Travels in America</p>
+         </div>
+      </body>
+   </text>
+</TEI>

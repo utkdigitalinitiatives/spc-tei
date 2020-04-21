@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000215_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>John Shrady</name>
+					in Louisville, Ky., to Jeannie Shrady in New York, N.Y.,
+					<date when="1863-03-19">
+						1863 March 19
+					</date>
+            </title>
+        <author>
+          <name type="person">Shrady, John</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000068_000215_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Shrady in Louisville, Ky., to Jeannie Shrady in New York, N.Y., 1863 March 19</title>
+          <date when="1863-03-19">
+						1863 March 19
+					</date>
+          <author>
+            <name type="person">John Shrady</name>
+          </author>
+          <title>Letter, <name>John Shrady</name>
+					in Louisville, Ky., to Jeannie Shrady in New York, N.Y.,
+					<date when="1863-03-19">
+						1863 March 19
+					</date>
+               </title>
+          <date>2007-02-21</date>
+          <author>
+            <name>Shrady, John</name>
+          </author>
+          <date when="1863-03-19">
+						1863 March 19
+					</date>
+          <extent>2 pages</extent>
+          <note type="abstract">In this letter, dated March 19, 1863, from  Louisville, Ky., John Shrady, a regimental surgeon, writes to his wife, Jeannie, in New York City, expressing his keen desire to spend time with her and get back home.  He opines that he thinks the war should not last too much longer, saying that "Rebeldom" will cause more harm and then "like the whipped spaniel she will crawl back to her natural masters."  He also notes that suspicion has made it difficult for regular citizens to travel:  "Now every one is suspicious - baggage - I mean that of citizens, is searched &amp; sealed."</note>
+          <note type="collection">John Shrady Letters, 1863</note>
+          <note type="manuscript">MS.1436</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e96">
+        <pb n="1" facs="0012_000068_000215_0001.jpg" xml:id="d4e97"/>
+        <p>Louisville, Ky, March 19th 1863</p>
+        <p>My Darling Jeannie,</p>
+        <p>As you must know that when at home, you could not find much fault with me for seeking pleasure elsewhere than in your society, so during my absence my first impulse at every leisure moment is to write to you.  To-day I am awaiting transportation to the Regimental camp which is at Lexington; this cannot be furnished until to-morrow morning at six o'clock - and I avail myself of the opportunity of holding a little chat with the dear object of my affections upon paper, since a cruel fate has denied me the privilege of seeing her face to face.  Alas poor me and I will add poor you - our pleasures belong to the past and I fondly hope to the future.  I know that if our lives be spared by the Great Ruler of the Universe once more to meet, we will be as happy as of yore - blissful moments will then be ours, will they not, my darling?  Your heart, as mine, beats a Yes.  Then let us hope on and pray for the flight of time, as children wish for a holiday.  It will, indeed, be a holiday - a holiday without a drawback - all pure, bright and sunny - the very air, no matter how gloomy the outside day, will be inspiring, birds will chirp in our souls, even though winter may have driven them to their asylums &amp; the busy world hears not their notes and we will hold each others hands and look, if we cannot utter our bliss.  If earth has a pleasure, is it not this?  Let <unclear reason="Illegible" resp="JH">Bulwer</unclear> prate of his "Lake of Como" - what are its charms to this?  It is "Home sweet home" that breathes through the lute and sweeps the strings of the harp.  This is the skilful wizard that can conjure up joy at any moment.</p>
+        <p>Oh, how I would delight to surprise my darling at her sewing and greet her with a kiss!  How I would be repaid for "all the dangers that I have passed" - how all forgotten would be camp-fires - "the ear-piercing</p>
+        <pb n="2" facs="0012_000068_000215_0002.jpg" xml:id="d4e110"/>
+        <p>fife and soul-stirring drum." How every rapture would be swallowed up in that meeting.  May peace soon dawn - you, I know, will join me in the prayer.  How, every man that deserves the name, will shout at the consummation - how great will be his glee, when once more he tastes the sweets of liberty.  Now every one is suspicious - baggage - I mean that of citizens, is searched &amp; sealed - you cannot move without a pass and wo betide the man, who short of funds, cannot prove his identity - he must stay &amp; spend his money where he is.  But Rebeldom is not yet humbled - her insatiate maw calls for more.  She craves utter devastation and if she waits much longer, she will be gratified and then like the whipped spaniel she will crawl back to her natural masters.  It seems to me, my Precious, that this war cannot last much longer - the rebel papers do not seem so sanguine, the kick a little spasmodically even now against Old Jeff and their Congress does not seem to be quite as much his tools.  "Straws," they say " show which way the wind blows" - may not they, in this case, be the earnest of a better future?</p>
+        <p>I am glad that Nell is more comfortable and I trust that she may be on the mends; Fan, I suppose, has returned from the country, improved in health, even by a few whiffs of rural air and Mother, I hope, is beginning to see the dawn of better days.  Remember me to them all and for yourself may Heaven's most precious gifts be showered on your heads - may our little pet grow up our pride and may we all meet under one roof, live to a good old age in all the enjoyment of our little fireside circle.  May God bless you &amp; keep you from all harm.  Believe me as ever your devoted husband, who is not truly happy but in your society.</p>
+        <p>Ever yours,</p>
+        <p>John</p>
+        <p>P.S. You need not write just yet.  I will write you again at Lexington, which I suppose will be our HeadQuarters - though I am not certain.  I will probably learn on my arrival.</p>
+        <p>Enclosed find $10.00, which will pay the postage &amp; leave you something over.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

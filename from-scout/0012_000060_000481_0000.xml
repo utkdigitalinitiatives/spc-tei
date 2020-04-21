@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000481_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1881-08-05">1881 Aug. 5</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000481_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1881 Aug. 5</title>
+               <date>1881-08-05</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 p.</extent>
+               <note type="abstract">1881 Aug. 5 Lyman C. Draper, Corresponding Secretary, Wisconsin State Historical Society, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Reports that his book is nearly ready for printing but that some biographical sketches were not as complete as desired. Mentions his lack of energy.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Authors, American -- History -- 19th century -- Biography.</term>
+               <term>Historians -- Wisconsin -- Madison -- History -- 19th century.</term>
+               <term>Historians --  Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>South Carolina -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Draper, Lyman Copeland, 1815-1891. King&apos;s Mountain and its heroes.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000481_0001.jpg" xml:id="d3e153"/>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville,</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000481_0002.jpg" xml:id="d3e165"/>
+            <p>Madison, Aug. 5th 1881</p>
+            <p>My Dear Dr. Ramsey --</p>
+            <p>Glad to receive your <unclear reason="illegible" resp="JR">Postal</unclear> card -- &amp; know that you are thinking of me -- &amp; that you are able to write to your friend.</p>
+            <p>My work has eked out longer in time that I had supposed: But I have been very busy. The work is nearly all in type by this time -- though some 70 pages of proof or more yet to be read -- &amp; index made, which I am now engaged in.</p>
+            <p>I should <unclear reason="illegible" resp="bds">guess</unclear>the volume <unclear reason="illegible" resp="bds">will be</unclear> out by 1st of Sept. -- as the covers are all made ready to put on -- &amp; a portion of the work printed.</p>
+            <p>I had to <unclear reason="illegible" resp="bds">blur</unclear> over most of the the biographies -- save</p>
+            <pb n="3" facs="0012_000060_000481_0003.jpg" xml:id="d3e195"/>
+            <p>Campbell&apos;s, as chief commander &amp; Cleveland&apos;s as embracing many unpublished <unclear reason="illegible" resp="JR">Tory</unclear> incidents. Shelby &apos; Sevier, you know are pretty well written up in your Tennessee Histories, &amp; Shelby in <unclear reason="illegible" resp="bds">Ky</unclear> works. But on the whole, I hope you will not feel like finding fault.</p>
+            <p>Those who complain of the delay will get a much better volume than they would had it appeared in the Spring or Early summer.</p>
+            <p>My health is about as usual -- can work -- yet have not vigor enough to make work a pleasure -- I do it as a duty.</p>
+            <p>A portion of our Summer has been very warm -- this month so far very oppressive.</p>
+            <p>May Heaven Kindly bless you.</p>
+            <p>Cordially &amp; Truly Yours,</p>
+            <p>Lyman C. Draper</p>
+         </div>
+      </body>
+   </text>
+</TEI>

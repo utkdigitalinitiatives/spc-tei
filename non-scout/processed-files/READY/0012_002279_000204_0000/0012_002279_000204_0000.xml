@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002279_000204_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>"Uncle Bob", R. M. Travis</name>
+				                     in Manila, Philippines, to W. T. Kennerly in Knoxville, Tenn.,  <date when="1900-09-02">1900 Sept. 02</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Last, First</name>
+        </respStmt>
+        <author>
+          <name type="person">"Uncle Bob", R. M. Travis</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002279_000204_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, "Uncle Bob", R. M. Travis in Manila, Philippines, to W. T. Kennerly in Knoxville, Tenn., 1900 Sept. 02</title>
+          <date when="1900-09-02">1900 Sept. 02</date>
+          <author>
+            <name type="person">"Uncle Bob", R. M. Travis</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.3281</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Travis family</term>
+          <term>Henry County (Tenn.) -- History.</term>
+          <term>Spanish-American War, 1898 -- Personal narratives, American.</term>
+          <term>Spanish-American War, 1898.</term>
+          <term>United States. Army. Infantry Regiment, 4th.</term>
+          <term>Washington (State) -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Last, First">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002279_000204_0001.jpg" xml:id="d4e39"/>
+        <p>MR. W. T. KENNERLY,</p>
+        <p>Knoxville,</p>
+        <p>P.O.Box 56.,</p>
+        <p>Tenn., U.S.A.</p>
+        <pb n="2" facs="0012_002279_000204_0002.jpg" xml:id="d4e49"/>
+        <p>postal stamp</p>
+        <pb n="3" facs="0012_002279_000204_0003.jpg" xml:id="d4e53"/>
+        <p>Manila P. I. Sept 2nd 1900</p>
+        <p>Mr W. T. Kennerly</p>
+        <p>Dear Nephew</p>
+        <p>It is with much pleasure that I acknowledge the receipt of your always welcome letter. Well Travis news with me is a Scarce Article as I am here in Manila in Charge of a Detachment of 37 men who are doing guard at the residence of Gen Bates and over the Regimental Propperty Stored here. I am pleasantly located and am in good health. My Duties here are light as I only have to keep a morning report Draw rations for the Detachment and make out the Guard and other Details. Geurilla warfare is carried on with great loss to our troops of late. The 15 th Infantry a few days after getting here was Ambushed in Laguna Province together with one Company of the 27 th and our loss was 24 killed and 18 wounded some of whom have since died. Assination seems to be another of their new moves as nearly every day or night some native who has been Loyal to the Americans is found manila or some of the</p>
+        <pb n="4" facs="0012_002279_000204_0004.jpg" xml:id="d4e63"/>
+        <p>outlying towns minus his head. These are certainly hard people to convince of the fact that we intend to rule them. General Pis Del. Pilar who was captured sometime ago and who signed the Amnesty Bill was given his freedom only to be caught here in Manila with an insurgent Officer hatching up more trouble. They are both studying out their Cussedness behind the Bans of Anda Street Prison. The Native Police Capt here who was more Spanish than Philipeno was assasinated on the street one night and other Native Police have been done away with since then. There is a move to take place in a few days from Imus South and I expecte they will sweep out the country. One of our Captains (McTuiston) who was in command of "M" Company went "Nutty" and shot a Sergeant of the Company dead and wounded two other men and was himself killed by a private. I consider that it was the best shot that has been fired in three Islands as the Officer was hated by every man. Well Travis I still intend to come back but at Present I have an Idea of going to Frisco and enlisting in the 7 th Infantry stationed in Alaska and getting a four months furlough. I don't know for certain but that is my intention at Present.</p>
+        <p>Your Uncle "Bob"</p>
+      </div>
+    </body>
+  </text>
+</TEI>

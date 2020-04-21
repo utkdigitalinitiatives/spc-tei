@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000296_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Morton</name>
+				                    in Havana to Charles Petit., <date when="1800-06-12">1800 June 12</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John Morton</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000296_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Morton in Havana to Charles Petit., 1800 June 12</title>
+               <date when="1800-06-12">1800 June 12</date>
+               <author>
+                  <name type="person">John Morton</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000296_0001.jpg" xml:id="d4e39"/>
+            <p>JMorton</p>
+            <p>Charles Pettit Esqre</p>
+            <p>Presdt. Insurance Compy.</p>
+            <p>of Nor: America</p>
+            <p>Capt. Watson</p>
+            <p>Br. Two Sisters      Philadelphia</p>
+            <p>John Morton</p>
+            <p>relative to Don Alvarez</p>
+            <p>Calderon <unclear reason="illegible" resp="pw">illegible</unclear>
+            </p>
+            <pb n="2" facs="0012_002414_000296_0002.jpg" xml:id="d4e61"/>
+            <p>Dear Sir.</p>
+            <p>I have had the honor to receive your letter, of the 23d. of April, on the subject of Messs. Donath &amp;Cos. claim against
+				       Don Alvarez Calderon of this island.</p>
+            <p>It would give me much pleasure to be able to transmit a satisfactory reply to this flattering mark of your &amp;their 
+				       confidence ;  by promising a more successful result to their application, than present circumstances warrant me to expect.</p>
+            <p>By this opportunity I have informed those Gentlemen that the elevated situation of Dn. Alvarez, precludes every other than
+				       the most leneint measures in their affair :  And to your good-self, Sir.  I must add, that I have reasons for having less confidence 
+				       in the &quot;Honor of a Spanish Gentleman&quot; that you appear disposed to indulge.</p>
+            <p>I shall however take those steps which, upon further deliberation may appear best, &amp;inform Messs. Donath of whatever
+				       may be finally adopted.</p>
+            <p>With the highest respect &amp;regard</p>
+            <p>I am,  Sir,  Your Obed. Servt.</p>
+            <p>Jno. Morton</p>
+            <p>Havana,  12. June 1800.</p>
+            <p>C. Pettit Esqr</p>
+         </div>
+      </body>
+   </text>
+</TEI>

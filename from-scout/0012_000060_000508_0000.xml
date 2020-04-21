@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000508_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1883-04-30">1883 Apr. 30</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000508_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Anson Nelson, Nashville, Tenn. to M.B.C. Ramsey, Knoxville, Tenn., April 30th 1883 </title>
+               <date>1883-04-30</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 p.</extent>
+               <note type="abstract">1883 Apr. 30 Anson Nelson, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Expresses regret that his and Judge Lea&apos;s visit to the Ramseys must be postponed. Urges her to write them concerning J.G.M.&apos;s condition.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Interpersonal relations -- Tennessee.</term>
+               <term>Well-being -- Age factors -- Tennessee -- Knoxville.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Friends and associates.</term>
+               <term>Nelson, Anson, 1821-1892 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e148">
+            <pb n="1" facs="0012_000060_000508_0001.jpg" xml:id="d3e149"/>
+            <p>If not delivered within 10 days, to be returned to</p>
+            <p>Anson Nelson</p>
+            <p>Nashville, Tenn</p>
+            <p>Mrs. Dr. J.G.M. Ramsey</p>
+            <p>Knoxville,</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000508_0002.jpg" xml:id="d3e167"/>
+            <p>Nashville,</p>
+            <p>April 30th 1883.</p>
+            <p>Mrs. Dr. Ramsey,</p>
+            <p>My Dear Friend:</p>
+            <p>Ever since the receipt of your letter, I have been trying to get off from my work for a few days to pay you a visit, with Judge Lea, who I know , wants to go also.</p>
+            <p>But it seems that Providence rules otherwise, for the present.</p>
+            <p>Judge Lea&apos;s son, <unclear reason="illegible" resp="JR">Anston</unclear> Lea, has recently been very sick, and he too has been with him a great deal. His interests at Memphis require his personal attention there. So, I think it more than probably that he will not be able to go</p>
+            <pb n="3" facs="0012_000060_000508_0003.jpg" xml:id="d3e190"/>
+            <p>to Knoxville for some time to come. If possible, Mrs. Nelson and I will come to see you as soon as we can, to spend a day or two in Knoxville. It will be some weeks before we can come, I regret to say.</p>
+            <p>We both send you a Great deal of love, and to the dear old doctor, and to all your family. We pray for you every day.</p>
+            <p>Very Truly Yours,</p>
+            <p>Anson Nelson</p>
+            <p>Do write me a line or two, when you can, telling me how the Doctor is.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001155_000201_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Eunice Susan (E.S.) Merrill</name>
+				                    in Knoxille, Tenn., to Mr. Theodore Merrill in Sidney, M.E., <date when="1848-10-02">1848 Oct. 02</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Eunice Susan (E.S.) Merrill</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001155_000201_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Eunice Susan (E.S.) Merrill in Knoxille, Tenn., to Mr. Theodore Merrill in Sidney, M.E., 1848 Oct. 02</title>
+          <date when="1848-10-02">1848 Oct. 02</date>
+          <author>
+            <name type="person">Eunice Susan (E.S.) Merrill</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">William Randolf Hackley Letter</note>
+          <note type="manuscript">MS.2752</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>East Tennessee Female Institute.</term>
+          <term>Merrill, E. S.,  (Eunice Susan), 1821-1891</term>
+          <term>Merrill, Theodore,  (Theodore Dean), 1823-1887</term>
+          <term>Education -- Tennessee -- Knoxville.</term>
+          <term>Women -- Education -- Tennessee -- Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001155_000201_0001.jpg" xml:id="d4e39"/>
+        <p>Mr Theodore Merrill</p>
+        <p>Sidney</p>
+        <p>Maine</p>
+        <p>Via Charleston</p>
+        <p>SC</p>
+        <pb n="2" facs="0012_001155_000201_0002.jpg" xml:id="d4e51"/>
+        <p>Knoxville Oct 2d - 48</p>
+        <p>My Dear Brother As last I have arrived at Knoxville after a journey of nine days from the time of leaving home. a journey which should have been performed in eight days but we were delayed one day on the Northern the steam vessel we took at N York on Saturday at 9 PM</p>
+        <p>The last port of our journey from Charleston was performed in 8 days and nights We left Charleston for Augusta Ga Wednesday morn a <unclear reason="illegible" resp="JCM">distance</unclear> of 190 miles arrived same night and then took cars for Atlanta Ga same night arrived at 9 thursday morn a distance of 171 miles then cars for Dalton Ga a distance of over 100 miles. There we expected a few miles staging to the Tennessee river but were told the river was so low <unclear reason="illegible" resp="JCM">loads</unclear> could not go up the <unclear reason="illegible" resp="JCM">Halstein</unclear> on which Tn is situated and that the remainder of our journey must be by stage <unclear reason="illegible" resp="JCM">To</unclear> we had our luggage put on the stage which started at 9 thursday evening a few moments after we left <unclear reason="illegible" resp="JCM">Dakkor</unclear> for Knoxville direct a distance of 120 miles road all night all day Friday and Friday night and arrived Knoxville about eleven Saturday morning I had scarcely got my head combed before it was announced that May Wallace <unclear reason="illegible" resp="JCM">&amp; Rob Rarnes</unclear> had called on me having heard of my arrival in a few moments after Mr <unclear reason="illegible" resp="JCM">WE Annelly prinerfed</unclear> of the</p>
+        <pb n="3" facs="0012_001155_000201_0003.jpg" xml:id="d4e81"/>
+        <p>Seminary <unclear reason="illegible" resp="JCM">&amp;</unclear> then Mrs cowan The <unclear reason="illegible" resp="JCM">lady</unclear> of the wealthiest man in Knoxville one of the <unclear reason="illegible" resp="JCM">trustees</unclear> of the school She wished me to go home with her and spend the <unclear reason="illegible" resp="JCM">Sabbeth</unclear> and so I did I came back to the mansion House this morning by particular request of the lady of the house who wishes me to make her house my home for the <unclear reason="illegible" resp="JCM">present.</unclear> Prof Barnes says he shall not expect me to do anything this week only to go in take the names of the scholars on Friday They had put off the <unclear reason="illegible" resp="JCM">command</unclear> of the term waiting for me</p>
+        <p>I will write all about my journey in a few days just as soon as I get settled The mail <unclear reason="illegible" resp="JCM">Seamy</unclear> so I can write no more Mr <unclear reason="illegible" resp="JCM">Mearus</unclear> is here will go to Panther Springs tomorrow He has been careful in taking care of our baggage which got here very safely</p>
+        <p>I can write no more now <unclear reason="illegible" resp="JCM">Good Morry</unclear>
+            </p>
+        <p>E S Merrill</p>
+        <p>Write just as soon as you get this and direct to Knoxville (East Tennessee)</p>
+        <p>Via Charleston</p>
+        <p>SC</p>
+        <p>a nigger maid is standing over me and wants to</p>
+        <p>know who I am writing to we pressed through Madisonville Friday afternoon and I just got out of the</p>
+        <p>stage and run in to see Maria one moment she is well commences school to day says to Mr Moores people she has not heard from one of them for a long time</p>
+      </div>
+    </body>
+  </text>
+</TEI>

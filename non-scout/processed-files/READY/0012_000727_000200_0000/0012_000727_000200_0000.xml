@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000727_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>C.S. Crofut</name>
+				                   in Chattanooga, Tenn., to Father,<date when="1878-10-16">1878 Oct. 16</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">C.S. Crofut</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000727_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, C.S. Crofut in Chattanooga, Tenn., to Father,1878 Oct. 16</title>
+          <date when="1878-10-16">1878 Oct. 16</date>
+          <author>
+            <name type="person">C.S. Crofut</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">C.S. Crofut's Letter about Yellow Fever</note>
+          <note type="manuscript">MS.2270</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Chattanooga (Tenn.) -- History.</term>
+          <term>Yellow fever -- Tennessee.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000727_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Chattinooga, Tenn</p>
+        <p>Oct. 16th " 78</p>
+        <p>Dear Father</p>
+        <p>Well Father I will try and drop you a line although there is no news other than, {Yellow Fever}</p>
+        <p>Chattinooga had before the Scorge about 15,000, inhabitants I hardly think 500 remain. the 
+				       rest   Excepting those dead, took refuge in the adjoining Mountains.</p>
+        <p>Many of the Doctors are dead.  and the plague has now got among</p>
+        <pb n="2" facs="0012_000727_000200_0002.jpg" xml:id="d4e53"/>
+        <p>the Negro populace and they are dying like sheep.</p>
+        <p>Many die from fear. Many more from sorrow caused by the loss of departed friends  often-times
+                                    whole families go together  you may be with a friend today, tomorrow You may hear of his death.
+			           Yes his burrial. Coffins are oftentimes shoved into the rooms of the dieing long before life is Ex-
+				   tinct. and many a reffugee who has <unclear reason="illegible" resp="PW">illegible</unclear>from
+				   other parts and fallen a victim to the plague in the hands of</p>
+        <pb n="3" facs="0012_000727_000200_0003.jpg" xml:id="d4e62"/>
+        <p>strangers. often witness the digging of their own graves. </p>
+        <p>Most of the Towns and County have Quarentined against each other and the roads are Blocaded by
+			           quarentine guards, armed with pistols revolvers shot-guns rifles and rocks but a quarentine decree
+				   amounts to about so much moonshine   just as though a man could not enter a County without
+				   traveling the road every time.</p>
+        <p>Well these guards take their position upon the road and wait for a reffugee.  When he appears in
+				   sight they scatter into the woods at a sufficient distance</p>
+        <pb n="4" facs="0012_000727_000200_0004.jpg" xml:id="d4e70"/>
+        <p>not to inhale his breath but within gunshot.  When the man from the infected parts comes within
+				  proper distance he hears the report of a dozen guns.  but this is not all he hears.  he hears lead
+				  which he judges to be in motion.  he at the same time hears the shouts of a dozen halts.  he
+				  obeys the Order but waits for no more.  he wheels around and strikes off with a velosity known
+				  only to that of electricity but unlike lightening he goes not in a zig-zag or Bee-line from.  but
+				  described something of a circular form and</p>
+        <pb n="5" facs="0012_000727_000200_0005.jpg" xml:id="d4e74"/>
+        <p>when he takes his second halt is about a mile and a half inside of the guard line.</p>
+        <p>of course these guards would not do to shoot in a match at Creedmore against any Foreign Team.
+			           but they can never the less scare like brimstone.  but the guards are getting bolder now they walked
+				   right up to a man the other day.  Collered him marched him up before the Mayor and just as his 
+				   honor was prepareing his papers of Imprisonment and Fine.  the wretched prisoner took a preten-
+				   ded Chill. accompanied by a terrible pretended pain in the head and</p>
+        <pb n="6" facs="0012_000727_000200_0006.jpg" xml:id="d4e80"/>
+        <p>back.  and as everybody knows these are the preliminaries of Yellow Fever he was immediate released
+				  upon condition that he would leave the Country inside of 5 Minutes.  he left grinning from ear to elbow
+				  leaving the limbs of Law to meditate over the ways that are dark and sticks that are plain but the  hea-
+				  then Chinee is peculiar.  Well Father as paper is scarce I must close for the present.  Business is entire-
+				  ly suspended in C_a and everybody waiting for frost.</p>
+        <p>I received an answer from my letter to Mother the other day.  She said you were willing to aid me a
+				  little in my Pecuniary difficultys if you knew whare to send an order  I will sugest it will be safe to send 
+				  it to Chatt-a. the Office is open part of the day although <note type="transcription">The following text is upside down at the bottom of and in the left hand margin of the last 
+                                    page of the letter.</note> it is in the worst part of this town for this fever give my best regards to all I will square this letter Father as soon as an opportunity permits </p>
+        <p>Your Affectionate Son </p>
+        <p>C S Crofut</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000217_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Edward Maynard</name>
+				                    in Nashville, Tenn., to Pick <date when="1865-05-27">1865 May 27</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Edward Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000217_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Edward Maynard in Nashville, Tenn., to Pick 1865 May 27</title>
+          <date when="1865-05-27">1865 May 27</date>
+          <author>
+            <name type="person">Edward Maynard</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.0415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000217_0001.jpg" xml:id="d4e39"/>
+        <p>Nashville May 27, 1865</p>
+        <p>Dear Pick,</p>
+        <p>Yours of March 31st came to hand by the evening mail yesterday. As it contained your photo and was the first I had recieved from you since Feby 25 I of course was exceedingly glad to get it.  The photo is the best I have ever seen of you and as soon as I can get mine I will send one.</p>
+        <p>You say you are at times inclined to say to your standing "go to the devil" Now let me tell you young man that  that is not the way to get on in this world.  Work, Work, work is the allotted portion of man and, as I can say from experience, a good deal of that is but poorly payed for.  Don't I beg of you let any such ideas as those enter your head for one "good for nothing" in the family is good enough and I am unfortunate enough to be one Struggle on. Keep as your most and ever in mind "Excelsion" and as you work think "Sic itur ad astra" You can if you will make yourself</p>
+        <pb n="2" facs="0012_001519_000217_0002.jpg" xml:id="d4e49"/>
+        <p>superior and in every sense a man and a gentleman - Do so for my sake and all I can do to assist you shall be done.  I reached here as we came "marching home" on the 18th of April and I immediately set all hands to work on the Muster out rolls and on the 27 April was mustered out with five companies leaving in the ferries one comapny and the recruits of the others - As soon as mustered out I recieved an appointment as Col. and <unclear reason="illegible" resp="JCM">A.D.C.</unclear> on Gov. Brownlow's Staff and accepted. 'Twas a good opening and I jumped in. I shall not go <unclear reason="illegible" resp="JCM">North</unclear> of this until Fall unless I am ordered to go. I should much like to take a turn through the North this Summer but don't think I should refuse the goods the Gods provide so I shall stay here until November. Then if fortune favors me I shall come to see you. If I am able to get hold of any money before you leave I shall send you Fifty-dollars tho' just at present I do not know as I can. I have here as an orderly for my office <unclear reason="illegible" resp="JCM">Jas. J. Jarmurs</unclear> an old school mate at college in Knoxville. Day before yesterday J. P. Brownlow as I recieved.</p>
+        <pb n="3" facs="0012_001519_000217_0003.jpg" xml:id="d4e62"/>
+        <p>a call from <unclear reason="illegible" resp="JCM">Jak c. Suttorell Jr.</unclear> and Wen Ingles of Knoxvill. They you know have been in the Rebel Army and are just paroled and on their way to Knoxville.</p>
+        <p>W.Y.C. Humes formerly of Knoxville and a Brig. Gen. in the Confed. Army was also here.</p>
+        <p>They all came in terribly whipped. Over that they were wrong by aprdon and ask to live at home as quiet peacable citizens. Charley Coffin Hector, Hugh French, Jim Craighead Leon Baker and Jim Craig all came in just a few days before I left there which was a week ago yesterday. They too all owned up.</p>
+        <p>This morning father left here for Newport and as I had just spent ten dollars for him and had no money on hand I asked him to turn that amount over to you for me. He said he wuold do so and some for himself. I guess you did not try Miss Reed a fall or you would have heard from her - I shall if I succeed become a married man about one year from the 1st of June. I have found a young lady whom I like and who says she likes me-</p>
+        <pb n="4" facs="0012_001519_000217_0004.jpg" xml:id="d4e75"/>
+        <p>Well I must say news is scanty. There is here now an Opera Troop playing at the "Old Theatre" that fills the eye of the public in the <unclear reason="illegible" resp="JCM">scuir</unclear> line - A young lady Stockton by name is Prima Donna and is quite pretty. As to other amusements. Jim Brownlow and I when we have time ride on horeback or play a game of billiards I can play much better than I did last Summer.  This you see was commenced on the 22d ult and now it is June 3d. Please excuse my dleay from the general goodness of your heart as I have no very good reason for it. I suppose in a few days you will go out to sea. Do you yet know in what vessel? I hope you may have a much  more pleasant time than on your last cruise. I want you to keep a log for me of all the ports you visit and the fun you see - It is I think quite probable that on your return you will find me married or if you do not I hope it will take place soon after. I have learned to love a young lady from Ohio and if I can gain the consent all round I shall be married</p>
+        <pb n="5" facs="0012_001519_000217_0005.jpg" xml:id="d4e82"/>
+        <p>State of Tennessee</p>
+        <p>Executive Department</p>
+        <p>Nashville, 1865</p>
+        <p>pretty soon. She is fine looking well educated intellegent and has a slpendid disposition and I love her very much. I believe to that she loves me - So if I am married you need not be surprised.</p>
+        <p>You will give me your consent won't you? Jim P is quite well. He has been brevetted Brigadier Genl. U. <unclear reason="illegible" resp="JCM">Jovb</unclear> by the President for gallant and meritorious conduct. Genl Jo. Cooper for service in front of Nashville has been brevetted Maj in Genl. - So you see Tennessee is coming out of the dark. I have been busy getting a petition signed for father to be appointed Justice vice <unclear reason="illegible" resp="JCM">latron.</unclear> It takes will and I have all the Senate but one or two and a good many of the House. Please write me before you leave and give me a few items.</p>
+        <p>Give my love to father.</p>
+        <p>I am your afftc. brother</p>
+        <p>Edward Maynard.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_000117_000206_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Robert Allen</name>
+				                    in Washington D.C., to David Burford in Carthage, Tenn., <date when="1823-02-23">1823 Feb. 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jordan, Seth</name>
+        </respStmt>
+        <author>
+          <name type="person">Robert Allen</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000206_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robert Allen in Washington D.C., to David Burford in Carthage, Tenn., 1823 Feb. 23</title>
+          <date when="1823-02-23">1823 Feb. 23</date>
+          <author>
+            <name type="person">Robert Allen</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers, 1820-1860</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000206_0001.jpg" xml:id="d4e39"/>
+        <p>
+          <unclear reason="illegible" resp="SMJ">Frer</unclear>
+        </p>
+        <p>Robert Allen</p>
+        <p>Major David Burford</p>
+        <p>Carthage</p>
+        <p>Ten</p>
+        <pb n="2" facs="0012_000117_000206_0002.jpg" xml:id="d4e53"/>
+        <p>Washington City</p>
+        <p>Feby the 23 1823</p>
+        <p>Dear Sir</p>
+        <p>The mail this morning brought me thru letters from your dates 17, 21 &amp; 24th Jany one of them concerning a bill of exchange of $492.01 which I have forwarded to <unclear reason="illegible" resp="TLG">Alexr</unclear> Henry <unclear reason="illegible" resp="bds">June 26</unclear> - I have previously paid Ms Henry $450 which is all that I will give them I am very sorry to find the Tobacco doing so badly I had anticipated a bad account but <unclear reason="illegible" resp="bds">cant</unclear> not have thought it so bad as it is I wish it was sold at all events and done with - springs <unclear reason="illegible" resp="tlg">claims</unclear> for lost property have been returned to me by him and <unclear reason="illegible" resp="tlg">now</unclear> found but the amount has been <unclear reason="illegible" resp="tlg">reduced</unclear> much below the normal amount first the wages of the horse after his death than the <unclear reason="illegible" resp="tlg">clothing</unclear> &amp; last the <unclear reason="illegible" resp="tlg">????</unclear> reduced has all been</p>
+        <pb/>
+        <p>deducted leaving the amt recieved on his two claims only $90.58. that sum I want send to you for him butt the session being so near a close I will defer it untils I go myself - Mrs Mallords claim was returned by me to Mr Stone with written Blank forms to be filed up by the  wedow it has been attended to and Returned to me complete and now ready <unclear reason="illegible" resp="tlg">reported</unclear>for  payment, I <unclear reason="illegible" resp="tlg">shals</unclear> claim the best part of the <unclear reason="illegible" resp="tlg">???</unclear> on this as it has given me much trouble that I expected you had obviated by attending to the Law and the rules <unclear reason="illegible" resp="tlg">loses</unclear> claim has been paid &amp; <unclear reason="illegible" resp="tlg">Geffords</unclear> claim for paid <unclear reason="illegible" resp="tlg">???</unclear>horse claim will be paid to me but  </p>
+        <p/>
+        <pb n="4" facs="0012_000117_000206_0004.jpg" xml:id="d4e112"/>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

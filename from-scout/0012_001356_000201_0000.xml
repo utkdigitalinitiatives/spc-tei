@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">D.D. Cooley</name> to Alfred Smith in <name type="place">Nashville, Tenn.</name>,
+               <date when="1865-05-19">1865 May 19</date>
+            </title>
+            <author>
+               <name>Cooley, D.D.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special
+                     Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, <name type="author">D.D. Cooley</name> to Alfred Smith in <name type="place">Nashville, Tenn.</name>,
+                  <date when="1865-05-19">1865 May 19</date>
+               </title>
+               <date when="1865-05-19">1865 May 19</date>
+               <author>
+                  <name>Cooley, D.D.</name>
+               </author>
+               <extent>3 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+               </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>       
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-15" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+        </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e197">
+            <pb facs="0012_001356_000201_0002.jpg" n="1" xml:id="d2e199"/>
+            
+               <opener>
+                  <dateline>
+                     <name type="place">BINGHAMTON</name>. <date when="1865-05-19">May 19, 1865</date>
+                  </dateline>
+                  <salute>Friend <lb/>Alfred</salute>
+               </opener>
+            
+               <p>as I have just heard from you by the way of your Brothers letter and in accordence with your Mothers desire have taken this opportunity to write you a few lines.</p>
+               <p>We wer all very glad to lear that you was well and doing well  the Ring &amp; Shield that you sent Austin was very much admired by those who saw them and Austin was very mutch pleased with them.</p>
+               <p>I wish if it is not to mutch trouble you would bring me one or two of those Shells I want them for curiosities.</p>
+            
+            <pb facs="0012_001356_000201_0003.jpg" n="2" xml:id="d2e228"/>
+               <p>we have not had mutch excitement except a circus and Menagurie. the Caller was a splen collection of nearly all kinds of Birds and Beasts in the world.</p>
+               <p>you spoke of having had green Vegetables. it must seem queer to have them so  early in the season but whe  you get home you will hav the seccond crop</p>
+               <p>all of our people send thur love to you</p>
+               <p>I must wind up my yarn for the want of <unclear reason="illegible" resp="PW">you</unclear>so good by for this time dont fail to Writte soon and oblige</p>
+               <closer>your old Friend<lb/>
+               <signed>D D Cooley</signed></closer>
+         </div>
+      </body>
+      <back>
+         <div type="envelope" xml:id="d2e256">
+         <pb facs="0012_001356_000201_0001.jpg" n="3" xml:id="d2e258"/>
+         <!-- How do you format postmarks? -->
+         <p>BINGHAMTON</p>
+         <p>MAY</p>
+         <p>20</p>
+         <p>NY</p>
+         <p><address>
+               <addrLine>Mr. Alfred . Smith</addrLine>
+               <addrLine>Nasville.</addrLine>
+               <addrLine>Tenn.</addrLine>
+               <addrLine>Box 4.87</addrLine></address></p>
+         </div>
+      </back>
+   </text>
+</TEI>

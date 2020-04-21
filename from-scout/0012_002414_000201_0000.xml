@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Daniel Carroll</name>in Washington, Del. to Charles Pettit, Esq. <date when="1804-01-18">1804 Jan 18</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">Daniel Carroll</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Daniel Carrollin Washington, Del. to Charles Pettit, Esq. 1804 Jan 18</title>
+               <date when="1804-01-18">1804 Jan 18</date>
+               <author>
+                  <name type="person">Daniel Carroll</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000201_0001.jpg" xml:id="d4e39"/>
+            <p>PAID 12 L</p>
+            <p>Charles Pettit Esquire</p>
+            <p>President of the Insurance Company of</p>
+            <p>North America</p>
+            <p>Philadelphia</p>
+            <p>Washington Jany 18th 1804</p>
+            <p>arrived on the 26th January 1804</p>
+            <p>Daniel Carroll</p>
+            <p>of</p>
+            <p>Duddington</p>
+            <pb n="2" facs="0012_002414_000201_0002.jpg" xml:id="d4e61"/>
+            <p>Washington January 18, 1804</p>
+            <p>Sir</p>
+            <p>When Mr Barry affected insurance on my five houses in this place, at your office on the 4th of March last, he informed me on his return, that had it been known that the roofs had been seperated by fire walls, thirty dollars less would have been taken. </p>
+            <p>The fact is, that each house is speerated by fire walls the usual hight above the roofs, &amp; as I  wish to insure again on the fourth of March, I presume the $30 will be allowed in the next years premium, if so, you will be pleased to inform me, &amp; in due time I will forward on the <unclear reason="illegible" resp="AH">balkinty</unclear> a post note, I wish to be informed whether a new policy is necessary, &amp; also whether in the course of the year there is any objection to the erection of back buildings of brick, for the accomodation of the houses insured, the houses intended, are for kitches, the accomodation of the families of each house.  Your answer will oblige.</p>
+            <p>Sir</p>
+            <p>Your noble serv</p>
+            <p>Danl. Carroll of Delw</p>
+            <p>NB. There has been no house built near the houses insured since the alst description, and but one on the square, that a  brick stable, removed from the houses, farther than the one described.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

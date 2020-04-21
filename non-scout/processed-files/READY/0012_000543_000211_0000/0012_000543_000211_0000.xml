@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000211_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>John, Sevier</name>
+				                   to Col. Return Meigs<date when="1805-08-12">1805 August 12</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Caldwell, Chris</name>
+        </respStmt>
+        <author>
+          <name type="person">John, Sevier</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000211_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John, Sevier to Col. Return Meigs1805 August 12</title>
+          <date when="1805-08-12">1805 August 12</date>
+          <author>
+            <name type="person">John, Sevier</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">John Sevier Collection, 1782-1839</note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Caldwell, Chris">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000543_000211_0001.jpg" xml:id="d4e39"/>
+        <p>Gov. Sevier's letter</p>
+        <p>12th Aug. 1805 <unclear reason="illegible" resp="CC">Cavag</unclear>
+            </p>
+        <p>a letter from Col Scott</p>
+        <p>subject Cherokee destroying</p>
+        <p>born of a W. McNutt</p>
+        <p>Colonel Return Meigs esquire, Agent</p>
+        <p>for the department of War in Tennessee</p>
+        <p>To West Point</p>
+        <p>Public Service</p>
+        <p>Mail</p>
+        <pb n="2" facs="0012_000543_000211_0002.jpg" xml:id="d4e63"/>
+        <p>Knoxville 12 August 1805</p>
+        <p>Dear Sir</p>
+        <p>You will receive enclosed a copy of a letter from Colonel Scott of Blount County to the Executive, and My letter addressed the Warriors and Cheifs of the Cherokee Nation on that Subject.</p>
+        <p>You will perceive by Mr. Scotts letter that some of the Cherokees have committed a very daring insult and such as cannot be passed over in Silence. You will have the goodness to cause my letter to be laid before the cheif so soon as may be conveinant, in order that their answer may be obtained as speedily as possible.</p>
+        <p>I have the honor to be Sir</p>
+        <p>with respect &amp; Great esteem</p>
+        <p>Your most obed and Hbl Servt</p>
+        <p>John Sevier</p>
+        <p>Col Meigs agent for</p>
+        <p>The department of War</p>
+      </div>
+    </body>
+  </text>
+</TEI>

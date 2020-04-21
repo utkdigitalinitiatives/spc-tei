@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000293_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Ramsey, J.G.M.</name>
+				                  in Savannah, Ga., to M.B.C. Ramsey, Mecklenburg, Tenn., <date when="1850-10-24">1850 October 24</date>
+            </title>
+        <author>
+          <name type="person">Ramsey, J. G. M. (James Gettys McGready)</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000293_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Ramsey, J.G.M. in Savannah, Ga., to M.B.C. Ramsey, Mecklenburg, Tenn., 1850 October 24</title>
+          <date when="1850-10-24">1850 October 24</date>
+          <author>
+            <name type="person">Ramsey, J.G.M.</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1850</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000293_0001.jpg" xml:id="d4e44"/>
+        <p>Savannah Ga. Oct. 24. 1850.</p>
+        <p>My Dear Wife</p>
+        <p>I arrived here safely last night &amp; have found comfortable quarters in the Pulaski House from where I now write you.  I have already become known to several warm-hearted Georgians who will be of service to me in the way of business &amp; help to while off the time that intervenes between this &amp; the arrival of the ship containing our iron.  How long that will be is impossible to tell.  I have just telegraphed to New-York to hear when the ship left &amp; will hear in a few hours - but perhaps not in time to write you after it arrives.  Here, they say, it may be be from contrary winds 10 or 15 days behind time.  Still she may come in to night.  I hope how soon.</p>
+        <p>It is too early for me to hear how the little girls have got.  But to morrow or next day at furthest I will expect to receive letters.  It is very warm here.  If I had my summer clothes I would certainly put them on.  It is like our September, but they have had frost once &amp; they say it is healthy except the brake bone fever which has nearly run out of cases.  I hope not to take it.  It is more troublesome than dangerous.</p>
+        <pb n="2" facs="0012_000060_000293_0002.jpg" xml:id="d4e54"/>
+        <p>I wrote you from Atlanta &amp; gave you all the directions I could think of about business matters for Robert McKnitt &amp; Crozier.  They must all do the best they can in my absence long or shorter.  I will be home that moment business allows me.  I have been North &amp; South East &amp; West &amp; there certainly is no place equal in all respects to East Tennessee &amp; especially Mecklenburg.  I am sure of that.  Are you well yourself &amp; the rest at home.  If I knew that I could hear from our absent children I could while off my stay here better.  Love to all from</p>
+        <p>Your Affectionate</p>
+        <p>J.G.M. Ramsey</p>
+      </div>
+    </body>
+  </text>
+</TEI>

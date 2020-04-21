@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000069_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Campbell Wallace
+</name>
+in Knoxville, TN, to the Directors of the East Tennessee &amp; Georgia Railroad, 
+<date when="1863-07-15">
+1863 July 15
+</date>
+            </title>
+            <author>
+               <name type="person">Wallace, Campbell</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000069_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Campbell Wallace in Knoxville, Tenn., to the Directors of the East Tennessee &amp; Georgia Railroad, 1863 July 15</title>
+               <date>1863-07-15</date>
+               <author>
+                  <name>Wallace, Campbell</name>
+               </author>
+               <extent> 5 digital images; 5 pages</extent>
+               <note type="abstract">In this letter, dated July 15, 1863, from Campbell Wallace in Knoxville, Tenn. to the Directors of the East Tenn. &amp; Georgia Railroad, Wallace lays out an agenda for their upcoming meeting. He also takes the opportunity to &quot;respectfully tender&quot; his resignation as President of the railroad company.</note>
+               <note type="collection">The Campbell Wallace Papers, 1863</note>
+               <note type="manuscript">MS.1</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Railroads -- Tennessee -- History -- 19th Century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000069_000200_0001.jpg" xml:id="d3e143"/>
+            <p>Office East Ten &amp; Ga RRdo</p>
+            <p>Knoxville July 15/63</p>
+            <p>To The Directors</p>
+            <p>As your meeting to day will probably be of more than usual importance I think best to submit in writing the subjects for your consideration.</p>
+            <p>You will see from statements submitted that you have a surplus of $416,282.55</p><p> after paying current expenses, dividend declared in Febry last and for engines, cars, <unclear reason="Word is illegible." resp="J.H."/> and interest accumulated during the year. I suggest the propriety of dividing this surplus among the stockholders at once.</p><p>I also submit correspondences with the Quarter Master General with regard to an advance in the price of work done for the Government. My opinion of what that advance should be is set forth in my letter and the final result will show that I have not demanded more for our stockholders than they are justly entitled to -- it will not do to assume that any portion of our surplus as shown from time to time are profits -- the question</p>
+            <pb n="2" facs="0012_000069_000200_0002.jpg" xml:id="d3e165"/>
+            <p>2</p>
+            <p>to be considered by you is whether or not you are receiving sufficient compensation for the waste and destruction of your property.</p>
+            <p>I also submit a letter addressed by me to the commanding Genl of this Department and his answer thereto on the subject of the removal of your shops to a place of more security. This removal would embrace necessarily and properly the removal of your offices and valuable books and papers.</p>
+            <p>With this I respectfully tender you my resignation as President of this company to take effect as soon as you can with diligence and convenience provide a suitable successor, reserving the right to terminate my connection with the company at any time I may deem it right and proper for me to do so, but for the clouds that to day hang over our beloved country this act would be final and <unclear reason="Word is illegible." resp="J.H."/>
+            </p>
+            <pb n="3" facs="0012_000069_000200_0003.jpg" xml:id="d3e180"/>
+            <p>3</p>
+            <p>from the close of this meeting.</p>
+            <p>A mans first duty, in temporal affairs, is to his family and especially so in my case as mine are mostly females and while I am, I hope, as free as allmost any man living from a desire to accumulate property, I am bound by obligations the most sacred, particularly at my time of life to try and provide something for their support more than my daily earnings, but as my reasons for the step I now take are allmost entirely of a personal and private character I will dismiss the subject.</p>
+            <p>In conclusion let me suggest the propriety of your fixing the sallaries of your Officers for the year. The term for which those Dollars are fixed extends as I concieve from the 1 July to the 30th June of each year and it is due to the Officers that they should know what they are to depend on as a support for their families at the</p>
+            <pb n="4" facs="0012_000069_000200_0004.jpg" xml:id="d3e194"/>
+            <p>4</p>
+            <p>commencement of each fiscal year.</p>
+            <p>Your Officers have allmost quarterly been compelld to advance the wages of all your operators untill prices have become what in after times may be considered fabulous. This has been done to enable them to support their families and to keep up with prices paid by other Rail Road companies and unless a rapid reduction in the price of clothing and procuring occurs soon yet still further advances will have to be made.</p>
+            <p>I respectfully suggest that you appoint committees on each of the subjects embraced in this communication.</p>
+            <p>1st On the propriety of distributing the surplus found on hand.</p>
+            <p>2d On the propriety of an advance in the rate of Government work.</p>
+            <p>3d On the propriety of a removal</p>
+            <pb n="5" facs="0012_000069_000200_0005.jpg" xml:id="d3e214"/>
+            <p>5</p>
+            <p>of your shops &amp;c. &amp;c.</p>
+            <p>4th On the subject of resignation and the election of a successor to the President.</p>
+            <p>5th On fixing sallaries for the present fiscal year.</p>
+            <p>By thus systamatizing the work before you the meeting may not be unnecessarily extended.</p>
+            <p>Respectfully yours</p>
+            <p>C Wallace</p>
+            <p>Prnt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

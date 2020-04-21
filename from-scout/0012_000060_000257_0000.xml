@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000257_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name> J.G. McKnitt Ramsey </name> in Wytheville, Va., to J.G.M. Ramsey 
+in Charlotte, N.C., <date when="1865-03-22"> 1865 March 22 </date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J.G. McKnitt</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000257_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G. McKnitt Ramsey in Wytheville, Va., to J.G.M. Ramsey in Charlotte, N.C. 1865 Mar. 22</title>
+               <date>1865-03-22</date>
+               <author>
+                  <name>Ramsey, J.G. McKnitt</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1865 Mar. 22 J.G. McKnitt Ramsey, Wytheville, Va., to his father, J.G.M.
+Ramsey, Charlotte, N.C. Reports that Crozier has been sent north to prison
+but has recovered from his rather serious illness. Describes the uncertainty
+of troop movements and of their position. </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Virginia -- History -- 19th century.</term>
+               <term>Prisoners of war -- Southern States -- History -- 19th century.</term>
+               <term>Quality of life -- Southern States -- History -- 19th century.</term>
+               <term>Virginia -- History -- Civil War, 1861-1865. </term>
+               <term>Ramsey, J. G. McKnitt (James Gettys McKnitt), 1835-1900 -- Correspondence.</term>
+               <term>Ramsey, J. Crozier (John Crozier), d. 1868.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000257_0001.jpg" xml:id="d3e153"/>
+            <p>Wytheville Va</p>
+            <p>March 22 1865</p>
+            <p>Dear Pa</p>
+            <p>I have just got back from <unclear reason="illegible" resp="bds">Bristol</unclear> where 
+<unclear reason="illegible" resp="bds">I</unclear> have been for a week. <unclear reason="illegible" resp="bds">I</unclear>
+went down for some of our boys that were absent without <unclear reason="illegible" resp="bds">leave.</unclear> I saw Gen.
+Vaughn had a long <unclear reason="illegible" resp="bds">talke</unclear> with him about the state of the country, he is in
+very good spirits. He told me he had seen <unclear reason="illegible" resp="bds">Sam Gunagum</unclear> just from Knoxville
+told him Cro had been sent north, he had been right sick but had got well; John Kennedy <unclear reason="illegible" resp="bds">sm</unclear> of <unclear reason="illegible" resp="bds">Hrse</unclear> Kennedy of Knoxville left Knoxville on
+<unclear reason="illegible" resp="bds">Stu</unclear> South of <unclear reason="illegible" resp="bds">this rise with</unclear>
+he said Cro was in the confederate hospital and the <unclear reason="illegible" resp="bds">ladies</unclear> took him every
+thing he wanted and was very well treated he had not</p>
+            <pb n="2" facs="0012_000060_000257_0002.jpg" xml:id="d3e201"/>
+            <p>been sent north when he <unclear reason="illegible" resp="bds">bef.</unclear> but <unclear reason="illegible" resp="bds">Gunagum</unclear> left there since he did. The report was when I left Bristol yesterday was that Gen. Thomas had
+got to <unclear reason="illegible" resp="bds">Morristown</unclear> with about twenty thousand <unclear reason="illegible" resp="bds">troops</unclear> they cannot tell when then they are coming here or going to North Ga. I think he is
+coming this way. I see that Gen Johnson has gave Sherman a whiping I hope he may destroy his whole army. Some of
+<unclear reason="illegible" resp="bds">our company</unclear> have been <unclear reason="illegible" resp="bds">paroled</unclear>
+and are <unclear reason="illegible" resp="bds">home</unclear> we will go in to camps in a few days. I was in hope
+I would get a letter when I got here but was disapointed. I have not <unclear reason="illegible" resp="bds">heard 
+from</unclear> any of you since I <unclear reason="illegible" resp="bds">left</unclear>. I suppose it is
+because <unclear reason="illegible" resp="bds">the sides are so unsertain and are so much delay as <gap resp="Dyson-Smith"/> count</unclear>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

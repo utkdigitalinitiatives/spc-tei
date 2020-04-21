@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000531_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Sarah F. Butler</name>
+ in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-07-12">1884 July 12</date>
+            </title>
+            <author>
+               <name type="person">Butler, F. A., Mrs., b. 1830</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000531_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Sarah F. Butler in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 July 12</title>
+               <date>1884-07-12</date>
+               <author>
+                  <name>Butler, F. A., Mrs., b. 1830</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 pages.</extent>
+               <note type="abstract">1884 July 12 Sarah F. Butler, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Thanks her for her letter. Describes attending the meeting of the Woman&apos;s Board of Missions in Kansas City, Mo., and notes the raise in her salary approved there. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Women in missionary work -- History -- 19th century. </term>
+               <term>Missions -- Periodicals.</term>
+               <term>Women missionaries.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Kansas City (Mo.) -- History -- 19th century.</term>
+               <term>Woman&apos;s Board of Missions -- History.</term>
+               <term>Methodist Episcopal Church, South -- Missions -- Periodicals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000531_0001.jpg" xml:id="d3e157"/>
+            <p>Mrs M.B.C.</p>
+            <p>If not called for within Ten Days return to</p>
+            <p>Mrs. F.A. Butler</p>
+            <p>Editor and Agent</p>
+            <p>Woman&apos;s Missionary Advocate,</p>
+            <p>Nashville, Tenn.</p>
+            <p>Mrs. J.G.M Ramsay,</p>
+            <p>E Main Street,</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <p>Kind regards to Mrs Stevenson &amp; family &amp; Mrs Rogers &amp; Mrs H.</p>
+            <pb n="2" facs="0012_000060_000531_0002.jpg" xml:id="d3e186"/>
+            <p>Office W.M. Advocate,</p>
+            <p>Nashville, Tenn</p>
+            <p>July 12th 1844</p>
+            <p>My dear Mrs Ramsay,</p>
+            <p>Your very interesting letter was received by Mr Butler just a day or two after I left home to attend the annual meeting of our Woman&apos;s Board of Missions which was held in Kansas City, Mo. I need not tell you Iwas much gratified to read it on my return home. I scarecely expected you to reply to my letter when you have have such a large circle of friends, and your husband has so many sincere admireres &amp; friends, to</p>
+            <p/>
+            <pb n="3" facs="0012_000060_000531_0003.jpg" xml:id="d3e203"/>
+            <p>nothing of your large family connection and loving kindred, and yet I was truly gratified I assure you. I am exceedingly pleased to know that you found something in my editorial of June W.M.A. that could give you any pleasure. The <unclear reason="illegible" resp="JR">sulyeeh</unclear> is one of rare beauty I think but when manifested in the life - especially of Christians it seems to me there is no other can compete with or <unclear reason="illegible" resp="JR">excel</unclear> it.</p>
+            <p>I enjoyed the trip to Mo. very much indeed. Kansas City is such a growing, such a vigorous, wonderful place, and there is so much activity in all </p>
+            <pb n="4" facs="0012_000060_000531_0004.jpg" xml:id="d3e219"/>
+            <p>kinds of business.</p>
+            <p>Our meeting was full of interest -: it washarmonizing and pleasant every way. Ladies were there from all the Southern States, and from California, &amp; from Indian Territory.</p>
+            <p>All together it was the most pleasant meeting to me we have ever held; Our reason why that should be was - I was not pressed with work -, &amp; had time to enjoy myself -.</p>
+            <p>It was gratifying also to know that my own work as business manager and Editor of W.M.A. was not only approved but enthusiatically endorsed. They increased my salary from $1000.00 to $1200.00 dollars per year, which was another sign</p>
+            <pb n="5" facs="0012_000060_000531_0005.jpg" xml:id="d3e233"/>
+            <p>of approval.</p>
+            <p>I hope this coming year to be able to increase the list and improve the paper in many aspects.</p>
+            <p>My dear friend -, excuse me for this dwelling on my own affairs so exclusively, but you are one of those who like to know what others are doing in Christian work. Yes, your time for work has passed, but to be able to say you &quot;are only waiting God&apos;s time,&quot; is a great thing. There is work for God, even in waiting His pleasure. I am sure He will bless and gladden your heart as long as you wait there on Him, &amp; very soon the grain will be ripe and ready for the gainer of heaven. With kind regard from Mr Butler to you and your family I am yours <unclear reason="illegible" resp="JR"> apply</unclear>, Sarah F Butler</p>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000302_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>W.S. Cochran</name>
+				                in Charleston, S.C.,<date when="1852-04-05">1852 April 5</date>
+            </title>
+        <author>
+          <name type="person">Cochran, W.S.</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000302_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, W.S. Cochran in Charleston, S.C.,1852 April 5</title>
+          <date when="1852-04-05">1852 April 5</date>
+          <author>
+            <name type="person">W.S. Cochran</name>
+          </author>
+          <extent>1 page</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1852</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000302_0001.jpg" xml:id="d4e44"/>
+        <p>Charleston SC.</p>
+        <p>April 5th 1852</p>
+        <p>South Western Rail Road Bank.  I hereby Certify that on the 29th February 1852 there was deposited to the credit of Dr J G M Ramsey Fifteen hundred and twenty seven dollars</p>
+        <p>W.S. Cochran</p>
+        <p>R. Teller</p>
+      </div>
+    </body>
+  </text>
+</TEI>

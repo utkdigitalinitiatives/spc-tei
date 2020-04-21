@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000417_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>W. Garrett</name>
+ in Bradford Co., Ala., to J.G.M. Ramsey in Knoxville, Tenn. <date when="1874-01-12">1874 Jan. 12</date>
+            </title>
+            <author>
+               <name type="person">Garrett, W.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Valine, Debbie</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000417_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W. Garrett in Bradford Co., Ala., to J.G.M. Ramsey in Knoxville, Tenn. 1874 Jan. 12</title>
+               <date>1874-01-12</date>
+               <author>
+                  <name>Garrett, W.</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">W. Garrett wrote to J.G.M. Ramsey on Jan. 12, 1874. He expressed gratification that he could contribute to the Tennessee Historical Society. He expressed his desire to visit Knoxville again some day since it was the place where he was born and lived as a child. Garrett detailed information concerning Col. Joseph Hamilton (a former Dandridge businessman) and Hamilton&apos;s father (a lawyer and Senator). He spoke highly of the Hamiltons. The elder Hamilton was a friend of Garrett&apos;s father and grandfather. He could supply only slight information in regard to the origin of the names of the Pigeon River and English Mountain and the old forts along the river but related several incidents which occurred in that area. He knew some information about Colo. John McNabbs Station. He spoke about Cherokee Indians and emigration of the old settlers to the West. He mentioned the mineral springs. He mentioned that names the Cherokees used for these places were probably changed by the early settlers. He mentioned that the name Pigeon River might have been derived from a large collection of birds that had come through. Garrett told Ramsey of his plans to send to the Historical Society of Tennessee names and information of Tennesseans who have settled in Alabama. 
+ 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Names, Geographical -- Tennessee -- Great Smoky Mountains (N.C. and Tenn.)</term>
+               <term>Cherokee Indians -- Tennessee -- History.</term>
+               <term>Frontier and pioneer life -- Tennessee.</term>
+               <term>Pigeon River (N.C. and Tenn.)</term>
+               <term>Great Smoky Mountains (N.C. and Tenn.)</term>
+               <term>Garrett, W. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000060_000417_0001.jpg" xml:id="d3e159"/>
+            <p>Bradford Coosa Co. Ala. 12th. Jany. 1874.</p>
+            <p>Doct. J.G.M. Ramsey, Knoxville, Tenn.</p>
+            <p>My dear Sir,</p>
+            <p>I am in receipt of your esteemed favor of the <unclear reason="illegible" resp="LM"> 3the. inst.</unclear> enclosing a communication from you as President of the Historical Society of Tennessee to Judge Littleberry Strange, of Tuskegee. Conveying to him the acknowledgements of the Society, for his communication identifying the <unclear reason="illegible" resp="LM"> grave</unclear> of Gov Sevier &amp; c &amp; c. I have this day enclosed the same to Judge Strange, with some extracts from your letter to me which I took the liberty to make. I am gratified at being in any way instrumental in forwarding the interests of your Society and shall continue to contribute in my humble way to its archives as occasion or recollection may afford.</p>
+            <p>It would certainly be to me a source of much pleasure to visit Knoxville and the region of my nativity and boyhood. Especially would I be pleased to see you in the manner indicated in your kind invitation. Such a consummation has the contingencies which <unclear reason="illegible" resp="LM"> attach to ap &amp; infirmity</unclear> to combat-- and with my surroundings must be <unclear reason="illegible" resp="LM"> repressed</unclear> for the present-- tho I would be sorry to think or have to believe that I will never again see that good old land.</p>
+            <p>I recollect Colo. Jos. Hamilton of whom you speak as lately deceased knew when a boy near fifty years ago. When he lived in Dandridge, merchandizing and Clerk of the County Court. He was in those days in the prime of life, with a large well developed frame and pleasant <unclear reason="illegible" resp="LM"> address</unclear>-- greatly aided by intelligence and culture. My father often sent me to Dandridge on business-- an awkward timid boy-and Colo. Hamilton, always, when about his store and office <unclear reason="illegible" resp="DV"> treated </unclear> me with marked attention and kindness, which was grateful to my <unclear reason="illegible" resp="DV"> boyish </unclear> feelings-and has never been forgotten. It was my privilege also to know his Father, who too was named Joseph. He attended the Courts at Newport-long before I recollect-and was associated with my father and <unclear reason="illegible" resp="LM"> Grand</unclear>father Gray, at the bar, and they were through life good friends-among my first recollections as a small boy was that of seeing him a guest of my fathers. He was then somewhat advanced in life, was tall, strait and active-- social, communicative and cheerful in his disposition. He dressed with precision and <unclear reason="illegible" resp="DV"> taste </unclear> -and was noted for the fine fit and neat polish of his Calf Skin boots. In short he was</p>
+            <pb n="2" facs="0012_000060_000417_0002.jpg" xml:id="d3e204"/>
+            <p>a gentleman of the older School in all that goes to make up such a character. About the time I grew up he ceased attendance upon the Court at Newport-and after some years died at his home place in the upper part of jefferson County.</p>
+            <p>He was elected to the Senate of Tennessee for a period. I do not know how long. An early settler, a man of probity of character-a good faithful lawyer, allied by marriage to the Outlaw family (his wife was an Outlaw) which brought him into relationship with Joseph Anderson, who was a Senator in Congress &amp; afterwards a Comptroller of the Treasury. Colo. Hamilton <unclear reason="illegible" resp="LM"> wielded</unclear> a large influence in his day-- which was controlled and sanctified by the Spirit and Conduct of a Christian. He was a <unclear reason="illegible" resp="LM"> Paisly Tinov</unclear>.</p>
+            <p>You ask me if I can make out a diagram of the old Forts &amp; <unclear reason="illegible" resp="DV"> Stations </unclear> &amp; Battles grounds on French Broad and the Pigeons-- and ask, where was McNabbs Station and there on <unclear reason="illegible" resp="LM"> Causby&apos;s</unclear> Creeks-- and how was Englishs Mountain named &amp;Pigeon Rivers.</p>
+            <p>I regret that I am unable to afford you any reliable or definite information about the old Forts or Stations on these Rivers-I was born in 1809. So long a time after the occasion for these places had passed away-and the population had changed so much before I grew up -by death and emigration of the old settlers to the West and my opportunities for intercourse and information so limited up to the time of my leaving there in 1832, afford the reasons for my deficiency in this kind of information. Of Colo. John McNabbs Station I can speak a little. He settled about ten miles above New Port. On the East side of Pigeon River-- and owned the first big bottom on that side of the river coming down from the mountains-directly opposite the mouth of <unclear reason="illegible" resp="LM"> Causby</unclear> Creek. His residence was a little above the mouth of that Creek, and about half a mile from the <unclear reason="illegible" resp="LM"> river</unclear> on high ground. Here abouts was his Station-of those on <unclear reason="illegible" resp="LM"> Causbys</unclear> Creek I know nothing but suppose there was one part above the mouth of the Creek where John Allan lived in after years. The incursions of the hostile Indians (Cherokees) was mostly by this route from across the mountain, in what is now Hayward County NC. and this section was greatly exposed in the early settlements. <unclear reason="illegible" resp="LM"> On</unclear>
+               <unclear reason="illegible" resp="LM"> Causbys</unclear> Creek <unclear reason="illegible" resp="LM"> lind</unclear> Colo. William Tillard, and many other frontier men, who mostly emigrated West. Carrying with them much of information that would be valuable to your Society</p>
+            <p>I was raised only a few miles and in full view of &quot; English Mountain &quot; and heard it called by that name from my earliest recollection, without ever hearing the reason for the name it bears-It is high &amp; craggy for</p>
+            <pb n="3" facs="0012_000060_000417_0003.jpg" xml:id="d3e249"/>
+            <p>I have been upon its sides, without however getting to the top - is a few miles long running from a Westerly-an Easterly Course. There are mineral springs in the mountains that were resorted to at an early day, by wealthy people from the surrounding country, who built cabins for their accommodation. About the year 1811, or maybe before-there was quite a company there from the bend of Chucky &amp; other places. Paul McDermot, an Irishman of strong and weak points of character, married a daughter of Colo. Outlaw, and in a state of drunkenness in attempting to cross the French Broad River was drowned. He left two children a son &amp; daughter. The daughter (Penelope) was at the Springs, just becoming into womanhood, pretty intelligent &amp; quite a belle. Among the amusements for the young people, was that of swinging off in an arm chair from a bunch of rocks-with fastenings above to the trees. She was swinging and a number of young gentlemen admirers around the landing. She was launched with force-so much so that the the fastenings above were broken and she was precipitated, of course with much violence, some fifty feet among the rocks below Killing her instantly. It was a melancholy event, and produced at the time a wide spread &amp; deep feeling in the Country. But of the origin of the name of Englishs Mountain. At the Easterly termination of this mountain and heading in its <unclear reason="illegible" resp="LM"> shurs</unclear> is a creek called Englishs Creek, that empties into Big Pigeon. It is contiguous to Fines Creek now I suppose that the creek &amp; mountain took the name of an early settler who soon passed away-leaving his name connected with the creek or the mountain. If it were not for the creek of the same name-at the Eastern extremity of the mountain-something might be attached to the mineral springs, in an early <unclear reason="illegible" resp="LM"> visit on</unclear> in giving a name. The <unclear reason="illegible" resp="LM"> ovation</unclear> to the name of Pigeon River. I have no definite information -and know nothing beyond what I have heard old men in the country there say, and what I have seen The heads of these Rivers-(Big &amp; little Pigeons) is in what was called the &quot; Smokey Mountains &quot; a place of resort for the wild Pigeons for the great quantities of movt in the mountains-- and for roosting places-upwards of fifty years ago the Pigeons came in the winter to the country along the rivers in such numbers they darkened the air. or they flew in droves-and destroyed or eat the corn that was not gathered-and attacked the Out Stacks-- They went at nightfall in the direction of the Smokey Mountains to roost. So I suppose the fact of the collection of large flocks of these birds in these mountains to forage &amp; roost gun the name to the river- history of North Carolina is an account of Genl. or Colo. Rutherfords</p>
+            <pb n="4" facs="0012_000060_000417_0004.jpg" xml:id="d3e266"/>
+            <p>Military Expedition against the Cherokee in 1774. By reference to that account you will see that the name Pigeon is not mentioned among the rivers crossed and yet it is evident he crossed that river for it is said he crossed at the Warford (he says <unclear reason="illegible" resp="DV"> on </unclear> French Broad. So it is most likely these Rivers were all put down at that time by the latter name. The crossing of French Broad at New Port and the warford on Big Pigeon are not more than two miles distanced from each other, and the Warford is not more than three or four miles above the mouth of Pigeon into the French Broad. I conclude from this view, that whatever the name of the river Pigeon, as known among the Indians has most likely been lost-and that the name by which these rivers-big &amp; little-have come to us was given by the early settlers in reference to large collection of birds of the name in the mountains-their head waters-</p>
+            <p>This I believe disposes of some enquiries as well as I am able. I have determined next to undertake the task of giving you for the benefit of the Historical Society of Tennessee the names of persons who have emigrated from Tennessee their native state-and settled in Alabama. So far as the same has come to my knowledge with a short statement of their success or failure. So far as I know-As soon as it is completed, which I hope will be at no distant day I will enclose to you. It will be in the nature of a memorial of Tennesseans who <unclear reason="illegible" resp="DV"> removed </unclear> to Alabama-especially in its early history.</p>
+            <p>With unabated regard &amp; respect</p>
+            <p>I remain <unclear reason="illegible" resp="DV"> Yours </unclear>
+            </p>
+            <p>W. Garrett</p>
+         </div>
+      </body>
+   </text>
+</TEI>

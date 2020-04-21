@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001564_000201_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Robert A. Ragan</name> in Knoxville, Tenn. to Emeline
+					Ragan <date when="1863-12-03">1863 December 03</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Robert A. Ragan</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001564_000201_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robert A. Ragan in Knoxville, Tenn. to Emeline Ragan 1863 December 03</title>
+          <date when="1863-12-03">1863 December 03</date>
+          <author>
+            <name type="person">Robert A. Ragan</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Robert A. Ragan Letters</note>
+          <note type="manuscript">MS.743</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Tennessee -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Religious aspects.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001564_000201_0001.jpg" xml:id="d4e40"/>
+        <p>Knoxville Tn Dec. 11 1863</p>
+        <p>Dear Wife</p>
+        <p>I Seat my Self the Second time to write you a few lins, to let you know where I am and how I am. I am now at Knoxville and have bin here 20 days We have bin fighting the <unclear reason="illegible" resp="bds">Enomy</unclear> all the time we have bin here. They have made for or five Eferts to take Knoxville but they have failed every time with a grate loss. the made a charge the other morning and we killed 400 hundred and taken 500 prisners we, lost, about fifty wounded, and, killed I expect you have heard that we have bin taken a dozen times but It is a lie we ar not and Knoxville will be dranched with blood before</p>
+        <pb n="2" facs="0012_001564_000201_0002.jpg" xml:id="d4e51"/>
+        <p>It is taken It is all write I think the News came this morning that Sherman is in ten miles of this with a large force the Rebels is moving up the country I expect you can hear the canons <unclear reason="illegible" resp="bds">roaring</unclear> and I no it makes your heart ache. We have not bin ingaged much we belong to the rite wing of this army they have bin fighting on the left wing we have had some fighting but not like they have at the lower end of the Town the last fight they had they said the blood ran in the Entrechments. I have bin well all the time with the Exceptions of the same Eys they have bin very bad but they ar a little better I have never heard from</p>
+        <pb n="3" facs="0012_001564_000201_0003.jpg" xml:id="d4e58"/>
+        <p>Father and the boys I expect they are at the Cumberlan gap Em I am a frade I cant come home when I promised you I would <unclear reason="illegible" resp="bds">tha</unclear> very time taht I wanted to come If I dont get to com you must do the best you can Em If my Eyes dont get better I will have to leave the army and come home. I think I <unclear reason="illegible" resp="bds">ot</unclear> to be at home any how I <unclear reason="illegible" resp="bds">now</unclear> I want to be at home with my beloved little familey It is all I <unclear reason="illegible" resp="bds">Study</unclear> about day and night I will have to bring my few lins to a close I dont no whether you can read it or not My fingers is very near frose I have to write on my nea</p>
+        <pb n="4" facs="0012_001564_000201_0004.jpg" xml:id="d4e74"/>
+        <p>Em I want you to take cear of your self. I think I will get home after while I want you to pray for my Escape thrue this fight I to hop I will be fortunat anoughf to get thrue Em as soon as this thing comes off I will be at tell all of the familey howdy for me</p>
+        <p>Your afftinaly Husb</p>
+        <p>RA Ragan</p>
+        <p>write by John Hail to me be sure and write</p>
+      </div>
+    </body>
+  </text>
+</TEI>

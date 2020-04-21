@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000229_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1865-09-06">1865 Sept. 6</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000229_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Memphis, Tenn., to his wife 1865 Sept. 6</title>
+               <date when="1865-09-06">1865 Sept. 6</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000229_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis, Sept 6th 65</p>
+            <p>My Darling</p>
+            <p>As Dr <unclear reason="illegible" resp="EMS">Beloli</unclear> did not meet me at Cairo I kept on to this place and am sleeping at <unclear reason="illegible" resp="EMS">CW</unclear> Holman. I cannot get home before the 25 of this month as Genl Orme has given me the position of Cotton agent at Yazoo City Miss -  with pay of $6 per day <unclear reason="illegible" resp="EMS">10 cent</unclear> per mile for traveling fees and 24 percent of the value of all cotton collected so that at last I have a fair chance of getting us a HOME for our old age I have S. Athearn with me and will go down and start him and go home to fix you for the winter. before the 10th of next month if you can find a little house  </p>
+            <pb n="2" facs="0012_000298_000229_0002.jpg" xml:id="d4e56"/>
+            <p>for rent I will be home in time to move you if you remain let <unclear reason="illegible" resp="EMS">Dietrich</unclear> know - you had better send the children to school The not meeting Dr <unclear reason="illegible" resp="EMS">Belote</unclear> seems Providential as had we gone thro the Country I should have been too late as Genl Orme is hurrying off agents as fast as he can and cannot let me run up home at once as I asked him but says I can go before October, I know you will be disappointed at my <unclear reason="illegible" resp="EMS">movement</unclear> and took a day to consider and came to the conclusion that I had better go - I do no expect to be down more than three months and expect then to be able to remain with my darling the rest of my life with Gods blessing I will suceed in my endevours to make some money <unclear reason="illegible" resp="EMS">hurry</unclear>
+            </p>
+            <pb n="3" facs="0012_000298_000229_0003.jpg" xml:id="d4e71"/>
+            <p>the Holmans are well Holman drinks very hard which I regret as I cannot do anything for a drunkard I <unclear reason="illegible" resp="EMS">any my lady</unclear> seeing about getting ready for my trip. hoping to see - you by the 25 <unclear reason="illegible" resp="EMS">I not</unclear> I trust you will all be well Direct to WR Hackley Treasury agent Yazoo City Miss - I will write again from Vicksburg if I can Kiss the children for me The school Books are in the boxes 1 and 2 at the right of the door as you go to the front room the <unclear reason="illegible" resp="EMS">screw driver is</unclear> in the small book box with hinges in the front room </p>
+            <p>Your aff Husband</p>
+            <p>Mrs Wm. R Hackley      WRHacley</p>
+            <p>Bloomington Ills,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

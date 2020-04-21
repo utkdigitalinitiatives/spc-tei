@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000222_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anna Jones</name>
+ in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.<date when="1865-06-20">1865 June 20</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000222_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 June 20</title>
+               <date>1865-06-20</date>
+               <author>
+                  <name>Jones, Anna M.</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">20th June 1865 Anna M. Jones in Allegheny City, Pa. to her husband David L. Jones in Nashville, Tenn. Expresses regret at not having heard from him for a while. Makes him aware of what takes up most of her time; but, knowing the war is over, she is consumed by thoughts of when he might be coming home. She has no desire to take part in social events, with or without their children, while he is away. Makes the case again for getting a sewing machine, which David is not in favor of, to help with needed income.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- United States -- Correspondence.</term>
+               <term>Army spouses -- Pennsylvania -- Allegheny City -- History -- 19th century -- Correspondence.</term>
+               <term>Family life -- Pennsylvania -- Allegheny City -- History -- 19th century -- Personal narratives.</term>
+               <term>Pennsylvania -- History -- 19th century.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>David L. Jones L., Union soldier -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000091_000222_0001.jpg" xml:id="d3e157"/>
+            <p>Allegheny City June 20th 1865</p>
+            <p>My Dear Husband</p>
+            <p>I thought surely I would get a letter from you today but I was doomed to disapointment for I got none but a paper for Tom and one for Andie I got one from <unclear reason="illegible" resp="NW">Jimie </unclear> this morning his aunt says that he is right well contented and well he dont say home is his letter at all he said that they got one from you last week I have not got any boarders I do wish you were home I would not I suppose think so much about it if the war was not over and so many getting home I think they might send you too but I supose you will tell me that I am like Grubbs wife about coming home but indeed it is natural for one to do <unclear reason="illegible" resp="NW">so</unclear> Tom set Mrs Whites mouse trap in the cellar and he caught 9 nmice since morning dong you think that is doing pretty well, well I am glad that they got them Mr Cornelious got home yesterday Bob is going to have supper for one of the Anderson girls that got married they sent me an invitation
+</p>
+            <p>Sharon says ofthen Oh when me Pa <unclear reason="illegible" resp="NW">mon</unclear> home</p>
+            <pb n="2" facs="0012_000091_000222_0002.jpg" xml:id="d3e180"/>
+            <p>but they would have to send me some money first to get some clothes for the children before I could go and I know they wont do that so I will have the pleasure of staying at home I could not enjoy myself when you are away at any rate so I wont try to go, it is raining here now I put up some strawberries I preserved them I got the sugar from reeds they took a pair of stools so did Will <unclear reason="illegible" resp="NW">Gekley </unclear> but I did not lift money either placebut it is all the same I want to send this down to the post office before night indeed david I am sorry you are not in favor of me getting a sewing mashine for we need one badly and it would soon pay for itself I do hope you fellows will get next or dered out I saw archi campble was so drunk that he could hardly walk dont tell John so but he has been drunk all day write soon </p>
+            <p>yours affectionally anna M Jones</p>
+         </div>
+      </body>
+   </text>
+</TEI>

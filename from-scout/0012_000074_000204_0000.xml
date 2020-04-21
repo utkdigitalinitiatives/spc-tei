@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Mossy Creek, Tenn., to John Probert in Pittsfield, Ohio,
+<date when="1864-03-23">
+1864 March 23
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000204_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Mossy Creek, Tenn. to John Probert in Pittsfield, Ohio, 1864 March 23</title>
+               <date>1864-03-23</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>5 digital images; 5 pages</extent>
+               <note type="abstract">In this letter, dated March 23, 1864, from John Watkins in Mossy Creek, Tenn., to John Probert in Pittsfield, Ohio, Watkins relates the journey from Knoxville to Mossy Creek (present-day Jefferson City). He describes the countryside east of Knoxville as &quot;God forsaken&quot; and says it is covered with &quot;rocks scrub oak and cedar.&quot;</note>
+               <note type="collection">The John Watkins Papers, 1864</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e139">
+            <pb n="1" facs="0012_000074_000204_0001.jpg" xml:id="d3e140"/>
+            <p>Mr. John Probert</p>
+            <p>Pittsfield Swain</p>
+            <p>Co Ohio</p>
+            <pb n="2" facs="0012_000074_000204_0002.jpg" xml:id="d3e152"/>
+            <p>Mossy Creek Tennessee March 23rd</p>
+            <p>Friend John</p>
+            <p>Your letter of the 13th of this month I received yesterday at this place. that is making pretty good time to what some of them have made. but I must tell you how we came here and when. we got marching orders at Knoxville in the evening of the 16th and were to start the next morning from the depot at 9 oclock. well we did not get down there till 2 oclock and then there was no transportation for us. and as we went back to the college to stay over night we got away on the 9 oclock train in the morning for Morristown 42 miles distant. we were ordered to the front to take another Battery Capt Edwards 3rd regular. we left our Battery in Knoxville and all the equipments. the regulars were ordered to report to Burnside. it is only a 4 gun Battery and in very poor condition. the horses are most starved to death and the carriages are badly worn and the harness all out of repair. but the guns although they have been in the service since the war began are not much the worse for wear. they are 10 pounder Parrott and as good a gun as there is made with one exception. they have a range of 6000 yards for shell and at two miles</p>
+            <pb n="3" facs="0012_000074_000204_0003.jpg" xml:id="d3e164"/>
+            <p>or 2 1/2 shoot very accurate. the ammunition is in pretty good order and the projectiles used are time shell, percussive shell, spherical case shot and cannister. they have no solid shot and if they want to use any of the ammunition as such play up the shell. the cannister do not hold more than 1/2 as many shot as the cases for our brass guns hold. we expect to get two more like them as soon as the Capt gets back. he is home on a furlough to recruit and there is two guns jest like them in Knoxville. well now about our trip. it was a pretty fine morning that we started from Knoxville but the wind blew up cold and chill before we had been gone long, and kept so all all day long. we arrived at Morristown about 1/2 past 2 in the afternoon so you can see we did not travel very fast. and once or twice we had to stop and somebody get off and cut rails to fire the engine with. there is but little wood along the road and that is very poor, green pine and black oak, and of all the God forsaken countries any body ever saw I think this is it from Knoxville up as far as the army has been. that is some respects for about 8 miles out of Knoxville there is nothing hardly but rocks scrub oak and cedar in sight. but from below strawberry plains the country begins to grow better and along through here I should think it was a very good grain country. and last year it was all planted to</p>
+            <pb n="4" facs="0012_000074_000204_0004.jpg" xml:id="d3e172"/>
+            <p>corn. but this spring I dont think there will be anything put in. for there is not a fence of any kind or description left in sight hardly between here and Knoxville and no very good timber to make fence with or animals to plow the land with. what we have not got the rebels have and going back and forth the armies have cleaned it up in one sense but have left it pretty well stocked with dead horses and mules. after we got off at the depot, we went about 800 yards to get into camp. and about 10 oclock that night we were ordered to pack up and get ready to move. well we did not move till daylight nor did we get any more sleep that night and in the morning the whole army fell back to this place, 14 miles from Morristown. and we the Battery had to pick up our traps and march all day and carry our stuff after Infantry style and I tell you it was no small job for us. but we got through and are all right now. and the next day we had the Battery turned over to us and we have stayed here since. the cars run up here every day with rations and forage and we have a very good time here. for the past week we have had some pleasant weather. but the wind has blown quite hard and cold most of the time - real Ohio <unclear reason="Word is illegible." resp="J.H."/> weather and yesterday to top off with it commenced snowing and snowed all day. it fell about 6 inches deep and to day the sun and wind has taken it all off and now I am in hopes we will have a spell of pleasant weather again.</p>
+            <pb n="5" facs="0012_000074_000204_0005.jpg" xml:id="d3e182"/>
+            <p>well John it dont seem as though you had been married 6 years yet and you have done well to get along without any words between you, and still no more than every couple ought to do. and I know very well there is not one in ten that can say what you do. I have lived with folks when I thought it was impossible for them most to speak pleasant to one another unless there was somebody present overrall and I made up my mind years ago that if I was ever lucky enough to get married, if I couldnt live with a woman without having a fuss every day or tow, I would try not to live with one. I believe a couple ought to thoroughily understand one another before they get married. well John you have my best wishes for your welfare. I dont know of anything I can write that will interest you. I am well and hearty and hoping this will find you all as well off I will close.</p>
+            <p>Yours respectively</p>
+            <p>John Watkins</p>
+            <p>direct to Knoxville Tennessee</p>
+            <p>care of Capt Joe C. Shields</p>
+            <p>19th Ohio Battery 23rd Army Corps</p>
+            <p>to follow the Battery</p>
+            <p>I will send you some more money as soon as I can</p>
+            <p>write when convenient</p>
+         </div>
+      </body>
+   </text>
+</TEI>

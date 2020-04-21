@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000264_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, T.J. Wharton to David Burford, <date when="1841-08-18">1841 Aug. 18</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">Wharton, T.J.</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000264_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, T.J. Wharton to David Burford, </title>
+          <date when="1841-08-18">1841 Aug. 18</date>
+          <author>
+            <name type="person">Wharton, T.J.</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000263_0001.jpg" xml:id="d4e38"/>
+        <p>D. Burford Esq.</p>
+        <p>Dixon Springs PO</p>
+        <p>Smith Cty</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_000115_000264_0002.jpg" xml:id="d4e48"/>
+        <p>Nashville Aug 18 18<unclear reason="illegible" resp="EMS">1841</unclear>
+            </p>
+        <p>DBurford <unclear reason="illegible" resp="EMS">Enj</unclear>
+            </p>
+        <p>D. Sir,</p>
+        <p>You have learned before this that I arrived here a few days ago. It was my intention to visit you as soon as I got up in order to fill an appointment made with Johnston &amp; to arrange the terms of compromise between the him and yourself. But visiting with Col Guild &amp; having a consultation in reference to all the matters in controversy, he stated that he was in <unclear reason="illegible" resp="EMS">suspicion of my visit, concurred</unclear> in them &amp; would see you at Your Court. That it was therefore unnecessary for me to go up. If there be any this further that you wish to comminicate, write early as I shall leave as soon after the 10th <unclear reason="illegible" resp="EMS">such</unclear> as possible. I learn from my Brother <unclear reason="illegible" resp="EMS">lrlow</unclear> that a letter was recd. from you after I left home. He expected that I would see you &amp; did not speak of the contents of the letter</p>
+        <p>Truly Yr. friend</p>
+        <p>T J Wharton</p>
+      </div>
+    </body>
+  </text>
+</TEI>

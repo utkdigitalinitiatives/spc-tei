@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000401_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>H.P. Collins </name>
+ to J.G.M. Ramsey in Knoxville, Tenn.<date when="1871-06-03">1871 June 3</date>
+            </title>
+            <author>
+               <name type="person">Collins, H. P.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000401_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, H.P. Collins, (no place), to J.G.M. Ramsey in Knoxville, Tenn. 1871 June 3</title>
+               <date>1871-06-03</date>
+               <author>
+                  <name>Collins, H. P.</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">H.P. Collins sends to J.G.M. Ramsey an original poem written about their friendship and their advancing age.  It mentions sad events they have encountered, patience they would need to overcome bad things, mercy they&apos;d been given to get through afflictions, the bad along with the good. He writes about his wish that Ramsey will always be happy and content even if they should not meet again.
+
+
+
+
+  
+
+
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Friendship -- Poetry.</term>
+               <term>Life in literature.</term>
+               <term>Aging in literature.</term>
+               <term>Collins, H. P. -- Poetry.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000401_0001.jpg" xml:id="d3e151"/>
+            <p> The following humble <unclear reason="illegible" resp="NW">offcision </unclear> is addressed by H. P. Collins, to his highly esteem &apos;d friend, </p>
+            <p>J. G. M. Ramsay </p>
+            <p>Knox County</p>
+            <p>June 3d. 1871</p>
+            <p>And so, friend J. G. M. - once more,</p>
+            <p>We&apos;ve <unclear reason="illegible" resp="NW">met </unclear>, <unclear reason="illegible" resp="NW">on recuredane </unclear> sphere.- </p>
+            <p>Chatted about the days of yore.</p>
+            <p>How distant they appear.</p>
+            <p>Both of us have encountered age.</p>
+            <p>Our locks have become gray;</p>
+            <p>; And yet the feast, from mem &apos; s page,</p>
+            <p> &apos; T would seem, will never stray. - </p>
+            <p>, As yesterday, I grasped thy hand,</p>
+            <p>,A throb flew through my heart. </p>
+            <p>Some sad events <gap resp="Williams"/> ince last we met,</p>
+            <p>Have robbed joy of some flowers.-</p>
+            <p>&apos; Tis folly o &apos; er the past to fret. </p>
+            <p>Let patience then be ours. - </p>
+            <pb n="2" facs="0012_000060_000401_0002.jpg" xml:id="d3e205"/>
+            <p>&quot; ,Afflictions, tho &apos; they seem severe. &quot;</p>
+            <p>&quot; , Are oft &apos; in mercy sent. &quot;</p>
+            <p>Let us then, while we sojourn here,</p>
+            <p>To render our griefs below,</p>
+            <p>, A check upon man &apos; s <unclear reason="illegible" resp="NW">pr ide: </unclear>
+            </p>
+            <p>Therefore, whatever sorrows flow</p>
+            <p>Let us still lay aside</p>
+            <p>Each <unclear reason="illegible" resp="NW"> niccurecur </unclear> - Oh &apos; should we do this, </p>
+            <p>&apos; Twill soften grief with joy -</p>
+            <p>, And may insure eternal bliss;</p>
+            <p>To <unclear reason="illegible" resp="NW">asreii</unclear> of all alloy.-</p>
+            <p>Farewell! - We never more may meet,</p>
+            <p>As o &apos; er the earth we roam.-</p>
+            <p>Never again, may &quot; Collins &apos; &quot; feet, </p>
+            <p>Approach thy friendly home.</p>
+            <p>Recieve from him, in friendship &apos; s name, </p>
+            <p>This wish; ( &apos; tis from the heart.)</p>
+            <p>May happiness within it reign.</p>
+            <p>Contentment ne &apos; er depart. - </p>
+         </div>
+      </body>
+   </text>
+</TEI>

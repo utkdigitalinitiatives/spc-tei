@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000192_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Watson B. Smith</name>
+ in Blains Cross Roads, to his father<date when="1863-12-21">1863 Dec. 21</date>
+            </title>
+            <author>
+               <name type="person">Smith, Watson B., d. 1881</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000192_000205_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Watson B. Smith in Blains Cross Road to his father 1863 Dec. 21</title>
+               <date>1863-12-21</date>
+               <author>
+                  <name>Smith, Watson B., d. 1881</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">Watson B. Smith wrote to his father on Dec. 21, 1863 while serving in the Civil War. He was at Blains Cross Roads. He told his father he was well, but very busy, and would write more as soon as possible. He would get the letter out the next morning. He wrote to tell his father he had received a package and was pleased with its contents. He sent his love to his family.</note>
+               <note type="collection">Watson B. Smith Letter</note>
+               <note type="manuscript">MS.3104</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Michigan -- Correspondence. </term>
+               <term>Military life.</term>
+               <term>Gifts.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865. </term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Smith, Watson B., d. 1881 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000192_000205_0001.jpg" xml:id="d3e155"/>
+            <p>Blains&apos; Cross Roads</p>
+            <p>Dec. 21./63</p>
+            <pb n="2" facs="0012_000192_000205_0002.jpg" xml:id="d3e165"/>
+            <p>Hd. Qrs. 1st Div. Cav. Corps</p>
+            <p>Blains Cross Roads</p>
+            <p>Decr. 21st 1863</p>
+            <p>Dear Father</p>
+            <p>I am well but have not time to write &amp; have not had time for several days. Will as soon as possible. A man going through in the morning will take this. The Bag has come &amp; I was much pleased with its contents.</p>
+            <p>Much love to all of you</p>
+            <p>Your aff son</p>
+            <p>Watson B Smith</p>
+            <p>St. &amp; A.A.A.G.</p>
+            <p>1st Div. Cav. Corps</p>
+         </div>
+      </body>
+   </text>
+</TEI>

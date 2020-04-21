@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000337_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J.G.M. Ramsey</name> in Philadelphia, Penn., to &quot;Gentlemen of
+Philadelphia&quot; <date when="1819-11-19">1819 November 19</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000337_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M Ramsey in Philadelphia, Penn., to &quot;Gentlemen of Philadelphia.&quot; 1819 Nov. 19</title>
+               <date>1819-11-19</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1819 Nov. 19, J.G.M Ramsey, Philadelphia, Penn., to &quot;Gentlemen of Philadelphia&quot; . Apparently, a speech or letter to a newspaper in which he discusses the problem of foreigners who have come to America to improve their condition and can find no work because of the present business depression. Urges his countrymen to help them. Settlement of the western states by immigrants offered as a solution to this dilemma.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Letters to the editor -- Pennsylvania -- History -- 19th century.</term>
+               <term>Immigrants -- Pennsylvania -- Economic conditions -- History -- 19th century.</term>
+               <term>Land settlement -- West (U.S.) -- History -- 19th century.</term>
+               <term>Philadelphia (Pa.) -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Friends and associates.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000337_0001.jpg" xml:id="d3e152"/>
+            <p>Gentlemen of Philadelphia</p>
+            <p>Hospitality to foreigners has been the distinguishing trait of Americans We welcome to our shores the
+inhabitants of every clime and the subject of every government We do not <unclear reason="illegible" resp="bds">enquire</unclear> from where or who he is To know that he is a stranger is sufficient to
+excite in us all the <unclear reason="illegible" resp="bds">token</unclear> sympathies of our
+nature - In fine the disposition so generally manifested by the American people to welcome and
+<unclear reason="illegible" resp="bds">befnince</unclear> foreign emigrant is the brightest part of our
+national character - and a remembrance of it will be perpetuation when the victories of Perry and Jackson
+shall have long since sunk into oblivion.</p>
+            <p>But perhaps at no time since our national existence commenced have prospects so gloomy <unclear reason="illegible" resp="bds">unpropitious</unclear> &amp; discouraging presented themselves to foreigners at their arrival
+among us as at the present The great commercial embarrassment that is so severly felt and bitterly regretted
+by all classes of the community at this time has produced a general stagnation in business - the obvious
+<unclear reason="illegible" resp="bds">consequence</unclear> of which is a deminished demand for labor - of
+cours many are wholly unemployed and the wages of all reduced - A Foreigner who perhaps has left native
+country with all it endearments in quest of a more competent subsistence on his arrival amongst us hears with
+perplexing mortification that the wages for his services here are less than he has been accustomed to receive
+in Europe- In this distressing Delimma what <unclear reason="illegible" resp="bds">should</unclear> be done - His
+resources are most probably already nearly expended in his passage He cannot if he would return All unite in
+commiserating his unhappy lot - but our commiseration is insufficient and <unclear reason="illegible" resp="bds">unavailing</unclear> Let us do more - while we pity let us advise - Let us be not only a
+friend by a guide to the</p>
+            <pb n="2" facs="0012_000060_000337_0002.jpg" xml:id="d3e185"/>
+            <p>to the Stranger - If employment and wages cannot be had here on the coast let us direct them to the Interior
+of our Country While I say this I am fully sensible that the same Pecuniary difficulties which are felt
+here are experienced also in a greater or less degree through the Union generally - but I trust it will
+not be difficult &amp; I shall attempt briefly in this paper to show that Foreigners of every occupation
+but particularly <unclear reason="illegible" resp="bds">mechanicks</unclear> may go to the Western and
+southwestern States with the most confident expectations of securing a competent support for <unclear reason="illegible" resp="bds">themselvs</unclear> and Families</p>
+            <p>And I shall mention the great cheapness of provisions as an inducement to migrate to the West - Corn which is
+the principle article of consumption in those countries may be generally gotten at 25 cts per bushel Indeed I 
+know many places where the planter considers his corn well sold if he gets one dollar a <unclear reason="illegible" resp="bds">bussell</unclear> and in Tennessee it has often been sold at .50 cents a <unclear reason="illegible" resp="bds">barrel</unclear> Pork may be averaged at from 250 &amp; 300 to 5 dollars in the western states
+generally Beef is still lower - Here then (without enumerating any other article) are the grand substantials of
+life at the lowest prices - if it <unclear reason="illegible" resp="bds">besinged</unclear> against this that the
+emigrant is supposed to have no money I reply that his service if a labourer will always <unclear reason="illegible" resp="bds">Incur</unclear> from the Farmers in that country any product of their farm and if a mechanick the
+price of his work though it should be very inconsiderable will easily procure the necessary articles for diet</p>
+            <p>Anothe inducement I may mention is that houses may be occupied and fuel burned with little often no expence - This
+will appear strange to Philadelphians and Foreigners too that have come from long settled countries - but it is not
+more strange than true Many Men own from one to</p>
+            <pb n="3" facs="0012_000060_000337_0003.jpg" xml:id="d3e215"/>
+            <p>five thousand acres of land - of which perhaps nine tenths are uncultivated - the whole is sometimes but one
+continued grove in which the first tree has not yet been felled To the owner of this land it is enhancing its value
+to erect a small log house and burn the surrounding timber And here kindness to strangers out of <unclear reason="illegible" resp="bds">view</unclear> a sense of his interest will induce any Land holder in the Western
+Country to give permission to any one to build a house - make a small farm &amp;c And the great facility with
+which leases are procured - All Farmers wish to have their Land cleared - and hence it is very common to give a
+lease to a tenant the terms of which are generally this - The tenant is to clear as much Land as he pleases - and
+to cultivate it have the product of that culture for four or five years free of any <unclear reason="illegible" resp="bds">rent</unclear> - </p>
+            <p>Many other circumstances might be mentioned but the Paper has already swelled to double its intended size - But
+in conclusion it would perhaps be right to observe that the Writer has been impressed by an imperious sense of
+his duty not only as a Citizen of the U.S. but as a friend of oppressed foreigners to suggest the foregoing
+hints - The facts he has stated can easily be substantiated and he trusts that all who read or hear them may
+be induced to enquire how the cause of foreigners - the cause of oppressed strangers - can best be
+<unclear reason="illegible" resp="bds">absolved</unclear> - The writer will be well repaid if any advice he has
+given would procure a plentiful competence and a peaceful home to any emigrant</p>
+            <p>A Tennessean</p>
+            <p>Written when all were gone to the Theatre Philadelphia Nov. 19, 1819</p>
+            <p>J Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

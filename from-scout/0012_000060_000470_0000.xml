@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000470_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-07-26">1880 July 26</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000470_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Aug. 12</title>
+               <date>1880-07-26</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 p.</extent>
+               <note type="abstract">1880 July 26 Lyman C. Draper, Corresponding Secretary, Wisconsin State Historical Society, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Asks for clarification concerning places mentioned in Ramsey &apos;s Annals. Describes his King &apos;s Mountain book as being well illustrated and bound and of lasting interest. Questions about Tennessee families and a river in Tennessee with answers pencilled in by J.G.M. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Frontier and pioneer life -- Southern States.</term>
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>South Carolina -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>Southern States -- History -- Revolution, 1775-1783 -- Campaigns.</term>
+               <term>Draper, Lyman Copeland, 1815-1891. King&apos;s mountain and its heroes.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Criticism and interpretation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000470_0001.jpg" xml:id="d3e152"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville --</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000470_0002.jpg" xml:id="d3e164"/>
+            <p>Madison, July 26th. 1880.</p>
+            <p>My Dear Dr. Ramsey --</p>
+            <p>Thanks for your recent favor.</p>
+            <p>I am making some progress in my work -- not so much the past week as formerly, as I have been somewhat under the weather.</p>
+            <p>On page 230 of yr. work, you mention Matthew <unclear reason="illegible" resp="JR">Fallot&apos;s</unclear> as the first night&apos;s camping place. As it was a mill, it was of course on a stream -- was it the head, or towards the head of Gap Creek* --&amp; before they reached Yellow Mountain? This would seem to be inferential. Crab Orchard is another point on the route I wish specifically to locate -- which I suppose was reached just after passing Yellow Mountain.</p>
+            <p>*Is Gap Creek a tributary of Big Doe -- or of the Watauga? I see on one map a stream heading on the mountain &amp; leaving to the upper Watauga.</p>
+            <p>Crab Orchard is 72 miles form Elizabethton, up Doe River</p>
+            <pb n="3" facs="0012_000060_000470_0003.jpg" xml:id="d3e187"/>
+            <p>Mr. Thompson wrote me, that Mr. Paulette at length declined taking a General agency of the King&apos;s Mountain work -- not that Mr. Thompson&apos;s offer was not satisfactory; but that he thought the work too local in nature, &amp; too evanescent, as a sort of out growth of the Centennial, to render it profitable to circulate. I rather judge that he forms his opinion on the general character of trumped-up subscription books -- &amp; poorly gotten up. I know I am doing my part faithfully &amp; honestly, &amp; I know the paper, binding &amp; illustrations on Thompson&apos;s end will be well done -- the four likenesses of Shelby, Sevier, McDowell, &amp; Hammond, will be on steel. I shall be sadly disappointed if the work proves evanescent in its popularity. I cannot help thinking that a good business man -- such as I suppose Mr. Paulette to be -- would find it both pleasant &amp; profitable -- pleasant to work with a book that would be no catch-penny affair. My forty years gatherings are even richer than I had supposed.</p>
+            <p>Where does Dr. G.W. Sevier live -- at Jonesboro?G.W.S. son of Gov. Sevier died in Nashville</p>
+            <p>Ever Truly Yours, Lyman C. Draper</p>
+            <p>Dr. G.W. Sevier, a grandson of Gov. Sevier, lives near Tuscumbia, Ala.</p>
+            <p>Who is the representative of the old Carter family in Carter Co -- Elizabethtown, since Wm. B. Carter passed away</p>
+            <p>W.B Carter, now of Alfred M. Carter, who was a son of Landon Carter was the uncle of the present <unclear reason="illegible" resp="JR">M.B.C.</unclear> Landon Carter was son of John Carter, who came from Va.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

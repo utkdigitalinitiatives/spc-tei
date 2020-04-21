@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000260_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name> J. Crozier Ramsey </name> in Nasville, Tenn., to J.G.M. Ramsey 
+in Charlotte, N.C. <date when="1865-08-31"> 1865 August 31 </date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. Crozier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000260_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. Crozier Ramsey in Nashville, Tenn., to J.G.M. Ramsey in Charlotte, N.C. 1865 Aug. 31</title>
+               <date>1865-08-31</date>
+               <author>
+                  <name>Ramsey, J. Crozier</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1865 Aug. 31 J. Crozier Ramsey, Nashville, Tenn., to his father, J.G.M.
+Ramsey, Charlotte, N.C. Account of his arrest, his removal to Knoxville, and
+his week&apos;s imprisonment there. Mentions indictments which are pending
+against him. Praises Margaret Jane for her kindness to him in his troubles.
+Anticipates future troubles in clearing himself of the accusations against
+him. Reference to their applications for pardons and suggests that probably
+all the family except Robert could return to Knoxville. </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Indictments -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Imprisonment -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>Ramsey, J. Crozier (John Crozier) d. 1868 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000260_0001.jpg" xml:id="d3e155"/>
+            <p>Nashville Ten August 31st</p>
+            <p>Dear Sir</p>
+            <p>I wrote Ma a letter about two weeks ago - and supposed that I would have got a letter from some of you before this time. For
+fear you may have heard of my arrest and be alarmed about it - I thought I would write you. When I was released at Louisville
+in June and returned to this place I know of the indictments pending against me at Knoxville both in the State and Federal Court - 
+but I know that if I remained in the U.S. I would have to <unclear reason="illegible" resp="bds">met</unclear> the case some time
+or another I then made up my mind to stand my ground and met the cases and have them disposed of at court. I then met the</p>
+            <pb n="2" facs="0012_000060_000260_0002.jpg" xml:id="d3e170"/>
+            <p>the Sheriff of this country and the Marshal and had an interview with them and told them that I expected <unclear reason="illegible" resp="bds">capiases</unclear> would be sent to them from Knoxville for my arrest and that I did not intend
+to avoid them - but that I desired before entering into business to make an arrangment with them not to arrest me until court and
+then I would go with them - they agreed to it - and then I commenced business - after remaining here some six weeks a diferent set of
+circumstances arose and the Sheriff felt it his duty to arrest me and take me to Knoxville where I was bailed upon a writ of
+Habeas Corpus and returned to this place and have again resumed business. I do not reflect upon the Sheriff for making the arrest - 
+Maj <unclear reason="illegible" resp="bds">Dick McCarson</unclear> a citizen of this place was <unclear reason="illegible" resp="bds">provisionaly</unclear>
+            </p>
+            <pb n="3" facs="0012_000060_000260_0003.jpg" xml:id="d3e186"/>
+            <p>arrested and taken to Knoxville and the Sheriff felt that it would not be right for him to have a <unclear reason="illegible" resp="bds">capies</unclear> in his pocket for me and not serve it - When Dick was arrested and placed in jail upon the same
+charge - So you see that I am not yet through with all my troubles and trials - but do not allow them to trouble you or give you
+any uneasiness about them. I will come out of them all right - but it will put me to some trouble and expense - So you fully may
+understand the case I send you an article taken from the Nashville Gazette which gives a correct <unclear reason="illegible" resp="bds">version</unclear> of the facts of the case and the legal principles that ought to control the case I was
+imprisoned at Knoxville (which was a week) I met with several of my friends and frequently with my dear Sister - her devotion to
+me which in all my troubles is unequaled and she was of</p>
+            <pb n="4" facs="0012_000060_000260_0004.jpg" xml:id="d3e200"/>
+            <p>great service to me and I can never forget her kindness and attachment to me (not only on this occasion but in all my troubles - 
+the sentiment is still bad there - when I was released on bail I remained in prison until the cars started and then I was
+accompanied with a guard to the Depot. I think it was unnecessary but my friends advised it and I thought it best to take their
+advice. I have to return the third Monday in Oct. I think things will be better by that time I at least dont apprehend any
+difficulty I read yesterday your letter to my Uncle - Glad to hear you are all well and that you have got a place for the
+next year - perhaps it is best for you to stay there for another year - though I still think as I wrote to Ma that you could all
+return (except Robert) with safety - I wrote Judge Patterson yesterday another letter inregard to our applications. I hope
+we will get them soon - you might write to him also - his given name is David T. - he resides with the President - All our friends
+and relatives at Knoxville are well and all are well here - Love to all and will be pleased to hear from all of you often - Uncle
+William received a letter from Uncle Arthur he is living at Austin and has also suffered in property greatly by the war</p>
+            <p>Yours truly</p>
+            <p>J.G. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

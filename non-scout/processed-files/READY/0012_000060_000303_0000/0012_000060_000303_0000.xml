@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000303_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J.G.M. Ramsey</name>
+				               in Mecklenburg, Tenn., to Raymond and Fullerton in Boston, Mass., <date when="1852-04-05">1852 April 5</date>
+            </title>
+        <author>
+          <name type="person">Ramsey, J. G. M. (James Gettys McGready)</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000303_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J.G.M. Ramsey in Mecklenburg, Tenn., to Raymond and Fullerton in Boston, Mass., 1852 April 5</title>
+          <date when="1852-04-05">1852 April 5</date>
+          <author>
+            <name type="person">J.G.M. Ramsey</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1852</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000303_0001.jpg" xml:id="d4e44"/>
+        <p>Mecklenburg T. Apl. 5. 1852.</p>
+        <p>Raymond &amp; Fullerton</p>
+        <p>Yours of the 27. March I received last mail containing statement of your account for B.B. &amp; Co. with E.T. &amp; G.R.R.</p>
+        <p>I was not aware till I received it that I had over paid your accounts as much as on posting it up I find I did.  I supposed there would be a deficit for interest which occured on cargoes delivered between their arrival &amp; the payments as I made them.  And after that amount was mutually &amp; satisfactorily adjusted it may have been right for you then to have applied so much of the surplus as was agreed on between us to be due your house to the payment of that interest.  It may have been an <unclear reason="Faint" resp="JH">inadvertense</unclear> in me to have allowed the surplus at all to have been paid but as between two agents of two respectable parties I hope you will concur with me in saying that all may yet be corrected as justice &amp; good faith will demand I can make no approximation to the amt of your claim for interest &amp; must beg you to give me the figures dates - amts, &amp;c at as early a day as you can.  The charge of loss on Bonds Sep. 19. 1851. is certainly not allowable as it was distinctly stipulated that par &amp; interest should be allowed for them - which you admit yourself in your letter.  I was prohibited by law from selling them below that.  I wish to act fairly to you &amp; justly to myself.  Bailey Brothers &amp; Co.  I know from the character of the house would spurn any other course of conduct were they appealed to.  I trust their agents are actuated by the same feelings.</p>
+        <pb n="2" facs="0012_000060_000303_0002.jpg" xml:id="d4e57"/>
+        <p>I hope this matter can be adjusted without an appeal to either B.B. &amp; Co. or to the referees provided for in the contract between them &amp; the E.T. &amp; G.R.R. Co.</p>
+        <p>Please therefore at once make an exhibit in plain figures showing times of arrival &amp; dates of all my payments - adding on the <unclear reason="Illegible" resp="JH">U.</unclear> side interest on sums prepaid by me.  On this basis if I can count right the Co. owes you much less interest than the amount you have charged.</p>
+        <p>Very Respectfully</p>
+        <p>Your Obt. Servt.</p>
+        <p>J.G.M. Ramsey.</p>
+        <p>Did not send this letter but changed it to the form which appears in my journal of this date &amp; sent it Apl. 7. 1852.</p>
+        <p>J.G.M.R.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

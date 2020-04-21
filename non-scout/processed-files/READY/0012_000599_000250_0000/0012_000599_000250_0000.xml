@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000250_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                     to Caroline M. Brown,<date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000250_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,</title>
+          <date>undated</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.599</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000599_000250_0001.jpg" xml:id="d4e38"/>
+        <p>You was braging on Size i would like to See Her on the old place once Again you said nothing About the little colty I hope
+				       it look rite yet You Said you had two Of andersn Ivers colts In pasture you had Better not keep them In to long for fear of
+				       Dry weather after awhile And you may need it Your Self and wont have but you may do just as you please and Do the best
+				       you can For your Self  I would</p>
+        <pb n="2" facs="0012_000599_000250_0002.jpg" xml:id="d4e42"/>
+        <p>Like to have Some of your young Chickens to eat  We have to pay 25 cents For a chickens about Half grown and 2 Dollars A
+				  bushels for potatoes  And 30 cts for butter  And 25 cts for one Dozen of Eggs and Every Thing in porpotion  Now i shall Close
+				  My Scribling to you For this time by saying I hope these few lines May find you all in Good health My love to You all and requiring
+				  Friends  good by to you All  Henry Brown</p>
+        <pb n="3" facs="0012_000599_000250_0003.jpg" xml:id="d4e46"/>
+        <p>A few lines to the boys  Well boys we are A grate ways apart at This time and we do Not know how long We will be apart  I Hope
+				  not long we are Now in alabama whare I did not think I would Be here when I was at Home with you last Winter I thought I would
+				  bin at home Long be fore this time  But it is hard to tell when we will be at Home now  but my Prare is that you Will be good boys</p>
+        <pb n="4" facs="0012_000599_000250_0004.jpg" xml:id="d4e50"/>
+        <p>I will tell you that I fount a revolver that I was offered 12 Dollars For it the Same day that I found it but I told The boys that money
+				  would not buy it  if I get home before Winter we will have Some fun Shooting Rabbits and I have Picked out one of the Best Drums
+				  in Servise That i<unclear reason="illegible" resp="pw">bve</unclear>be discharged Fetch home with me For you boys to Now I
+				  Shall close be good Boys my love to you boath</p>
+        <p>Henry Brown to the Boys</p>
+      </div>
+    </body>
+  </text>
+</TEI>

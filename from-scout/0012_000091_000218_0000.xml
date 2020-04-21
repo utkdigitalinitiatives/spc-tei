@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000218_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> David L. Jones</name>
+ in Nashville, Tenn., to Anna Jones, Allegheny City, Pa. <date when="1865-05-27">1865 May 27</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L., Union soldier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000218_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa, 1865 May 27</title>
+               <date>1865-05-27</date>
+               <author>
+                  <name>Jones, David L., Union soldier</name>
+               </author>
+               <extent>5 digital images; 5 pages</extent>
+               <note type="abstract">27 May 1865 David L. Jones in Nashville, Tenn. to his wife, Anna Jones in Allegheny City, Pa. Tells her that his letters may not be arriving as regularly. There are plans to move into a new barracks. Sneers at the talk of being paid soon. Believes it won&apos;t happen until they are &quot;mustered out.&quot; Wants to secretly send her some needed goods and tells her to sell his watch, if she needs the money to live on. Greets the children and hopes she and they are all well.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Nashville -- History  -- 19th century -- Personal narratives.</term>
+               <term>Military camps -- Social aspects -- Tennessee -- Nashville -- History -- 19th century. </term>
+               <term>Military camps -- Anecdotes -- Tennessee -- Nashville -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+               <term>Families of military personnel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e160">
+            <pb n="1" facs="0012_000091_000218_0001.jpg" xml:id="d3e161"/>
+            <p>Mrs Anna M. Jones</p>
+            <p>No. 34, Poplar. Street.</p>
+            <p>Allegheny</p>
+            <pb n="2" facs="0012_000091_000218_0002.jpg" xml:id="d3e173"/>
+            <p>Nash May 27th/65</p>
+            <p>My Dear Wife</p>
+            <p>I have just got off duty i went up to the Barracks to write you a letter to send along with Mr <unclear reason="illegible" resp="NW">Camel </unclear>This is Saturday But he dont think that he shall start until Monday I send the children some little books put away and give them one at a time and make them read them all through then James Can read them as soon as he comes home he can read them through as well you can divide it between them as you think Propert and Put each one s name on them There is talk of us moving to that New Barracks too day But it </p>
+            <pb n="3" facs="0012_000091_000218_0003.jpg" xml:id="d3e188"/>
+            <p>is nine o clock now they may move us tomorrow for that matter yesterday the A Pay Master sent a kind of check what you might call a voucher he states that he recieved the 500 so we cant get the money till that is Presented to him But i think that we will not get a cent until we are mustered out that is what i think Let me know whether Lockhart is afraid of trusting you Anna I can buy some Blankets from our Fellows here cheap I think that i shall buy them if there is any lice in them all you have to do is to Boil them in salt water When i get time I think that i shall make a Box and send i have some more small books and some piece of soap and some other thiings that i should like to send home those Niger Women will not allow a body anything for </p>
+            <pb n="4" facs="0012_000091_000218_0004.jpg" xml:id="d3e196"/>
+            <p>the soap i gave them some once But I should through it out before that i would give it to them again for nothing you need not let the children nor anybody else know what i send home that will help us along as well as anybody else I found two pretty good handkerchief down town If i shall buy them things i shall send them by Adams Express But i shall let you know in time about it if we are spared the last letter that i got from you was on the 20th But the Bridges has been down i expect one to day though</p>
+            <p>You might tell Robert to sell or trade my watch so as you can get something to live on if you should tell him that you wold trade for it it <unclear reason="illegible" resp="NW"> mg</unclear> be that he would sell it for you soon The man that cleaned it that was </p>
+            <pb n="5" facs="0012_000091_000218_0005.jpg" xml:id="d3e209"/>
+            <p>
+               <unclear reason="illegible" resp="NW"> Willson</unclear> Robert knows him that it was worth from 20 to 25 But i dont think that he could get near that for it if you would tell him that you need money he <unclear reason="illegible" resp="NW"> wuud</unclear> buy it for his own child try him any way Now I have nothing else to tell you know I feel feel sleepy i did not sleep no more than about an hour last night Please let me know when you hear from James I must finish Mr <unclear reason="illegible" resp="NW">Camel </unclear> has just come in Kiss all the children I hope that you are all well as i amm Kiss all the children for me yours as ever David</p>
+         </div>
+      </body>
+   </text>
+</TEI>

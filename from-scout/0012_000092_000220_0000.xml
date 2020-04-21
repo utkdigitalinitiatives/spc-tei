@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000220_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>John Cregmile</name>
+ in Stilwells Corner, Ohio, to Crittenden Cregmile, <date when="1865-04-13">1865 April 13</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, John, 1811-1888</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000220_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Cregmile in Sillwell&apos;s Corner, Ohio to Crittendon Cregmile, 1865 April 13</title>
+               <date>1865-04-13</date>
+               <author>
+                  <name>Cregmile, John, 1811-1888</name>
+               </author>
+               <extent>1 digital image; 1 page</extent>
+               <note type="abstract">1865 April 13 John Cregmile in Stillwell&apos;s Corner, Ohio, to his son Crittenden. Writes of his sorrow at hearing of Crit&apos;s poor health; and that, both Southgate and James Rea have been wounded. Hopes that soon everyone will be well. Urges him to try and get a furlough and come home if not better soon. Has enclosed ten dollars and asks him to send some money to his brother and James, if he gets paid first. Would like to know where and what hospital Southgate is in. Hopeful that he will receive news of surrender before this letter arrives. Sends his best to everyone there and hopes how soon all will be returned to their homes with the honor due brave and true men. </note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Families of military personnel -- United States -- History -- 19th century -- Correspondence.</term>
+               <term>Soldiers -- United States -- History -- 19th century.</term>
+               <term>Ohio -- History -- Civil War, 1861-1865 -- Social aspects.</term>
+               <term>Cregmile, John, 1811-1888 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>War casualties.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000092_000220_0001.jpg" xml:id="d3e157"/>
+            <p>Stillwells Corner April the 13_ 1865 </p>
+            <p>Crittenden Dear Son</p>
+            <p>Tip has received your letters up to April the first, and we are all very sorry to hear of your poor health, and of Southgate and James Rea beinge wounded, but we are all in hops that you will gaine your health soon againe and that Southgate and Jame Rea will soon be well of there wounds, and that The Anthony will soon return to his Past. and all the Reily boys will soon have the pleasuer of Returning to their sweete homes with all the honours of Brave and true men is my sincere wish,</p>
+            <p>Crit if you do not get better try and get a furlow and come home if you can, I have inclosed ten dollars for you and if I knew where Southgate was I would send him some if you are paid off send Southgate and James Rea some for thay may not be paid off for some time, Crit let us know what <unclear reason="illegible" resp="NW">hospatlee</unclear> that Southgate and Rea is in and where, I suppose you will have the good news of surrender befor this reaches you. Crit give my best respects to all the Boys &amp; I Remain yours for ever </p>
+            <p>John Cregmile</p>
+         </div>
+      </body>
+   </text>
+</TEI>

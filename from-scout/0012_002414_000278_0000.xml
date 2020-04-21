@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000278_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Ebenezer Hazard</name>
+				                   in Philadelphia, Pa. to Issac Hezelhurst.,<date when="1793-10-26">1793 Oct. 26</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Ebenezer Hazard</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000278_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Ebenezer Hazard in Philadelphia, Pa. to Issac Hezelhurst.,1793 Oct. 26</title>
+               <date when="1793-10-26">1793 Oct. 26</date>
+               <author>
+                  <name type="person">Ebenezer Hazard</name>
+               </author>
+               <extent>1 page</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000278_0001.jpg" xml:id="d4e39"/>
+            <p>Insurance Office</p>
+            <p>Phila. Oct. 26, 1793</p>
+            <p>Mr. I. Hoozlehurst</p>
+            <p>Sir,</p>
+            <p>I recd. your favr. of 24th. Inse. &amp;forwarded it to Mr<unclear reason="illegible" resp="pw">Neuleitt</unclear>,who
+				       desires me to inform you that the Risque on the Ship Brothers will be taken at 4 &amp;Cy. but that not more than Ds. 2000
+				       will be done on The Freight: There must be a warrantee that vessel &amp;Goods are American Property, &amp;that the
+				       Vessel does not carry two Setts of Papers.  If these terms are agreeable, please inform me, &amp; the Insurance shall be
+				       immediately effected.</p>
+            <p>In this Office Individuals do not write, but Mr. Nesbitt signs for the Company, so that you need be under no Apprehensions
+				       as to the Stability &amp;Sufficiency of The Underwriters.</p>
+            <p>I am Sir</p>
+            <p>Yr. mo. obedt. Servt.</p>
+            <p>E. H. Secy.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

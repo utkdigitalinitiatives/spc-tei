@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000229_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Caroline M. Brown,<date when="1862-03-09">1862 Mar. 9</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000229_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,1862 Mar. 9</title>
+          <date when="1862-03-09">1862 Mar. 9</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000229_0001.jpg" xml:id="d4e39"/>
+        <p>March 9th 1862</p>
+        <p>Dear wife i thought I would write again And tel about the Wether we have very nice wether At present it is warm And nice at this time Now i will tell you why i send my letters to millerstown i think you can get them sooner than you would if i was to send them to hartleyville so you may look for them at millerstown hereafter you may mail yours At hartleyville as it is nearer to you but i will send my letters to millerstown Nuff of tha</p>
+        <pb n="2" facs="0012_000599_000229_0002.jpg" xml:id="d4e45"/>
+        <p>Now i will just say that we have drawed our money We got 26 Dollers apeice And they are tow month Be hind yet and no talk of paying us any more for six months but i think we will be paid of Be fore that and at home with you and and the children in peace by the fire i intend to send you five dollars in this letter And if you get it i will send you more after Awhile if you get this if it it arive safe Now i will tell you whitch pictur you must give Isaiah you must give him the battle of logans cross Roads and george the Battle</p>
+        <pb n="3" facs="0012_000599_000229_0003.jpg" xml:id="d4e49"/>
+        <p>of wild cat and you may keep the Camp Dick Robison of the Chaplain preaching to the soldiers and keep the others safe for me try to keep them clean Now i will just say that george Gaver is verry sick they say that he will have a verry narry escape of his life and John McNeal is behind at Nashville i have not herd from him since we left town Samuel Lions is not well yet he is at town with Gaver Now i will tell you that you must get in the oats as soon as you can get them in and you must sow your tobacco seed as soon as you can get in the ground get some body to sow it for you</p>
+        <pb n="4" facs="0012_000599_000229_0004.jpg" xml:id="d4e53"/>
+        <p>Now I hope thes few lines may find you all in good Health and the Neighbours All Now i shall close my letter saying i want you to write once a week if you can get the paper and stamps And if get this money you can get it i want you to keep it for your own use Now i shall close by saying I would like to see verry much we have word here that the sixty second Regment is in Nashville to day some or our men have seen some of them to day so good by to you all for tonight</p>
+        <p>I still remain your Husband and father</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

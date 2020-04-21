@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Holston U.S.A. General Hospital, Knoxville, Tenn.,
+<date when="1864-07-22">
+1864 July 22
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000206_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Holston U.S.A. General Hospital in Knoxville, Tenn. to Jeannie Lockhart, 1864 July 22</title>
+               <date>1864-07-22</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated July 22, 1864 from Holston U.S.A. General Hospital in Knoxville, Tenn., to &quot;My Own Darling,&quot; John Shrady, a regimental surgeon, repeats the information sent in his letter of July 20, 1864 concerning a draft of $850.00. Additionally, he &quot;congratulates&quot; the recipient on her birthday and promises to go on many &quot;rambles&quot; with her when he returns.</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000206_0001.jpg" xml:id="d3e143"/>
+            <p>Holston U.S.A. Genl Hospital</p>
+            <p>Knoxville, Tenn</p>
+            <p>July 22, 1864</p>
+            <p>My Own Darling,</p>
+            <p>I have of course nothing new to add to my letter of the 20th inst. in which I enclosed a draft to you of Eight-hundred and Fifty dollars, payable to Pa&apos;s order and which I hope you have received.</p>
+            <p>My object in writing you is to give you a clue in case that letter has mis-carried. I also wrote Pa yesterday, giving him the necessary instructions as to the mode of procedure to get said draft cashed.</p>
+            <p>Yours of the 20th likewise contained full explanations. I repeat what I said in it, as far as I recollect. There will be no loss to you, if the draft does not arrive after a reasonable length of time, because no one can put it to any account but Pa and I can get it duplicated until it is paid. I preferred this to risking money in bulk by Adams&apos; Express, as the rail-road is the object of occasional raids and the Company will not hold itself responsible for losses by the enemy. The number of the draft is No 596 -- 1st National Bank of Knoxville Tenn -- July 20th 1864</p>
+            <pb n="2" facs="0012_000068_000206_0002.jpg" xml:id="d3e163"/>
+            <p>I sent it on to you as soon as I received my pay, knowing that it might be just possible that you were in need of some little comforts, conveniences, &amp;c. and being well aware of the bad practice of carrying so much money about one&apos;s person in the society of, to me, a strange town: there might be a robbery at my expense and solicitations for loans might be annoying. At all events, you are welcome to use it as you think best -- I have kept a sum sufficient to defray expenses for three or four months, pay up some borrowed money and have something over when I arrive at home. When my time is out I will have three months pay due me but some say that there is a delay in receiving it, -- the Government does not pay until they are satisfied that your accounts, reports, &amp;c are correct and have been duly forwarded. If the Paymaster happens here again about the commencement of September I may get another sum, which will then only leave an unsettled balance due me from September 1st to 28th. These are the reasons I have not sent you a larger amount. I have been preparing for little contingencies and I know that my precious will not think that I have reserved to myself anything like &quot;a lion&apos;s share.&quot;</p>
+            <p>You may not be pleased that I made the draft pay</p>
+            <pb n="3" facs="0012_000068_000206_0003.jpg" xml:id="d3e173"/>
+            <p>able to Pa in preference to yourself. I would have adopted the latter course but was fearful of putting you to too much trouble in getting someone to prove your identity at the Bank; for you know that they are exceedingly particular about those matters. I am no hand to let my business affairs be too much known by other parties than yourself, but in this instance, I thought that probably there would be less risk of delay in the receipt of your money.</p>
+            <p>Pa will willingly do the favor, I request of him for you -- so I would not, were I you, feel anyway delicate about asking him to go with you or get it for you.</p>
+            <p>I must congratulate you on this, the Anniversary of your birthday -- I would that I were home to aid in its celebration by escorting you around and contribute to your enjoyment according to your best pleasure. I have a great many back accounts against me in your favor, which have been necessarily accruing in my absence, in the way of neglected visits, rambles &amp; what not but depend upon it, I mean to pay up with double compound interest.</p>
+            <p>I enclose you a few photographs for our Album -- I&apos;m afraid, however, that I have already encroached too much upon the room you may have reserved for your own relatives and friends. But then you know</p>
+            <pb n="4" facs="0012_000068_000206_0004.jpg" xml:id="d3e187"/>
+            <p>that Generals are curiosities at all times.</p>
+            <p>The Medical Director is very anxious to keep both Dr. McMillen &amp; myself in the Department under a new arrangement published in orders from the Office of the Secretary of War: by which a regimental surgeon of over two years&apos; service, on the recommendation of the Director, after the mustering out of his regiment, may accept a contract as Acting Staff Surgeon, with rank &amp; pay of regimental surgeon with use of government horse and equipage. But at this time I am obstinately bent upon coming home and do you blame me for sighing after a little freedom?</p>
+            <p>My regards to Mother &amp; Fan -- a kiss for little Pink, and my undivided heart for your own. Our anxious yearnings to see each other I hope and pray may be answered. May Heaven protect you and yours and may I ever prove myself your most earnest friend &amp; defender, while with pride I subscribe myself</p>
+            <p>Your Husband &amp; Lover</p>
+            <p>John</p>
+            <p>Address me as</p>
+            <p>Surgeon John Shrady</p>
+            <p>Holston U.S.A. General Hospital</p>
+            <p>Knoxville, Tenn</p>
+            <p>P.S.</p>
+            <p>Write soon to relieve my anxiety as to arrival of Draft</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000219_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Camp Dick Robinson, Ky to Caroline M. Brown, <date when="1861-10-28">1861 Oct. 28</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000219_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Camp Dick Robinson, Ky to Caroline M. Brown, 1861 Oct. 28</title>
+          <date when="1861-10-28">1861 Oct. 28</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection 1861-1862</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000219_0001.jpg" xml:id="d4e39"/>
+        <p>Camp Dick Robinson</p>
+        <p>October 28 1861</p>
+        <p>Dear wife and children Phene I sit down this pleasant Evening to in form you that I am well and hope these few lins may find you all the same we Are still at this same Place yet and i cant Tell when or where we will go next I Believe we will leave Here Before long for some Place but where I know Not and i Do not Care I left home to fight For my Country and Still feel like doing so</p>
+        <pb n="2" facs="0012_000599_000219_0002.jpg" xml:id="d4e47"/>
+        <p>I would not be talked about As some of your neighbors Are for fifty Dollars And his name is L M For he maid so much fuss about going and had so many chances as he He has had since i left Home i have heard A grate many of our Boys they thought he did Not want to go no how I want you to send me The news of the day the Health and so on i want you to send me word How Mrs Gheen and old Granmother Lews are and Mr A B Towndson and His wife are and James Henry and wife are adn All the rest of the</p>
+        <pb n="3" facs="0012_000599_000219_0003.jpg" xml:id="d4e51"/>
+        <p>Neighbours i General And give my Love to All inquiring friends Tell them that i will would be very glad to have a letter from Any of them that feel like writeing to me To put in and i will write Back to them Fast as i can i have a very poor chance to write i have to do all my writing To Do after night and set flat down in my tent and write on the drum head and no ink half to write with half the time i shall close my letter now and</p>
+        <pb n="4" facs="0012_000599_000219_0004.jpg" xml:id="d4e55"/>
+        <p>Say Good by to you one and all untill I see you all again we have not got no Pay yet they say we will get it next wednesday or thursday I hope it may be so I shall close by sending my Love To you and phene And the Children So good By</p>
+        <p>Henry Brown</p>
+        <p>To C. M Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

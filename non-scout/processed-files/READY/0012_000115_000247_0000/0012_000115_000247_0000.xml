@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000247_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1818-04-07">1818 Apr. 7</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000247_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1818 Apr. 7</title>
+          <date when="1818-04-07">1818 Apr. 7</date>
+          <author>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000247_0001.jpg" xml:id="d4e38"/>
+        <p>Copy</p>
+        <p>Mr. Hagner</p>
+        <p>3d Auditor War Department</p>
+        <p>Washington City</p>
+        <pb n="2" facs="0012_000115_000247_0002.jpg" xml:id="d4e48"/>
+        <p>Carthage April 7th 1818</p>
+        <p>Mr. Hagner</p>
+        <p>Sir</p>
+        <p>I received a letter from Docr Hogg dated 21st of March last by which I learnt that you had handed him a letter directed to me, it has not come to hand; also one dated 3d February last in which he writes me that he <unclear reason="illegible" resp="EMS">Sec.</unclear> the <unclear reason="illegible" resp="EMS">cospy</unclear> of your letter that you wrote that there appeared to be a balance of Two hundred and Seventy Six Dollars due from me to the Government It is impossibly Sir that I can be indebted that Sum, or any Sum to the Government and on what acct I stand charged to that amt, I am at a loss to tell, the vouchers of acct forwarded by me must certainly never have reached there, or they have not been placed to my credit.</p>
+        <p>You would confer an oblidging favour to write me on what acct I stand charged; also inclose; a Schedule of the acct in order that I</p>
+        <pb n="3" facs="0012_000115_000247_0003.jpg" xml:id="d4e66"/>
+        <p>may forward the vouchers if in my possession, if not that I may endevour to procure them.</p>
+        <p>It is not my wish that I should stand charged when I know that I am not in <unclear reason="illegible" resp="EMS">justce</unclear> due the Government any thing; but to the contrary, if Such accts for Services as Qr MAster as forwarded by me are ever paid, the govt, is due me that amt</p>
+        <p>It is strange that this should be the first that I should hear of an acct with the Govt when other officers of the Army had a certain length of time for settling their accts, and were continued in Service for a certain period, for that express purpose be pleased on the Ret of this to write me on the Subject. With Respect Sir</p>
+        <p>Your Mo. Obl. Servant</p>
+        <p>D. Burford</p>
+        <p>Mr Hagner 3d Auditor</p>
+        <p>Washington City</p>
+        <p><unclear reason="illegible" resp="EMS">Nts</unclear>the date of the letters Red from Docr Hogg is set down incorrect, the one of the 21st March is the one in which he advises me of an acct withe Govt and that of 3d Feby contains the informaiton Sd to be in that of 21st March. D.B.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

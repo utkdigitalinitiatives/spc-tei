@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000415_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>David Wills</name>
+ in Atlanta, Ga., to J.G.M. Ramsey in Knoxville, Tenn. <date when="1873-03-01">1873 Mar. 1</date>
+            </title>
+            <author>
+               <name type="person">Wills, David</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Valine, Debbie</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000415_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David Wills in Atlanta, Ga., to J.G.M. Ramsey in Knoxville, Tenn. 1873 Mar. 1</title>
+               <date>1873-03-01</date>
+               <author>
+                  <name>Wills, David</name>
+               </author>
+               <extent>3  digital images;  2 pages, 1 envelope</extent>
+               <note type="abstract">In a letter dated March 1, 1873, Dr. David Wills of Atlanta wrote to J.G.M. Ramsey in Knoxville, TN. Wills regretted that he did not see Ramsey in Greeneville at a ceremony in which a monument was erected in memory of Dr. Doak. Wills mentioned his speech and audience reaction. In his speech, he had spoken highly of Ramsey, of his gratitude to Ramsey for supplying him with facts for his speech, and also of educators, religion in Tennessee, and the first president of Washington, Greeneville, and Tusculum Colleges. Wills promised to send to Ramsey copies of his speech which would be published. He asked Ramsey to correct any errors in it. He also promised to recommend Ramsey for an LLD.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Monuments -- Tennessee -- Greeneville.</term>
+               <term>College presidents -- Monuments -- Tennessee -- Greeneville.</term>
+               <term>Speeches, addresses, etc.</term>
+               <term>Greeneville (Tenn.) -- History.</term>
+               <term>Wills, David -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000060_000415_0001.jpg" xml:id="d3e159"/>
+            <p>Answd Dr. Wills</p>
+            <p>March 3, 1873,</p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000415_0002.jpg" xml:id="d3e175"/>
+            <p>Atlanta March 1st, 1873</p>
+            <p>My dear Friend.</p>
+            <p>I greatly regret in not having met you at Greenville on the occasion of the erection of a monument to the memory of Dr. <unclear reason="illegible" resp="DV"> Doak </unclear> . There was a fine audience present &amp; all anticipated the pleasure of your presence &amp; of hearing you speak the words of &quot; truth &amp; <unclear reason="illegible" resp="DV"> soberness </unclear> &quot; . I could not tell when I would be at Knoxville or else I would have urged you to join me there. I looked for you when we reached the place, but could see nothing of you.</p>
+            <p>I spoke about an hour &amp; a half &amp; had the best attention.</p>
+            <pb n="3" facs="0012_000060_000415_0003.jpg" xml:id="d3e195"/>
+            <p>I gave prominence to the pioneers of education &amp; religion in Tenn &amp; first president of Washington, Greenville and Tusculum Colleges. I announced my indebtedness to you for interesting facts &amp; spoke of your life &amp; labors in a eulogistic manner. The address is to be published &amp; I will send you some copies. I would be glad for you to see the proof that you might correct any errors in dates &amp; c that might exist.</p>
+            <p>
+               <unclear reason="illegible" resp="DV"> Yrs </unclear> most sincerely</p>
+            <p>David Wills</p>
+            <p>P.S. I will recommend you for an L L D</p>
+         </div>
+      </body>
+   </text>
+</TEI>

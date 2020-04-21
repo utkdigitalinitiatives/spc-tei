@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000230_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">William Smith</name> in <name type="place">Chattanooga, Tenn.</name> to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-06-19">1865 June 19</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000230_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William Smith</name> in <name type="place">Chattanooga, Tenn.</name> to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-06-19">1865 June 19</date>
+               </title>
+               <date when="1865-06-19">1865 June 19</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>5 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e209">
+            <pb facs="0012_001356_000230_0002.jpg" n="1" xml:id="d2e211"/>
+            <!-- The text that appears at the top of this page in the original document is in fact part of a paragraph continued from the back page of the letter. In order to maintain a valid document, the text was transcribed in the place where it belonged intellectually. This was documented with <note place=> NL -->
+            
+            <opener>
+               <dateline>
+                  <name type="place">Chattanooga Tenns</name> 
+                  <date when="1865-06-19">monday moring June 19 1865</date>
+               </dateline>
+            </opener>
+            
+            <p>my de wife you need not write to me any in my dear an lovieng wife with the helpe of the Blessed Lorde I have taken up my pen this morning in writing to you these few lines hopeing that they may finde you all well at this time of wich I thanke god it leaves me quite well at this time thank god for that great blessen my dear wife I know you must feel very bad at this time at the death of our dear childe alfred who I little thought would die in this awful hot and suney southern town wheare hundreds are ding every day and every weeke my dear wife theare is Desises of all kinds in this country a great deal of the complaintes are brought on the poor men by haveing to drink such bad water</p>
+            
+            <pb facs="0012_001356_000230_0003.jpg" n="2" xml:id="d2e230"/>
+            <note place="top"><p>I do not know what day I shall get on as soon as I gan get my money I shall leave Chaggng at for nashvill in the morning</p></note>
+            <!-- The preceding two paragraphs are the postscript continued from the back page -->
+            <p>my alfred only livid two day and one night after I got to nasvhill on saturday night that was on the tinth day of june on saturday night that I there and he Died on monday night at the our of ten oclock at night my der wife the last thing that I gave him isin his dear life was an small peace ice he sucked that aminet or two and I see him getting worse and after a few minits hes breath was gone I called to the wardemaster and tolde him that my dear childe was gone he saide to me he had suffered a great deal pain I stayed in nasvhill 5 days and came to <name type="place">Chattanooga</name> on friday night on Satur moring I got on the train and wente to <unclear reason="illegible" resp="NL">resecca</unclear> in the St of george 16 miles beyonde ballan and got my discharge from boss kelogg my warkin time is all gon in to the office and I ham waiting to now get my kay for my dear I want to come back god bless you my dear and loving wife came </p>
+            
+            <pb facs="0012_001356_000230_0004.jpg" n="3" xml:id="d2e248"/>
+            <note place="top"><p>so my dear wife you may expect me in a weeke or ten dayes when you see the train pass you can look tor me I will hold up hat when I pas by my Lisey</p></note>
+            <!-- The preceding two paragraphs are the postscript continued from the back page -->
+            <p>and to Eate such foode as the the poor man haves to Eate here to live on harde tack and salt pork some the men that belonged to our gan are died some weekes ago with the wiperfence and many more of them are now in the hospitle with broken leggs and other complaintes my wife I cannot say any more about this subject of thing now my dear wife if I live and have my Ealth I can till you all aboute the south wheare I have been and what I have seen on my traveling through Eastirn tennessee my dear wife I coldnot being to tell you all that I know about the suffering of the poor men I did it would make you heart ake I know that my dear alfred was a sufer before he diead I shall not forget his <choice><orig>moenes</orig><corr resp="nl">moans</corr></choice> and cries to me as long as I live </p>
+            
+            <pb facs="0012_001356_000230_0005.jpg" n="4" xml:id="d2e266"/>
+            <note place="top"><p>I will take good care of money I earned</p></note>
+            <!-- The preceding two paragraphs are the postscript continued from the back page -->
+            <p>my poor der and loving childe it greived me to the very hearte to see him Die he tried all that he could to speake to me and he coulde not and that hurte my mindso that I felte very bad it made me feel very bad that my heart was so full that I cred over my dear child it was very harde for me to be there and know one to speke to that that I little thought that I should see him die in this hospitle in tennsse my wife I can tell you all about it when I come home when I get to nashvill I shall go and get is blankets and his cloths what belonges to him in the hospitle wheare my alfred theare from 25 to 30 is men they all had the cronic dsease the docter he did not know what to do with them the poor souls wheare very bad off with that complaint</p>
+            <note place="overleaf top">
+               <p>with the 1100 dallors in it amad I was so glad for that since alfred died did you send me any letter to <name type="place">nashville</name> yet I sent to my pargralt</p>
+               <p>I will be home as san I gan</p>
+            </note>
+         </div>
+      </body>
+      
+      <back>
+         <div type="envelope" xml:id="d2e293">
+            <pb facs="0012_001356_000230_0001.jpg" n="5" xml:id="d2e295"/>
+            <p><address>
+               <addrLine>Mr. Austin H. Smith</addrLine>
+               <addrLine>Binghamton Clinton St</addrLine>
+               <addrLine>Broome Co.</addrLine>
+               <addrLine>N. York</addrLine>
+            </address></p>
+         </div>
+      </back>
+   </text>
+</TEI>

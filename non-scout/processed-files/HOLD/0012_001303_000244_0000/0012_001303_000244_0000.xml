@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000244_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,  
+					<name>James L. Dodds</name>
+				                    in France, to Ellen Smith, in Jackson, Tenn., <date when="1919-03-30">1919 Mar. 30</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000244_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France, to Ellen Smith, in Jackson, Tenn., 1919 Mar. 30</title>
+          <date when="1919-03-30">1919 Mar. 30</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.2918</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000244_0001.jpg" xml:id="d4e39"/>
+        <p>J.L. Dodds</p>
+        <p>T Co # 8 = 23 Engir</p>
+        <p>Amer Exp Forces</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>OM</p>
+        <p>
+          <unclear reason="illegible" resp="SLJ">CEbraddon</unclear>
+        </p>
+        <p>
+          <unclear reason="illegible" resp="SLJ">Copr opengrs</unclear>
+        </p>
+        <pb n="2" facs="0012_001303_000244_0002.jpg" xml:id="d4e63"/>
+        <p>Souilly France</p>
+        <p>March 30 1919</p>
+        <p>Dear Ellen:-</p>
+        <p>Althou I think this is a one sided affair I am going to write you this afternoon any way.</p>
+        <p>Another week has gone by and not a line from you</p>
+        <p>I wonder what is the matter with you</p>
+        <p>I hope you are not sick it has been over three</p>
+        <pb n="3" facs="0012_001303_000244_0003.jpg" xml:id="d4e79"/>
+        <p>weeks since I heard from you.</p>
+        <p>Well one year ago tonite I left the good old U.S.A I stood out on the deck while I past the Statue of Liberty.</p>
+        <p>And wondered if I would ever get back to see her once more Well I am going to make it I believe I dont know when but I hope soon</p>
+        <pb n="4" facs="0012_001303_000244_0004.jpg" xml:id="d4e87"/>
+        <p>you should be over here and enjoy this snow we are having has been snowing for a week</p>
+        <p>And it didnt stop for sunday either.</p>
+        <p>Lin left here last friday I sure did hate to see him leave for we visited one another pretty often</p>
+        <p>He was over to see me last monday</p>
+        <pb n="5" facs="0012_001303_000244_0005.jpg" xml:id="d4e97"/>
+        <p>night to say good bye I told him when he got back home to tell you I was O.K.</p>
+        <p>I might get home before he does or might be later I havent any idea about it at all.</p>
+        <p>Thank maybe we will leave this camp some time in April</p>
+        <p>Most all the Amex Soldiers are gone from here now it left the 23 Engir</p>
+        <pb n="6" facs="0012_001303_000244_0006.jpg" xml:id="d4e107"/>
+        <p>Ant the French are moving in so we will have to get out</p>
+        <p>Now if you have got married I thank you should write me about it</p>
+        <p>will quit for this time Hoping to hear from you soon as Ever</p>
+        <p>James L. Dodds</p>
+      </div>
+    </body>
+  </text>
+</TEI>

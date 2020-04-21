@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000088_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+James J. Vauln
+</name>
+in LaGrange, Tenn. to Ulysses S. Grant in Memphis, Tenn.,
+<date when="1862-06-23">
+1862 June 23
+</date>
+            </title>
+            <author>
+               <name type="person">Vauln, James J.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000088_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, James J. Vauln in La Grange, Tenn. to Ulysses S. Grant in Memphis, Tenn., 1862 June 23</title>
+               <date>1862-06-23</date>
+               <author>
+                  <name>Vauln, James J.</name>
+               </author>
+               <extent>3 digital images; 0.1 linear feet; 3 p.</extent>
+               <note type="abstract">This letter from James J. Vauln, a deacon of the American Catholic Church in LaGrange, to General Grant is dated June 23, 1862. It contains a plea from Vauln for permission to continue his church services, as the new brigadier general had forced him to stop holding services.</note>
+               <note type="collection">James J. Vauln Letter, 1862</note>
+               <note type="manuscript">MS.969</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Liberty -- Religious aspects -- Catholic Church -- History.</term>
+               <term>Christianity and politics -- Catholic Church -- History.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Religious aspects.</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>Catholic Church -- United States -- History -- Civil War, 1861-1865.</term>
+               <term>Vauln, Jas J. (James J.) -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000088_000200_0001.jpg" xml:id="d3e151"/>
+            <p>LaGrange Tenn June 23d/62</p>
+            <p>To</p>
+            <p>Gen: Grant</p>
+            <p>Memphis</p>
+            <p>Tennessee</p>
+            <p>Sir</p>
+            <p>I received the inclosed order from Brig; Gen; Hurlbert yesterday (Sunday) evening. Please send me a written permission to continue my services as I did while Gen: Sherman was here, i.e., by leaving out the prayer for the President. I make this request to you, not because I think you, Gen: H. or any other Gen: or state officer has a right to </p>
+            <pb n="2" facs="0012_000088_000200_0002.jpg" xml:id="d3e171"/>
+            <p>direct me in the services of the Church. The Church of Christ we are taught in Holy Scripture is His body. He is the head of it &amp; it is governed by the Bishops which are the successors of the Holy Apostles. The Church in this country, as it should be throughout the Catholic world, is entirely Pope-free &amp; state-free -- the Bishops have the right to appoint our services -- our good Bishop &amp; our Diocesan Convention have given me my directions concerning services, which I have followed. I appeal to you then, knowing that Gen: H. has the right of might or force to make me close my church <unclear>, &amp;</unclear>
+            </p>
+            <pb n="3" facs="0012_000088_000200_0003.jpg" xml:id="d3e181"/>
+            <p>I appeal to you as his superiour officer to give a written permission to continue my services as heretofore. Please send me the permit as soon as you can &amp; you will very much oblige</p>
+            <p>Yours Respectfully</p>
+            <p>Jas J. Vauln</p>
+            <p>Deacon of the American</p>
+            <p>Catholic Church.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

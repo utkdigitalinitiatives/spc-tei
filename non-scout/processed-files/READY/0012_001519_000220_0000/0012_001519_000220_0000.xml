@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000220_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Speech,
+					<name>Horace Maynard</name>
+				                     to the Slaveholders of Tennessee,<date when="1863-07-04">1863 July 04</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Horace Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000220_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Speech, Horace Maynard to the Slaveholders of Tennessee,1863 July 04</title>
+          <date when="1863-07-04">1863 July 04</date>
+          <author>
+            <name type="person">Horace Maynard</name>
+          </author>
+          <extent>12 pages</extent>
+          <note type="collection">Maynard Family Letters </note>
+          <note type="manuscript">415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000220_0001.jpg" xml:id="d4e39"/>
+        <p>TO THE SLAVEHOLDERS OF TENNESSEE</p>
+        <p>FELLOW CITIZENS:</p>
+        <p>This is a historic day.  We live in a historic time.  The eye of posterity is fixed upon us.  There are grave responsibilities that we must bear.
+				       Momentous questions must be solved.  We cannot avoid them.  Though we fly upon the wings of the morning, they pursue us; if we
+				       retire to the depths of the mountains, they are still there.  The highest efforts of our nature are demanded, the heroism that looks death
+				       in the face on the battle-field; the moral courage that dares to do and to say the right thing, though men and devils frown; the boldness
+				       of thought that can rise above the trammels of conventional usage and strike out new expedients of such admitted wisdom that men 
+			                will hereafter recognize them as precedents.</p>
+        <p>One of these questions that, whether we will or no, forces itself for solution upon the people of Tennessee, is the question of slavery.  We
+				       cannot be blind to the fact that this interest has been seriously impaired by the progress of the war, and that it is greatly endangered.  I
+				       propose to-day to trace the history of it, in this State, since the organization of the State, that we may, by seeing how the pioneers and
+				       their immediate descendants dealt with it, derive some aid in escaping from our present difficulties.</p>
+        <p>Slavery has existed from the beginning in Tennessee.  Not without opposition and many a vigorous protest.  The free and freedom-loving
+				       men who pioneered the settlement of the State, were many of them hostile to it.  They believed it wrong before God, and in the just
+				       judgement of men.  Whether they had studied considerations sometimes drawn from political economy, to the effect that a white man is
+				       better and more valuable as a citizen than a black man, and a community of white men more desirable than a community of black men;
+				       and that a free man is better and more valuable as a citizen than a bondman, and a community of freemen more desirable than a comm-
+				       unity of bondmen, must be left at this day very much to conjecture.  The fathers of the</p>
+        <pb n="2" facs="0012_001519_000220_0002.jpg" xml:id="d4e51"/>
+        <p>2</p>
+        <p>State, we know, were very generally trained in the political school of Mr. Jefferson, and in adopting his views upon other subjects, did not 
+			           reject his opinions upon this.  What they were, is well enough known to every one familiar with his writings.  In his notes on Virginia, after
+				  denouncing slavery in terms of great severity, often quoted, and deprecating its " unhappy influence on the manners of our people,"
+				  he exclaims, " With what execration should the statesman be loaded who permitting one half the citizens thus to trample on the 
+				  rights of the other, trnsforms those into despots and these into enemies."  That such teachings from such a source should have 
+				  made a profound impression upon a people who were forced to consider the elementary principles of human society and who were little
+				  used to the sophistications of commerce and gain, and the gradations of organized communities, we can readily believe.  Nor was Mr. 
+				  Jefferson alone; many of the best minds of the time concurred with him, though few occupied his commanding position, or were so
+				  persistent in expressing their hatred of slavery, and in efforts to carry it into practical effect by abolishing the system.</p>
+        <p>And though some slaves came in with the earlier settlers of what was then known as the Territory south of the Ohio, the question was
+				  gravely considered whether in the formation of a State government slavery should not be excluded, and the State be composed alone
+				  of freemen.  The Convention to form a constitution assembled at Knoxville, in January, 1796.  The debates were not reported.  The
+				  Journal shows that the details of the instrument were settled in Committee of the Whole, of which no record is preserved.  It is among		
+				  the traditions of their proceedings that a proposition was made to incorporate in the constitution a provision for the abolition of slavery,
+				  and it was lost by a majority of but a single vote.  The condition of the slaves was thus left unchanged, and no further notice of them 
+				  was taken than to deprive them of political power by limiting the elective franchise to freemen without distinction of color.</p>
+        <p>The disfavor with which slavery continued to be regarded, even by those who owned that sort of property, appears sufficiently in the
+				  literary records of the time, the statutes, judicial decisions, and ecclesiastical action.  As early as 1801, the Legislature conferred upon
+				  the county courts of the State the power of emancipation by an act to which they prefixed this significant preamble:
+			            " Whereas the number of petitions presented to this Legislature praying the emancipation of slaves, not only tends to involve
+				   the State in great evils, but are also productive of great expense. "</p>
+        <p>In 1812, the introduction of slaves into the State for sale was prohibited by law.  The rapid increase of slaves, from less than four thou-
+				  sand in 1790 to upwards of forty-four thousand in 1810, may have influenced in producing this legislation.</p>
+        <p>The consideration and discussion of this great question were not confined to legislators and statesmen.  The citizen engaged in the
+				  investigation as a matter that nearly related to his moral duties and his private personal obligation.  Manumission and emancipation
+				  societies were formed in different parts of the State.  Little now remains of them but the tradition of their existence.  What they</p>
+        <pb n="3" facs="0012_001519_000220_0003.jpg" xml:id="d4e65"/>
+        <p>3</p>
+        <p>attempted we may infer from an occasional publication that has survived.  One of them is before me:  " An Address delivered 
+				  by a member of the Manumission Society of Knoxville, Tennessee, on the 17th of August, 1816, and again on the 1st of January,
+				  1817, by order of the Society, and printed by Heiskel &amp; Brown, 1817." The name of the author I have been unable to 
+				   learn.</p>
+        <p>I select a few passages, less to exhibit the argument than the topics under discussion.  The introduction gives the history of the
+				  address and its principal subjects:
+				  " One object of this society is to diffuse light on a subject about which no reason can be rendered why the public should
+				  remain in darkness.  To obtain this object in part the society ordered at the last meeting that an appropriate address should be
+				  delivered at the present meeting, and were pleased to direct that order to me.  In compliance with the will of the society, I have
+				  prepared an address on the subject, which has given birth to the association, which it is proposed to treat in the following manner:
+				   " I.  The object or design of the society.
+				   " II.  That the principles of slavery are inconsistent with the laws of nature and revelation.
+				   " III.  Show some of its evils, both moral and political.
+				   " IV.  No solid objections lie against gradual emancipation. "</p>
+        <p>The following picture of slavery is scarcely less sombre than others more recent which have called forth the bitterest denunciations:
+				  " Slavery, as it exists amongst us, gives a master a property in the slaves and their descendants as much as law can give a
+				  property in land, cattle, goods, and chattels of any kind, to be used at the descretion of the master, or to be sold to whom, when
+				  and where he pleases with the descendants forever.  It is true if the master take away the life of the slave under certain circum-
+				  stances our laws pronounce it murder.  But the laws leave it in the power of the master to destroy his life by a thousand acts of
+				  lingering cruelty.  H e may starve him to death by degrees, or he may whip him to death if he only take long enough time, or he
+				  may so unite the rigors of hard labor, stinted diet, and exposure as to shorten life.  The laws watch against sudden murder, as if
+				  to leave the forlorn wretches exposed to any slow death that the cruelty and malignant passions of a savage may dictate.  Nor
+				  is there any restraint but a sense of pecuniary loss, feeble barrier against the effects of the malevolent passions that are known
+				  to reside in the human heart.  The most inhuman wretch may own slaves, as well as the humane and gentle.  Should laws leave 
+				  one human being in the power of another to such an extent ?  In many countries where slavery exists the laws prescribe the
+				  manner in which they shall be used, and that, too, in lands which do not boast either of the light and science we enjoy, or of the
+				  liberty and equality which raises us above and distinguishes us from all the nations of the globe.</p>
+        <p>The following is a summary of the Spanish code:
+				  " 'As to the treatment of the slaves, the Spanish code is the most mild and equitable.  The clothes, food, and hours of labor,
+				  beds and bedding and lodging of slaves are superintended by the magistrates.  On holidays they are excused from work, and
+				  are taught the Catholic prayers.  On work days each slave has two hours of leisure.  Men after sixty and boys before seventeen
+				  are excused from field labor.  Women are employed only in business proper for their sex, and do not work in company with men.
+				  Slaves are allowed to marry the slaves of other masters, and the master of the man slave must in that case purchase the female
+				  slave at a fair valuation.  No master may inflict more than twenty-five lashes, and then must not occasion any contusion or
+				  effusion of blood.  Any one who strikes a slave besides the master or steward of the plantation is liable to the same penalty as if
+				  he struck a white man, as is the master or steward if he inflict a heavier punishment than the law allows.  When a slave dies infor-
+				  mation must be given by the master in three days, or he is compelled to show that the slave died a natural death.  Slaves have
+				  a right to redeem themselves at a fair price.  Female slaves cohabitating with their masters are free.'</p>
+        <p> " Our conduct toward our slaves will not bear comparison with the humanity of even the Mussulman.  ' I cannot forbear
+				  applauding the humanity of the Turks to their slaves; they are not ill-used, and their slavery, in my opinion, is no worse than
+				  servitude all over the world.  It is true, they have no wages, but they give them yearly clothes to a higher value than our
+				  salaries to our ordinary servants.'---Letters of Lady Montague</p>
+        <pb n="4" facs="0012_001519_000220_0004.jpg" xml:id="d4e79"/>
+        <p>4</p>
+        <p>from Constantinople, Vol. 3, page 20.  And shall Spaniards and Turks, who sre themselves the slaves of slaves, in comparison to
+				  the freeborn American, outdo us in the justice and humanity of their code respecting the treatment of human beings who have 
+				  fallen into their power ?  Must the conduct of a freeborn Christian blush before Musselmen ?</p>
+        <p>Such is the condition of slaves in our land, that the tenderest relations of life may be broken in upon by the ruffian hand of cupid-
+				  ity and revenge.  Husbands may be torn from the companions of their choice notwithstanding the law of Heaven: ' A man shall
+				  leave his father and mother, and shall be joined unto his wife, and the two shall be one flesh.'  And notwithstanding the settled
+				  and immutable law of nature, ' One perfect right is---a right to associate with whom we please consentably.'  Infants may be torn
+				  from the embrace of the heart-broken mother, or the mother from them, while the agonies of their separation are insulted by 
+				  sneers or the cold embrace of iron fetters.  And all this to replenish the coffers of a spendthrift wretch, or an avaricious miser
+				  whose souls are as completely swept of every tender sensibility as Tophet is of morality.  And yet the laws utter no veto against
+				  these outrages on the laws of nature and nature's God.  Is this not 'to frame mischief by laws ?'  'Woe unto them that decree
+				  unrighteous decrees, and write grievousness, which they have prescribed; to turn aside the needy from judgement, and take
+				  away the right from the poor.'</p>
+        <p>" It may be said, instances of such cruel treatment are rare, if they happen at all.  May not every owner of slaves use 
+				  them in this way, whenever his interests or passions dictate ?  And it is on the principles of slavery, as they exist among our-
+				  selves, that I am treating.  And although there are thousands, and I bless God for it, who have hearts of humanity and tender-
+				  nous toward their slaves; yet, no thanks to the legal regulation under which slavery exists.  And let it be said to the credit of 
+				  slaveholders in this part of the country, a great majority of them are humane, and guilty of few or none of these barbarous
+				  rigors.  Still many of these evils do take place.  There are not wanting examples of persons, who are so destitute of every ten-
+				  der sympathy of nature, and of the social virtues, as to make a business of buying these helpless creatures to drive in irons to
+				  market, the very sight of which congeals the milk of human kindness.  And yet such is the sense that the public have of this 
+				  outrage on religion and humanity, that these traffickers in human flesh feel not the weight of general abhorance.</p>
+        <p>" Can it be doubted whether such a state of things is at war with the unchangeable laws of nature ?  The concurrent
+				  voice of all writers is, ' natural rights are such as are essential to man, and universal.  Perfect rights in a state of natural liberty
+				  are first, a right to life; second, a right to employ his faculties and industry for his own use; third, a right to personal liberty;
+				  fourth, a power over life, not to throw it away unnecessarily, but for a good reason; fifth, a right to associate with any person
+				  whom he can persuade, not force.'  The same author adds, ' it is unjust and unequal for any individual to hinder or abridge
+				  another in any one of these rights without consent.  Liberty either cannot or ought not to be given up in the social state.'
+				  This is the language of common sense, and the spontaneous feeling of even the untutored savage.  The learned and un-
+				  learned equally feel the force of these truths, and we have one instance of a whole nation solemnly declaring viva voce by their
+				  representatives their intuitive conviction of these principles.  On the celebrated 4th of July, 1776, the representatives of the
+				  United States of America in Congress assembled, declared in the following nervous language: ' We hold these truths to be self-
+				  evident, that all men are created equal; that they are endowed by the Creator with certain unalienable rights; that among 
+				  these are life, liberty, and the pursuit of happiness; that to secure these rights governments are instituted among men;
+				  that whenever any form of government  becomes destructive of these ends, it is the right of the people to alter and abolish
+				  it.'  On the certainty of the unchangeableness of these truths, we justify our separation from the government of Great Britain.
+				  For the defense and enjoyment of these principles our fathers willingly met death, and surrendered their lives martyrs.  They
+				  bequeathed them to us as the greatest of human legacies.  Yet slavery, as it exists in these United States, is in direct oppo-
+				  sition to these self-evident maxims.  Every line of our history, every battle in our struggle for independence, every anniversary
+				  of our national birth condemns the principles of slavery, and fixes on us the charge of glaring inconsistency; and every law
+				  passed by legislatures in favor of slavery is in direct opposition to the principles of our national existence.  Let us willingly do
+				  that for which we justly blame Great Britain for refusing to do, until forced, namely, acknowledge the rights of men, and give,
+				  in a suitable way, more than one million and a half of people to enjoy these sacred rights."</p>
+        <pb n="5" facs="0012_001519_000220_0005.jpg" xml:id="d4e91"/>
+        <p>5</p>
+        <p>The address is long, able, and exhaustive, and that it should not be mistaken for an expression of the author's own opinions
+				  merely, the following note was appended to it:
+				  " The foregoing has been examined by the inspecting committee and approved.
+				  [Attest,]  JAMES  JONES, President.
+				  " November 20, 1816."</p>
+        <p>However we may dissent, and denounce these sentiments, they cannot be attributed either to fanaticism or to sectional 
+				  hostility.  The men who entertained them were not fanatics, and they were natives to what is called southern soil.  In many
+				  instances they were the fathers of the very men who are now loudest in condemning their alleged heresies.</p>
+        <p>Under her first constitution, the State flourished for nearly forty years, and until the men concerned in its preparation and
+				  adoption had nearly all passed away.  In May, 1834, a second convention assembled at Nashville, to revise and amend the 
+				  work of their predecessors.  Slavery, in the meantime, had acquired larger proportions, and was a much more important 
+				  interest.  The number of slaves had increased from 10,613, as shown by a territorial census taken in 1795, to 141,603, as
+				  shown by the census of 1830, and to 150,000 at the date of the convention, as estimated by a committee of that body.
+				  The feeling of opposition had grown gradually weaker, but had by no means died away.  During the first week of the 
+				  session, and among the earliest memorials received, the journal informs us, "Mr. Cahal presented the petition of sun-
+				  dry citizens of Maury county on the subject of emancipation."  Other similar petitions were presented subsequently
+				  from the counties of Robertson,  Lincoln,  Bedford,  Overton,  Roane,  Rhea,  Knox,  Monroe,  McMinn,  Blount,  Sevier,
+				  Cocke,  Jefferson,  Greene, and Washington, numbering in all upwards of 1800 signers, of whom more than one hundred
+				  were slaveholders, praying " that all the slaves shall be made free against the year 1866."</p>
+        <p>Their principal champion in the Convention was Matthew Stephenson, a farmer of Washington county, a native of Rock-
+				  ingham county, Virginia, then in the fifty-eighth year of his age.  He was sustained, among others, by Robert J. McKinney,
+				  of Greene county, a young Irish lawyer of promise at that time, subsequently a judge of the supreme court of the State;
+				  Joseph Kincaid, a physician of Bedford county, and a native of Madison county, Kentucky; James Gillespie, a farmer of
+				  Blount county, and Joseph A. Mabry, a farmer of Knox county, both natives of Virginia; John McGaughey, of Greene
+				  county, and Richard Bradshaw, of Jefferson, both farmers, and natives of Tennessee.</p>
+        <p>The sense of the Convention upon the subject was very early ascertained,  Mr. Stephenson, during the second week of
+				  the session, introduced a resolution----
+				  " That a committee of thirteen, one from each Congressional District, be appointed to take into consideration the
+				  propriety of designating some period from which slavery shall not be tolerated in this State; and that all memorials on that
+				  subject that have or may be presented to the Convention, be referred to said committee, to consider and report thereon. "
+				  ---Journal, p. 53.</p>
+        <pb n="6" facs="0012_001519_000220_0006.jpg" xml:id="d4e105"/>
+        <p>6</p>
+        <p>A few days afterward the resolution was taken up on motion of Mr. McGaughey, and on the motion of Mr. Adam Huntsman
+				  was laid on the table until the first of the ensuing January by a vote of thirty-eight to twenty, not quite two-thirds.  As this
+				  in effect postponed the subject to a period beyond that to which the Convention was likely to sit, and was in fact a deci-
+				  sion upon it, the vote may be taken as expressing the sentiments of the members.  The twenty who voted against this
+				  disposition of the resolution were Messrs. William B. Carter, of Carteer; Hugh C. Armstrong, of Overton; Richard Bradshaw,
+				  of Jefferson; Willie Blount, of Montgomery; Robert L. Cobbs, of Maury; James Gillespie, of Blount; James L. Greene, of
+				  Roane; Isaac Hill, of Warren; John Kelly, of Marion; Bradley Kimbrough, of Monroe; Robert J. Mckinney, of Greene; Joseph
+				  A. Mabry, of Knox; John McGaughey, of Greene; John Neal, of McMinn; William C. Roadman, of Cocke; Matthew Stephen-
+				  son, of Washington; William T. Senter, of Rhea; William C. Smartt, of Warren; Henry Sharp, of Lawrence; and Isaac Walton,
+				  of Sumner.</p>
+        <p>I will remark that the several members of the Convention whose nativity was in some one of the free States, all voted the 
+				  other way.  Having thus declined to act in the premises, the Convention, on motion of Mr. Allen, of Smith,
+				  " Resolved, That a committee of three (one from each division of the State) be appointed to draft the reason that
+				  governed this Convention, in declining to act upon the memorials on the subject of slavery. "</p>
+        <p>Messrs. Robert Allen, a native of Pennsylvania; John A McKinney, a native of county Tyrone, Ireland; and Adam Huntsman,
+				  a native of Virginia, were appointed.  Subsequently Mr. Fogg was substituted for Mr. Allen, at the request of the latter, and
+				  Mr. McKinney was announced as the chairman of the committee, all the members of which were lawyers of eminence.</p>
+        <p>Mr. McKinney, in conformity with the instuctions of his appointment, submitted a report, elaborate and carefully written.
+				  The reasons assigned relate chiefly to the effect that a scheme of emancipation would have upon the slaves themselves.
+				  First, it is alleged that the condition of the slave is preferable to that of the free negro.  On this point, the following language
+				  is held:
+				 "The condition of a free man of color, surrounded by persons of a different caste and complexion, is the most forlorn
+				 and wretched that can be imagined.   He is a stranger in the land of his nativity;  he is an outcast in the place of his residence
+				 he has scarcely a motive to prompt him to virtuous action or to stimulate him to honorable exertions.  At every turn and
+				 corner of the walks of life, he is beset with temptations, strong--nay, almost irresistable--to the force of which in most cases
+				 he may be expected to yield, the consequence of which must be that he will be degraded, despised, and trampled upon by
+				 the rest of the community.   When the free man of color is oppressed by the proud, or circumvented by the cunning, or
+				 betrayed by those in whom he has reposed confidence, do the laws of the land afford him more than a nominal protection ?
+				 Denied his oath in a court of justice; unable to call any of his own color to be witnesses, if the injury he complains of has
+				 been committed by a white man, how many of his wrongs must remain unredressed---how many of his rights be violated
+				 with impunity; how poor a boon does he receive when receiving freedom, if what he receives can be called by that name.  Un-</p>
+        <pb n="7" facs="0012_001519_000220_0007.jpg" xml:id="d4e117"/>
+        <p>7</p>
+        <p>enviable as is the condition of the slave, unlovely as slavery is in all its aspects, bitter as the draught may be that the slave is 
+				  doomed to drink, nevertheless his condition is better than the condition of the free man of color in the midst of a community
+				  of white men, with whom he has no common interest, no fellow feeling, no equality.   If the slave is sick, he has a master or
+				  mistress whose own interest will prompt them to furnish him with food and medicine, and attendance suited to his situation;
+				  but when the free man of color is laid upon a bed of sickness, who cares for him; what hand supplies his wants; who will step
+				  to his humble bed of straw and feel his pulse; or inquire into the symptoms of his disease, or even hand him a cup of cold
+				  water to allay his thirst ?   The slave is almost wholly exempt from care.   When his days work is done, he lies down and
+				  sleeps soundly; if the crops are destroyed by mildew or blasting, his peace of mind is not disturbed thereby; and when old
+				  age overtakes him, and his limbs require rest, and his hands can work no longer, in his master's house the law has provided
+				  him with a home, and secured him a maintenance.   He knows not at any time what it is to have children ask for bread,
+				  when he has none to give them; they too are provided for.   But who supplies the wants of the free man of color when old
+				  age overtakes him, and he is unable to provide for himself ?   He has to contend with all the ills of poverty, aggravated by
+			           a sense of his own degraded situation, compared with those around him,   The cold hand of charity will indeed sometimes 
+				  throw him the crust that has fallen from the rich man's table; but even these donations he will not at all times receive when
+				  they are greatly needed. "---Journal, pp. 88, 89.</p>
+        <p>Again it is insisted that the inevitable consequence of prospective emancipation would be, not the liberation, but the ex-
+				  patriation of the slave, and the committee say:
+				  "Suppose the prayer of the memorialists to be granted to the full extent of their wishes.   Suppose a provision in-
+				  serted in the constitution, that the children of all slaves born after a certain future day, should be free at a certain age, say
+				  females at the age of twenty-one, and males at the age of twenty-five; what would be the inevitable consequence ?   Not
+				  what the memorialists suppose, but a totally different state of things.   Slaves might indeed be banished from this State, 
+				  but they would not be made free; they would not indeed be slaves in the State of Tennessee, but they would be slaves
+				  in Alabama, Mississippi, Louisiana, Missouri, or Arkansas: and would that better their condition ?   Who supposes that it 
+				  would ?   Who does not know that it would not ?   The Convention could not overlook the certainty that a speedy 
+				  removal of the slaves from this State, would be the inevitable consequence of any interference on their part with the
+				  subject of slavery.   They know full well that to banish slavery from the State, is one thing, but to make the slaves free, 
+				  is altogether a different matter.   They believe that before any provision that might be inserted in the constitution,
+				  could operate by the emancipation of a single slave, the greater part of these unfortunate beings would be carried be-
+				  yond the limits of the State, and be placed forever out of the reach of the operation of the constitution or of any law
+				  that might be enacted under its provisions.   And could this be prevented ?   Could the Convention, or the Legislature,
+				  or the courts of justice issue any mandate to prevent the owners of slaves from removing them beyond the limits of 
+				  this State, and selling or settling them in other States, to the south and west of us ?   Surely this could not be done.
+				  No one will say it could !   Nor need the fact be concealed; that after the meeting of the Convention, and before any 
+				  order had beentaken on the memorials on the subject of emancipation laying on their table, news reached the members 
+				  from various quarters, that owners of slaves were in readiness to remove them to other States, if the Convention took
+				  a single step in the matter to the prejudice of what they considered their vested rights.   The Convention believed that a
+				  benevolent regard for the slave population of this State prohibited them from granting the prayer of the memorialists. "</p>
+        <p>"It cannot be denied, that in Tennessee, slaves are treated with as much humanity as in any part of the world 
+				  where slavery exists.   Here they are well clothed and fed, and the labor they have to perform is not grievous or burden-
+				  some.   They are not prohibited from attending public worship on Sundays, and frequently they are taught to read at
+				  Sunday schools, and they have access to religious instruction and the means of grace, in common with the rest of the
+				  community.   To this there may be some exceptions, but it is believed they are few and far between.   How would a re-
+				  moval of the slave population, from this State to the States south and west of us, operate on their condition ?   Would
+				  they not thereby be rendered much more uncomfortable ?   Would they not be more exposed to sickness and death
+				  by reason of the unhealthiness of the climate to</p>
+        <pb n="8" facs="0012_001519_000220_0008.jpg" xml:id="d4e127"/>
+        <p>8</p>
+        <p>which they would be removed ?   The ravages of the cholera among the slave population in Louisiana speak a volume on 
+	`			  this subject.   Would they enjoy the comforts of life in the same abundance they now do ?  Would not their future pro-
+				  spects of deliverance from bondage be rendered more distant and hopeless ?   Are they not in general attached to the
+				  homes they now have ?  and do they wish to change them ?   Who does not know that the slave population of this State
+				  are even now waiting with trembling anxiety the result of the deliberations of the Convention on this subject ; fearing as
+				  they do, that a removal from this State is to be the consequence ?   If the prayer of the slave population of this State 
+				  could be heard on this subject, it would be that the prayer of the memorialists might not be granted. "--Journal,
+				  pp. 89, 91.</p>
+        <p>It is still further maintained that the consequences to society of permitting the manumitted slaves to remain in this state
+				  would be appalling, and this is the view presented :
+				  "What then would be the condition of the community, with such a multitude of human beings turned loose in 
+				  society, with all the habits, morals, and manners of the slave, with only the name and nominal privileges, but without
+				  any of the real blessings of liberty, or the real privileges of the freeman ?   Would not two distinct classess of people in
+				  the same community array themselves against each other, in perpetual hostility and mutual distrust ?   Would not the
+				  constant collision that would take place between them produce a feverish excitement, alike destructive to the happiness
+				  of both parties ?   Would not the condition of free people of color, under the operation of the causes already enumerated,
+				  be more wretched than the condition of the slaves.   Would not the white portion of the community be more insecure
+				  with such a multitude among them, who had no common interest with, no bond of union to, that part of the community,
+				  with whom they wwere mixed, and yet from whom they were forever separated, by a mark of distinction that time itself
+				  could not wear away ?   The people of color, numerous as they would be, with no kindred feeling to unite them to that 
+				  part of the community, whom they would both envy and hate, would nevertheless have at their command a portion of
+				  physical strength that might and probably would be wielded to the worst purposes.   They would look across the southern
+				  boundary of the State, and there they would see in a state of servitude, a people of their own color and kindred, to whom
+				  they were bound by the strong bonds of consanguinity, and with whom they could make a common cause, and would
+				  they not be strongly tempted to concert plans with them, to exterminate the white man and take possession of the coun-
+				  try.   They would then possess the means of consulting together, of co-operating with each other, and let it not be for-
+				  gotten that they would be animated by every feeling of the human heart that impels to action. "---Journal, pp. 91, 92.</p>
+        <p>The conclusion of the report however is full of hope to the memorialists and indicates that slavery was regarded even by
+				  those not prepared for emancipation, as a system not without "ills "and  "evils, "the extinguish-
+				  ment of which was  "an event devoutly and ardently desired by the wise and the good in every part of our beloved
+				  country " :
+				  "But the friends of humanity need not despair ;  the memorialists need not dread that slavery will be perpetual in our
+				  highly favored country.   Providence has already opened a door of hope which is every day opening wider and wider.   On
+				  the coast of Africa the foundation of a mighty empire is already laid, and thither the sons and daughters of Africa, made
+				  free by the consent of their masters, and transported by funds furnished by the benevolent, shall repair, and carrying with
+				  them the blessings of civilization, and the truths and consolations of Christianity, they will in process of time banish idolatry,
+				  ignorance, and superstition, from that wretched land, which has so long been a habitation of horrid cruelty.   This plan has 
+				  one advantage over every other that has been proposed, that it requires the consent of the slave to be colonized as a con-
+				  dition precedent to his emancipation.   It possesses another advantage, it will more effectually combine the energies of the 
+				  wise, and the good, and the benevolent, in its execution, than any other plan that has been devised.   The ministers of our
+				  holy religion will knock at the door of the hearts of the owners of slaves, telling every one of them to let his bondsman and
+				  his bondswoman go free, and to send them back to the land of their forefathers, and the voice of these holy men will be
+				  heard and obeyed; and even those who lend a deaf ear to the admonitions in the hour of health, will, on a bed of sickness, 
+				  and at the approach of death, make provision for the emancipation of their slaves, and for their transportation to their
+				  home on the coast of Africa.</p>
+        <pb n="9" facs="0012_001519_000220_0009.jpg" xml:id="d4e137"/>
+        <p>9</p>
+        <p>"In this way, under the approving smile of Heaven, and the fosteering care of Providence, slavery will yet be extin-
+				  guished in a way that will work no evil to the white man, while it produces the happiest effects on the whole African race.
+				  The last thirty years have produced a great change in public sentiment on this subject, and it cannot be doubted that
+				  the next thirty years will produce a still greater one.   And if misguided fanatics, in those parts of the United States where
+				  slavery does not now exist, will only refrain from intermeddling in a matter in which they have no concern, and in which
+				  their interference can do no possible good, and may do much positive evil, slavery, with all its ills, will be extinguished as
+				  certainly and as speedily as the friends of humanity have any reason to expect .   For let it be remembered that there is
+				  an appropriate time for every work beneath the sun, and a premature attempt to do any work, particularly any great
+				  work, seldom fails to prevent success.   A premature attempt on the part of a sick man to leave his bed and his chamber
+				  would inevitably prolong his disease, or perhaps place it beyond the power of medicine.   A similar attempt on the part
+				  of the poor man to place himself in a state of independence, by engaging in some plausible but imprudent speculation
+				  would probably involve him in embarrasments from which he could not extricate himself throughout the whole remaining 
+				  portion of his life.   So a premature attempt on the part of the benevolent to get rid of the evils of slavery would certainly
+				  have the effect of postponing to a far distant day the accomplishment of an event devoutly and ardently desired by the
+				  wise and the good in every part of our beloved country. "---Journal, pp. 92, 93.</p>
+        <p>The whole of the report is an argument, not in favor of slavery, but in opposition to emancipation, to show that great as
+				  were the admitted evils of one, the apprehended evils of the other would be greater.   Against this report Matthew Ste-
+				  phenson, with Messrs. McGaughey, Bradshaw, and Gillespie, entered a protest, the substance of which will appear from
+				  the following paragraphs :
+				   "We believe the principles assumed in the report, and the arguments used in their support, are in their tendency
+				  subversive of the true principles of Republicanism, and before we can consistently give them our unqualified assent, we
+				  must renounce the doctrine that 'all men are created equal ;  that they are endowed by their Creator with certain un-
+				  alienable rights ;  that among these are life, liberty, and the pursuit of happiness.'   Above all, we believe the report is at
+				  variance with the spirit of the Gospel, which is the glory of our land, the precepts and maxims of which are found in the
+				  Bible.   One of its excellent rules is :  ' As ye would that men should do unto you, do ye even so unto them.'   Now to
+				  apply this golden rule to the case of master and the slave we have just to place each in the other's stead, then ask the 
+			           question honestly, ' What would I that my servant, thus placed in power, should do unto me ?'   Surely, (if I durst,) I
+				  would say : ' When I have paid to you with usury a full equivalent for all you had expended in procuring me, and pro-
+				  viding for my support and comfort, you ought to be satisfied ;  this is all stern justice can require, and humanity and a
+				  regard for the rights of man would desire no more.   Why then do you not permit me to go out free to pursue happi-
+				  ness in my own way. "*     *     *     *     *     *     *     *     *     *     *     *</p>
+        <p> "But we are told nature has placed on the man of color a mark of distinction, which neither time nor circumstances
+				  can obliterate.
+				   "We admit the fact, but are nevertheless unable to percieve in that a good reason for denying to them the common
+				  rights of man.   The words of eternal truth are, that God has made of one blood all nations that dwell upon the earth, and
+				  the undersigned, in the language of Cowper, are unwilling to ' find their fellow creature guilty of a skin not colored like their
+				  own ;'  nor can one admit as just, the rule that would assign to men their rights according to the different shades of color.
+				  In the opinion of the undersigned, all the evils so strikingly and so eloquently portrayed in the report, respecting the free
+				  people of color whilst among us, apply with equal, nay with greater force to the same people whilst in slavery ; unless in-
+				  deed slavery gives dignity to man.   And although the memorialists do not hint at retaining the people of color amongst us
+				  when free, but ask that some means be devised for their removal ; nor would the undersigned be understood as advocating
+				  any system of emancipation unconnected with or without a view to their colonization ; yet we believe they would be happier
+				  and safer subjects of our Government as free men than as slaves.  As we hold it wise policy in every government to make it
+				  the interest of all its subjects to support, defend, and perpetuate its civil institutions, is it reasonable to suppose that any
+				  would desire the permanent existence of that government which denied to them all the rights of freemen ?   Solomon in his
+				  wisdom has said</p>
+        <pb n="10" facs="0012_001519_000220_0010.jpg" xml:id="d4e147"/>
+        <p>10</p>
+        <p>'oppression makes a wise man mad ;'  and notwithstanding the beautiful description given in the report of the benefits of
+				  slavery, so fascinating that we were almost involuntarily constrained to exclaim, oh, the blessings of slavery ! yet on re-
+				  flection we are free to say, we have not fallen quite so much in love with it, as to desire it for ourselves.</p>
+        <p> "The report apparently with an air of triumph asks ' who will administer to the wants of the free man of color, worn
+			           down by age and disease, stretched on his bed of straw ?'   In the spirit of truth and soberness we answer, the dear wife of 
+				  his bosom, the children of his love and partners of his blood, bound to each other by the strong and indissoluble ties of
+				  natural affection ; these, these can stand around his humble bed of straw, administer to his wants and alleviate his sufferings
+				  ; not by ' giving to him with the cold hand of charity the crust that has fallen from the rich man's table ; '  but, without
+				  grudging, giving to him the most suitable nourishment their circumstances will afford, receiving his parting advice, his parting
+				  blessing, his ardent, his anxious, his dying prayer to that God who is no respecter of persons, and that without being disturbed
+				  or controlled by the whim or caprice of any that might desire to lord it over them.   We are told the more slaves are distributed
+				  over territory the better for all concerned :  admit this to be true, it only proves the fewer there are of slaves the better.   Then,
+				  consequently, the best of all would be to have none.   If that is a good reason why any slave State should continue such, it
+				  would also be a good reason why every State in the Union, and that from motives of humanity, should become a slave State.
+				  The tendency of such a course would be to make slavery perpetual.</p>
+        <p> "The undersigned admit that it is probable the avarice and cupidity of some would prompt them to send their slaves to
+				  other countries, rather than be deprived of what they deem their vested rights.   So will the same spirit prompt them to send
+				  them away, whenever they find it more gainful than keeping them at home;  but that it would have such a general tendency,
+				  we think improbable, especially, when we advert to the fact that a large portion of the memorialists are themselves slave-
+				  holders, and also the fact admitted in the report, that within a few years an astonishing change has been produced in public
+				  sentiment on that subject ;  which is manifest from the loud and reiterated calls for at least some prospective relief from the
+				  evils of that system. "---Journal, pp. 102-104.</p>
+        <p>Another protest was drawn forth from Dr. Kincaid, the tone of which is so remarkable that I cannot pass it by, as an
+				  expression of the strong anti-slavery sentiment, which at an earlier day prevailed in Tennessee :
+     				   "First examine the condition of the slave.  We find him and all his race in a state of complete bondage, not capable of
+				  exercising his own will upon any subject of a temporal nature, nor scarcely permitted to do so upon spiritual matters.  He
+				  owes passive obedience to the will of his master ; he dares not act in obedience to the dictates of his own will, even in regard
+				  to matters of minor consequence, in opposition to the will of his master, without incurring punishment in many instances.
+				  Though the undersigned is conscious that there are many slaveholders in Tennessee, who treat their servants humanely,
+				  still he believes that this will not apply as a general rule to the majority.   Where slaves are owned in large numbers, by 
+				  persons who eagerly seek after them, for the sake of making profit by their labor, it is deemed by their owners necessary to
+				  keep them under rigid discipline, and generally under the direction of an overseer or task-master, who is clothed with authority
+				  to inflict punishment for trivial offenses, either of commission or omission, in order to insure that attention to business and his
+				  commands, by which only the owner can realize a profit, and prevent their becoming an absolute expense to him.   Being
+				  subject to the will of the master, or overseer, as we have seen, their persons may be abused, by the infliction of corporal
+				  punishment, at his discretion or without limit, and this even for a supposed offense ; and such punishment may be repeated
+				  day after day for the same offense ; and likewise he may put him upon a diet of bread and water if he choose, and this in
+				  quantity barely sufficient to sustain life.   And further, the slave is necessarily bound by the will of his master, if he think fit, to
+				  continue his services night and day, and upon his refusal, or omitting to obey such unreasonable commands, he may be
+				  doomed to suffer punishment to the extent that the despotic will of his owner may think proper to inflict.</p>
+        <p> "These are all ingredients which may enter into the ' draught of bitterness ' which the slave is doomed to drink.   But
+				  this is not all ; cannot the master part with his right to his slave and sell him to another person, under whose government his 
+				  suffering would be far worse than under that of the first owner ? And is not this a practice of every days occurence ?   And
+				  besides, the suffering of the slave by the infliction of punishment upon his person, and all other punishments of a minor cha-
+				  racter which might be imposed upon him, and as well that of selling him into a far worse state of bondage, he may be, and
+				  frequently is subjected to still greater punishment.   The husband may be severed</p>
+        <pb n="11" facs="0012_001519_000220_0011.jpg" xml:id="d4e161"/>
+        <p>11</p>
+        <p>from his wife and children, and in galling chains sent one way, and the wife, dragged from the husband and children, sent
+				  another way, and the children separated and sent different directions, notwithstanding the hearts of each may bleed from
+				  the chords of affection which bind them to each other, being thus forcibly torn loose from their bosoms.   These sufferings
+				  may be said to be some of the 'gall of bitterness' which also enters into the ' draught which the slave is doomed to drink ;'
+				  and do we not see many of them drinking from this cup daily ?   Yet we are told that the situation of the slave is better than
+				  that of the free man of color.   This is the clear, definite conclusion which is arrived at in the report of the committee, and
+				  which the majority of the Convention has adopted as its own sentiment.   Let us inquire, therefore, for a moment : what is
+				  the situation of the free man of color, contrasted with that of the slave ?   Is not his great and essential right--that of per-
+			           sonal liberty, personal security, and private property, and the pursuit of happiness secured to him by the Constitution and
+				  laws of the land ?   Can any man violate those rights with impunity ?   Can he be restrained of his liberty at the will of any 
+				  man, even if he should be a despot ?   He cannot.   Can his life be put in jeopardy by punishment inflicted upon him at the
+				  will and discretion of any man with impunity ?   Or can even stripes be inflicted on him, or any corporal punishment, at the
+				  will of another with impunity ?   It cannot be done.   Is he not secured in the enjoyment of his personal property equally 
+				  with the white man ?   He is.  And is he not entitled to a redress of his grievances for violation of any of these rights in a
+				  court of justice equally with the white man ?   Most certainly he is.   Then I will ask, are these blessings---for by that name
+				  I will call them---secured to the slave ?   We have seen they are not.   Or is the slave entitled to these enjoyments under
+				  our Government ?   We know that he is not.   Then how is it, that the free man of color, with all this liberty and all this
+				  protection, is in a worse condition than the slave ?   He is not doomed to drink from the bitter cup of the slave.   The cup
+				  of the free man is sweetened with the blessings above enumerated.</p>
+        <p> "Again, can the free man of color be torn from his wife and family, and driven in chains to a foreign land, and there
+				  sold in the market like a dumb brute to him who will give the greatest sum for him, though his heart bleeds and bosom
+				  yearns with bowels of compassion and paternal tenderness for the wife and children of his bosom, who are bone of his 
+				  bone and flesh of his flesh ?   He cannot.   Or can the children of the fond mother be torn from her bosom while her heart 
+				  is wrung with distress and she agonizes in despair and mourns for them, and will not be comforted, because they are not.
+				  This cannot be done.   Then does this not sweeten the 'draught' which the free man of color daily drinks ?   Most indubi-
+				  tably it does.   Are these blessings secured to the slave ?   We have seen they are not.   What is it, then, which constitutes
+				  the situation of the slave better than that of the free man of color ?   Does the superior happiness and comfort of the slave 
+				  over that of the free man of color consist in the amount of bread and meat which he receives at the hands of his master,
+				  to subsist him, which he has not to trouble himself about the procuring of ?   The report seems to predicate a good portion
+				  of the solid comfort of the slave upon the daily rations which he draws from his master's stores.   But this conclusion the
+				  undersigned cannot subscribe to ; as an American citizen he would put a higher estimate upon the liberty which is enjoyed
+				  even by the free man of color.   What !  will it be said that his rights, privileges, and happiness shall be balanced in the scale
+				  against the allowance of coarse fare, which is given for daily subsistence to the slave, and the tattered garments that are 
+				  furnished him to defend his body against the inclemency of the season, and the chains with which he may be bound in
+				  order to send him to a foreign market ?   Monstrous doctrine.   Cannot the free man of color, with the labor of his hands,
+				  one sixth part of his time, procure as ample a supply of food and raiment as is furnished the slave ?   Yea, and can he not,
+				  then, sit down under his own vine, in the bosom of his family, and enjoy it,  and there shall ' be none to disturb or make
+				  him afraid ?'   Most certainly he can.   Does the circumstance, then, that the free man of color labors under some few
+				  disabilities, in our country---that of not being allowed his oath in a court of justice in a suit between white men, or to prove
+				  his own account against white men, or not being entitled to hold office under the Government, reduce him to a level, or
+				  below the slave, in the scale of freedom and happiness ?   The report seems to suppose that it does.   At least, these are
+				  enumerated as some of the causes that make his 'draught' more bitter than that of the slave.   What fallacy of reasoning.
+				  Why, the alien white man, in our country, labors under disabilities ; is he thereby reduced to the level of the slave ?   Is his
+				  essential liberty thereby abridged ?   It is not.   Neither is the essential liberty of the free man of color abridged by the few
+				  disabilities which he is under.   He stalks abroad, in the majesty of his nature, not subject to the dominion of any person,
+				  fully secured in all the dear and essential rights of man---</p>
+        <pb n="12" facs="0012_001519_000220_0012.jpg" xml:id="d4e170"/>
+        <p>12</p>
+        <p>his person protected from abuse, from the wanton and violent hands of any man ; and it cannot be touched except it be
+				  upon an offense being established upon him, by proof, and the verdict of a jury of twelve men concurring in finding him
+				  guilty of the charge.   Yet we have seen that the slave may be punished at the will of his owner, without even charging
+				  him with an offense.   The undersigned will not draw the parallel any further, on this part of the subject, but leave the world 
+				  to judge of the correctness or incorrectness of the sentiment or conclusion contained in the report of the committee ;
+				  but for himself, he could not sanction it by his vote. "---Journal, pp. 225, 227.</p>
+        <p>We must not forget that this is the language of citizens of Tennessee, southern born and reared, placed on the Journal of 
+				  her Sovereign Convention by representatives of the people from the most populous parts of the State, and cannot be set
+				  down to the account of Yankees,  Abolitionists,  Black Republicans,  or whatever name of opprobrium they who hold such
+				  opinions are thought now to deserve.</p>
+        <p>A supplemental report was presented by the committee, made necessary, as they say, by the protest that certain members
+				  of the Convention had spread upon the Journal and sent abroad to the public.   This paper is less argumentative, but
+				  sharper in temper than the former.   The second report brought out a second protest from stout old Matthew Stephenson
+				  and his associates, both sides fortifying their previous positions rather than assuming new ones.   A proposition was intro-
+				  duced by Mr. Mabry which, had it been adopted, would have seriously affected the system of slavery, as follows :
+				   "Resolved, That the present constitution of the State of Tennessee be so amended as to prevent and prohibit the
+				  SALE OF SLAVES OF PEOPLE OF COLOR by virtue of executions founded on all contracts made and entered into after the 
+				  first day of January, 1835. "---Journal, p. 76.</p>
+        <p>The measure did not carry.   It would obviously have operated to dprive slave owners of credit by reason of this species
+				  of property to a large extent, and, by taking away some of the power to force sales, would greatly have diminished the
+				  number of voluntary transfers.   But while the Convention refused to adopt any measure looking to emancipation, they
+			           provided an additional safeguard for slavery in our constitution :  "The General Assembly shall have no power to pass
+				  laws for the emancipation of slaves without the consent of their owner or owners. "The constitution was adopted by
+				  a popular vote, and became the organic law of Tennessee.</p>
+        <p>By a vote of thirty-three to twenty-three the Convention limited the elective franchise from free men, as it stood in the old 
+				  constitution, to free white men, and from that day the negro ceased to have any share in the public affairs of the State.*
+				  Matthew Stephenson once more interfered with a proviso  "that no free man who is now a resident of this State, and
+				  who has heretofore exercised the right
+				  ____________________________________________________________________________________________
+				 * Those who voted against restricting the right of suffrage to white men and in favor of still permitting the free negro to
+				  vote were Messrs. Allen, Armstrong, Gillespy, Gray, Hill, Kelly, Kincannon, Kincaid, Robert J. McKinney, Mabry, McGaughey,
+				  Montgomery, Neil, Roadman, Richardson, Robertson, Stephenson, Smith, Smartt, Scott, Walton, White, and Webster.---
+				  Journal, p. 208.</p>
+        <pb n="13" facs="0012_001519_000220_0013.jpg" xml:id="d4e184"/>
+        <p>of voting, shall hereafter be debarred from that privilege."  It was lost by a vote of thirty-five to twenty-two.</p>
+        <p>This was the last serious effort to withstand the growth and progress of slavery in the State.  The feeling of opposition to it, if not extinguished, became latent and inaudible.  It was never appealed to by those who aspired to popular favor, and many had forgotten that such a feeling ever existed among us.  On the other hand, the friends of the system were assiduous in giving it strength.  New laws for its protection appeared from time to time upon the statute book.  Individual acts of emancipation were embarrassed by conditions that made the boon lightly esteemed by its recipients, as though to silence every expression that for the negro freedom is better than slavery, even coming from the grave in the testamentary voices of the dead.  Provision was also made by which those already free might by a judicial act bind themselves and their prosperity to perpetual bondage.</p>
+        <p>In the meantime, during the seventy years that had elapsed from 
+1790 to 1860, the number of slaves in the State had increased from 
+3,417 to 275,719, a ratio of increase at least fifty per cent. 
+greater during every decade than that of the white population.  At the 
+latter date the slaves were more that one-third the number of whites.  
+Estimated at a then moderate average of $600 each, their value in 
+money was upwards of $165,000,000.  The number of owners, as 
+shown by the census of 1850, was less than one-fourth the voting 
+population of the State, and more than one-half of them owned 
+not so many as five each.  Was there ever a more magnificent inheritance 
+of wealth?  More than one-third the entire value of all the 
+real and personal property of the State shown by the census of 1860 
+to be less than four hundred millions in the hands of not one-fourth 
+the number of voters!  Property, too, which more than any other 
+attaches to itself the feelings of the owner, appealing at once to his better sympathies for his 
+own race and to his lust and greed of power 
+over their persons and fortunes!  How magnificently secured to the 
+favored possessor!  Every law upon the statutes book, every institute 
+of society, every expression of public sentiment was in his favor!
+His field might be taken for county road: his orchard and garden, 
+with fruit and shrubbery that the rest of lifetime could not supply, 
+might be destroyed to build a railway, and his measure of redress 
+was the award of a jury; his dwelling might be made inaccessible, 
+and his very hearthstone undermined to accommodate the thoroughfare 
+of a city, and he had no redress.  But by the constitution of the 
+State his slave could never be taken from him and set free without 
+his consent.  No power of the government could interfere to sever 
+the ligament by which he held him bound.  How complete and 
+indefeasible his title, his authority as master was not less so. One of 
+the ablest and at the same time one of the most enlightened and 
+humane of out judges, now no more, has declared-</p>
+        <p>"Unconditional submission to be the duty of the slave; unlimited power, in general, the legal right of the master.  The right to obedience and submission in all lawful</p>
+        <pb n="14" facs="0012_001519_000220_0014.jpg" xml:id="d4e194"/>
+        <p>things on the part of the slave, is perfect in the master; and the power to inflict any 
+punishment, not effecting life or limb which he may consider necessary for the purpose 
+of keeping him in such submission, and enforcing such obedience to his commands, is
+secured to him by law, and if in the exercise of it, with or without cause, the slave
+resist and slay him, it is murder."  Jacob vs. The State, 3 Humph., 520.</p>
+        <p>"It may be painful," said he, "to hold such doctrine, but it is a necessary incident to
+the institution of slavery."  Tom vs. The State, 8 Humph., 83.</p>
+        <p>Nor was this all the law had done for security of the master.
+it interfered actively and vigorously to prevent the escape of his
+slave, by requiring him to remain on "the premises where he is appointed
+to live," and not to leave without a pass in writing from his 
+master; by making it the duty of every one finding the slave absent
+from the premises without such a pass to arrest him, and return him
+to his master; by compelling "every person," in the language of the
+statute, to serve as a patrol for the protection of the master and his
+family while asleep; by forbidding the traffic with slaves in arms,
+liquors, goods, commodities, or other things, without the owner's 
+consent; and the carriage of slaves, by steamboat, or other water
+craft, railroad, or other public conveyance, from one place to another
+either in or out of the State, without as pass from the master; by denouncing
+it felony, and affixing punishment only less than for the 
+destruction of human life, to forge a pass, to secrete a runaway slave,
+to persuade a slave to leave his master's service, to write, print, paint,
+draw, or engrave, with a view to circulation, any paper, essay, verses,
+pamphlet, book, painting, drawing or engraving, calculated to excite
+discontent even, as well as insurrection or rebellion amongst the
+slaves; to circulate any such production, to deliver any address,
+harangue, or sermon in the presence or hearing of any slave, or to
+hold any discourse, conversation, or correspondence, by words, signs,
+or gesture, or in writing with any slave, calculated to excite him to
+insubordination, insurrection, or rebellion.  Such was the protecting
+vigilance of the State laws operating upon citizen and slave within
+our limits.  Should the slave chance to evade it, and escape beyond
+the State, all the power of the Federal Government was pledged to
+enforce his return.  Congress had legislated fully up to the spirit of
+this pledge, in the enactment of laws, which to this day are in full
+force, unrepealed; laws distasteful, I might say odious, to many of our,
+countrymen, yet executed with a rare fidelity.  The last President
+of the United States declares in his last message, that they had been
+executed in every instance during his official term.  His successor
+has declared that the master is entitled to have them executed as
+efficiently as the ordinary criminal laws of the land.  The census
+shows that, though in 1850, the whole number of fugitive slaves in
+this State was but seventy, in 1860, it has been reduced to less than
+thirty, scarcely more than the one hundredth part of one per cent. of
+the whole number, so that the learned Superintendent of the Census
+Bureau well says:-</p>
+        <p>"That the whole annual loss from this cause bears less proportion to the amount of
+capital involved, than the daily varations, which in ordinary times occur, in the fluctuations
+of State or Government securities in the city of New York alone."</p>
+        <pb n="15" facs="0012_001519_000220_0015.jpg" xml:id="d4e204"/>
+        <p>But the laws were not the slaveholders only security; I had
+almost said, they were not his principal security.  The whole structure
+and tone of society bore reference to his interests. Not dwelling
+upon the common habit of keeping arms, and often of wearing them,
+nor the eager promptitude with which runaway slaves were pursued
+and captured, I may mention the jealousy that watched with microscopic
+scrutiny every sentiment and action supposed to tend towards
+negro equality, a phrase rather vague and indefinite, by embodying
+perhaps the expression of English philanthropy, which sees in the
+negro "a man and a brother" of like passions, affections, and hopes
+as the rest of mankind.  All strangers were carefully observed,
+especially those coming from parts of the country where slavery did
+not exit, and where it was supposed to be in disrepute.  Their
+opinions were elicited, their conversation with servants reported,
+children were encouraged to act as informers, so that hospitality
+should not be extended to enemies in disguise.  All who were suspected
+of anti-slavery or abolition sentiments were shunned as sedulously as the 
+wretch whose unclean soul harbored designs upon the
+purity of a sister or a daughter.</p>
+        <p>The rights and authority of the master over his slave property, were
+asserted and maintained no less by every public expression of opinion
+than by the municipal law, and the inexorable edicts of society.  We
+have just seen that the circulation of any paper, essay, verses,
+pamphlet, book, painting, drawing, or engraving, calculated to make the
+slaves discontented, and the delivery of any address, harangue, or sermon,
+on the holding of any conversation, in the presence or hearing of slaves,
+of like tendency, were prohibited under very severe sanctions.  I am not
+aware that the courts have ever had occasion, so carefully have our people
+abstained from these offenses, to give a judicial construction to this
+legislation, and decide what is calculated to make the slave discontented;
+but the popular construction is that it extends to the publication or the
+re-publication of any sentiment unfavorable to the system of slavery, unless
+done by enemies of the Federal Government, and for the purpose of
+overthrowing it.  These persons have been in the habit for years of parading
+before the people by speech and writing the most extreme utterances
+of the most extreme opponents of slavery.  In that case the act was excused
+by the excellence of the motive; although as a matter of fact, more
+wild notions go into the heads of the slaves from this source doubtless
+that from all others together.  For besides these men, no one else would
+have dared, had be been so inclined, in the state of our criminal law, to
+utter or publish anything betokening disapproval of this important relation.
+The files of our journals remain to testify for the press; our private
+libraries scattered to the winds by a power which boasts itself to be "a
+distinct reaction against the whole course of the civilization of the age,"
+will prove that our literary collections contain nothing more noxious than
+the sentimentalities of Cowper and Sterne, or the writings of Jefferson
+and Henry Clay.  The barrister even in defending the life of a slave was
+careful to measure his words, lest in a moment of zeal he might transcend
+the line of legitimate argument, and betray a solicitude for the safety of</p>
+        <pb n="16" facs="0012_001519_000220_0016.jpg" xml:id="d4e210"/>
+        <p>the accused, inconsistent with the lawful authority of his master.  And
+the pulpit, the accepted teacher of public and private morals, forbore to
+touch this delicate subject by enforcing upon masters duties which religion
+enjoins towards their servants, though it sometimes vouchsafed
+them a biblical argument in demonstration of their rights.</p>
+        <p>When, I ask, since the ark rested upon Ararat, has there been a class
+of men so highly favored and so secure in the possession of their property,
+and of property so dearly esteemed, as the thirty-odd thousand slave
+owners of Tennessee.  Not one twentieth part of the white population,
+and less than one fourth the number of voters, they held in their slave
+property alone more than one third the entire wealth of the State, personal
+and real.  And this was not all.  It is clearly within the bounds
+of reason, to assume that these same individuals, held fully one half of the
+remaining wealth, lands, money, stocks, merchandise, and every other
+species of property.  Fair as our present condition was, our future prospects
+were still brighter.  I am speaking of that blessed period before
+war lighted his desolating torch.  By the census just previously taken,
+it appears that while the white population, during the preceding ten
+years, had increased in a ratio of only 9.24 per cent, the slaves had
+increased 15.14 per cent, and the value of the aggregate property
+145.42 per cent.  Imperceptibly, and without exciting jealousy or
+alarm, but rapidly and surely, the wealth of the State was increasing
+and concentrating itself in the hands of this fortunate class.  The small
+non-slaveholding proprietors, were bought out by their wealthier neighbors,
+and moved away to some other region, where land was cheaper or
+property more equally distributed.  The class known among us as renters,
+generally poor, and often thriftless, have, one by one found their
+tenancies determined, and have wandered away to the Territories to
+secure a home by reclaiming it from nature.  Thus men added farm to
+farm until their lands were little less than dukedoms.  Upon their goodly
+estates, the white laborer, who toiled fro himself, gave way to the black,
+whose toil endured to the benefit of his master.  Thus the hireling, finding
+his occupation gone, migrated to parts where his services were in demand.
+  Convenience and economy induced the large proprietor to employ
+his own shoemaker, blacksmith, mason, carpenter, and joiner.  These
+mechanics thus losing their best patronage, their other customers having,
+many of them moved away, gather up their effects and join the stream
+of emigration, that for years has been flowing from Tennessee to
+strengthen and enrich other parts of the country.  I have been told that
+a single plantation within cannon sound of this spot, embraces what were
+once six different homesteads occupied by as many families.  The former
+proprietors have betaken themselves and their labor elsewhere.  Their
+places have been filled by laborers of another class who, with the soil
+itself form the princely inheritance of a single owner.  This was the
+legitimated operation of causes already actively at work.  Everything
+played into the hands, so to speak, of the slaveholders as a class.  Education,
+foreign travel, social postion, professional distinction, political
+preferment, were theirs, I will not say exclusively.  To what loftier
+heights of prosperity the same causes would have borne them, operating
+undisturbed through another quarter of a century, must remain unhappily
+but matter of conjecture.</p>
+        <pb n="17" facs="0012_001519_000220_0017.jpg" xml:id="d4e216"/>
+        <p>in view of such affluence, we are lost in wonder and amazement,
+that these men should deliberately go to work to overthrow the
+Government to which they were indebted for it all.  What could
+they hope?  Fortune seemed to have stopped here revolving wheel
+just as they were at the top.  What had they to gain by revolution?
+Nothing, absolutely nothing; but everything to lose!  Could they
+expect to disturb the equipoise of society with any advantage to
+themselves?  Was it for them to set men dabbling at political problems
+always replete with danger to wealth and artificial distinctions?
+Did they not know that civil commotions always bring to the surface
+a terrible radical element, tribunes of the people, irreverent,
+smashing fellows, who have no respect for great names, nor great
+estates, nor divine institutions, nor sacred soil?  In times of peace,
+the laws keep them in the fields or the workshops, or if they grow
+troublesome, and call our proprietory rights in question, chain them
+up in penitentiaries.  Were it not better to leave them there, valuable
+servants, than to turn them loose, very disagreeable masters.
+The genie sealed up in the bottle may be controlled for good; break
+the seal, the bottle fumes until it fills the sky with clouds of smoke
+from which comes an Afrite - monster of horrible mien and purpose.
+The men of wealth and peculiar privileges, of all others have the 
+smallest inducement to separate themselves from the support of their
+Government.  It is cutting off the limb between themselves and
+the tree.</p>
+        <p>This, I believe, was the feeling of the class of whom I am speaking;
+at least of the thoughtful and reflecting portion of it; and had
+they been left to themselves, they never would have embarked in an
+enterprise which, end as it may, can bring only disaster to them.
+Were a census fairly taken, I am sure it would demonstrate that in
+the presidential election of 1860, a majority, and not a small one, of
+the slaveholders of Tennessee voted for the candidates representing
+the Union and peace, and against disunion and war.  It has been
+both affirmed and denied that slavery was the cause of the rebellion.
+All controversies are idle which turn merely upon the definition of
+terms, or the mode of using language.  In an important sense,
+doubtless, slavery was not the cause of the rebellion in this State;
+though had slavery not existed among us, nobody, I presume, believes
+she would have rebelled.  Had slavery been left to itself by
+the leaders of the revolt it would not, self-moving, have risen up in
+arms against the Government.</p>
+        <p>This the leaders knew, and they would not let it alone.  It afforded
+too tempting a theme for agitation.  Long and zealously they plied
+the slaveholders.  They appealed to their vanity, by representing
+their superiority as a class; they stimulated their cupidity, by proposing
+to reopen the trade with Africa, and furnish negroes cheap;
+they excited their fears, by quoting from the handful of fiery zealots,
+who assume and delight in the name of Abolitionists, and holding
+up their words as the prevailing opinions of the people outside the</p>
+        <p>2</p>
+        <pb n="18" facs="0012_001519_000220_0018.jpg" xml:id="d4e226"/>
+        <p>fifteen slave States; they aroused their prejudices aginst the people
+of the free North by epithet, sarcasm, anecdote, narrative, or aught
+trending to make them rediculous or hateful.  When the conspiracy
+began to gather head in the winter of 1860, our Governor in full
+sympathy, if not in guilty complicity with it, convened the Legislature.
+His proclamation for that purpose bears date the 7th of December,
+before even South Carolina had seceded, and clearly was a
+part of the same grand scheme to dismember the country.  His message
+is pervaded with complaints of aggressions against slavery;  and
+appeals to the pride and fears of slaveholders.  Indeed slavery is the
+only interest, and slaveholders the only class, according to that 
+remarkable document, that required the Legislature to assemble in
+extraordinary session.  The rights of no other portion of the community
+would seem to have been in danger.  Read that document
+again, and in the baleful light of subsequent events, ask yourselves
+are these the paltry reasons for taking up arms against our kind and
+beneficent Government.  Was it for this that we invited war upon
+our own soil; that we persecuted, imprisoned, and hanged our neighbors,
+who raised their voice in warning and tried to hold us back in
+the hour of our madness?  False in assertion, fallacious in reasoning,
+and treasonable in purpose, the whole burden of this disreputable
+State paper is found in the recommendation of "a homogeneous
+confederacy of southern States " as the ultimate security for the
+guaranteed rights of slavery.  Secession-word ever hateful to the
+people of Tennessee, is carefully eschewed from beginning to end;
+but the hateful thing crawls like a hideous smake through the whole
+length of it, slimy and lambent with its forked tongue.  To secure
+the consummation of this work of folly, rebel emissaries came with
+flozing speech idsguised under the attractive name of Commissioners
+from soveregin States, accredited to the Legislature by a special
+executive message from their secret accomplice, the Governor of Tennessee.
+Their rancorous speeches, and incendiary appeals, were
+directed to the slaveholding interest alone, to which they dexterously
+contrived to subordinate every other.  The Missouri Compromise,
+the Comporomise of 1850, the higher law, the irrepressible conflict,
+the John Brown raid, the Helper book, the Dred Scott decision, the
+Texas invasion, abolition speeches, Garrison and Wendell Phillips,
+were the standing topics used to excite the slaveowners into phrenzy
+and array them in arms against the hated Yankee Government.</p>
+        <p>It was vain to question the accuracy of any statement, or to array
+any contervailing considerations; vain to urge that secession, called
+by whatever name it might be, was no remedy for any political wrong,
+much less a security for our property in slaves; that it would bring the
+Canada line to our own borders, and arouse in the very midst of us
+ten thousand dormant and unconscious abolitionists; worse thatn
+vain to suggest maxims of prudence and read lessons of warning
+from history.  The very idea hinted at, that the Government of more
+than twenty millions of free people was mighty power, which,</p>
+        <pb n="19" facs="0012_001519_000220_0019.jpg" xml:id="d4e232"/>
+        <p>whatever might betide, would sooner or later triumph and cover
+with shame all attampts at its overthrow, made men frantic.  They
+swore, gnashed their teeth, foamed at the mouth, and gave all signs
+of demoniac rage.  Every admonition of danger was but a new incentive
+to some more egregious folly.  When reminded of the fate of
+the horse, fabled to have submitted originally and irrevocably to the
+bit and saddle, with man for a rider, as condition of being avenged
+of his enemy the stag, they were only the more eager to girth saddles
+upon their own backs, thrust their teeth upon the bit, and seek
+our some unrelenting rider who would charge them upon the vandal
+hordes of the North.  Of course they soon found one.  He has
+bestrode them without mercy for more than two dreadful years.
+Whether, like the horse, they have taken a master for themselves
+and their posterity throgh all coming time it behooves them anxiously
+to consider.</p>
+        <p>We have seen that the avowed object of conveing the Legislature
+under the Governor's proclamation of 7th December, 1860,
+was to guard against the dangers alleged to menace slavery, and to
+provide new and further guarantees for that interest.  The rpoceedings
+of that body, as shown in the Journals and acts, and the daily
+abstract of the debates, look primarily, if not exclusively to the
+same object.  Among them, and perhaps the most prominent, is
+a series of resolutions proposing amendments to the Constitution
+of the United States, with the alternative of disunionand the overthrow
+of the Federal Government.  Every one of these proposed
+amendments is an additional protection to slavery.  To show how
+much of sincerity was contained in these propositions, it is enough
+to call attention to the date of their paaage, the 22d January, 1861;
+to the fact that they propose a convention of all the slaveholding
+States at Nashville on the 4th day of February following "to define
+a basis upon which, if possible, the Federal Union" might be "perpetuated
+and preserved;" and having done this, the Convention
+should "invite all States friendly to such plan to elect delegates in such
+manner as to reflect the popular will" to assemble in a constitutional
+convention of all the States, North and South, to be held at Richmond,
+Virginia, on the--day of February, 1861, to review and
+perfect such plan of adjustment, or failing this, the inevitable Southern
+Confederacy.  Now, every one knows, and none better than the
+men who voted for these resolutions, that after the day of their passage
+the assemblage of two such conventions during the succeeding
+month of February was an absolute physical impossibility.  It would
+not give to the people of the United States the notice required for
+a constable's election.  had Divine wrath intended to punish a favored
+and pampered but arrogant and ungrateful people, a fitter set of
+instruments could hardly have been selected than the men who at that
+time held control of our affairs.  Ought we to be surprised if, with
+such a flagrant piece of insincerity and downright dishonesty on our
+legislative records, the whole country and the on-looking world hold</p>
+        <pb n="20" facs="0012_001519_000220_0020.jpg" xml:id="d4e238"/>
+        <p>slavery responsible for picking the quarrel and bringing on the war?
+Ought we to be surprised if, protest our innocence as much as we
+will, we are chared with the villaines fo the men who made us their
+dupes and tools?  Ought we to be surprised if our rights as slaveowners
+are little respected by soldiers called far away from their
+homes to defend their Government against a rebellion originating in
+such pretexts and ostensibly for such a cause--soldiers derided as 
+Abolitionists and negro thieves, who are conscious of a life-long devotedness
+at the ballot-box and in the councils of the nation to the asserted
+rights and State equality of the South, under the lead of the very
+men who they now see were all the time plotting the national
+destruction, and, by continually pressing new and impossible demands,
+were maneuvering to force a conflict upon the country under circumstances
+compelling the North to succub?  And above all, ought
+we to be surprised if the non-slaveholding portion of our own people
+should become weary of the war, and begin to inquire, in an inconvenient
+and troublesome way, what interest they have in the strife?</p>
+        <p>The wonder is that we did not think of these things before; that
+we did not manfully resist a contest which, result as it might, could
+not fail greatly to impair the interests of slavery.  We took counsel
+of our passions, we followed after leaders whose worthlessness, even
+as leaders, is now beyond disput.  We would have war.  Long before
+a Federal gun was fired, or a volunteer called to the field, we
+allowed rebellion to rcruit, unchecked, on our soil, and to transport
+great guns and munitions of war along our railroads, and to detain
+our trade from one part of our State to anthoer so soon as by the
+route of transmission it crossed the State line.  We submitted to
+these things with tameness very strange, when we remember how
+we shrunk under the southern taunt of "submissionists."  Indeed,
+some, not a few, rather liked them.  Long before our people had
+been consulted, before even the Legislature had declared its position,
+we sent our sons, and neighbors into Virginia, armed and organized
+as soldiers, with "On to Washington" for their rallying cry, to wage
+active war upon the Government with which we were, at least, in
+nomial allegiance.  What hidden wrath, what secret curse impelled
+us, with such mad haste, to rush into arms!</p>
+        <p>And now, after more than two years of war, where are we, what
+is the result?  I mean to slavery in Tennessee.  For, as you perceive,
+I have confined myself to the history of that important interest,
+alluding to other things incidentally, and only as they affect it.
+My words are addressed primarily to the class directly concerned,
+the class to which I myself belong, interested to the extent of my
+houlsehold servants, all that my pursuits in life made profitable or
+diesirable,  Were the census of the slaves in our State now taken, I
+hazard little in saying that the number of those in the actual employ
+and under the control of their owners within the State would be
+found not half the number three years ago; the rest, hurried away
+to the remote South by their masters, under a vague impression of</p>
+        <pb n="21" facs="0012_001519_000220_0021.jpg" xml:id="d4e246"/>
+        <p>greater safety; stolen and sold into the Soth by the same men who
+bost of their profits from stealing horses and other property, with a
+like disposition of it; impressed into the rebel armies as servants,
+laborers, teamsters, and soldiers; recieved into our own armies fora
+lide purpose; seized and held as contraband of war; run away, with
+no power to enforce either Federal or State laws for their recovery;
+at home demoralized, working as much, and when they please, or
+refusing to work at all, and setting at defiance the whole doctrine of
+coercion.  These are but the natural and inevitable consequences of
+the war-- injurious to other interests, ruinous to this.  As yet, not a
+slave in the State has been emancipated by confiscation, nor by the
+President's proclamation; for the confiscation act has not yet been
+enforced here, and on the application of prominent Union men, the
+President excepted Tennessee from the proclamation.  Terrible as
+war may be to the white man, it is likely to be a carnival, if not a
+jubilee, to the black.</p>
+        <p>it is no part of my purpose to discuss the propriety of the emancipation
+proclamation or of arming the negroes.  i take ti, these are questions
+purely of military expediency.  Undoubtedly, the President has
+the same rightful power to deprive the rebels of their slaves that he
+would have to stampede their horses, or to induce their unwilling
+conscripts to desert and join our ranks.  For arming the negroes
+there are high precedents in the Revolutionary war, and the war of
+1812, in the constant practice of the English and French governments,
+and in the early practice of the rebels themeselves.  Our own
+State authorities, while in rebel array, did not esteem the negro
+unworthy their solicitation as an ally.</p>
+        <p>The numerical diminution in the slave property is not the most
+serious detriment.  That loss, great as it is, would, by the return of
+peace, and the restoration of the ancient order of things, in a few
+years be supplied.  Other purchases would make good the places of
+those gone away.  The demoralized and wayward would be reduced
+once more to obedience, that stubborn and refactory made submissive
+to the master's authority.  There is another element of danger,
+on which it is vain to shut our eyes, or close our ears.  it is already
+too manifest and outspoken to be blinked out of sight.  You will
+understand me as referring to our own non-slaveholding population.
+We have seen that they outnumber the slave owners three to one.
+The political power of the State has been, and is likely to be, in their
+hands.  We can never hope, for years to come at least, that in Tennessee,
+as in South Carolina, five hundred acres of land and teen
+negroes will be a consitutional qualification for a set in the lower
+branch of our Legislature.  Upon an issue, therefore, between the
+two classes, the contest would be neither long nor doubtful.  I have
+failed in my object, if I have not shown, historically, how skillfully,
+up to the present commotion, this issue was avoided.  Discussion,
+which at first was somewhat importunate, by degrees was silenced,
+until everybody acquiesced in the privileges of the master, and they
+were fortified by the strongest legal sanctions.  What in the beginning</p>
+        <pb n="22" facs="0012_001519_000220_0022.jpg" xml:id="d4e254"/>
+        <p>was an inconsiderable interest, barely tolerated, became, by careful
+management, a controling power in the State.</p>
+        <p>It is only too apparent that such is not the case now.  Discussion
+is re-opened with more menace thatn ever before; the rights of the
+master are openly, not to say defiantly, called in question; slavery
+is denounced with strong and ominous words.  And this not by
+philanthropists and humanitarians, moved by the supposed oppression
+of the negro, but by men who see in the slave an element of
+danger to themselves and their children; who see in slavery a broad,
+inacessible platform, upon which, at their ease, repose a class enjoying
+a monopoly of social and political distinction, while they are
+toiling in hopeless inferiority below.  The danger is, that in their
+impatience they will pull down the platform, and tumble the dainty
+and delicate recumbents.</p>
+        <p>The published declarations of the soldiers of East Tennessee, of the
+Association under whose auspices we celebrate this day, of the Board of 
+Aldermen in this city--are to recent and well-remembered to require
+or justify a repetition here by me.  He has mingled with the popular
+masses to little purpose who does not know to how great extent these
+expressions find a response in that quarter.  People of this class are
+not inclined to dabble in political affairs.  They have their own business,
+which occupies their time.  When they do take hold of public
+questions, it is not from motives of personal ambition, or as placeseekers.
+Unambitious of offcial distrinction, they ask only protection
+for themselves and all that belongs to them.  This afforded them,
+they devote little care to the machinery of Government.  Oppression,
+a sense of wrong, broght home to their own bosoms, are the stimulants
+that arouse them to political activity.  one aroused, they are
+not easlily put down.  neither hard words nor soft words avail
+much; something as substantial and tangible as bread, and meat,
+and clothing, must be had.  It is to little purpose that your denounce
+them as plebeians, canaille, sans culattes, puritans, roundheads mudsills,
+or abolitionists.  That style of people are not to be suppressed
+by calling them bad names, and not easily by any other means.  The
+chances are they will adopt the name of reproach, and wear it with
+a peculiar prode as their party designation.  I connut too strongly
+urge upon all interestd interested in the preservation f slavery great caution,
+lest the hateful and odious name of Abolitionist shall in this way be
+made a word of power, terrific and irresistigle.</p>
+        <p>The incurable, ineradicable weakness of the rebellion, is found in the
+absence of this element of strength.  It is the uprising of the few
+against the many; the assertion of the rights of property in disregard
+of personal rights.  Southern independence, what is it. what does it profess
+to be, what are the benefits claimed as the consequence of it?  Sifted
+to the bottom, nothing but the immunity to the slaveholder, the right to
+multiply the number of his slaves unembrrassed by the non-slaveholding
+portions of the country.  How much of this is mere pretext, we
+very well know; and what schemes of personal ambition lie concealed
+under it.  Nevertheless it is the pretext under which the war was waged,</p>
+        <pb n="23" facs="0012_001519_000220_0023.jpg" xml:id="d4e265"/>
+        <p>armies raised, and pools of blood spilt.  The non-slaveholder, not
+deficient in sagacity, inquires what he has to gain by southern independence,
+that he should be driven from home, his wife and children outraged,
+himself and his sons hnted as conscripts through the hills?
+Under whatever conditons these two social elements are brought into
+conflict, the result has been the same.  The many have always trumphed
+over the few; personal rights have prevailed against the claims of property.
+There are dangers that lie before us, the difficulties that beset
+our path, and the further we sander in the mazes of treason the more will
+difficultly and danger multiply around us.  Safety can only be found
+by retracing our steps, by reversing this hideous spell, and reascending
+to the free and vital air, pure as when the loual fathers breathed it.
+The Government they gave us was so free, so clear in its unfettered liberty,
+that we deemed our freedom a natural gift, like the blessed dews
+of evening and morning distrilling gently on us both when we wake and
+when we sleep.  We were thrown oof our guard, and abated that eternal
+vigilance which always and everywhere has been the price of liberty.
+These weary years of desolation will no have been withou their use.
+They have compelled us to study again and more closely the wondrous
+political fabric reared by revolutionary wisdom.  One new lesson we
+now have seen its all compelling power,  The fathers built for immortality;
+we poor creatures of a day may conspire, but the day and the
+conspiracy will pass together.  Our work may crumble and decay;
+their work will stand all the more secure as the storms of the ages
+shall break and dash against it.</p>
+        <p>I have spoken plainly.  I feel deeply.  Nothing but the honest
+expression of honest convictions befits the day or the time.  This is no the
+season for the forth-putting of demagogues and self-seekers, nor for the
+display of fleecy rhetoric.  Truth--naked, sublime, majestic--alone can
+ourstand this tremendous conflict.  Falsehood, error, mistake, ignorance,
+prejudice, and all the lesser brod of herenemies, deserve to be and will
+be swept away into pitiless oblivion.  Great trails and great sufferings
+make men honest.  We have been sorely tried; we have suffered much.
+Through all the darkness of night and troule, one light has beamed
+steady and clear on our vision, like an ever-lighted signal on the headlands
+of liberty, the bright hope of preserving a Free Government for a
+Free People.</p>
+        <p>Nashville, July 4th, 1863.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

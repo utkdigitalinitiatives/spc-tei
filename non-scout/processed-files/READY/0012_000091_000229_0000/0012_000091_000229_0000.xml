@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000229_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Anna Jones</name>
+				                    in Allegheny City, Penn., to her husband <date when="1865-02-26">1865 Feb. 26</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">Anna Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000229_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Anna Jones in Allegheny City, Penn., to her husband 1865 Feb. 26</title>
+          <date when="1865-02-26">1865 Feb. 26</date>
+          <author>
+            <name type="person">Anna Jones</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000091_000229_0001.jpg" xml:id="d4e39"/>
+        <p>Allegheny City Feb 26th 1865 </p>
+        <p>Dear Pappa</p>
+        <p>This Sabath is the second since you left us, you dont know how we miss you in our reading and singing we still read together but we have not tried to sing since you went away it did seem as if it was impossible for us to do without you I could not bear to set down for several days but kept moving round to keep from thinking long, and <unclear reason="illegible" resp="EMS">Jroon sharon</unclear> still says tell tell Pa to move home and Tommy says tell Pap that we are getting lazy for I dont make them get up to keep them off the street I dont let them out much I have not been out of the house since yo went away but to market once and then I slipt down while the children were in bed and I got back before they were up I have not been to church since Mrs Weaver offered to keep Anna May this afternoon but it is so stormy the wind blows so hard that I did not tke the offer Andy was here yesterday they have no house yet Mrs. Cornelious has taken the house next to us so she will be our neighbour David you dont know how my feelings were hurt when I opened that bundle that they set up I cried good over it there is nothing under the sun in but two old peticoats and three old dresses of no use to any body and shiney and one old apron and and one old waist of canton flannel I was going to send them back and Mr Holmes would not let me he said for me to keep them and shew them to every bosy just whwat I got that the  <unclear reason="illegible" resp="EMS">juiblie</unclear> might know have mean they were oh dear but he was mad, I told Andy that I did not believe that I was mothers child that I must be some bastard that they had raised for if I had been I was not treated like a child and Mr Holmes tries</p>
+        <pb n="2" facs="0012_000091_000228_0002.jpg" xml:id="d4e53"/>
+        <p>to comfort me by telling me t hat the King may come the Cadgers road and that their children may yet come to mine for bread I wish you could see Anna and sharon they are both on the floor at my feet and sharon has fell asleep and Anna says she is sleepy too dear little Annie she is just as sweet as ever the children are full of fun and mischeif but I get along with them right well but still I do miss your little kind turns at might and morning so much it seems as if it keeps me busy to mind them and attend to the work David if there is any thing you want let me know and we will try to send it to you I wish you were near enough to get a good loaf of bread and a pie or something I have not had butter since you went away but we did not miss it much for we have feasted on potatoes in every way since this ward is not out of the draft yet the trouble is now they cant get men <unclear reason="illegible" resp="EMS">Seriba</unclear> fell out with his captain and is now raising a company for himself he is captain I heard that he had 60 men I dont know how true it is and the man that was first Lieutenant in your company has been appointed one of the police and has resigned his office and is not going he is old Elkins son that lives on fleming street the children are off to church they have not missed since you left they went to Sabath school this morning the bells began just as they were out on the <unclear reason="illegible" resp="EMS">pavement</unclear> starting Andy is going to send you his paper I will sen dyou the Preacher on <unclear reason="illegible" resp="EMS">tuesday</unclear> I did intent to send the dispatch yesterday and it was such a rainy day that I did not go out I have not seen any of bobs family since I must not write too much for Jimmie and Andy want to write some and I must give them room to write soon again and for we think long still to hear from you Mr Holmes takes the paper with me</p>
+      </div>
+    </body>
+  </text>
+</TEI>

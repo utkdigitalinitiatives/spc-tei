@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000240_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in camp near Corinth, Miss., to Caroline M. Brown,<date when="1862-05-19">1862 May 19</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000240_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in camp near Corinth, Miss., to Caroline M. Brown,1862 May 19</title>
+          <date when="1862-05-19">1862 May 19</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000240_0001.jpg" xml:id="d4e39"/>
+        <p>Camp near Corrinth Mississippi</p>
+        <p>May 19th 62</p>
+        <p>Caroline M. Brown</p>
+        <p>Dear wife and children I seat my self this nice <unclear reason="illegible" resp="LW">maining</unclear> to respond to yours of the 22 of last month and the 7 of this i got one last saturday And one yesturday i was truly glad to hear from you A gain and that you ware well then I cant brag of my health at this time it has bin verry poor for some timei have had the direa ever since the next day After Holden was to see us i am able to be about</p>
+        <pb n="2" facs="0012_000599_000240_0002.jpg" xml:id="d4e52"/>
+        <p>yet and i thank god for it I hope i shall soon be well again we are within 2 miles of the rebels we can hear their drums plain i think the fight will go off soon I do not exspect to be in it i am not able to fight at this time this will end the war if we gain it And we have men enough to do it the bigest days work that ever i saw was done yesterday diging rifles pitts and throwing brest works and planting cannon it looks pretty hard to see so many men at work on sunday to mee i tell you and that fixing to kill one another</p>
+        <pb n="3" facs="0012_000599_000240_0003.jpg" xml:id="d4e56"/>
+        <p>you said something about some of the letters stamps I supose i have got all you have sent me according to your last letter i have got some in three difernt and seven in one and 2 in one and 5 in the last one you also said something about me not writing to H. Ketcham i did answer his letter right away as soon as i could also one to James Hemery and sent it in one of yours you may tell him that i thank him for his big letter that he wroat in your last one tell him that i was glad to hear that he was in good health but it did not find my</p>
+        <pb n="4" facs="0012_000599_000240_0004.jpg" xml:id="d4e60"/>
+        <p>So good by for this time Health as good as i would like it to be i feel better this morning than i have for same time if it will still continue you said that i must not trouble my self about home i shall content my self the best i can that is certain for i know you need me at home I want you to be contented And do the best you can untill i get home if I ever do if i should get killed you must not greave after me just think of the cause we are in and you will say god bless the union for everer Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000832_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Sampson Williams</name>
+				                    in Nashville, Tenn., to Colonel David Henley in Knoxville, Tenn., <date when="1794-12-24">1794 Dec. 24</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">Sampson Williams</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000832_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Sampson Williams in Nashville, Tenn., to Colonel David Henley in Knoxville, Tenn., 1794 Dec. 24</title>
+          <date when="1794-12-24">1794 Dec. 24</date>
+          <author>
+            <name type="person">Sampson Williams</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Sampson Williams Letter</note>
+          <note type="manuscript">MS.2388</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Fort Blount (Tenn.).</term>
+          <term>Jackson County (Tenn.) -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000832_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Colo</p>
+        <p>David Henley</p>
+        <p>Knoxville</p>
+        <p>Hon W Colo</p>
+        <p>Robert Hays</p>
+        <pb n="2" facs="0012_000832_000200_0002.jpg" xml:id="d4e51"/>
+        <p>Nashville</p>
+        <p>21 Decem. 1795</p>
+        <p>Sampson Williams</p>
+        <p>A Letter</p>
+        <p>respecting Morris <unclear reason="illegible" resp="EMS">Shannon</unclear>
+            </p>
+        <p>Certificate</p>
+        <p>that Allen Parker</p>
+        <p>served a tour duty</p>
+        <pb n="3" facs="0012_000832_000200_0003.jpg" xml:id="d4e71"/>
+        <p>Nashville December the 24th 1794</p>
+        <p>Sir <unclear reason="illegible" resp="EMS">G</unclear>
+            </p>
+        <p>Enclosed is Morris <unclear reason="illegible" resp="EMS">Shanes</unclear> Certificate &amp;power with the Certificate of the Muster Master and his Captain on the back of the Old Certificate this will enable you to report to the war office in favor of the poor man who stands security for the money. Before I got home I was met with the News of the Murder of Colo Montgomery and two others the latter of whome have till lately lived in a peaceble part of the Country <unclear reason="illegible" resp="EMS">Since</unclear> that three of my neighbors all verry respectable citizens have been Killed but a small distace from the Settlement, This shews how little dependance is to be put in Treaties and also proves how much we are neglected for want of protection for all the Troops allowed to this district is not sufficient to guard one County as it ought to be done for when mischief is done in one part of the district the troops are so scattered the enemy will be entirely out of reach before they can possibly collect and if there was none at all in service it would be better than so few as every one would then have an equal right to win out I hope you will not forget the red Ink powder as poke berrys are all dead, and believe me I am Sir with Esteem you <gap resp="Smither"/> obdt servt S. Williams </p>
+      </div>
+    </body>
+  </text>
+</TEI>

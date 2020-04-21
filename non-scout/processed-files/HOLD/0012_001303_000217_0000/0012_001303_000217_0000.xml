@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000217_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France to Ellen Smith, in Jackson, Tenn., <date when="1918-05-12">1918 May 12</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Giles, Sheldon</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000217_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith, in Jackson, Tenn., 1918 May 12</title>
+          <date when="1918-05-12">1918 May 12</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Giles, Sheldon">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000217_0001.jpg" xml:id="d4e39"/>
+        <p>J. L. Dodds</p>
+        <p>Co L. 23 Engineers</p>
+        <p>American Ex Force</p>
+        <p>Miss Ellen Smiteh</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U. S. A.</p>
+        <pb n="2" facs="0012_001303_000217_0002.jpg" xml:id="d4e57"/>
+        <p>Some Where In France</p>
+        <p>Sunday May 12 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Well I will write you again This morning as I have a few moments to myself I am fine and dandy
+ and hope this will find you the same. I have the same trouble trying to keep out of the rain I know it rains here more than any place on earth
+I dont know how long it has been since it didn't rain a little every day. Oh this is a fine place for ducks I have moved since I wrote you last.
+I am at the front now or just behind the front. I can see the gun fire from here and the German aeroplane</p>
+        <p/>
+        <pb n="3" facs="0012_001303_000217_0003.jpg" xml:id="d4e68"/>
+        <p>fly over us.  There was one came over yesterday and i watched them shoot at him but he was too high
+Oh this is a great life if a fellow doesnt weaken
+I have only been here a short time and dont know how ill like it yet.
+I am too far in now not to like any thing that comes.</p>
+        <p>Well how is everything back in the states wish I could be home for a few days But I am needed over here and I try 
+and not thinkto much of home until the time has come when i can come home with the Huns Whiped. I dont know when that will be but I hope soon</p>
+        <pb n="4" facs="0012_001303_000217_0004.jpg" xml:id="d4e74"/>
+        <p>The time goes pretty fast over here have been over a month but done seem very long but I have been working all the time 
+and that helps to pass the time away.</p>
+        <p>Well Ellen i dont know very much to writ that I can tell so Ill close Write me ral soon and tell me all the news as I enjoy your letters very much
+with lots of love</p>
+        <p>James L. Dodds</p>
+        <p>Co L. 23 Engineers</p>
+        <p>American Ex Force</p>
+        <p>Via New York. France</p>
+        <p>P. S. Does Jim think he will come over any ways soon? Have they drafted any more of the boys frm Jackson</p>
+      </div>
+    </body>
+  </text>
+</TEI>

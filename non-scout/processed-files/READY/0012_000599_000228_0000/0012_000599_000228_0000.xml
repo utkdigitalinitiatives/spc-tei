@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000228_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Nashville, Tenn., to Caroline M. Brown,<date when="1862-03-08">1862 Mar. 8</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000228_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Nashville, Tenn., to Caroline M. Brown,1862 Mar. 8</title>
+          <date when="1862-03-08">1862 Mar. 8</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000228_0001.jpg" xml:id="d4e39"/>
+        <p>Nashville Tennessee</p>
+        <p>March 8th 1862</p>
+        <p>Dear wife and Beloved children i sit down this saturday night to write you a few line to let you know what i have sent you home i have bought for you all I bought the pictures of the battles of the wild cat And logans Cross Roads and Crossing fishing creek By a Rope and the seen at camp Dick at church on the 10th of November and a map with them they are rold up to gether and i want you to take good care of them untill i get home if so lucky as to do so And then i will frame them and have them many days here after in the house</p>
+        <pb n="2" facs="0012_000599_000228_0002.jpg" xml:id="d4e47"/>
+        <p>Now i will just say that I have seen Daniel hartley he does not look like him self any more he is like uncle Ebb Now he has red whiskers and I heard from G. W. Byers and the rest of the Boys A. D. <unclear reason="illegible" resp="LW">Hemery</unclear> and John was out to see them i would like to go out to see them But we cant get out to see them they keep us very close in camp you may Tell virgenia that gilbert And the rest of the Boys was well thursday last Now i will just say that I got a letter from Mr George McCaughey yesterday And he said he had got the milerstown Drums</p>
+        <pb n="3" facs="0012_000599_000228_0003.jpg" xml:id="d4e54"/>
+        <p>And he also said that Isaiah And george was over at his House and he said that he thought that Isaiah would make a drumer if he had a drum I think i will have one home with me if i get Home I will just say that Captain Free has binn promted from Captain to mag for Now i will just let you know that i have Never received but one letter from you since i got back to camp i would like to have Another very much so i can here from you once more And get news of sunday Creek and the Neighbours such as is good to you and the children Now i will</p>
+        <pb n="4" facs="0012_000599_000228_0004.jpg" xml:id="d4e58"/>
+        <p>Now i will just say that Captain Free says that we may come home from this place yet But i cant tell whare we will go from here No more at present But remain your Dear husband and Father</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

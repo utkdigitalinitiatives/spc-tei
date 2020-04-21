@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000270_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Winson Edney</name>
+				                    in Nashville, Tenn., to David Burford in Sumner County, Tenn., <date when="1831-09-10">1831 Sept. 10</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Winson Edney</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000270_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Winson Edney in Nashville, Tenn., to David Burford in Sumner County, Tenn., 1831 Sept. 10</title>
+          <date when="1831-09-10">1831 Sept. 10</date>
+          <author>
+            <name type="person">Winson Edney</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000270_0001.jpg" xml:id="d4e39"/>
+        <p>Hon. David Burford</p>
+        <p>Sumner County</p>
+        <p>Tennessee</p>
+        <p>From Winson Edney</p>
+        <p>Apt for engrosing</p>
+        <p>clerk to Senate</p>
+        <pb n="2" facs="0012_000115_000270_0002.jpg" xml:id="d4e53"/>
+        <p>Nashville September 10th 1831</p>
+        <p>Hon Sir</p>
+        <p>It is with some degree of diffidence I presume to address you by way of letter being an entire stranger to you.  Though I flatter myself with the hope that when the object of my communication is fully made known to you it will at least <unclear reason="illegible" resp="JCM">measurably</unclear> atone for so unceremonious an introduction. I am as you perhaps have already <unclear reason="illegible" resp="JCM">learned,</unclear> a candidate for <unclear reason="illegible" resp="JCM">Engrossing</unclear> clerk to the Senatorial Branch of the General Assemby of this State, of which you have the honour to be a member. This is as much as I deem absolutely incumbent on me to say on the subject, particularly to a member of <unclear reason="illegible" resp="JCM">soprise,</unclear> enlightened, and honourable a Body. If, after investiation and deliberation, or an interview in which I should be happy to participate before the House convene, you should find me worthy of your promotion and judge me to be competent to the important service of <unclear reason="illegible" resp="JCM">engrossing</unclear> the acts of the Senate. I should accept the favour of such an honour with the determined resolution of discharging the duties incumbent on me with the utmost degree of punctuality and <unclear reason="illegible" resp="JCM">despatch</unclear> and with credit to myself and the approbation of the members individually and collectively.</p>
+        <p>Be pleased to accept these <unclear reason="illegible" resp="JCM">lines</unclear> as a plain and candid <unclear reason="illegible" resp="JCM">echibition</unclear> of the subject matter of my epistle, and if in the <unclear reason="illegible" resp="JCM">moriety</unclear> of applications, and hosts of applicants you should permit my name and humble pretentions not to suffer entire obvlivion and oversight,  I shall perceive myself as having achieved something.</p>
+        <pb n="3" facs="0012_000115_000270_0003.jpg" xml:id="d4e91"/>
+        <p>considering the Public Square as an Arena Gymnasium, or <unclear reason="illegible" resp="JCM">Palaestra,</unclear> the Court House the <unclear reason="illegible" resp="JCM">Comitia</unclear> or place of noting the candidate as <unclear reason="illegible" resp="JCM">Athlete,</unclear> Champions or Combatants for the Grecian and Roman prizes or honours and the members of the Senate, the Dramatis personae, we may be enabled to figure to ourselves a considerable, diversified, and grand theatrical exhibition, in the true spirit of Greece and Rome, but remodified, amended, and made almost entirely new, by a brilliant and amplified American edition performed in the exalted spirit and gesticulation of modern refinement.</p>
+        <p>I am Sir in sentiments</p>
+        <p>of sincere respect and esteem</p>
+        <p>Your humble Servant</p>
+        <p>Winson Edney</p>
+        <p>Hon. David Burford</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000251_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                     to Caroline M. Brown,<date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000251_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,</title>
+          <date>undated</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.599</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000599_000251_0001.jpg" xml:id="d4e38"/>
+        <p>I have said Something about A great many me before This but i had Saw None until we got on The advance as it ware
+				       In aline of battle and We could See the troop To to the rite and left of us on the line as far as far as we could See boath
+				       ways the Woods are alive with Troops and horses and Mules and the ground Coverd with waggons And tents whare we
+				       are Now our pickets and The rebels pickets are A shooting at Each other Most all the time with But any affect they kill</p>
+        <pb n="2" facs="0012_000599_000251_0002.jpg" xml:id="d4e42"/>
+        <p>One once awhile in boath Sides but verry Seldom I was verry Sorry to hear That Simon marshall was dead  Such things Must
+				  be allso Henry Gaver i could hardly Beleave it for awhile I Shall have to Close My remark to you And Say a few word To to the
+				  boys I Want you to prey for Me when ever you Can I for got one Thing you said Some Thing about Mrs gheen Getting $70
+				  dollars you had better that Thay us while it is plenty So good by</p>
+        <pb n="3" facs="0012_000599_000251_0003.jpg" xml:id="d4e46"/>
+        <p>To Isaiah and george  Now boys from the way you all write I think you are doing verry well i hope you will continue So untill
+				  get home and You will See things That you never saw  Something good to eat And drink Boath for You and your mother you
+				  must watch the Squirrels out of your Corn field when it Begins to come up  And tend it the best you can for the Roots i think
+				  you Can raise Some good In that new ground</p>
+        <pb n="4" facs="0012_000599_000251_0004.jpg" xml:id="d4e50"/>
+        <p>If it is well tended And a good season  Now be right good Boys and do your work well what you do I would like to know 
+				  Whether your bread Stuff was agoing to Last you till after Harvest or not  No more at present But Still remain Affectionate
+				  father untill Death</p>
+        <p>Be good boys</p>
+        <p>To Isaiah and george Brown</p>
+        <p>From their father</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

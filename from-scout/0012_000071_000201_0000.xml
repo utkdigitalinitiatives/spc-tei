@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Knoxville, Tenn. to Amos Gould in Owosso, Michigan
+<date when="1864-06-10">
+1864 June 10
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1864 June 10</title>
+               <date>1864-06-10</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated June 10, 1864, Henry Cherry writes from Knoxville, Tenn. to Amos Gould, in Owosso, Michigan, discussing, again, the difficulty of getting paid. A paperwork issue has caused Cherry not to be paid since December 31, 1863. Additionally, Cherry describes in-fighting among the officers of his regiment.</note>
+               <note type="collection">The Henry Cherry Letters, 1864</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000201_0001.jpg" xml:id="d3e142"/>
+            <p>Knoxville Tennessee. June 10th</p>
+            <p>1864</p>
+            <p>Honl Amos Gould,</p>
+            <p>Dear Sir,</p>
+            <p>I write you under some excitement &amp; indignation. On my return I found myself welcomed by Officers &amp; men &amp; sincerely so. As soon as opportunity offered Col F called me aside &amp; told me how grievously &amp; shamefully he had been treated by certain officers &amp; he was enraged. I of course had heard nothing &amp; knew nothing &amp; report nothing to any man. There is soon to be a terrible out-burst, but the Doctors &amp; I are in no way mixed up with the matter &amp; we think there is no way to draw us in. We were looking for it yesterday, but have heard nothing yet. An Arrest is expected, and then there will be warm times. Such is the feeling, not against me in particular for he is very friendly &amp; confiding (&amp; I will not be so mean as to be a traitor to his confidence) but to the Regiment &amp; Officers that he will not show kindness to anybody at present I told him all about Captain Knights</p>
+            <pb n="2" facs="0012_000071_000201_0002.jpg" xml:id="d3e158"/>
+            <p>feeling of sympathy &amp; his returning to me of the original muster, saying I needed nothing more and that all was right &amp;c., &amp;c. but he says he must have a written document to show that such is the fact before he will risk my being put upon the Regimental &quot;Muster roll&quot; lest he may have to pay the whole himself! I talked with him to day &amp; he dictated the following, which was sent to Capt W W Dean with a request that he would forward it through the proper channels. Now I feel that it will never amount to a &quot;hill of beans&quot; and as I know that all is right &amp; clear &amp; straight I request that you will if possible proceed immediately to Detroit, &amp; see Capt Knight and or his clerk, &amp; obtain a statement from them to this effect. Their &quot;Muster Roll&quot; will show that my name has been continued right along &amp; you can induce them to testify that all all is right. I have due me $672.00 and with their testimony the Col will not dare to leave me off the Roll.</p>
+            <pb n="3" facs="0012_000071_000201_0003.jpg" xml:id="d3e166"/>
+            <p>By the time your reply comes which I would be glad to get as soon as the 24th inst He may not be in command but I know not. At any rate, if you will do me this favor, I will pay you $50..00 for your trouble as soon as we draw our pay which it is probable will be on the 1st of July. The Regiment will it is said be then paid for May &amp; June.</p>
+            <p>Yours fraternally</p>
+            <p>Henry Cherry.</p>
+            <p>Note. I do not write to Capt Knight lest it might not be attended to in time.</p>
+            <p>Head quarters 10th Mich Cav</p>
+            <p>Strawberry Plains Tennessee</p>
+            <p>June 10th 1864.</p>
+            <p>General,</p>
+            <p>During the month of Feb last I received notice from Lieut Adair, Mustering &amp; Disbursing Officer at Detroit, Mich, that the &quot;Muster&quot; of the Rev Henry Cherry as Chaplain to the Regiment was not recognised by the War Department, owing to some supposed irregularity in the form of appointment, accordingly the Chaplain has received no pay since Dec 31st 1863. He has been informed by Capt Knight, Mustering &amp; Disbursing Officer at Detroit, to whom he returned his certificate of Muster, that his Muster as Chaplain</p>
+            <pb n="4" facs="0012_000071_000201_0004.jpg" xml:id="d3e191"/>
+            <p>had subsequently been treated by the War Department as valid &amp; his original Certificate of Muster was therefore returned to Mr Cherry.</p>
+            <p>I have the honor to request an official notification of the validity of the appointment &amp; muster of the Rev Henry Cherry as Chaplain to the Regiment in order that I may incur no censure in treating as such and that he may receive his monthly pay of which he stands in distressing need</p>
+            <p>I have the honor to be</p>
+            <p>General, very respectfully</p>
+            <p>Your <unclear reason="Unknown abbreviation; perhaps short for &quot;Colonel and Servant?&quot;"
+                        resp="Josh Hogan">Coll Servt</unclear>
+            </p>
+            <p>Thaddeus Foote</p>
+            <p>Col 10th Mich Cav</p>
+            <p>
+               <unclear reason="Unknown abbreviation." resp="Josh Hogan">comm,g</unclear>
+            </p>
+            <p>Brig Genl Thomas</p>
+            <p>Adjt Genl</p>
+            <p>Washington, D.C.</p>
+            <p>I am told that I ought to do as others have done -- hold out a purse -- and in a few minutes all would be right, but I wont.</p>
+            <p>H.C.</p>
+            <p>Henry Cherry</p>
+            <p>June 10 1864</p>
+         </div>
+      </body>
+   </text>
+</TEI>

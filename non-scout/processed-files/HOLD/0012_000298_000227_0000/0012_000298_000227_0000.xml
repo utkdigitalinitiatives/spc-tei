@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000227_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1865-06-11">1865 June 11</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000227_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Memphis, Tenn., to his wife 1865 June 11</title>
+               <date when="1865-06-11">1865 June 11</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000227_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis, Tenn. June 11th 186_</p>
+            <p>My Darling</p>
+            <p>Yours of the 1st and 4th duly recd I would have answered that of the 1st at once but had the promise of a Ticket for Charlie which I did not get before Friday and thought that I would put off writing until today as the hot weather fatigues me much I sign my name on an average 600 times per day besides reading more than 100 papers. I have no objection to Alfred Ollis but you know I have seen but little of him but his character is good and you seemed to think highly of him at any rate the proper time to discourage any thing of the kind is when the association first begins afterwards unless the character of the party is bad they had better take their own course I have written to both Alfred and Hattie by the mail giving my consent. I suppose they will show you the letters I think you had better take Charlie to the <unclear reason="illegible" resp="EMS">water cave</unclear> near Peoria that treatment may do her good and you no harm but if you like </p>
+            <pb n="2" facs="0012_000298_000227_0002.jpg" xml:id="d4e50"/>
+            <p>she may come down here and I can take her when I get back which I hope will be in July if not I must come in August to see about a house. The Ticket is blank so she can come by St. Louis or Cairo as is most convenient the ticket must be filled up and dated (best in a mans handwriting) My cold is reealy gone but the dirt and talking cause me to be somewhat hoarse by night my tonsils are still swollen but I have regained my appetite and am looking well again. The weathers extremely hot in the day but not so hot at night so that after sponging myself with water fresh from the cistern from head to foot I generally sleep well.  I will send you some money in a few days if I can not find someone going up there by Express I cannot send the usual <unclear reason="illegible" resp="EMS">5</unclear> today as my pocket book is locked up in the safe in the custom house for safe keeping. The Machine seems to have been made new and I hope works well it cost enough to be as good as new and has all the improvements. I go out but little having been to Holmans but once it is too hot to walk and too dusty to breathe. on Thursday late we had a </p>
+            <pb n="3" facs="0012_000298_000227_0003.jpg" xml:id="d4e57"/>
+            <p>good soaking rain and again on friday after noon a rain squall from the <unclear reason="illegible" resp="EMS">West</unclear> by which time the streets were so dry that the dust was so thick that you could not see a cross the street you are mistaken about the sun shining in my office the three windows look North and after 8 AM there is no sun in them the room is as pleasant as any of them all are hot. my bedroom is good enough but of course I am not as comfortable as if you were with me I think I can make a little more money than my pay I will try and save all I can but fear I shall have to buy some thin clothes. I have had two <unclear reason="illegible" resp="EMS">dustin</unclear> given me a suit of <unclear reason="illegible" resp="EMS">cashmere</unclear> is on its way from the North but that will be too hot for this climate. summer apples pears and plums are in the fruit stalls the magnolia in full Bloom. the grass on court yard is a foot high (it is Bermuda grass) and the square is lovely the Band plays frequently Kiss all for me (yourself if you can) included </p>
+            <p>Mrs Wm. R Hackley             Your aff Husband</p>
+            <p>Bloomington                         WRHacley</p>
+            <p> Ills,</p>
+            <pb n="4" facs="0012_000298_000227_0004.jpg" xml:id="d4e76"/>
+            <p>PS Tell C to Telegraph what Boat she is on when leaving the wires are up from here to all <unclear reason="illegible" resp="EMS">wired</unclear> so that you can send me a message if necessary.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

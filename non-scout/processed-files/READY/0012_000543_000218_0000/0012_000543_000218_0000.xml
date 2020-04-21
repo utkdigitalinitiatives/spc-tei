@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000218_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, 
+					<name>John Overton</name> in Nashville, Tenn. to <name>John Sevier</name>, 
+				                   <date when="1815-04-12">1815 April 12</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">John Overton</name>
+          <name type="person">John Sevier</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000218_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Overton in Nashville, Tenn. to John Sevier, 1815 April 12</title>
+          <date when="1815-04-12">1815 April 12</date>
+          <author>
+            <name type="person">John Overton</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">John Sevier Collection, 1782-1839</note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e41">
+        <pb n="1" facs="0012_000543_000218_0001.jpg" xml:id="d4e42"/>
+        <p>Luage Overtons</p>
+        <p>instructions respecting the suit with Polk</p>
+        <p>Tho Hanble</p>
+        <p>John Sevier</p>
+        <p>Knoxville</p>
+        <pb n="2" facs="0012_000543_000218_0002.jpg" xml:id="d4e54"/>
+        <p>Nashville April 12th 1815</p>
+        <p>Dear Sir</p>
+        <p>Yours from Winchester in Virginia has bene duly received. The </p>
+        <pb n="3" facs="0012_000543_000218_0003.jpg" xml:id="d4e62"/>
+        <p/>
+        <pb n="4" facs="0012_000543_000218_0004.jpg" xml:id="d4e65"/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

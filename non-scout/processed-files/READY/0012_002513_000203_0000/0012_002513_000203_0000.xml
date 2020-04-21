@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002513_000203_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Watson B. Smith</name>
+				                    in Hodges, Tenn. to Rollin Coleman Smith <date when="1863-09-17">1863 Sept. 17</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Watson B. Smith</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002513_000203_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Watson B. Smith in Hodges, Tenn. to Rollin Coleman Smith 1863 Sept. 17</title>
+          <date when="1863-09-17">1863 Sept. 17</date>
+          <author>
+            <name type="person">Watson B. Smith</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Watson B. Smith Papers, June 1863 - Sept. 1863</note>
+          <note type="manuscript">3324</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Michigan -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States. Army. Corps, 23rd (1863-1865).</term>
+          <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002513_000203_0001.jpg" xml:id="d4e39"/>
+        <p>Hd. Qrs. 2d Div. 23d Army Corps</p>
+        <p>Hodges, Tenn, Sept. 17 1863-</p>
+        <p>Dear Father</p>
+        <p>On the evening of the 14th Genl. White received orders to move his Division at once to Knoxville &amp; from there to Greenville. We broke camp at 3 o'clock on the 15th marching 25 miles or within 5 miles of Knoxville—yesterday we made 15 miles &amp; started this A. M. at 4 o'clock for a long push when orders reached Genl. W at this place causing a halt until farther orders. This place is near Strawberry Plains, on the R. R.-</p>
+        <p>This sudden move was made on account of the appearance of a rebel force in the Eastern part of the State. The Div. was hard at work at Loudon running a flour mill, building a pontoon bridge &amp;c and expected to move Southward if any way when all of a sudden we receive to move this way—there it is in the Army you cannot tell what an hour will bring forth. The soldier soon cares little where or when he goes.</p>
+        <p>Genl's Burnside and Hartsuff took up Hd. Qrs. in rebel mansions. I took tea with Genl White at Genl. Hartsuffs Hd Qrs. The furniture at his qrs. is elegant everything was left but the Genl. had the carpets taken upo. Knoxville is a very</p>
+        <pb n="2" facs="0012_002513_000203_0002.jpg" xml:id="d4e53"/>
+        <p> pleasant place but has the same rusty appearance tha all Southern places have—the scenery around is very picturesque. There are many fine residences in and around the city.</p>
+        <p>The country is very fine in this part of the state &amp; crops abundant.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000242_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,  
+					<name>James L. Dodds</name>
+				                    in France, to Ellen Smith, in Jackson, Tenn., <date when="1919-02-14">1919 Feb. 14</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000242_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France, to Ellen Smith, in Jackson, Tenn., 1919 Feb. 14</title>
+          <date when="1919-02-14">1919 Feb. 14</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.2918</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000242_0001.jpg" xml:id="d4e39"/>
+        <p>Soldiers mail</p>
+        <p>AM.EX.F.</p>
+        <p>Knights of Columbus</p>
+        <p>OVERSEAS SERVICE</p>
+        <p>FROM J.L. Dodds</p>
+        <p>T.Co # 8 = 23rd Engir</p>
+        <p>American Exp Forces</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>U.S.A. Tennessee</p>
+        <pb n="2" facs="0012_001303_000242_0002.jpg" xml:id="d4e64"/>
+        <p>Souilly France</p>
+        <p>Feb 14 1919</p>
+        <p>Dear Ellen,</p>
+        <p>Will write you a few lines this evening to say I am fine and dandy.</p>
+        <p>I havent had a letter from you in about ten days.</p>
+        <p>But there is some mail coming in to night and maybe will have one in it</p>
+        <p>We are having some pretty days now. Although there is snow on the ground but the sun shines warm.</p>
+        <p>I am afraid to say much about the weather for fear will be bad again.</p>
+        <p>We are expecting to have a good feed tomorrow night we chiped in and are going to have beer, wine and </p>
+        <pb n="3" facs="0012_001303_000242_0003.jpg" xml:id="d4e84"/>
+        <p>sandwich of all kind</p>
+        <p>you know that will be quite a treat to us.</p>
+        <p>you know I kindly like my beer and sandwichs I sure expect to eat some when I get home.</p>
+        <p>My Aunt said she was going to give me a big supper now wont I <unclear reason="illegible" resp="SLJ">mop</unclear> up with that were I havent found <unclear reason="illegible" resp="SLJ">Lim</unclear> yet the 19 is scattered all over the country. I see some of the boys most ever day and I always ask about him but no one seems to know where he is. I am going out to his camp <unclear reason="illegible" resp="SLJ">ay</unclear> and see if they know any thing about him well what is going on in Jaxon, I sure wish I was</p>
+        <pb n="4" facs="0012_001303_000242_0004.jpg" xml:id="d4e103"/>
+        <p>there so could go to some good dances. Now I dont see why you dont make Bob take you some time.</p>
+        <p>He could be a wall flower while you had a good time suppose you try that and see how will work.</p>
+        <p>Will how is the flue by this time? I hope it is better for I dont want to come home some of these days and have the flue and die</p>
+        <p>That would be awful to live through all this and then happen to bad luck.</p>
+        <p>I dont know wheather will be here in this town much longer or not Some seem to think we will move before long</p>
+        <pb n="5" facs="0012_001303_000242_0005.jpg" xml:id="d4e115"/>
+        <p>I dont have the least idea where we will go but I hope it will be home.</p>
+        <p>Although I dont believe we'll be a home going trip</p>
+        <p>Well Ellen I dont know an thing to write about these days for there is nothing doing at all</p>
+        <p>So will quit for this time write me real after and tell me all the news you know</p>
+        <p>with much love</p>
+        <p>James L. Dodds</p>
+        <p>Truck Co # 8 = 23 Engir</p>
+        <p>American Exp Forces</p>
+        <p>Via N.Y. France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000209_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Camp Clark to Caroline M. Brown, <date when="1861-09-19">1861 Sept. 19</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000209_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Camp Clark to Caroline M. Brown, 1861 Sept. 19</title>
+          <date when="1861-09-19">1861 Sept. 19</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection 1861-1862</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000209_0001.jpg" xml:id="d4e39"/>
+        <p>DEATH TO TRAITORS</p>
+        <p>Camp Clark</p>
+        <p>September 19th 1861</p>
+        <p>Dear Companion I take this time to inform you that I am well at this time and I hope these few lines may find you the same and all by the Rest of the folks special the children and <unclear reason="indecipherable" resp="AH">phene</unclear> I have not found home since I left there but we have better fare here than we did at Camp Chase the folks are very <unclear reason="indecipherable" resp="AH">cover</unclear> to us here.  It is a very pretty place for to camp  they want our Reg to camp here all winter and guard the <unclear reason="indecipherable" resp="AH">city</unclear> for them</p>
+        <pb n="2" facs="0012_000599_000209_0002.jpg" xml:id="d4e58"/>
+        <p>I have sent my cloth to the <unclear reason="indecipherable" resp="AH">Maines</unclear> and i want you to go or send up and get them home as soon as you can for they were Damp <unclear reason="indecipherable" resp="AH">wferd</unclear> i put them in the sack.  Mr Hattan and Josephys are in the box and Geo Gavers to they have got their name on the bundle you will find two pictures in my coat pocket in the side pocket the <unclear reason="indecipherable" resp="AH"> only </unclear> will know and the other is John  <unclear reason="indecipherable" resp="AH"> McNeal</unclear> on a plate and he wants you to send it to his mother and tell them that he is all rite he has gone up to <unclear reason="indecipherable" resp="AH">graly</unclear> virginia on</p>
+        <pb n="3" facs="0012_000599_000209_0003.jpg" xml:id="d4e77"/>
+        <p>a boat Caroline Lewis is here to day and <unclear reason="indecipherable" resp="AH">Slallson</unclear> and wife and old Sammy Hook Perry Shanner has Bin sick for some and I dont think he will over to night he has been out of his head for two days and nights</p>
+        <p>I have averry poor place to writ on a seat of a wagon and a <unclear reason="indecipherable" resp="AH">shorttint</unclear> that I have know idea where we will go from hear on less we go to virginia  I want you to write soon and let me know how you all are and the Neighbours in genera tell the boys that i will send them something after a while when I get some money</p>
+        <pb n="4" facs="0012_000599_000209_0004.jpg" xml:id="d4e89"/>
+        <p>I want to send better clothes to B. Norris as soon as you get them home and george gavers to I want you to send me word how McCaughly is a getting long with his company</p>
+        <p>My love to you all.</p>
+        <p>Husband and Father and Friend</p>
+        <p>Just tell me how you are a getting along</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

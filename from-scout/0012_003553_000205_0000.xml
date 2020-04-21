@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003553_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">William H. Dennis</name> in <name type="place">Knoxville, TN</name>, to
+               his brother David, <date when="1864-01-25">1864 January 25</date>
+            </title>
+            <author>
+               <name>Dennis, William H.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2012</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special
+                  Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_003553_000205_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William H. Dennis</name> in <name type="place">Knoxville, TN</name>, to his brother David, 
+                  <date when="1864-01-25">1864 January 25</date>
+               </title>
+               <author>
+                  <name>Dennis, William H.</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Knoxville Civil War Correspondence Collection, 1862-1864</note>
+               <note type="manuscript">MS.3711</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+                  <term>Civil War Letters</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-21" who="nl">Reformatted transcription from its original TEI.2
+            markup to comply with the TEI-P5 lite schema.</change>
+         <change when="2013-07-12" who="nl">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e161">
+            <pb facs="0012_003553_000205_0001.jpg" n="1" xml:id="d2e163"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Knoxville Tenn.</name>
+                  <date when="1863">Monday January 25th A.D. 1864</date>
+               </dateline>
+               <salute>Mr David Dennis</salute>
+            </opener>
+            
+            <p>Dear brother</p>
+            <p>this morning I will try to Scrible you A few lines in Answer to your very welcom letter of the 4th of Jan. which I received yesterday   your letter found me in the Enjoyment of good health with all the rest of the boys of your Acquaintance Except Wm Peden he has not been well all the rest of the boys are in the best of health And look well although they have Seen pretty hard times Since we have been in Tenn. part of the time we have been Very Scarce of rations And been Very bad off for cloths  but times is A little better know  we have all got good cloths our rations is not to plenty yet but Still we get Along pretty well we Still have money to buy A little to Eat with what we draw</p>
+            
+            <pb facs="0012_003553_000205_0002.jpg" n="2" xml:id="d2e186"/>
+            <p>we have got back to winter quarters at knoxville we have been doing garrison duty in the forts  the rebels are Still around  they drove our men from <name type="place">Strawberry Plains</name> About 16 miles Above here I can not tell what they are going to do  Some thinks that we will have to Stand an other Seige here yet but I do not think we will</p>
+            <p>I think the rebels are trying to get Away from here to form a Junction with what is left of <name type="org">Bragg Army</name> one thing Shure there will have to be Something done here pretty Soon for there Can not too Armys live in here long there will one are the other have to leave here and I think that the rebels will have to leave for we have know notions of leaveing at all for this is the back bone of the rebelin for the rebs can not live with out the East Tenn. &amp; Virginia rail road we have got possession of it here And I think we will try to hold it</p>
+            <p>there is deserters comeing</p>
+            
+            <pb facs="0012_003553_000205_0003.jpg" n="3" xml:id="d2e204"/>
+            <p>In from the <name type="org">rebel Army</name> evry day  they Say that <name type="org">longstreets Army</name> is Sadly demoralized And very poorly clothed  I think that the prospect for the war Ending Soon is good  I think that the war will End this next Summer but it is hard to tell for I have thought it would of been over long Ago</p>
+            <p>I was glad to hear of the boys Still Volunteering   I glory in their Spunk that they do not wait for A draft but I must Say that I was Surprised at you for letting Isaiah go for he is to young to take care of him Self Among Straingers and particularly in the Army   likely you thought that It would be Easy in Cavelry but you are badly mistaken I have Seen Enough to know that Cavelry is no Easy birth   when you write again be Shure to give me the directions So I can write to him.</p>
+            <p>I Am pleased to hear of So many geting married  I wish them thumping luck And</p>
+            
+            <pb facs="0012_003553_000205_0004.jpg" n="4" xml:id="d2e222"/>
+            <p>fine big boys  I guess that all the best of the girls are left yet I think that all the best of them is waiting for the Soldiers  they are foolish if they do not  they have Strange Ideas when they will marry A home coward but likely they dont think that way.</p>
+            <p>Well Enough of that nonsence I will have to close for this time give my best respects to becca And the boy And as many others as may inquire after my wellfare</p>
+            <p>I will close by asking you to write Soon do not be So Careless About writing as you have been</p>
+            
+               <closer>
+                  <salute>I have the honor to be Yours Most respectfully</salute>
+                  <signed><name type="person">William H. Dennis</name></signed>
+               </closer>
+            
+            <postscript>
+               <label>P.S.</label>
+               <p><name type="place">Knoxville Tenn</name> Jan. 25 A D 1864</p>
+            </postscript>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

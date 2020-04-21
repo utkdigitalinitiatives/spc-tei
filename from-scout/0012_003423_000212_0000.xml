@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003423_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">H. Parson</name> at Camp Moore to Indiana Freeman,  
+               <date when="1861-12-22">1861 December 22</date>
+            </title>
+            <author>
+               <name>Parson, H.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_003423_000212_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">H. Parson</name> at Camp Moore to Indiana Freeman, 
+                  <date when="1861-12-22">1861 December 22</date>
+               </title>
+               <date when="1861-12-22">1861 December 22</date>
+               <author>
+                  <name>Parson, H.</name>
+               </author>
+               <extent>3 digital images</extent>
+               <note type="collection">Joseph Oliver Freeman Letters, 1861 December 22 - 1864 June 12, undated</note>
+               <note type="manuscript">MS.0806</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Chickamauga, Battle of, Ga., 1863.</term>
+               <term>United States--History--Civil War, 1861-1865--Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e160">
+            <pb facs="0012_003423_000212_0001.jpg" n="1" xml:id="d2e162"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Camp Moore</name> 
+                  <date when="1861-12-22">Dec. 22nd  1861</date>
+               </dateline>
+               <salute>Dear Sister!</salute>
+            </opener>
+            
+            <p>As I have not had the pleasure of hearing from you for a long time I take great pleasure of writing to you since William Starnes told me that you are well &amp; enjoying happiness</p>
+            <p>Since the fight at <name type="place">Belmont</name> nothing new has happened here and as we have not now the chance nor means of buying papers we know but little of what happens elsewhere.  I expect to heare a good deal from you next, having more leisure time &amp; inclination I expect than I at present.</p>
+            <p>For several weeks we have been busy building houses for winter quarters which causes us a good deal of work.  I have mine nearly finished and the fire in the chimney these cold days and nights is very agreable.</p>
+            <p>It is but a short time now till christ mass but the prospects of any fun on that occasion as in former times is any thing but favorable.  We shall not be allowed to go to town and having no money we shall not be able to buy any thing that is brought into camp.  Pies, cakes, eggs etc are therefore alltogether out of the question.</p>
+            <p>As fare as clothing is concerned we have plenty.  Every man has an overcoat 2 dresscoats 3 or 4 pairs of pants 2 or 3 pairs of shoes.  I have got 3 pair of yarn socks and lots of underclothing.  We have plenty to eat of beef, pork coffee sugar, rice etc.</p>
+            
+            <pb facs="0012_003423_000212_0002.jpg" n="2" xml:id="d2e198"/>
+            <p>In <name type="place">Columbus</name> every thing is selling hyer now than ever before.  Shirts 3 and 4 dollars drawers $2 1/2 a pair sock from 35 cts to 1 dollar a pair. Eggs from 25 cts to 30 cts a dozen butter 50 cts a pound etc.</p>
+            <p>We expect to be paid off about the first of next month.</p>
+            <p>Give my best respects to all.  If brother John should come to Columbus tell him to call at the 1rst Regement. ( 154th )</p>
+            <p>Expecting a speedy answer</p>
+               <closer>
+                  <salute>I remain your beloved brother</salute>
+                  <signed><name>H. Parson</name></signed>
+               </closer>
+            
+            <postscript><label>P.S.</label><p>Tell me whether John is gone fer a soldier!</p>
+            <p>Addresse:<lb/>
+               Mr. H. Parson<lb/>
+               Co. D. 154th sr. Regt. T.V.<lb/>
+               care of Capt. S. Fowlkes Sr.<lb/>
+               <name type="place">Columbus   Ky.</name></p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="envelope" xml:id="d2e250">
+            <pb facs="0012_003423_000212_0003.jpg" n="3" xml:id="d2e252"/>
+            <p><address>
+               <addrLine>Mrs. India Freeman</addrLine>
+               <addrLine><name type="place">Randolph Tenn</name></addrLine>
+            </address></p>
+         </div>
+      </back>
+   </text>
+</TEI>

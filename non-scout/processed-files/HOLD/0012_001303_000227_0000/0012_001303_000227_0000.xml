@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000227_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn.,<date when="1918-06-01">1918 June 1</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000227_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1918 June 1</title>
+          <date when="1918-06-01">1918 June 1</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>7 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000227_0001.jpg" xml:id="d4e39"/>
+        <p>James L. Dodds</p>
+        <p>Co L 23th Engrs</p>
+        <p>American Ex Force</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000227_0002.jpg" xml:id="d4e57"/>
+        <p>June 1 1918</p>
+        <p>Some where in France</p>
+        <p>Dear Ellen:</p>
+        <p>Will write you tonight as I have finished my days work. I am getting along fine, and am sure you are also. Have finished my days work. And believe me I am tired</p>
+        <p>This job of cooking is the hardest job I have had in the army But there is one thing I hope I wont have to do</p>
+        <pb n="3" facs="0012_001303_000227_0003.jpg" xml:id="d4e69"/>
+        <p>this all my life                      2</p>
+        <p>The head cook is sick (I mean the fellow that knows how to cook) so I have a lots more to do now</p>
+        <p>The worst part about it the darn Dutch wont let me sleep at night They shoot gas shells over and I have to get up and put on a gas mask</p>
+        <p>I some times feel like I will get out my gun and go over and get a few of them, and then I decide I want to come bavk home so I dont go.</p>
+        <p>I had to get up four different</p>
+        <pb n="4" facs="0012_001303_000227_0004.jpg" xml:id="d4e81"/>
+        <p>3</p>
+        <p>times the other night from gas alarms and I was awful mad about it</p>
+        <p>And all the time this is going on the cannons are roaring so you can guess how much sleep a fellow gets.</p>
+        <p>For the last few nights they have been a little quiet and believe me I sure have slept some</p>
+        <p>I saw my first German aeroplane come down in flames the other day A Frenchman brought him down</p>
+        <p>He caught on fire about</p>
+        <pb n="5" facs="0012_001303_000227_0005.jpg" xml:id="d4e95"/>
+        <p>4</p>
+        <p>five thousand feet in the air There was two men in it One jumped out about four thousand feet in the air and the other one rode to the ground but was burned to death when he landed</p>
+        <p>I have a small piece of wire off of it I am going to try and keep it I would send it home but wont let me</p>
+        <p>You should here me trying to talk this French language I have learned how to say a few words.</p>
+        <p>But dont believe I ever would learn to talk good</p>
+        <pb n="6" facs="0012_001303_000227_0006.jpg" xml:id="d4e107"/>
+        <p>5</p>
+        <p>I hope I dont have to stay over here long enough to learn murch about it. Just thank the 12 of this month I will be gone six months and seems like six years</p>
+        <p>The longest time I spent was while I was in camps in the states  The time passes off pretty well over here</p>
+        <p>Have been over here most two months but dont seem so long</p>
+        <p>I guess the reason for that I have work to do over here and when we were in the states we had to drill ever day I was so tired</p>
+        <pb n="7" facs="0012_001303_000227_0007.jpg" xml:id="d4e119"/>
+        <p>6</p>
+        <p>of drilling I didnt know what to do  Well I dont know murch to write that I can tell so will quit for this time </p>
+        <p>Give my reguards to all my friends and write me real soon</p>
+        <p>As Ever</p>
+        <p>James L Dodds</p>
+        <p>Co L 23th Engrs</p>
+        <p>American Ex. Force</p>
+        <p>Via N Y,      France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

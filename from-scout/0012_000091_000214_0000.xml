@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000214_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Anna Jones</name>
+ in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.<date when="1865-05-16">1865 May 16</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000214_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 May 16</title>
+               <date>1865-05-16</date>
+               <author>
+                  <name>Jones, Anna</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract"> In this letter dated May 16, 1865, Anna Jones in Allegheny City, Pa. writes to David L. Jones in Nashville, Tenn. discusses the capture of &quot;Jeff Davis&quot; and her hopes that he will be hung while dressed in &quot;petticoats&quot; or in womens clothing. She relays information that the children are doing better, and seem to be recovering from their illnesses. </note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- United States -- Correspondence.</term>
+               <term>Army spouses -- Pennsylvania -- Allegheny City -- History -- 19th century -- Correspondence.</term>
+               <term>Family life -- Pennsylvania -- Allegheny City -- History -- 19th century -- Personal narratives.</term>
+               <term>Nashville(Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>Pennsylvania -- Social conditions -- To 1865.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000091_000214_0001.jpg" xml:id="d3e159"/>
+            <p>Alleghany City May 16th 1865</p>
+            <p>My Dear Husband</p>
+            <p>I received yours of the 10th yesterday and one for <unclear reason="illegible" resp="NW"> Jimmie</unclear> at the same time and to day we got the paper for Sharon we got several papers in all Four and <unclear reason="illegible" resp="NW">Ang </unclear> and Sharon and some others we are all alone again Mr <unclear reason="illegible" resp="NW">Aplin </unclear>started to Franklin yesterday I dont know whether he will be back or not I feel better and I commenced house cleaning to day The weather is getting warm and I want to get it done as soon as I can I am doing it my self I have not had word from James yet but I do think it is anything but laziness that he dont write Sharon has got well Anna is getting better of her sores but it is slow I have not got anything particular to write about you must write to James and direct to new <unclear reason="illegible" resp="NW"> RIchmond</unclear> Crawford County Pa Bob and Jill was up on Sabath day a few minutes I have not seen them for some time before Mrs Campble was here last night awhile </p>
+            <pb n="2" facs="0012_000091_000214_0002.jpg" xml:id="d3e183"/>
+            <p>they are all well I suppose you fellows had great rejoicing over the capture of Jeff Davis I should like to see him with petticoats one if they hang him which they ought to do they ought to dress him in womans clothes I hope the north will have the right kind of rejoicing over such victories and not again worship the creature more than the Creator as has always been done heretofore I dont hardly supose that you will get back before some time in June if as <unclear reason="illegible" resp="NW"> sorrow </unclear> as that Dear <unclear reason="illegible" resp="NW"> pass</unclear> dont be vexed at the brevity of this letter for I am tired and sleepy and I thought I must write to you and you would be uneasy about the children the <unclear reason="illegible" resp="NW"> weatha </unclear> he is changable <unclear reason="illegible" resp="NW">Davy </unclear> dont kill yourself laughin over the blunders I made last night for I fell asleep two or three times before I quit writing I was so tired dont think hard of the shortness of this letter I will do better next time but I thought you would be looking for word from home Yours Anna </p>
+         </div>
+      </body>
+   </text>
+</TEI>

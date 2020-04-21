@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002513_000201_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Watson B. Smith</name>
+				                    in Jamestown, Tenn. to Mary Narcissa Smith <date when="1863-08-28">1863 Aug. 28</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Watson B. Smith</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002513_000201_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Watson B. Smith in Jamestown, Tenn. to Mary Narcissa Smith 1863 Aug. 28</title>
+          <date when="1863-08-28">1863 Aug. 28</date>
+          <author>
+            <name type="person">Watson B. Smith</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Watson B. Smith Papers, June 1863 - Sept. 1863</note>
+          <note type="manuscript">3324</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Michigan -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States. Army. Corps, 23rd (1863-1865).</term>
+          <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002513_000201_0001.jpg" xml:id="d4e39"/>
+        <p>Hd. Qrs. 2d Div. 23d Army Corps</p>
+        <p>Jamestown, Tenn. Aug. 28th 1863</p>
+        <p>Dear Mary</p>
+        <p>I will commence a letter tonight and hold it in readiness before the next mail leaves. We have no regular mail communication as yet &amp; so send by couriers or others who happen to return to a town where the mail communications are uninterrupted.</p>
+        <p>Our Division is the only one that reached the point designated in orders at the time specified and our Genl. has read a congratulation &amp; complimentary letter from Maj. Genl. Hartsuff comdg. this Corps, for his energy &amp; promptness in this respect.</p>
+        <p>Our march here was certainly well &amp; promptly done. We had a train of some 240 wagons to get up two extremely difficult hills-many of the crayons and guns were drawn up by the troops at which time reference was frequently made to Napoleon's crossing the Alps. One day part of the Division marched 26 miles.</p>
+        <p>This P.M. I witnessed rather an amusing sight,4</p>
+        <pb n="2" facs="0012_002513_000201_0002.jpg" xml:id="d4e55"/>
+        <p>A citizen teamster refusing to obey orders the Genl. ordered that he be drummed out of camp riding on a mule with his face to the rear of the animal two soldiers marched in front with arms reversed &amp; two in rear with arms at charge, loud &amp; playing rogues march. A large crowd assembled to witness the spectacle.</p>
+        <p>A bushwhacker was brought in today—he is one of a party who killed the father &amp; two brothers of one of Col. Wolfort’s men and also helped burn the dwellings of other of his men or of their parents.—it was with difficulty that these men could be restrained from killing him on the spot &amp; are now lurking around the building where he is imprisoned for a chance to shoot him. The boy whose father was shot enquired of me today what I thought the Genl. would do with him provided he shot the bushwhacker.</p>
+        <p>These men who have had the war brought right to their homes do not believe in handling it with kid gloves.</p>
+        <p>The Genl. is "turning in," the A.A.G. is already asleep so I must finish some other time &amp; blow out the light.</p>
+        <p>The Genl. has decided to take a smoke and read a little in Headley’s Napoleon &amp; his Marshalls the Dr. has just come in</p>
+        <pb n="3" facs="0012_002513_000201_0003.jpg" xml:id="d4e67"/>
+        <p>and is pulling off his boots so I will add a few more lines We occupy the large floor room of Mrs. Lee’s house for Hd. Qrs. there are two beds in it, the Genl. occupies one and the Dr. the other—the A.A.G. and yours truly sleep on the floor, he upon a buffalo robe and I upon a bed tick filled with hay. At Columbia, Ky. I slept in a bed &amp; a feather bed at that, took cold and do not wish to repeat the experiment—necessity alone made me do it that time. This being at Hd Qrs. sleeping indoors &amp;c. will make me tender again I fear.</p>
+        <p>I must "turn in" now &amp; let the rest sleep.</p>
+        <p>Emory Iron Works, E. Tenn. Sept 1 1863</p>
+        <p>Not having had an opportunity of sending a letter as yet I will add a few lines. We reached this place last night coming by way of Montgomery—passing over a wild country. Very few homes that we passed were inhabited but may deserted &amp; going to ruin</p>
+        <p>Loudon, Tenn. Sept. 5 1863.</p>
+        <p>You see I was compelled to stop short at Emery I. Works with myt letter as we left, there sooner than expected &amp; I was very busy. We are now at Loudon on the E. Tenn. R.R. arriving here yesterday P.M.—that is, our Division. Part of the Army has gone up to Knoxville</p>
+        <pb n="4" facs="0012_002513_000201_0004.jpg" xml:id="d4e81"/>
+        <p>After two years patient waiting the Union people have the satisfaction of seeing a Northern army enter and take quiet possession of E. Tenn.</p>
+        <p>This was an important position to them &amp; has been strongly fortified. They might have held us at bay here for some time if they had stood, but Rosecrans was coming up on their flank &amp; we upon their front which compelled them to retire &amp; the people say they have moved their force of some 15000 or 20000 men to Ala.</p>
+        <p>This morning I accompanied the Genl. in a tour of observation &amp; looked upon some most beautiful scenery. The town of Loudon is situated on a sort of peninsula made by a sharp bend in the Tenn. River is rather a pleasant little town but old &amp; seedy as all Southern towns that I have seen are. The R.R. bridge at this place was a very fine one &amp; was burnt by the rebs. Just as our advance came up—it was still smoking when our Div. came up. We went to the top of a hill overlooking the village where the most important rebel works on that side of the river had been erected &amp; from that point had a most beautiful view for miles—the river lay on either hand while back lay stretched fine cultivated fields on the distance fine mountain ranges. </p>
+        <pb n="5" facs="0012_002513_000201_0005.jpg" xml:id="d4e89"/>
+        <p>It is my opinion that we will remain at this point for several days in order to allow our supply train to come up but it very mountain—sometimes we go into camp, pitch our tents &amp; make calculations for several days stop when an orderly drives up dismounts and hands the A.A.G. a dispatch when orders are soon sent to our brigade commanders to the ready to march at such at time &amp; off we go just as everything is ready for our comfort &amp; enjoyment.</p>
+        <p>We have found many strong Union men all through the section of E. Tenn. we have passed—they cannot humbug us in regard to their politics for we have Tennessee troops with us who have from dear experience the politics of most of them.</p>
+        <p>We have not been able to send back any mail since leaving Jamestown &amp; the prospects of sending or receiving are not very bright. I hope that you are not worrying about me still fear that you may be for you may not know that we have conquered without a fight. There has been no fighting save a little picket skirmishing in the front &amp; a little at the brigade here no loss on our side--&amp; but few killed on the other side.</p>
+        <p>I send you the Autographs of a few rebel officers taken</p>
+        <pb n="6" facs="0012_002513_000201_0006.jpg" xml:id="d4e99"/>
+        <p>at Buffington Island Ohio, &amp; some secesh letters found in camp here—it will trouble you to read the letters. The weather is quite warm in the middle of the day but the nights are cool &amp; comfortable.</p>
+        <p>My health is excellent and I enjoy myself right well.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

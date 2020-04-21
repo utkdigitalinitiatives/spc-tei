@@ -1,0 +1,2150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003113_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>William Walker Ward </name>Diary, 
+               <date when="1864-03-30">1864 March 30-1865 April 6</date>
+            </title>
+            <author>
+               <name type="person">Ward, William Walker</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Deane, Christine H.</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_003113_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <extent>238 pages</extent>
+               <title>William Walker Ward Diary, 1864 March-1865 April</title>
+               <date>1864 March 30-1865 April 6</date>
+               <author>
+                  <name>Ward, William Walker</name>
+               </author>
+               <note type="collection">Ward, William Walker. Diary, March 1864-April 1865.</note>
+               <note type="manuscript">MS.1270</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865 -- Diaries.</term>
+               <term>Confederate General John Hunt Morgan</term>
+               <term>Tennessee State House of Representatives</term>
+               <term>Colonel William W. Ward, Field Officer 9th Tennessee Cavalry Regiment</term>
+               <term>Smith County, Tennessee</term>
+               <term>Fort Delaware P.O.W. Camp</term>
+               <term>Pea Island, Delaware</term>
+               <term>Civil War Diaries</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d3e145">
+            <pb n="1" facs="0012_003113_000201_photograph1.jpg" xml:id="d3e146"/>
+            <pb n="2" facs="0012_003113_000201_photograph2.jpg" xml:id="d3e150"/>
+            <pb n="3" facs="0012_003113_000201_0001.jpg" xml:id="d3e154"/>
+            <p>30th March 1864. (Wednesday)</p>
+            <p>By the Kindness of Gen. Schospp, Cols. Morgan, Tucker, Colman and Myself were paroled to the Island</p>
+            <p>Yesterday was a beautiful day. To day is the most blustry rainy day I ever experienced.</p>
+            <p>We form into a Mess, Bennett, Griffin, Ellis, Harper &amp; Myself. Live pretty well.</p>
+            <p>Thursday 31st March 1864</p>
+            <p>Gen  A Scospf Ordered Coleman (Col. C) Col. R.G. Morgan &amp; Col. Rucker and Myself to his quarters &amp;
+   paroled us to the Island Gen <unclear reason="illegible" resp="PW">Wykoff</unclear> Thompson Gen Vann
+   and the Cols. of our command form a mess, and live very well.</p>
+            <p>We give a Negro woman <gap reason="indecipherable" resp="White"/> week for Cooking. 10 cts <gap reason="indecipherable" resp="White"/>
+            </p>
+            <pb n="4" facs="0012_003113_000201_0002.jpg" xml:id="d3e178"/>
+            <p>for washing <del type="overstrike">Thursday</del> Friday 1st April 64</p>
+            <p>Purchase table ware chairs etc. The prorata share of each Man in our room is $5.95/100.
+                   I paid Col. Morgan $9.20/100. An order oh the sutler. Remd. $3.30.</p>
+            <p>Friday 2nd April 1864.</p>
+            <p>Spent the day in arranging our room etc. Went down to see the prisoners. They are all pretty
+                   well contented.</p>
+            <p>Saturday 2nd April 1864.</p>
+            <p>During the days passed I have written to my wife &amp; father, to Sam, to Harrold, to Col. Fite.</p>
+            <p>Sunday 3d April, 64.</p>
+            <p>Spent the forenoon in reading and went to the barracks to hear Dr. Handy, a political prisoner from
+                   Portsmouth preach. The first</p>
+            <pb n="5" facs="0012_003113_000201_0003.jpg" xml:id="d3e201"/>
+            <p>sermond I have heard for about 12 Months. The Dr. is a good old man &amp; a good preacher.</p>
+            <p>Monday 4th April 1864</p>
+            <p>Borrowed $15.00 from Cheatham &amp; 12$ from Col. Duke today.</p>
+            <p>Tuesday 5th April 1864.</p>
+            <p>A very rainy, windy, cold and disagreeable day. Purchased a hat at $5.00 &amp; $1.00 worth stamps,
+                   40cts worth Tobacco. Wrote to Col. Fite J. G.</p>
+            <p>Wednesday 6th April 1864</p>
+            <p>A very pleasant day. Bet a bottle of Whiskey with Col. Morgan that we would not be exchanged by
+                   the 25th last, to be paid</p>
+            <pb n="6" facs="0012_003113_000201_0004.jpg" xml:id="d3e219"/>
+            <p>after our exchange. Wrote a letter to my wife at night.</p>
+            <p>Cols. Duke, Morgan, Coleman, Tucker &amp; Myself and Capts Gibson &amp; C.H. Morgan are within
+                   one room. We all get on pretty well.</p>
+            <p>Thursday April 7th 1864</p>
+            <p>Arose early. Most delightful morning. Capt. Gibson &amp; myself walked to the sutlers. He ordered a
+                   pair of fine Cavalry boots from Philadelphia. We then walked to the shore &amp; looked out on the Bay
+                   &amp; across to Del.re City.</p>
+            <p>It is about one &amp; a quarters miles to the city. We can see it much plainer this morning than we
+                   have been able to do heretofore. After breakfast we all went to the Barracks and found the officers in
+                   fine spirits</p>
+            <pb n="7" facs="0012_003113_000201_0005.jpg" xml:id="d3e233"/>
+            <p>and doing very well. Had a chat this morning with Dr. Handy. Brogden is playing chess with Col. Duke.
+                   He is quit a nice, kind and intelligent gentleman.</p>
+            <p>He carried a ring over to a political prisoner yester and had my wife&apos;s name cut on it. One Mr. Long, a
+                   political prisoner, cut the name &amp; would not charge me any thing for it. I am under obligation to
+                   Long &amp; Brogden both for their kindness and also to Col. Morgan who gave me the ring. I will send
+                   it in my next letter to my wife.</p>
+            <p>I walked a long walk this evening to our new quarters. Do not like them much. Wrote to R.
+                   <unclear reason="illegible" resp="PW">Avsrill</unclear>thanking him etc.</p>
+            <pb n="8" facs="0012_003113_000201_0006.jpg" xml:id="d3e246"/>
+            <p>Friday April 8th 1864.</p>
+            <p>Arose at 6 1/2 O,clock</p>
+            <p>Took a walk on the beach and looked at steamers &amp; sail vessels. Hermaphrodite schooners, Barks etc.</p>
+            <p>Del a ware City is just opposite the Island on the Deleware side  New Castle is just above &amp; in sight on the
+                   same side. New Jersey is on the Eastern shore from the fort.</p>
+            <p>I learned to day that this is Pea Island, it having been formed &amp; consequently the name by a Dutch Vessel
+                   having foundered here loaded with peas upon which the Island formed, peas growing every year even up to the</p>
+            <pb n="9" facs="0012_003113_000201_0007.jpg" xml:id="d3e260"/>
+            <p>last. It is said the vessel was lost during the first revolution. It is 48 miles below Philadelphia, just at the head of
+                   Deleware bay.</p>
+            <p>Gen. ASchospf, a foriger by <del type="overstrike">bith</del> birth. A Hungarian is in Command of this prison. He &apos; s a clever
+                   kind gentleman. Treats prisoners kindly and is polite to every one.</p>
+            <p>Saturday April 9th 1864.</p>
+            <p>Rather cloudy this morning but warm. Gen Schospf came into our room &amp; had a pleasant chat.</p>
+            <p>I gave our cook 90 cts which is to be placed to my credit on the mess book. Wrote to Martha &amp; Father to day.</p>
+            <pb n="10" facs="0012_003113_000201_0008.jpg" xml:id="d3e277"/>
+            <p>
+               <del type="overstrike">Saturday</del>Sunday April 10th, 64.</p>
+            <p>Dark &amp; rainy morning and a little cold. Wrote to my dear Wife &amp; sent her a ring made a presented by Col. 
+                   R.C. Morgan &amp; her name cut on it by A Mr. Long, political prisoner at this place. Spent the day rather indifferently.</p>
+            <p>Monday April 11th, 64.</p>
+            <p>Went to the barracks and spent some time with Capt Bennett &amp; Ellis. Nothing new or interesting</p>
+            <p>Tuesday 12th April, 64.</p>
+            <p>Morning reasonably fine Arose at out 6 next to the sutlers &amp; weighed 164 1/4</p>
+            <pb n="11" facs="0012_003113_000201_0009.jpg" xml:id="d3e295"/>
+            <p>Rec.d a letter from Howell G. Ruck dated the 9th Inst. He is at Point Lookout. Wrote to John
+   G. Turner cysn of Gallatin Tenn. My thanks etc</p>
+            <p>Wednesday 13th April 1864.</p>
+            <p>Morning dark, cloudy and rainy. Wrote to Howell at Point Lookout.</p>
+            <p>Rec.d a letter from <unclear reason="illegible" resp="PW">Lieaet</unclear> Rucks dated the
+   6th Wrote to my wife and sister Holly dating my letter 14th. Went to the
+   barracks with Gen. Vance &amp; Lieut Smith. Drizzled rain all day.</p>
+            <p>Thursday April 14th 1864.</p>
+            <p>Morning clear, bright &amp; pleasant  Paid Gen. Thompson five (5) dollars as Mess find</p>
+            <pb n="12" facs="0012_003113_000201_0010.jpg" xml:id="d3e315"/>
+            <p>including the 90 cents which I paid to Jane (the Cook) some days ago.</p>
+            <p>Rec.d from Mrs  Thayer of New York, a sister of Gen. Frank Cheathams, one barrel containing
+                   various articles &amp; bundles of cloths for different men and one bundle containing coat, pants,
+                   drawers, shirts, socks &amp; etc for myself. I distributed them all &amp; gave those sent to me to
+                   Jimmie Averitt to give to the boys. Gave the coat to Capt Griffin.</p>
+            <p>Friday April 15th 1864.</p>
+            <p>Morning clear, bright and very pleasant. Walked to the Sutlers, Weighed 167, pounds.</p>
+            <p>Spent the most of the fore noon in distributing the cloths sent me by Mrs Thayer.</p>
+            <pb n="13" facs="0012_003113_000201_0011.jpg" xml:id="d3e329"/>
+            <p>Became more intimate with Lieut <del type="overstrike">Wolff</del>Wolfe. Find him social &amp; full of life &amp; fun.
+                   Saw Bob, Buzz &amp; Jimmie Averett. Men in the Barracks all disspirited on the subject of exchange.</p>
+            <p>Saturday April 16th 1864.</p>
+            <p>Morning clear but hazy. Warm and very pleasant. Went to the Sutlers and weighed 164 1/2 pounds. Nothing
+                   of great interest transpired to day.</p>
+            <p>Sunday April 17th 1864.</p>
+            <p>Morning clear very pleasant. Walked with Capt. G. to the Sutlers. Heard Dr. Handy preach in the barracks on
+                   the text or rather subject of Peace. I do not remember the words nor the</p>
+            <pb n="14" facs="0012_003113_000201_0012.jpg" xml:id="d3e346"/>
+            <p>verse or chapter in the bible. Preached a good Sermon and pleased every one. Wrote to Bettie.</p>
+            <p>Monday April 18th 1864.</p>
+            <p>Morning rather chilly and windy. Weighed 164 1/2. Day pleasant, except the cool &amp; stiff breez.</p>
+            <p>Tuesday the 19th 1864.</p>
+            <p>Today nine months ago I was captured. Since that time I have passed through various &amp; varied scenes.
+                   Met many clever men and very many rascally villians. This morning is pretty cool &amp; windy.</p>
+            <p>Visited the barracks but did not remain long. Men getting on pretty well. Passed the day as usual without much change</p>
+            <pb n="15" facs="0012_003113_000201_0013.jpg" xml:id="d3e362"/>
+            <p>Wrote to W.V.R. Hallum.</p>
+            <p>Wednesday 20th April 1864.</p>
+            <p>Morning cool enough to be bracing yet very pleasant. Went to the Sutlers and weighed 169 1/2 pounds, half pound less
+                   than yesterday.</p>
+            <p>Rec.d a letter from my Father which gave me much satisfaction as it gave no particulor bad news. All well, but great scarcity
+                   of corn etc  in the land. Miss Lucie Phelps is married to a <unclear reason="illegible" resp="PW">Boy</unclear>Dr. The letter
+                   was dated the 30th March ,64</p>
+            <p>Visited the barracks and saw the officers. All well except for Capt. Griffin who is only a little unwell.</p>
+            <p>Day closed pleasantly but my rest was some what disturbed by the late hours kept by some of our parties, Capt. Brogden
+                   among the rest. Wrote to my Father</p>
+            <pb n="16" facs="0012_003113_000201_0014.jpg" xml:id="d3e381"/>
+            <p>dating the letter on the 21st the day I will put it in the office.</p>
+            <p>Thursday April 21, 64.</p>
+            <p>Morning very pleasant. Arose early considerings how late I was kept up last night. Went to work in earnest as we discharged
+                   our little boy Johnie yesterday.</p>
+            <p>I paid Col. Tucker fifty (50) cents as my part of the boys wages he having been here three weeks.</p>
+            <p>Went to the barracks. Officers all well &amp; in good spirits.</p>
+            <p>Friday April 22d, 64.</p>
+            <p>Morning pleasant, a little cool. Wrote to Capt. R.A. Bennett - Hartsville.</p>
+            <p>Saturday April 23d, 64.</p>
+            <p>Morning quite pleasant. Write to Gill &amp; Carter at</p>
+            <pb n="17" facs="0012_003113_000201_0015.jpg" xml:id="d3e403"/>
+            <p>Camp Douglass, one page note paper.</p>
+            <p>Considerable stir with our crowd preparing to have pictures taken, order 1/2 doz. John L. Gibson,
+                   Photographic Art Galleries, 1024 Chesnut Street Philadelphia  Pa. is the Artist. Paid $2 1/2 to the Artist.</p>
+            <p>Borrowed 50 cts of Col. Coleman. Weighed 171 pounds  Rec.d a letter from J.<unclear reason="illegible" resp="PW">A. Cnossury
+                   </unclear>&amp; answered it. Our cook Jane left us to day being ordered out of the fort.</p>
+            <p>We cook the little that is needed ourselves for the present.</p>
+            <pb n="18" facs="0012_003113_000201_0016.jpg" xml:id="d3e418"/>
+            <p>Sunday April 24th 1864.</p>
+            <p>Morning very pleasant, in fact warm, but windy. Took a walk but saw nothing. After breakfast went to the barracks.
+                   Officers still having their pictures taken.</p>
+            <p>Lieut  Wolf gave me a letter from Thomas Fuller. I sent for him. Had a long talk. He had not heard from home in over twelve months.
+                   Seemed to be glad to meet Me. Said he was picked up eight months ago in North Mississippi while on ditached duty watching the
+                   movements of the enemy.</p>
+            <p>Told me of A Bones being at Nashville &amp; Ge.w Dillard being at Gallatin.</p>
+            <pb n="19" facs="0012_003113_000201_0017.jpg" xml:id="d3e430"/>
+            <p>Day closed pleasantly, Dr. Handy preached but I did not hear him.</p>
+            <p>Monday April 25th 1864.</p>
+            <p>Morning dark, rainy and disagreeable. Rained all day or nearly so. Stayed in Fort all day. Rec.d a letter from Lieut  H.L. Rucks.
+                   Nothing fresh but all things gloomy.</p>
+            <p>Mailed a long letter to my dear wife which was written yesterday in answer to hers of the 14th  Just which by chance rec.d
+                   yesterday &amp; answered but not mailed, same day.</p>
+            <p>My wife is rather gloomy yet perhaps not more so than at some farmers<unclear reason="illegible" resp="PW">times</unclear>
+                   &amp; God know not more so than she has cause to be.</p>
+            <pb n="20" facs="0012_003113_000201_0018.jpg" xml:id="d3e447"/>
+            <p>Tuesday April 26th  1864.</p>
+            <p>Morning warm and rainy a little. Clears off about 9 Oc. A.M. &amp; remains very pleasant all day. Visit the Barracks Find the officers
+                   all in good health and spirits. Answer Howells letter.</p>
+            <p>Officers in my room get into an excited debate as to the waning of infilating fire. Authorities decide that it is a firing from a point
+                   which a prolangation of the enemy&apos;s lines would reach.</p>
+            <p>Decided by Walkers Military &amp; Noval pocket dictionary.</p>
+            <p>I have a spell of headache this evenings Pretty bad. Most elegant news in</p>
+            <pb n="21" facs="0012_003113_000201_0019.jpg" xml:id="d3e461"/>
+            <p>the papers to day. <unclear reason="illegible" resp="PW">Mchtions</unclear>a victory for us on Cane river.
+                   So, which has been Claimed by the Feds. A victory with the taking Plimoth in N.C. with 2500 prisoners etc Very Cheering.</p>
+            <p>Wednesday April 27th, 64</p>
+            <p>Morning clear and pleasant. My head has gotten easy and I feel pretty well. Rec.d one letter from my wife dated the 15th,
+                   and one from my father dated the 19th April 1864. Both very satisfactory and gave me great pleasure in reading them.</p>
+            <p>I answered both of said letters, wrote also to Holly M. Johnson &amp; to Maj. Thos. Barry to day.</p>
+            <p>Went to the Barracks, Found all well there</p>
+            <pb n="22" facs="0012_003113_000201_0020.jpg" xml:id="d3e478"/>
+            <p>and in good spirits.</p>
+            <p>Had news in the papers confirmatory of that we have heretofore had in referance to the Red River, or Pleasant Hill or Cane river
+                   affair. Seeming to establish the fact that our forces gained quite a victory there. Captured Many, perhaps 6000, prisoners and
+                   Killed &amp; wounded many more. Also establishing the fact of Plymouth being in our hands with a capture of 1600 prisoner,
+                   25 pieces Artilery many stores etc.</p>
+            <p>Gen  Wessel was in Command of our forces. News generally satisfactory  Gold 81 1/2.</p>
+            <pb n="23" facs="0012_003113_000201_0021.jpg" xml:id="d3e489"/>
+            <p>Thursday April 28th 1864.</p>
+            <p>Morning clear &amp; very cool for the season and windy.</p>
+            <p>Mailed four letters, To my wife, my father, my sister Holly, and Maj. Thomas Barry.</p>
+            <p>Received one letter from Father dated 2nd April, 64 telling me of the electon in Smith.
+                   Wrote to Mrs  Thayer, 37th West 9th St. New York. and to my Father. Day closed pleasantly Did not visit the barracks.</p>
+            <p>Friday April 29th 1864,</p>
+            <p>Morning pleasant and bright not quite so cool. I am P.M. to day. Saw two most handsome ladies in the fort who desired
+                   to show themselves as sympathisers with us. One pretty little curly</p>
+            <pb n="24" facs="0012_003113_000201_0022.jpg" xml:id="d3e505"/>
+            <p>haired one nodded and laughed &amp; spoke &amp; did many cute things to draw attention. I would like to know her
+                   name, but do not.</p>
+            <p>Saturday 30th April 64.</p>
+            <p>Morning pleasant, Called at Lieut  Wolfs office and Saw David Scales &amp; Charley Mc Clain. Had a long and interesting
+                   talk with them. Heard much about Carthage, etc. etc..  Not good news of Harrels &amp; McKee families.</p>
+            <p>That Miss <unclear reason="illegible" resp="PW">P</unclear>was actually engaged to N.W.G. all the while she was
+                   denying it so bitterly. Rec.d one letter from Ranse Hallium and one from my wife dated each 23d. inst.</p>
+            <p>Also a check on New</p>
+            <pb n="25" facs="0012_003113_000201_0023.jpg" xml:id="d3e522"/>
+            <p>York for 42___forty___ dollars whereby I am swindled out of two dollars. Day closed as usual.</p>
+            <p>Sunday May 1st 1864.</p>
+            <p>Morning pleasant. Went to hear Dr. Handy preach at the barracks. Wrote to my wife, to Ranse Hallium &amp; to
+                   Bettie Bridgewaters. Care of R. Averett, Hartsville.</p>
+            <p>Day closed pleasantly.</p>
+            <p>Monday May 2nd 1864.</p>
+            <p>Morning pleasant. Gen  Thompson mustered all of our mess except Tucker &amp; Gibson and we made a chain
+                   for Mrs  Schospf.</p>
+            <p>Wind rose in the evening very high. Rec. one letter from my sister Holly &amp; one from my Father  Answered
+                   both of them. They contained news of L.B. Moores</p>
+            <pb n="26" facs="0012_003113_000201_0024.jpg" xml:id="d3e540"/>
+            <p>death which occured on the 22nd April 1864. Rained at night.</p>
+            <p>Tuesday May 3rd 1864.</p>
+            <p>Morning bright &amp; clear though some cool wind blowing. Visited Barracks &amp; saw Jack Bradly &amp;
+                   <unclear reason="illegible" resp="PW">Forrest</unclear>Timberlake. Mailed letters to father Holly.</p>
+            <p>Wednesday May 4th 1864</p>
+            <p>Morning bright &amp; clear. Recd. 39 50/100 for my check. Loaned Jos Harper $5.00  Spent 1$. for stamps
+                   50cts. for oils &amp; tooth picks.</p>
+            <p>Wrote to J.B. Moores and mailed it. Day closed as usual.</p>
+            <p>Thursday May 5th 1864</p>
+            <p>Morning bright and clear  Went to the barracks.</p>
+            <pb n="27" facs="0012_003113_000201_0025.jpg" xml:id="d3e563"/>
+            <p>H. Brogden left us <del type="overstrike">This</del>Yesterday Morning on special exchange. He is quite a clever, ageeable
+                   fellow and full of life.</p>
+            <p>Spring seems to have opened in earnest. Warm &amp; pleasant</p>
+            <p>We change quarters to day and I had a desperate headache but I recovered early in the Night. Like our New
+                   quarters pretty well. Rec.d one letter from Van Sellers; one from Howell Rucks.</p>
+            <p>Friday May 6th 1864.</p>
+            <p>Morning pleasant. I had quite a pleasant night after my head become easy. Pretty well pleased with our quarters.</p>
+            <p>Wrote to Van Sellers Rec.d a letter from Col. Fite</p>
+            <pb n="28" facs="0012_003113_000201_0026.jpg" xml:id="d3e582"/>
+            <p>Also one from J.G. Bransford containing forty dollars which was paid me in sutlers tickets. Write to Mrs. Ellis &amp;
+                   send Gen  M. Jeff Thompsons Photograph &amp; Autograph.</p>
+            <p>Saturday the 7th May, 64</p>
+            <p>Morning bright &amp; clear and warm. Went to the barracks loaned Capt. Kit Bennett five (5) dollars. Paid Gen
+                   Thompson five (5) dollars for the benefit of our mess. That makes ten (10) dollars I have paid, in all.</p>
+            <p>I have receid seventy nine (79) dollars from <unclear reason="illegible" resp="PW">home</unclear>owe E.F.Cheatham fifteen
+   (15) dollars.</p>
+            <pb n="29" facs="0012_003113_000201_0027.jpg" xml:id="d3e597"/>
+            <p>and Col. Duke twelve (12) minus two &amp; a half (2 1/2) dollars. The 2 1/2 he gave me to boot in a hat swap. (All paid)</p>
+            <p>Gold 75 to day.</p>
+            <p>Sunday May 8th 1864.</p>
+            <p>Morning very bright and remarkably pleasant. Went to church or preaching. Rumors of a fight in Virginia. Lee reported falling
+                   back 2 1/2 miles. Burnsides with 30,000 men reinforced Grant. Loss immence on both sides. I do not believe this report much
+                   less do I believe those with even less foundation that I hear in the evening later.</p>
+            <p>Wrote to my dear wife &amp; Howell and</p>
+            <pb n="30" facs="0012_003113_000201_0028.jpg" xml:id="d3e611"/>
+            <p>Bransford to day.</p>
+            <p>Another rumor that we are to be removed to the barracks. Dont believe that. Our crowd is increased by a Capt  Gordon
+                   from Maryland and two young Wooleys from Ky who have been sent here.</p>
+            <p>Monday May 9th 1864</p>
+            <p>Morning bright &amp; clear and warm. Passed the day in great anxiety, wanting to hear news but get none satisfactory.</p>
+            <p>Capt  Gibsons wife visits the the Island, He is now out with her at the tavern. Rec.d a letter from my father dated the 30th
+                   <unclear reason="illegible" resp="PW">?ith</unclear>and answer it. Rained a</p>
+            <pb n="31" facs="0012_003113_000201_0029.jpg" xml:id="d3e628"/>
+            <p>refreshing shower this evening but remains very warm.</p>
+            <p>Tuesday May 10th 1864.</p>
+            <p>Warm &amp; clear though a little <unclear reason="illegible" resp="PW">spoky.</unclear>Rec.d 3 photographs from the Artist.</p>
+            <p>Rec.d orders not to visit the barracks any more or to go west of the <unclear reason="illegible" resp="PW">slugh</unclear>
+                   running across the Island. Several of the prisoners boozy to day hence the order I think.</p>
+            <p>Wrote to Rev. S.G. Caruthers at Elkton. Coleman Dick Morgan, Duke, Ellis  Brogdon  Oaks have presented their pictures to me.
+                   I have given one of mine to Col. Duke, one to Col. Morgan &amp; one to Col. Tucker.</p>
+            <pb n="32" facs="0012_003113_000201_0030.jpg" xml:id="d3e648"/>
+            <p>Wednesday May 11th 1864.</p>
+            <p>This morning I start to my dear wife my own Capt  Ellis &amp; Col. Colemans pictures and write to her.</p>
+            <p>The day is pleasant. No news of importance. What we do receive is very much against us, though not as much so as
+                   I expected. Hence I conclude our condition is tolerably favorable. It was announced on dress parade yesterday evening
+                   that Fort Dorling had fallen, been taken by Butler. I even doubt that from to days papers.</p>
+            <p>Dr. H. reports from the Barracks a bad state of affairs. All doubtless originating from the</p>
+            <pb n="33" facs="0012_003113_000201_0031.jpg" xml:id="d3e660"/>
+            <p>drunkeness of a few men. How little judgement or control over themselves some men have!</p>
+            <p>
+               <unclear reason="illegible" resp="PW">Srant</unclear>of self government is a great aspect in Col. <gap reason="indecipherable" resp="White"/>
+                   Character.</p>
+            <p>Thursday May 12th 1864.</p>
+            <p>Morning dark gloomy and desperately uninviting. I spent a bad night owing to a discussion before bed time in my room. I come nearer
+                   having the blues this morning than at any time since my imprisonment.</p>
+            <p>But I will not be dejected, my soul shall not be cast down nor troubled within me. I have a dear loving wife to live for and for</p>
+            <pb n="34" facs="0012_003113_000201_0032.jpg" xml:id="d3e679"/>
+            <p>for her I will live and for her sake I&apos;ll be cheerful &amp; grow fat and lively preparatory to my meeting her. God bless her!</p>
+            <p>Purchased a coarse <unclear reason="illegible" resp="PW">horn cobrb</unclear>at 30 cts and a small pocket knife at $1.25/100.</p>
+            <p>I paid Col. Duke yesterday $9.50/100 all I owed him, having borrowed $12.00, and paid him $2.50/100 previously in a hat swap.</p>
+            <p>News not so unfavorable as I expected. Report that Grant is intrenching, I do not believe it.</p>
+            <p>Day closed rather darkly. Dr. Lee arrived her  from Camp Douglass.</p>
+            <pb n="35" facs="0012_003113_000201_0033.jpg" xml:id="d3e696"/>
+            <p>Friday 13th May 1864.</p>
+            <p>Morning warm &amp; cloudy. Rec.d one letter from Uncle S. Ward dated the 4th of May 1864 and one from Capt. John W. Rolisson
+                   dated the 8th May. Nothing very in couraging in the papers to day.</p>
+            <p>We see however from the number of Gen  officers killed that the fighting must have been desperate and that it required the Gens. to
+                   take a prominent &amp; dangerous position.</p>
+            <p>Up to the present we have information of the killed. Maj. Gen. Sedgwick, Brigd. Gs  Wordsworth, Rice, Hayse &amp; Owen.five, wounded</p>
+            <pb n="36" facs="0012_003113_000201_0034.jpg" xml:id="d3e708"/>
+            <p>Brigd. Gens. Webb, Bartlett, Noble, Ward, Robinson (5), five.</p>
+            <p>Captured, Brigd. Gen. Saymore, Shorter, &amp; Sorbett, (3) three. In all (13) Thirteen.</p>
+            <p>Day closed rainy and gloomy. Startling reports reached here. one that Lee had surrendered. That is doubtless like the news which
+                   was read on dress parate the other evening of the fall of Fort Darling  a lie.</p>
+            <p>Wrote to Sam to day.</p>
+            <p>Saturday May 14th 1864.</p>
+            <p>Morning very gloomy and rainy. Got a group of our mess this morning</p>
+            <pb n="37" facs="0012_003113_000201_0035.jpg" xml:id="d3e724"/>
+            <p>Gave one of my Photographs each to Col. Morgan, Capt. Gibson, &amp; Lieut  Andrews. Andrews has not given me one of his.</p>
+            <p>Wrote to Uncle Sterling and to Capt  J.W.R. Sisson this morning.</p>
+            <p>To days paper reports Brig  Gen  Stevenson Killed, Brig  Gen  Birney wounded, Brigd. Gen. Crawford Captured.</p>
+            <p>Day closed with out any Serious report. I am growing more discontented every day. I le rally from it though. It is unmanly to
+                   retrograde in any thing unless you do so as a matter of policy. I &apos; le be a man at all hazzard  If I cant conquer dis con</p>
+            <pb n="38" facs="0012_003113_000201_0036.jpg" xml:id="d3e736"/>
+            <p>tent I can cast it away from me. Ile do the former if possible.</p>
+            <p>Sunday May 15th 1864,</p>
+            <p>Morning heavy peals of rolling thunder seemed to be playing the reveille of the world. It is raining a little this morning and a heavy rain
+                   seemes to have fallen last night. Day pretty pleasant without rain.</p>
+            <p>Bad news all day. Lee &amp; A.P.Hill are wounded &amp; J.E.B. Stuart and Longstreet are dead. Lee &apos; s retreat converted into a route
+                   and Grant picking up prisoners by the thousands</p>
+            <pb n="39" facs="0012_003113_000201_0037.jpg" xml:id="d3e748"/>
+            <p>after having taken Gen. Ed. Johnson &amp; his whole division and a large portion of Early &apos; s division or brigade. All this and much
+                   more in dispatches to Gen. Dix N.Y. over Secty  Stauntons own name. I do not bleive the half of it.</p>
+            <p>Also Daulton taken with over 5000 prisoners &amp; forty pieces of artilary. Wrote to my wife.</p>
+            <p>Monday May 16th 1864.</p>
+            <p>Morning dark and rainy. I close a letter written to my wife yesterday and mail it, sending a ring made and presented by Col.
+                   <unclear reason="illegible" resp="PW">6esent</unclear>Coleman. And also Col. Morgan &apos; s &amp; Capt  Gibsons Photographs.</p>
+            <p>I have now sent Cols  Duke  Coleman  Morgan  Gibsons &amp; &amp; Ellis.  My own to my wife.</p>
+            <pb n="40" facs="0012_003113_000201_0038.jpg" xml:id="d3e765"/>
+            <p>News not so startling to day. Rec.d a letter from my father &amp; one from Will Johnson. Answered Will to night.</p>
+            <p>Tuesday May 17th 64</p>
+            <p>Morning cloudy &amp; warm. Wrote to my father to day. Not a very satisfactory letter. Will do better next time. Sent him my
+                   Photograph in this letter. If I get some better in future I&apos;le send another to my dear wife &amp; one to him.</p>
+            <p>Maj. Gen. Edmond Johnson &amp; Brig. Gen. G.L. Stuart arived to day and some three hundred other officers.</p>
+            <pb n="41" facs="0012_003113_000201_0039.jpg" xml:id="d3e777"/>
+            <p>Johnson &amp; Stuart are on parole. I loaned Col. Tucker five (5) dollars spent 50 cts for paper.</p>
+            <p>Commence a letter to Tom. Day closed as usual.</p>
+            <p>Wednesday May 18th 1864.</p>
+            <p>Morning warm &amp; cloudy. Finished a letter to Same of two pages. Mail it to day.</p>
+            <p>Rained all day nearly. Day gloomy in deed.</p>
+            <p>Rec.d a letter from Howell.</p>
+            <p>Thursday May 19th 1864.</p>
+            <p>Morning warm &amp; cloudy  Wrote to my wife &amp; Howell.</p>
+            <p>Mrs. Thayer Miss Beckie Cash &amp; other ladies came on the Island  Stay all night. Have great desire to call</p>
+            <pb n="42" facs="0012_003113_000201_0040.jpg" xml:id="d3e799"/>
+            <p>on them but am not permitted by the Authorities. Mrs. Thayer wants my Photograph which I will send her when I receive it.</p>
+            <p>Capt. Cheatham stayed with us all night, having called on Mrs. T. he being her cousin &amp; her pass to visit the Fort
+                   mentioning his name. Paid 50 cts. for beer.</p>
+            <p>Friday 20th May 1864</p>
+            <p>Morning warm &amp; clear. Could not learn any thing of the condition of affairs away from here. Got no letter.</p>
+            <p>Disappointed as I was expecting several. News very encouraging.</p>
+            <pb n="43" facs="0012_003113_000201_0041.jpg" xml:id="d3e813"/>
+            <p>Grant having fallen back to the north side of the Ni River &amp; Lee advanced to it. Lees lines being farther north than at any
+                   previous time during his present fight. Butler whipped &amp; falling back. Claim his effort as nothing but a reconosance
+                   intended for a diversion also.</p>
+            <p>Saturday May 21st 1864.</p>
+            <p>No letter. A little annoyed as I certainly ought to have one. News still very good. Lee&apos;s address to his army, Very encouraging.</p>
+            <p>Our Paroles were taken away from us to day by order, as Gen Shocpf says of the War department at Washington</p>
+            <pb n="44" facs="0012_003113_000201_0042.jpg" xml:id="d3e825"/>
+            <p>We are not permitted to go out of the house except with a guard. In other respects our privilages are the same. I am not at
+                   all sorry that mine was taken away.</p>
+            <p>Day very pleasant. Mr. Somebody &apos; s School of young ladies was down at the Fort to day. Some with schoolgirl vanity and
+                   want of experience acting rather imprudently.</p>
+            <p>That highly adorning quality of a lady, Modesty is much more sparingly dispensed among the Northern than Southern Ladies.</p>
+            <p>The most Yankee women I have seen are &quot; tomboys &quot;. Would not like to have one for a wife.</p>
+            <pb n="45" facs="0012_003113_000201_0043.jpg" xml:id="d3e838"/>
+            <p>Sunday May 22nd 1864.</p>
+            <p>Morning very warm and cloudy.</p>
+            <p>Wrote to my dear wife to day and to Col. Fite. To Fite a short page note paper. Nothing in it.</p>
+            <p>Day was a long &amp; lonesome one  Walked out on the beach with a Corporal, in the evening.</p>
+            <p>Monday May 23d 1864.</p>
+            <p>Morning clear &amp; cool.</p>
+            <p>Col. Morgan owes me 2.50/100 $. borrowed on the 20th Inst. Wooley 50cts. borrowed to day. Rec.d three letters to day, R. Averett
+   Capt. Blackman &amp; Col. Fites. No news.</p>
+            <p>Day closed pleasantly. Men take a bath in the river.</p>
+            <pb n="46" facs="0012_003113_000201_0044.jpg" xml:id="d3e858"/>
+            <p>Tuesday May 24th ,64.</p>
+            <p>Morning warm &amp; rather cloudy.</p>
+            <p>Wrote to Capt  Blackman, Col  Fite and Mr. R. Averett. Rec.d a letter from my wife and one from Sister Holly. Wrote to my sister.
+   News from Va not bad.</p>
+            <p>Wednesday May 25th 1864.</p>
+            <p>Morning bright &amp; clear. Rained last night.</p>
+            <p>Wrote to my wife this morning and will send the letter, also out to sister H to day. News favorable Gold 86 1/4.</p>
+            <p>Willie Key was ordered away from us to ride Welsh &apos; s horses. I would object if I did not know that Baily P. Likes it.</p>
+            <p>Rec.d no letter to day. Bought stamps &amp; Enve. $1.00</p>
+            <pb n="47" facs="0012_003113_000201_0045.jpg" xml:id="d3e878"/>
+            <p>Thursday May 26th 1864</p>
+            <p>Morning dark and rainy. Rained near all night. Wrote to Howell this morning. Mail it to day. Rained all day. Stayed in the house
+   playing chess &amp; reading Vassars 20 years around the world.</p>
+            <p>Friday May 27th 1864.</p>
+            <p>Rained all night &amp; still at it. Gloomy &amp; dark.
+                   Wrote one letter to Martha, M.B. &amp; one to Sam. Day closed as usual.</p>
+            <p>Saturday May 28th 1864.</p>
+            <p>Morning very clear and bright &amp; pleasant. Capt. Gibson&apos;s wife left for home &amp; he came up to his room again.</p>
+            <p>Rec.d an order not to write more</p>
+            <pb n="48" facs="0012_003113_000201_0046.jpg" xml:id="d3e896"/>
+            <p>than one page of note paper in a letter.</p>
+            <p>Wrote to Frank Timberlake at Johnsons Island.</p>
+            <p>A lot of Citizen prisoners about 50, from Fredericks burg Va. arrived here to day. Take to three meals to day.</p>
+            <p>Rec.d one letter from my wife one from Lou Moores.</p>
+            <p>Sunday 29th May 1864.</p>
+            <p>Morning bright &amp; clear. Write to my wife &amp; Mrs  Moores one page each.</p>
+            <p>Day rather long. Past it principally in reading. Duke makes a revelation of facts which I have for several days suspicioned.</p>
+            <p>Fine evening.</p>
+            <pb n="49" facs="0012_003113_000201_0047.jpg" xml:id="d3e916"/>
+            <p>Monday May 30th 1864</p>
+            <p>Morning clear, cool and pleasant. Write to Howell this morning. Mail letters to my wife Lou Moores &amp; Howell all to day.
+                   See when <del type="overstrike">2</del> I get answers.</p>
+            <p>Rec.d one letter from Capt  N.W. M cConnell, one from Capt  A.E. Bell, one from H.L. Rucks. Also a note from Ellis &amp;
+                   Bennett informing of Mrs. Goodall sending in their box a ham etc. to me. I must Mrs G. a letter in thanks.</p>
+            <p>Tuesday the 31st May 1864.</p>
+            <p>Morning bright &amp; clear, and warm. Wrote to Ellis &amp; Bennett &amp; to Capt Bell.</p>
+            <p>Gold yesterday, 88 3/4. News good. Grant gone to White house!</p>
+            <p>Walked out to the Suttlers &amp; purchased 1 gum paper 50c 1 pack envelopes, 25: Stamps 15cts ink 10cts.</p>
+            <pb n="50" facs="0012_003113_000201_0048.jpg" xml:id="d3e937"/>
+            <p>Col. Morgan paid me 2 50/100 money borrowed. No news except Gold being ,92. (Closed) having been up to 94 3/4.</p>
+            <p>Wednesday June 1st 1864.</p>
+            <p>Morning bright clear &amp; comfortable. Wrote to Lieut. Rucks &amp; Capt N.W. M cConnell.</p>
+            <p>Rec.d a letter from Miss Bettie Bridgewaters dated 21st <unclear reason="illegible" resp="PW">Wt</unclear>. In expectation
+                   that Col. Hoffman Com.d of <unclear reason="illegible" resp="your PW">Prsa</unclear>would beet up but he went off 
+                   without visiting us.</p>
+            <p>Day closed as usual.</p>
+            <p>Thursday June 2nd 1864</p>
+            <p>Morning warm &amp; rainey. Wrote to my dear wife and to Cousin Bettie B. Poor letters both of them.</p>
+            <pb n="51" facs="0012_003113_000201_0049.jpg" xml:id="d3e961"/>
+            <p>Slept last night on the upper bunk. Well pleased with the change. Hoffman returned to the Island this morning but did not visit our
+                   quarters. He tells Gen. Johnson that there is no chance for exchange now. Rcd. 1/2 doz. Photographs.</p>
+            <p>Friday June 3d. 1864.</p>
+            <p>Morning bright &amp; clear, warm &amp; pleasant.</p>
+            <p>Write to Mrs Medora Thayer  Hoosic Falls, N.Y. and send my Photograph to her. Give one to Capt. Gibson and one to Col. Coleman
+                   &amp; Capt Mitchell.</p>
+            <p>Capt Morgan makes a great blow to night about a &quot; fuss &quot; he and the &quot; Shark &quot; from S.C., resident of Md.
+                   however were about to get into. Gen. Johnson comes in &amp; explains it.</p>
+            <p>This is the 4th instead of the 3d. Day closed pleasantly.</p>
+            <pb n="52" facs="0012_003113_000201_0050.jpg" xml:id="d3e977"/>
+            <p>Saturday 4th June 1864</p>
+            <p>Morning bright &amp; pleasant. Wrote to Bettie Johnson. The occurance reported as of yesterday took place to day between
+                   Capt Morgan &amp; the S.C. or Md. <unclear reason="illegible" resp="PW">shoel</unclear>. It was a &quot; blow &quot; after
+                   the explanation of Gen Johnson.</p>
+            <p>Sunday June 5th 1864,</p>
+            <p>Morning rainy &amp; gloomy. Went to the barracks, saw all my friends, including Capt. Foster &amp; Lieut Boddy. Learned that
+                   Capt. Allen had gone through on parole to be exchanged, and that W.S. Condett is here a prisoner.</p>
+            <p>Spent a pleasant day. Wrote to my wife and to Bill Condett.</p>
+            <pb n="53" facs="0012_003113_000201_0051.jpg" xml:id="d3e994"/>
+            <p>Tuesday 7th June 1864.</p>
+            <p>Morning quite chilly and a little cloudy. Wrote to Father, Capt. R.A. Bennett &amp; Col. Fite.</p>
+            <p>Company G &quot; is washing out our quarters to day. </p>
+            <p>Walked out in the evening. Some boatmen running their skiff near Lieut Tomblinson in the river struck him with an oar. I do not
+                   think they sought a chance to strike him, but am confident they could have avoided it if they had tried.</p>
+            <p>Weighed 169. Gold 93 3/4 - 94 3/4. Closed at the former price.</p>
+            <p>Wednesday 8th June ,64.</p>
+            <p>Morning chilly but pleasant. Write to Mrs M. Thayer at Hoosack falls, N.Y.</p>
+            <pb n="54" facs="0012_003113_000201_0052.jpg" xml:id="d3e1012"/>
+            <p>Also to Mrs Ellis sending to her my Photograph.</p>
+            <p>Commence a chain for Mrs. Thayer  saw up two needles 160 links &amp; <unclear reason="illegible" resp="PW">driss</unclear>&amp;
+                   put together 26. The chaine making is not so hard after all. I &apos; me going to make several.</p>
+            <p>Rec.d one letter from Rance dated 2n May 1864. One from Bettie dated the 1st May also one dated the 30th of the same month. Both
+                   cheering letters. She has rec.d my Photograph Cols  D &apos; s C &apos; s &amp; Capt E s.</p>
+            <p>Thursday June 9th 1864.</p>
+            <p>Morning rainy &amp; cloudy, though warm. Wrote to my wife &amp; Rance both this morning. Letters very satisfactory to me.</p>
+            <p>Work on my chain in forenoon Put up 30 links.</p>
+            <pb n="55" facs="0012_003113_000201_0053.jpg" xml:id="d3e1031"/>
+            <p>Work some in the afternoon. Find it is better to do this sort of work than to do nothing. Day closed pleasantly.</p>
+            <p>Friday June 10th 1864</p>
+            <p>Morning very bright and clear. Write to Howell this morning and to Sam. Work on chain Put in 30 links. Rec.d a letter from Howell.</p>
+            <p>Saturday June 11th 1864.</p>
+            <p>Morning cool &amp; cloudy. Wrote to Howell. Work on chain all day. Get on pretty well. Nothing new.</p>
+            <p>Gold to day &amp; yesterday is 98 1/3.</p>
+            <pb n="56" facs="0012_003113_000201_0054.jpg" xml:id="d3e1048"/>
+            <p>Sunday June 12th 1864</p>
+            <p>Morning &amp; day bright and clear. Write to my wife and send her Gen. Thompsons Photograph in Military dress.</p>
+            <p>Day dragged off heavily.</p>
+            <p>Monday June 13th 1864.</p>
+            <p>Morning cool &amp; bright. Write to my Father &amp; also a note to Capt Bennett. Spent the day working on my chain; finish it
+                   except the cross etc.</p>
+            <p>Capt. Gibson went to New Castle on business. Rec.d one letter from Capt, Bll, one from Col. Fite.</p>
+            <p>Tuesday June 14th 1864.</p>
+            <p>Morning coudy but pleasant. Write to Fite a pretty good letter in referance to his difficulties with his &quot; Child &quot; .
+                   Also write to Capt Bell.</p>
+            <pb n="57" facs="0012_003113_000201_0055.jpg" xml:id="d3e1068"/>
+            <p>Taken sick about dark not seriously so.</p>
+            <p>Wednesday 15th June ,64</p>
+            <p>Very unwell with some fever &amp; dreadful headache. Remained sick all day.</p>
+            <p>Thursday June 16th 1864</p>
+            <p>Very sick. The Dr. Calls to see me. Left a prescription which was filled in the evening. I took the Rhubarb &amp; Magnshia &amp;
+   am to take the quinine pills to morrow &amp; continue them on until I am well or better.</p>
+            <p>Rec. a letter from my Father.</p>
+            <pb/>
+            <pb n="59" facs="0012_003113_000201_0057.jpg" xml:id="d3e1090"/>
+            <p>Wednesday 15th June 1864.</p>
+            <p>Morning pleasant.</p>
+            <p>Had the headache all night &amp; all this day. Did not get out of bed long at a time.</p>
+            <p>Thursday June 16th 1864.</p>
+            <p>Morning dark &amp; warm. Am some better though not well yet. Write a note to Capt. Bennett this morning in answer
+   to our note from him yesterday. Get worse in the evening.</p>
+            <p>Friday June 17th 1864.</p>
+            <p>Very Sick. Dr. Calls &amp; leaves a prescription which is filled in the evening. Am very sick all day with severe
+   headache &amp; fever. Rec.d a good letter from my good </p>
+            <pb n="60" facs="0012_003113_000201_0058.jpg" xml:id="d3e1108"/>
+            <p>father. Helps me some.</p>
+            <p>Saturday June 18th 1864.</p>
+            <p>Still very sick. My medicine asperates finely. Hope to be up soon. I am Taking Rhubarb &amp; Magneshia &amp; Quinine
+   pills. Receive My Photographs. 9, in November.</p>
+            <p>Twelve months ago to day I bid my dear, darling Bettie good by. How long the year has been. Heaven permitting I will
+   never spend another away from her. I had rather live retired from the world and Know to all save a few honest neighbors
+   &amp; My Kinspeople &amp; be with her all the while than live away from her &amp; write my name high upon the scroll of fame.</p>
+            <pb n="61" facs="0012_003113_000201_0059.jpg" xml:id="d3e1120"/>
+            <p>I am better this evening.</p>
+            <p>Sunday June 19th 1864.</p>
+            <p>Morning bright or neither foggy &amp; pleasant.</p>
+            <p>I am much better. Get up in the evening and sit up several hours  Eat a little toste &amp; coffee for breakfast. The first
+   of any thing to eat since Thursday morning.</p>
+            <p>Attempt to write to my dear wife but can not as I am too nervous  Sit up until night. Go down to Supper. Continue to improve.</p>
+            <p>Monday June 20th 1864.</p>
+            <p>Morning very fine. Feel pretty well. Write to my wife dating the letter yesterday the</p>
+            <pb n="62" facs="0012_003113_000201_0060.jpg" xml:id="d3e1138"/>
+            <p>day it ought have been written. Write also to my father.</p>
+            <p>Cols. Carter, Furgesson, Peoples, Jackques &amp; <gap reason="indecipherable" resp="White"/>are brought from the barracks to our quarters:
+   (This entry should have been made yesterday).</p>
+            <p>Went out in the evening got a little sick in the sun.</p>
+            <p>Rec.d one letter from Capt. R. A. Bennett, one from Lieut  Mitchell &amp; one from Capt. Blackman.</p>
+            <p>Tuesday June 21st 1864</p>
+            <p>Up early morning pleasant &amp; bright. Write to Mrs. Medora Thayer, Hoosic Falls N.Y. to Capt. R.A. Bennett &amp; to Sam. Rec.
+   one letter from ny Sister Holly, one from Lieut. Crosway, Sellers, Rucks.</p>
+            <p>Nothing bad or very good to day.</p>
+            <pb n="63" facs="0012_003113_000201_0061.jpg" xml:id="d3e1158"/>
+            <p>Wednesday June 22nd 1864.</p>
+            <p>Morning bright &amp; pleasant. Write to Sister Holly, send her my Photograph. Write to Capt. Blackman &amp; Lieut.
+   Mitchell.</p>
+            <p>Rec.d one letter from John &amp; his wife and two from my wife. Nothing new of great importance. Gold 205_6 Sellers
+   asking 208_10.</p>
+            <p>Thursday June 23d 1864</p>
+            <p>Morning pleasant, warm.</p>
+            <p>Write to my dear Wife, to Penelope &amp; John &amp; to Howell this morning. Rec.d an order to be in readiness to go
+   to Hilton Head S.C. Five General &amp; 45 field officers have to go. Gen. Gardner arrived here on his way.</p>
+            <p>Day closed very warm and to increase the temperature I had a shell of headache.</p>
+            <pb n="64" facs="0012_003113_000201_0062.jpg" xml:id="d3e1176"/>
+            <p>Friday June 24th 1864</p>
+            <p>Morning very warm.</p>
+            <p>Write to my dear wife my last letter &amp; also one to my father  Sending them each a large Photograph of &quot; our
+   Mess &quot;. &amp; sending five Small Photograph. Capt  Thomas Brodon, Oaks, Lt. Andrews &amp; My own. Mine is for Prudie.
+   I wrote Martha send her &amp; Bettie Johnson a Photograph each.</p>
+            <p>The list comes, my name among others to go to Charlston. Cols Duke Morgan Tucker &amp; my self Maj. Steel, Wibber &amp;
+   High of our old crowd go.</p>
+            <p>Gens Archer Stuart Thompson (Brgd 5) Johnson &amp; Gardner Maj Gens go. Those who are to go to Charlston come up to our</p>
+            <pb n="65" facs="0012_003113_000201_0063.jpg" xml:id="d3e1190"/>
+            <p>quarters. All the rest of our mess &amp; the crowd who were in the Fort go to the barracks.</p>
+            <p>Write to Capt Bennett. Send him my old boots  Gen  Thompson having given me a very good pair of new ones. The Gen. is a Noble
+   hearted fellow. Every thing is pel mal this evening.</p>
+            <p>Saturday June 25th ,64</p>
+            <p>Morning very warm. Up early &amp; quite a stir around the building. Write to Sam &amp; send him my Photograph.</p>
+            <p>I wrote to the boys at Point Lookout yesterday directing my letter to Van Sellers. Forgot to mention it in my record of
+   yesterday.</p>
+            <pb n="66" facs="0012_003113_000201_0064.jpg" xml:id="d3e1204"/>
+            <p>It is said that all our command with several hundr other officers arrived here to day from Point Lookout, I asked permission
+   to see Lieut Ruck but heard nothing from my application. </p>
+            <p>We are kept in considerabl suspense all day. The transport not ariving</p>
+            <p>Rec.d a letter (The first from him) from Willie G. Bransford and also one from Lieut Bridges.</p>
+            <p>Day passed of very unpleasantly with the heat, the suspense &amp; the desperate headache which I had.</p>
+            <p>Sunday June 26th 1864.</p>
+            <p>Morning very hot. Segeant Polzer anounses the arival of the Transport. I hastily write a note to Mrs  Ward</p>
+            <pb n="67" facs="0012_003113_000201_0065.jpg" xml:id="d3e1221"/>
+            <p>Purchase two common indifferent Calico shirts at $2_ each. Am now waiting in readiness for my departure to be
+   ordered.</p>
+            <p>I have no apprehensions of any great danger from guns where we are going but dread the affect of the climate,
+   hot sun &amp; treatment that we will receive there. If however it were not for the deep sorrow that it will
+   bring on my dear Wife &amp; father &amp; sisters &amp; all my kin &amp; friends I would not care one whit for it.</p>
+            <p>Had just as soon go as not. But the effect on them will be dreadful, particularly my wife,</p>
+            <pb n="68" facs="0012_003113_000201_0066.jpg" xml:id="d3e1231"/>
+            <p>March out to the boat and go aboard under a guard commanded by Capt. Young. Maj. Strong of Gen. Fosters staff is
+   in command of the boat M.A. Boadman. We moved out of the river getting into the bay in about an hour. A little
+   gust of wind accompanied by a little rain came up about five o clock in the evening.</p>
+            <p>I had a desperate headache. Gen Shoepfs had the five Gens. My self &amp; four other Cols. put in the top cabin
+   which is much more comfortable.</p>
+            <p>That even is very warm. I did not get sea sick. Out of sight of land by one night.</p>
+            <pb n="69" facs="0012_003113_000201_0067.jpg" xml:id="d3e1241"/>
+            <p>Monday June 27th 1864.</p>
+            <p>Morning bright &amp; pleasant  Sea swelling pretty smartly.</p>
+            <p>Some sick. I am not except the headache, It is better.</p>
+            <p>Pass Fortress Monroe at 7 O,clock this morning. See nothing of interest to day. Get not much sea Sick, Have the
+   headache.</p>
+            <p>A shower came up in the evening which cooled the air very much.</p>
+            <p>Tuesday June 28th 1864.</p>
+            <p>Morning very rough. Most of our men rather sick. Passed Cape Hateras in the night. Also pass a blockading vessel
+   off the Cost of North Carolina.</p>
+            <p>Day cool &amp; calmed off in</p>
+            <pb n="70" facs="0012_003113_000201_0068.jpg" xml:id="d3e1261"/>
+            <p>the evening. Have to stay in my bunk all day. Have eat nothin since I &apos; ve been on board. Lay in my bunk &amp;
+   think of my dear wife &amp; the trouble this trip of mine will bring on her.</p>
+            <p>Wednesday June 29th 1864.</p>
+            <p>Morning very pleasant &amp; quite calm. Have in sight of Morris Island &amp; the blockading fleet off Charlston at
+   9 Oclock A.M.</p>
+            <p>We are now there while a blockader is approaching us and I am stretched on my back looking at her approach &amp;
+   trying to write while our ship, or boat rolls from side to side.</p>
+            <p>The Blockader comes up, passes around us &amp; ask several questions which were answered &amp; They waddled off
+back to <unclear reason="illegible" resp="PW">Camp</unclear>
+            </p>
+            <pb n="71" facs="0012_003113_000201_0069.jpg" xml:id="d3e1277"/>
+            <p>remain in sight of land along down the coast of S.C. Meet a steam boat at 1 P.M. with Gen Foster on board. Maj.
+   Strong goes on board with papers etc &amp; returns. We each go our way.</p>
+            <p>The boat with Gen. Foster was bound for Stons river. A few miles farther we find a small schooner anchored &amp;
+   put one of the men off of our vessel on her &amp; piloted her on in our wake. </p>
+            <p>We continue in sight of land &amp; it now appears on our left as well as the right We arrive at Hilton Head at 5 P.M.
+   and anchor.</p>
+            <p>Find many vessels of many Kinds here. Savanaah are</p>
+            <pb n="72" facs="0012_003113_000201_0070.jpg" xml:id="d3e1289"/>
+            <p>At dark we moved up under the guns, (72) of &quot; Warbash &quot;. Anchor all night.</p>
+            <p>Thursday June 30th 1864.</p>
+            <p>Morning bright &amp; hot. Rest at ease until about 10 O clock When it is stated that Gen. Foster has arrived.</p>
+            <p>Rumer this morning that the Alabama is not far off. Rumer now is (1 O,clock P M) the Gen has not arrived.</p>
+            <p>Polser inquires if we will have some Chowder made of Clams. (Clam Chowder) We take it and find it pretty good.
+   Not so good however as oisters. I write this more that I may remember it to tell my dear wife, than for any thing
+   else.</p>
+            <p>God bless her how I do wish she knew</p>
+            <pb n="73" facs="0012_003113_000201_0071.jpg" xml:id="d3e1305"/>
+            <p>that I am well, not cast down &amp; contented as one of my nature can be under the circumstances. If it were not
+   for her sorrow and that of my kind friends I <unclear reason="illegible" resp="PW">dare</unclear>&amp; defy this
+   danger &amp; trouble with a gleeful spirit.</p>
+            <p>Great as the cross is it can be <unclear reason="illegible" resp="PW">born</unclear> for the sake of my country.</p>
+            <p>July 1st 1864 (Friday)</p>
+            <p>Morning passed in calm anxiety &amp; uncertainty. In the after noon we were ordered in to the hole of an old sale
+   vesal where the temperature is about 120 o. It is almost intolerable.</p>
+            <p>Capt. Young will not let but ten to remain on deck at a time.</p>
+            <pb n="74" facs="0012_003113_000201_0072.jpg" xml:id="d3e1325"/>
+            <p>Had to pay the Stuart on the M.A. Broadman 50$ for a little coffee a little butter &amp; one dish of soup worth in
+   all about 10$.</p>
+            <p>Saturday July 2nd 1864.</p>
+            <p>Weather very warm, particularly in this hole. Write to my wife &amp; to Capt Bennett. Send the letters out by Capt
+   Young.</p>
+            <p>Had a bad headache in the evening, slept out on deck. Very pleasant.</p>
+            <p>Sunday July 3d 1864.</p>
+            <p>Morning more pleasant, particularly to me as I was out all night. Vesals all in their Sunday rigs. Blue Jacks Flags.
+   Freshwater Sailors with white shirts with large blue collars, Sail out all day. Better</p>
+            <pb n="75" facs="0012_003113_000201_0073.jpg" xml:id="d3e1341"/>
+            <p>Monday July 4th 1864</p>
+            <p>Slept out again last night. Very warm this morning</p>
+            <p>A salute of 21 guns was fired by the Warbash this morning. Maj. Strong came aboard yesterday, for no other purpose
+   but to tantelise us with the statement that the news of Gen. Boraguards capture with 15000 Men had been confirmed.</p>
+            <p>I do not believe it. A Salute of 21 guns at 12 &amp; the same at 6 P.M.</p>
+            <p>It rained a hard shower &amp; quite a squall this afternoon. It has cooled the atmosphere vastly.</p>
+            <pb n="76" facs="0012_003113_000201_0074.jpg" xml:id="d3e1355"/>
+            <p>Tuesday the 5th July 1864</p>
+            <p>Morning pleasant. All day pleasant. Various reports as to the fighting at Charlston.</p>
+            <p>Wednesday July 6th 1864.</p>
+            <p>Morning pretty pleasant. Other reports from Charlston Sesession vill &amp; Jas. Island taken etc etc etc.
+   I do not believe them. Afternoon &amp; night very warm.</p>
+            <p>Thursday July 7th 1864.</p>
+            <p>Morning warm &amp; bright. I go up now to bath in sea water. It is very pleasant. Day very warm. We are to day
+   permitted to go on deck, twenty five at a time.</p>
+            <p>Friday July 8th 1864.</p>
+            <p>Morning very warm. Write to my wife &amp; Father this morning.</p>
+            <pb n="77" facs="0012_003113_000201_0075.jpg" xml:id="d3e1375"/>
+            <p>Gen. Johnson rec.d a letter from Gen. Jones yesterday stating that he had no official information of our being
+   here etc.</p>
+            <p>Saturday 9th Sunday 10 Monday 11th Tuesday 12th Wednesday 13 &amp; Thursday the 14th.</p>
+            <p>We lay at the same point on the same desperate, disagreeable old boat. The Dragon! during all the above days without
+   any change.</p>
+            <p>Most awful suspense and a most horrible condition. If our Government do not retaliate for our treatment here there is
+   no retaliation in it.</p>
+            <p>I have been too sick to write all the time <unclear reason="illegible" resp="PW">inebracid</unclear>in the above note.</p>
+            <pb n="78" facs="0012_003113_000201_0076.jpg" xml:id="d3e1393"/>
+            <p>Am much better to day. Feel pretty well all day. Write to my dear wife &amp; father this evening. Will send the
+   letters by Capt Young to morrow.</p>
+            <p>Friday 15th July 1864.</p>
+            <p>Day pretty pleasant Condition not changed. Great excitement as to what will be done with us. I do not partake much in
+   the wrangle. Am a little unwell to day. but not much so.</p>
+            <p>A steamer from N.Y. Came in with news not unfavorable for our cause so far as we can see.</p>
+            <p>Gold is reported at 350.00 . I do not much believe it.</p>
+            <pb n="79" facs="0012_003113_000201_0077.jpg" xml:id="d3e1407"/>
+            <p>Saturday July 16th 1864</p>
+            <p>Crouding around with more enthusiasm than reason. We have on board some of the most <unclear reason="illegible" resp="PW">vltre</unclear>
+   fanatics. I mean men who are credulous to a fault, rush to conclusions with out reason or rather against it &amp; and most
+   obstinately persist in in assertions. No news.</p>
+            <p>Wrote to my wife this morning.</p>
+            <p>Sunday July 17th 1864.</p>
+            <p>Last night very pleasant. Getting warm however at this writing 8 O clock A.M. Spent the day slowly though the temperature
+   is quite pleasant.</p>
+            <p>Monday July 18th 1864.</p>
+            <p>Day pleasant and passed</p>
+            <pb n="80" facs="0012_003113_000201_0078.jpg" xml:id="d3e1428"/>
+            <p>off as usual. This old ship is a bore to me now.</p>
+            <p>Various reports are afloat in referance to when we will move, where we will go to &amp; what will be done with us.</p>
+            <p>Rec.d a lttle &quot; Extra &quot; news paper giving us good news. It states that our forces are in front of and in the
+   environs of Washington. I think the move into Maryland will not amount to much.</p>
+            <p>Tuesday July 19th 1864.</p>
+            <p>Morning pleasant. Looks a little like raining. Warm all day.</p>
+            <p>
+               <del type="overstrike">Friday</del>Wednsdy July 20 Thursday 21 <unclear reason="illegible" resp="PW">both</unclear>worm</p>
+            <p>In the evening a squall</p>
+            <pb n="81" facs="0012_003113_000201_0079.jpg" xml:id="d3e1451"/>
+            <p>arose. Quite a gale blew &amp; draged our ancor about the fourth of a mile. Had to let down the large Anchor.
+   Rained some.</p>
+            <p>Friday July 22nd 1864,</p>
+            <p>Morning warm &amp; a little rainy. Raised the anchors this morning &amp; was towed up near th Warbash again.</p>
+            <p>Got some tainted backon this morning, refused by the soldiers. The first meat we have had in three days.</p>
+            <p>If it were not for what we purchase we could not live.</p>
+            <p>Write to my wife &amp; to Howell to day.</p>
+            <pb n="82" facs="0012_003113_000201_0080.jpg" xml:id="d3e1467"/>
+            <p>Saturday July 23th 1864.</p>
+            <p>Day pleasant. Smoky, breezy &amp; cool. Various rumers but no changes.</p>
+            <p>Sunday July 24th 1864</p>
+            <p>Morning pleasant. Every man bustling around. Guard expecting to leave. Write to my wife &amp; to
+   Lieut. Bridges. Send the letters by Capt Young who is a very clever gentleman as far as I know the
+   opinion of others to the contrary not with standing.</p>
+            <p>He will deliver the Lieuts in person &amp; mail my Wifes at Ft. Delaware Capt. Young &amp; his guards
+   leave to day and the 157 Pa. relieves them.</p>
+            <p>Monday July 25th 1864.</p>
+            <p>Morning more pleasant, clear and calm.</p>
+            <pb n="83" facs="0012_003113_000201_0081.jpg" xml:id="d3e1485"/>
+            <p>Several men are writing letters to go by Flag of truce to morrow.</p>
+            <p>Water boat (an old steam ferry boat came to day comes every Monday) <unclear reason="illegible" resp="PW">tle?</unclear>
+   bring us water.</p>
+            <p>Tuesday July 26th 1864.</p>
+            <p>One month ago to day we left Ft. Delaware. Gen. Johnson &amp; Gardner rec.d a box of notions to day from Fed. Gen.</p>
+            <p>The Chaplain of the 157 N.Y. troops was on board of our ship a short time.</p>
+            <p>A rumer, but soon contradicted that Petersburg &amp; Atlanta had been taken.</p>
+            <pb n="84" facs="0012_003113_000201_0082.jpg" xml:id="d3e1504"/>
+            <p>Day closed as usual.</p>
+            <p>Wednesday July 27th 1864</p>
+            <p>Morning very warm &amp; a little cloudy. Gen G. invited Col. M. to drink of the Ardent he rec.d yesterday. A Col ____
+   of the Gen. had left concluded that the invitation embraced him &amp; a certain Maj. who were not far off at the time
+   the invitation was extended &amp; went to demijohn &amp; took a lot of whiskey &amp; he and the said Maj got drunk
+   before breakfast on whiskey which was not theirs &amp; which they nor either of them were invited to drink.</p>
+            <p>The said Col. went afterwards &amp; took some more whiskey &amp; gave it to another Maj. who is also a Dr</p>
+            <pb n="85" facs="0012_003113_000201_0083.jpg" xml:id="d3e1516"/>
+            <p>I will not mention names for the act so disgusted me that I never can forget it. I wish I could.</p>
+            <p>The Col. hid a part of the last lot he took on a <del type="overstrike">sheff</del> shelf in my bunk. I can never have any respect
+   for the said col any more after the above acts connected with the Motto he expressed to the Maj. after their ill gotton
+   drink, which Motto was too vilgart to write.</p>
+            <p>Four things he said he would always have &quot; An Umbrella when it rained, a horse Whiskey &amp; ____________</p>
+            <p>Save Oh! save me from in. toxicating drinks. It make a man a vulgar vagabond and a dis honest wretch.</p>
+            <pb n="86" facs="0012_003113_000201_0084.jpg" xml:id="d3e1531"/>
+            <p>The two nice gentlemen are now asleep. After awaking they did not seem at all ashamed.</p>
+            <p>I am fearful I am becoming dis gusted at the human family &amp; am Satisfied that I have cause to be.</p>
+            <p>I know that I have seen acts of dis honesty in men who in society are considered gentlemen.</p>
+            <p>Thursday July 28th 1864.</p>
+            <p>Weather warm. To day the War bash left here. We were toed around under the guns of another boat. We &quot; our Mess &quot;
+   had a very bad bread pudding for the cooking of which we paid 25 cts.</p>
+            <pb n="87" facs="0012_003113_000201_0085.jpg" xml:id="d3e1545"/>
+            <p>Friday July 29th 1864.</p>
+            <p>Morning pleasant. A little cloudy. Day moderately pleasant. A little showery.</p>
+            <p>Great new &amp; blowing about our exchange. Some say that Capt. Mc Williams says we are already exchanged and that
+   the officers at Charlston will be down in a day or to morrow. I do not believe any of the reports: only the one
+   that we will be sent to Morris Island &amp; put under fire for a while.</p>
+            <p>We have some men so enthusiastic on the subject of exchange that they are almost insulting to those who will not
+   arise to their</p>
+            <pb n="88" facs="0012_003113_000201_0086.jpg" xml:id="d3e1557"/>
+            <p>degree of enthusiasm. I heard a man to day tell Gen. Thompson that he did not believe he (Gen. T.) wanted to be exchanged.
+   I believe the Gen. is true a patriot &amp; as brave a man &amp; the Col. who thus taunted him.</p>
+            <p>There is much more wind than worth in some gents who claim to be leaders.</p>
+            <p>Saturday July 30th 1864.</p>
+            <p>Morning warm. Rumer that the Cosmopolitan (Foster &apos; s Steam boat) is in. I do not believe half I hear.</p>
+            <p>Much excitement on the subject of exchange. Maj. Strong comes aboard &amp; assures us that we will be exchanged.</p>
+            <pb n="89" facs="0012_003113_000201_0087.jpg" xml:id="d3e1572"/>
+            <p>Sunday July 31st 1864.</p>
+            <p>Had a heavy gale &amp; rain last night. To day is pleasant with a little rain.</p>
+            <p>Capt McWilliams bring a few letters aboard and assures us the negotiations for our exchange have been completed
+   &amp; that we will leave here on exchange next Wednesday. Great excitement. I write to my wife in anticipation
+   of the exchange. Also write part of a letter to my Father.</p>
+            <p>Monday August 1st 1864.</p>
+            <p>Up early &amp; all a stir. This experience as a prisoner has given me an opportunity to learn much of human nature</p>
+            <pb n="90" facs="0012_003113_000201_0088.jpg" xml:id="d3e1586"/>
+            <p>by which I hope to be profited.</p>
+            <p>I learn more fully than I ever knew it before that there is not half the difference in the real mental ability of men
+   as one would at first think.</p>
+            <p>Most men who have character for very superior talents when sounded, are found to possess ordinary sense with a super
+   abundance of brass &amp; much self esteem. Vanity. egotism</p>
+            <p>One of the greatest vices of men who have been with me is their disposition to prevericate, to tie, in order to make
+   themselves heroes. My best friends make themselves great men by long windy tales. This would not be</p>
+            <pb n="91" facs="0012_003113_000201_0089.jpg" xml:id="d3e1598"/>
+            <p>so revolting to me if they would in immortalising themselves permit other more worthy &amp; more modest than they are
+   to live. They build up their fame dis regarding the rights of others.</p>
+            <p>Rumers rife in referance to our exchange. Old Copt of the Dragoon say we will leave to morrow.</p>
+            <p>Tuesday August 2d 1863.</p>
+            <p>Much excitement &amp; anxiety all day. I write to Willie Bransford to Sam, to Col. Fite, to Lt Rucks, to Capts Harper
+   Bennett &amp; Ellis.</p>
+            <p>We thank God leave the</p>
+            <pb n="92" facs="0012_003113_000201_0090.jpg" xml:id="d3e1612"/>
+            <p>Dragoon &amp; go on board the Cosmopolitan, a fine steamer &amp; leave the harbor at 10 P.M.</p>
+            <p>Get supper on board at 50 cts. each. Have a nice state room &amp; spent a pleasant night, eating at a table with a
+   cloth, though I regret to say not much else on it &amp; sleeping in a pleasant bed with sheets, though not very clean
+   on it.</p>
+            <p>I owe Col. Duke 2 1/2 &amp; Webber 1 1/8 dollars.</p>
+            <p>Maj Strong &amp; his assistant Max are very polite. All the full</p>
+            <pb n="93" facs="0012_003113_000201_0091.jpg" xml:id="d3e1624"/>
+            <p>Cols &amp; Gens are above, The other officers are below though all comfortable.</p>
+            <p>Wednesday Augst 3d, 64.</p>
+            <p>In Charlson harbor  Have not looked around yet. Fine morning. See the five small houses scattered over the head of
+   Morris island which were erected for our occupancy.</p>
+            <p>They look not at all inviting as there is not a sprig of vegitation near them. All white sand around.</p>
+            <p>We are in sight old Fort Sumpter and see the enemy shelling it from Cummins point of Morris island. Point where we
+   were to have gone.</p>
+            <pb n="94" facs="0012_003113_000201_0092.jpg" xml:id="d3e1638"/>
+            <p>At 10 O,clock over old rusty looking shell of a steam boat arrived along side the Cosmopolitan. Our steamer is named
+   Chesterfield &amp; a hard looking boat it is.</p>
+            <p>We came unto the warf amid the deafening cheers of the gallant soldiers in the different batteries. We passed Sullivens
+   Island. It is well defended. Old Fort Sumpter looks as though it is nearly done for. It can offord to fall now for like
+   a noble heroe its glory is full.</p>
+            <p>Rev.d Mc Gadsden (C.P.) presented on behalf of the ladies of the Soldiers relief Association a beautiful reath of flowers.
+   Gen Johnson rec.d it on the part of the officers</p>
+            <pb n="95" facs="0012_003113_000201_0093.jpg" xml:id="d3e1648"/>
+            <p>in a brief speech which had no merit but brevity &amp; earnestness. The Gen. is a much better fighter than he is talker
+   Gen. Jeff Thompson also made some few remarks. It <del type="overstrike">is</del> was a glorious opening for a fine speech, but
+   poorly filled.</p>
+            <p>I was introduced to the Rev.     Porter of     Street who carried Lt. Col. Swingly &amp; myself home with him. He is as
+   nice a man &amp; good a Christian ospearantty as I have met with in a long, long time.</p>
+            <p>I hope never to forget him &amp; his good Lady &amp; three little boys &amp; bright &amp; smart ones</p>
+            <pb n="96" facs="0012_003113_000201_0094.jpg" xml:id="d3e1661"/>
+            <p>they are too, and his dear little delicate orphan niece. No man could under the circumstances be made more Comfortable.</p>
+            <p>Charlston in this instance has done all that could be expected of Charlston great things as may be looked for from her.</p>
+            <p>If she be arrogant &amp; arristrocatic &amp; selfish as the Yankees charge her I thank God for such arrogance Arristocracy
+   &amp; selfishness as it is.</p>
+            <p>I am sick this evening with diareah. Have a good plain dinner though Cheap which illustrates how Cheaply a family can live</p>
+            <pb n="97" facs="0012_003113_000201_0095.jpg" xml:id="d3e1673"/>
+            <p>and at the same time live well. All in all this has been a glorious day.</p>
+            <p>Thursday the 4th August, 64.</p>
+            <p>Some better though not well this morning. Go to Gen. Johes H. <unclear reason="illegible" resp="PW">Cers.</unclear>Get leave
+of absence 30 days. Get transportation to Savanah, Macon, Americus Atlanta <del type="overstrike">&amp;</del>to Selma.</p>
+            <p>Then get from pay master Maj E.A. Desland $1050.00 pay up to 30st of June 1863. (5 Months pay), from which time pay is yet due
+   me. I then got passport to Macon Ga.</p>
+            <p>Learn this evening that the connection between Savanah &amp; Macon</p>
+            <pb n="98" facs="0012_003113_000201_0096.jpg" xml:id="d3e1693"/>
+            <p>can not be made owing to the raiders under Stoneman having destroyed the bridges along the road. I therefore abandon my
+   contemplated trip to visit My sister, Miss Maggie &amp; Dr. Lapley &amp; My friends in the Army at Atlanta.</p>
+            <p>Regret My disappointment much but feel on reflection that is better for me. God grant I could see my dear wife! She is the only
+   one however whom to see would pay to take such a trip in this oppressively hot weather &amp; over bad &amp; slow roads &amp;
+   rough &amp; scarce fare.</p>
+            <p>Spend the afternoon in doors very quietly. Write pr, flag of truce to my dear wife.</p>
+            <p>Wrote also to Josie.</p>
+            <p>Friday August 5th 1864.</p>
+            <p>Visited again the <unclear reason="illegible" resp="PW">Hos Srrs</unclear>of the Gen. I,m P.M. Pno <unclear reason="illegible" resp="PW">mersh</unclear>
+   etc etc</p>
+            <pb n="99" facs="0012_003113_000201_0097.jpg" xml:id="d3e1715"/>
+            <p>Got Transportation to Richmond giving up that I had procured Purchased six common stars for my coat colar at 45$. Extravagance,
+   Might have been dispensed with. Returned to my boarding house. Wrote to my father per flag of truce.</p>
+            <p>I find the wealthiest citizens of the place living poorly though better than I had supposed they were. They live on vegetables
+   to a very great extent. </p>
+            <p>Here is the first Oaker soop I ever eat. It is first rate.</p>
+            <p>They also use great quantities of fruit. Such as Figs, Mellons. Water Mellons sell from $3 to 10$ each. Peaches two for a dollar.
+   Other things in proportion.</p>
+            <p>Mutton sells for 2.50/100 per pound</p>
+            <pb n="100" facs="0012_003113_000201_0098.jpg" xml:id="d3e1730"/>
+            <p>But very little meat ex cept Mutton  Chickens, ducks etc is used. I saw no bacon except the chippings of a very old ham. The
+   bread is the poorest of any thing else in its place. Citizens purchase very sorry bakers bread, I used some bread made of rice
+   meal. It is a pretty good make shift.</p>
+            <p>The streets are full of negroes selling Srimps, Crabs and various other kind of fish, of which a great many are used by the
+   inhabitance. I eat a shrimp pie for dinner &amp; found it pretty good. With all the necessary condrament it doubtless is delicious.</p>
+            <p>The Rev. Wm. Porter with whom I am stopping is doubtless very wealthy, though he is prudent sensable and charitable.</p>
+            <p>Gives much to the poor</p>
+            <pb n="101" facs="0012_003113_000201_0099.jpg" xml:id="d3e1742"/>
+            <p>and will not buy what he can do without.</p>
+            <p>I spend the day as quietly as possible that the heat may be less oppressive. It is very warm. Staid in doors nearly all day.</p>
+            <p>In the evening after Tea Mr &amp; Mrs Porter the Dr. &amp; Myself &amp; Col. Swingly took our seats in the Second gallery where
+   there was quite a breeze &amp; consequently very pleasant &amp; lessened to some first rate singing.</p>
+            <p>A lady who sings very like Miss Maggie Lapley &amp; some of her beaux sang some good songs while she performed on the piano.
+   Among others the old song once one of my favorites,</p>
+            <pb n="102" facs="0012_003113_000201_0100.jpg" xml:id="d3e1754"/>
+            <p>&quot; Do They Miss Me at home &quot; was most elegantly performed &amp; sung. Of course that wafted my memory home &amp; to
+   loved ones there, if indeed the other surroundings had woved it away.</p>
+            <p>I think no two minutes of my time after that that evening was occupied on a subject not connected with home &amp; my dear Bettie
+   &amp; &amp; dear sisters &amp; father &amp; Mother &amp; Kin &amp; friends.</p>
+            <p>Oh God, will this accursed war never end!</p>
+            <p>Saturday August, 6th 1864</p>
+            <p>Arose at 5 O,clock, Had quite a light breakfast. Mr Porter warlked with me to the depot &quot; Jim &quot; carrying my baggage.</p>
+            <p>I met Col. Fergesson Mj. Webber and Patton &amp; Brewer there. The cars are quite crowded</p>
+            <pb n="103" facs="0012_003113_000201_0101.jpg" xml:id="d3e1770"/>
+            <p>but we crammed in and sufficating as it was arrived at Branchville about 12 O,clock.</p>
+            <p>&quot; M &quot; The train we were on went on to Augusta. We took the Columbia train. Reached Orangeville. Saw a Motherly old lady whom
+   it is said has passed down to Branchville &amp; back every day for the last two years &amp; more with her basket of provisions looking
+   after sick &amp; wounded soldiers.</p>
+            <p>She is a very kind looking and active old lady of about forty five or seven years from appearance.</p>
+            <p>Pass the Congaree river &amp; swamp to Kingsville from which one road goes to Wilmington &amp; one to Camden.</p>
+            <pb n="104" facs="0012_003113_000201_0102.jpg" xml:id="d3e1782"/>
+            <p>Just before dark we arrived at Columbia. It is a magnifficent city, for order, form, cleanliness neatness and for systim can not be
+   surpased.</p>
+            <p>The cars are so crowded here that we being in the ladies car have to yield our seats and through the kindness of Col. Black of heavy
+   Artilery at Charlston, the conductor gave seats in a little office in front of the express car.</p>
+            <p>We spent quite a comfortable night after we got coal &amp; I slept well. Got so chilly before day that I had to put on my coat.</p>
+            <p>Met Capt Franklin &amp; Col Pitts at Branchville. 5 </p>
+            <p>Sunday August 7th 1864.</p>
+            <p>Arived at Charloott about day. Had a warm travel on to Salisbury where to my satisfac</p>
+            <pb n="105" facs="0012_003113_000201_0103.jpg" xml:id="d3e1798"/>
+            <p>tion to some extent Patton left us for the purpose in my opinion of consealing himself in the hills at some relations house not to be
+   again heard of during this war. I do not think he has any Command at least he has been in the hands of the enemy near all the war.</p>
+            <p>We are very much crowded. Have some rough looking woman aboard to day. I saw tow mischeevous young gentlemen make a bet as to whether
+   a certan woman who had just come in chewed tobacco and one of them, to decide the bet went to the fellow who was sitting by her &amp;
+   stranger as he was, asked</p>
+            <pb n="106" facs="0012_003113_000201_0104.jpg" xml:id="d3e1806"/>
+            <p>him for a chaw. He had none but she drew out a plug, 50 cts. worth &amp; kindly offered him a quid. He accepted, kindly &amp; politely
+   thanked her &amp; returned to his companion &amp; demanded the wager.</p>
+            <p>We pass Souisville &amp; Thomasville &amp; other little stations &amp; through some desperately poor country. I would not agree to live
+   for life on any plantation between this &amp; Charlston (that I have seen) if I were presented with it.</p>
+            <p>I am very unwell. Headache from over heat &amp; exercise. Consequently stop here until to morrow at this hour.</p>
+            <p>I am at High Point at a Mr. Barbee &apos; s Hotel  He has a sister</p>
+            <pb n="107" facs="0012_003113_000201_0105.jpg" xml:id="d3e1818"/>
+            <p>very young who weighs over three hundred I understand She is a whale in appearance.</p>
+            <p>For the 1st time in over twelve months I drink a glass of Milk. It is good butter Milk and I use it freely, taking about a quart. It
+   cures me almost instantly. I live very well on Milk, corn bread &amp; butter.</p>
+            <p>Monday Augst 8th 1864.</p>
+            <p>Morning very warm. I feel better.</p>
+            <p>Will go on to Greensboro a distance of 16 miles at one O clock to day. Arrived at Greensborough at 2 1/2 O clock P.M. Met Webber &amp;
+   Patterson. I also met Col. Carter, Lt. Col. Smith &amp; Gen Archer on the cars &amp; parted with them</p>
+            <pb n="108" facs="0012_003113_000201_0106.jpg" xml:id="d3e1832"/>
+            <p>at Greensboro.</p>
+            <p>I stop at one Mr Edward &apos; s a pretty nice place. Call on Dr. Hynes &amp; spend an hour after supper. He &amp; other gentlemen
+   persuade us that to return to High Point &amp; take the Stage thence to Wythville is the most pleasant &amp; expiditious rout to
+   Abingdon.</p>
+            <p>Tuesday August 9th 1864.</p>
+            <p>Morning pleasant it having rained a fine shower yesterday afternoon.</p>
+            <p>Procure tranportation to Wythville via the stage rout return on the 10 O &apos; clock train to High Point. The stage is so crowded
+   with soldiers and young ladies going to Salem to school that we have to remain over until tomorrow</p>
+            <pb n="109" facs="0012_003113_000201_0107.jpg" xml:id="d3e1846"/>
+            <p>Procure a good room. Take a wash &amp; a nap and then write to my dear wife. Spend the day &amp; night quietly.</p>
+            <p>It is rumered that Lt. Piper passed up on the one O clock train to day on his way to Abingdon. I was sleeping at the time the train
+   passed. Would truly like to have seen him.</p>
+            <p>Mr. Barbee is a very clever man I think. I think that Some Tall Courting is going on about the house. The Clerk is smitten.</p>
+            <p>Wednesday Augst 10th 1864.</p>
+            <p>Morning quite pleasant though promising a hot day.</p>
+            <pb n="110" facs="0012_003113_000201_0108.jpg" xml:id="d3e1860"/>
+            <p>Write to Capt. John Allen at Petersburg. purchase 1$ worth Conf.d stamps.</p>
+            <p>In traveling around I pay 10$ per meal. 25$ for staying all night with supper and breakfast &amp; the dimes that used to satisfy
+   servants have grown into dollars.</p>
+            <p>The freight train is passing my window it will soon be followed by the passenger when I will leave for Salem on the stage.</p>
+            <p>This &quot; High Point &quot; is quite a pleasant healthy looking little place &quot; out in the woods.</p>
+            <p>Myself, Maj. Webber two nice little girls &amp; seven others, soldiers on furlow the most of them</p>
+            <pb n="111" facs="0012_003113_000201_0109.jpg" xml:id="d3e1875"/>
+            <p>leave High Point on a good four horse coach at 1 O Clock A.M. &amp; after quite a pleasant travel reached Salem N.C. about 6
+   O &apos; clock in the After Noon.</p>
+            <p>We put up at quite a nice &amp; commodious Hotel kept by Mr. Chissum  I met Gov. H.S. Foot who requested me to write to him if
+   there was any thing that he could do for me &amp; he would take pleasure in doing it. He had his family with him.</p>
+            <p>Col John Sneed of Knoxville is also at Salem with his family. He &amp; Gov. Foot rec.d me very warmly &amp; was very communicative
+   I met several other refugees from Tenn here</p>
+            <pb n="112" facs="0012_003113_000201_0110.jpg" xml:id="d3e1885"/>
+            <p>Also one Mr. Ayers from near Abingdon Va. who is quite clever &amp; invites us out to see him on our arival at A. Pay bill before
+   retiring $20 &amp; 16$ for Patterson.</p>
+            <p>Thursday August 17th 1864.</p>
+            <p>Take breakfast &amp; Mr Chissums at 6 A.M. &amp; leave Salem on a two horse hack at 6 1/2 for Mount Airy. Mr. Vest one of the
+   proprietors of this line and one of the drivers is quite clever.</p>
+            <p>Webber, Myself, Patterson &amp; two passengers (Soldiers) we had yesterday make up our crowd to day. We pass over very poor country.</p>
+            <p>Citizens ignorant and very poor. At the first stand we get some fine peaches. At the second</p>
+            <pb n="113" facs="0012_003113_000201_0111.jpg" xml:id="d3e1899"/>
+            <p>stand lives old Mr. Gordon who is the father in-law of my old friend Dr. Davis Sister. I did not see her. A few miles after we left
+   the stand I met Dr. Davis &amp; a Mr. Gordon. The old Dr. was delighted to meet me, offered to treat me on good brandy of which he
+   said he had one hundred gallons and was selling it out at ($100.00) one hundred dollars per gallon</p>
+            <p>The old fellow was truly glad to see me. He has been absent from home about one year. His Mother has recently died etc.</p>
+            <p>We arvie in Mount Airy at 8 O, Clock P.M. Pass old Mr. Armfields just before getting to the little</p>
+            <pb n="114" facs="0012_003113_000201_0112.jpg" xml:id="d3e1909"/>
+            <p>town. He is a brother or near relative of Gen. Armfield of Tennessee.</p>
+            <p>The old land lord pays $10,000 tax. Is rich &amp; niggardly. Near on to one bushel of chinches inhabited each bed in the room we
+   were put in to sleep. Bill 10$ for supper &amp; lodging.</p>
+            <p>This day we taking dinner at Mr. Daltons, quite a nice place. We get a good dinner for 5$. This is in sight of the Palot Knob,
+   which is a magnifficent sight to behold. We travel in a few miles of it rather around its base near a half day.</p>
+            <p>Friday August 12th 1864.</p>
+            <p>At 1 1/2 O clock A.M. we move on a rough two horse hack</p>
+            <pb n="115" facs="0012_003113_000201_0113.jpg" xml:id="d3e1923"/>
+            <p>Hillville Carroll County Va. Pass up the Blue Ridge a pretty good grade but five miles from base to top. Reach Hillville at 10 1/2
+   O, clock A.M. Get a good breakfast with a very nice lady for 5$.</p>
+            <p>Take Mr. Moores four horse coach &amp; have a pleasant ride to Wythville arriving at 8 1/2 O clock P.M. We come down the Mountain,
+   pass some Copper Mines &amp; some first rate farms. Cross New River by ferry.</p>
+            <p>At Mythville we find a good Hotel &amp; meet Lt Barlow &amp; other acquantances. Tom Cosly, Cotton Fisher,
+<unclear reason="illegible" resp="PW">Suck</unclear>
+            </p>
+            <pb n="116" facs="0012_003113_000201_0114.jpg" xml:id="d3e1935"/>
+            <p>Williams &amp; others of my Regiment are there on business. Also meet Vandaventer who staid in the same room with us.</p>
+            <p>Saturday August 13th 1864.</p>
+            <p>Meet several acquaintances this morning &amp; am introduced to quite a number of gentlemen. Judge Burnett of Ky. among the rest.
+   Also Mr. Mc <unclear reason="illegible" resp="PW">Huth</unclear>from Tenn.</p>
+            <p>Take dinner with Mr. Mc Gavvock &amp; form the acquaintance of his family. He loans me a horse to ride out to see Capt Kirkpatrick.</p>
+            <p>Introduces me to his brother who is the owner of Ft. Chriswell where Kirk is staying. I ride out nine</p>
+            <pb n="117" facs="0012_003113_000201_0115.jpg" xml:id="d3e1952"/>
+            <p>miles on the Lynchburg road &amp; find it to be a most magnifficent place. All the comfort, even luxuries are here.</p>
+            <p>I am delighted with the pleasant place ice water &amp; good eating &amp; pleasant people.</p>
+            <p>Sunday Augst 14th 1864.</p>
+            <p>Go to Church with the family &amp; visitors at Ft. Chiswell &amp; hear old Mr. Smith preach a pretty good sermond. The
+   old fellow is quite a poor humble old fellow. Goes home with Mr. Mc Gavvock &amp; takes dinner.</p>
+            <p>These Mc Gavvocks are relations of those at Nashville, of the Ewing</p>
+            <pb n="118" facs="0012_003113_000201_0116.jpg" xml:id="d3e1966"/>
+            <p>and all their kin.</p>
+            <p>The day is spent pleasantly very much improving me in feeling by thus resting.</p>
+            <p>Monday August 15th 1864.</p>
+            <p>Morning pleasant. Ride into town with Capt. Kirk and Mr. Mc Gavvock. Very warm. Find no material change.</p>
+            <p>Take the train for Abingdon Va. at 4 1/2 P.M. &amp; arrive at 9, O clock. Pass the Depot &amp; stay all night with Mr.
+   Mc Connell a very pleasant place &amp; gentleman and lady.</p>
+            <p>Tuesday August 16th 1864</p>
+            <p>Walk into town. Very warm walking one mile &amp; a half. Meet Gen Morgan and</p>
+            <pb n="119" facs="0012_003113_000201_0117.jpg" xml:id="d3e1984"/>
+            <p>others whom we know but a great many we do not know. The Gen is glad to see us.</p>
+            <p>Drew six months pay $1260.00. Get leave of Absence thirty days &amp; transportation to Richmond &amp; back.</p>
+            <p>I now have 2040.00 on hand. It will take near all that to take me to Richmond &amp; outfit me with cloths &amp; bring
+   me back to this place.</p>
+            <p>Wednesday August 17th 64.</p>
+            <p>Meet Maj Steel. Get an order for a saddle.</p>
+            <p>Write to Lieut W.H. Skillman &amp; to I.F. Butler to Capture a horse for me.</p>
+            <pb n="120" facs="0012_003113_000201_0118.jpg" xml:id="d3e2000"/>
+            <p>I think I &apos; le get a horse &amp; saddle with but little trouble.</p>
+            <p>Pay 20$ to Mr. Findly for staying with him, a tolerably good place, twenty four hours. Old man Finley is a
+   brother-in-law of old Mrs Hogg. He had made talk to me about the old lady &amp; her family.</p>
+            <p>It rained very had this evening. The season has been wet in this section of Country. Corn looks well. No
+   good hay has been saved.</p>
+            <p>Took Tea with Col Tom Bayers &amp; family. Mrs. Bayers is much conserned about her son Wm. Brown who is at
+   Ft. Delaware in prison. I promise to do what I can towards having him exchanged. I &apos; le do it.</p>
+            <pb n="121" facs="0012_003113_000201_0119.jpg" xml:id="d3e2012"/>
+            <p>Thursday August 18th 1864.</p>
+            <p>Arose at 12 1/2 O &apos; clock A.M. Lt Cunningham &amp; the men with him Lt Spir &amp; Sgt. were of vast
+   benefit to us, in getting a house to stop at, getting of on the train. Get on the train and reach wythville
+   at 6 1/2 O Clock after about five hours run.</p>
+            <p>See Lt Barlow &amp; give him a memorandum to govern him in the finishing off a saddle for me.</p>
+            <p>He request me to purchase 200.00$ to 300.00$ wort of &quot; Coach trimmers bors nails at from 4 to 8$ per
+   gross. 1 or 2 doz girth buckles 1 1/3. Plated ornaments 1/2 or 1 doz</p>
+            <pb n="122" facs="0012_003113_000201_0120.jpg" xml:id="d3e2025"/>
+            <p>A few sets of plated bridle buckles inch or inch &amp; a half, Seven is a set. These things I will try to procure.</p>
+            <p>I also want to get a suit of cloths. Government Cloth. Pair of pistols: also for Webber Pair of Spears each.</p>
+            <p>See the Secty of War in referance to my Regnt. And the Commission in referance to exchange, and other business.</p>
+            <p>See Capt Fry &amp; Maj Munday et als. Get one bridle blanket &amp; each for Webber and Myself. Two tolerably nice
+   shirts for Maj Webber.</p>
+            <p>Catron Jones pass.d down to day. I gave him 10$  I think $30, $20 through mistake</p>
+            <pb n="123" facs="0012_003113_000201_0121.jpg" xml:id="d3e2039"/>
+            <p>Friday August 19th 1864.</p>
+            <p>Up early. Morning rainy.Train arives. No one on it I know. Spent the entire day in the house except taking
+   a long walk with Maj Webber in the evening out on the hills. Saw Lt. Col. Bob Martin on the train.</p>
+            <p>Saturday August 20th 1864</p>
+            <p>Up early &amp; take a good bath. Walk up in town &amp; see Mr. E. Mc Gavock who gave me a letter to Mr.
+   Mc Farland <unclear reason="illegible" resp="PW">Pos Fnis BW</unclear> Richmond. I will try to have his son
+   transferred to my Regnt.</p>
+            <p>Saw also Kirkpaterick who is improving slowly. Webber moves up to town Wythville. I will leave</p>
+            <pb n="124" facs="0012_003113_000201_0122.jpg" xml:id="d3e2056"/>
+            <p>in the morning for Richmond. I think I will call a while when I return here as this is a very nice family
+   and a no, one house for these times.</p>
+            <p>I am a little unwell to day having taken a severe cold. Had to decline an invitation from Capt. Ward &amp;
+   one from Mr Mc Gavock on that account to dine with them.</p>
+            <p>Head did not ache much. Heavy rain. Maj Webber moves up in town.</p>
+            <p>Sunday August 21st 1864</p>
+            <p>Fine morning. Up early and prepare for the train. Pay 3 1/2 dollars to Walter (Servant) and four for washing.</p>
+            <p>Pay my bill at the Hotel $60.00 and laeve for Richmond at</p>
+            <pb n="125" facs="0012_003113_000201_0123.jpg" xml:id="d3e2072"/>
+            <p>6 O,clock A.M. Arived at Doublin depot at about 9, O,clock A.M. This place is burned an act of the Yankees on
+   their raid in this section. Pass New river. Bridge has been burned. The one we cross is only temperary.</p>
+            <p>Centeral depot is just east of New River bridge and it is a great wonder the Yanks did not burn it while they
+   were destroying the bridge &amp; Doublin, as it is a section of some importance &amp; had much rolling stock
+   &amp; mashinery about it.</p>
+            <p>Pass Salem a pretty sharp little town, just to north of the road 12 M. Big lick 1 3/4 O,clock P.M. Blayre &apos;
+   s Hotel (Mountain house) 2 1/2 O,clock.</p>
+            <p>A very</p>
+            <pb n="126" facs="0012_003113_000201_0124.jpg" xml:id="d3e2084"/>
+            <p>hard rain is falling which orose unexpectedly as it is sudden. Dinner station.</p>
+            <p>Thackston &apos; s Switch 3 P.M.</p>
+            <p>Liberty 4 O clock P.M. as well as I can guess. Arived at Lynchburg at about 6 1/2 O,clock having been ditained for
+   want of water. Stop at the Tremont (Depot) house.</p>
+            <p>Lynchburg is certainly on the right hand (or South side of the road) as we travel from Tennessee to Richmond. I
+   was clearly of the impression that it was on the other side just as I have really been mistaken as to other places
+   &amp; their localities recently. It teaches me not to be too posative of any thing.</p>
+            <pb n="127" facs="0012_003113_000201_0125.jpg" xml:id="d3e2096"/>
+            <p>Monday 22nd Augst. 1864.</p>
+            <p>Up early &amp; walk up in town. Very warm. Pay my bill 15$. Tolerably good house. I did not take supper, so my bill
+   is high.</p>
+            <p>Leave Lynchburg at 8, A.M. Concord (Yanks burd the depot). at 9 1/2 or about that time, we run very slow being 1 1/2
+   hours coming from Lynchburg to their place. 13 miles though it up grade all the way from the river &amp; nearly all
+   the way from L. here.</p>
+            <p>Farmville some from L. Arive at 2 Oclock P.M.  Very extensive hospital here &amp; appear to be well arranged. Arived
+   at Farmville about 3 O,Clock, met a dispatch to halt for further orders.</p>
+            <p>Supposed that a raiding party was out</p>
+            <pb n="128" facs="0012_003113_000201_0126.jpg" xml:id="d3e2110"/>
+            <p>below. At 5 another dispatch comes, go on. Col. Cobb lives here. We arive at the place where once stood Burksville
+   or &quot; the juncture &quot;  It is now a ruin having been burned by the Yankees under Hunter.</p>
+            <p>We arived about 6 O,clock, after the Danville train has passed &amp; have to lay over until 4 O,clock A.M. There being
+   no dwelling nor Tavern near we sought &amp; obtained supper &amp; lodging (pretty good) in a &quot; Way Side Hospital &quot;
+   which is located here in what was once the Tavern.</p>
+            <p>Tuesday August 23d. 1864.</p>
+            <p>Left the hospital at 4 A.M. &amp; arived at Richmond at</p>
+            <pb n="129" facs="0012_003113_000201_0127.jpg" xml:id="d3e2122"/>
+            <p>about 9 A.M.  The usual bustle &amp; stur &amp; squalling about the depot.</p>
+            <p>I pass immediately to the spotswood, put on a clean shirt &amp; go down to breakfast. Meet Jas Price, formerly of
+   Lebanon Tenn. at table. Also meet Col Duke in the office.</p>
+            <p>Spopswood is on Main st. next South at Bank st. Call on Capt. Fry a noble fellow who is very popular</p>
+            <p>See also Wm. Mc Corcal. Both of them are in the P.O. Department. Run around with Col. Duke to purchase cloths etc.</p>
+            <p>Go to the ordinance depot. Went &amp; purchase for my self &amp; Maj Webber each</p>
+            <pb n="130" facs="0012_003113_000201_0128.jpg" xml:id="d3e2136"/>
+            <p>one Blankett (Saddle)           $25.00
+   one Hater bridle &amp; bit       40.00
+   one pr. brass spurs               8.00
+   Making in all (each)             146.00
+   paid out in that deptment.</p>
+            <p>Dinner comes on. We have a pretty good dinner though much more style than substance.</p>
+            <p>The aggony in the way of &quot; airs &quot; is piled on to Keep pace with that in price. All a humbug. A ppiece of
+   midling broiled on the coles with a piece of corn bread eaten in camp would constitue a dinner more palatable than all
+   the &quot; A La Mode s &quot; I wearied through with to day.</p>
+            <p>Mailed one letter to my wife, one to father &amp; one to Mrs. Thayer</p>
+            <pb n="131" facs="0012_003113_000201_0129.jpg" xml:id="d3e2148"/>
+            <p>Wrote to Capt. Bennett to Howell and to my wife. Visited the Hospital. Saw John Lapley, Jim Hale Henry dawson &amp;
+   several others of the old 7th.</p>
+            <p>All improving except Henry. Poor fellow he will never be well, having gotton consent of his mind to die, thinking it
+   requires less effort to do that than to live. Wrote to Sam &amp; Howell &amp; my dear wife to night.</p>
+            <p>Wednesday Augst. 24th 1864.</p>
+            <p>Shave, shampoon &amp; hair cut, $6.00  Go round to the Sentinal office &amp; subscribe for the Sentinal for one Month
+   $3 1/2  Send it to Maj Webber at Wythville</p>
+            <pb n="132" facs="0012_003113_000201_0130.jpg" xml:id="d3e2160"/>
+            <p>Travel around the town a good deal with Allen, Fry and others, Spend some money for peaches etc &amp; fifteen dollars
+   ($15) for a very common pair of Suspenders. Sleep in no.73 with Allen.</p>
+            <p>Thursday August 25th 1864.</p>
+            <p>Go with Allen to the hospital &amp; see Lapley &amp; Hale. John D &amp; Jim are doing well. Fry leaves this Morning
+   for the country.</p>
+            <p>Do not much to day but go all the while.</p>
+            <p>Reced. two hundred &amp; thirty three dollars &amp; fifty cents of John Allen for Lt. Bridges which I am</p>
+            <pb n="133" facs="0012_003113_000201_0131.jpg" xml:id="d3e2175"/>
+            <p>to hand to Bridges or to his Brother Dr. Jim or William if I should see them first. The $233.50/100 is in the new
+   issue of Confederate Money &amp; what Capt. Allen got for the ($350.) three hundred &amp; fifty dollars that Lieut.
+   Bridges gave him when he (Allen) left prison for ex change.</p>
+            <p>The money was to be invested in bonds but as Allen could not invest it in that way he thought the best chance was to
+   ex change it for the new issue. particularly as the 100$ bills he had were depreciating at the rate of ten per</p>
+            <pb n="134" facs="0012_003113_000201_0132.jpg" xml:id="d3e2183"/>
+            <p>cent per month.</p>
+            <p>I take it as a matter of accommodation to Bridges &amp; Allen as I will see Bridges befor Allen will. I am of course
+   to pay Bridges in Confederate money though the receipt I gave Allen for it does not specify the fact.</p>
+            <p>Pay five dollars for wasing &amp; give Peter (Srvt who waits on my room) two.</p>
+            <p>Friday Augst. 26th 1864</p>
+            <p>Go to my taylors, find my cloths done. Pay him four hundred &amp; fifteen dollars, $415.00) &amp; take them away.
+   Pleased as well or better than I expected to be.    ($415. Clothes)</p>
+            <p>Purchase four shirts.</p>
+            <pb n="135" facs="0012_003113_000201_0133.jpg" xml:id="d3e2199"/>
+            <p>Two common Callico   25$ each
+   Two common Domestic  40$ each</p>
+            <p>Stanford gets my commission  My Regmt. All right. Date 23d. Decr. 1862.</p>
+            <p>Get an order from I.M.G. for cloth for cloths. Draw for Webber &amp; Myself $<unclear reason="illegible" resp="PW">2</unclear>
+   each $80 making $160. </p>
+            <p>Get two pistols, Scabbords, belts etc. Pistols one hundred &amp; twenty five dollars (125$) each. Scabbords Twelve dollars
+($12.00) each. Belts 3$ each. Cartrage boxes $7.00 each &amp; Carterages <del type="overstrike">3$e</del> six 1.76cts ($6.76/100 for
+   what I got six dozen.</p>
+            <p>I left two yds. Confed. gray cloth for a coat &amp; 2 yds. blue cloth for pants &amp; vest with Dr.</p>
+            <pb n="136" facs="0012_003113_000201_0134.jpg" xml:id="d3e2219"/>
+            <p>Sanderson. Capt. Fry &apos; s room to be kept there until I need them made up. I also left my measure at Mr. Wm. Holt
+   Richerson 14th St. between Main &amp; Franklin.</p>
+            <p>To trim in full &amp; makeing &amp; trimming the suit cost 475$. I also left my measure where I got my present suit,
+   M. Kennedy &apos; s on Franklin opposite the Sentinal office.</p>
+            <p>His is not as good a house but much cheaper than the other. I purchased the cheapest shirts etc. of Hartz, Eighth St.
+   between Franklin &amp; broad.</p>
+            <p>Settle My bill at Hotel Spotswood, corner of Main 9th ($146.00)</p>
+            <pb n="137" facs="0012_003113_000201_0135.jpg" xml:id="d3e2231"/>
+            <p>Saturday August 27th 1864.</p>
+            <p>Leave Richmond after breakfast at 6 O,clock. Changs Cars at Burksville, &amp; reach Lynchburg at 5 P.M. a distance of
+   about 140 or 145.</p>
+            <p>Meet Alston &amp; Kirkpatric there. Both in a great stue about a transfer of our command to another. Forrist &apos; s
+   Stop at the Piedmont house, a rather poor canser.</p>
+            <p>When I visit Lynchburg again if I can I &apos; le stop at the Novel house on Main street. Linchburg is on the North side
+   (right hand going to Richmond) of the rail road. Bill supper &amp; lodging 15$.</p>
+            <p>Sunday August 28th 1864</p>
+            <p>Leave at 5 1/2 O,clock A.M.</p>
+            <pb n="138" facs="0012_003113_000201_0136.jpg" xml:id="d3e2247"/>
+            <p>Take breakfast 7$, at the Mountain house at about 9 1/2 O,clock A.M. Reach Wythville at 4 1/2 O,clock a distance of
+   132 1/2 miles. See Gen. Eckels who succeeds Gen. Morgan in the Command of the department of West Virginia.</p>
+            <p>Dose not strike me a great General. Stop at Col. Boyeds again. It is quite a nice house</p>
+            <p>Monday August 29th 1864.</p>
+            <p>Walk up in town on business. Meet Mr. Mc Farland &amp; borrow Capt. Ward &apos; s horse &amp; ride out to Ft. Chiswell.
+   Spend the day &amp; evening very pleasantly with the family &amp; Capt Kirk </p>
+            <p>Had much talk with Kirk in general.</p>
+            <pb n="139" facs="0012_003113_000201_0137.jpg" xml:id="d3e2261"/>
+            <p>Tuesday August 30th 1864.</p>
+            <p>Rode into town. Get My Saddle whith which I am pretty well pleased. Pay $7 1/2 more on the finishing
+   off of Webbers &amp; mine &amp; gave $13 1/2 to the men employed in the shop making 20$ I have paid.</p>
+            <p>On ariving at the Hotel Col. Boyed came to my room &amp; invited me into the parlor to see the ladies,
+   his daughters, who are very honsome &amp; Misses Johnson from Abingdon. I went down &amp; played the
+   beaux a while in a very awkward way.</p>
+            <p>Eat a long dinner with the ladies, returned to the parlor, had a little music &amp; returned to</p>
+            <pb n="140" facs="0012_003113_000201_0138.jpg" xml:id="d3e2273"/>
+            <p>my room, seated myself on my bed &amp; write these lines </p>
+            <p>Left at 5 O,clock for Abingdon. Met Parson Armstrong on the way. We were glad to meet  He stoped at Marrion
+   Smyth County. Arived at Abingdon at 9 1/2 O,clock Went to Mr, Thomas Findleys  Found Col. Tucker &amp;
+   others there.</p>
+            <p>Wednesday August 31st 1864.</p>
+            <p>Met Cols Duke Neil Morgan &amp; others. &amp; Gen Morgan. Get rations return for 27 days.</p>
+            <p>Loan Sam Kirkpaterick ($50) fifty dollars saw Jim Love who is a little sick with fever</p>
+            <p>Thursday Sept 1st 1864.</p>
+            <p>Morning chilly. Leave in a sack with Mr. Tho.s Findley</p>
+            <pb n="141" facs="0012_003113_000201_0139.jpg" xml:id="d3e2291"/>
+            <p>one jackett 2 pr. pants, 2 pr. drawers 3 pr. cotton socks, blacking &amp; brush. Suspenders and
+   various small articles that I can not carry with me. I will send for them when I need them.</p>
+            <p>Col. Tucker takes a vest worth fifty ($50) dollars  Visit Jim Love. Find him better. He is with
+   four old maids, his cousins the Misses Love.</p>
+            <p>I draw from Q.M. Maj. Gasset twelve hundred &amp; sixty dollars ($1260.00) six months pay, up to
+   30th June 1864. Take tea with Col. &amp; Mrs. Bayers.</p>
+            <p>Friday <del type="overstrike">August</del> Sept. 2nd 1864</p>
+            <p>Maj. Webber arived at Mr. Finley &apos; s  Is very much excited over the difficultties now existing
+   in our</p>
+            <pb n="142" facs="0012_003113_000201_0140.jpg" xml:id="d3e2308"/>
+            <p>command.</p>
+            <p>Meet and are introduced to Mrs. Duke this evening. She is very hansome. Talk a little to Col. Duke on
+   the subject of our troubles.</p>
+            <p>Pay my bill at Mr. Finleys or rather he paid me five dollars after I paid my bill &amp; Webbers that
+   being the sum that my 27 days rations exceeded the two bills. Leave at 9 1/2 O,clock P.M. &amp; arive
+   at 11 at the Lancaster house (which is on the north side the road) in Bristol. Rather poor accommodations
+   there.</p>
+            <p>Saturday Sept 3d. 1864.</p>
+            <p>Webber pays my bill $10.00. Leaves at 9 A.M. for Jonesboro. Pass Carters, Johnson &apos; s &amp; other
+   depots and arived here</p>
+            <pb n="143" facs="0012_003113_000201_0141.jpg" xml:id="d3e2322"/>
+            <p>about 12 O clock M. Called at Mrs. Eachin &apos; s but Gen. Eckels &amp; Staff being there we did not
+   attempt to procure accommodations.</p>
+            <p>Made a failure or two; tried Mr. Capt. Dederick, who is the son-in-law of Gen. Jackson Mudwall and who
+   has a remarkably nice wife &amp; four beautiful little children. Mrs. Dederick after much doubting &amp;
+   fearing she could not accommodate us as gentlemen should be concluded to take Tucker &amp; Myself.</p>
+            <p>We find her &amp; her family, husband included, very pleasant &amp; are under many obligations to them.
+   I wrote to Gen</p>
+            <pb n="144" facs="0012_003113_000201_0142.jpg" xml:id="d3e2333"/>
+            <p>Morgan reporting that we are here. Gen. Eckels &amp; staff left on the train at about 2 P.M.  Rained some.
+   Several Soldiers passing to the front.</p>
+            <p>Sunday Sept. 4th 1864</p>
+            <p>A little rainy  Hear news this morning of a fight at Greenevill (Greenville) and that Gen Morgan was killed,
+   which I at first did not believe but which Alas! proves too true. From the best information I can get the enemy
+   flanked our picketts and having been informed of our position, strength, the Gen Hd Qrs etc before 10 O,clock
+   of the night on which our forces arived there, by one Mrs. Williams and others, rushed</p>
+            <pb n="145" facs="0012_003113_000201_0143.jpg" xml:id="d3e2343"/>
+            <p>into town in force of about 75 men. Surrounded his Hd. Qrs. captured all of his staff except his Q.M. Maj. Gasset,
+   &amp; shot him in the Vinyard as he was attempting to get away.</p>
+            <p>They threw him over a fence as they would have done a dead brute, put him on a horse and paraded up the street in
+   exultation over their prize, the Corps hanging across the hores as a man would carry a dead hog or other animal of
+   the lower class.</p>
+            <p>They showed the most fiendish disposition by their uncivilized conduct. After making a display of and shouting over
+   the dead body as I am informed they</p>
+            <pb n="146" facs="0012_003113_000201_0144.jpg" xml:id="d3e2353"/>
+            <p>returned it to Mrs. Williams &apos; the Motherinlaw of the wretch who informed on him. The old lady Williams I
+   understand is Southern &amp; she has one son who is or has been in our army. Her son, the husband of the woman
+   who carried the news in this case as well as many others, is in the Yankee army.</p>
+            <p>I borrowed a horse from a soldier, a Wm. Hall Co. H, 1st Tenn Cavalry &amp; started to the front in the evening
+   but met the command about five miles from Jones boro. Saw Cols Smith Brazelton, Bradford &amp; all the boys.</p>
+            <p>Slept in Camp for the first time in thirteen months. Cols Morgan &amp; Tucker slept with me. We camped three miles
+   west of Jonesboro on the Leesburg road near a Mr Campbells</p>
+            <pb n="147" facs="0012_003113_000201_0145.jpg" xml:id="d3e2363"/>
+            <p>Monday Sept 5th 1864.</p>
+            <p>Morning threatning rain. Went to Col. Smiths Hd. Qrs., Mr. Mathews, a good Southern Man, 3/4 mile from Jonesboro.
+   He is a truly southern man.</p>
+            <p>I ride into town with Col. Smith &amp; find that Col. (Gen) George B. Criendon is in command. He orders me to take
+   command of the Brigade &amp; escort the remains of Gen. Morgan in to the depot. Soon after we arived at Jonesboro
+   a very hard rain fell.</p>
+            <p>Met Col. Duke with orders from Gen. Eachles to take command of the Brigade of Gen Morgan&apos;s old men. He orders
+   me to take command of 1st and Col. Tucker the 2nd Battalion</p>
+            <p>We commence the organization &amp; disiplin of our <unclear reason="illegible" resp="PW">coinlls</unclear>
+            </p>
+            <pb n="148" facs="0012_003113_000201_0146.jpg" xml:id="d3e2379"/>
+            <p>we find them in a desperate state of disiplin.</p>
+            <p>Tuesday Sept 6th 1864</p>
+            <p>Staid last night with Mr. Mathews. Visit the picketts &amp; one woman who professes to be southern but is
+   suspicioned with reporting to the enemy.</p>
+            <p>Take dinner with Mrs. Eachen in Jonesboro. Move out to a Bluntsville road two miles.</p>
+            <p>Camp in a good campground but we are very much troubled by constant complaints of Women who are not above
+   suspision, about the corn the men are taking.</p>
+            <p>Wednesday Sept 7th 1864.</p>
+            <p>Remain in camp all day hearing the complaints of old men and women about their corn.</p>
+            <pb n="149" facs="0012_003113_000201_0147.jpg" xml:id="d3e2397"/>
+            <p>It is desperate hard that the corn the women have worked with their own hands to make must be taken
+   to feed the Cavalry horses in the Army, but it can not be helped. Their husbands, the most of them
+   are in the Yankee army trying to subjugate us.</p>
+            <p>Thursday Sept 8th 1864.</p>
+            <p>I wrote to my wife on the 5th instant &amp; mailed it at Jonesboro. To day I write to my father &amp;
+   Sister Josie Capt Kirkpaterick &amp; Col. Alston. Mail at Carters Station.</p>
+            <p>Col. Duke leaves for Abingdon &amp; leave me in command of the Brigade. I am vastly troubled by the poor
+   women about their corn</p>
+            <pb n="150" facs="0012_003113_000201_0148.jpg" xml:id="d3e2409"/>
+            <p>They claim that the men are using it all up and some of them are to be pittied indeed.</p>
+            <p>Friday Sept 9th 1864.</p>
+            <p>Meet Capt. I.A. McKinney an old school mate &amp; Mr Harris an old Co, legislator at My
+   Hd. Qrs. Was glad to see them both. Road out with Butler to get a new camp  Have poor luck.</p>
+            <p>Saturday Sept 10th 1864.</p>
+            <p>Usual trouble about corn and other produce used by the men. There never was a much worse state
+   of disiplin in any army I think than in this. I would not command such men if I not hope to
+   improve them, for</p>
+            <pb n="151" facs="0012_003113_000201_0149.jpg" xml:id="d3e2423"/>
+            <p>any consideration.</p>
+            <p>Pay our bill $50. $12 1/2 - each, or a little over 3$ per day. Hunt Jack Door&apos;s &amp;
+   owe me $12 1/2$ each &amp; Col. Duke 6 1/4$.</p>
+            <p>Move to a new camp on the Johnston Station road 5 miles from Jonesboro, at Mr. Lyles&apos; or
+   Mr. Burk &apos; s.</p>
+            <p>Sunday Sept. 11th 1864.</p>
+            <p>Had a sermon from one Mr. Bates of Jonesboro. Took dinner with Mr. Lyles, and a first rate one at that.
+   Col. Duke returns &amp; assumes command of the Brigade.</p>
+            <p>Monday Sept 12th 1864</p>
+            <p>Had Gen. Inspection and dress parade on horse back in the evening.</p>
+            <pb n="152" facs="0012_003113_000201_0150.jpg" xml:id="d3e2441"/>
+            <p>Tuesday 13 Sept. 1864.</p>
+            <p>Morning very much like frost. I rested or rather spent the night most disagreeably. Wrote to my wife
+   yesterday by flag of truce by way of Knoxville.</p>
+            <p>Wednesday Sept. 14th 1864.</p>
+            <p>Meet with Maj Webber and Capt McKinnie this morning yesterday the Inspt. Gen. for the Dept. was here,
+   Gave this information as to transportation.</p>
+            <p>Each 200 horses are entitled to one 4 horse waggon for forage. Every 375 - Men one 4 horse waggon for
+   ordenance. Each Brigade one 4 hrs. waggon. Hd. Qrs., including Staff &amp; line officers one 4 horse
+   waggon. Every 500 men present</p>
+            <pb n="153" facs="0012_003113_000201_0151.jpg" xml:id="d3e2455"/>
+            <p>to one waggon for cooking utensils.</p>
+            <p>Move camp to day to within one mile of Johnsons station. Get pretty good camp. Rains a very hard shower
+   just after dark. I got very wet and remain so all night. Have no tent.</p>
+            <p>Thursday Sept. 15th 1864.</p>
+            <p>I leave camp with Col Tucker for Carters Station to sit as a Court of Inquiry on the Subject of the Surprise
+   of our troops on the morning of the 4th Inst. at Greenville, where &amp; when Gen Morgan was Killed.</p>
+            <p>Maj Chenworth did not appear, nor did tha Adjnt. who was to act as recorder. So we had no meeting of the
+   Court.</p>
+            <pb n="154" facs="0012_003113_000201_0152.jpg" xml:id="d3e2469"/>
+            <p>Col. T. &amp; I got rather sparce lodging &amp; rations at one Mr. Mocks, a Miller by trade, who has a very
+   pretty wife, who seems to be a nice lady.</p>
+            <p>I meet Lt. <unclear reason="illegible" resp="PW">slx</unclear>, Allison of McClung &apos; s battery here, also
+   Gen. Echols who modifies the order under which we are acting &amp; places Col. Carter of East Tenn. 1st Tenn
+   Regnt. on our Court in stead of Maj. C. &amp; appoints another recorder, permitting us to meet at any place in
+   the vicinity of the troops. Whereupon we conclude to meet at Johnsons Station 7 miles west of Carters.</p>
+            <p>Friday 16th Sept. 1864.</p>
+            <p>Move down to Johnstons depot where Col. Carter has already</p>
+            <pb n="155" facs="0012_003113_000201_0153.jpg" xml:id="d3e2485"/>
+            <p>procured quarters for us. Col. T. &amp; Myself Stop at a Mr. Job &apos; s a very nice family though Lincoln to
+   the core &quot; </p>
+            <p>Saturday Sept. 17th 1864</p>
+            <p>Open Court &amp; examine Col Crawford, Capt. Balkman and Col. Guiltner, and adjourned until Monday morning.</p>
+            <p>Sunday Sept 18th 1864.</p>
+            <p>Morning rainy a little. Write to my wife, to Capt. John Allen &amp; to Capt. John D. Fry. Stay in doors near
+   all day.</p>
+            <p>Monday, Sept. 19th 1864.</p>
+            <p>Take the evidence of Col Bradford and Lt Arrance. Consult Cols. Lillard and Rose. Find they know nothing more
+   than Bradford has stated</p>
+            <pb n="156" facs="0012_003113_000201_0154.jpg" xml:id="d3e2503"/>
+            <p>&amp; therefore do not examine them.</p>
+            <p>Tuesday Sept. 20th 1864</p>
+            <p>The breakfast bell ring, I go. Take proof all day, until 9, Oclock at night.</p>
+            <p>The Commands move west.</p>
+            <p>Wednesday Sept. 21st 1864.</p>
+            <p>Arise at 3 O clock A.M. and move to Jonesboro ariving there about day light. Take breakfast at Mrs.
+   Matthews &amp; move on with Gen Vaughn. Commenced to rain at about ten O clock A.M. </p>
+            <p>Dined at Raytown &amp; spent the night at one Mr. Johnsons (Union)</p>
+            <p>Thursday Sept. 22n 1864.</p>
+            <p>Move at 3 A.M. in the dark rain &amp; mud. It is difficult to get the Artilery &amp; Wagons on</p>
+            <pb n="157" facs="0012_003113_000201_0155.jpg" xml:id="d3e2525"/>
+            <p>pass Greenville about day light &amp; Bluespring about 10 A.M. Fire a signal gun there but hear nothing
+   of Gen. Williams.</p>
+            <p>Meet the enemy in small force 1 Battn. of the 13th Tenn &amp; skirmish them driving them back with a
+   loss of 3 slightly wounded on our side &amp; 7 killed &amp; 15 prisoners on their. Their woonded if any
+   all escaped.</p>
+            <p>Spent the night with a very poor old Man &amp; Woman with nothing but stalks of corn for our horses. Paid
+   the old fellow $15 for the very poor supper &amp; lodging we got.</p>
+            <pb n="158" facs="0012_003113_000201_0156.jpg" xml:id="d3e2535"/>
+            <p>Friday Sept. 23d. 1864.</p>
+            <p>Take proof at Mr. Hart <del type="overstrike">wig</del> mans &amp; spend the night there Pay $10 board.</p>
+            <p>Saturday Sept. 24th 1864.</p>
+            <p>Take more proof &amp; fall back towards &amp; into Greenville. Stop at Mr. Vances a nice man &amp; family.</p>
+            <p>Sunday Sept 25th 1864</p>
+            <p>Call out to see Gen Duke. Meet Col Breckenridge &amp; find where the 4th Tenn was &amp; go immediately.
+   Meet Col Anderson Capts McGregger Moore, Barnes, Ab Johnson Jim Vance, Tom Gan  Banks Wilson William
+   Bridges and various other acquaintences who gave me news</p>
+            <pb n="159" facs="0012_003113_000201_0157.jpg" xml:id="d3e2554"/>
+            <p>direct from home they having been in Smith three weeks ago.</p>
+            <p>They brought me tidings that my dear Bettie was well &amp; had heard that I was exchanged. It gave me great
+   Satisfaction to see &amp; talk to the boys &amp; greater still to hear from home.</p>
+            <p>Move from Greenville a little after dark, it being under stood that the enemy are moving on Abingdon &amp;
+   Saltville through Pound gap.</p>
+            <p>Arive at Leesburg at 6 1/2 O,clock &amp; take breakfast &amp; a nap.</p>
+            <pb n="160" facs="0012_003113_000201_0158.jpg" xml:id="d3e2566"/>
+            <p>Pass Jonesboro &amp; get dinner there, and on up to Johnsons Station  Stop at Mr. Jobe&apos;s &amp; spend
+   the night.</p>
+            <p>Tuesday Sept 27th 1864.</p>
+            <p>Travel by Zollecoffer on up to Bristol twenty five miles (25) ariving just before sun down. Meet with Jim Doss
+   &amp; Ed Reece. Stop at Mr Thomases, on the Danville road one mile from town.</p>
+            <p>Wednesday Sept. 28th 1864</p>
+            <p>Take the evidence of Capt Everett, Col. Smith &amp; Maj Gassett. Draw 28 days rations. _____ Meet I.C. Stone.</p>
+            <p>Thursday Sept. 28th 1864</p>
+            <p>Loan Sam Kirkpateric $20.00</p>
+            <p>&quot; Goodloe of Co E. 1st</p>
+            <pb n="161" facs="0012_003113_000201_0159.jpg" xml:id="d3e2586"/>
+            <p>Battn. $20.00 and Col. Tucker $100.00  Tucker now owes me $117.00.</p>
+            <p>Write to my wife by flag of Truce &amp; to Josie at Americus Ga.</p>
+            <p>Friday Sept 30th 1864</p>
+            <p>Hear various report, also hear Artillery at Carters Station.</p>
+            <p>Saturday <del type="overstrike">Sept 31st</del> Oct 1st, 64</p>
+            <p>Hear Artillery again in this morning. It is reported that all of our forces are ordered to fall back.</p>
+            <p>Citizens in a great bustle to get out of town. Settle with Mr. Thomas My rations worth $45</p>
+            <pb n="162" facs="0012_003113_000201_0160.jpg" xml:id="d3e2607"/>
+            <p>His bill is $40 paid me $5.00  I and my horse four days, 28 day rations.</p>
+            <p>Write an opinion this evening for the court which will give Gen Eckals not much satisfaction, but he
+   cant tell whether it is a good one or not.</p>
+            <p>Move out 3 or 4 miles to camp. Spend the night in the rain.</p>
+            <p>Sunday Oct 2n 1864.</p>
+            <p>Move early on to Abingdon find every thing in a bustle moving from the town. Take dinner at my old friend
+   Thos. Finley. No charge</p>
+            <pb n="163" facs="0012_003113_000201_0161.jpg" xml:id="d3e2621"/>
+            <p>Wait for the Command which gets up about 12 n. Move on over a rough road to Saltville. Find it a
+   desperately wet, ugly place.</p>
+            <p>Our forces have been fighting the Feds all day. Killed a great many of the enemy, many of them Negroes.
+   The federals also killed a large No. of them I am informed endeavoring to make them charge our forces.</p>
+            <p>Poor deluded wretches much better would it be for them to remain with their Masters!</p>
+            <p>Camp at Saltville.</p>
+            <pb n="164" facs="0012_003113_000201_0162.jpg" xml:id="d3e2633"/>
+            <p>Monday Oct. 3d. 1864.</p>
+            <p>Move at 7 1/2 O,clock A.M. Find the enemy had retired. Take a near rout through the mountains to flank them.
+   Make a hard march over a very rough road and march, horrid marching until 10 O,clock at night.</p>
+            <p>Horses very much qaded. Saw Gen. Breckenridge this morning.</p>
+            <p>Tuesday Oct 4th 1864</p>
+            <p>Move at 7 O,clock still through the mountains and arive near the front of the enemy at about 9 O,clock</p>
+            <pb n="165" facs="0012_003113_000201_0163.jpg" xml:id="d3e2647"/>
+            <p>on the Clinch river where I am now waiting. Expect to fight them soon.</p>
+            <p>After the enemy passed we moved again through the mountains &amp; like to have intercepted the enemy but
+   failed. If we had gotton in front of them we could have captured Burberage and all of his command, but with
+   disappointment we had to return 9 miles &amp; camp at the place on Clinch river where we spent a few hours
+   this morning.</p>
+            <p>Do not get enough forage, no rations. By good luck and a sudden move I got enough corn to feed my horse</p>
+            <pb n="166" facs="0012_003113_000201_0164.jpg" xml:id="d3e2658"/>
+            <p>
+               <del type="overstrike">Thursday</del> Wedns. Oct 5th 1864.</p>
+            <p>My birth day. Move this morning to a remarkably nice bluegrass lot of old Kendricks in Taswell Co. &amp; feed
+   bountifully &amp; get two nice tender beeves &amp; eat them without bread. Move at 12 n. over the rough road
+   which we traveled yesterday morning out on the main road &amp; camp. Plenty of beef &amp; corn.</p>
+            <p>Thurrsday. Oct. 6th 1864.</p>
+            <p>Move early in the rain and cross Hiders gap, down on the North prong of the Holston &amp; camp with out much
+   forage &amp; not enough beef. Poor con groond.</p>
+            <pb n="167" facs="0012_003113_000201_0165.jpg" xml:id="d3e2672"/>
+            <p>Friday Oct. 7th 1864</p>
+            <p>Moved early over to the Saltville road six miles from Abingdon.</p>
+            <p>Pretty plenty of forage  Plenty of beef &amp; bread spend the day here and about eight o clock at nigh  the
+   coldest wind blew up which pierced every thing &amp; rendered the night hidious.</p>
+            <p>Saturday Oct. 8th 1864,</p>
+            <p>Remained in camp all day. I roved round a good long ride taking Abingdon in my rout. A very disagreeable day.</p>
+            <pb n="168" facs="0012_003113_000201_0166.jpg" xml:id="d3e2686"/>
+            <p>Sunday Oct. 9th 1864</p>
+            <p>Very cold yet. Have orders to move towards Wytheville to day.</p>
+            <p>Loan Lt. Jo Sellers one hundred (100) dollars this morning which added to the 20$ loaned to him the other day
+   when he was sick  Make 120$ and $350. for the more bought ($470.00) four hundred &amp; seventy ($470) he owes
+   me, for which I must take his due bill</p>
+            <p>I also gave Goober $20 this morning which I never hope to get, as he is worthless</p>
+            <p>Loaned Charly Carney ($50) fifty dollars.</p>
+            <pb n="169" facs="0012_003113_000201_0167.jpg" xml:id="d3e2700"/>
+            <p>Camp on the middle fork of the Holston river, beautiful country. Plenty of wood which we need &amp; forage, also
+   in good place. 3 miles of 7 miles foond</p>
+            <p>Monday Oct 10th 1864.</p>
+            <p>Move pretty early. Pass Marion, in Smyth Co. Tolerably nice little town.</p>
+            <p>Camp in a woods with not much corn or hay, though as it is more pleasant weather do pretty well.</p>
+            <p>Tuesday Oct. 11th 1864</p>
+            <p>Move at 9 A.M. and feed one hour in some five miles. Pass Wytheville about 3 P.M. and go into camp three miles
+   therefrom on the</p>
+            <pb n="170" facs="0012_003113_000201_0168.jpg" xml:id="d3e2716"/>
+            <p>Lynchburg road just where the railroad crosses the Pike. Have a very good camp and citizens are hauling in corn to us.</p>
+            <p>Wednesday Oct. 12th 1864.</p>
+            <p>Remain in camp all day Gen. Duke remaining in town having me in Command of and troubled with the brigade. Alson is also
+   absent at Mr. McGavock so that I have to Command the Battn. &amp; the Brigd.</p>
+            <p>They are neither large enough in all consciense to trouble a man, yet I like to see men attending to their own business
+   &amp; not entrusting it to others.</p>
+            <p>I forgot to state that I met Ellis &amp; Dr. Haynie in town</p>
+            <pb n="171" facs="0012_003113_000201_0169.jpg" xml:id="d3e2730"/>
+            <p>(Wythville) yesterday very much to my surprise &amp; delight.</p>
+            <p>Thursday Oct. 13th 1864.</p>
+            <p>Have a thorough inspection to day. Gen George B  Critendon inspects, Gen Breckenridge on the field. Find him quit a nice
+   Social fellow. I am still in comd. of the <unclear reason="illegible" resp="PW">ongd.</unclear> Don &apos; t like it.</p>
+            <p>Friday Oct 14th 1864.</p>
+            <p>Ride in town. Get leave of absence for 24 hours to visit Mr. Simmons to See Ellis &amp; Haynie.</p>
+            <p>Take a good wash and change of clothing at Col Boyds &amp; leave five pieces to wash there. Buy a Knife worth $50.00</p>
+            <pb n="172" facs="0012_003113_000201_0170.jpg" xml:id="d3e2749"/>
+            <p>Saturday Oct. 15th 1864.</p>
+            <p>Staid with Ellis &amp; Haynie all night at Simmermons. Had plenty good eating &amp; a bad time, with drunken soldiers
+   wanting whiskey at all hours of the night.</p>
+            <p>Write to my wife, a note to Fry to Jos. B. <del type="overstrike">Wilson</del> Hale, &amp; to a Mr. Watkins. and am now ready to
+   go to camp but will wait until dinner.</p>
+            <p>It is 11 O,clock A.M. now on ariving at camp I find Alston tight from whiskey drawn by Dr. Hammer in a camp chest
+   &amp; every thing went on badly.</p>
+            <p>Find an order for 100 men from each Battn. to march tomorrow. Had a drill &amp; Mrs. Duke and Mrs. Alx Morgan spectators</p>
+            <pb n="173" facs="0012_003113_000201_0171.jpg" xml:id="d3e2766"/>
+            <p>Sunday Oct 16th 1864.</p>
+            <p>A Scout of 100 men from each Battn. left this morning, one under Maj Webber, The other under Col Morgan  All under Gen Duke.
+   Going to Darblin. Day passed off quietly.</p>
+            <p>I bought a bread tray of Simmermans old Negro at Seven (7) dollars. Carried into camp.</p>
+            <p>Monday Oct. 17th 1854.</p>
+            <p>Furnished Buttler $20.00 to buy an ax, chairs etc.  Also furnished Bob Anderson $30.00 to buy butter eggs milk, brand etc.</p>
+            <p>Ride out to old Man Simmermons this evening with Dr Haynie to See Ellis. Find Ellis Mad. Has a mare he paid $5.00 for &amp;
+   agrees to let me have her at the same</p>
+            <pb n="174" facs="0012_003113_000201_0172.jpg" xml:id="d3e2782"/>
+            <p>if he can get one to suit him better.</p>
+            <p>Tuesday Oct. 18th 1864.</p>
+            <p>Morning cloudy &amp; a fair prospect for rain. No rain. Spend the day in Camp with nothing of note to transpire.</p>
+            <p>Wednesday Oct, 19th 1864.</p>
+            <p>Spend the day in camp. At about 6 P.M. Maj. J. Stoddard Johnston A.A.G. for Gen Breckenridge came to camp informing
+   me that about 50 or 100 deserters had passed near by our camp last night. And that I must take a detail of 60 or 70
+   Men &amp; pursue them. I left about 10 O,clock P.M. &amp; passed over the Mountains on steels path, the same the
+   deserters went. I learned there were 173 of them.</p>
+            <pb n="175" facs="0012_003113_000201_0173.jpg" xml:id="d3e2796"/>
+            <p>I passed Mr. Crocketts, Mr. Smiths then went over two Mountains to Randel Grasens. Heard at all these places from them,
+   All tales tallied as to No, etc.</p>
+            <p>At Mr. Suiters I arived just at day light &amp; got more information as they fed there on this day.</p>
+            <p>Thursday Oct. 20th 1864.</p>
+            <p>Moved on &amp; fed about sun up at Mr. W.W.  and then rushed on. passed by where Prinston stood. It was burned by McCauslin,
+   &amp; then on to &quot; Blue Ston &quot; river at Mr Coffee &apos; s &amp; Mr. Kegley &apos; s.</p>
+            <p>I learned there that the home &amp; Provo Guards&apos; of Mercer &amp; Bland Counties had run into the rear of the
+   deserters &amp; had dispursed</p>
+            <pb n="176" facs="0012_003113_000201_0174.jpg" xml:id="d3e2810"/>
+            <p>them capturing their horses.</p>
+            <p>I camped a few hours at Blue Stone &amp; fead until 11 O,clock P.M. then moved on &amp; found that the deserters had dispersed.
+   Passed Mr. Furgissons on the Main road three miles beyond &quot; Rich Creek &quot;. Came back &amp; went on the &quot; old
+   State road &quot; &amp; found that they were on neither road hence I conclude the have dispersed.</p>
+            <p>Build fires. Very cold. big frost.</p>
+            <p>Friday Oct, 21st 1864.</p>
+            <p>Deploid the Men &amp; Scouted the Mountains to the Top of Flat top. I with the Guide Maxwell went across the different roads
+   &amp; I returned to camp. Going the Mountain from Rich Creek I saw clinging as it were to the</p>
+            <pb n="177" facs="0012_003113_000201_0175.jpg" xml:id="d3e2825"/>
+            <p>side of the Mountain a gray horse with Waggon Saddle &amp; fancy bridle on him; I with much difficulty assended to where he
+   was, disentangled him &amp; let him &quot; slide down &quot; the Mountain.</p>
+            <p>I found him a four year old fine form &amp; color, Nearly starved &amp; famished with the soarest feet I ever saw on a horse.
+   I succeeded in getting him to Blustone &amp; had four old shoes put on him &amp; got him to Camp with a struggle.</p>
+            <p>All the scouts got in at night. I fed off of Mr. Coffee. Rained hard at night.</p>
+            <p>Saturday Oct, 22n 1864.</p>
+            <p>Moved early in a heavy snow. Snowed all day. Had 9</p>
+            <pb n="178" facs="0012_003113_000201_0176.jpg" xml:id="d3e2839"/>
+            <p>prisoners bearfooted &amp; several of my men were bearfooted &amp; all destitute of Cloths. Suffered much. Let the men
+   disperse to get in houses at night, I stay at old Man Davidsons.</p>
+            <p>Sunday Oct. 23d 1864.</p>
+            <p>Move early, cold. After the morning pleasant. Cross three Mountains pass Craborchard. Travel 33 miles to Wythville.</p>
+            <p>Monday Oct 24th 1864.</p>
+            <p>Rept. to Gen B.s Adjt. Gen. Satisfactory. Hear Capt Bennett is at Simmermans; go to see him in the evening. Find
+   the old fellow &quot; same as ever &quot;. Buck is quite sick. Old Capt Wolff is also there. Spend the night pleasantly.</p>
+            <p>Buy a halter of negro <unclear reason="illegible" resp="PW">Cuz linsey</unclear> at 10$</p>
+            <pb n="179" facs="0012_003113_000201_0177.jpg" xml:id="d3e2858"/>
+            <p>Tuesday Oct. 25th 1864</p>
+            <p>Ride into camp, spend the day quietly. Gen Breckenridge calls on me this evening, Spends an hour.</p>
+            <p>Wednesday Oct, 26th 64.</p>
+            <p>Go out to see Artillery practice. Poor shooting. Mrs. Breckenridge &amp; other ladies were present.</p>
+            <p>Take dinner at Col. Jo Kents. Had a pleasant talk with a Miss   Taylor    who lives in Eastern Va. Return to camp.</p>
+            <p>Thursday Oct. 27th 1864.</p>
+            <p>Rainy this morning. Stay all day at camp. Nothing new.</p>
+            <pb n="180" facs="0012_003113_000201_0178.jpg" xml:id="d3e2876"/>
+            <p>Friday Oct. 28th 1864,</p>
+            <p>Spend this day in camp Drill some.</p>
+            <p>Saturday Oct, 29th 1864</p>
+            <p>Do the same that I did yesterday.</p>
+            <p>Sunday Oct 30th 1864</p>
+            <p>Make no change from the work done yesterday. Capt Kirkpatrick visits the camp.</p>
+            <p>Monday Oct. 31st 1864</p>
+            <p>Remain in camp.</p>
+            <p>Tuesday Nov. 1st 1864</p>
+            <p>Spend the day in camp drilling etc etc .</p>
+            <p>Wednesday Nov. 2n 64</p>
+            <p>Ride out to McGavocks. Find Stephen &amp; Aunt <unclear reason="illegible" resp="PW">Cinthy Cloud</unclear> &amp;
+   the rest of</p>
+            <pb n="181" facs="0012_003113_000201_0179.jpg" xml:id="d3e2908"/>
+            <p>of the family well. Lt Andrews is with me. Spend a pleasant Night</p>
+            <p>Thursday Nov 3d 1864.</p>
+            <p>Spend the entire day at Mr. McGavocks ___ Pleasantly</p>
+            <p>Friday Nov. 4th 1864.</p>
+            <p>Return to Camp in the morning. Ride with Gen. Duke &amp; Maj Webber out to Simmermans to see Bennett &amp;
+   others. Spend a pleasant day.</p>
+            <p>The Gen has his heart very much on a re _ organization of his command.</p>
+            <p>Get back to Camp find an order to March at 9 O clock in the morning  Rainy disagreeable day.</p>
+            <pb n="182" facs="0012_003113_000201_0180.jpg" xml:id="d3e2926"/>
+            <p>Saturday Nov 5th 1864</p>
+            <p>The Gen. gets Gen. Breckenridge to let us remain in camp all day to re organize &amp; march at night. We
+   move at 6 O clock P.M. Cold &amp; disagreeable.</p>
+            <p>I never marched a colder or a worse night, unless it was the night of the 6th of Decr. 1862 when we marched
+   to Hartsville. We halted about 2 O clock. Made fires &amp; tried to warm.</p>
+            <p>Sunday Nov, 6th 1864</p>
+            <p>Moved through Abingdon on to Prestons place five miles from Bristol  I come into town &amp; get a shoe put
+   on my horse</p>
+            <pb n="183" facs="0012_003113_000201_0181.jpg" xml:id="d3e2940"/>
+            <p>and go up to Mr. Thos s. Stay all night!</p>
+            <p>Monday Nov. 7th 1864.</p>
+            <p>Morning very rainy.</p>
+            <p>I lost a day in my running up the days past. We marched from where we stopped to warm through Marion to seven
+   Mile ford &amp; fed.</p>
+            <p>It is 33 miles to Wythville. Thence on ten miles to Col Earnest &amp; camped for the night. Still very cold.</p>
+            <p>I stayed at McGavock on Wednesday &amp; not Thursday. Then the record comes up correctly. Stayed at Mr Thomases
+   at Bristol last night</p>
+            <pb n="184" facs="0012_003113_000201_0182.jpg" xml:id="d3e2956"/>
+            <p>Write to my wife this morning &amp; then moved on with Gen Duke the command having past on.</p>
+            <p>Reach Carters Station. Camp, No feed!</p>
+            <p>Tuesday 8th Nov. 1864.</p>
+            <p>Move at 3 O,clock P.M. Feed at Johnson Station (Haynsville) and move on to Jonesboro.</p>
+            <p>Wednesday Nov. 9th 1864.</p>
+            <p>Move out &amp; feed &amp; then on towards Raytown. The advance of the enemy being reported in
+   the mean time. Camp on a ridge, taking every precaution against a surprise.</p>
+            <p>Thursday Nov 10th 1864.</p>
+            <p>Moved six miles below Greenville, to Mr. Bibles &amp; camped.</p>
+            <p>Friday Nov. 11th 1864.</p>
+            <p>Moved on early &amp; our advance</p>
+            <pb n="185" facs="0012_003113_000201_0183.jpg" xml:id="d3e2981"/>
+            <p>met the enemy &amp; skirmished with him back to the Gap. We halted took positions, formed lines etc in the
+   big bottom on lick creek. Several flags of truce passed, Gen Brickenridge comes up. We move on. Engage the
+   enemy, Drive him into the Gap. We fall back. He comes out. We drive him again. Repeat this movement several
+   times before dark. Lay in line all night.</p>
+            <p>Saturday November 12th 1864</p>
+            <p>Arrangements all made for an assault. Move upon the enemy in his very strong position and works. We drive
+   from his first line. This is by far</p>
+            <pb n="186" facs="0012_003113_000201_0184.jpg" xml:id="d3e2991"/>
+            <p>the most destrictive fire, for the time I was ever under.</p>
+            <p>I got wounded in the leg &amp; cut off from my command &amp; got in the rear of the enemy. I thought I had
+   &quot; gone up &quot;. After walking how ever, on a paining leg, in great doubt as to direction, some twelve
+   or forteen miles over awful mountains I reached or hospital &amp; had the ball taken out of my leg. I had
+   not examined my wound. It looked much worse than it felt, though it did not feel well. I remain at the 
+   hosptal all night</p>
+            <p>Sunday Nov 13th 1864</p>
+            <p>Rode up to See Gens B &amp; D. &amp; the boys. Return to Mr ______  The whole command</p>
+            <pb n="187" facs="0012_003113_000201_0185.jpg" xml:id="d3e3003"/>
+            <p>moves at 8 P.M. for the rear. I start to Greenville. It is very cold but clear &amp; bright moonlight  Reach
+   Greenville at 3 O clock A.M.</p>
+            <p>Monday the 14th Nov 1864</p>
+            <p>Found Fracy &amp; others pretty badly wounded. Moved on to Leesburg. Stayed with Mr. Dovall quite a clever man
+   with a remarkably clever &amp; handsome daughter.</p>
+            <p>Tuesday Nov 15th 1864</p>
+            <p>Move on to Mr. Burts, five miles from Jonesboro &amp; halt. My leg grows worse. I stay here Wednesday the 16th
+   and Thursday the 17th</p>
+            <p>Friday the 18th Nov 1864.</p>
+            <p>Loan Parson Bates the son in-law of Mr. Burt my horse</p>
+            <pb n="188" facs="0012_003113_000201_0186.jpg" xml:id="d3e3022"/>
+            <p>to ride to Bristol, to be back tomorrow.</p>
+            <p>Saturday the 19th Nov 1864</p>
+            <p>I forgot to mention that I wrote my wife a letter on the 15th &amp; sent it off immediately. I also
+   wrote to my father on the same day &amp; to capt Fry. Wrote to Col Tucker on the 14th &amp; to my friends
+   with him on the same day. Mailed at Jonesboro</p>
+            <p>Sunday Nov. 20th 1864</p>
+            <p>Rainy all day. All stay at home.</p>
+            <p>Monday Nov 21st 1864.</p>
+            <p>Mr. Bates goes to town. Rainy all day.</p>
+            <p>Tuesday Nov 22n 1864.</p>
+            <p>Very cold, Snow on the</p>
+            <pb n="189" facs="0012_003113_000201_0187.jpg" xml:id="d3e3044"/>
+            <p>ground. Write to my wife, to Howell &amp; to Capt John Allen. My leg is improving. Also write a note to
+   Gen Duke   Wednesday   Nov,       23d   1864
+              Thursday    &quot;     24th  1864
+              Friday      &quot;     25    1864</p>
+            <p>Write to Capt Jo d. Glover &amp; get 1/2 qr. paper  9 stamps &amp; 8 envelopes. Will pay him for them when
+   I see him.</p>
+            <p>Saturday Nov. 26th 1864.</p>
+            <p>Send again to Capt Glover, get some shoes &amp; Nails.</p>
+            <p>Sunday Nov. 27th 1864</p>
+            <p>Mr. Hughes, editor of the Chronical &amp; his lady leave here. Bad morning. Mr. Lilse visits me. He had not
+   known before</p>
+            <pb n="190" facs="0012_003113_000201_0188.jpg" xml:id="d3e3060"/>
+            <p>yesterday evening that I was still here.</p>
+            <p>A party of two ladies and one gentleman came here this evening, after dark. The gentleman Mr. Harris
+   &amp; one of the ladies Miss Cain Married. Mr Bates performed the serimony. They went off rejoicing, I
+   suppose.</p>
+            <p>Monday November 28th 1864</p>
+            <p>My leg is much better this morning. I will walk on it some to day &amp; think I will be able to ride
+   to morrow. If it gets no worse I will try for the Command to morrow.</p>
+            <p>Tuesday Nov. 29th 1864</p>
+            <p>My leg still improvs a little  I road over to Mr. Archer</p>
+            <pb n="191" facs="0012_003113_000201_0189.jpg" xml:id="d3e3076"/>
+            <p>Phillips this morning &amp; got my horse shod. My leg is worse this evening. I must not start yet to
+   the command.</p>
+            <p>Wednesday Nov, 30th 1864.</p>
+            <p>Still I do not think it prudent for me to ride. Mr. Bates moves his property to town to day. I send a
+   letter to Capt Fry, one to my wife dated 29th Inst</p>
+            <p>John Fontain &amp; Clark Lyles come here to day to sell a horse to Alfred, Mr. Burts boy, Miller, Lyles
+   sells the horse, a small by 8 or 9 years old, for $10. in specie with a promise of the negro to give him
+   $100.00 more in Confederate Money.</p>
+            <pb n="192" facs="0012_003113_000201_0190.jpg" xml:id="d3e3088"/>
+            <p>I think Lyles &amp; Fontain are both scamps. The former has no business away from his command. The latter
+   is wounded. Both belong to Mussicks Company. I make Lyles give a recpt for the money &amp; guarantee the
+   title to the horse. If it turns out that he was stolen I &apos; le have Lyles punished to extent of my
+   power &amp; make him refund the money.</p>
+            <p>Thursday Decr. 1st 1864.</p>
+            <p>I ride into town to day (Jonesboro) &amp; do not see that my wound suffered any from it. Saw Joe Glover,
+   Dr. McFarlin, Bill Parrot &amp; others.</p>
+            <p>Friday Decr. 2n 1864.</p>
+            <p>My leg is not quite so well this</p>
+            <pb n="193" facs="0012_003113_000201_0191.jpg" xml:id="d3e3102"/>
+            <p>morning owing doubtless to my ride yesterday. Adjt G.W. Hunt, Capt. Alx Morgan &amp; others pass up to day
+   and Hunt tells me that Gen. Duke is orderedup to Lee County Va. Elvery thing quiet at the front.</p>
+            <p>Saturday Decr. 3d 1864.</p>
+            <p>Capt Earnest &amp; family arived last night. Mr. Bates is going to town to live. Earnests family will live here.</p>
+            <p>I prepare to leave. Offer to pay my bill. The old gentleman Maj Jo Burts declines taking Confederate Money.
+   He says he can do nothing with it, that he will charge one ($1.) dollar per day &amp; I must pay him in
+   something that he can use, at old prices. I have nothing to buy $18 in gold (for</p>
+            <pb n="194" facs="0012_003113_000201_0192.jpg" xml:id="d3e3114"/>
+            <p>thats my bill) being there 18 days, it will cost me just six hundred dollars ($600.00)</p>
+            <p>That is a wounded soldiers bill for 18 days at an original, perse ab inition sesessionists house. He &amp; such
+   men as he have brought on this war and are now tired of it. While I &amp; such men as of my politics staved it off
+   as long as we could &amp; only went into it when the North attempted to coerce the southern states.</p>
+            <p>I was much inclined, in my feelings to raise a rumpus with the old man when he asked me for my due bill, as I had
+   nothing but Confederate to pay him in; but as it was a favor to me to get to stay there I said</p>
+            <pb n="195" facs="0012_003113_000201_0193.jpg" xml:id="d3e3124"/>
+            <p>nothing &amp; gave him my due bill for ($18) eighteen dollars &amp; will pay it in gold</p>
+            <p>I hope, when the war is over. I think it as bad treatment as a Yank would be guilty of yet, I can say nothing as he
+   took me in when I was suffering.</p>
+            <p>Parson Bates I think is a clever christian gentleman. He has a nice family. I leave &amp; travel on by Haysville,
+   Carters Station &amp; Zollicoffer to the widow Jacob Thomases &amp; stayed all night taking dinner &amp; getting
+   horse fed at one Mr. Smiths, free of charge.</p>
+            <p>I travelled <del type="overstrike">$18</del> 18 Miles. It rained very hard during the day. I put up about 3 O,clock P.M.</p>
+            <pb n="196" facs="0012_003113_000201_0194.jpg" xml:id="d3e3139"/>
+            <p>Sunday Decr. 4th 1864.</p>
+            <p>Spent quite a pleasant night. A very well to do family. Have quite a supply of corn &amp; pork. Four young
+   ladies, two of them visitors, enlivened the evening by an abundance of chat about their beaux.</p>
+            <p>The old lady kind &amp; christian as she is could not be induced to take pay for my staying all night so I
+   moved on to Bristol 8 miles &amp; halted. &amp; Mr. J. Wheeler Thomas&apos; where I have often stopped before.</p>
+            <p>Monday Decr. 5th 1864.</p>
+            <p>Road to town. The Dr. examined my wound &amp; said I must be quiet, not move on it &amp; that I would not be
+   able</p>
+            <pb n="197" facs="0012_003113_000201_0195.jpg" xml:id="d3e3153"/>
+            <p>to join my command in some time. I am disheartened to some extent about it.</p>
+            <p>Mr. Thomas leave for Kingsport &amp; requests that I remain until he returns.</p>
+            <p>Tuesday Decr. 6th 1864.</p>
+            <p>Spend the entire day in the house. My horse &amp; wound I think, are doing pretty well. I could rest contented
+   were it not for the enormous bills I have to pay. Though I must be contented as I can not get away. Rainy to day.</p>
+            <p>Wednesday Decr. 7th 1864.</p>
+            <p>A bright clear morning. I forgot to say I wrote to Capt Bennett &amp; others</p>
+            <pb n="198" facs="0012_003113_000201_0196.jpg" xml:id="d3e3169"/>
+            <p>at Mc <unclear reason="illegible" resp="PW">Neaslawds</unclear> on Monday asking them to address me at this place
+   immediately</p>
+            <p>Recd. an answer from the Capt to day. He, Ellis &amp; others are exchanging</p>
+            <p>Thursday Decr. 8th 1864.</p>
+            <p>Very cold morning. My leg looks better this morning. Have the Dr. to examine it.</p>
+            <p>Friday Decr. 9th 1864</p>
+            <p>Truly cold. Stay in doors all day. Leg worse  Mr Thomases.</p>
+            <p>Saturday Decr. 10th 1864.</p>
+            <p>A heavy sleet &amp; very cold.</p>
+            <p>Sunday Decr. 11th 1864.</p>
+            <p>Capt Bennett &amp; Dr. Haynie arives at Bristol yesterday.</p>
+            <p>Monday Decr. 12th 1864</p>
+            <p>Went to town &amp; Saw Johney Malone. He is mending finely</p>
+            <pb n="199" facs="0012_003113_000201_0197.jpg" xml:id="d3e3202"/>
+            <p>Tuesday Decr. 13th 1864</p>
+            <p>Cold morning. Lts Berry  Tharp, Capt Wolff &amp; Sgt. Walter Forbs come out yesterday. Having a good time.
+   Gen. Duke arives at about 12 O,clock, M. Maj. Llewellyn &amp; Jos. Love arives much excited and report our
+   command routed at Rogersville &amp; Kingsport &amp; the enemy pursuing.</p>
+            <p>I mounted my horse &amp; with Dr. Haynie, Capt. Bennett Dr. Gelaspie &amp; Billie Wash road out the Abingdon
+   road being perfectly satisfied that the enemy would be in Bristol before day. No one seemed to think that
+   he would occupy the place</p>
+            <p>The consequence was that many were captured</p>
+            <pb n="200" facs="0012_003113_000201_0198.jpg" xml:id="d3e3214"/>
+            <p>We road six miles out to Mr. Preston&apos;s &amp; staid all night. I left two fine shirts (white) and one
+   dozen or more collars &amp; a towell with Mrs. Thomas.</p>
+            <p>Wednesday Decr. 14th 1864.</p>
+            <p>We moved on to Abingdon this morning having learned that the enemy were certainly in Bristol. We met the
+   command two miles from town where the reedy creek road intersects this</p>
+            <p>I call at Mr. Thos. Findleys &amp; see the kind ladies, then move on with Ellis  Bennett &amp; Haynie to
+   Mrs. Hayters Six miles from Abingdon towards the Salt works.</p>
+            <p>Thursday Decr. 15th 1864.</p>
+            <p>A soldier arouses us about 4 A.M. with the report of the approach of the enemy. We leave</p>
+            <pb n="201" facs="0012_003113_000201_0199.jpg" xml:id="d3e3230"/>
+            <p>Catch up with the wagons &amp; wait for the command. Move into Saltville. Gen went on a scout with all of
+   his availabe command. I remained &amp; assisted col Napier to put the few men left in position on the hills.</p>
+            <p>Friday Decr. 16th 1864</p>
+            <p>Gen. Duke returns in the evening &amp; we move all the command up to the meadow <unclear reason="illegible" resp="PW">mejan Ponmers</unclear>
+   &amp; camp.</p>
+            <p>To night all the cavalry leave the enemy having passed the seven mile foard towards Marion. Gen Breckenridge
+   leaves. Col Preston is in command</p>
+            <p>Saturday Decr. 17th 1864</p>
+            <p>I ride up to the Pickett base</p>
+            <pb n="202" facs="0012_003113_000201_0200.jpg" xml:id="d3e3249"/>
+            <p>The enemy reported (Most reliably) advancing from Abingdon. Blustering all day, putting Artillery in position
+   etc etc.</p>
+            <p>Sunday Decr. 18th 1864.</p>
+            <p>Enemy reported advancing down Rich Valley, by broad ford etc. Had to change pickett stand &amp; position of
+   Artillery  Rained very hard all day. I remained on my horse all the day, suffering from my wound</p>
+            <p>Fals alarm.</p>
+            <p>Monday Decr. 19th 1864</p>
+            <p>Quiet to day until about night when it is reported that a force of five hundred of the passed Glade Springs
+   towards Abingdon. Upon further</p>
+            <pb n="203" facs="0012_003113_000201_0201.jpg" xml:id="d3e3265"/>
+            <p>investigation we find that a large force of the enemy encamped &amp; Mr. Sander&apos;s four miles from
+   7 mile foard to night. He moved at day light towards Glade Springs.</p>
+            <p>No one but Gen. Jackson thought he would attack the Salt works. The Gen. thought he would come through
+   McCalls Gap &amp; make his attack. Gen. J. is quite a sensible man in Military movements.</p>
+            <p>Tuesday Decr. 20th 1864</p>
+            <p>News of the approach of the enemy through McCalls gap soon reached us. Preperations were made to meet him.
+   Three pieces of Artillery</p>
+            <pb n="204" facs="0012_003113_000201_0202.jpg" xml:id="d3e3277"/>
+            <p>&amp; about three hundred reserves were all the force to defend the place. I assisted Col. Preston all I
+   could, Suffering all the time with my wound. So soon as the enemy appeared I was satisfied he would take
+   the place &amp; ordered Capt Bennett to take the Taswell road with the wagons.</p>
+            <p>The assault was made about one hour by sun. Ft. Brickenridge was taken just after dark. The troops were
+   there upon withdrawn under cover of darkness.</p>
+            <p>Lts Didlake &amp; Golbert with some twenty <unclear reason="illegible" resp="PW">ran</unclear> men were
+   captured I think. I moved out with Col P.</p>
+            <p>It rained and</p>
+            <pb n="205" facs="0012_003113_000201_0203.jpg" xml:id="d3e3292"/>
+            <p>sleeted all night nearly. And the mud &amp; high waters were much in our way.</p>
+            <p>Wednesday Decr. 21st 1864</p>
+            <p>About day ligh I left the Command &amp; went down Beaver Creek in search of Capt. Bennett and the wagons.
+   I run a narrow risk of being captured but could not rest contented to leave Bennett, Ellis &amp; others
+   surrounded by Mountains &amp; high water to be captured trying to save a few wagons &amp; old horses.</p>
+            <p>Very much to my satisfaction I found on ariving at the river that the wagons had crossed last night. I
+   cross at broad foard, Very deep Cross Laurel fork.</p>
+            <pb n="206" facs="0012_003113_000201_0204.jpg" xml:id="d3e3304"/>
+            <p>Find several wagon &amp; teams left here. Could not cross. One of our teams (the little forge) was drowned
+   here. I pay a man five dollars to show me the foard.</p>
+            <p>Come to Mr. Thompson Daughterys. The creek all around on three sides, the Mountain on the other, Can not,
+   possibly get out, Stay all night. Poor, rough food but kind people.</p>
+            <p>Thursday Decr. 22n 1864</p>
+            <p>Crossed early. Very deep. Cross Flat top &amp; Clinch Mountains. Very cold.</p>
+            <p>Stop at two O Clock near Liberty hill at Mrs. Higenbothems. I most comfortable place with plenty of every
+   thing.</p>
+            <pb n="207" facs="0012_003113_000201_0205.jpg" xml:id="d3e3318"/>
+            <p>Stay all nigh. Catch up in my lost Sleep &amp; eating.</p>
+            <p>Friday Decr. 23d 1864.</p>
+            <p>Moderated a little. Pass Liberty Hill on to Taswell C.H. or Jeffersonville.</p>
+            <p>Overtake the train &amp; Capts B &amp; E.  Stay all night with Capt Hanman of the 10th Ky. Recd. &amp; order
+   to move the wagons to Wythville.</p>
+            <p>Saturday Decr. 24th 1864</p>
+            <p>Rec information that the enemy had Left Saltville. Move the wagons to Mrs. Whiltons  camp there to feed.</p>
+            <p>Put up at Mrs Georges&apos; quite a nice place. Capt B &amp; E, Jos Love &amp; Lt</p>
+            <pb n="208" facs="0012_003113_000201_0206.jpg" xml:id="d3e3336"/>
+            <p>Holt are with me.</p>
+            <p>Sunday Decr. 25th 1864</p>
+            <p>Christmas day. Warmer than yesterday, though Cold yet.</p>
+            <p>I will mention right here that Mr. Stuart of Saltville is a noble fellow a man of fine judgement
+   on all subjects with Princly liverality. He has quite a nice family. I can not say so much for Mr.
+   Palmer as I know not so much about him.</p>
+            <p>Munday Decr. 26th 1864</p>
+            <p>I remained in doors pretty much all day. The wagons have a fine camping ground plenty of wood, rations
+   &amp; forage.</p>
+            <p>Capt Bennett go to town. We hear a rumer of Hoods disaster. Don &apos; t fully credit it</p>
+            <pb n="209" facs="0012_003113_000201_0207.jpg" xml:id="d3e3354"/>
+            <p>Tuesday Decr. 27th 1864.</p>
+            <p>Remain quiet near all day. Our boarding house, Mrs. George &apos; s, is a first rate one.</p>
+            <p>Hear that the Yanks are returning on this road. I do not believe it.</p>
+            <p>Wednesday Decr. 28th ,64</p>
+            <p>Dr. Kay arives, Bring us more news than we have had. Mr. Ogg of Tuckers Battn. arives Saying that Col.
+   Tucker says the wagons must come to seven miles foard  Does not think Tucker will remain there long.</p>
+            <p>Evening very bad, Snowing. Order to march at Sun up in the morning. I let Ogg the courier have $20.00</p>
+            <pb n="210" facs="0012_003113_000201_0208.jpg" xml:id="d3e3371"/>
+            <p>Thursday Decr. 29th 1864.</p>
+            <p>Morning very cold. Snow on the ground. In view of the bad weather, the uncertainty of finding Tucker at
+   7 miles foard, the probability of Gen. Duke sending an order for us to move to some other point we defer
+   standing til morning.</p>
+            <p>Road to town; found it very cold. Confirmation of Hoods disaster.</p>
+            <p>Friday Decr. 30th 1864:</p>
+            <p>Morning cold. Loaned Penson of Callaways Company $20 to buy brandy. He has measals. Disagreeable day.</p>
+            <p>Saturday Decr. 31st 1864.</p>
+            <p>Morning very cold and</p>
+            <pb n="211" facs="0012_003113_000201_0209.jpg" xml:id="d3e3389"/>
+            <p>deep snow on the ground. Still Snowing. Wagons move out. Roads desperate.</p>
+            <p>Hard pulling for the mules &amp; bad moving for horses under horse back. Moved to Liberty Hill &amp; past.
+   Camped 2 miles from the place at Mr. Youngs. I staid at Mrs. Moses M. Higginbothems. Clever lady. Desperate
+   day.</p>
+            <p>Sunday Jany. 1st 1865:</p>
+            <p>Morning desperately cold. Conclude not to move to day but to send to Gen Duke for directions. Sent C.A.
+   McIntire with dispatch.</p>
+            <p>Spent the day in the house</p>
+            <pb n="212" facs="0012_003113_000201_0210.jpg" xml:id="d3e3403"/>
+            <p>Monday Jany 2n 1864.</p>
+            <p>Remained in doors all day. Ellis &amp; Bennett were getting up rations &amp; forage. Snow six or
+   eight inches deep.</p>
+            <p>Tuesday Jany 3d 1864.</p>
+            <p>Remained in doors. See that Mr. Higginbotham is getting tired of us. Resolve to leave in the morning.
+   McIntire arives about dark with dispatch from Gen. Duke ordering us to move to Lutherin Church some
+   ten miles from seven miles foard.</p>
+            <p>Settle with Mrs. Higginbotham. Pay her for fifteen dozen oats and Ellis takes eighty eight pounds
+   salted pork deducting our board</p>
+            <pb n="213" facs="0012_003113_000201_0211.jpg" xml:id="d3e3417"/>
+            <p>She is very industrious and saving as a farmers wife ought to be.</p>
+            <p>Wednesday Jany 4th 1865</p>
+            <p>Morning very cold but presents some prospects of clearing off.</p>
+            <p>Moved from Mrs. Higinbothems &amp; had rather a cold though moderately pleasant ride all day &amp; stayed
+   all night at George Scotts 3 miles from Saltville.</p>
+            <p>Drove 18 miles this day crossing Clinch and Flat Top Mountains Laurel Fort twice and North fork of Holston
+   three times. one of the times at broad foard by Mrs Pearsans.</p>
+            <pb n="214" facs="0012_003113_000201_0212.jpg" xml:id="d3e3431"/>
+            <p>Thursday Jany 5th 1865.</p>
+            <p>Moved from Mr. Scotts early &amp; passed over Chesnut Ridge &amp; Walkers Mountain to the Abingdon &amp; Marion
+   road on to camps in Sinklers bottom to Lutherin Church. Bad country. No forage.</p>
+            <p>Friday Jany 6th 1865</p>
+            <p>Stayed all day at Mr. Edmonsons near Gen D &apos; s Hd. qrs.</p>
+            <p>Drew up Bennett &amp; Ellis &apos; application for appointment to the office of A.Q.M. &amp; A.C.S.  Approved them
+   and went to bed - with the hope of going to Richmond tomorrow.</p>
+            <p>Saturday Jany 7th 1865.</p>
+            <p>Snowing this morning, Cold. A fellow named Sanders says</p>
+            <pb n="215" facs="0012_003113_000201_0213.jpg" xml:id="d3e3449"/>
+            <p>the Richmond house is the best one in the City on the corner of Ross &amp; Govenor Sts.</p>
+            <p>Left Mr. Edmonsons about 11 O clock A.M. having written &amp; approved and had Gen Duke to approve Capts.
+   Bennetts &amp; Ellis &apos; Applications for appointment to A.Q.M. and A.C.S.. </p>
+            <p>Had a cold disagreeable ride to Mr. Acres  Six miles from Marion on The Wythville road.</p>
+            <p>I this morning became vexed at a man in Company &quot; A &quot; 1st Battn. for Straggling by the house where
+   I was and for not giving me satisfaction as to what he wanted and I used language pretty rough towards him &amp;
+   drove him off without letting him in the house</p>
+            <pb n="216" facs="0012_003113_000201_0214.jpg" xml:id="d3e3461"/>
+            <p>I afterwords, learned he wanted to see Mr Edmonson to get him to keep his broken down horse. I deeply regreted
+   my course towards the fellow though he had no business away from the Column without an explanation of his absence.</p>
+            <p>With Capt. Wolff &amp; Lt. Conn at Mr. Acres, Gen Duke gave me an order to go to Richmond, Subject to Gen Breckenridges
+   approval.</p>
+            <p>Sunday Jany 8th 1865.</p>
+            <p>Morning cold Very disagreeable riding. Ice coated the road.</p>
+            <p>Acres did not charge me he said I gave him ten ($10) dollars which he freely took.</p>
+            <p>Reached Wythville twenty one (21) miles by three O clock. My horse road better to day than I ever had him before</p>
+            <pb n="217" facs="0012_003113_000201_0215.jpg" xml:id="d3e3477"/>
+            <p>Called at Gen. B. Hd. Qrs. Maj. J. Sloddadd Johnston A.A.G. was glad to see me. Approved my order to go to Richmond
+   for fifteen (15) day very willingly &amp; invited me to dine with him tomorrow  Capt. Sanford was also glad to See me
+   &amp; Said Col Preston acknowledged valuable assistance recieved from me &amp; Complimented me for acts done at Saltville.
+   Road out to Simmermans to stay all night.</p>
+            <p>Munday Jany 9th 1865</p>
+            <p>Morning much more moderate</p>
+            <p>Road in to town to day. Got Capt. Bennetts papers fixed up to my liking. Wish I had Ellis &apos; as far on the way. Capt. Shelby</p>
+            <pb n="218" facs="0012_003113_000201_0216.jpg" xml:id="d3e3489"/>
+            <p>A.C.S. is in Richmond &amp; will not be back for several days. Ellis &apos; application can not go on til he comes &amp; acts
+   on it.</p>
+            <p>I take dinner with Maj Johnston &amp; Capt. Sanford to day. Maj Johnston gave me quite a complimentary letter of introduction to
+   Col. Preston  Johnston A.D.C. to the President  Commenced to rain about the time I returned to Simmermans.</p>
+            <p>Simmermans Tuesd. Jany 10th 1865</p>
+            <p>Raining &amp; continues til 12 m. I give Negro five (5) dollars to attend to my horse til I return</p>
+            <p>Road down to Mr Randel McGavocks. staid all night</p>
+            <pb n="219" facs="0012_003113_000201_0217.jpg" xml:id="d3e3503"/>
+            <p>Maj Clois &amp; brother Mr. McNut &amp; family were there. The train failed to come up, there having been so much rain.</p>
+            <p>Wednesday Jany 11th 1865</p>
+            <p>Walked back to Simmermans. Spent the day.</p>
+            <p>Thursday Jany 12th</p>
+            <p>Road in to town. Saw Lt. Piper, Jos. Stott, et als. Very cold. Also saw Lt. Gathnight who gave me a power of Atton. &amp;
+forty (40) dollars to get him a pair of spurs  Went to Mr <unclear reason="illegible" resp="PW">Racfhol</unclear> McGavocks.
+   Staid all night</p>
+            <p>Friday Jany 13th 1865</p>
+            <p>Run slowly to Lynchburg</p>
+            <pb n="220" facs="0012_003113_000201_0218.jpg" xml:id="d3e3524"/>
+            <p>Stoped at the Piedmont house. Won &apos; t do so any more.</p>
+            <p>Saturday Jany. 14th 1865</p>
+            <p>Moved at 7 A.M. for Richmond on the South Side road. Two coaches (near) run off the track in nine miles of Farmville
+   Delaid but little while as we left the coaches. Waited at Burksville for Danville train. Arived at Richmond at 9 P.M.
+   Stopped at the Spotswood.</p>
+            <p>Sunday Jany. 15th 1865</p>
+            <p>Visited Fry, Sanderson and McCorcal. Spent the day with them. Also met Dr. Meneice.
+   Gen Breckenridge arives.</p>
+            <p>Monday Jany 16th 1865</p>
+            <p>Spent the day in trying</p>
+            <pb n="221" facs="0012_003113_000201_0219.jpg" xml:id="d3e3543"/>
+            <p>to have my business aranged in the I.M. C.S. department. Make slow progress  Officers are so careless &amp; indifferent.
+   If our cause does fail, which It looks now like it will the Government has itself to blame for it.</p>
+            <p>Went to the Ordinance office &amp; purchased several articles   4 pr. Spur &amp; Straps $8 each. one brush $2.50  Curry
+   comb $4.00, one <unclear reason="illegible" resp="PW">Bumnah</unclear> $25</p>
+            <p>Tuesday Jany 17th 1865</p>
+            <p>Fort fisher fell last Sunday 15th  Moved down to Capt. Fry &apos; s. Furnished $20 for rations. Got Ellis application
+   up as far as the Secty</p>
+            <pb n="222" facs="0012_003113_000201_0220.jpg" xml:id="d3e3558"/>
+            <p>of War. Can see it no further. For I will never see or hear of it again. Capt. Bennetts is lost. Make out another one by
+   directions of the I.M. Gen.</p>
+            <p>Wednesday Jany 18th 1865.</p>
+            <p>Handed in Capt Bennetts application. I.M.G. said he would at but did not.  Saw Maj. Henry who promises to attend to the
+   confirmation of the appointments when they reach the Senate.</p>
+            <p>Gave <unclear reason="illegible" resp="PW">Priderson</unclear> $20 for Marketing &amp; $10 for himself. Had headache.</p>
+            <p>Thursday Jany 19th 1865.</p>
+            <p>Attended to Capt. Bennetts application. Was successful. Left a note for the Military Committee with Maj Henry.</p>
+            <pb n="223" facs="0012_003113_000201_0221.jpg" xml:id="d3e3577"/>
+            <p>Bought sword belt $20 for Allis Hunt. Curry comb &amp; brush $6.50 for myself &amp; bridle &amp; bit $50. and one Shirt
+   Collar $10 for myself. Gave Anderson 20$ Mess fund. Called on Miss Fannie Claiborn  Bransford niece.</p>
+            <p>Made Col Munfords acquaintance. Got Passport &amp; transportation and went on with Fry home</p>
+            <p>Friday Jany 20th 1865</p>
+            <p>Went to the Depot early  very cold. Crowded into a train with many Soldiers. No fire. Stood up to Burksville</p>
+            <pb n="224" facs="0012_003113_000201_0222.jpg" xml:id="d3e3589"/>
+            <p>fifty four (54) miles. Changed cars. Got in the ladies coach. Very comfortable. Arived at Lynchburg at 7 P.M. Stop at
+   the Norval house  Better than the Piedmont.</p>
+            <p>Buy $3 dollars worth Smoking &amp; $5 worth Chewing tobacco. One pipe for Jim Stott, $12.</p>
+            <p>Saturday Jany 21st 1865.</p>
+            <p>Up early. Went to the Depot. Train so crowded I could not get on. Return to the Hrovel House.</p>
+            <p>Rains &amp; hales &amp; sleets, an awful day.</p>
+            <pb n="225" facs="0012_003113_000201_0223.jpg" xml:id="d3e3603"/>
+            <p>Write to Josie &amp; Bob Bransford. Also to Gen Hood for Capt Kirk. Purchase $3 worth Envelopes &amp;
+   $2     Stamps.</p>
+            <p>Sunday Jany 22nd 1865.</p>
+            <p>Failed to get off on the cars again. Spend the day in doors.</p>
+            <p>Monday Jany 23d 1865.</p>
+            <p>Get off this morning by a press. Take Mrs W.J. Kayton a poor soldiers wife on with me. She is boarding at
+   Mr. Daniel C. Yate &apos; s near Salem. A very intelligent nice lady native of New York.</p>
+            <p>Arive at Simmerman &apos; s at dark. Find Ellis</p>
+            <pb n="226" facs="0012_003113_000201_0224.jpg" xml:id="d3e3619"/>
+            <p>there. My bill at Lynchburg is one hundred and thirty five (135) dollars.</p>
+            <p>Tuesday Jany 24th 1865.</p>
+            <p>Go to town. Get my time extended to the 29th Jany, 65. Ride out to McGavocks.</p>
+            <p>Wednesday Jany 25th 1865.</p>
+            <p>Spend the day (very cold one) in doors. Find Mrs Alston a very nice lady, He Children Bobbie W &amp; his
+   sister very spritely children.</p>
+            <p>Thursday Jany 26th 1865.</p>
+            <p>Remain in doors all day very cold.</p>
+            <p>Friday Jany 27th 1865</p>
+            <p>Still miserably cold. Ride over to Simmermans in the evening. Suffer much</p>
+            <pb n="227" facs="0012_003113_000201_0225.jpg" xml:id="d3e3641"/>
+            <p>Leave Simmermans. Go into town  Move on towards Marion. Stay at Dr. Straws, all night,</p>
+            <p>Sunday Jany 29th 1865</p>
+            <p>Morning very cold. Bill $25. Travel on facing the wind to Mr Acres. Aim to cross the river on the ice.
+   Break through &amp; get wet. Stay at Acres, five (5) miles from Marion all night.</p>
+            <p>Very comfortably. Moderates some this evening.</p>
+            <p>Monday Jany 30th 1865.</p>
+            <p>Bill $20. Morning very cold but clear.</p>
+            <p>Travel on &amp; stop for the night at Capt. Batey &apos; s eleven (11) miles from Abingdon. Bill nothing.</p>
+            <pb n="228" facs="0012_003113_000201_0226.jpg" xml:id="d3e3659"/>
+            <p>Meet Capt, Bob Logan and Campbell there.</p>
+            <p>Tuesday Jany 31st 1865.</p>
+            <p>Travel on to Abingdon. Find that my friends had to destroy my cloths left at that place to keep them from
+   falling into the hands of the enemy, on the raid. Ride out to Camp two (2) miles. Find the men pretty Comfortable.</p>
+            <p>Wednesday Feby 1st 1865.</p>
+            <p>Commence preparations for building me a house.</p>
+            <p>Thursday Feby 2nd 1865</p>
+            <p>Continue our works with some success.</p>
+            <p>Friday Feby 3d 1865</p>
+            <p>Prosper finely with our house</p>
+            <pb n="229" facs="0012_003113_000201_0227.jpg" xml:id="d3e3681"/>
+            <p>Saturday Feby 4th 1865</p>
+            <p>Get only fine with the house.</p>
+            <p>Sunday Feby 5th 1865.</p>
+            <p>Stay in doors all day as we got in our house last evening. Well pleased with our house. The roof is not completed yet.</p>
+            <p>Monday Feby 6th 1865.</p>
+            <p>Finish our house and are quite comfortably situated. In speaking of our house. It is fourteen (14) feet long. Twelve (12)
+   feet wide and Eight (8) feet high on one end &amp; 5 1/2 and a half on the other side  Covered the long way way with long
+   plank.</p>
+            <p>Tuesday Feby. 7th 1865.</p>
+            <p>Get wood, Cook etc  Dr. Haynie being sick.</p>
+            <pb n="230" facs="0012_003113_000201_0228.jpg" xml:id="d3e3701"/>
+            <p>Wednesday Feby 8th 1865.</p>
+            <p>Heavy snow fell last night &amp; yesterday. Quite a snow on the ground. Wrote to my wife on yesterday &amp;
+   to my father &amp; mother to day to be sent by flag of truce to Ky.</p>
+            <p>Thursday     Febry    9th, 65</p>
+            <p>Friday       &quot;  10th, &quot;</p>
+            <p>Saturday     &quot;  11th  &quot;</p>
+            <p>Sunday       &quot;  12th  &quot;</p>
+            <p>Monday       &quot;  13th  &quot;</p>
+            <p>Tuesday      &quot;  14th  &quot;</p>
+            <p>All spent in camp with but little to do and doing little. On this evening however Capts. Bennett, Cantrell,
+   Davis &amp; Myself, Walt Glover &amp; Mr Cantrell (Capt &apos; s father) all road out five or six miles to
+   Jack Porters Wedding.</p>
+            <pb n="231" facs="0012_003113_000201_0229.jpg" xml:id="d3e3723"/>
+            <p>He marries a Miss Warren at on Mr. Griggs house. There was quite a crowd there, The men mostly soldiers; The
+   ladies all fine large bucksome Country lassies who either Kissed or would be Kissed with equal willing ness.</p>
+            <p>I fact I never saw women so wholly engroced in the old fashioned play s as they were; the leading feature in
+   which is Kissing  Road back at ten (10) O clock P.M.</p>
+            <p>Wednesday   Feby 15th   1865.</p>
+            <p>Thursday    Feby 16     1865.</p>
+            <p>Friday      Feby 17     1865.</p>
+            <p>Saturday    Feby 18     1865.</p>
+            <p>All spent in camp. On Last night about 10 O clock</p>
+            <pb n="232" facs="0012_003113_000201_0230.jpg" xml:id="d3e3742"/>
+            <p>we recd. orders to be ready to march at an hours notice; to have two days rations cooked etc etc. I have not been
+   able to learn the cause of the order.  No order to move.</p>
+            <p>March 10th 1865</p>
+            <p>From this date up to April 2nd 1865. Nothing of interest occurs  We receive orders to move. Before this time Gen.
+   Early comes up to Abingdon. Has a review of our Command, Gen. Duke was not out for reasons satisfactory to him perhaps,
+   but not to me.</p>
+            <p>I took command &amp; My evil nature predominating I permitted it to prompt me to make a poor display. We, all in all,
+   had a pleasant two &amp; a half (2 1/2) Months in Camp Near Abingdon Va.</p>
+            <pb n="233" facs="0012_003113_000201_0231.jpg" xml:id="d3e3754"/>
+            <p>April 3d 1865</p>
+            <p>We move out of camp about eleven O clock P.M. Take the train much crowded about 1 A.M. on the</p>
+            <p>April 4 1865</p>
+            <p>Arive at Marion Va  about 7 A.M.  Walk from there to near old Mt. Airy. Camp, cook &amp; rest til one hour by sun.</p>
+            <p>I have very very sick to day all day, the effects of too much Morpia taken last night for Cholick. Ride private Mc Carters
+   horse. Stop at Jake Castles. Sleep &amp; rest, get a glass of wine &amp; feel much better.</p>
+            <p>Move on from Mt. Airy to Reedy creek bridge. It being destroyed by the enemy</p>
+            <pb n="234" facs="0012_003113_000201_0232.jpg" xml:id="d3e3770"/>
+            <p>we march six (6) miles around by the turnpike bridge &amp; reach Camp close to Wythville just before day. Rest &amp; sleep
+   until sunrise on</p>
+            <p>April 5th 1865</p>
+            <p>Move through town &amp; camp one mile off. Hear various rumers, one of which is Richmond &amp; Petersburg are in the hands
+   of the enemy. Stall all day &amp; rest &amp; sleep until</p>
+            <p>April 6th 1865.</p>
+            <p>Spend the morning very idly.</p>
+            <pb/>
+            <pb n="236" facs="0012_003113_000201_0234.jpg" xml:id="d3e3790"/>
+            <p>[Evidence indicates this is William W. Ward &apos; s diary]</p>
+            <p>see: Official Records of the War of the Rebellion.</p>
+            <p>                                JD   2/7/83</p>
+            <pb/>
+            <pb n="238" facs="0012_003113_000201_0236.jpg" xml:id="d3e3806"/>
+            <p>Expenses to Richmond and back on business for Capts. Bennett &amp; Ellis   386.00</p>
+            <p>This is exclusive of my Tavern bill at Simmermans</p>
+            <pb n="239" facs="0012_003113_000201_0237.jpg" xml:id="d3e3814"/>
+            <p>Expenses to Richmond Va.</p>
+            <p>Bill paid 1st Night Mr. Acres              $ 10.00</p>
+            <p>Paid to Negro at Simmermans                   5.00</p>
+            <p>Blacking boots                                2.00</p>
+            <p>Mending boot                                  1.00</p>
+            <p>T.B. Lynchburg                               25.00</p>
+            <p>Tobacco                                       3.00</p>
+            <p>Papers                                        2.00</p>
+            <p>Cutting hair etc                              8.00</p>
+            <p>Brandy                                        5.00</p>
+            <p>To an afflicted woman                        10.00</p>
+            <p>Tavern bill Spts. W.                        100.00</p>
+            <p>Holsters etc                                 15.00</p>
+            <p>Paid for Marketing                           50.00</p>
+            <p>Slim Collar                                  10.00</p>
+            <p>Stamps &amp; Envelopes                        5.00</p>
+            <p>Tavern Bill                                 135.00</p>
+            <p>Bill with Simmermans                        386.00</p>
+            <pb n="240" facs="0012_003113_000201_0238.jpg" xml:id="d3e3855"/>
+            <p>[Back Cover]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

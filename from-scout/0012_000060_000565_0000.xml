@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000565_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Nellie Alexander Gordon</name>
+ in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1911-02-20">1911 Feb. 20</date>
+            </title>
+            <author>
+               <name type="person">Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000565_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Nellie Alexander Gordon in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1911 Feb. 20</title>
+               <date>1911-02-20</date>
+               <author>
+                  <name>Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+               </author>
+               <extent>19 digital images; 1 envelope, 18 pages.</extent>
+               <note type="abstract">1911 Feb. 20, Nellie Alexander Gordon, Franklin, Tenn., to Elizabeth Ramsey Breck, Knoxville, Tenn. Sent some of the Alexander family history copied from several sources of books pertaining to the Alexander family history and genealogy. Sent copies of several letters and transcriptions of court records from Cecil County, Md. concerning their ancestors. 
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Genealogy -- Tennessee.</term>
+               <term>Genealogy -- Maryland -- Cecil County.</term>
+               <term>Family -- Research -- History -- Sources.</term>
+               <term>Tennessee -- History.</term>
+               <term>Cecil County (Md.)-- History.</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Family.</term>
+               <term>Gordon, A. R. (Andrew Ruthven), Mrs. -- Family.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000565_0001.jpg" xml:id="d3e155"/>
+            <p>Mrs. E.A.R Breck</p>
+            <p>cor. Main &amp; Cumberland Sts.</p>
+            <p>Knoxville,</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000565_0002.jpg" xml:id="d3e169"/>
+            <p>Franklin, Tenn.,</p>
+            <p>Feb. 20, 1911</p>
+            <p>My dear Friend &amp; Relative:-</p>
+            <p>I am sending you some family history copied from Mrs. Butterworths letter to Mrs. Thomas Polk of Jackson Tenn. Mrs. Butterworths book &quot;A Family of the House of Alexander&quot; contains much that is interesting. On the last page is a synopsis of James Alexanders will copied from the records in the Court House at Elkton, Cecil Co. Md. I dont think he ever went to N.C. - only his</p>
+            <pb n="3" facs="0012_000060_000565_0003.jpg" xml:id="d3e183"/>
+            <p>children John McKnitt, Hezekiah, &amp; Jemima Sharp.</p>
+            <p>Adam Alexander a signer of the declaration was a cousin of John McKnitt. Adam married a Miss Shelby, who was related to Evan Shelby &amp; Isaac, the first Gov. of Ky.</p>
+            <p>I have made a sketch of my &quot;tree&quot; on Architects paper, &amp; as soon as I can, will send it for you to see. A friend of mine is going to copy it on nice drawing paper (suitable for framing) for Mrs. Polk, to cost $5.00. If you know of any one that would like one, I can have</p>
+            <pb n="4" facs="0012_000060_000565_0004.jpg" xml:id="d3e195"/>
+            <p>copies made at the same price.</p>
+            <p>I wish you had copies of &quot;The History of Mecklenburg Co.&quot; , &amp; &quot;Biographical Sketches of the Hopewell Section&quot; by Dr. John Brenard Alexander, The History of Mecklenburg Co., is $2.25, &amp; Biographical Sketches is 50 cents. This includes postage. Keep these letters I copied them for you. Let Mr. McClung read them.</p>
+            <p>With love &amp; best wishes</p>
+            <p>Nellie A. Gordon</p>
+            <p>Drop me a postal,</p>
+            <p>if these reach you.</p>
+            <pb n="5" facs="0012_000060_000565_0005.jpg" xml:id="d3e213"/>
+            <p>Richardson &amp; Richardson</p>
+            <p>Historical Biographers</p>
+            <p>817 North Charles St.,</p>
+            <p>Baltimore Md.</p>
+            <p>Dear Mrs. Butterworth:-</p>
+            <p>On our return voyage from Great Britain this Fall, I had the pleasure of meeting your daughter Mrs. Parker, who allowed me the privilege of reading your account of the Alexander Family in Maryland. I noted the good work done, and should very much like to have a copy of the book, if you will advise me where &amp; at what price I can purchase it.</p>
+            <p>Mr. Richardson &amp; I have been in</p>
+            <pb n="6" facs="0012_000060_000565_0006.jpg" xml:id="d3e233"/>
+            <p>Scotland &amp; Ireland several months studying Scotch-Irish families, and have unearthed some data not generally know to investigators. As it happened we have in our possession data to prove the identity of William Alexander, the first in Somerset county Md., &amp; will be glad to furnish the descendants of this Maryland settler the Scotch-Irish lineage if they are sufficiently interested to have it completed.</p>
+            <p>As we are preparing to publish the first volume of &quot;The American Aristocracy of Birth&quot; we should be</p>
+            <pb n="7" facs="0012_000060_000565_0007.jpg" xml:id="d3e243"/>
+            <p>5517 Cornell Ave.,</p>
+            <p>Chicago, Ills.</p>
+            <p>Mrs. Laura Lee Sharp Polk,</p>
+            <p>My dear friend &amp; cousin:-</p>
+            <p>I know you will think I am a long time fulfilling my promise to look up your ancestors. It is only within a short time that I have been able to do anything as a visit to the genealogical library was the first step.</p>
+            <p>I enclose such records as I was able to copy on a days research, but these settle conclusively the fact that your ancestor James was not the son of</p>
+            <pb n="8" facs="0012_000060_000565_0008.jpg" xml:id="d3e261"/>
+            <p>Samuel, my ancestor, but the son of Joseph Alexander one of the settlers of New Munster. This tract of land was in close proximity to the plantations of Hispaniola, Alexandria, Knowlwood, <unclear reason="illegible" resp="JR">Shigo</unclear>, &amp; c. belonging to Samuel &amp; his descendants, &amp; there is no doubt they were related by the tree of <unclear reason="illegible" resp="JR">crueanguinity.</unclear>. They evidently came to America at little different periods. One family landing at Newcastle Del about 1688, the other at Jamestown about 1640. If I ever get back to Virginia &amp; Maryland with the additional knowledge I now have, I may be able to find the <unclear reason="illegible" resp="JR">cleu</unclear> that will lead me to Scotland. My</p>
+            <pb n="9" facs="0012_000060_000565_0009.jpg" xml:id="d3e278"/>
+            <p>father always told me that we were descended from a branch of the Earl of Sterling. There is a 2 volume book in both the Public and Newberg Library that is called Memorials of the Earl of Sterling, &amp; gives the History of all the clans of Alexanders in Scotland. The book is not to be had, but I often study it carefully at the libraries. This book only gives the genealogy of one family who came to America the Archibald Alexander 1sr Pres. Princeton College, &amp; one of whose descendants Eleanor, daughter of Henry Addison Alexander recently married to Theodore Roosevelt Jr. The Rev. Chas. Rogers of London, was the publisher, &amp;</p>
+            <pb n="10" facs="0012_000060_000565_0010.jpg" xml:id="d3e286"/>
+            <p>writes of this book, &amp; Henry Alexander furnished the money to publish it. The Author intended continuing a full History of all the Alexanders in America, but died some after completing this.</p>
+            <p>I have given you a little information, the most important is that your family are descendants of Joseph, James father of Jemima Alexander who married Thomas Sharp was his son.</p>
+            <p>Whatever research you attempt must go back to Joseph, who was the first of your family in America, back of him you must go to Scotland or Ireland where the Scotch emigrated at the time of the Persecution. These were the Scotch Irish so well known in history.</p>
+            <p>With-best-wishes I am your</p>
+            <p>Sincerely Frances Alexander Butterworth</p>
+            <pb n="11" facs="0012_000060_000565_0011.jpg" xml:id="d3e302"/>
+            <p>Copied from Genealogical Library</p>
+            <p>in Chicago.</p>
+            <p>&quot;In the year 1714, James Stephenson gentleman, appointed John McKnitt of Back Creek, Cecil Co., Md. his attorney, to see a tract of land in the north east cor. of Cecil Co., Md. called New Munster.</p>
+            <p>This tract of 8000 acres commenced where the Sure Creek enters the Big Elk &amp; with a breadth of two miles to the Elk River, until it entered some distance within the present Penn., line in Chester County.</p>
+            <p>John McKnitt sold some 2000</p>
+            <pb n="12" facs="0012_000060_000565_0012.jpg" xml:id="d3e319"/>
+            <p>acres to a company consisting of James Alexander, Arthur Alexander, David Alexander, James Alexander, Joseph Alexander &amp; his son James Alexander, Elias &amp; Arthur Alexander, &amp; William Wallace.</p>
+            <p>These persons had already improved this property, so that their settlement must have been prior to 1714.</p>
+            <p>Four years after, Stephenson gave deeds to each one individually for the part they had settled. These lands lay on the East side of the Elk &amp; between that river &amp; Christiana Creek, &amp; close to the border of Penn. &amp; Delaware.</p>
+            <pb n="13" facs="0012_000060_000565_0013.jpg" xml:id="d3e331"/>
+            <p>from 1740 to 1760 many Alexanders left Md. for Chester Co., Penn. &amp; others for Mecklenburg Co. N.C. thirty of these families went to Virginia &amp; N.C. at the same time, some settling about the city of Alexandria named after John Alexander, who died in 1677. Among those who went to N.C. were several who greatly distinguished themselves during the Revolution, two of these were sons of James Alexander of New Munster, Cecil Co., Md. This James was the son of Joseph who has already been named as one of the first purchasers</p>
+            <pb n="14" facs="0012_000060_000565_0014.jpg" xml:id="d3e339"/>
+            <p>of the Munster lands in 1714.</p>
+            <p>James acquired numerous plantations &amp; lands both in Maryland &amp; N.C. As a ruling Elder, his name appears in the minutes of the New Castle Presbyterian Church Del., &amp; frequently afterwards in those of the Synod of Philadelphia. The name of James Alexanders first wife was Margaret McKnitt, the sister of John McKnitt, mentioned as Stephensons attorney. for John McKnitt in his will dated 1733, appointed James Alexander his brother-in-law his Executor &amp; James Alexander called one of his sons John McKnitt. By his first wife</p>
+            <pb n="15" facs="0012_000060_000565_0015.jpg" xml:id="d3e349"/>
+            <p>he had issue as follows - </p>
+            <p>Theophilus, Edith, Keziah, Hezekiah, Ezekial, Jemima, Amos, John McKnitt &amp; Margaret. By Abigail, His second wife, he had Elizabeth, Abigail, Margaret, Josiah, &amp; Ezekial.</p>
+            <p>The first set of children were born between 1716 &amp; 36 - the second between 1746 &amp; 1754. Of these John McKnitt, Hezekiah &amp;Jemima, who had married Thomas Sharp of Cecil Co., Md. removed to Mecklenburg N.C. about the year 1754.&quot;</p>
+            <p>These Alexanders from whom you are descended came to America in 1688, Landing at New Castle Del.</p>
+            <pb n="16" facs="0012_000060_000565_0016.jpg" xml:id="d3e363"/>
+            <p>My dear Mrs. Polk:-</p>
+            <p>I am in receipt of your letter &amp; take pleasure in giving you such information as I can. I spent some little time in Charlotte N.C. looking up the records of my family. My great grandfather David Alexander removing from Cecil Co. Md. in 1779 to Mecklenburg N.C. &amp; remaining there until his death 1797. His will, sales of plantations, negroes, deeds &amp; c, are in the Court House at Charlotte. I have also visited Maryland &amp; Va., several times, looking up the records of the Alexanders &amp; have published a genealogy with the title &quot;Records of a Family of the House of Alexander from 1640 to 1909&quot;</p>
+            <p>The index contains the names of over 300 of the early Colonists &amp; their descendants. My great grandfather David Alexanders numerous family</p>
+            <pb n="17" facs="0012_000060_000565_0017.jpg" xml:id="d3e375"/>
+            <p>emigrated to various states in the South, may going to Tenn, Gallatin &amp; Rutherford Co. Many of these Alexanders descendants still live near Murfreesboro, &amp; Nashville, sons &amp; daughters of Madison &amp; Albert.</p>
+            <p>My grandfather David, moved to Ky. in 1794 where my father was born. Some of the family still live in Woodford Co. There is no doubt my family &amp; yours had the same origin in Scotland, &amp; to that extent we can claim kin, &amp; perhaps more near than this, as the names of Brenarde, Sharpes, Sample, McKnitt &amp; Polks are all familiar names to me. I know your</p>
+            <pb n="18" facs="0012_000060_000565_0018.jpg" xml:id="d3e385"/>
+            <p>cousin Dr. John Brenard Alexander, as I met him in Charlotte, &amp; also have a copy of his book which I suppose is the same that you have. History of Mecklenburg Co. On page 405 of this History, is given the biography of John McKnitt Alexander, this states John McKnitt came to Mecklenburg Co., in 1754 with his brothers Hezekiah &amp; sister Jemima, with her husband Major John Sharp, all of Cecil Co., Md. Now as to James Alexander the father of Jemima, in this Biography, you will read he married Margaret McKnitt but was evidently twice married, as I enclose your synopsis of the will of James Alexander dated 1772, in which he gives &amp; bequeathes to his beloved wife Abigail, there follows the names of his children. I personally copied this synopsis at Elkton, Cecil Co, Md. The</p>
+            <pb n="19" facs="0012_000060_000565_0019.jpg" xml:id="d3e393"/>
+            <p>text can be found at this place in the Court records as indicated, &amp; of which you may procure a copy by writing to Clerk of Court at Elkton. I do not know the expense of a copy. New Munster was a large tract of land in Cecil Co. Md. just across the line from Penn., &amp; was purchased by a colony of Alexanders, who had first settled in Chester Co., Penn. Among these Alexanders was James, your ancestor, Albert, David, Moses, &amp; others</p>
+         </div>
+      </body>
+   </text>
+</TEI>

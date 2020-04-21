@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000227_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">William Smith</name> in <name type="place">Chattanooga, Tenn.</name> to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-05-30">1865 May 30</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special
+                     Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000227_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, <name type="author">William Smith</name> in <name type="place">Chattanooga, Tenn.</name> to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-05-30">1865 May 30</date>
+               </title>
+               <date when="1865-05-30">1865 May 30</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nhl">Updated earlier transcription from the old TEI.2 system
+            to anticipate and resolve difficulties and issues with re-formatting letters from this
+            collection into TEI-P5 lite.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e206">
+            <pb facs="0012_001356_000227_0001.jpg" n="1" xml:id="d2e208"/>
+            <opener>
+               <dateline>
+                  <name type="place">Chattanooga</name> <orig>Tennassee</orig>
+                  <date when="1865-05-30">May 30 <choice><orig>1856</orig><corr resp="nl">1865</corr></choice><lb/> tuesday morning</date>
+               </dateline>
+            </opener>
+            
+            <p>donte woree ourself you can help nonler then</p>
+            <p>my dear and loveing wife I received your kind and welcome letter on the 29 and and I was glad to heare that you was all quite well at that time when you wrote to me my wife I thank god your letter found me pretty well at the present time bless god for that all though my longes are very weeke now I ham very short of breath at diffrentimes some nights when I lay myself down to sleepe I have the bathing at my heart so I cannot go to sleep for two or three ours and nights not hardley any sleepe at all and have to worke all the day while right <unclear reason="illegible" resp="NL">roloc</unclear> at night so my dear lisey you may think I have to be on the frit enough all the day longe my dear wife I felt sorry to here you say my dear lisey </p>
+            
+            <pb facs="0012_001356_000227_0002.jpg" n="2" xml:id="d2e241"/>
+            <note place="top"><p>you will write again as soon as I will send you the particlers</p></note>
+            <!-- the preceding paragraph is part of the postscript that is written across the top of pages 1-3 -->
+            <p>that you didnot feel well at times but my dear wife I hope by the time you have this letter you will feel better I have not <unclear reason="illegible" resp="NL">thualy</unclear> well of my cough yet I went to the dorter and he gave me some powders and they helped some and I ham going to him again for some more <choice><orig>medsan</orig><corr resp="nl">medicine</corr></choice> before I leave here my dear and loveing wife when I wrote to you my last letter as all the men in the gan we expected to have our Discharde by the first of June and then I counted on comeing home in the middle of June but my dear wife old mears would not give us our discharge under six month he said we come were for that time and if the coverment wanted us untill that time he should not yet give us our time intill then some of the men that are been with him for six months and he gave them there and they are getting paidtime and discharge</p>
+            
+            <pb facs="0012_001356_000227_0003.jpg" n="3" xml:id="d2e262"/>
+            <note place="top"><p>you have time write me and then when I write again tell austin I bouth him a solder overcoate</p></note>
+            <!-- the preceding paragraph is part of the postscript that is written accross the top of pages 1-3 -->
+            <p>my dear wife I feel very bad because I ham disapinted in comeing home I thought I would be home by the middle of June so I dont know when I shall be home I dont expect that I will be discharged before next august but my dear wife you must not fret your self so much as I ham wall I hope I shall be well as long as I stay heare in this suny and hot south mr mears come from mac Doanald Station to Chattanooga last night and he tolde us that we weare all got to go to <name type="place">Atlanta</name> in gorge and we dont know how longe we will be gone theare some say a month and some two months the train is to come on thursday morning and take us out on the road for george we are going to stope at <choice><orig>Dalten</orig><corr><name type="place">Dalton</name></corr></choice> first and Kingston to six some week first but will</p>
+            
+            <pb facs="0012_001356_000227_0004.jpg" n="4" xml:id="d2e284"/>
+            <p>so my dear wife peapes the next letter of may win george I with we may not go theare at all it a hot climat climat theare now to go so my dear wife you must keepe your spirits up as well as can and dont worke to hard in the garde nomdee then you can helpe with my kindest love to you and a sweet kiss from me and three kisses for my dear little Henry and austin I dont know any thing about alfred but I he is well he was very in kinde to me I wrote two letters to him and he never answered one of them I hope will take care of is money my dear wife I wish you would aske austin if he would lende me two dollars and lende it in the next letter if you could speare it it is harde to aske you for the same when I ham got so much may owning and and cannot get it to you sende a two dollars if you can put it in a small wate bill in the letter I will pay it to you again when I come home it is harde to be here and not onc sent of money I couldnot percure here with my kind love to you my dear and loveing wife yours William Smith <unclear reason="illegible" resp="NL">blew</unclear></p>
+         </div>
+      </body>
+   </text>
+</TEI>

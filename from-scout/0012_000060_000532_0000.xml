@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000532_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>John M. Lea</name>
+ in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. (Incomplete)<date when="1884-07-21">1884 July 21</date>
+            </title>
+            <author>
+               <name type="person">Lea, John M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000532_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John M. Lea in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 July 21 (Incomplete)</title>
+               <date>1884-07-21</date>
+               <author>
+                  <name>Lea, John M.</name>
+               </author>
+               <extent>1 digital image; 1 page.</extent>
+               <note type="abstract">1884 July 21, John M. Lea, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. (Incomplete) Reports that he is sending an Irish newspaper with an article on the Scotch-Irish who settled in America. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Scots-Irish -- America -- History.</term>
+               <term>Scotland -- Emigration and immigration -- History -- 19th century.</term>
+               <term>Ireland -- Emigration and immigration -- History -- 19th century.</term>
+               <term>Northern Whig (Belfast, Northern Ireland) </term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Appreciation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000532_0001.jpg" xml:id="d3e152"/>
+            <p>Lealand July 21 1884</p>
+            <p>Mrs. Margaret C. Ramsey,</p>
+            <p>My Dear Friend,</p>
+            <p>I send to you by the mail to-day a copy of the &quot;Northern Whig,&quot; a newspaper printed in Belfast, Ireland and which contains the proceedings of the Scotch Irish Review held in that city a few weeks ago. I had hoped to attend the meeting, to which I was kindly invited by Dr. Martin, but an inability to leave home this summer deprived me of that pleasure. As soon as I read the proceedings, the thought occurred, with what delight would my good friend, now no more on earth, one who though dead is never absent from your thoughts, have enjoyed the perusal of facts set forth in the several speeches concerning the Scotch Irish people who settled in America. I send the paper to you and I know it will interest you, and <unclear reason="illegible" resp="JR"> Wendy</unclear>. I am glad that the occasion gives me the opportunity of again writing to you.</p>
+            <p>The correspondence which for some years was carried on between your late venerable husband and myself was, indeed, a real pleasure. <unclear reason="illegible" resp="JR">His</unclear> letters, though they <unclear reason="illegible" resp="JR">quesenathy</unclear> bore upon the business of the Society, were not <unclear reason="illegible" resp="JR">invited</unclear> with</p>
+         </div>
+      </body>
+   </text>
+</TEI>

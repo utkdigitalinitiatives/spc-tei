@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000223_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">William Smith</name> in <name type="place">Chattanooga, Tenn.</name> to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-04-19">1865 April 19</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>            
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability><idno>0012_001356_000223_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William Smith</name> in <name type="place">Chattanooga, Tenn.</name> to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-04-19">1865 April 19</date>
+               </title>
+               <date when="1865-04-19">1865 April 19</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>        
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-16" who="ty">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e205">
+            <pb facs="0012_001356_000223_0001.jpg" n="1" xml:id="d2e207"/>
+            
+            <opener>
+               <dateline>Chattanooga April 19 1865</dateline>
+            </opener>
+            
+            <p>Dear Wife I now take the opportun in writing to you these few lines hopeing they will find you all well at this time as it leaves me at this time the same Bless god for it my dear wife we came Back to chattanooga on monday morning April 17 we are out the road <choice><orig>Knonoxvill and verganey railroad</orig><corr>Knoxville and Virginia Railroad</corr></choice> about three 300 miles sout our gan went as far as Blew Springs 40 miles from Bristel and then we were orderd back by the chickimginneage if the road and we are now in chattanooag and we are going away to almabam going alk river and from theare to duck river we expect to be back in a month fr alls well and I hope we will get through our raid then</p><!-- page 3 should come next. Change the image names? -->
+          
+            <pb facs="0012_001356_000223_0002.jpg" n="2" xml:id="d2e225"/>
+            <p>the road we are going now they say is rallhey place in alabama ralk rive this is abutifull morng here I ham letting rest before lookeout mountin is a mountin of Rockes dear wife I received your kind and was glad to heare that you was all well with my love to you all and a kiss for my dear Henry and austin and you when you write to alfred tell him I ham well and I will write to him as soon as I can dear wife I have had one letter from ou that all but I hope to heare from you as soon as you can write to me again I was sorry that all the bridges in Binghamton gon out it will make work for bridge builders now all over the cuntry through give my respec to gerg george spencer and mr king and tell them I ham pretty well at</p>
+            
+            <pb facs="0012_001356_000223_0003.jpg" n="3" xml:id="d2e231"/>
+            <p>the present and I hey are all well and tell mr spence I ham going to alk river and from there to duck river from chattanooga to alk rive 200 and 50 miles to three 300 miles dear wife I thank god my eyes are better then are been for a good while I washed them in spring water and that done them good please to send me word weather austin any worke now to do now I hope he will try and do all can to halp you while I come home please give my respects to all inquiring friends we are not paid any mony yet but we expect get paid month pay in two weeks and then I can send you a hundred dollars I must conclude with kind love to all at time </p>
+            
+            <pb facs="0012_001356_000223_0004.jpg" n="4" xml:id="d2e236"/>
+            <p>my dear wife I hope I shall have Ealth all through all work pleas to me send word about Binghamton all you can and the garden when biggist my respect Nr Marther when see him dear wife when you write to me gain please in the letter twenty five cents worth stamp I cannot get them very well here give my love to Mr. Bushel and Ms. Buittited I have no more to say now at this time I must conclude William Smith Chattanooga in care SC mears</p>
+            <p>my respect put plley when see him</p>
+            <closer>
+               <signed>your loving husband william smith</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

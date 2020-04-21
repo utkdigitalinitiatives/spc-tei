@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000398_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>T. R. Cornick</name>
+ in Knoxville, Tenn., to J.G.M. Ramsey in Charlotte, N.C.<date when="1871-04-15">1871 Apr. 15</date>
+            </title>
+            <author>
+               <name type="person">Cornick, T. R.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000398_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, T.R. Cornick in Knoxville, Tenn., to J.G.M. Ramsey in Charlotte, N.C. 1871 Apr. 15</title>
+               <date>1871-04-15</date>
+               <author>
+                  <name>Cornick, T. R.</name>
+               </author>
+               <extent>2 digital images; 1 page, 1 envelope</extent>
+               <note type="abstract">T.R. Cornick wrote to J.G.M. Ramsey from Knoxville on April 15, 1871. Ramsey was in Charlotte, N.C. Cornick informed Ramsey that Chancery Court closed with none of his Bank of E. Tenn. cases being heard, but with the possibility they could be taken up in special session during the next month.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Bankers -- Legal status, laws, etc. -- Tennessee -- Knoxville.</term>
+               <term>Trials -- Tennessee -- Knoxville.</term>
+               <term>Banks and banking -- Tennessee, East.</term>
+               <term>Knoxville -- Trials, litigation, etc.</term>
+               <term>Cornick, T. R. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000060_000398_0001.jpg" xml:id="d3e156"/>
+            <p>Dr. J. G. M. Ramsey</p>
+            <p>P. O. Box 32.</p>
+            <p>Charlotte</p>
+            <p>North Carolina.</p>
+            <pb n="2" facs="0012_000060_000398_0002.jpg" xml:id="d3e170"/>
+            <p>Knoxville. Tennessee </p>
+            <p>Apl 15th. 1871.</p>
+            <p>Dr J.G.M. Ramsey,</p>
+            <p>Dear Sir, <unclear reason="illegible" resp="NW">Our</unclear> spring term of Chancery Court closed last Saturday. none of your Bank of E. Tenn. cases were taken up. A special term will commence on 5th Monday of next month, when it is probable they will be taken up. I will keep you advised.</p>
+            <p>in great haste</p>
+            <p>yours truly</p>
+            <p>T. R.Carnick.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

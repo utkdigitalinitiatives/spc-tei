@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000385_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Salisbury, N.C., to Col. John H. Crozier in Knoxville, Tenn.<date when="1870-02-09">1870 February 9</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000385_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Salisbury, N.C., to Col. John H. Crozier in Knoxville, Tenn. 1870 Feb. 9</title>
+               <date>1870-02-09</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1870 Feb. 9 J.G.M. Ramsey, Salisbury, N.C., to his lawyer and brother-in-law, Col. John H. Crozier, Knoxville, Tenn. Discussion of sale of Mecklenburg to Breakbill. Instructs Col. Crozier to invest half the proceeds of this sale in Knox County bonds and to send half to him in cash which he plans to use to help Sue and her husband buy a farm. Refers to repurchasing the lower part of Mecklenburg. Mentions payment of Liddy&apos;s fees and payment of just claims against him.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey family</term>
+               <term>Tennessee, East -- History -- Personal narratives.</term>
+               <term>Ramsey, J.G.M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Reconstruction (U.S. history, 1865-1877) -- Southern States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e145">
+            <pb n="1" facs="0012_000060_000385_0001.jpg" xml:id="d3e146"/>
+            <p>Our Retreat Near Salisbury</p>
+            <p>Feb 9th 1870</p>
+            <p>Dear Sir</p>
+            <p>I wrote you several days since from Alexanders steam Mills where I had gone on a short visit to Mrs. R. L. <unclear reason="illegible" resp="NW">Inc.</unclear> I presume it will reach you before this. It was mailed at Charlotte on my return home last night I found you two favors of the 2nd, 14th, instant also my quit claim to W. <unclear reason="illegible" resp="NW">Breakbill. </unclear> the place left blank for the consideration was not long enough to contain the items of the amount paid &amp; to be paid but the <unclear reason="illegible" resp="NW">intistimation </unclear> I presume will work no detriment to the bud. Again the Boundaries are so described as to embrace within them the entire Church lot which my father more than fifty yars since conveyed to its <unclear reason="illegible" resp="NW">kristus</unclear> I suppose Mr. B. forgot that I never claimed nor owned it. I therefore <unclear reason="illegible" resp="NW">intidined</unclear> the exceptional clause on the 20th line. The consideration as I describe it is taken from the copy of the Afreement I have before me 1 of which you hold the original. I chose not to embarras the <unclear reason="illegible" resp="NW">hade</unclear> with B. by referring to $200.00 - Major Boyds award in regard to <unclear reason="illegible" resp="NW">rents</unclear> and improvements of the property which was one of the timtems in our comprimise of the suit. I have refered to it in former</p>
+            <pb n="2" facs="0012_000060_000385_0002.jpg" xml:id="d3e182"/>
+            <p>for the purpose of facilitating your repurchase of the lower part of the place for me. As he now seems to preparing for a bona fide payment I say nothing further now about this award only that it was one of the consideration on which the compromise was effected by Boyd</p>
+            <p>You will of course take special care not to deliver the deed till payment is made or satisfactorily secured</p>
+            <p>In mine from Charlotte I requested you to invest one half of hte proceeds in Knon County 6 per cents - at as low figures as you can for my wife - &amp; express to me the other half in Greenbacks or sight drafts on New York. I need it for <unclear reason="illegible" resp="NW">su-- </unclear>she has me at my little yet &amp; I W. A. has purchased his Mothers life Estate in a large property &amp; I wish to <unclear reason="illegible" resp="NW">hup
+</unclear> them pay for it </p>
+            <p>Retain tho one bond for my niece Lucy. If Mrs <unclear reason="illegible" resp="NW">Bricks</unclear> rents &amp; the deposit made to her credit or possibly mine, by her tennants Krists in Peoples Bank &amp; the amt. you received from M. J. D. for <unclear reason="illegible" resp="NW">corn </unclear> sold are insufficient for the Marshalls <unclear reason="illegible" resp="NW">fus -</unclear> this authorises you to use my monies &amp; take necessary reciepts. Mr. B. sums confident that J.C.R. really paid this cost in her presence</p>
+            <p>I am glad you are so hopeful of M Knitts cause <unclear reason="illegible" resp="NW">insulting</unclear> faborably to him</p>
+            <pb n="3" facs="0012_000060_000385_0003.jpg" xml:id="d3e216"/>
+            <p>I have often wished to inquire if there is no way of releasing funds in hands of <unclear reason="illegible" resp="NW">blush</unclear> L. Master in my favor &amp; applying them to the payment of just claims against me? Mrs Swans for instance that is as honest a debt as any man we owe &amp; I have always wanted it paid I have frequently directed Crozier to apply $3750 paid into the <unclear reason="illegible" resp="NW">C.L.M.</unclear> Office (from Foster I believe) for my <unclear reason="illegible" resp="NW">Yorsit</unclear> farm if by any means these <unclear reason="illegible" resp="NW">vexations </unclear> Attachments could be removed Can you <gap resp="Williams"/> to have this done before I <gap resp="Williams"/>wish <gap resp="Williams"/> is the <gap resp="Williams"/> I see advertisements of the Lyon property at the <unclear reason="illegible" resp="NW">sherifss </unclear> sale Ought not I as surviving Trustee of B.L of I. J. to take measures to secure his part of this liability&gt; I wrote you I <unclear reason="illegible" resp="NW">Crnick</unclear> a joint letter on this subject I am without reply from either of you: Please look into this. </p>
+            <p>If Breakbill still fails to pay up as I wrote you on the 4th can you do any thing for me by trying to repurchase <unclear reason="illegible" resp="NW">Jona Mecklenbury</unclear> I am we all are doing well here but if MK recovers his farm &amp; M.J.D. still remains on River <unclear reason="illegible" resp="NW">Side</unclear> I think we ought to return home If he fails to pay suppose you make him an</p>
+            <pb n="4" facs="0012_000060_000385_0004.jpg" xml:id="d3e259"/>
+            <p>offer for one half embracing the Holston part of the property. Still I expect it is best to hold on to our first bargain if by patience &amp; importunity you can <unclear reason="illegible" resp="NW">syuse</unclear> payment out of them without further delay - cost of another <unclear reason="illegible" resp="NW">suit A</unclear> Saml. PIckle may be able to help you.</p>
+            <p>Mrs. A. &amp; all ours are well Tell <unclear reason="illegible" resp="NW">Willie Dickson</unclear> this when you see him</p>
+            <p>I go to Salisbury 11 miles in the morning to <unclear reason="illegible" resp="NW">execute </unclear> &amp; acknoledge the Deed &amp; will enclose it in another envelope on the 4th. I acknowledged the <unclear reason="illegible" resp="NW">emittance</unclear> of $33 for coupons</p>
+         </div>
+      </body>
+   </text>
+</TEI>

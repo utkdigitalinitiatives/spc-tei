@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000245_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,  
+					<name>James L. Dodds</name>
+				                    in France, to Ellen Smith, in Jackson, Tenn., <date when="1919-03-23">1919 Mar. 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000245_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France, to Ellen Smith, in Jackson, Tenn., 1919 Mar. 23</title>
+          <date when="1919-03-23">1919 Mar. 23</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>8 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.2918</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000245_0001.jpg" xml:id="d4e39"/>
+        <p>J.L. Dodds</p>
+        <p>T Co # 8 = 23 Engir</p>
+        <p>Amer Exp Forces</p>
+        <p>Sodiers mail</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <p>
+          <unclear reason="illegible" resp="SLJ">MHBearse</unclear>
+        </p>
+        <p>2nd<unclear reason="illegible" resp="SLJ">LtCole</unclear>
+            </p>
+        <pb n="2" facs="0012_001303_000245_0002.jpg" xml:id="d4e67"/>
+        <p>Souilly France</p>
+        <p>March 23 1919</p>
+        <p>Dear Ellen:-</p>
+        <p>Will write you a few lines this evening Althou I havent heard from you in almost two weeks</p>
+        <p>I can't imagine why I dont hear from any one as often as I use too I get so little mail now and I use to get a bunch most every week</p>
+        <p>I wonder if you are</p>
+        <pb n="3" facs="0012_001303_000245_0003.jpg" xml:id="d4e81"/>
+        <p>forgetting your me.</p>
+        <p>I sure hope not.</p>
+        <p>But of course I can never tell for I am a long ways from Jackson and I cant see every thing now like I could one time</p>
+        <p>But if you are write and tell me and then I wont be in a hurry to get home.</p>
+        <p>This is a nice day and</p>
+        <pb n="4" facs="0012_001303_000245_0004.jpg" xml:id="d4e93"/>
+        <p>if I were only back home I know it is murch nicer</p>
+        <p>It snowed here all day thursday but was soon gone. We can never tell what it is going to do here in this country. I was over to visit Lin all last sunday afernoon and until bed time at night had supper with him.</p>
+        <p>I am looking for him</p>
+        <pb n="5" facs="0012_001303_000245_0005.jpg" xml:id="d4e101"/>
+        <p>to come over to see me to night any way.</p>
+        <p>I thank he will if he is till here in this town but he may be out on the road some where his company runs around over the country a great deal.</p>
+        <p>We are about a mile apart but we never see each other until I go over or he comes over to see me.</p>
+        <pb n="6" facs="0012_001303_000245_0006.jpg" xml:id="d4e109"/>
+        <p>I thank the 79 Dir will leave here some time next month</p>
+        <p>And then will soon start home.</p>
+        <p>Sure wish I could go with them</p>
+        <p>you should have seen me out playing base ball this evening didnt know was so good I know will have a hard time to morrow</p>
+        <pb n="7" facs="0012_001303_000245_0007.jpg" xml:id="d4e119"/>
+        <p>for is the first time I have run in a long time</p>
+        <p>we had a pretty good minstral show here in camp last week of couse you would call it a bad one but we see a show so soldiers are thank any thing is good</p>
+        <p>There is going to be some kind of a</p>
+        <pb n="8" facs="0012_001303_000245_0008.jpg" xml:id="d4e127"/>
+        <p>show here monday night, what do you say? "less go"</p>
+        <p>well I cant thank of any more to write this time</p>
+        <p>now write me real often and be sweet</p>
+        <p>with love</p>
+        <p>Fayette</p>
+      </div>
+    </body>
+  </text>
+</TEI>

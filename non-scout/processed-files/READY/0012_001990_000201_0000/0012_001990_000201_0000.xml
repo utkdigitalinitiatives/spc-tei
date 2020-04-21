@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001990_000201_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Warrant,
+					<name>William Blount</name>
+				                    in Knoxville, Tenn., to David Henley,<date when="1795-07-21">1795 July 21</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">William Blount</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001990_000201_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Warrant, William Blount in Knoxville, Tenn., to David Henley,1795 July 21</title>
+          <date when="1795-07-21">1795 July 21</date>
+          <author>
+            <name type="person">William Blount</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">William Blount Papers, 1795</note>
+          <note type="manuscript">MS.0980</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Henley, David, 1749-1823</term>
+          <term>Governors -- Tennessee.</term>
+          <term>Tennessee -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001990_000201_0001.jpg" xml:id="d4e39"/>
+        <p>No. 337 Dollars 345.</p>
+        <p>William Blount Governor in and over the Territory of the United States south of the river Ohio.</p>
+        <p>To David Henley Esquire Agent for the Department of war.</p>
+        <p>Pay to William Pickard Pay Master pro tem to the Troops in the Territory aforesaid, three hundred and forty five dollars out of the money in your hands appropriated for the defensive protection of the frontiers, for the pay of a Company of Infantry commanded by Captain Joseph Shaw of the Regiment of Davidson County from the first of January to the thirty first of January 1794 ageeably to pay roll and your report thereon of this Date, for which this shall be your warrant.</p>
+        <p>Given at Knoxville under my hand and Seal this 21st of July 1795.</p>
+        <p>WmBlount</p>
+        <p>By The Governor</p>
+        <p>Chas. McClung</p>
+        <p>Pro. Secretary</p>
+        <p>Recorded in the Secretarys' Office</p>
+        <p>July 21st, 1795. Chas. McClung Pro. Secretary</p>
+        <pb n="2" facs="0012_001990_000201_0002.jpg" xml:id="d4e64"/>
+        <p>Received Three hundred and forty two dollars in part of the within</p>
+        <p>WmPickard</p>
+        <p>Knoxville           1795</p>
+        <p>Warrant No. 337</p>
+      </div>
+    </body>
+  </text>
+</TEI>

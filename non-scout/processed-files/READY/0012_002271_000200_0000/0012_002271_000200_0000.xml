@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002271_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Hannah Thatcher</name>
+				                   at Elliott Choctaw Nation to Misses Polly Carpenter and Nancy Sweet in Susquehanna Co., Penn., <date when="1822-03-07">1822  Mar 07</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Hannah Thatcher</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002271_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Hannah Thatcher at Elliott Choctaw Nation to Misses Polly Carpenter and Nancy Sweet in Susquehanna Co., Penn., 1822 Mar 07</title>
+          <date when="1822-03-07">1822  Mar 07</date>
+          <author>
+            <name type="person">Hannah Thatcher</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Hannah Thatcher Letter, 1822 March 7-8 </note>
+          <note type="manuscript">MS.3250</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Choctaw Nation.</term>
+          <term>Education--Mississippi.</term>
+          <term>Teaching--United States--History--19th century. </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002271_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Colum <unclear reason="illegible" resp="PW">Anolln</unclear>25</p>
+        <p>April 24</p>
+        <p>Miss Polly S. Carpenter</p>
+        <p>Hartford</p>
+        <p>Susquehanna Co.</p>
+        <p>Penn.</p>
+        <pb n="2" facs="0012_002271_000200_0002.jpg" xml:id="d4e56"/>
+        <p>Misses Polly Carpenter  &amp; Nancy Sweet</p>
+        <p>Elliot  Choctaw Nation ________March 7th  1822</p>
+        <p>My Dear Sisters, The transactions of this evening remind me of what I once enjoyed with you when I was permitted to walk with you to the house of God___
+				   and to unite with you in prayer and praise around the Mercy Seat __ When reflecting upon those interesting and pleasant seasons, I cannot express to you
+                                       the consolation it affords to hope with a confident assurance that I am still remembered __ and though seperated by hundreds of miles,  we still approach 
+				   the same Throne of Grace, the same God is present with each of us _ _ and it is not a consolation that this separation is short __ that soon our prayers will 
+				   end, and we shall join in songs of praise around the Throne of God and the Lamb and go no more out FOREVER __ </p>
+        <p>I sometimes feel that this is very near, a few more rolling suns __ and I shall be where Jesus is __ shall see God face to face __ shall rejoice in his presence,
+				  and eternally feast on his unchangeable love __ With these prophets in view, and forgetting what is around me __ I long to quit this clayey tabernacle and
+				  sit down in my Heavenly Fathers Kingdom ___ Yet would I wait His time, and untill He is pleased to call me hence, can desire no greater sum of happiness,
+				  and no other employment than his service ___ But I spoke of what has passed this evening ___ My Sisters have just been in my room and spent a season
+				  in prayer ___ Some poor Choctaw women were here, to whom we endeavoured to make known the words of Eternal Life; they listened with attention ___</p>
+        <p>Such seasons are peculiarly solemn and interesting; and here, they are frequent  Almost daily, do some of these ignorant people come to our habitations
+				   " to hear, " as they say, " about good thing "  ___So you remember the spring and summer of 1820  So you know what it was to live in anxious
+				   suspense many weeks___ to hope, and pray, and wait with longing desires to see the Salvation of God, then you may know something of our present
+				   situation at Elliot___Although the blessing is yet withheld, still would we hope in God ___ These souls will yet be given to Christ for his inheritance, for he has
+			            purchased them with his own blood __ He will yet see of the travail of his soul here and be satisfied __ How soon this glorious event will take place, He only
+				   knows; but the precious cloud of mercy which has long appeared to hang over us, and which has shed a few refreshing drops, we trust, has not yet passed
+				   away: but hope, and believe, we may yet receive such a shower of Grace</p>
+        <note type="transcription">The following text was written down the left margin of this page.</note>
+        <p>Remember me affectionately to your dear Parents,
+				  Mothers and Sisters___ Ask your Mothers if they have not given you to the Lord ___</p>
+        <note type="transcription">The preceding text was written down the left margin of this page.</note>
+        <pb n="3" facs="0012_002271_000200_0003.jpg" xml:id="d4e73"/>
+        <p>as shall not only gladden our hearts, and cause this desert to bud and blossom like the Rose: but shall rejoice the hearts of God's children in 
+			           Christianland and occasion joy in heaven among the Angels of God</p>
+        <p>One of the members of our school, we hope, is a child of God __ Conversing with him this evening, he said, " It is so good to pray; I used to forget it; but
+				   now I can't help think of it " __ Little more than two years since, this Boy came the distance of 100 miles to be received into this school __ Then, 
+				   a wild Choctaw   Now, a lamb of the Saviour's Flock ___ Soon, may I be permitted to tell you of more of the wonderful works of God here</p>
+        <p>My Sisters, we want more laborers here, and those too, who have Holy hearts    The influence of unholy example upon our children will be felt in eternity
+				   At present, hired laborers must be employed here, at least, until more of God's children will come and strengthen us, and the property of the Lord
+				   must be paid to those, whose hearts are not in the work ___</p>
+        <p>Nancy, have you not once given yourself to this work? Have you not been ready to say, Lord, here am I, send me? have you not even consecrated
+				   yourself to the service of Christ in a heathen land? and now, will you take back, what you have given to the Lord? Are you doing more for God in your
+				   present situation, in your present employment, than you could in any other? Do you indeed feel, that you are laboring for Christ, and in that way, 
+				   which will bring most Glory to his name  And do you daily grow in Grace, and get nearer to the Saviour? If so, go on, and the Lord strengthen and bless
+				   you___ I trust this is the case; or you would not be willing to remain where you are___ </p>
+        <p>Polly, How is it with you? Are you doing much for Christ? much for the salvation of perishing souls? It is good to spend and be spent for Christ: and good
+				  to be where we can do most for him.__I do not ask you to come to Elliot, although I should rejoice to see you ___ I only ask you to enquire,  " Lord 
+				  what wilt thou have me to do? " Perhaps you have, and your duty is already made plain __ if so, you are happy in the assurance that God will be with you
+				  If not, perhaps a greater work is assigned you, than you are aware ___ and it may be among the Savages of the wilderness __ Now, seriously consider
+				  the wretched condition of these souls; look at what is around you, remembering at the same time the words of our blessed Saviour, how he said,  " It is
+				  more blessed to give than to receive; " and  " He that watereth shall be watered also himself," and then leave it with God to decide__</p>
+        <note type="transcription">The following text was written down the left margin of this page.</note>
+        <p>So My Dear Girls, write___ I think, you promised it__
+				  And pray much for me __ Shall I remind you of our monday evening Concert? Probably you remember it</p>
+        <note type="transcription">The preceding text was written down the left margin of this page.</note>
+        <pb n="4" facs="0012_002271_000200_0004.jpg" xml:id="d4e90"/>
+        <p>8th  Good evening again My Sisters, I hope, it is to you, as it is to me__Our season of prayer is <unclear reason="illegible" resp="PW">closed</unclear>
+				  One of our African Sisters united with us this evening, which rendered at peculiarly pleasant   She is, we trust, a follower of Christ; and is very desirous to
+				  join herself to the people of God, and come to the table of the Lord; but her Master will not suffer it ___ Many of the natives have slaves, some 40 or 50
+				  They are permitted to attend meeting on the sabbath, and those who live near, generally come___Last sabbath 10 of them came to my room, between
+				  the morning and afternoon exercises; and it was good to speak to them of the concerns of their souls, and kneel with them before God, and ask him to
+				  renew their hearts___Some manifested much feeling others were stupid ___ </p>
+        <p>Yesterday visited a Choctaw Sister about 4 miles distant   Although, alone in the wilderness, and mourning the recent untimely death of her husband,
+				 (who, in a drunken frolic, was killed by an indian) her soul seems to be stayed on God__ and she said, thinking of God and praying to him sometimes
+				  made her forget all her trouble ___ She is a half breed and talks broken english  She is now bound by a tyrannical custom of her Country to remain at
+				  home during the days of mourning, which are three or four months: is not permitted to visit a neighbor or friend___ I frequently visit our neighbors
+				  <gap reason="indecipherable" resp="White"/>three and four miles: and when I am gone a Br. or Sr. take <unclear reason="illegible" resp="PW">trou</unclear>
+				  of my school___</p>
+        <p>My school now consists of 17 natives and 3 Missionary children___ Would you like to know the manner in which I spend my time with them?__Rise at 
+				  5 in the morning, in ten minutes call them together, read a portion of Scripture, sing a hymm, kneel with them before God and implore his blessing__then
+				  appoint them their various employments; sewing, knitting, setting tables, washing dishes <unclear reason="illegible" resp="PW">etc</unclear>
+				  Breakfast at 8, begin school at 9 &amp; close at 4 __ The intermission between school at night and supper spent in the same way as in the morning__
+				  After supper, ring bell, all come in __ hear them read, sing a hymm, and commend them to God __ All shake hands say Good night and then retire to 
+				  rest __ 8 o'clock ___ Is not this pleasant? You cannot know how much so; for it is impossible for me to express it with a pen __ I only say, I
+				  would not exchange my situation for any below that rest, which I hope, through Grace to enjoy in the Kingdom of our Father __ But Oh! could I hear, 
+				  my dear daughter enquiring "What shall I do to be saved" __ could I see them turning to the Lord and becoming his disciples then, with joy, could I</p>
+        <note type="transcription">The following text was written down the left margin of this page.</note>
+        <p> Br. Byington has just come in, and says, "Please
+				  to send my love"</p>
+        <note type="transcription">The preceding text was written down the left margin of this page.</note>
+        <pb n="5" facs="0012_002271_000200_0005.jpg" xml:id="d4e114"/>
+        <p>"How tellest thou thy servant depart in peace __ for mine eyes have seen thy salvation!" __I have nothing of this to encourage me except the promises
+				  of God, which are sufficient __ Although, many of them appear seriously disposed, listen with attention to what is said, and often tell me that they pray to God__
+				  It comforts me to think, that the friends of Zion pray for them and though God may not bless my unworthy labors, and hear my feeble petitions, the
+				  blessings may descend in answer to the prayers of his children in Christian Lands   And now my Sisters, I must leave you__the thought of it is painful, for
+				  when writing, I feel as if I were conversing with you___ May the blessing of our Almighty Saviour rest upon you and may he enable you to serve him faith-
+				  fully even until death and then,  if we meet no more on earth, Oh may we meet in that happy world, where we shall sing, and talk, and love, and praise, and thus
+				  spend a long eternity  Your affectionate</p>
+        <p>Sister Hannah Thatcher</p>
+      </div>
+    </body>
+  </text>
+</TEI>

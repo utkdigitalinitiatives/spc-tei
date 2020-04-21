@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000461_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>John M. Lea</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-03-31">1880 Mar. 31</date>
+            </title>
+            <author>
+               <name type="person">Lea, John M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000461_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John M. Lea in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Mar. 31</title>
+               <date>1880-03-31</date>
+               <author>
+                  <name>Lea, John M.</name>
+               </author>
+               <extent>4 digital images; 1 envelope, 3 p.</extent>
+               <note type="abstract">1880 Mar. 31 John M. Lea, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Congratulations on J.G.M.&apos;s birthday. Discussion of an East Tennessee entry in the poetry contest to be sponsored by the Historical Society and arrangements for Dr. and Mrs. Ramsey to stay with him while in Nashville for the Centennial celebration. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Contests in literature.</term>
+               <term>Physicians -- Tennessee, East  -- Biography.</term>
+               <term>Historians -- Tennessee, East -- Biography.</term>
+               <term>Tennessee -- Centennial celebrations, etc. </term>
+               <term>Tennessee -- History -- 19th century -- Sources.</term>
+               <term>Tennessee Centennial and International Exposition (1897 : Nashville, Tenn.) -- Planning.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000461_0001.jpg" xml:id="d3e154"/>
+            <p>Return to John M. Lea,</p>
+            <p>41 North Vine, St., Nashville, Tenn.,</p>
+            <p>If not delivered within 10 days.</p>
+            <p>Answered Judge Lea &amp; sent the Poem by Dr. Van <unclear reason="illegible" resp="JR">Sendley Ape. 7. 80</unclear>
+            </p>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Prest. Ten. Historical Society,</p>
+            <p>Mecklenburg near</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000461_0002.jpg" xml:id="d3e181"/>
+            <p>41 North Vine, Street</p>
+            <p>Nashville, Tenn. March 31st 1880.</p>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Prest. Ten. Historical Society,</p>
+            <p>My Dear Sir,</p>
+            <p>I have your favor of the 25&quot; inst. It would have afforded me much pleasure I assure you, to have made one of the party at the table on occasion of your birth-day dinner. I congratulate you, not upon your longevity for that good fortune depends much upon physical constitution but upon the usefulness of your long and laborious life. I express the hope, that though you and all of us</p>
+            <p>&quot;Nightly patch our tent</p>
+            <p>&quot;Our days march nearer home&quot;</p>
+            <p>the event which will separate you from earthly connection with your friends and country may yet be in the long distance and that you may enjoy in <unclear reason="illegible" resp="JR">social re-common</unclear> many such happy anniversaries as the one just celebrated.</p>
+            <p>Mr. Martin is I think one of the Jefferson County family, and it will you know, not be displeasing to me if an East Tennessean bears off the palm. Enclose the poem in an envelope superscribed with some mark or device as A.B.C. -- also in another small envelope superscribed with same marks. Let a slip of paper be enclosed on which is written his name, address<unclear reason="illegible" resp="JR">Vc. I</unclear>
+            </p>
+            <pb n="3" facs="0012_000060_000461_0003.jpg" xml:id="d3e213"/>
+            <p>will on receipt hand both envelopes to the Committee. All the small envelopes containing the names of the authors will be destroyed except that one the marks on which correspond with the marks on the poem selected. As we know he is a contestant however you can save the trouble by sending the manuscript to me with his full name, residence <unclear reason="illegible" resp="JR">Vc</unclear>. I shall not of course read the poem or mention his name but will have it properly filed with the Committee.</p>
+            <p>We committed one over-sight in the appointment of our Committee. There should have been appointed some member of Gov. Campbell&apos;s family. If Col. Cole should decline, and I suppose he will hardly attend, I shall suggest to Gov. Marks to appoint Dr. Kelly, who is descended from the Campbells and who married a Campbell -- he is a Methodist minister and one of the most intelligent men in the State.</p>
+            <p>I sincerely hope that we shall have the pleasure of seeing you at the opening of the Centennial and I must insist upon the privilege of entertaining you during your sojourn in our City. This invitation is also most cordially extended to Mrs. Ramsey whom we shall be equally glad to see. I sill meet you at the depot and we shall try to take the best possible care of you both.</p>
+            <pb n="4" facs="0012_000060_000461_0004.jpg" xml:id="d3e228"/>
+            <p>The trip will not be very fatiguing and the change, I hope, would be agreeable and doubtless improving to your health. I should be especially pleased to entertain you and I trust will be such a favorable conjuncture of circumstances that your many friends here a host of whom are personally unknown to you may have by your visit an opportunity of testifying their regard for you.</p>
+            <p>Very truly,</p>
+            <p>Your friend,</p>
+            <p>John M. Lea</p>
+         </div>
+      </body>
+   </text>
+</TEI>

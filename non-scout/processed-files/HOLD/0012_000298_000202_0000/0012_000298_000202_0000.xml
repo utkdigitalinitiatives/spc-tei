@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in La Grange, Tenn., to his wife and children <date when="1863-11-29">1863 Nov. 29</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000202_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in La Grange, Tenn., to his wife and children 1863 Nov. 29</title>
+               <date when="1863-11-29">1863 Nov. 29</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000202_0001.jpg" xml:id="d4e39"/>
+            <p>La Grange Tenn Nov 29th 1863.</p>
+            <p>My Dear Wife and Children</p>
+            <p>I came out here on the Memphis and Charleston R.R. yesterday and without any trouble got board with a widow lady named Houston who is a native of Petersburg, Virginia, and who has yet a few of the houseservants in the yard who have not left here the meals I have eaten here are the best cooked I have eaten since I left home it puts me in mind of old times.  There are five regements stationed at this place under the command of Brig Gen Tuttle so that there is no danger to be apprehended as there is a party of soldiers stationed every few miles along the R.R. to preserve it from destruction there are numbers of Guerillas in the neighborhood but they do no damage except by taking provisions. The country has not been cultivated the <unclear reason="illegible" resp="EMS">past season</unclear>and the people are suffering for food-my duty will be to grant them permits to purchase from the stores in their place. small quantities of clothing groceries provisions. the such as will lent them two months and only on application of the head of the family </p>
+            <pb n="2" facs="0012_000298_000202_0002.jpg" xml:id="d4e50"/>
+            <p>so you see I will soon become acquainted with every person in the 7 counties comprising my district the country is very <unclear reason="illegible" resp="EMS">broken</unclear> and the <unclear reason="illegible" resp="EMS">residences</unclear> are splendid and the grounds are very beautiful.  I am told but most of the enclosures are brokendown and the plants destroyed the yard where I am and the next one are in pretty good<unclear reason="illegible" resp="EMS">condition</unclear> with a  <unclear reason="illegible" resp="EMS">wide</unclear> walk about 100 yards from the gate to the house with a row of red cedar about 15 feet high on either side and the walks are edged with sweet violet the whole distance so that bushels may be gathered<unclear reason="illegible" resp="EMS">at once</unclear> coming out of Memphis there are a number of fine houses and grounds which have not been disturbed and looked beautiful as we passed through in the cars.  The people who remain that is the union ones are extremely bitter in their <unclear reason="illegible" resp="EMS">denunciations</unclear> of the Confederates.  Much more so than any one with you. there are <unclear reason="illegible" resp="EMS">however</unclear> many who have to take the oath who are still thought to be secessionists and probably are.  I have had no trouble in traveling and have never taken the oaths of allegiance nor been asked for it.  I have a free pass on the R.R. to and from Memphis. but as I hope to be busy will not go down often there are some <unclear reason="illegible" resp="EMS">perquisites</unclear> of office besides $4 per day which will probably pay my expenses.</p>
+            <pb n="3" facs="0012_000298_000202_0003.jpg" xml:id="d4e79"/>
+            <p>  I hope so so that I may send you all the money I can I hope you received my letter of the 22_ from Memphis I would have written you again but was busy all day in the offices and you know I can not write well at night in fact the room in which I write this is rather dark and the weather so cold that I have to sit by the fire (a wood fire in an old fashioned fire place) but I can scarcely see the lines and the ink is rather pale last night was really cold the water froze in the basin after the fire I left when I went to bed (a good hard feather bed almost as hard as a new hair mattress) and the breath <unclear reason="illegible" resp="EMS">misted</unclear> the bed clothes the room is a good sized room out in the yard by itself and a  Wm Stark from Philadelphia rooms with me there being two double beds in the room and plenty of room besides.  He is a pious man and after we got to bed said I was the first man he had seen bow his knee to his maker in private for 12 months he also did the same. He has been in business here for many years and knows the people well.  I have an office in the same building with the Private Marshal Lt Col <unclear reason="illegible" resp="EMS">Reclns</unclear> of Des Moins who looks very like John Smith, the same black hair and eyes and dark complexion he told me yesterday evening that Gen </p>
+            <pb n="4" facs="0012_000298_000202_0004.jpg" xml:id="d4e89"/>
+            <p>Tuttle paid me a high compliment said he liked my looks and thought we could get along together so you see that looks will for my comfort for here the Military are the <unclear reason="illegible" resp="EMS">Masters</unclear>.  I have not heard a word from home since I left but hope to hear <unclear reason="illegible" resp="EMS">tomm</unclear> when you write direct to Mr Wm R. Hackley Local Agent - <unclear reason="illegible" resp="EMS">Tres.</unclear> Dept. La Grange, Tenn. as the men in the P.O. will be more particular than they would otherwise be in sending them on-I want to see you all very very much - Kiss my boy for me - I will by and write again some time this week. God preserve you all </p>
+            <p>
+				WR Hackley
+				Mrs Wm. R Hackley
+						<unclear reason="illegible" resp="EMS">Iolut</unclear>
+            </p>
+            <p>Nov 31st I was much disappointed in not getting a letter from home this morning but suppose it was delayed in Memphis.  The weather is very cold here and I think of you when morning comes and there is no fire I hope you will keep a fire all night and hope by Jany you may be able to keep three as I think that their place is better than I thought it would be. you had better get some large envelopes and direct to me as Local Special Agent Treasury Dept as then the letters will be more promptly forwarded by the different Post offices through which they will pass - Love to all Take Care of yourselves</p>
+            <p>WRH WHackley -</p>
+            <p>William R. Hackley </p>
+            <p>Nov 29th </p>
+         </div>
+      </body>
+   </text>
+</TEI>

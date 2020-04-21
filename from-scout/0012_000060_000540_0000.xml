@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000540_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mary E. Huger</name>
+ in Knoxville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1885-12-24">1886 Dec. 24</date>
+            </title>
+            <author>
+               <name type="person">Huger, Mary Esther, 1820-1898</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000540_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mary E. Huger in Knoxville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1886 Dec. 24</title>
+               <date>1886-12-24</date>
+               <author>
+                  <name>Huger, Mary Esther, 1820-1898</name>
+               </author>
+               <extent>4 digital images; 1 envelope, 3 pages.</extent>
+               <note type="abstract">1886 Dec. 24, Mary E. Huger, Knoxville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Explains that a sprained ankle and Christmas preparations have prevented her from visiting Mrs. Ramsey since her arrival in Knoxville. Extends Christmas greetings. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Christmas -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee, East -- History -- 19th century.</term>
+               <term>Huger, Mary Esther, 1820-1898 -- Health.</term>
+               <term>Huger, Mary Esther, 1820-1898 -- Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e148">
+            <pb n="1" facs="0012_000060_000540_0001.jpg" xml:id="d3e149"/>
+            <p>Mrs Ramsay</p>
+            <p>East Knoxville Tennessee</p>
+            <pb n="2" facs="0012_000060_000540_0002.jpg" xml:id="d3e159"/>
+            <p>My Dear Mrs Ramsay,</p>
+            <p>I have been hoping each day since my arrival to get over to see you, but fearing you may not know how much pleasure it would really give I must explain that I fell down last autumn, &amp; <unclear reason="illegible" resp="JR">shawed</unclear> my ankle so badly I could not walk at all for several weeks, &amp; though I can get about very well now, for a short distance on level ground, with the help of a stick, I doubt if I shall ever be equal to a long walk again.</p>
+            <pb n="3" facs="0012_000060_000540_0003.jpg" xml:id="d3e172"/>
+            <p>I intended getting a carriage &amp; going over, as soon as the Christmas <unclear reason="illegible" resp="JR">market was near</unclear>, in which my daughter in law was much interested, &amp; I was helping her, with sewing for it, &amp; weak one night, but took such a violent cold have been sick ever since -- &amp; only lately able to leave the house, &amp; am now so busy with preparations for Christmas, having given up all idea of getting out until afterwards; but the first spare afternoon I have, hope to get up to your little top -- which now seems a very long</p>
+            <pb n="4" facs="0012_000060_000540_0004.jpg" xml:id="d3e183"/>
+            <p>way from this little hill top in West Knoxville --</p>
+            <p>Hoping you may have a pleasant Christmas with Children &amp; Grand children around you -- believe me your sincere friend</p>
+            <p>Mary E Huger</p>
+            <p>Dec 24 -- 1886</p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

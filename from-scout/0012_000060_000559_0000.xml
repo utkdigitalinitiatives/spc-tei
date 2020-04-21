@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000559_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Henry A. Chambers</name>
+ in Chattanooga, Tenn., to Henry R. Lenoir in Knoxville, Tenn.<date when="1905-04-12">1905 Apr. 12</date>
+            </title>
+            <author>
+               <name type="person">Chambers, Henry A. (Henry Alexander), 1841-1925</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000559_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry A. Chambers in Chattanooga, Tenn., to Henry R. Lenoir in Knoxville, Tenn. 1905 Apr. 12</title>
+               <date>1905-04-12</date>
+               <author>
+                  <name>Chambers, Henry A. (Henry Alexander), 1841-1925</name>
+               </author>
+               <extent>9 digital images; 2 envelopes, 7 pages.</extent>
+               <note type="abstract">1905 Apr. 12, Henry A. Chambers, Chattanooga, Tenn., to Henry R. Lenoir, Knoxville, Tenn. Informs Henry that the writer was asked to write an obituary of Henry&apos;s father, Dr. B.B. Lenoir because of family dissatisfaction with the newspaper notice. Outlines sources of information used for the article. Suggestions for having it published either privately or in newspapers. Warns them to have it carefully proofread. Enclosed is the lengthy obituary containing remarks about Dr. Lenoir&apos;s ancestors, events in his life, illustrations of his character, and an account of his funeral. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Obituaries -- Tennessee -- Loudon County. </term>
+               <term>Death notices -- Tennessee -- Loudon County.</term>
+               <term>Physicians -- Tennessee -- Loudon County -- History -- 19th century.</term>
+               <term>Lenoir City (Tenn.) -- History.</term>
+               <term>Loudon County (Tenn.) -- History.</term>
+               <term>Lenoir, Benjamin Ballard, 1821-1905 -- Death and burial.</term>
+               <term>Lenoir, Benjamin Ballard, 1821-1905 -- Family.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000559_0001.jpg" xml:id="d3e153"/>
+            <p>Please return if not delivered within 10 days.</p>
+            <p>Richmond, Chambers &amp; Cooper, Attys.,</p>
+            <p>American Surety Co. of New York,</p>
+            <p>18-19-20 Keystone Block,</p>
+            <p>Chattanooga, Tenn.</p>
+            <p>Henry R. Lenoir, Esq.,</p>
+            <p>Knoxville,</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000559_0002.jpg" xml:id="d3e176"/>
+            <p>American Surety Company.</p>
+            <p>Home Office Bldg.</p>
+            <p>New York.</p>
+            <p>Bondsmen</p>
+            <p>Superseded.</p>
+            <p>Capital,</p>
+            <p>$2,500,000</p>
+            <p>Surety on Bonds.</p>
+            <p>The Largest Surety Company in the World devoted exclusively to Guaranteeing the Fidelity of</p>
+            <p>persons holding positions of Pecuniary Trust, and to acting as Surety on</p>
+            <p>Bonds and Undertakings required in the Courts.</p>
+            <pb n="3" facs="0012_000060_000559_0003.jpg" xml:id="d3e205"/>
+            <p>Wednesday, April 12, 1905</p>
+            <p>Henry R. Lenoir, Esq.,</p>
+            <p>Knoxville, Tennessee.</p>
+            <p>Dear Henry:-</p>
+            <p>Soon after your father&apos;s death, Mr. McQueen of Loudon wrote me that you, Aunt Jennie and others of the family were not satisfied with the incorrect notices of your father which had appeared in the newspapers, and that you wanted me to prepare an appropriate notice of him if I were willing to do so. I at once replied that if it was the wish of the family I would gladly prepare an obituary notice, but that I would want certain dates and information which I did not have by me here. McQueen wrote or told me that he would obtain from you or others what I wanted and send it to me as soon as possible, but no such information was received until a few days ago when Mr. King, McQueen&apos;s partner at Loudon sent me such information as was contained in the &quot;Sacred Scroll&quot; of the Masonic Lodge at that place, which was meager. I was this delayed in preparing the notice until a few days ago when at the request of sister Lizzie (Mrs. D.M. Key) I was looking over the books at her house and found a book on Tennessee which contained among others a tolerably full sketch of your father. Upon getting data from this, I at once wrote out the notice which I herewith enclose for your examination. I am also sending Aunt Jenny a copy of the same.</p>
+            <p>The principal objection to the notice, which occurs to me, and which may give you trouble about its publication, is its length, but I do not see how justice could be done to your father or a proper sketch of his life and character be given in a shorter space.</p>
+            <pb n="4" facs="0012_000060_000559_0004.jpg" xml:id="d3e223"/>
+            <p>H.R.L.--2.</p>
+            <p>The only paragraphs that occur to me now that could be omitted are those about your father&apos;s grandfathers, General Lenoir and Col. Avery, on the first page of the enclosed sketch. Still, if the notice is to be of any service to the family and connection, and tend to promoting proper family pride and conduct and character worthy of it, a short statement of these two worthy ancestors whose history may not be familiar to the present generation, ought to be included.</p>
+            <p>I do not know, or course, how you propose to have the obituary printed, whether in newspapers or private form.</p>
+            <p>This latter, of course, is sometimes adopted and the notices sent to the kin and immediate friends of the deceased, but if printed in proper style I presume would cost a good deal. It might be that some of the church papers would publish it at a small charge, and then a number of the papers could be taken and sent to relatives and friends; and the general subscribers of the papers could of course also see the notice. The difficulty here however is that weekly papers generally have more than they could publish. The daily papers are often in want of matter to fill their pages, but might not care to fill them with obituary notices. You and the others interested can, however, determine the best course to pursue. But there is one thing I urge you to insist upon if you have the notice published at all, and that is that it shall be accurately published. If you do not watch it or have some one to carefully &quot;proof&quot; before the printing is actually done, the printers are almost sure to make a &quot;botch&quot; of it in many ways, and especially as to dates. Not long ago I furnished to the Chattanooga Times a plainly type-written list of the governors of Tennessee, with the dates of their terms; but as printed, several errors occurred. It so happened that I did not have a chance to see the &quot;proof&quot; before the paper was published, and the paper&apos;s proof-reader did not carefully read and correct the &quot;proof.&quot; By all means insist upon having a &quot;proof&quot; furnished before any printing of the notice is finally done. If you have it printed I would like to have a few copies.</p>
+            <p>With kindest regards to Bessie and the children, I remain,</p>
+            <p>Yours sincerely,</p>
+            <p>Henry A. Chambers</p>
+            <pb n="5" facs="0012_000060_000559_0005.jpg" xml:id="d3e243"/>
+            <p>DR. BENJAMIN BALLARD LEN0IR.</p>
+            <p>1821 — 1905.</p>
+            <p>Benjamin Ballard Lenoir was born on Monday, March 5, 1821 at Lenoir&apos;s Station,— now Lenoir City,— in that part of Roane County, Tennessee, which, in 1870, was embraced in the new County of Loudon.</p>
+            <p>He died at his residence, about one mile from the place of his birth, on Monday night, March 13, 1905 at the age of Eighty-Four (84) years, one week and one day.</p>
+            <p>He was the Sixth son, Tenth child and the last survivor of the Twelve (12) children of William Ballard Lenoir and his wife, Elizabeth Avery Lenoir.</p>
+            <p>He was of patriotic ancestry. His father&apos;s father was General William Lenoir, and his mother&apos;s father was Col. Waightstill Avery, both distinguished patriots of North Carolina and zealous promoters of American independence during the Revolutionary war.</p>
+            <p>General Lenoir, as a soldier, was an active participant in that war and was in the battle of King&amp;s Mountain and other engagements and campaigns; and, as a civilian, was long honored with places of responsibility and trust by his follow citizens. One of the largest Counties in the Eastern part, and one of the prettiest towns in the Western part of North Carolina were named for him.</p>
+            <p>Col. Avery was a loading and highly honored man of his day,— an able and scholarly lawyer, a signer in 1775 of the celebrated Mecklenburg Declaration of Independence,— in 1776 helped to form the first Constitution of North Carolina, in 1777 became the first Attorney General of that State, and was at other times in his long and busy life honored with many legislative and other public and responsible positions.</p>
+            <p>Dr. Lenoir always felt a proper and pardonable pride in his ancestry and his connection with their descendants,— always among the best people wherever they dwelt,— but, while he loved his kin, he did not depend upon, or, in his own conduct give undue prominence to family pride or family connections. He simply tried to live, and did live, a life worthy of them both, and, for his</p>
+            <pb n="6" facs="0012_000060_000559_0006.jpg" xml:id="d3e268"/>
+            <p>-2-</p>
+            <p>place and reputation in his day and generation, relied alone on himself, and on his own personal merits and conduct.</p>
+            <p>He graduated at the East Tennessee University,- now University of Tennessee,- in 1842.</p>
+            <p>He decided to become a physician, and completed his radical and surgical education and got his diploma at the famous Jefferson Medical College in Philadelphia, Pennsylvania, in 1846.</p>
+            <p>In his then circumstances he might, had he so chosen, have led an easy and, except in pursuit of pleasure, an idle, useless life.</p>
+            <p>His natural abilities, his professional acquirements and his then moans would, at least have justified him in locating in some large city where he must have inevitably secured a large, lucrative and comparatively easy or comfortable practice. He, however, decided to locate at his father&apos;s home, take upon himself the hard life of a country physician and give the benefit of his learning and skill to his kinspeople and to the neighbors and friends among the hills and valleys of his native locality. Here for over half a century, regardless of ease and comfort, by day and by night, in good weather and bad, across dangerous streams, and over the roughest of roads and paths he constantly went about in the practice of his chosen profession, from pure love of it and of his kind, and ministered skillfully to the sufferings of the people without regard to whether they were rich or poor, worthy or unworthy, or whether they could pay or not. In all those more than Fifty years, and until at last the infirmities of age absolutely prevented, no hour was too inconvenient, no time too stormy or repellant, no day too hot, no night too dark or cold, no road too long or rough or too dangerous by night, if not by day, to keep him from answering the call of distress from the sick and suffering. He was, indeed, a, &quot;Doctor of the Old School&quot;, of unfailing patience, kind as gentle as the gentlest woman, as brave as the bravest man, going on errands of mercy in all that rough hill country around about Lenoir&apos;s Station, yet by attending meetings of medical societies, reading the leading medical and surgical publications, by constant study and office experiment, he kept fully up with the progress of his profession. Even after he was compelled by age to give up</p>
+            <pb n="7" facs="0012_000060_000559_0007.jpg" xml:id="d3e286"/>
+            <p>-3-</p>
+            <p>active practice, and so long as he could use his eyes, he, as a labor of love, kept up his reading and study experiment, and gave the benefit thereof to his local medical society and professional brethren.</p>
+            <p>On November 27, 1855 Dr Lenoir married Miss Henrietta Rutledge Ramsey, daughter of Dr. J.G.M. Ramsey, the historian of Tennessee, who lived in Knox County of that State. She died, May 25, 1864. OF the four children of their marriage only two survive,- William B. Lenoir of North Carolina and Henry R. Lenoir of Knoxville, Tennessee.</p>
+            <p>On May 14 1873 he married Miss Margaret Virginia Siler, daughter of John Siler of Macon County, North Carolina. This good woman, his devoted wife of nearly Thirty-Three years, his efficient helper and wise counsellor while he was able to attend to business and practice and his watchful and tender nurse in the feebleness of his last few years, survives him,- a worthy widow of a worthy man. Of this marriage four children, one son, Benjamin Ballard, and three daughters, Bessie, Louisa and Myra, survive. The eldest son, Jon Siler, a bright and promising boy died just before reaching manhood.</p>
+            <p>Dr. Lenoir was a zealous Freemason and was long a Knight Templar and member of the Mystic Shrine. Even in his advancing years he always enjoyed the proceedings of these Masonic bodies.</p>
+            <p>He was, also, a long time consistent member of the Methodist Episcopal Church, South. At the home of Dr. Lenoir&apos;s parents and at the home of each of their children the minister of the Gospel was always a welcome and honored guest. In the old Lenoir homestead there was always, &quot;the preacher&apos;s room&quot;,- a prophet&apos;s chamber,- the best room in the house, specially set apart by Dr. Lenoir&apos;s pious mother for the use of any preacher who might come along in the pursuit of his sacred calling and tarry for a time beneath her hospitable roof. Dr. Lenoir and the other children of his parents, were in this and many other other ways trained to reverence religion and its servants; and while some of these children did not formally connect themselves to any church, thay all showed the effects of this training in their lives. It was not strange,</p>
+            <pb n="8" facs="0012_000060_000559_0008.jpg" xml:id="d3e304"/>
+            <p>-4-</p>
+            <p>therefore, that Dr. Lenoir should be among the few in these latter days, maintained the family altar and, in his modest way, as long as he was physically able, conducted family worship.</p>
+            <p>He gave much thought to religious matters as well as to his profession. While he never sought,- indeed, avoided,- religious controversy, and preferred to live rather than talk his religion, yet he was always ready, on proper occasion, to give a reason for the faith that was in him, and to maintain his views with ability and force.</p>
+            <p>Dr. Lenoir was not a money maker or even a money saver. He was not even able to keep much of his comfortable inheritance, and the additions thereto by his associate brothers who were better business men; but he has left to his family, his kinspeople and the community that which, in the last analysis of human acquirements, is, after all, far better than stocks and bonds and houses and lands,- the rich heritage of a good name and the fragrant memory of unselfish service and of good deeds done for his fellowmen. These things, though never put before the public by Dr. Lenoir and many of them known only to a very few, are nevertheless, the lamps that light the pathway of his life and will prevent his memory from passing into dark oblivion for many years to come.</p>
+            <p>The passing away of the last survivor of his generation of this old East Tennessee family was, as it should have been, no ordinary event in the community. The evidence of the great esteem in which he was held was manifest on the day of his burial. It was a busy time for the people. It was one among the first good days that came after a long and very severe winter. The farmers were behindhand with work and every working hour was precious to them. Nevertheless, from the town and all the country round about, the people among whose homes Dr. Lenoir in the performance of his duties had passed in and out for so many years, came with their families, and with every evidence of deep feelings, crowded the church and graveyard to pay their tribute of respect to their dead neighbor, friend and beloved physician.</p>
+            <p>And so it was that, with solemn religious ceremonies, the sublime ritual of the Knights Templar, and the impressive presence of the great company of sympathetic relatives and friends, they laid</p>
+            <pb n="9" facs="0012_000060_000559_0009.jpg" xml:id="d3e322"/>
+            <p>away, among his silent kindred in the family burial place, all that was mortal of this talented, learned, modest, manly, kindhearted Christian gentleman.</p>
+            <p>&quot;Servant of God, well done:</p>
+            <p>Rest from thy loved employ:</p>
+            <p>The battle fought, the victory won,</p>
+            <p>Enter thy Master&apos;s joy.</p>
+            <p>x x x x x x x </p>
+            <p>The pains of death are past;</p>
+            <p>Labour and sorrow cease;</p>
+            <p>And life&apos;s long warfare closed at last,</p>
+            <p>His soul is found in peace.&quot;</p>
+            <p>H.A.C.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

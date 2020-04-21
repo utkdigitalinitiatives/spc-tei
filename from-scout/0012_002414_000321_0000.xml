@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000321_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Gideon Hill Wells</name>
+				          Guarantee of immunity to President &amp; Directors of Insurance Company of North America.,<date when="1794-07-12">1794 July 12</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Gideon Hill Wells</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000321_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Gideon Hill Wells Guarantee of immunity to President &amp; Directors of Insurance Company of North America.,1794 July 12</title>
+               <date when="1794-07-12">1794 July 12</date>
+               <author>
+                  <name type="person">Gideon Hill Wells</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.2414</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000321_0001.jpg" xml:id="d4e39"/>
+            <p>Gideon H. Wells&apos;s</p>
+            <p>Obligation to indemnify</p>
+            <p>The Company against</p>
+            <p>transfer of</p>
+            <p>C. A. Bertiers&apos;</p>
+            <p>Shares</p>
+            <p>July 12, 1794</p>
+            <pb n="2" facs="0012_002414_000321_0002.jpg" xml:id="d4e55"/>
+            <p>Whereas Thirty Shares of Stock in The Insurance Company of North America stand on the Books of the said Company in the Name of
+				       C. A. Bertier deceased, &amp;the Receipts for the Payments formerly made cannot at present be found; but the Directors have
+				       notwithstanding agreed to receive from the Administrators of the said C. A. Bertier, the fourth Instalment which is now due thereon
+				       amounting to sixty Dollars, I the Subscriber, one of the Administrators aforesaid, do hereby engage that if the said Thirty Shares or any
+				       Part of them shall hereafter appear to have been transferred to any Person other than the said C. A. Bertier, that I will indemnify &amp;
+				       save harmless the President &amp;Directors of the Insurance Company of North America against such Transfer, &amp;the Consequences
+				       thereof. __</p>
+            <p>July 12th, 1794. _</p>
+            <p>GidHillWells</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to John Probert in Pittsfield, Ohio,
+<date when="1863-11-01">
+1863 November 1
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to John Probert in Pittsfield, Ohio, 1863 November 1</title>
+               <date>1863-11-01</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated November 1, 1863, from John Watkins in Knoxville, Tenn. to John Probert in Pittsfield, Ohio, Watkins describes the pine log huts that have been built by the soldiers stationed in Knoxville. He also discusses the need for troops in the older regiments: &quot;I sometimes wish and think that it would be a good idea if old Abraham would call out and put into the field enough troops to fill the old regiments up and keep them full.&quot; He writes also of operations in the Loudon, Tenn. area.</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e139">
+            <pb n="1" facs="0012_000074_000201_0001.jpg" xml:id="d3e140"/>
+            <p>Knoxville Tennessee Nov. 1st/63</p>
+            <p>Friend John</p>
+            <p>I received your letter of the 18th of Oct a week ago yesterday / the 24th but have delayed answering it till to day. we have been pretty busy for the last 10 days putting up a stable for our horses, and houses for ourselves. and now if we can only stay here for the winter I for one should like it first-rate. we have got things fied now so that we can live with some comfort. the huts are made of pine logs, 10 1/2 feet on the outside, to hold 4 men each. the one that I am in is not quite so wide as that but a trifle longer than the rest of them. we have built them about 6 feet high and have put our pup tents on the top of the logs for a roof, the door and a fireplace in one end and our bunks in the other end one above the other. a fellow by the name of Patterson bunks with me, the other two are Jim Curtis and a fellow by the name of Harper. and we have got things fixed a good deal better than we could have in our little tents on the ground.</p>
+            <p>I had about given up all hopes one spell</p>
+            <pb n="2" facs="0012_000074_000201_0002.jpg" xml:id="d3e154"/>
+            <p>of ever hearing from home but I did finally get some mail and for the last week or two the mail comes through pretty quick. I can get along pretty well as long as I can hear from home pretty often. but when we have to go without 3 or 4 weeks at a time then the men begin to growl about it, and still that dont hurry up the mule wagons a bit. I was somewhat surprised to hear that Al and Jim Davies had enlisted and I&apos;ll be darned if I aint sorry that Al has gone into the army. he will find it hard business slashing around in the wind all winter for if there is anything going in the winter time it is the Cavalry. but I hope he will make out to stand it and get along first-rate and I am in hopes the regiment will come this way when they leave Cleveland, so that I can see them. I wish sometimes that I could have the privelege of drafting and the power of putting some of the fellows out of that town into the service. I would make them curse the day they ever hounded other folks to go in the army. Ira <unclear reason="Last name unclear. Looks like the letter &quot;e.&quot;" resp="JH">E</unclear> for instance, Bud Parish for another and about a duzzen others that are at home and calculate to stay there but can go just as well as anybody but no</p>
+            <pb n="3" facs="0012_000074_000201_0003.jpg" xml:id="d3e165"/>
+            <p>I sometimes wish and think that it would be a good idea if old Abraham would call out and put into the field enough troops to fill the old regiments up and keep them full. recruits will learn here faster than any where else in the world. there is lots of regiments down here in this department that dont average 300 men for duty. but they are among the oldest regiments in the service. when the 9th army corps came into Kentucky last spring it was composed of 37 regiments and 9 Batteries in all about 20,000 men. and of course they have been sustaining losses most every since one way and another. at a fight down near Loudon a few days ago there was 11 regiments of the same corps engaged and I have heard that there was but 3000 men in all. if these could be filled up what a difference it would make. and I think that it would bring about the end of this trouble before long. a week ago to day there was a fight down below Loudon between our forces and the rebels. they had 10,000 Cavalry and mounted Infantry and two Brigades of Infantry. about half of the cavalry surrounded Colonel Wolford and part of his Brigade of Cavalry the 1st Ky</p>
+            <pb n="4" facs="0012_000074_000201_0004.jpg" xml:id="d3e173"/>
+            <p>and the 12th. about 500 men in all. in the mean time he had parts of two more regiments guardind a wagon train. they fought till there was no use any longer then they up and run right through the rebels and got away with the loss of 3 or 400 men, and all his <unclear reason="Word trails off at edge of page." resp="JH">carri</unclear> he is now here with his men getting clothing. they lost everything. I was talking with one of them that was taken prisoner by them but afterward escaped. he said he watched his chance and while the guards back was turned broke and run for the brush. and after a good deal of running and skulking got away. and about another of them that grabed a spade and killed his guard dead with the bit of it striking him on the head. your militia drill did not amount to to much after all. I would like to have been there and seen the regimental drill. I dont know as I can write you more at present so hoping this will find you all well -- I remain your friend</p>
+            <p>John Watkins</p>
+            <p>direct as before -- and as soon as you can</p>
+            <p>conveniently</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000219_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Jesse Glaze</name>
+ in Greencastle, Ia. to O.P. Temple in Knoxville, Tenn. <date when="1865-01-26">1865 January 26</date>
+            </title>
+            <author>
+               <name type="person">Glaze, Jesse</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000219_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Glaze, Jesse in Greencastle, Ia. to O.P.Temple in Knoxville, Tenn., 1865 January 26</title>
+               <date>1865-01-26</date>
+               <author>
+                  <name>Glaze, Jesse</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter dated 1865 January 26 Jesse Glaze, Greenclastle, Ia., to O.P. Temple. Offering Ga. Farm in exchange for Temple&apos;s land; Fox and I.C. Ramsey now at Knoxville jail are Infernal scoundrels; and ought to be executed; he and other prisoners there badly treated.</note>
+               <note type="collection">The O.P. Temple Papers, 1865</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000070_000219_0001.jpg" xml:id="d3e150"/>
+            <p>Greencastle Iowa</p>
+            <p>January the 26, 1865</p>
+            <p>Mr O.P. Temple Dear Sir I notice your advertisement through the Knoxville Whig stating that you have 3,500 acors of land for sale in this stat law for cash or to swap for land in Tennessee &amp; Mr Templ I am a tennessean by birth born and raised in Washington County, the fall so I emmigrated to Whitfield County Georgia ner Dalton I have a farm 6 Miles South of Dalton on the Consauga River containing 3.00 or 3.20 Acors the the last acount my Brouther Mosses was living on </p>
+            <pb n="2" facs="0012_000070_000219_0002.jpg" xml:id="d3e162"/>
+            <p>it &amp; Mr O.T. Temple my farm will gro Cotten well &amp; my plais of adress is Greecastle Iowa If you feel it to interest you can rite me how is your agent where your land lies &amp; Mr Terryl let me inform you that I know Fox &amp; I C Ramsy that now in prison in your town I was able to make their aquainten while in the Knoxville jail I and all the balerrs of the prisoners recieved bad treatment at their hans if justice is met out to thos infurnal Scoundrils tha will hav to die my sinser prayers is tha will </p>
+            <pb n="3" facs="0012_000070_000219_0003.jpg" xml:id="d3e170"/>
+            <p>be executed and Sperry withe them &amp; Mr Temple this infurnal Rebelion will be whip out sooner or later and the rebes maid Ackowledg the best goverment on earth &amp; Mr Temple you ar apprised of the fact that the climemt of this stat is grately on exsptreames and wants sut a southern man &amp; I suppose you ar a prised that their is thousands of Acours of Goverment land in this State <unclear reason="illegible" resp="NW"/> her rather than buy will Squat a farm &amp; Mr Temple those words ar facts &amp; I thought you coul rite my </p>
+            <pb n="4" facs="0012_000070_000219_0004.jpg" xml:id="d3e180"/>
+            <p>Brother Moses at Danton Georgia an go down and see the farm and if we can be benefted by the exchang all right my farm was well improved when I left it in November 63 &amp; if you will rite me stating whether your land is improved or not or what amount of timber you have I will give you the best traid I can &amp; this climent dont sut me and I will return South as soon Has this infurnal Rebelian is put down and Sinect to</p>
+            <p>Greencast Iowa</p>
+            <p>Yours <unclear reason="illegible" resp="NW"/>
+            </p>
+            <p>Jesse Glaze</p>
+            <p>Jesse Glaze</p>
+            <p>A Feb 6/65</p>
+         </div>
+      </body>
+   </text>
+</TEI>

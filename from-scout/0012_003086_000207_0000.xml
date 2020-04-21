@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003086_000207_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Robert G. Tatum</name> Photo Album, 
+<date when="1916">1913 March 15 - 1917</date>
+            </title>
+            <author>
+               <name type="person">Tatum, Robert G.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Wibking, Lyndy</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date>2013</date>
+            <idno type="SPC">0012_003086_000207_0000</idno>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <extent>32 pages</extent>
+               <note type="collection">Robert G. Tatum Papers</note>
+               <note type="manuscript">MS.0774</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Episcopal Church -- Clergy.</term>
+               <term>Tatum, Robert G.</term>
+               <term>Nenana (Alaska).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e108">
+            <pb n="1" facs="0012_003086_000207_0001.jpg" xml:id="d3e109"/>
+            <pb n="2" facs="0012_003086_000207_0002.jpg" xml:id="d3e113"/>
+            <p>WOOD FOR SALE</p>
+            <p>FURNACE and FIREPLACE</p>
+            <p>ALSO KINDLINGS</p>
+            <p>$6.00  per cord. $1.50 for BIG one-horse load.</p>
+            <p>JAMES PECK</p>
+            <p>Phone 0774 Painter Avenue</p>
+            <pb n="3" facs="0012_003086_000207_0003.jpg" xml:id="d3e129"/>
+            <pb n="4" facs="0012_003086_000207_0004.jpg" xml:id="d3e133"/>
+            <pb n="5" facs="0012_003086_000207_0005.jpg" xml:id="d3e137"/>
+            <pb n="6" facs="0012_003086_000207_0006.jpg" xml:id="d3e141"/>
+            <p>Easter Day, 1916.</p>
+            <p>Every girl made her own dress &amp; moccasins.</p>
+            <pb n="7" facs="0012_003086_000207_0007.jpg" xml:id="d3e149"/>
+            <pb n="8" facs="0012_003086_000207_0008.jpg" xml:id="d3e153"/>
+            <pb n="9" facs="0012_003086_000207_0009.jpg" xml:id="d3e157"/>
+            <pb n="10" facs="0012_003086_000207_0010.jpg" xml:id="d3e161"/>
+            <pb n="11" facs="0012_003086_000207_0011.jpg" xml:id="d3e165"/>
+            <pb n="12" facs="0012_003086_000207_0012.jpg" xml:id="d3e170"/>
+            <pb n="13" facs="0012_003086_000207_0013.jpg" xml:id="d3e174"/>
+            <pb n="14" facs="0012_003086_000207_0014.jpg" xml:id="d3e178"/>
+            <p>First meal after our arrival at McCarty. Sept 7<emph>th 1917</emph>
+            </p>
+            <pb n="15" facs="0012_003086_000207_0015.jpg" xml:id="d3e186"/>
+            <p>GARAGE AND LIVERY</p>
+            <p>HERSHEY CHOCOLATE CO. HERSHEY PA.</p>
+            <pb n="16" facs="0012_003086_000207_0016.jpg" xml:id="d3e194"/>
+            <pb n="17" facs="0012_003086_000207_0017.jpg" xml:id="d3e198"/>
+            <pb n="18" facs="0012_003086_000207_0018.jpg" xml:id="d3e202"/>
+            <pb n="19" facs="0012_003086_000207_0019.jpg" xml:id="d3e206"/>
+            <pb n="20" facs="0012_003086_000207_0020.jpg" xml:id="d3e210"/>
+            <pb n="21" facs="0012_003086_000207_0021.jpg" xml:id="d3e214"/>
+            <pb n="22" facs="0012_003086_000207_0022.jpg" xml:id="d3e218"/>
+            <pb n="23" facs="0012_003086_000207_0023.jpg" xml:id="d3e223"/>
+            <pb n="24" facs="0012_003086_000207_0024.jpg" xml:id="d3e227"/>
+            <pb n="25" facs="0012_003086_000207_0025.jpg" xml:id="d3e231"/>
+            <pb n="26" facs="0012_003086_000207_0026.jpg" xml:id="d3e235"/>
+            <pb n="27" facs="0012_003086_000207_0027.jpg" xml:id="d3e239"/>
+            <pb n="28" facs="0012_003086_000207_0028.jpg" xml:id="d3e243"/>
+            <p>The prize baby of Nenana. John, son of Agnes &amp; Pete Solomon and N.A.T&apos;s godson.</p>
+            <pb n="29" facs="0012_003086_000207_0029.jpg" xml:id="d3e249"/>
+            <p>I was on this last open car - just entering Royal Gorge Colorado train going 40 miles an hour when snapped.</p>
+            <pb n="30" facs="0012_003086_000207_0030.jpg" xml:id="d3e255"/>
+            <pb n="31" facs="0012_003086_000207_0031.jpg" xml:id="d3e259"/>
+            <p>First load of lumber left for new town at Nenana. Two streets, electric lights, steam heat, sanitary plumbing, and more than a thousand people by last report</p>
+            <pb n="32" facs="0012_003086_000207_0032.jpg" xml:id="d3e265"/>
+            <p>The new Industrial Bldg. as I last saw it.</p>
+            <p>Photo taken 3 a.m. (snap) July 2, 1916.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

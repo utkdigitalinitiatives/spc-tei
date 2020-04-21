@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000220_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Somerset, Ky., to Caroline M. Brown,<date when="1862-01-26">1862 Jan. 26</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000220_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Somerset, Ky., to Caroline M. Brown,1862 Jan. 26</title>
+          <date when="1862-01-26">1862 Jan. 26</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000220_0001.jpg" xml:id="d4e39"/>
+        <p>January 26 1862</p>
+        <p>Somerset Ky</p>
+        <p>To Caroline Brown</p>
+        <p>Dear wife and children I take this time to inform you that I feel verry well At this time all to sore legs from walking 33 miles and carreid my baggage it took me one day and a half to get though I found the boys tolarble well and in good sperrits they leave plenty to eat and drink <unclear reason="illegible" resp="LW">craksers</unclear> and beef and pork the Boys has the liberty to kill all the hogs they  have a mint to, whare they find them I was at church this forenoon the Chaplain give us a great preach <unclear reason="illegible" resp="LW">indes</unclear> I hope these few lines will find you injoying the</p>
+        <pb n="2" facs="0012_000599_000220_0002.jpg" xml:id="d4e55"/>
+        <p>your self as well as you can under the circumstances will permit it the talk is that we will move to morrow but we do not know whare at this time I supose Down South the great defeat of old Zoly was one of the greatest in the world i recon 500 miles and about that my horses 500 horses and five hundred four horse wagons 14 pices of cannon they left every thing they had in camp tents And all guns money and Dead men old Zoly was shot throug the heart so they say I saw a peice of his coat he was strip to the hide he had on A buck skin shirt under his other shirts</p>
+        <pb n="3" facs="0012_000599_000220_0003.jpg" xml:id="d4e59"/>
+        <p>I supose they got over Fifty thousand dollars worth of property from the rebels I am now siting out in the sun i <unclear reason="illegible" resp="LW">usese</unclear> my nap sack for a table to write on our camp is on a high peace of ground in an old orchard they had breast on all the hills about here for old Zoly our Boys crost fishing creek last Sunday by holding to a rope and warding waist deep and they laid on their arms all night that night on the ground they saw the men laing dead all over the feild our boys was not in the atall I want to go and see the battle field if can They say it was a site to see the buses cut down</p>
+        <pb n="4" facs="0012_000599_000220_0004.jpg" xml:id="d4e66"/>
+        <p>I reach here on saturday About 3 oclock in the Afternoon I will just say i had plenty of company from morrow town through to camp I cost me 12 Dollars I had 6 good meals to eat I want you to write soon after you get this tell me how the Boys gets along &amp; whether they are saucy or not</p>
+        <p>Direct to Somerset Ky</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

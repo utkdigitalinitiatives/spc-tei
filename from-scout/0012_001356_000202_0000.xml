@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, to <name type="person">Alfred
+                  Smith</name> in <name type="place">Nashville, Tenn.</name>, 
+               <date when="1865-03-25">1865 March 25</date>
+            </title>
+            <author>
+               <name>Smith, Eliza</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000202_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, to Alfred
+                  Smith in Nashville, Tenn., <date when="1865-03-25">1865 March 25</date>
+               </title>
+               <date when="1865-03-25">1865 March 25</date>
+               <author>
+                  <name>Smith, Eliza</name>
+               </author>
+               <extent>5 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>            
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>        
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>         
+         <change when="2013-07-16" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank 
+            pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <div type="letter" xml:id="d2e203">
+            <pb facs="0012_001356_000202_0002.jpg" n="1" xml:id="d2e205"/>
+            <!-- The text that appears at the top of the page is a continuation of the postscript, and was placed there to keep the document valid. This was documented with <note place=> -->
+            <opener>
+               <dateline>
+                  <name type="place">Binghamton</name>
+                  <date when="1865-03-25">March 25</date></dateline>
+            </opener>
+            <p>my dear son i now answer your kind letter that came to us on March 23 and we was glad to her you that you was enjoying a good state of health as it leaves us all well at this time bless god for so great a blessing my dear boy i was very glad to here from you and your dear brother also was glad and i feel very comfortable about you as i know Mr Curtis will be so kind to you if you are but a good boy as i beg you will be that you have meet with a kind friend that is Mr Curtis and i hope you will do all that is in your power to mind and obey him and then the lord bless you for it my dear boy you are young mind and do not be led in temptations for your young
+               
+            <pb facs="0012_001356_000202_0003.jpg" n="2" xml:id="d2e222"/>
+               mind may be <choice><orig resp="nl">easeliey</orig><corr resp="nl">easily</corr></choice> led astray but i hope you will shun temptation and follow the right path to glorey my dear boy if you have any leasure time dont forget to read your bible that you taken with you i pray for you as a mother for the welfare of her darling child you are in my thoughts aleays because you are so young to be in a strange land without a parent with you but i hope not without a friend your dear father is a long way from you i supose he is in chattanooga i received a letter from him the night that Austin received yours he was not very well he had a bad cold upon he says he is not received any letter from me yet and i have sent two i whish you would look after his letters and forward them to him if you find any in the post offeces send them
+               
+            <pb facs="0012_001356_000202_0004.jpg" n="3" xml:id="d2e230"/>
+               to him right away as i sent the last to <name type="place">Nashville</name> William smith chattanooga care his direction s c Meares he snet on thirty dolars and i received it safe and i sent him word and he is not receved my letter you must let him know if you can that we are all well  send me <unclear reason="illegible" resp="pw">men</unclear>how you have your pay by the month or quarter or how if by the month my dear boy you can send me a little if you live as Austin we have a enought to do to make both ends meet  he is <unclear reason="illegible" resp="pw">hinden concsetreble</unclear> with the blood bath <unclear reason="illegible" resp="pw">breghes</unclear>ar gone and the water in the two <unclear reason="illegible" resp="pw">syanyy</unclear>have meet and the water is <unclear reason="illegible" resp="pw">A</unclear>foot deep in the road nobody can pass ring had to move ever place is some out i have sent the accounts of in this peceis of News paper Austin got me to rite for him and he send his kind love to you and
+               
+            <pb facs="0012_001356_000202_0005.jpg" n="4" xml:id="d2e251"/>
+               he was so glad to <choice><orig resp="nl">here</orig><corr resp="nl">hear</corr></choice> from you and he says when you come home he will have bully good times together he is saved you his gun and he says if father comes home before you he will come down to you if you get him a birth with you  he says he should like to come down to Nashville <unclear reason="illegible" resp="pw">litte</unclear> Henery send you 60 thousand kises to his dear attey and thousand to his father  give our best respects to Mr Curtis and Mrs Curtis uncle and aunt sent there kind love to you and there best respects to Mr and Mrs Curtis pat foley send his best respects to you and all the boy in the shop desire to be remember to you Austin best respects to fred Martin  rite as often as you can and rite a good long letter  Mrs Coleg and sue and daniel send there best respects to you</p>
+               <closer>So i must conclude with our love to you we remain
+                  <salute>your affectionate<lb/>Mother and brother<lb/></salute>
+                  <signed>Eliza * Austin</signed>
+               </closer>
+               <postscript>
+                  <p>rite often dont forget</p>
+                  <note place="overleaf top"><p>Send these but of News to father if you can</p></note>
+               </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="envelope" xml:id="d2e291">
+            <pb facs="0012_001356_000202_0001.jpg" n="5" xml:id="d2e293"/>
+            <p>BINGHAMTON</p>
+            <p>MAR</p>
+            <p>27</p>
+            <p>NY</p>
+            <p><address>
+               <addrLine>Mr Alfred Smith</addrLine>
+               <addrLine>Nasville</addrLine>
+               <addrLine>Tenn</addrLine>
+               <addrLine>Box 487</addrLine>
+            </address></p>
+         </div>
+      </back>
+   </text>
+</TEI>

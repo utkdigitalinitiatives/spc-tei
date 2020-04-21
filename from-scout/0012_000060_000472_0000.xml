@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000472_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-08-12">1880 Aug. 12</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000472_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Aug. 12</title>
+               <date>1880-08-12</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 p.</extent>
+               <note type="abstract">1880 Aug. 12 Lyman C. Draper, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Presents evidence showing that very few Tennesseans were at the Cowpens. Believes that only four Tennesseans took part and these were volunteers. Mentions that a sketch of the writer&apos;s life has just been written. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Cowpens, Battle of, Cowpens, S.C., 1781.</term>
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>Tennessee -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>United States -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</term>
+               <term>Graham, James. Life of General Daniel Morgan.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000472_0001.jpg" xml:id="d3e151"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville --</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000472_0002.jpg" xml:id="d3e163"/>
+            <p>Madison, Aug. 12nd 1880.</p>
+            <p>My Dear Dr. Ramsey --</p>
+            <p>Your favor of the 6th is at hand.</p>
+            <p>I fear it would not be safe to infer that there was much of a part of Tennesseeans at the Cowpens. None of the printed accounts -- Judge Johnson, nor Graham&apos;s life of Morgan -- nor the unreliable acct. of Dr. S. L. Hammond in Johnson&apos;s Tradns. of the Revn., make any mention of Tennesseeans being there.</p>
+            <p>Evan Shelby Jr., what I wrote you was there -- (on Geo. Wilson&apos;s authority, I think, I wrote you --see my letter of 2nd Aug to be certain) was the brother of Gc. &amp; Moses Shelby -- &amp; as Evan was a Major at King&apos;s Mountain,</p>
+            <pb n="3" facs="0012_000060_000472_0003.jpg" xml:id="d3e179"/>
+            <p>as the docs. in Shelby &amp; PReston controvesy show -- &amp; Moses then a Captain, so it would hardly do to make the latter the Senior. So if there was any command -- I doubt it -- Evan had the Seniority.</p>
+            <p>In the accounts of the Cowpens, even Capt. Tate&apos;s command of Virginians is mentioned -- so, I think, if there had been any think like a company of Tennesseeans, they wd. have been mentioned somewhere. The little party of four -- with the possibility of a few associates, could only have been volunteers on their own look -- &amp; not enough of them to get any special notice. They, however, deserved it, for the distance they came.</p>
+            <p>Pray, don&apos;t make too many of them.</p>
+            <p>Very Truly Yours,</p>
+            <p>Lyman C. Draper.</p>
+            <p>You once wrote, in the goodness of your hears, for some data of my life. A friend &amp; neighbor, Prof. R.B. Anderson, of the State University &amp; distinguished as the writer on Norwegian literature has just written a sketch of me: But it may be sometime before it is in print.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000221_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Edward Maynard</name>
+				                    in Nashville,Tenn., to Washburn Maynard in Annapolis, Md. <date when="1865-11-21">1865 Nov. 21</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Edward Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000221_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Edward Maynard in Nashville,Tenn., to Washburn Maynard in Annapolis, Md. 1865 Nov. 21</title>
+          <date when="1865-11-21">1865 Nov. 21</date>
+          <author>
+            <name type="person">Edward Maynard</name>
+          </author>
+          <extent>10 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.0415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000221_0001.jpg" xml:id="d4e39"/>
+        <p>State of Tennessee</p>
+        <p>Executive Department Nashville</p>
+        <p>Mid'n Washburn Maynard</p>
+        <p>Naval Academy</p>
+        <p>Annapolis</p>
+        <p>Md.</p>
+        <pb n="2" facs="0012_001519_000221_0002.jpg" xml:id="d4e53"/>
+        <p>State of Tennessee,</p>
+        <p>Executive Department,</p>
+        <p>Nashville, Nov 21, 1865.</p>
+        <p>Dr. Pick,</p>
+        <p>I wish I could drop in this afternoon and see what <unclear reason="illegible" resp="JCM">may</unclear> naval brother is doing - I think if I could we would have a good time but as I cannot I will try and write my dear boy a "few lines."</p>
+        <p>I received yours of Oct 6 duly and I feel ashamed to say I have not yet asnwered it - My only plea for pardon must be that since I received it I have been absent at Knoxville part of the time and part of the time busy here - but do not consider this a plea in full but for the offense - I went to K. with Jim. Brownlow and his wedding party - I stood up as one of Jim's second at the time of his wedding and had fo a partner Miss Leda J. Harper a young lady, whom</p>
+        <pb n="3" facs="0012_001519_000221_0003.jpg" xml:id="d4e70"/>
+        <p>you rightly seem to consider as the object of my affections and one that I hope to make Mrs. Ed. Maynard - She accompanied the party to K. and I need not tell you that our trip was a delightful one - There was a party at Mr. Brownlows where we did not dance and when I did not enjoy myself save in talking to Leda - There was one at Genl Corbin's, at the McPherson house, where we did nothing but dance and at which I did enjoy myself. Corbin commands a negro regiment - There was also a party at Mr. Maynard's at which tere was no dancing but a sit made our old bare walls look cheerful I enjoyed it - "Fout le mond" and every body else was there - These were the only parties and the balance of the the time was spent in riding and going to church. We got there one Sunday and came away the next - I came to Nashville and went to work - The rest of the party went to Franklin - In a few days "Leda" went to her home in Hamilton, Ohio and I</p>
+        <pb n="4" facs="0012_001519_000221_0004.jpg" xml:id="d4e74"/>
+        <p>am lone and weary patiently waiting for the day when I can bring the young lady home with me to stay - By the way you asked some questions about her -</p>
+        <p>I first met her while she was on a vist to Jim Brownlos's wife then Miss <unclear reason="illegible" resp="JCM">Cliffe</unclear> at Franklin - Had seen her but once or twice when I began to feel that I liked her more than was customary - I visted Mrs. Cliffes very often while Miss Harper remained which was about two months and found that my love increased - I accompanied her home to Hamilton when she returned, that is I took a trip to Ohio for my health - Was more pleased than ever - Told her I loved her and, strange to say, she said she loved me - I asked her would she marry me - She said she would - I then asked her if she would wait for me and she again said yes - Now you have the whole courtship, my noble lord. Miss H. is eighteen years of age she is as large or larger than Millie- Light hair, about the color of yours, blue eyed, very fair</p>
+        <pb n="5" facs="0012_001519_000221_0005.jpg" xml:id="d4e83"/>
+        <p>complexioned very fine looking but not beautiful - She is word educated, sings well and is of an old family that is wealthy - If I marry in a year I shall wait until you are through at the Academy and can come on - At a party at Mr. Sam Carter's here I met a young Midn Fletcher by name who had just graduated and said he knew you - He is a gay one and puts on right sharp style but I guess is a clever fellow - A Few days agao as Jim Brownlow and I were going to Franklin in a buggy just after dark we were riding along very pleasantly singing "Kitty Wells" and just as we had "laid the young lady in the tome we heard the well known order "halt" We halted, said I "what do you wnat," "Deliver order"- Jim looked at me, I looked at Jim - and as our pistols were where we could not easily reach them and a cocked pistol stared each of us very unpleasantly in the face we concluded to deliver - Jim very slowly pulled out two bills and handed them over saying "I just had fifteen dollars" but not satisfied with that Mr. Robber put in his hand and pulled out a little over four hundred dollars Jim was taking home and asked have you a watch, Jim said "No"</p>
+        <pb n="6" facs="0012_001519_000221_0006.jpg" xml:id="d4e87"/>
+        <p>Robber said get out and let me search you, Jim said "O, here is my watch, a plain silver one I forgot it" Robber said get out and let me search you any how - "Jeems" got out - Then Edward was required to come down which he did as gracefully as possible and submitted to the search as meekly as a lamb - but fortunately I had no money nor watch as I had no money and had left my watch, but O burning shame he took from my pocket a Derenger pistol loaded and was just about putting it in his pocket - At this I said " please don't take that pistol my dead father gave it to me and I prize it on that account" - He very politely fired it off and handed it back to me - They then made us get in the buggy and drive on - As we got in Jim said "You're robbed two as brave soldiers as were</p>
+        <pb n="7" facs="0012_001519_000221_0007.jpg" xml:id="d4e91"/>
+        <p>ever in the U.S. Army"  Then I laughed - The idea of two men with a double barreled shotgun and three pistols surrendering two three men without the firing of a gun was <unclear reason="illegible" resp="JCM">supertatively</unclear> rideculous - True the gun was not loaded and our pistols were out of the way and they surprised us but the idea is galling that in, after being under fire over a hundred times, were forced to give up to three footpads - The next time we ride we will try and be ready for them - We got horses as soon as we could and followed them nine miles that night but lost their track and could not catch them - I have been humbug twice since I have been here - Once day we (three if us) killed 14 birds and three rabbits. We killed the birds on the wing - The other time Jim B. and I tried netting but the birds were too wild and would not</p>
+        <pb n="8" facs="0012_001519_000221_0008.jpg" xml:id="d4e98"/>
+        <p>drive but just at night we shot three after we gave up netting - I find that at a single bird on the wing I can do very well killing two out of three birds I can not do so well at a <unclear reason="illegible" resp="JCM">corry</unclear> or sitting - Nov 21st Well Pick, so far had I gotten in my attempt to enlighten the <unclear reason="illegible" resp="JCM">naval</unclear> mind when dark came and Iwas obliged tocease my official (?) duties - My work here is of a kind not particularly pleasant or suited to my erratic, active disposition - I get to the office at about 8 1/2 A.M. and except for dinner I sit there until about 5 P.M. Generally writing tho' sometimes merely reading or talking - It is by no means an enviable berth - Let me advise you my dear boy to remain where you are for the prsent at least and while you do stay make every <unclear reason="illegible" resp="JCM">sope</unclear> draw and gain every item of information you</p>
+        <pb n="9" facs="0012_001519_000221_0009.jpg" xml:id="d4e111"/>
+        <p>can for Iassure you that is what one needs in this wild workd ofours. Money makes the <unclear reason="illegible" resp="JCM">man</unclear> go and one can easily make money if they just have Knowlidge <unclear reason="illegible" resp="JCM">andI</unclear> feel that I have wasted my time - While I was at college I should have studied much harder than I ever did and while in the Army I should have saved money and worked. Had I done so I would have quit the Service a Brig. Gen. at least in rank and <unclear reason="illegible" resp="JCM">want</unclear> some Five Thousand Dollars in money - As it is I quit as a pullry Luint. Col., in debt and with no thought to console me save that I had been a food, fought tolerably hand and had my life left unharmed - This <unclear reason="illegible" resp="JCM">lust</unclear> is much and will strain every nerve to get out of debt and make a man out of my self - Donot envy me atall, my boy, but be assured that you are better off than I am. Remember that a straight forward, honest, sober course is sure to win respect - Recollect also that it is the money we have and not the money we spend that gains us credit - I have not as many friends now I have no money and am in debt as I had when Lt. Col. Comdy and had plenty of money - Drinking <unclear reason="illegible" resp="JCM">legion</unclear> running after women and all like habits will eventually ruin the best man that lives ifhe</p>
+        <pb n="10" facs="0012_001519_000221_0010.jpg" xml:id="d4e130"/>
+        <p>he follows them - So shun them as you would poison - Study hard, hold your high position and work up if you can - but my dear fellow I know you will not fancy a lecture from me so I will close - Father was here two days last week - He came in on Sunday evening suffereing terribly with <unclear reason="illegible" resp="JCM">choles</unclear> - I doctored him as well as I could and next morning he was better - He started home again on Tuesday evening with his credentials as Member of Congress elect in his pocket. I am terribly sorrry it is so, but father is breaking down in his physical health - All were quiet well at hime - Jimmie had just returned from Campbell Co. where he had been all Summer -</p>
+        <p>Give my regards to Jim. Fletcher and tell him all are very well at his home - Please write soon and in detail - Excuse my bad penmanship rambling shy to and length of remarks -</p>
+        <p>And, dear brother, believe me.</p>
+        <p>Afftely your brother</p>
+        <p>Ed</p>
+      </div>
+    </body>
+  </text>
+</TEI>

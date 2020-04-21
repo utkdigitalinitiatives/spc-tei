@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000496_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mary E. Huger</name>
+ in Sewanee, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1882-04-09">1882 April 9</date>
+            </title>
+            <author>
+               <name type="person">Huger, Mary Esther, 1820-1898</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000496_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1882 April 9 Mary E. Huger, Sewanee, Tenn., to M.B.C. Ramsey</title>
+               <date>1882-04-09</date>
+               <author>
+                  <name>Huger, Mary Esther, 1820-1898</name>
+               </author>
+               <extent>4 digital images; 4 p.</extent>
+               <note type="abstract">1882 April 9 Mary E. Huger, Sewanee, Tenn., to M.B.C. Ramsey. She explains her earlier departure from Knoxville and regrets that it was not in her power to accept the invitation for the Dr&apos;s 85th birthday celebration. Reminisces about pleasant visits with Dr. and Mrs. Ramsey and their social interlocutions. Writes about organizing school in Sewanee, food prices, and opening of the school, i.e. University, and the number of students enrolled.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Home ownership -- Tennessee -- Sewanee.</term>
+               <term>School facilities -- Tennessee -- Sewanee.</term>
+               <term>Food prices -- Tennessee -- Sewanee.</term>
+               <term>Sewanee (Tenn.)</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Anniversaries, etc.</term>
+               <term>Huger, Mary Esther, 1820-1898 -- Homes and haunts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000496_0001.jpg" xml:id="d3e151"/>
+            <p>Sewanee. Easter Sunday. Tennessee</p>
+            <p>April 9th</p>
+            <p>My Dear Mrs. Ramsay</p>
+            <p>My Son forwarded me your kind invitation for the Drs birthday -- which made me regret still more, that I was obligated to leave Knoxville so soon -- I wrote to you through the mail the day before I left, telling you why I had not said good bye, the last evening I was at your house, when I took a cup of Coffee with the Dr. I hoped then to be able to spend another afternoon with you &amp; it gave me pain to say good bye. I fully intended to write last week but have been so much occupied since my return, have not had a quiet hour. In the last fortnight, I have established my self, with my two daughters, &amp; little Esther, in a Cottage, next door to my daughter Mrs Elliott. We had every thing to arrange in the house, &amp; a great deal outside of it.</p>
+            <pb n="2" facs="0012_000060_000496_0002.jpg" xml:id="d3e165"/>
+            <p>and at the same time had to organize our school -- have the school house made clean &amp; put in order, refrain fence - &amp; C, &amp; commenced last Monday with Eleven pupils -- three more come tomorrow, &amp; I think we have the prospect of a successful school. My eldest Son promised to give his Sister a piano, &amp; when that comes, they will have several music pupils, so we feel we have much to be thankful for, in a comfortable peaceful home, where we can live together in independence.</p>
+            <p>The girls are quite delighted -- Being <unclear reason="illegible" resp="JR">blan</unclear> children, &amp; recollecting nothing of times of more worldly prosperity, they enjoy their own home, &amp; I doubt if the Vanderbuilts &amp; Goulds are as contented &amp; merry.</p>
+            <p>I find vegetation much behind Knoxville, the trees, except fruit, &amp; some early ones, still look as bare &amp; black as mid winter.</p>
+            <pb n="3" facs="0012_000060_000496_0003.jpg" xml:id="d3e180"/>
+            <p>There are no vegetables to be had, &amp; all the provisions dearer, than I have ever known them -- beef as high as 12 1/2 -- Chicken, 25 butter 25 &amp; corn &amp; meal 1,25 -- though I have known it as cheap as 40 -- &amp; the usual price is from 60 to 70 cts per bushel.</p>
+            <p>The school -- University has opened well as usual I think -- between 1 &amp; 2 hundred Students -- Only those, who have homes here, <unclear reason="illegible" resp="JR">are</unclear> duties, are yet on the Mountain, but the hot months, will bring many visitors, &amp; pupils to us too, I expect.</p>
+            <p>I often think of the pleasant visits to you &amp; the Dr. the only social intercourse I had in Knoxville, &amp; truly hope shall meet you both next Autumn --. My Son &amp; his wife are going to Norfolk soon to the wedding of my nephew Thomas <unclear reason="illegible" resp="JR">Pinckney</unclear>, but I hope they will find time to make you a visit occasionally. Remember me most kindly to the Dr &amp; your daughter &amp; Believe me yours truly</p>
+            <p>M E Huger</p>
+            <pb n="4" facs="0012_000060_000496_0004.jpg" xml:id="d3e200"/>
+            <p>I see the Emperor William of Germany&apos;s Birthday was the 22 of March -- we was 85.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

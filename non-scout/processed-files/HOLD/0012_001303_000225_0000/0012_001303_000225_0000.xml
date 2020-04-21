@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000225_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France ., Ellen Smith in Jackson, Tenn., <date when="1918-08-06">1918 Aug. 6</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000225_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France ., Ellen Smith in Jackson, Tenn., 1918 Aug. 6</title>
+          <date when="1918-08-06">1918 Aug. 6</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000225_0001.jpg" xml:id="d4e39"/>
+        <p>J.L Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Ex F</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000225_0002.jpg" xml:id="d4e55"/>
+        <p>Over There.</p>
+        <p>Aug 6 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Well I received a letter from you saturday Was awful glad to here from you even if it was seven weeks old The letter was dated 19 of June and I got it on the 3 of Aug. So you can see how good our mail service is over here.</p>
+        <p>Well it has been trying to rain all day. But that is the easyist thing on earth for this country. I had to laugh at <unclear reason="illegible" resp="PW">Arr</unclear>to day while it was raining a little shower </p>
+        <p>He said this is a H___ of a country to be fighting over  Well we are still giving the Germans a good licking of course you read it in the papers at home you know as much about it as I do for I am not where the big fight is going on</p>
+        <p>I dont thank will get home for X Mas dinner  I have decide to take dinner in Berlin on X Mas. And then after dinner I will go out walking and look the town over</p>
+        <pb n="3" facs="0012_001303_000225_0003.jpg" xml:id="d4e74"/>
+        <p>I know you was glad to see Peachie come back so you could see your little neice. Bet she is some kid, well Ellen news is awful scarce overhere that I can tell so will have to quit for this time will try and write more next week</p>
+        <p>So write me every time you can I do enjoy your letters</p>
+        <p>With lots of love</p>
+        <p>James L Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Ex Force</p>
+        <p>Via N.Y.  France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

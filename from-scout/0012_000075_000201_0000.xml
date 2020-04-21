@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000075_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+William A. Huddard
+</name>
+near Knoxville, Tenn., to his father in Ohio,
+<date when="1863-12-20">
+1863 December 20
+</date>
+            </title>
+            <author>
+               <name type="person">Huddard, William A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000075_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William A. Huddard near Knoxville, Tenn. to his father in Ohio, 1863 December 20</title>
+               <date>1863-12-20</date>
+               <author>
+                  <name>Huddard, William A.</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">In this letter, dated December 20, 1863, William A. Huddard, stationed near Knoxville, Tenn., writes to his father in Ohio, discussing recent military operations around Knoxville. He explains that his brigade was sent to the &quot;Front, being placed on the extreme left to hold the Gap between Clinch and House mountains.&quot; Also, he complains that he is &quot;getting tired of this place,&quot; as he had not &quot;seen a paper since leaving Chattanooga.&quot;</note>
+               <note type="collection">The William A. Huddard Papers, 1863</note>
+               <note type="manuscript">MS.2119</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Strawberry Plains (Tenn.) -- History -- 19th century.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Huddard, William A. -- Correspondence.</term>
+               <term>United States. Army. Ohio Infantry Regiment, 1st (1861-1864). Company D.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000075_000201_0001.jpg" xml:id="d3e153"/>
+            <p>Camp at the foot of Clinch Mountain</p>
+            <p>Dec 20th 1863</p>
+            <p>Dear Father,</p>
+            <p>I received your letter of the 20th some two or three days ago but untill this morning I could not find time to answer it. In my last I beleif we were under marching orders. Well that same day our Brigade was ordered to the Front, being placed on the extreme left to hold the Gap between Clinc and House mountains This is about sixteen miles north of Knoxville and about two from Strawberry Plains, at which place the main body of our army is encamped. On our front we have thrown up Brest Works but I think they will be of little use to us, for I dont think Longstreet will risk another fight Yesterday heavy firing was heard on our Right. I have first heard that it</p>
+            <pb n="2" facs="0012_000075_000201_0002.jpg" xml:id="d3e167"/>
+            <p>was our Cavalry fighting at New Market. That place is nine miles north of the Plains and directly in our Front. The Cavalry report the main body of Longstreet men as leaving, moving in the direction of North Carolina. They still tell us that our Division is to return to Chattanooga. For my part I dont care how soon we start for I am getting tired of this place. I havent seen a paper since leaving Chattanooga. They are doing all they can to get our regiment in the Veteran Corps. Gov Tod has written to Major Stafford saying that he wishes to keep up the old organization. But I am afraid they will hardly succeed. The Boys say that the Veteran Corps is played out. I am still enjoying good health weigh more now than I ever did before. I am now staying at the House of a Rebel Lieutenant, guarding the property. We had a splendid Christmas Dinner yesterday. But I will have to close. There is no talk of a forward move. Give my love to ma and all the rest. And write soon Yours Affectionately</p>
+            <p>Will</p>
+            <p>PS Direct letters to Chattanooga</p>
+         </div>
+      </body>
+   </text>
+</TEI>

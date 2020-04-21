@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000232_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Yazoo City, Miss., to his wife <date when="1866-01-10">1866 Jan. 10</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000232_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Yazoo City, Miss., to his wife 1866 Jan. 10</title>
+               <date when="1866-01-10">1866 Jan. 10</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000232_0001.jpg" xml:id="d4e39"/>
+            <p>Yazoo City Jany 10 1866</p>
+            <p>My Darling</p>
+            <p>I arrived here safe and sound Yesterday Morning the water only slightly affecting my bowels and a little dry cough at night but this morning I feel all right - There has been but little doing in the office my share being about $75,  found three letters from you and one from Charlie with the letters of sisters Martha and Mary, At Memphis I did not see the Holmans as I was in town only about five hours Judge Barnity (who has Genl Ormes place) told me he had written to have me appointed Supervising Spc Agt. as he was obliged by his business to resign. he said he knew that <unclear reason="illegible" resp="EMS">Miller</unclear> had a very high opinion of me and had no doubt that I would get the office <unclear reason="illegible" resp="EMS">if</unclear> so I shall return to Memphis I found a letter from Tommy in which he says that he regrets that he has no position for me better than this one. the pay of Super agt is much better than my present so I hope I shall get it </p>
+            <pb n="2" facs="0012_000298_000232_0002.jpg" xml:id="d4e53"/>
+            <p>and soon. The weather here is very cool I slept last night with more cover than I required with you. I came down the river with Athearn who is going into business in N Orleans and thinks he will do well he again refused the com of Capt in the Reg army which was offered him write regularly and if the Telegraph is in operation to Boonville let me know so that if I go to Memphis I may notify you of the fact Kiss all for me</p>
+            <p>Mrs Wm. R Hackley           Your aff Husband</p>
+            <p>Boonville                              WRHacley</p>
+            <p>Mo</p>
+         </div>
+      </body>
+   </text>
+</TEI>

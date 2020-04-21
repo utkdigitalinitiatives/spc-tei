@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Camp Dixie, Tenn., to Sarah Probert in Pittsfield, Ohio,
+<date when="1863-08-28">
+1863 August 28
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000206_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins at Camp Dixie, Tenn. to Sarah Probert in Pittsfield, Ohio, 1863 August 28</title>
+               <date>1863-08-28</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">In this letter, dated August 28, 1863, from John Watkins at Camp Dixie, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins gives a summary of the march from Crab Orchard, Ky. to Camp Dixie. He discusses the rough roads, the difficulty of marching and other very general information.</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Tennessee, East. -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e139">
+            <pb n="1" facs="0012_000074_000206_0001.jpg" xml:id="d3e140"/>
+            <p>Mr. George W. Probert</p>
+            <p>Pittsfield Swain</p>
+            <p>Co. Ohio</p>
+            <pb n="2" facs="0012_000074_000206_0002.jpg" xml:id="d3e152"/>
+            <p>Camp Dixie Tennessee August 28th 1868</p>
+            <p>My Darling Sarah</p>
+            <p>I have jest heard that we can send some letters back if we get them ready by 12 oclock and I have jest sit down to write to you a few lines, to let you know wehre I am, and how I am. we are about 4 miles south of the state line in Tennessee we got here night before last but expect to leave any hour. we had to stop here fro the supply trains to come up, and to get a little forage for our horses. we left Crab Orchard a week ago to day. and I dont think rougher roads could be found anywhere. Sunday we crossed the Cumberland river and there was an awful hill and after we got up the hill we stayed there for the rest of the day waiting for the transportation to get over, and there is about 1000 wagons along with us in all. we are right in the wilderness, no inhabitants hardly and those most all boys and women. we are on our way to Jacksboro. when we get there we will be across the mountains from there I suppose we will go to Knoxville. we have had a pretty hard march so far and but little forage for our horses and some of the way they had to go all day without water. Tuesday night I received a letter from you mailed on the 18th and with it Johns. although a short one I tell you I was glad to hear from you. we had heard that the mail would follow us but I hardly expected to get a letter from home for a good while. and John&apos;s folks have got another little girl have they. I hope theyl have good luck with</p>
+            <pb n="3" facs="0012_000074_000206_0003.jpg" xml:id="d3e164"/>
+            <p>it and have Eliza get along without any trouble but you be careful of yourself. dont work yourself to hard Sarah and make yourself sick. darling if we ever get to where there is a regular mail route, I will write you a longer letter and give you some of the particulars of our march and how we got along. but I have not time enough to write you a very long one this time and the Chaplain of the 100th regiment is going to take the mail through so you may get this one and you may not. but Sarah my love for you is jest as true as ever and oh how often I think of you away off down here and wonder if I shall ever see you again but I guess I shall easy enough. I am as well now as I have been at all and feel as though I could stand almost anything so now I will bid you a good bye.</p>
+            <p>when you write direct to </p>
+            <p>Head Quarters Hickman Bridge,</p>
+            <p>Ky. in care of Capt. Joe C.</p>
+            <p>Shields 19th Ohio Battery</p>
+            <p>to follow the Battery</p>
+            <p>23 Army corps</p>
+            <p>Yours truly</p>
+            <p>John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000208_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Holston U.S.A. General Hospital, Knoxville, Tenn., 
+<date when="1864-07-31">
+1864 July 31
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000208_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn. to Jeannie Lockhart, 1864 July 31</title>
+               <date>1864-07-31</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated July 31, 1864 from Holston U.S.A. General Hospital in Knoxville, Tenn., to &quot;My Own Darling,&quot; John Shrady, a regimental surgeon, describes the atmosphere in Knoxville towards the end of the Civil War. Additionally, he discusses the merits of being mustered out in Nashville as opposed to Knoxville.</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000208_0001.jpg" xml:id="d3e143"/>
+            <p>Holston U.S.A. General</p>
+            <p>Hospital</p>
+            <p>Knoxville, Tenn.</p>
+            <p>July 31st, 1864.</p>
+            <p>My Own Darling,</p>
+            <p>As Sunday by common consent seems to be appropriated by the absent for the writing of letters, and as you yourself at this very moment are so engaged, why of course I cannot be out of the fashion, to say nothing whatever of the delightful thrill of pleasure that always accompanies good deeds opportunely done.</p>
+            <p>The weather though quite warm is in other respects unobjectionable -- the streets of Knoxville are of course not as busy as our own, but the whole town, to my eye, wears a garrison-like aspect. Almost every pedestrian is a soldier and every equestrian ditto. The shops display Army staples, such as shoulder straps, uniforms, &amp;c., in dazzling profusion. We have more than a sprinkling of Darkies in the population</p>
+            <pb n="2" facs="0012_000068_000208_0002.jpg" xml:id="d3e163"/>
+            <p>but somehow or other we become accustomed to these things and don&apos;t notice them.</p>
+            <p>The First East Tennessee Infantry now &quot;at the Front,&quot; ; I have heard are to march from there on the 4th proximo, preparatory to being mustered out at Nashville on the 10th We come the next in order of the Tennessee Regiments and I trust that we too will be mustered out at Nashville -- it would suit me much better than Knoxville -- because I would then have company up to the former point and a great portion of the journey home would be accomplished, without any draft upon my time. It would make in this respect, a difference of a few days as you will see -- in other words, if mustered out at Knoxville, I would start from there on the 28th September, if at Nashville, I would be about 3 days on my journey. Thus you see I have become both selfish and calculating.</p>
+            <p>You must make my apology to little Sis for not having written to her lately, tell here that I have not forgotten her by</p>
+            <pb n="3" facs="0012_000068_000208_0003.jpg" xml:id="d3e175"/>
+            <p>any means. Say to her that she must not forget her Papa or get into a fret and refuse to write to him any more -- tell her that at her early age, she must not stand too much on etiquette.</p>
+            <p>I hope that Mother and Fan are getting along well and that they are enjoying more than an average amount of good health. I trust that your house is full altho&apos; at present rates I suppose that not much can be made. I have a sneaking notion when I come back, unless Stillwell makes me some kind of an offer to try Harlem, as a point from which to start a practice. This has been a notion of mine long before it entered George&apos;s head. But then the Demonstrator business comes in as a kind of Marplot to this plan.</p>
+            <p>At all events I flatter myself that I could do very well down here, if you should agree to become Southernized -- since the people of East Tennessee, think that there are no Doctors to be compared with</p>
+            <pb n="4" facs="0012_000068_000208_0004.jpg" xml:id="d3e187"/>
+            <p>those from the Army. But all these are topics for discussion when I see you.</p>
+            <p>You must not wonder at my repeating of the enquiry, &quot;Have you received the letter containing the draft for Eight hundred and Fifty Dollars, dated July 21st or thereabouts?&quot;</p>
+            <p>I send a kiss to little Magifanny by you, which I know she will return you on my account. God bless and keep you, my precious Darling and grant that I may ever prove worthy of your love.</p>
+            <p>Remember me to Pa, Ma and the rest. Address me at</p>
+            <p>Holston U.S.A. General Hospital</p>
+            <p>Knoxville, Tenn.</p>
+            <p>Write soon, give me all the news and believe me</p>
+            <p>Ever Yours Devotedly</p>
+            <p>John</p>
+            <p>P.S. Some of the Hospital carpenters have built a very pretty little boat for the river, which as I have the privelege of naming shall call &quot;Jeannie Lockhart&quot;</p>
+            <p>Yours again</p>
+            <p>John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>G. Martin</name>
+				                    in Clifton, to his sister, Elizabeth Martin Donelson <date>undated</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">G. Martin</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000202_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, G. Martin in Clifton, to his sister, Elizabeth Martin Donelson</title>
+               <date>undated</date>
+               <author>
+                  <name type="person">G. Martin</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000202_0001.jpg" xml:id="d4e39"/>
+            <p>Mrs. E.A. Donelson</p>
+            <p>care Maj AJ Donelson<unclear reason="illegible" resp="EMS">&amp; c &amp; c</unclear>
+            </p>
+            <p>Minister </p>
+            <p>Berlin</p>
+            <p>Prussia</p>
+            <pb n="2" facs="0012_000435_000202_0002.jpg" xml:id="d4e53"/>
+            <p>My Dear Sister    Clifton Nov </p>
+            <p>I have just received your letter dated at Berlin Sept 8th, which you committed to the care of Mr <unclear reason="illegible" resp="EMS">Goodaking</unclear>. it was Post Marked N York. For this and the many tokens of your kind remembrance though ocean, river, mountains, and valeys are between us, I must express my most sincere thanks. I am much astonished to hear that you have not received a letter from any of us since you reached Berlin. I have written to you twice. the first letter was dated about the 1st July the second the 20th Sept. &amp; Sister Mary wrote you a long letter about three weeks since.</p>
+            <p>I am very much surprised to hear that your suit against <unclear reason="illegible" resp="EMS">Heath &amp; Lyons</unclear> has been compromised at $1,000 and that <unclear reason="illegible" resp="EMS">Bunkhead</unclear> has pocketed the money. I wrote to him about a month since supposing that he would go to Texas this winter, and requested him if he should go, to leave all the Patents that he had in his possesion belonging to <unclear reason="illegible" resp="EMS">Mr Randolph&apos;s</unclear> estate. with Dr <unclear reason="illegible" resp="EMS">Jett</unclear> the Receiver of the Washington Drs Land Office. to which he replied that he was going to Texas this winter, and that he would leave the patents with Dr. <unclear reason="illegible" resp="EMS">Jett</unclear>. that I could examine them, and take such as I wanted, for which he wished me to give my receipt, that he might know what deposits he had made of them in case he should ever be called on; this proof that he has not been so loose in this business, and that he expects to be called on for a settlement, and I expect has made his calculations accordingly. I cannot see myself how he could make a settlement of his administration when he is hound and his securities with him, in double the sum that the Estate is valued at, to make a faithful surrender of all the property that is contained in the Inventory that he must have made when he received his letters of administration.</p>
+            <pb n="3" facs="0012_000435_000202_0003.jpg" xml:id="d4e79"/>
+            <p>but as you say, I think it will not be worth the trouble of a suit, and having taken possession of the land would cause soem difficulty as <unclear reason="illegible" resp="EMS">share</unclear>nominal value will amount to your interest in the whole of the Estate, and we will have to make the best we can out of the land - but I have digressed - <unclear reason="illegible" resp="EMS">Bunkhead</unclear> said not the first work about the compromise, but makes <unclear reason="illegible" resp="EMS">for their</unclear> claim of $222 against the <unclear reason="illegible" resp="EMS">May</unclear> for which sum he says he has his note payable at the House of <unclear reason="illegible" resp="EMS">Brander Williams in</unclear> New Orleans.</p>
+            <p>I settled the Tax on the <unclear reason="illegible" resp="EMS">Maj</unclear> Lands in Arks for this year about three weeks since through W Duncan, which amounted to $89. I received from Cousin Daniel $42.50 which I supposed would be half the Taxes; I had intended going out to Arks this winter, but have received such unfavorable accounts from W Duncan and others as to the prospect of selling land in Arks that I have concluded that it would be useless, as I would be running great risk of losing my expenses there and back with but little prospect of selling any land. I shall write to W Duncan as soon as I hear from him again, which I expect every day, and ask him to make me an offer for the <unclear reason="illegible" resp="EMS">Maj </unclear>Lands in Arks and I think if he will give $800 or $1000 cash for them we had better accept it. this I would not do until I would hear from the <unclear reason="illegible" resp="EMS">Maj</unclear> I hope the <unclear reason="illegible" resp="EMS">Maj.</unclear> will consider my reasons for not going out to Arks this winter and approve them.</p>
+            <p>Mr Smith will make about 105.000 pounds of cotton, has picked at this time 95.000, and expects to gather about 10,000 lbs more, his corn crop has turned out finely, and the stock are all in good order. there has been but two cases of <unclear reason="illegible" resp="EMS">fires</unclear> on the place this summer and fall. Martha lost her second child (the deformed one) about a week since. this is the only death that has been on the place and no births, as yet. Mr Smith has taken very</p>
+            <pb n="4" facs="0012_000435_000202_0004.jpg" xml:id="d4e117"/>
+            <p>good care of the house, and has had it suned nearly every fair day, the books have been kept dry, and the press stands open, those that were too close together have <unclear reason="illegible" resp="EMS">moulded</unclear>some little, but Mr Smith intends spreading them on a table upstairs, the articles that were not sold (those that were left in the wawrdrobe) are in good order as yet, and every thing is doing well at Tulip Grove, expect the garden, and yard. which requre the benign influence of a mistress, and must have a downward tendency until the day arrives when you shall again shed a luster to the Tulips and roses that a Smith nor even the sun itself can effect, and my advice would be for you to have the garden sown down in clover wheat or oats so as to prevent the weekds and grass from taking entire possession, and when you return have it laid off anew and according to the additional taste that you may acquire from the many beautiful gardens you describe in you letter, Celia, John, and Martha are well and all at Tulip Grove send their best love to Master <gap resp="Elizabeth"/> and the children. Tell Rachel Rocky mountain has one of the most beautiful <unclear reason="illegible" resp="EMS">colts</unclear> she has ever seen, and Johnny his dogs are still to be seen about the <unclear reason="illegible" resp="EMS">house</unclear> and whine for his merry whistle.</p>
+            <p>We still <unclear reason="illegible" resp="EMS">vegetate</unclear> at &quot;Old Clifton&quot; and get on quite smoothely have had a very good pair of carriage horses and the carriage taken good care of; I will make about 20 bales of cotton, and a very good corn crop, <unclear reason="illegible" resp="EMS">Narcissa</unclear>, Eliza, Rose, &amp;Frances have all had fine children since you left. Grandma Anderson and Donelson have both been very unwell for the last two or three weeks but were both better on yesterday, in fact Grandma A has not been well since you left, Grandma D has had a severe attack of the rhumatism, all the rest of the Family are well. You say nothing of Emily in any of your letters she has become quite an important personage since the 10th Sept and has married one of the cleverest young men in Nashville, <unclear reason="illegible" resp="EMS">Mr. G W Curry</unclear> but sister Mary wrote all about them. Pa is quite well, and sends much love to you, the girls <unclear reason="illegible" resp="EMS">from</unclear> me in much love to the Maj. Your self and all the children, and remember me especially to Cousin Mary provided she has not become too much Germanised.</p>
+            <p>Votre Tres affectioneux Frere</p>
+            <p>
+               <unclear reason="illegible" resp="EMS">G. Martin Jack</unclear>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

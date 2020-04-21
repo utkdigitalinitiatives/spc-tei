@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000539_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mary E. Huger</name>
+ in Sewanee, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1885-07-27">1886 July 27</date>
+            </title>
+            <author>
+               <name type="person">Huger, Mary Esther, 1820-1898</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000539_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mary E. Huger in Sewanee, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1886 July 27</title>
+               <date>1886-07-27</date>
+               <author>
+                  <name>Huger, Mary Esther, 1820-1898</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 pages.</extent>
+               <note type="abstract">1886 July 27, Mary E. Huger, Sewanee, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Account of a visit to her brother and sister in Charleston, S.C. News that her daughter and her husband and their six children plan to make their home in New Orleans. Pictures Sewanee as a growing town with new construction and a successful hotel. Reference to commencement activities at Sewanee and to the extremely hot weather. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Universities and colleges -- Tennessee -- Sewanne -- History.</term>
+               <term>Rural development -- Tennessee -- Sewanne -- History.</term>
+               <term>Sewanee (Tenn.) -- History -- 19th century.</term>
+               <term>Sewanee (Tenn.) -- Climate.</term>
+               <term>Huger, Mary Esther, 1820-1898 -- Family.</term>
+               <term>University of the South -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000539_0001.jpg" xml:id="d3e152"/>
+            <p>Mrs M B C Ramsey</p>
+            <p>163 East Main St.</p>
+            <p>knoxville Tennessee</p>
+            <p/>
+            <pb n="2" facs="0012_000060_000539_0002.jpg" xml:id="d3e165"/>
+            <p>University of the South</p>
+            <p>Sewanee Tenn.</p>
+            <p>July 27th</p>
+            <p>Dear Mrs Ramsay</p>
+            <p>I did receive your letter with great pleasure, &amp; wrote you a long letter, in May, explaining the reason of my not visiting Knoxville last winter -- I did not know your street or number &amp; directed simply to Knoxville -- so it may still be among the uncalled for letters at the Post Office -- I spent two months in Charleston, with great pleasure -- Of a family of eight, there are but two left to me -- one brother &amp; one sister -- who are more precious to me now than ever, so it was a great happiness to be with them.</p>
+            <pb n="3" facs="0012_000060_000539_0003.jpg" xml:id="d3e181"/>
+            <p>By November my daughter and her six children will have left Sewanee for a new home in New Orleans -- their house is rented to a stranger, &amp; we shall miss them more than words can tell -- but I trust they will return every <unclear reason="illegible" resp="JR"> summer</unclear>, &amp; the two eldest boys will continue to go to school here.</p>
+            <p>This place is improving very much -- there are six private residences going up, at the same time, for new families, who have moved here to settle. I have never known so much going in at one time since I have been here -- A Hotel, which has only been established for two years -- is crowded already, &amp; the Chapel so full, I cannot get my own seat unless I go very early.</p>
+            <pb n="4" facs="0012_000060_000539_0004.jpg" xml:id="d3e194"/>
+            <p>Last winter my daughter Mrs Elliott got a Teacher from the North to instruct my little Deaf grand daughter Esther, together with her younger sister &amp; brother, which is the reason I was able to go away -- I returned here by April to enable my daughter to visit New Orleans, where her husband has established himself as a Physician, but he did not like to move his family down there until the Autumn so I took care of the children while the made him a six weeks visit, &amp; as soon as the returned moved over to my own cottage next door, where I <unclear reason="illegible" resp="JR">spend</unclear> the summer with my three single daughters -- next week I expect two relation from Charleston to spend a couple of months, so we shall have a house full.</p>
+            <pb n="5" facs="0012_000060_000539_0005.jpg" xml:id="d3e205"/>
+            <p>We have not had propitious weather this season, but it has been perfectly healthy. Until the last two weeks, it rained incessantly, &amp; ruined my raspberry crop -- &amp; grapes are rotting &amp; dropping off -- so we shall have very few if any. Just now it is very hot that is the <unclear reason="illegible" resp="JR"> ther</unclear> &amp; has been up to 85 in the shade, &amp;strangers who have come from the cities were is remains in the nineties for weeks, are complaining of heat -- The two first weeks in August are Our Commencement days here -- Students graduate, &amp; receive honors &amp; medals -- The Trustees meet &amp; distinguished visitors from other places, make speeches &amp; Orations -- There is a large ball, &amp; many receptions, to which my daughters go, but I hear nothing, but what is going on in the Chapel on Sunday, as I do not enjoy those things now.</p>
+            <p>I hope I shall be able to visit Knoxville next winter, &amp; you will certainly see me if I do -- Give my love to your daughter, &amp; believe me yours truly Mary E. Huger</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Rogers, S.A.</name>
+ in Loudon, Tenn. to O.P. Temple in Knoxville, Tenn. <date when="1864-06-20">1864 June 20</date>
+            </title>
+            <author>
+               <name type="person">Rogers, S.A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000205_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, S. A. Rogers in Loudon, Tenn., to O. P.Temple in Knoxville Tenn., 1864 June 20</title>
+               <date>1864-06-20</date>
+               <author>
+                  <name>Rogers, S.A.</name>
+               </author>
+               <extent>4  digital images;  4 pages</extent>
+               <note type="abstract"> Letter dated June 20, 1864, S. A. Rogers in Loudon, Tenn. writes to O.P. Temple in Knoxville, Tenn. concerning the agreement as to trade, personal and family news. </note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Business enterprises -- Tennessee, East -- History -- 19th Century</term>
+               <term>Family life -- Tennessee, East -- History -- 19th Century</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865 </term>
+               <term>Loudon County (Tenn.) -- Economic Conditions -- History -- 19th Century</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence</term>
+               <term>Rogers, S. A. (Samuel Andrew) b. 1830 -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000070_000205_0001.jpg" xml:id="d3e157"/>
+            <p>Loudon June 20, 1864</p>
+            <p>Col. O P Temple,</p>
+            <p>Dear Sir; -Your letter of this day has just come to hand for which please accept my thanks.</p>
+            <p>You accept my proposition in the main, but propose some modifications in your favor in the negociation, none of which I feel the stightest hesitency in incorporating in the terms of our trade, except the one in regard to the Solomons claim. I know nothing about the condition of this claim, but it is a just claim &amp; from what you say it think it will be collected - there are certainly funds enough to pay the claim &amp; I see no means by which the claim coluld be avoided - If I insure this claim &amp; it be lost I would pay you more than half what I regard as the present value of the interest here; though it may and without some misfortune probably would amount to considerably more in the final winding up - It will certainly be some time before we can <unclear reason="illegible" resp="NW">wind </unclear> the matter out unless we could wholesale and I do not believe we are going</p>
+            <pb n="2" facs="0012_000070_000205_0002.jpg" xml:id="d3e174"/>
+            <p>to be able to do this at a reasonable profit. </p>
+            <p>As to my assistance, whether I told you or not I should not refuse to assist you in any matter whether connected with this or why other of your business obligations - Besides the business arrangements we have in contemplation would throw me in a position to meet these matters with care - we would most likely have new business in all these counties of which you speak. My recollection is that most of the Hawkins County matters have been settled up as have a good many others of those Railroad claims, and the good part of the matter is the Railroad has not as yet paid us one cent as compensation for our services -</p>
+             <p>Mary is getting along much better now than I expected she would. Her health is good and appetitie reasonalbe I think she is improving on squirrel and fresh mutton. She &amp; Grandma have a neat little wigwam constructed in the grove near the house, completed &amp; after the <unclear reason="illegible" resp="NW">most</unclear> approved style - where she spends part of each day when <unclear reason="illegible" resp="NW">cloyed</unclear>
+            </p>
+            <pb n="3" facs="0012_000070_000205_0003.jpg" xml:id="d3e191"/>
+            <p>with her lessons in letters and in music. She says to take real good care of her little chickens until she gets home - and also to say to you she has learned to ride &quot; the pony&quot; alone, but &quot; be not alarmed&quot;. She says to tell you she is almost crazy about &quot;the pony&quot; &amp; you must buy it for her - to tell you all about the pony. </p>
+             <p>She wants to see you all of <unclear reason="illegible" resp="NW">cource </unclear> but she is certainly delighted here, she is the pet for all of us and <unclear reason="illegible" resp="NW">melud </unclear> do not like the idea of giving her up. Still I promise Mrs. Temple to to keep her no longer than she feels a perfect willingness to stay - If Mrs T. would stay Marry I assure you would be the <unclear reason="illegible" resp="NW">opptiances </unclear> used to keep her with us much longer than you could spare her at home. She says she feels like she has &amp; three houses&quot; - one here &amp; one at Grandma Farnsworth&apos;s. She speaks of coming home next Saturday &quot; to go to sunday school&quot;</p>
+            <p>Yours very Truly</p>
+            <p>S. A. Rogers.</p>
+            <pb n="4" facs="0012_000070_000205_0004.jpg" xml:id="d3e214"/>
+            <p>S A Rogers</p>
+            <p>1864</p>
+            <p>He afterwards did accept my terms</p>
+         </div>
+      </body>
+   </text>
+</TEI>

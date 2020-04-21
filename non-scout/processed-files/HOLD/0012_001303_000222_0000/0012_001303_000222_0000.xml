@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000222_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France to Ellen Smith in Jackson, Tenn., <date when="1918-07-08">1918 July 8</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000222_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn., 1918 July 8</title>
+          <date when="1918-07-08">1918 July 8</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000222_0001.jpg" xml:id="d4e39"/>
+        <p>James L. Dodds</p>
+        <p>Co. L. 23 Engrs</p>
+        <p>American Ex Force</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tennes</p>
+        <p>U.S.A</p>
+        <pb n="2" facs="0012_001303_000222_0002.jpg" xml:id="d4e55"/>
+        <p>July 8 1918</p>
+        <p>Dear Ellen -</p>
+        <p>I have received three letters from you in the last week and I can't tell you how glad I was to here from you</p>
+        <p>They finely got this mess streightened out so we could get our mail and I sure was glad of it</p>
+        <p>I got eleven letters one night so you can guess I had to read them all before I could sleep</p>
+        <p>There was just one thing wrong  I didnt get enough from you</p>
+        <p>I dont understand why you dont get my letters</p>
+        <p>I sure do write you wheather you are out ther or not</p>
+        <pb n="3" facs="0012_001303_000222_0003.jpg" xml:id="d4e73"/>
+        <p>This mail is a funny thing  I got a letter from you today you wrote May 21 and the other ones I got before this one was wrote in June.</p>
+        <p>So you can see I get my mail backwards, But I am always glad to get them no matter how they come I am still working real hard on my truck</p>
+        <p>Will this mud be some road when we get it through I am at a different place from where I wrote you last</p>
+        <p>Ellen I move most every week but I will go back to the other house pretty soon</p>
+        <p>Will I guess you are having some hot weather back home now. You should be over here where it isnt so hot</p>
+        <pb n="4" facs="0012_001303_000222_0004.jpg" xml:id="d4e85"/>
+        <p>The days are pretty warm but the nights are cool To day has been the hotest day we have had in some time and I didnt suffer a bit</p>
+        <p>To night is cool I sleep under three blankets every night so you can see how hot is is</p>
+        <p>What did they do with our Uncle Robert about running in to the <unclear reason="illegible" resp="PW">Md</unclear> switch hope they didnt fire him.</p>
+        <p>I got a letter from him to day but that was written before he had the wreck. Acy Vernon is writing to Lena Schuaa to night.</p>
+        <pb n="5" facs="0012_001303_000222_0005.jpg" xml:id="d4e98"/>
+        <p>We get a lot of news from each others letters of course we dont send the letters but we tell each other the interesting news.</p>
+        <p>There is one of us together <unclear reason="illegible" resp="PW">Cartmill</unclear> Vernon<unclear reason="illegible" resp="PW">Arr</unclear> Mc Nally and my self</p>
+        <p>We get together and talk over old times and how much we would like to be back to Dear Old Jax on Well it is most dark and where it gets dark it is bed time</p>
+        <p>It is nine fifteen and still day light will close  write me real soon and tell me all the news</p>
+        <p>with lots of love</p>
+        <p>James L Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Exp Force</p>
+        <p><unclear reason="illegible" resp="PW">Mail N Y</unclear>France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

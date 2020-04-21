@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000207_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Memphis, Tenn., to his wife in Bloomington, Ills., <date when="1864-03-18">1864 Mar. 18</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000207_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Memphis, Tenn., to his wife in Bloomington, Ills., 1864 Mar. 18</title>
+               <date when="1864-03-18">1864 Mar. 18</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>1 pages</extent>
+               <note type="collection">William Randolf Hackley Letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000207_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis Mch 18&quot;1864</p>
+            <p>My Darling M</p>
+            <p>Mr. Frank <unclear reason="illegible" resp="JCM">Arme</unclear> the Genls Brother learns here to day to Escort the Genls wife to Bloomington and says that he will escort you down with Pleasure do come if you can I could not get the pasage ticket having been so busy that I could not see the Gentleman that promised it to me Mr. <unclear reason="illegible" resp="JCM">Arme</unclear> will remain but a few days - I am well but in a hurry Your affe Husband</p>
+            <p>Mrs W R Hackley W R Hackley</p>
+            <p>Bloomington</p>
+            <p>Ills.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

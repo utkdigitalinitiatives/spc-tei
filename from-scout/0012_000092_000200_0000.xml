@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> Southgate Cregmile</name>
+ in Camp Chase, Ohio, to Crittenden Cregmile, <date when="1862-03-19">1862 March 19</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile  in Camp Chase, Ohio to Crittenden Cregmile , 1862, March 19</title>
+               <date>1862-03-19</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">19 March 1862 Southgate Cregmile in Camp Chase, Ohio, to his brother Crittenden Cregmile. Acknowledges receipt of his letter and expresses pleasure at hearing from home. Updates him on the health status of his unit and mentions that at least two or three in the camp, as a whole, have died per day since he&apos;s been there. The weather determines how often they are able to drill. Because guarding the prisoners of war is the highest priority, Infantry Colonel Moody has ordered a continuous brigade guard surrounding the camp, with guns drawn, resulting in each guard rotating in every three to four days. With little to look forward to, it seems that ever since Christmas those on guard have been told that next week is payday.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Ohio -- History -- 19th century -- Social conditions.</term>
+               <term>Prisoners of war -- Ohio -- History -- 19th century.</term>
+               <term>Command of troops -- Ohio -- History -- 19th century.</term>
+               <term>Ohio -- History -- Civil War, 1861-1865 -- Prisoners and prisons.</term>
+               <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845-  -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military leadership.</term>
+               <term>Military prisoners.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e162">
+            <pb n="1" facs="0012_000092_000200_0001.jpg" xml:id="d3e163"/>
+            <p>Campe Chase Ohio</p>
+            <p>March 19th 1862</p>
+            <p>Brother Crit</p>
+            <p>I receved your letter on the second and was glad to here from home we are all well at presant excepe <unclear reason="illegible" resp="NW">gentry</unclear>and he is nearly well now I have had a dozen chances to catch them but I haven had them yet I beleve I have had them. there have bine tow or three dide every day sence I have bene here they catch colde with the measels the mud is dride up so that we can drill there are tow division of calvery here but they wont come</p>
+            <pb n="2" facs="0012_000092_000200_0002.jpg" xml:id="d3e180"/>
+            <p>Infentry Col <unclear reason="illegible" resp="NW">mudy</unclear> has put a brigade guarde a round the camp so that we come on guard every three or four days we have got so that we doent stand after night the corpel puts us a round the campe and a gen he gets to his bunk we are there but we will guarde the prisners to the last we are a going to draw our guns this after noon we are a going to get the rifeld musket they say we are a going to be payde of next week but that is what they have been saying every sence crismas. I must stop to day write soon</p>
+            <p>Southgate Cregmile</p>
+         </div>
+      </body>
+   </text>
+</TEI>

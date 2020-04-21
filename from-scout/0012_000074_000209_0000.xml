@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000209_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio,
+<date when="1863-10-11">
+1863 October 11
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000209_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to Sarah Probert in Pittsfield, Ohio, 1863 October 11</title>
+               <date>1863-10-11</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>5  digital images;  1 envelope, 4 pages</extent>
+               <note type="abstract">In this letter, dated October 11, 1863, from John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins shares his happiness that he has finally received letters from home. He also discusses general news from Sarah&apos;s latest letter, dated August 26, 1863.</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Watkins, John, b. 1839 -- Philosophy.</term>
+               <term>United States. Army. Ohio Independent Light Artillery Battery, 19th (1862-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000074_000209_0001.jpg" xml:id="d3e152"/>
+            <p>Oct 11th 1863</p>
+            <p>Mr. George W. Probert</p>
+            <p>Pittsfield Swain</p>
+            <p>Co Ohio</p>
+            <pb n="2" facs="0012_000074_000209_0002.jpg" xml:id="d3e166"/>
+            <p>Knoxville Tennessee Sunday Oct 11th 1863</p>
+            <p>My own dear Sarah</p>
+            <p>It has seemed to me darling that the time has gone off quicker and a great deal more pleasent since yesterday morning than it has for the same length of time in most two months and I cannot assign any other reason for it than because we have once more got a mail. and oh such a big one to. I got 5 letters from home and, as I anxiously looked for, one from you. oh how everything seemed to brighten up within me at the sight of that letter to say nothing of how I felt when I read it. oh Sarah I have not had anything make me feel so good in a great while as it did to get that letter from you. I had almost begun to think that we never would get our letters again. but they have got along at last. and although they are not very late ones, they are very acceptable and always will be. oh anything from home. I have thought a great many times that a person can never prise a home as they ought to until after they have been deprived of one in some way. then they can look back and see what they should have done, and what left undone to have made it more pleasent to them while there.</p>
+            <p>the letter that I have from you was mailed the 26th of Aug, and has been all this time coming. but Sarah I cannot</p>
+            <pb n="3" facs="0012_000074_000209_0003.jpg" xml:id="d3e180"/>
+            <p>tell you how welcome it was when it did come. I dont think that I shall forget the 10th of Oct. very soon, and you are still at John&apos;s working your life right out of you. I am sorry there is no help for it. I am afraid that you will make yourself down sick if you are not carefull. and oh Sarah dear I would not hear of that for anything. you must have great times between Al, Julia and the babies, &amp; when the older ones feel like raising thunder and the young ones jest about as cross, I should think that you would be cross once in a while. it must have been pretty gay times for most everybody and will be for some time between the <unclear reason="Illegible; word appears to end in &quot;ss.&quot;" resp="J.H.">--ss</unclear> meetings fairs picnics and Commencement. oh I wish I could have been home on a furlough at the time or any other time. I wish I knew how long it would be before we could see each other again. I think myself it would be a great satisfaction to know, but there is some consolation in the thought that they cant keep us apart but two years more anyhow, but that is a long way ahead. I am in hopes that the war will be over long before our time is out, and that I shall be at home, and then what a good time we will have. and Sarah when we get a home all to ourselves, you shall not work as hard as you do now if I can help it. for I think by that time I can be handy enough to help you a good deal. but it is to bad that you have to work so hard now. Sarah if they will only be as ready amongst them to turn in</p>
+            <pb n="4" facs="0012_000074_000209_0004.jpg" xml:id="d3e191"/>
+            <p>and help you when you are sick as you have been to help them I shall think you will get pretty good care. but I hope you will never need there help, but enjoy good health. I wish darling that I were where you could tell me of your troubles, instead of being so far off. oh Sarah I will be if I ever get home as true to you as a man ever was in the world to a true woman, and I am glad that you can trust me Sarah with your little cares and anxieties no matter whether large or small. oh I wish I was where I could spend this pleasent day, and as it promises to be pleasent evening with you. to talk over the last years trials and tribulations. I think that we could pass off one Sunday and evening at least very pleasantly. in speaking about your Photograph Sarah, and sending it to me I think the best way to send it would be in a letter. you need not think it is going to bother me any to keep it for it wont. I should like first rate to get one, and still I might never get it if you did send it. the mail has to come such a long ways in wagons that it dont seem hardly safe to send anything of any value in a letter, and yet it might come perfectly safe.</p>
+            <p>I&apos;ll bet Mrs. Davies will have her hands full as long as Proberts folks are up there and that baby. I might suggest a number of names for it but I hardly think they would suit, but I will tell you of one that I always thought was a very pretty name and that is</p>
+            <pb n="5" facs="0012_000074_000209_0005.jpg" xml:id="d3e201"/>
+            <p>Lucretia. </p>
+            <p>I have seen Capt Hayes two or three times since we have been in the service but never to speak to him but judging from his appearance I should think he was a very good officer. almost every time I see the regiment or think of it, I think of the time he was raising his company and how anxious he was to enlist me and how glad I am that I did not go, for the Artillery service is altogether preferable. we are having some very pleasent weather now but some of the time a little to cool to be comfortable, night times especially. since we have been here, we have had considerable cool weather for the time of year but I suppose it is because the country is so mountainous and hilly. the winds come over them pretty cold most of the time. we are having a pretty good time here. it is so rough and hilly around here that we have not drilled any in a good while only once since we have been here. and all we have to do is to go after forage once in a while. I dont know of anything else that I can write you this time so excuse me this time and I will try and write a longer one next. I am well and oh darling I hope you are as well off, and still loving and trusting you as ever I remain the same today, tomorrow and for life</p>
+            <p>John</p>
+            <p>direct to Knoxville Tennessee care of Capt Joe C Shields 19th Ohio Battery, 1st Brigade 3d Division 23d Army Corps to follow Battery</p>
+            <p>I guess Sarah it will do to run the risk once in sending the Photograph, although I would rather loose anything than that on the way.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

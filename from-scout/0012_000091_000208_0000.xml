@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000208_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Anna Jones</name>
+ in Allegheny City, Pa. to David Jones in Nashville, Tenn. <date when="1865-04-26">1865 April 26</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000208_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David Jones in Nashville, Tenn., 1865 April 26</title>
+               <date>1865-04-26</date>
+               <author>
+                  <name>Jones, Anna</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract"> In this letter dated April 26, 1865, Anna Jones in Allegheny City, Pa. writes to her husband David L. Jones in Nashville, Tenn. about the difficulties of raising children with her husband away at war. She also discusses the local bounty, and financial woes.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+               <note type="item">10</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Army spouses -- Pennsylvania -- Correspondence.</term>
+               <term>Child rearing -- Pennsylvania -- History -- 19th century.</term>
+               <term>Prayer meetings -- Pennsylvania -- History -- 19th century. </term>
+               <term>Allegheny (Pa.) -- History -- 19th century.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Jones, Anna M. -- Finance, Personal. </term>
+               <term>Jones, David L., Union soldier -- Correspondence. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e159">
+            <pb n="1" facs="0012_000091_000208_0001.jpg" xml:id="d3e160"/>
+            <p>Allegheny City April 26/ 65</p>
+            <p>My Dear Husband</p>
+            <p>I received yours of the 16th yesterday I have received in the last twelve days 9 letters from you and I have written three including this one I would like to write oftener but my time is so crowded with so much to do no one to see after anything but myself that it seems as if I cant get time to think of what I want to say to you I have weaned Anna May she is walking but her ears and the top of her head is very sore sometimes I am allmost <unclear reason="illegible" resp="NW"> discouraged</unclear> about her for fear it dont get well and some tell me it is good for her that it is a sign of good health I would like the good health part part but I must confess I dont like the signs you said that you did not know about Jane she is here with me she is such a help to me as I told you before I hav a man and his wife with me I told when I wrote last that I charged him 8 dollars a week I took them on trail at that but I have raised it to ten dollars a week David I have just retired from prayermeeting how I wish you were here that we could go together to the prayermeeting is to me one of the most delightful ways of spending an evening I often think of you how you used to like the lectures tonight we had a lecture on the 30th &amp; 31st verses of the 119 psalm of the psalmist adherence to <unclear reason="illegible" resp="NW"> Fods</unclear>testimonies it was a good lecture Mr <unclear reason="illegible" resp="NW"> Kerr</unclear> dont go backwards in preaching but his aim I is onward and upward Mrs Quaill was here yesterday I asked her for Daniels address it is David R Qual Allegheny City I saw Will Lackhart he says that you cannot get your bounty until payday they had to pass this on account of them being so <unclear reason="illegible" resp="NW"> pressed</unclear> to attend to the bounty that they could not get anything else done our grape vine is elegant but the little vine at </p>
+            <pb n="2" facs="0012_000091_000208_0002.jpg" xml:id="d3e184"/>
+            <p>end of the kithen is not going to have graps on this year but the old vine will be full I wish when you answer <unclear reason="illegible" resp="NW"> Vinnies</unclear> letter you would give them a talking to about climbing the fences over the vine and trellis work Mrs Cornelius oldest boy has gone to his father I dont know he will stay or not they say they have discharged all the men at the provost Marshalls office as they dont intend drafting any more if Sherman had gone on he would have finished up this business a littl like Benedict Arnold wanted to do in his time but it wont do, there was quite a stir here on the head of it I have just had another letter from you mailed the 20th you mention about Mr Campbell I saw Mrs Campbell night <gap resp="Williams"/> last they were all well she told me that Mr Campbel had gone if I known that he was going I would have sent you some things to eat and some more paregoric but I did not know it until he had gone you speak of Mr Patterson the W P preacher he is but human I was very well acquainted with him and he was a very nice young man we sat together in Doctor <unclear reason="illegible" resp="NW"> Pressg</unclear>church for years he was a carpenter to trade he worked at this trade in summer and earned money to pay his college course in the winter and if he did fall he was but man not God we must always look at persons good traits as the bad ones he is not related to the coal hauler at all I am acquainted of the name of that dead man I shall inquire and she may be able to tell me about him I thought you told me that he was from <unclear reason="illegible" resp="NW"> butler </unclear>or Mercer county then you were home I am in such trouble about Anna Mays head face and ears they are so sore I was giving her Lindsey blood searcher I dont know whether it is good or not but I thought I would try it myself I feel better but I dont see any difference on the <unclear reason="illegible" resp="NW">teller </unclear> that was what I took it for I had a notion to go to Doctor Warner the indian doctor on St Clair street but I will write to you if I do Cooper <unclear reason="illegible" resp="NW"> seer&apos;s</unclear>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

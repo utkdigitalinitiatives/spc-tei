@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1864-02-21">1864 Feb. 21</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000204_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Memphis, Tenn., to his wife 1864 Feb. 21</title>
+               <date when="1864-02-21">1864 Feb. 21</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">William Randolf Hackley Letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000204_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis Feb 21. 1864</p>
+            <p>My Darling Wife</p>
+            <p>Yours of the 14th <unclear reason="illegible" resp="JCM">inst</unclear> was recd on the 18th and is the only one since yours of the 4th recd the 8th, I am glad the draft <unclear reason="illegible" resp="JCM">arriv</unclear> in good time on Wed <unclear reason="illegible" resp="JCM">14th</unclear> I sent by Express $150, and on the 7th $200 also by Express both which I hope will get to hand safely and the amount will pay all the small debt your letters are very<unclear reason="illegible" resp="JCM">irregular</unclear> in getting here - at one time I recd two letters the same day one of which was 33 days later than the other, I suppose however that most of them come to hand at last, When I left I <unclear reason="illegible" resp="JCM">olut I our d</unclear> as well as I can u collect as follow</p>
+            <p>Shaw &amp; Brother show about $24</p>
+            <p>Mack &quot; &quot; 22</p>
+            <p>Paesold   &quot; 15</p>
+            <p>Wallace  5</p>
+            <p>
+               <unclear reason="illegible" resp="JCM">Simnds  9 ov 15.</unclear>
+            </p>
+            <pb n="2" facs="0012_000298_000204_0002.jpg" xml:id="d4e73"/>
+            <p>Virgil 2 notes - one about 20 the other about 19</p>
+            <p>Brooks &amp; cu - note - &quot; 21 -</p>
+            <p>Curry - 2 notes one forty the other I forgot</p>
+            <p>
+               <unclear reason="illegible" resp="JCM">Gainter</unclear> 50 note and perhaps a few dollars</p>
+            <p>fox - 10 - Sanage 5 - Tom Cagruin about 100 - a small bill ah - Browns <unclear reason="illegible" resp="JCM">bugget Dewey $ 5</unclear> which are all that I recollect, you complain that I do not answer your questions but I have not time to answer when I receive them and sometimes they are so old that I omit and write just what comes to hand, I want ou to get a <unclear reason="illegible" resp="JCM">receipt</unclear> full to date when everyone pays a bill</p>
+            <p>Mr Yeatman has left us and i have been to se his succesor Mr <unclear reason="illegible" resp="JCM">Tomeny</unclear> Tomeny who I hope will not turn me out for I am doing well and in a few nine weeks will pay off all I own and then get some on hand for future use I think that Hattie had better go to Bloomington on a visit and see if she caught</p>
+            <pb n="3" facs="0012_000298_000204_0003.jpg" xml:id="d4e98"/>
+            <p>board for you all or a house that will suit you or if you choose until the house <unclear reason="illegible" resp="JCM">Lufkin</unclear> is in if Jacky will put up the fence an any <unclear reason="illegible" resp="JCM">rute lean</unclear> the one you are in, had you not better go back to - <unclear reason="illegible" resp="JCM">as goods hours-</unclear> suit yourself but at any rate get away from the one you are in in april for it is not fit to live in. I am sorry Bill <unclear reason="illegible" resp="JCM">husack</unclear> so but I feared it and am glad you have got rid of him for good he cannot be trusted in going to Bloomington you might if you get board furnish your own rooms and start the Books and other things have the books packed for moving - <unclear reason="illegible" resp="JCM">Buckinrig</unclear> has 1 box of coke in Littleton - Simons Appletins <unclear reason="illegible" resp="JCM">Factory of Brognaphy</unclear> whose he will start if he can - and number of others win out - with the names of the prisons who had them in clips of <unclear reason="illegible" resp="JCM">pope</unclear>
+            </p>
+            <pb n="4" facs="0012_000298_000204_0004.jpg" xml:id="d4e123"/>
+            <p>which I suppose are but in <unclear reason="illegible" resp="JCM">marring</unclear> the Books - open my desk with one of your keys if you can - if not break it and take the papers home - in one of the Pigeon holes you will find Darcys papers - give him the small bundle containing the <unclear reason="illegible" resp="JCM">Kenedy</unclear> papers Keep the other two - Get <unclear reason="illegible" resp="JCM">Zurly</unclear> to take my record book and see what I owe the city and pay it - The <unclear reason="illegible" resp="JCM">Liasius</unclear> receipt and the large packet book in the desk in the middle drawer (which open in the same way) you will find my <unclear reason="illegible" resp="JCM">private</unclear> papers, Bills and receipts - take all papers home and put them away I am sorry my love that I have to put this work on you but you will now have money to pay some one to do the hard work until all is paid Love and kisses to all send your Photograph.</p>
+            <p>Your aff Husband</p>
+            <p>W.R.Hackley</p>
+         </div>
+      </body>
+   </text>
+</TEI>

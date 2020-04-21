@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000211_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Anna Jones</name>
+ in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.<date when="1865-05-07">1865 May 07</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000211_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 May 7</title>
+               <date>1865-05-07</date>
+               <author>
+                  <name>Jones, Anna</name>
+               </author>
+               <extent>4 digital images; 4 pages.</extent>
+               <note type="abstract"> In this letter dated May 7, 1865, Anna Jones in Allegheny City, Pa. writes to David L. Jones in Nashville, Tenn. about the rising cost of food, her physical ailments, and the possibility of the troops coming home soon. </note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+               <note type="item">15</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Cost and standard of living -- Pennsylvania -- History -- 19th century.   </term>
+               <term>Homecoming -- Pennsylvania.</term>
+               <term>Army spouses -- Pennsylvania -- Correspondence.</term>
+               <term>Allegheny (Pa.) -- History -- 19th century.</term>
+               <term>Pennsylvania -- History -- Civil War, 1861-1865.</term>
+               <term>Jones, David L., Union soldier -- Family.</term>
+               <term>Jones, Anna M. -- Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000091_000211_0001.jpg" xml:id="d3e155"/>
+            <p>Allegheny City May 7th 165</p>
+            <p>My Dear Husband</p>
+            <p>I received yours of the 3d inst and as I cannot get out to church This morning I thought I would pen you a few lines to let you know how we are getting along we are alone The boarders are all gone Mr &amp; Mrs <unclear reason="illegible" resp="NW"> Aplin</unclear> have gone back to Wheeling she did not like Allegheny she is too young to take from home at any rate she is only 16 years old and Jane has gone to <unclear reason="illegible" resp="NW">Thankeys</unclear> to board They offered to board her for 1,50 a week and I could not do that for every thing is still high beefsteak from 20 to 25 flour 10 per lb butter 50 per lb eggs 25 other things in proportion so I could not pretend to keep lady boarders for 1,50, I wish your thought about being mustered out may be true and all of <unclear reason="illegible" resp="NW">get</unclear> home some will be hom the first of June the army of the Potomac got orders to not keep rations to last longer than that Mrs <unclear reason="illegible" resp="NW"> weaver </unclear> has not received a letter for over three week I think his conduct is in keeping with his words when he was going away Mrs <unclear reason="illegible" resp="NW"> Wille </unclear> said something about his family he said he family was no trouble to him it was his men that he thought about and he may not have meant it but I think he told the truth about it of course he dont hear from home because she dont know where they are and if she did she declares that she will not write another letter until she receives one I must now tell you about our own concerns will Anna May is a little better I took of warners medicine but it physies too much I cant stand that it is too weakening for me I went back to Cooper he </p>
+            <p>This i recieved on Sabbast day June 18t</p>
+            <pb n="2" facs="0012_000091_000211_0002.jpg" xml:id="d3e184"/>
+            <p>said I should drink ale or port or sherry or Economy crab cider or brandy I have been troubled with the same disease that I had when we were first married when I took port wine and figs I think I shall try something that way again but I have not been near as bad as I was then still Cooper says that is the cause of my limbs feeling weak and now I feel so happy that we are alone for there is nothing at all made by keeping boarders I could keep the table but it was hard work to do it everything is so high and I want to get my sewing done all up if I can the children received your papers I <unclear reason="illegible" resp="NW"> haivt </unclear> called on wills for money I want to save it if I can for the <unclear reason="illegible" resp="NW"> Tasus
+</unclear> but I dont see how I can I have about 36 dollars yet but it takes so much and allgiving out and none coming in but I will see what I can do I have not sold all my stools yet and perhaps you will get home by the first of June I hope so and pray so I met Mr Wille and Martha Hoods husband the other day I asked for Mary you know that I wrote that she was poorly well she was burried last Teusday she died at Marthas of consumption the old clock frame is still here I dont know when they will take it away Charlie <unclear reason="illegible" resp="NW">Moury</unclear> is getting along nicily I never called to see him but I asked at the door still; he is able to sit up the children are coming home from church <unclear reason="illegible" resp="NW">Jamie</unclear> says he wont go back because he slept all the time I must now give them some dinner I am cooking a small peice of veal I wish you were here to help us eat it. Now dinner over after reading some the boys went back to church and now they are home again I thought I would finish this in time to send it to the office tonight you would laugh to hear Sharon when he wants to get out he says he wants to see if <unclear reason="illegible" resp="NW"> Pass mon</unclear> home he is still going to buy Anna May a ginger horse but it is long</p>
+            <pb n="3" facs="0012_000091_000211_0003.jpg" xml:id="d3e207"/>
+            <p>coming Anna walks very well she is so sweet at least I think when they tease her or she gets into trouble she will call Ma until I answer her and then she will commence to try to tell me what is wrong it would make you laugh to hear her the boys think it fun to hear her scold them she is so earnest about it I have not been to Roberts since you went away this last time nor have they been to see me since they left I supose we are too common things now for fashions fully and I do not care a half cent they tell me that Charlie Meegan is making 125 dollars a month what if he is, do they see any comfort if they do now it is more than they are used if I am poor </p>
+            <pb n="4" facs="0012_000091_000211_0004.jpg" xml:id="d3e215"/>
+            <p>I am contented all I crave for myself and family is good health with Gods blessing; and we do enjoy a goodly share of it through mercy and love and I hope God will still bless us with it I have not seen Mrs Campbel for some days but there is nothing wrong or I should have heard it for charlie was playing at the door yesterday I must get something for the children to eat as it is supper time I do not know of anything else to write to you just now Mrs White and family are well and send their best wishes Mrs Cornelius sends her compliments I guess Parks old <unclear reason="illegible" resp="NW"> petan </unclear> as Sharon calls it wants more rain for he makes noise enough to day now I have written a long letter this time I hope and pray that you will soon get home when we can talk instead of writing dont you</p>
+            <p>Your own Anna</p>
+         </div>
+      </body>
+   </text>
+</TEI>

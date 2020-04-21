@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000078_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John McNickle Laird
+</name>
+in Knoxville, Tenn., to Mrs. Julia Laird in New Bloomfield, Penn.,
+<date when="1863-12-08">
+1863 December 8
+</date>
+            </title>
+            <author>
+               <name type="person">Laird, John McNickle</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000078_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter of Zalmon S. Main in Memphis, Tenn. to P. S. Lincoln in Cincinnati, Ohio, 1862 August 7</title>
+               <date>1862-08-07</date>
+               <author>
+                  <name>Laird, John McNickle</name>
+               </author>
+               <extent>2  digital images;  0.3 linear feet;  1 envelope, 1 p.</extent>
+               <note type="abstract">In this letter, dated December 8th, 1863 John M. Laird, near Knoxville, Tenn. writes to his mother in New Bloomfield, Penn. concerning the war and how the soldiers took chickens, sheep, cattle, flour and more from those who had seceded. In his letter, he refers to these traitors as &quot;Secesh.&quot; His unit had marched 130 to 140 miles in ten days in order to arrive within two miles of Knoxville, Tenn.</note>
+               <note type="collection">John McNickle Laird Collection, 1863</note>
+               <note type="manuscript">MS.2130</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Railroad bridges -- Tennessee -- Loudon County. </term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e144">
+            <pb n="1" facs="0012_000078_000200_0001.jpg" xml:id="d3e145"/>
+            <p>Mrs. Julia Laird,</p>
+            <p>New Bloomfield</p>
+            <p>Perry County,</p>
+            <p>Penna</p>
+            <pb n="2" facs="0012_000078_000200_0002.jpg" xml:id="d3e159"/>
+            <p>Dec. 8, 1863</p>
+            <pb n="3" facs="0012_000078_000200_0003.jpg" xml:id="d3e167"/>
+            <p>Camp near Knoxville, Tenn.</p>
+            <p>Dec. 8th, 1863</p>
+            <p>Dear Mother:</p>
+            <p>Here we are lying within two miles of Knoxville, after a march of ten days, and having traveled about 130 or 140 miles. We started to cut our way through Longstreets lines to the assistance of Burnsides; but when Longstreet heard of our coming he &quot;lit out,&quot; but not until after three ineffectual attempts to dislodge Burnside from his works. Burnside repulsed him every time, with heavy loss, and I guess has left us nothing to do. All the Rebel armies in this country have been used up. What we will have to do next or where we will go to I do not know. Burnsides&apos; army is, after Longstreet <unclear reason="First word not clear. Looks like an &quot;h.&quot;"
+                        resp="Josh Hogan">hot foot</unclear>, and if he</p>
+            <pb n="4" facs="0012_000078_000200_0004.jpg" xml:id="d3e184"/>
+            <p>overtakes him and brings him to a stand we may have to go for him. All our army, but two divisions of our corps, (about 12,000 men) have gone back to Chattanooga. The Rebellion in this part of the country is played out, and if our armies everywhere had been as successful as we have been the affair would soon be over. We have had very fine weather for the march, and although a very hard one we had pretty good times. We lived off the Secesh along the road, and there were enough curses piled on our heads to sink us so low that no one could find us. Chickens, sheep, cattle, flour and everything had to suffer at a heavy rate. We have not yet been in Knoxville and I do not know whether we will get there or not. They do not let soldiers get into towns much if they can help it, but I think they</p>
+            <pb n="5" facs="0012_000078_000200_0005.jpg" xml:id="d3e192"/>
+            <p>ought to let us see the place after marching so long and so hard for it. I have not time to write you much this morning, as the mail leaves pretty soon. I suppose you have got all the particulars of our fight at Chattanooga before this. It was a great victory for us. Write soon and often, and direct your letters as usual. I am enjoying very good health now, and this march has agreed with me very well.</p>
+            <p>Your son</p>
+            <p>John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

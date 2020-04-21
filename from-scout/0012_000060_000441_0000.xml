@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000441_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Invitation from the Essex Institute</name>
+ in Salem, Mass. to President Tennessee Historical So., Nashville, Tenn.<date when="1878-08-24">1878 Aug. 24</date>
+            </title>
+            <author>
+               <name type="person">Essex Institute</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000441_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Invitation from the Essex Institute in Salem, Mass. 1878 Aug. 24</title>
+               <date>1878-08-24</date>
+               <author>
+                  <name>Essex Institute</name>
+               </author>
+               <extent>5  digital images;  1 envelope, 3 pages, 1 ticket.</extent>
+               <note type="abstract">1878 Aug. 24 Essex Institute, Salem, Mass., to the President of the Tennessee Historical Society, Nashville, Tenn. Engraved invitation to the commemoration of the 250th anniversary of the landing of Gov. Endicott at Salem to be held Sept. 18, 1878. Also enclosed is a complimentary ticket to lunch and to exercises at Mechanics Hall. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Governors -- Massachusetts -- Salem -- History -- 17th century.</term>
+               <term>Luncheons -- Massachusetts -- Salem -- Anniversaries, etc.</term>
+               <term>Invitation cards -- Massachusetts -- Salem -- Anniversaries, etc.</term>
+               <term>Salem (Mass.) -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Essex Institute.</term>
+               <term>Endecott, John, 1588?-1665 -- Anniversaries, etc. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000441_0001.jpg" xml:id="d3e157"/>
+            <p>President</p>
+            <p>Tennessee Historical So.,</p>
+            <p>Nashville,</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000441_0002.jpg" xml:id="d3e171"/>
+            <p>Essex Institute * 1848</p>
+            <p>1628 1878.</p>
+            <p>The Two Hundred and Fiftieth anniversary of the landing of Governor Endicott at Salem, will be commemorated by the Essex Institute, on the 18th day of September 1878.</p>
+            <p>You are cordially invited to be present as our guest on that occasion.</p>
+            <p>Henry Wheatland.</p>
+            <p>James Kimball. William Sutton.</p>
+            <p>Abner C. Goodell. D.B. Hagar.</p>
+            <p>Wm. P. Upham. R.C. Manning.</p>
+            <p>Henry L. Williams. T. F. Hunt.</p>
+            <p>Edward S. Atwood. F. Israel.</p>
+            <p>George R. Emmerton. Amos H. Johnson.</p>
+            <p>Edwin C. Bolles. T.M. Stimpson.</p>
+            <p>Geo. M. Whipple, Secy.</p>
+            <pb n="3" facs="0012_000060_000441_0003.jpg" xml:id="d3e204"/>
+            <p>Essex Institute * 1848</p>
+            <pb n="4" facs="0012_000060_000441_0004.jpg" xml:id="d3e212"/>
+            <p>Coupon To Ticket No. 37</p>
+            <p>Lunch,</p>
+            <p>At Hamilton Hall,</p>
+            <p>September 18, 1878.</p>
+            <p>Not Transferable. James Kimball, Chairman.</p>
+            <p>1628. 1878.</p>
+            <p>Admit. Mr. Prest. Tenn Hist. So.</p>
+            <p>to</p>
+            <p>Exercises at Mechanic Hall,</p>
+            <p>September 18, 1878,</p>
+            <p>250th Anniversary</p>
+            <p>of the</p>
+            <p>Landing of Governor Endicott</p>
+            <p>at Salem.</p>
+            <p>No. 37</p>
+            <p>COMPLIMENTARY.</p>
+            <pb n="5" facs="0012_000060_000441_0005.jpg" xml:id="d3e251"/>
+            <p>Salem Mass., August 12, 1878.</p>
+            <p>The Essex Institute proposes to celebrate in a manner somewhat in accordance with the example set by its predecessor, (the Essex Historical Society,) the two hundred and fiftieth anniversary of the landing of Gov. Endicott, which occurs on the 18th day of September next. The Literary Exercises, consisting of an Oration by the Hon. Wm. C. Endicott, an Original Poem, Music, Etc., will be held at Mechanic Hall, at 11 o&apos;clock A.M. At the close of which, a Lunch, to be participated in by ladies and gentlemen, will be served at Hamilton Hall, at which speaking may be expected from Gov. A.H. Rice, Hon. R.C. Winthrop, Hon. Marshall P. Wilder, Joseph H. Choate, Esq., and others.</p>
+            <p>The price of tickets will be $3.00, admitting the holder to a reserved seat at Mechanic Hall and to the lunch.</p>
+            <p>As the Committee desire to know at an early day the exact number to be provided for, it is requested that you will notify the Secretary, Mr. George M. Whipple, at the Institute Rooms, the number of tickets you desire. As the number is limited, early application is desirable. You are cordially invited to co-operate with the Society in making the occasion one worthy of the event it commemorates.</p>
+            <p>Henry Wheatland, Chairman.</p>
+            <p>A.C. Goodell, D.B. Hagar,</p>
+            <p>Wm. Sutton, James Kimball,</p>
+            <p>W.P. Upham, Henry L. Williams,</p>
+            <p>E.S. Atwood, Geo. R. Emmerion,</p>
+            <p>F. Israel, E.C. Bolles,</p>
+            <p>R.C. Manning, A.H. Johnson,</p>
+            <p>T.M. Stimpson, T.F. Hunt.</p>
+            <p>G,M. Whipple, Secretary.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

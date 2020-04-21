@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000226_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>R. M. Saunders</name>
+				                    in Raleigh, N.C., to David Burford in Dixon Springs, Tenn., <date when="1836-08-07">1836 July 8</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">R. M. Saunders</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000226_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, R. M. Saunders in Raleigh, N.C., to David Burford in Dixon Springs, Tenn., 1836 July 8</title>
+          <date when="1836-08-07">1836 July 8</date>
+          <author>
+            <name type="person">R. M. Saunders</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000226_0001.jpg" xml:id="d4e39"/>
+        <p>D. Burford</p>
+        <p>Dixon's Spring</p>
+        <p>Tennessee</p>
+        <p>From R. M. Saunders</p>
+        <p>rec'd 25th July 1836</p>
+        <pb n="2" facs="0012_000117_000226_0002.jpg" xml:id="d4e51"/>
+        <p>Raleigh July 8 1836</p>
+        <p>Dear Sir - I wrote you some works service requesting you if practices like to collect the whole amount due me for the land to purchase a deposit for the amt I yesterday learnt that a W. Allen Diberry of <unclear reason="illegible" resp="SLJ">Tochear</unclear> Madison County <unclear reason="illegible" resp="SLJ">but</unclear> had goods ni disposal in the Bank at the State of <unclear reason="illegible" resp="SLJ">Mos arline</unclear> Raleigh offices <unclear reason="illegible" resp="SLJ">hole</unclear> has accessed to <unclear reason="illegible" resp="SLJ">now time</unclear> hoping you might get a check from him. same attention will <unclear reason="illegible" resp="SLJ">griely gn run</unclear> all are well - </p>
+        <p>yrs Truly</p>
+        <p>R.M. Saunders</p>
+      </div>
+    </body>
+  </text>
+</TEI>

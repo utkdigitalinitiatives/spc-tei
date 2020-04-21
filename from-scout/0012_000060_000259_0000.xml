@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000259_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name> J. Crozier Ramsey </name> in Nashville, Tenn., to M.B.C. Ramsey 
+in Charlotte, N.C., <date when="1865-08-11"> 1865 August 11 </date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. Crozier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000259_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. Crozier Ramsey in Nashville, Tenn., to M.B.C. Ramsey in Charlotte, N.C. 1865 Aug. 11</title>
+               <date>1865-08-11</date>
+               <author>
+                  <name>Ramsey, J. Crozier</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1865 Aug. 11 J. Crozier Ramsey, Nashville, Tenn., to his mother, M.B.C.
+Ramsey, Charlotte, N.C. News of his father&apos;s brother, William B.A. Ramsey,
+and of his family with whom Crozier is living. Tells of a visit with McNutt,
+formerly a Federal officer and relays McNutt&apos;s impressions that Knoxvillians
+would welcome the Ramseys with the exception of Robert. Urges his family to
+return to Knoxville so that they can be near their grandchildren and have a
+better chance of recovering their property. Mention of other Confederate
+sympathizers returning to East Tennessee. </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family life -- Southern States -- History -- 19th century.</term>
+               <term>Refugee property -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Pardon -- Tennessee -- Knoxville -- History -- 19th century. </term>
+               <term>Knoxville (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>Southern States -- Politics and government -- 19th century.</term>
+               <term>Ramsey, J. Crozier (John Crozier) d. 1868 -- Correspondence.</term>
+               <term>Ramsey, M. B. C. (Margaret Barton Crozier), 1802-1889 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000259_0001.jpg" xml:id="d3e157"/>
+            <p>Nashville August 11th 1865</p>
+            <p>My Dear Ma</p>
+            <p>I received yours and Papas letters yesterday and was glad to hear that you were all well. I read all your letters
+with great interest and my Uncle and his family who read them with great pleasure My Uncle and all of them are very kind
+to me he is very comfortably situated and his two married daughters live near him they also have a Church near him and I
+go to church every Sunday Mr <unclear reason="illegible" resp="bds">Trimble</unclear> (their pastor) is a good preacher. I
+think a <unclear reason="illegible" resp="bds">greatest</unclear> about your situation and troubles I have taken great
+interest about the state of feelings in East Ten and their is scarcely a day but what I see either a Union or Southern
+man from there and I always make it my business to</p>
+            <pb n="2" facs="0012_000060_000259_0002.jpg" xml:id="d3e175"/>
+            <p>enquire as to the condition of things with a view as to advise you all as to the propriety of returning I have no doubt
+but the reports you hear from their are exagerated My own opinion based upon what I hear is that you could all return with
+perfect safty (except Robert) without having the <unclear reason="illegible" resp="bds">sbigent</unclear> fears of having
+any personal harm done to Papa or Mack neither would you be subject to any insults of any kind. I met with Capt. John
+McNutt (of the Fork and formerly of the Federal army) a few days ago I spent most of the day with him and took him out
+and spent the night with us at my Uncles he has the kindest feeling for you all and from him I learned the particulars
+as to the feeling about you all he says that all your old neighbors such men as Sam <unclear reason="illegible" resp="bds">Bowman</unclear> and others are very anxious for you to return and instead of having any thing against you
+they have</p>
+            <pb n="3" facs="0012_000060_000259_0003.jpg" xml:id="d3e189"/>
+            <p>great sympathy for you but would any thing in their power to serve you all John thinks you should all return at once. I
+could give you many reasons why I should think it best for you to return if I could see you but I will only mention the most
+important ones as they strike my mind you would be better satisfied if you move near your grandchildren where you could
+take care of the poor motherless children although you could live comfortably where you are yet your anxiety for them
+would always make you uneasy and still you would not be satisfied where you are Secondly by returning home the moral effect
+would be good in getting back your property McNutt said that the public sentiment was very much against those that
+purchased it and it might be that influences would be brought to bear (if you were all at home) that they would
+surrender the property upon the money being refunded or upon some compromise that might be better than to commence a suit Aside
+from this I believe that you could live cheaper and more comfortable and contented that where you are. You could live at
+Margaret Janes place in town or at Lenoirs in <unclear reason="illegible" resp="bds">case</unclear>. Another reason when you
+return if you should conclude not to remain there you would be in a better condition to select under the advice of your
+friends a future home. I would therefore make Knoxville home (at least) for future <unclear reason="illegible" resp="bds">operations</unclear>
+I would feel much more contented happy and less <unclear reason="illegible" resp="bds">solicitous</unclear> about you all if
+you move back at your old home than for you all still to remain exiles that gives me more pain than my own condition if you go
+to the trouble of getting a house and furnishing it and living there for a year yet I think it all unnecessary unless you
+have made up your minds never to return then after surveying all</p>
+            <pb n="4" facs="0012_000060_000259_0004.jpg" xml:id="d3e206"/>
+            <p>facts and <unclear reason="illegible" resp="bds">sights</unclear> before me from this point. I would advise you that when the weather
+gets cool and more pleasant for traveling (say the last of Sept or early in October) I would start for East Ten I suppose you
+could get transportation for all by that time Papa will I hope receive his pardon I believe all will turn out well and that you
+will all be glad that you have returned. The above is my candid advise but I leave the whole to your own better judgement you friends
+at Knoxville may be able to give you a more correct view than I can. The last letter I received from Margaret Jane she and all of our
+friends were well Aunt <unclear reason="illegible" resp="bds">Hannah</unclear> and Aunt Mary had returned Uncle Frank
+<unclear reason="illegible" resp="bds">Keller</unclear> was also at home <unclear reason="illegible" resp="bds">unmaserted</unclear>.
+Frank Ramsey (Uncle Johns son had also returned and was living at home undisturbed. The corn crop in East Ten is very promising
+James Cowan and family are all at home He or Mr <unclear reason="illegible" resp="bds">Hismes</unclear> or Dr. <unclear reason="illegible" resp="bds">Lennox</unclear> could give Papa correct information as to the propriety of his
+returning soon. Tell Papa that I expect to hear from Judge Patterson soon in regards to our applications and that I will
+<unclear reason="illegible" resp="bds">note</unclear> a while before I answer his letter. Do any of you know what had become
+of Maj R.B. Reynolds I have heard nothing from him since I was captured. I heard that Maj Wallace was living in Athens Ga and that
+he would be elected President of some Rail Road I hope he will if you all should go home soon perhaps he could give Robert a
+situation on the road. All the refugees from Middle Ten are returning and received <unclear reason="illegible" resp="bds">kindly</unclear>
+by the Union men When you all write write at different times and by that means I can get a letter from you once a week Will the mail
+communication be open soon to Charlotte. Remember me kindly and affectionately to all Will be pleased to hear from you all
+at any time</p>
+            <p>Yours truly</p>
+            <p>J.C. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

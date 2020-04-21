@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000214_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio,
+<date when="1863-12-27">
+1863 December 27
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000214_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to Sarah Probert in Pittsfield, Ohio, 1863 December 27</title>
+               <date>1863-12-27</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>7  digital images;  1 envelope, 6 pages</extent>
+               <note type="abstract">In this letter, dated December 27, 1863, from John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins expresses hopes that the soldiers of the Confederate army will abandon the war soon. He also describes his Christmas day and writes of general news.</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Southern States.</term>
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Watkins, John, b. 1839 -- Anecdotes.</term>
+               <term>United States. Army. Ohio Independent Light Artillery Battery, 19th (1862-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000074_000214_0001.jpg" xml:id="d3e155"/>
+            <p>Dec 27th 1863</p>
+            <p>Miss Sarah. J. Probert</p>
+            <p>Pittsfield Swain Co</p>
+            <p>Ohio</p>
+            <pb n="2" facs="0012_000074_000214_0002.jpg" xml:id="d3e169"/>
+            <p>Knoxville Tennessee Sunday Dec 27th 1863</p>
+            <p>My own dear Sarah</p>
+            <p>In the last letter that I wrote you darling I promised to write to you again to day, if nothing extraordinary happened. and now I proceed to the fullfilment of it: Christmas has come around and gone again and still we are in the service and some hundred&apos;s of miles farther from home than we were last Christmas. and oh what changes have taken place since this time last year, and in the positions of the different armies especially. and what a lot of great battles have been fought and principally won by our troops, beginning at the battle of Stone river fought on the first 4 or 5 days of this year. and ending at the late one at Chattanooga where so many of our brave men were cut down in charging there almost impregnable works. I have been thinking and wondering for the last two or three days if we will be in the service this time next year. I am in hopes not, that before that time the rebels will be whipped entirely out or see the folly of farther resistance and throw down there arms and give up the struggle that jest as sure as fate will impoverish the whole of there country and turn all that live it through into beggars, if they dont quit it. I believe now that if the privates in</p>
+            <pb n="3" facs="0012_000074_000214_0003.jpg" xml:id="d3e181"/>
+            <p>there army knew the real condition of things, and knew how they would be treated by us, the could not be kept together by there officers than a pack of wolves. the deserters that come in here say that there officers tell them if our troops get hold of them they will be sent north and put into dungeon&apos;s till the war is over and be subject to all sorts of ill treatment, even to suffer death very slight offences. they cant delude these men forever by such stories. and by and by there men will leave them like everything. some of our boys saw one down town the other day that had jest come in from Longstreets aremy. he says they get 11 dollars a month and that will jest buy a bushel of corn for his wife and family and if that is so (and I see no object in his telling it if it was not so) what are those people doing, is what is a mystery to me. and it seems to me that those people must suffer for the want of the necessaries of life especially through the winter. there soldiers are clothed with everything, no uniformity about it, or there army, although they have jest as good small arms as we have got, a great many of them of English manufacture. but I have already written more of this than I intended.</p>
+            <p>it is some consolation to me at least that our time is most half out. and all this time I have been jest as well and hearty as a man could wish, not been sick a day yet. and more than all that everything</p>
+            <pb n="4" facs="0012_000074_000214_0004.jpg" xml:id="d3e191"/>
+            <p>at home that I have any interest in going on right with one exception. all that has bothered me is your having so much hard work to do Sarah that I have been afraid you would make yourself sick at. but oh how glad I am that you have got along as well as you have. and I hope you will get along without being sick all the time. that I am away anyhow. but I wish I could be up home now for a month or so. oh what pleasent times we would have. I would like to see you first rate. i would give most anything for the privilige. it is so long since I left home or seen any of the folks that I dont believe I should know some of them by this time. last week our Capt turned over all of our horses and all of the harness and has got our guns into the fortifications around the town. the gun that I belong to is all by itself in fort Sanders where we have been since the siege and I expect we will stay here this winter jest as we are and perhaps by spring we will have new horses again if the whole Battery is not disbanded, for there is a good many of the men trying to get detailed from the Battery to work in sawmills and to work on the railroad or anything else so they can get out of this Battery. some will reinlist for 3 years if they get a chance but the Capt is bound to keep all his men so he says, and so I dont know how they will make out. the men are getting disgusted with the officers more and</p>
+            <pb n="5" facs="0012_000074_000214_0005.jpg" xml:id="d3e199"/>
+            <p>more so everyday and I guess everybody else that has anything to do with them. there is lots of the men that he could help to $3 1/2 a day if he wanted to but he swears there shant one of them go and so there is a good deal of ill feeling between the men and officers. but if I can get along from now out as I have so far I will be satisfied. I have had no trouble with them yet and dont mean to if I can help it. I wish that I could jest sit down by your side and tell you of some of these things Sarah how much better I should feel but it is of no use to wish after all in this case for there is no hopes of them ever being granted as long as they can keep a man here. I dont know as I have any great cause for complaint. I make out to get along and most of the time feel first rate. but when there is a bad spell of weather, and it is raining most all of the time, we have to stay shut up in our tents. nothing to do to pass away the time, nothing of any kind to read it is pretty dull business. I get to thinking about home and all the folks and about you darling and the pleasent hours we have passed away and wish myself there and get to thinking over the prospect of getting home before our time is out. I get to feeling pretty down hearted over it sometimes, but a letter from there soon dispels it all and I feel better about it, and think I dont care as long as they are all well at home and I can hear</p>
+            <pb n="6" facs="0012_000074_000214_0006.jpg" xml:id="d3e207"/>
+            <p>from them occasionally and you especially. I want to hear from you if nobody else darling. and the oftener the better. but I will not ask you to write me any oftener than you have for you have more writing to do now then you used to and no more time then you ever had to do it in. but darling I will write more to you than I have done when I can. I am glad you requested it. if there is anything else Sarah that I can do for you situated as I am dont be afraid to ask for it. I will do anything I can for you any consider it a pleasure to do it. consider yourself free to say what you wish to me. your wishes shall be mine as far as in me lies.</p>
+            <p>now for how I spent my Christmas. in the morning I got up and as usual got some breakfast. the sky was all clouded over and was all day. then I went into my tent and sit down and read a book on artillery drill most all day. towards night I got a little to eat and then walked around the fort till dark and then went to bed. it was a still mild day jest like a spring morning. and the bluebirds were singing around all day, jest as though spring was really here. to day it is raining a little at a time all day. making a real mean kind of a day and it is all mud around inside of the fort so</p>
+            <pb n="7" facs="0012_000074_000214_0007.jpg" xml:id="d3e217"/>
+            <p>that a little rain makes it very disagreeable. I suppose by the time you get this you will have had many a sleigh ride. I hope you will enjoy them all and have many a one this winter. and think of me occasionally. there is but very few troops in this place now, having gone up the country after the rebels. we dont hear from them very often. and cant tell what is going on up there. but it seems to me that both armies cant subsist up there a great while. we heard here once that the rebels had been reinforced from Richmond. our forces have been reinforced from Chattanooga and they must have quite a force there now. they are about 20 miles east of here now. as I have got to go for water to night and have got about 1/2 mile to go I will have to close pretty soon. and hoping this will find you well, I remain as truly devoted to you as ever. I will trust in your love Sarah forever. so good night</p>
+            <p>John</p>
+            <p>direct to the care of Capt Joe C Shields Knoxville Tennessee 19th Ohio Battery 23d Corps</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000300_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J.G.M. Ramsey</name>
+				               in Charleston, S.C., to Henrietta Ramsey in Mecklenburg, Tenn., <date when="1852">1852</date>
+            </title>
+        <author>
+          <name type="person">Ramsey, J.G.M. (James Gettys McGready)</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000300_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J.G.M. Ramsey in Charleston, S.C., to Henrietta Ramsey in Mecklenburg, Tenn., 1852</title>
+          <date when="1852">1852</date>
+          <author>
+            <name type="person">J.G.M. Ramsey</name>
+          </author>
+          <extent>1 page</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1852</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000300_0001.jpg" xml:id="d4e44"/>
+        <p>ionable opinion, degraded.  But there will be found many of the sterner virtues - truth &amp; fidelity &amp; public virtue - the inviolability of a private friendship - frankness &amp; candor &amp; cordiality - a spirituality in its religion &amp; its patriotism no - echo.</p>
+        <p>You wonder that I who appreciate so highly &amp; enjoy with such keen relish, the elegant hospitalities &amp; the refined taste &amp; the intellectual society of older communities should thus speak.  Ah I relish still better, as found, in Tennessee, what is primitive, simple &amp; unsophisticated either by age or art.</p>
+        <p>"Next to Heaven above Land of my Fathers! thee I love.  And rail thy slandrers, as they will, With all thy faults I love thee still."</p>
+        <p>I hope to see you in a week after this reaches you<gap resp="Hogan"/>
+            </p>
+        <p>P.S. I dare say nothing about public matters - that you do not see in the papers - I am very well.  Let your Ma know that you have heard from me.  Give the inclosed to your <unclear reason="Illegible" resp="JH">aunt</unclear> Swan with my respects.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000261_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name> J. Crozier Ramsey </name> in Nashville, Tenn., to Mrs. E.A.R. Breck
+in Charlotte, N.C. <date when="1865-09-15"> 1865 September 15 </date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. Crozier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000261_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. Crozier Ramsey in Nashville, Tenn., to Elizabeth Ramsey Breck in Charlotte, N.C. 1865 Sept. 15</title>
+               <date>1865-09-15</date>
+               <author>
+                  <name>Ramsey, J. Crozier</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1865 Sept. 15 J. Crozier Ramsey, Nashville, Tenn., to his sister, Elizabeth
+Ramsey Breck, Charlotte, N.C. Having heard of the insulting treatment of
+Confederate sympathizers in Knoxville, advises his family to remain in North
+Carolina. Regrets that he must go to Knoxville on business. Praises
+President Johnson as a friend to the South who deserves the support of the
+Southern people. Mentions writing to Judge Patterson, Andrew Johnson&apos;s
+son-in-law, concerning the return of Elizabeth&apos;s farm. Expresses hope of
+finding a wife when he can earn enough to support a family. News of his
+mother&apos;s brother, Arthur Crozier. </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Business and politics -- Tennessee -- History -- 19th century.</term>
+               <term>Family farms -- Political aspects -- Tennessee -- Knoxville --History -- 19th century.</term>
+               <term>Quality of life -- Tennessee -- History -- 19th century.</term>
+               <term>Confederate States of America -- Politics and government -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>Ramsey, J. Crozier (John Crozier) d. 1868 -- Correspondence.</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000060_000261_0001.jpg" xml:id="d3e159"/>
+            <p>Nashville Ten Sept 15th</p>
+            <p>My Dear Sister</p>
+            <p>I received your very kind letter and was sorry to hear that Ma and Sue had been sick. I hope however they will soon be
+restored to their usual health. I am glad that you all have gone to house keeping. I am now satisfied (from what I hear almost
+daily from Knoxville) that you have acted wisly in remaining where you are. The outragious <unclear reason="illegible" resp="bds">sciens</unclear> taht are constantly transpiring there is disgraceful to humanity and civilisation and is
+almost beyond description I however will be compelled to be there the third Monday in Oct I do not anticipate the trip</p>
+            <pb n="2" facs="0012_000060_000261_0002.jpg" xml:id="d3e174"/>
+            <p>with pleasure. I have no fears at the result of my case - but the <unclear reason="illegible" resp="bds">outside</unclear>
+feeling is not so good but you need give yourself no uneasiness about my safety as I think I will come out with safety. I also
+received Papas letter a <unclear reason="illegible" resp="bds">five</unclear> days ago enclosing me a copy of his application
+for pardon - As I had written to him about my arrest and return from Knoxville I have not yet answered it. I think he need have
+no fears I think President Johnson will pardon him and all others soon. I was highly pleased with his speech - he made before
+the Southern delegation you must get it and read it - he will come out all right as I knew he would - he will be the best
+friend the</p>
+            <pb n="3" facs="0012_000060_000261_0003.jpg" xml:id="d3e188"/>
+            <p>South has and it <unclear reason="illegible" resp="bds">becomes</unclear> us all cordially to sustain him inorder that he
+may be able to break down Black republicanism. I will write to Judge Patterson to day and see if he cant get the President to
+order the return of your farm without you visiting Knoxville - if so we can rent it out for you. I am glad to hear that the
+young folks are disposed to marry I hope they may all be able to find suitable companions I would like very much to be there and
+form some acquaintances with the ladies - but that is impossible. I will have to do my courting by proxy and let you act as
+my agent though I must first get through all my troubles and then try and make some money to support</p>
+            <pb n="4" facs="0012_000060_000261_0004.jpg" xml:id="d3e199"/>
+            <p>some good lady with - but if she had the money I think I would be a very good person to take care of it for her as I have
+had much experience in having money and not having it. I would have sent you my Photograph with pleasure but my practice as yet
+is quite limited and it takes all I make to keep up my necessary expenses I will however try and send you one soon. Say to Papa
+that if he has my pocket book containing my notes - and has an opportunity of sending it - to send it to me - perhaps there may be
+some of them that I can collect or make something out of them. I received a letter from Uncle Arthur a few weeks ago - he is at
+Austin - his family is well but he has lost a great <unclear reason="illegible" resp="bds">eal</unclear> of property though not
+as much as the rest of us - he speaks of moving to Arkansas - When I write to him I will advise him to come here I received a letter
+from my Dear Sister Margaret J. (she is well) a few days ago. She sustains me in all my troubles when I am at Knoxville with a
+devotion and affection that is unequaled and unprecidented by a Sister I dont see how I could get along without her - She (while
+I lay in the jail) was there both late and early Uncle Williams has been very sick for the last week - but is some better to day - the
+rest are all well. Remember me kindly to all - will be pleased to hear from you all at any time</p>
+            <p>Yours truly</p>
+            <p>J.C. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

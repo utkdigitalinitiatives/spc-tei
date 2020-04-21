@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000222_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Caroline M. Brown,<date when="1862-02-02">1862 Feb. 2</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000222_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,1862 Feb. 2</title>
+          <date when="1862-02-02">1862 Feb. 2</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000222_0001.jpg" xml:id="d4e39"/>
+        <p>February 2th 1862</p>
+        <p>Dear wife and children I sit down to let you know how I am at this time I am well at this time and hope these few lines will find you all the same we crost the Cumberland River last Friday in a little boat and the boys puld by a rope to cross we are one mile and a half from the river on a hill There are some good union Men here and we cant tell when we will move from this place some say we will go down to dixy but they cant tell any better than i can But they are willing to Any place they like to be moveing onward one</p>
+        <pb n="2" facs="0012_000599_000222_0002.jpg" xml:id="d4e45"/>
+        <p>way or the other they do not want to stay too long at one place our boys say they will have meat They went out yesturday and fetched in two hogs and We are livingn well to day you may bet plenty of pork now the boys goes for hogs geese ducks and chickens and honey They have any thing they want And we intend to have anough to eat and drink as we go Down to Dixy i want you to send the news to me about the weather up there in Ohio whethe it is cold or not we have not had any Frost down here since i got back we have had rain <unclear reason="illegible" resp="LW">prty</unclear> near every day since i got back to camp anough of that</p>
+        <pb n="3" facs="0012_000599_000222_0003.jpg" xml:id="d4e52"/>
+        <p>Now I will just say that i maid a miss stake I sending your letters to Millerstown I sent you a newspaper to <unclear reason="illegible" resp="LW">hartleyville</unclear> And i want you to write word to me whethe you got it or not i have a little <unclear reason="illegible" resp="LW">loard</unclear> on my <unclear reason="illegible" resp="LW">neet</unclear> about a fat square but we must do the best we can here in camp we will hafter to go on dress perrade soon I shall have to quite writeing I feel very lonsome here since i got back to camp i think a grate deal about home i hope god will you and children and myself to i would like to see you all the best kind But i shall not have the previelige any more</p>
+        <pb n="4" facs="0012_000599_000222_0004.jpg" xml:id="d4e65"/>
+        <p>untill we are dicharge they will not give any more furlough I hope we will soon meet again so good by to you all</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

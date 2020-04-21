@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003423_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Joseph Oliver Freeman</name> in <name type="place">Corinth, Mississippi</name>, to Indiana Freeman, 
+               <date when="1862-04-03">1862 April 03</date>
+            </title>
+            <author>
+               <name>Freeman, Joseph Oliver</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_003423_000204_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Joseph Oliver Freeman</name> in <name type="place">Corinth, Mississippi</name>, to Indiana Freeman, 
+                  <date when="1862-04-03">1862 April 03</date>
+               </title>
+               <date when="1862-04-03">1862 April 03</date>
+               <author>
+                  <name>Freeman, Joseph Oliver</name>
+               </author>
+               <extent>3 digital images</extent>
+               <note type="collection">Joseph Oliver Freeman Letters, 1861 December 22 - 1864 June 12, undated</note>
+               <note type="manuscript">MS.0806</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Chickamauga, Battle of, Ga., 1863.</term>
+               <term>United States--History--Civil War, 1861-1865--Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e166">
+            <pb facs="0012_003423_000204_0001.jpg" n="1" xml:id="d2e168"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Corinth, Mississippi</name> 
+                  <date when="1862-04-03">April the 3 D 1862</date>
+               </dateline>
+               <salute>my Dears Wife</salute>
+            </opener>
+            
+            <p>I tak the opertuney of Riten you A few lines to let you no that I am well at this time and I hope when thes few lines comes to hands that thay mae find you inday the same blesen  I Receve you letter from Mr limones he Rote hit to me hit did releve my mind verre much to reseve A letter from you  I was begint to think that I was nevr gone to git A letter from you enmore  I was sarre to her that you was out of <unclear reason="illegible" resp="PW">persisson</unclear>Inday hit <unclear reason="illegible" resp="PW">pudni</unclear>Chil me to hear of hit but tri and git long the best you can tel I Can send you som monney  I will send hit to you as son as I can git hit</p>
+            <p>tel Mr Dennis to not let you suffer Inday I wust that I cud com home but but thay dnt love no ferlow I drem A bote you evre nite I drempe one night that we was camp clost to Randolph and I thout you and Mrs<unclear reason="illegible" resp="PW">Uketson</unclear> had com to see us I thout that I was fixen to go home with you you better beleve that I was A fixen in A herre when I wak I was fold badly.</p>
+            <p>John is well he send his lov to you. Inday I wount you to leve thar ef the yanks comes thar ef can I wount you to go with sum body that is gon to leve thar tel Mr Dennis ef he leves thar to take you with</p>
+            
+            <pb facs="0012_003423_000204_0002.jpg" n="2" xml:id="d2e204"/>
+            <p>him ef he lese but I am in hopes thay wont come thar  bille Whillar Com to see us he told me that thay was A man told him that he saw Frank hear  I cant git A chant to go and see him  Inday I want Com home but I Cant Com now and I dont now when I can for thay wont give no furlows I want you to pick up A big resluson and say you will be content  tel my times is out I waunt you to rite to wether I must <unclear reason="illegible" resp="PW">Gone</unclear>for the war ar not sum time I think I will git A transfur and go to <name type="place"><choice><orig>fort piller</orig><corr resp="pw">Fort Pillow </corr></choice></name> thay will giv me A transfer ef I goin fer the war but I dont waunt to gone for the war now</p>
+            <p>I had droth wate A while longer thay ar looken fo A fite A bote ten miles from this plase what is cold <unclear reason="illegible" resp="PW">mostray</unclear> we was orde out thar bute we could not git gunes serfisen to fite with and we did not go  i expect thay ar fiten thar to Day  I can har the cannon <unclear reason="illegible" resp="PW">wance</unclear>and while I dont no wether thay will be eney fiten hear ar not I am A frad that thay will pase fort piller  I am A frede ef thay do pase thar thay will do A hepe A dammages to the pepele thar  Thar is A haps of sixson in our Camps James Farras A member of our Comney was taken seck A Tusday morne and he Dide the next morne at one o clock  hit is sompthing like the brane fever ever one</p>
+            <pb facs="0012_003423_000204_0003.jpg" n="3" xml:id="d2e228"/>
+            <p>that takes hit Dies</p>
+            <p>Indiana tel Mr Dennis that Dock ramel is A gone back whre Tome Dennis is and he Can git A chnce to send Tome eney thing he wonce to I Dont lik this plase A tole  I want to git back in to tennsee A gin hit is low flat cunre here you cant gig A grave without the grav A been haf ful warter after you git dun gig hit when you pute the Coffen in the grave hit flotes in the warter Inday I wust you wud send me a guge of milk in you next letter ef you <unclear reason="illegible" resp="PW">les</unclear>I wust I cud git to com home  Chis little Alje for me I wuts I cud git to see his little fase wuntes more  ef the yanks pas forte piller I am gone to try mitey harde to git home ef I do fale to git thar I am in hopes that sume of my frendes will take you A way  ef they dont I oles thay oute to dohit</p>
+            <p>thar has bin fore Deths in our Comney sen we has bin hear the helth of our Comney is mitey bad at this time thar is a gud meny sick now thar ant mo then telve men abl for Dutey  tel Chrle to stay at home tel he git sound and well  so mo at preset giv my repecke to all my connexson and frendes  So noth mo at present but remane you efection husban  So far you well my Dears Wife Joseph. O. Freeman Rite to me as son as you gite this Inday I nevr has reseve but one letter from you yeat</p>
+         </div>
+      </body>
+   </text>
+</TEI>

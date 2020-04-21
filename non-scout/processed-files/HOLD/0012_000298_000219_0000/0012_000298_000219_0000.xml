@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000219_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Memphis, Tenn., to his wife in Bloomington, Ill., <date when="1864-12-12">1864 Dec. 12</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000219_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Memphis, Tenn., to his wife in Bloomington, Ill., 1864 Dec. 12</title>
+               <date when="1864-12-12">1864 Dec. 12</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolf Hackley Letter</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000219_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis Jany1st 1865</p>
+            <p>My Darling</p>
+            <p>Your XMas letter recd yesterday the usual time and I am happy to learn that you are all well and that the girls are making acquaintances and have more enjoyment than <unclear reason="illegible" resp="JCM">here to find.</unclear> this reconciles me to the protracted absense from you all which my business requires I still hope that I may be sent to StLouis where I  could see you now and then but as yet I have no certain knowledge of what I shall have to do if I can only have my time fully occupied I shall be satisfied. I wish you would see the Dr. abotu Richies foot I do not like it to be sore so long for fear it may result in permanent</p>
+            <pb n="2" facs="0012_000298_000219_0002.jpg" xml:id="d4e50"/>
+            <p>lamenesss bring on the heel see to this at once. I do not think that you will save much by not having a servant at the washing will cost nearly as much as the <unclear reason="illegible" resp="JCM">hire</unclear> and the exposure to the cold is too much for you you had better have one during winter, if you have money enough to buy a <unclear reason="illegible" resp="JCM">stirv</unclear> do so and have it set out <unclear reason="illegible" resp="JCM">farther</unclear> in the room say half way to the parlor door - I have one in my fire. Made by Mr Resor &amp; co Cinn which I like much and which does not cost much as the Stewart. do try and keep yourself warm and as comfrotable as you can during my absence you should warm your feet well before going to bed it is healthy to have them cold. The box came safely to hand on tuesday  and a thank you much for the contents. The</p>
+            <pb n="3" facs="0012_000298_000219_0003.jpg" xml:id="d4e63"/>
+            <p>cap fits nicely. The slippers are entirely too large and I will exchange them. The sleves of the gown are too tight and you had better get some more of the stuff to make another pair. The wether is quite cold and variable frequently <unclear reason="illegible" resp="JCM">out</unclear> and then freezing the streets are now hard frozen I am glad you got the muffs for the girls and wish I could get full sets of furs for all. Things here are very quiet and gloomy. the lines closed &amp; no one all around to come in for this country I should have sent you some dried peaches before this but they cannot be <unclear reason="illegible" resp="JCM">bot</unclear> in. Kiss all the children tell my boy pa hopes his foot will get well soon</p>
+            <p>Your aff Husband</p>
+            <p>WRHackley</p>
+            <p>Mrs W R Hackley</p>
+            <p>Bloomington Ills</p>
+         </div>
+      </body>
+   </text>
+</TEI>

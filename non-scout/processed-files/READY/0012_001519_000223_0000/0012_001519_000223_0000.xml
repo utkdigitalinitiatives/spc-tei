@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000223_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Horace Maynard</name>
+				                    in Washington D.C., to Pick, <date when="1863-04-27">1863 Apr. 27</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Horace Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000223_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Horace Maynard in Washington D.C., to Pick, 1863 Apr. 27</title>
+          <date when="1863-04-27">1863 Apr. 27</date>
+          <author>
+            <name type="person">Horace Maynard</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.0415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000223_0001.jpg" xml:id="d4e39"/>
+        <p>Washington, April 27, 1863</p>
+        <p>Dr. Pick,</p>
+        <p>
+          <unclear reason="illegible" resp="JCM">Tuesday evening your mother &amp; I took the Ferry &amp; had a delightful ride to Providence. There we staid long enough to walk about the city new a good deal of the outside. The cars took us to Manchester, where we staffed again until later in the evening &amp; then went to Westboro; I staid there until the next day at night &amp; left for this west of ohio. Ore recurring to every visit in other part it appears quite satisfactory. I have accidentally made a good start; &amp; now need only to press forward to complete success. End conduct chance study in case that you need, after having so well mastered the routine with such a persuasion of health. I cannot too strongly impress upon your attention the great fact that the daily action a boy reaches at school, whether good or bad, will be the one he will veer through life. Exceptions there are indeed, but they are rare. Ans that the condition of affairs reaches it success inpart, seen clearly then can, that I shall have nothing to leave you all in the way of property, suit even to dear little Ann Mary, I am exceedingly anxious to hear your preferred for per our support, with a consciousness that you must depend upon greatly. As you have probably heard we ran out for var at a bad time, for your concentration. But we visit reaches the best of it. I am next since that you will sent be run thoroughly instated &amp; in every we captation better educated if you live to graduate at the Naval Academy, than if you lived given eager</unclear>
+        </p>
+        <pb n="2" facs="0012_001519_000223_0002.jpg" xml:id="d4e48"/>
+        <p><unclear reason="illegible" resp="JCM">bounty through the crisis at Knoxville; with this advance large, that if you choose a rerarition life, you are prepared for it, &amp; in the way of it. Edward will not be so well versed in bookish here, as he probably once had been, after another year at the University; but he is developing the usually qualities of a character self reliance &amp; a feeling of self reliability never hoping there he would have done at school. I think he is maintaining his poise &amp; avoiding the school keeping upon which youth, when left to its own guidance, so often is reached. Millie, whom I saw at Westboro is evidently doing better than she would have done had she ever arrived at home. It happened just this time for her to go abroad, advantage only for the completion of her education. Now it will form with pan Lindsey &amp; Ann Mary is sent so close. It is time was they were taking a start. Earn can imagine pretty well, what sort of time he has over there did hill. She is very bright &amp; if she has a secondrater chance will make a sister of ehern, a very hard night will be heard. Eather death gives a constant in the city tonight. Will endure anything vices as likely to interest you. He is certainly the most astonishing pianist I have ever heard, I cannot tell how soon I shall get away from here probably in a few days. I have not from your mother since I left her; but will probably have a letter in the morning. Kind regards to our Newport friends,</unclear> Kindly &amp; Truly,</p>
+        <p>Horace Maynard</p>
+        <pb n="3" facs="0012_001519_000223_0003.jpg" xml:id="d4e56"/>
+        <p>Willards' Hall GOTTSCHALK TWO GRAND CONCERTS Monday and Tuesday, April 27 and 28. M'LLE LOUISE VIVIER BRETTO BROTHERS! MASTER BERNARD and MASTER RICHARD MUSICAL DIRECTOR S.BEHRENS.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

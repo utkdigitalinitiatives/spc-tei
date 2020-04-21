@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000242_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in camp near Corinth, Miss., to Caroline M. Brown,<date when="1862-05-30">1862 May 30</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000242_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in camp near Corinth, Miss., to Caroline M. Brown,1862 May 30</title>
+          <date when="1862-05-30">1862 May 30</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000242_0001.jpg" xml:id="d4e39"/>
+        <p>Camp Near Corrinth Miss</p>
+        <p>May 30th 62</p>
+        <p>Caroline M. Brown</p>
+        <p>Dear Companion it is with much pleasure that i sit down this Saturday morning to let you know how I am I feel much better than when i wrote to you before i feel week yet but i am able for duty i hope these few lines will find you all well when it comes to hand you wanted to know if warner <unclear reason="illegible" resp="LW">spurrier</unclear> was dead is not he is camp with us And is harty as ever i gess there is a grate many of our boys left behind and have not come of</p>
+        <pb n="2" facs="0012_000599_000242_0002.jpg" xml:id="d4e52"/>
+        <p>little colt for me to see with the regt yet they are kep as cooks henry Strate John McNeal Stephen Hemery Jo Hammon I N Joseph and some more is at Nashville yet i think there is about one half of our company left behind And gone home i was out out on picket Night be fore last and sent out some skurmishers and they got to fighting a little they maid the bullets whistle over our heads you had better think for a while we are with in one mile of the rebels Breast work and looking for a fight all the time and we all wish for it to go off so we can</p>
+        <pb n="3" facs="0012_000599_000242_0003.jpg" xml:id="d4e56"/>
+        <p>I hope you will leave a nice get home we have poor watter whare we are now Nothing but swamp watter And of the worst kind at that we are well fortifide wheare we are man with good breast works I think it wont be long till we will be i corrinth we heard verry heavy cannon <unclear reason="illegible" resp="LW">adeing</unclear> in that way this  morning we have not heard what they done the ashes came fling over and camp some <unclear reason="illegible" resp="LW">pierces</unclear> was caught we could not read it we supose part of the town was set on fire with <unclear reason="illegible" resp="LW">bums</unclear>
+            </p>
+        <pb n="4" facs="0012_000599_000242_0004.jpg" xml:id="d4e68"/>
+        <p>To the boys good little fellows</p>
+        <p>Alfred hemery was down our line the other day some four miles and And saw ike groves and Tom Martin the rest of the Groves he did not see yes he saw Josh he says he is as big as vest Elias died since he left home I have got too letters from Indiana one dated the 17 and they ware all well then one from Bob and the other from Caroline I gave dick hartley some paper the other day he was up to see us to write you a letter Excuse my writing i shall close I am so <unclear reason="illegible" resp="LW">nerse</unclear> write soon good by Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

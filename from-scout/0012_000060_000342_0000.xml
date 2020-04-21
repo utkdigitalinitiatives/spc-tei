@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000342_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>C.G. Olmsted</name> in Franklin, Tenn., to J.G.M.
+Ramsey in Knoxville, Tenn. <date when="1822-05-06">1822 May 6</date>
+            </title>
+            <author>
+               <name type="person">Olmsted, C.G., 17??-</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000342_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, C.G. Olmsted in Franklin, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1822 May 6</title>
+               <date>1822-05-06</date>
+               <author>
+                  <name>Olmsted, C.G., 17??-</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1822 May 6 C.G. Olmsted, Franklin, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Concerns partial payment of a $600 note held by Dr. Ramsey on Allen Bugg. Discussion of &quot;Old Stephens &quot; who is regarded as a &quot;grand villain&quot; for his many bad debts.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Promissory notes -- Tennessee -- Franklin -- History -- 19th century.</term>
+               <term>Collecting of accounts -- Tennessee -- Franklin -- History -- 19th century.</term>
+               <term>Debtor and creditor – Tennessee -- Franklin -- History – 19th century.</term>
+               <term>Franklin (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000060_000342_0001.jpg" xml:id="d3e150"/>
+            <p>Franklin T.</p>
+            <p>May 7th</p>
+            <p>18c</p>
+            <p>no. 39 Doctor J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <note type="transcription">The following text is a note added by J.G.M. Ramsey along
+the righthand side of the first page of the letter</note>
+            <p>Answered May 14 and inclosed a note for 600 dollars due <unclear reason="illegible" resp="bds">Jany</unclear> 1 1821 on Allen Bugg &amp; one for 15.25 on which is a audit of
+10.00 of which I have kept duplicates or copies</p>
+            <p>Attest J.G.M. Ramsey</p>
+            <p>Same time instructed Olmsted to collect Brown &amp; Allens note $44 &amp; interest &amp;
+<unclear reason="illegible" resp="bds">Latas &amp; Thells</unclear> 28.00 &amp;c</p>
+            <p>J.G.M. Ramsey</p>
+            <note type="transcription">The preceding text is a note added by J.G.M. Ramsey along
+the righthand side of the first page of the letter</note>
+            <pb n="2" facs="0012_000060_000342_0002.jpg" xml:id="d3e185"/>
+            <p>Franklin May 6th 1822</p>
+            <p>Dr Ramsey</p>
+            <p>Sir</p>
+            <p>Bugg has paid into my hands three hundred and sixty dollars to be applied on your note - He
+says he will pay the ballance when the note is sent on - You had better send his note to me
+and I will send you the money you can draw on me immediately for the $360 - Old Stephens is as
+great a rascal as ever - I regret extremely that I was ordered to discontinue against him, as
+a <unclear reason="illegible" resp="bds">Mr Castirs</unclear> has since obtained a judgment
+against him and collected some hundred dollars, notwithstanding the old villain&apos;s attempts
+to put his property into the hands of his son, who is a chip &amp;c I issued a writ of 
+<unclear reason="illegible" resp="bds">ejectment</unclear> against him as you ordered, but
+he could not be found - I will catch him though, and will finally oust him, but I fear will never
+get much money from him. I dare say he could pay in counterfeit money - He is a grand villain.
+About a year since I went into Maury County and found Alexander - He is, as they say here,
+mighty good for nothing - no chance of ever getting anything - He <unclear reason="illegible" resp="bds">denied</unclear> the account too - <unclear reason="illegible" resp="bds">Yrs &amp;c</unclear>
+            </p>
+            <p>C.G. Olmsted</p>
+         </div>
+      </body>
+   </text>
+</TEI>

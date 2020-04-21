@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000243_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Tilmon Bethell</name>
+				                    in Smith County, Tenn., to Colonel. David Burford in Smith County, Tenn., <date when="1831-09-01">1831 Sept. 01</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Tilmon Bethell</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000243_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Tilmon Bethell in Smith County, Tenn., to Colonel. David Burford in Smith County, Tenn., 1831 Sept. 01</title>
+          <date when="1831-09-01">1831 Sept. 01</date>
+          <author>
+            <name type="person">Tilmon Bethell</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000243_0001.jpg" xml:id="d4e39"/>
+        <p>Colonel D. Burford</p>
+        <p>Smith County</p>
+        <p>Tenn</p>
+        <p>Handed by Mr</p>
+        <p>William Patterson</p>
+        <p>From Tilmon Bethell</p>
+        <p>up for</p>
+        <p>Door Keeper to</p>
+        <p>the Senate</p>
+        <pb n="2" facs="0012_000115_000243_0002.jpg" xml:id="d4e59"/>
+        <p>Tennessee Smith County Sept the 1st 1831</p>
+        <p>Dear Sir</p>
+        <p>I wish to inform you that I expect to be a candidate for door keeper &amp; wish your support I have not the oportunity to come &amp; see you I would be glad to receive a line from you: I expect you have had several such appreciations I sent by a friend down to cort but he tell me you ware not there if any man in Smith county Needy the place worse than I do: I dont know him</p>
+        <p>I am your respectfully Tilmon Bethell</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

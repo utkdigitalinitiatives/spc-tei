@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000549_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Annette Ramsey</name>
+ in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1890-04-14">1890 April 14</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Annette</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000549_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Annette Ramsey in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1890 Apr. 14</title>
+               <date>1890-04-14</date>
+               <author>
+                  <name>Ramsey, Annette</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages.</extent>
+               <note type="abstract">1890 Apr. 14, Annette Ramsey, daughter of Robert Ramsey, Huntersville, N.C., to her aunt, Elizabeth Ramsey Breck, Knoxville, Tenn. Informs her of Sue&apos;s death. Relates that none of them were with Sue at her death but that they all attended the funeral. Refers to the grief of her father and of Sue &apos;s children. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Funeral service -- North Carolina -- Huntersville -- History -- 19th century. </term>
+               <term>Bereavement in children.</term>
+               <term>Diseases -- North Carolina -- Huntersville -- History -- 19th century. </term>
+               <term>Huntersville (N.C.) -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, Sue, 1843-1890 -- Death and burial.</term>
+               <term>Ramsey, Robert McGready, 1832-1890 -- Health.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000549_0001.jpg" xml:id="d3e154"/>
+            <p>Mrs E.A.R. Breck</p>
+            <p>Knoxville,</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000549_0002.jpg" xml:id="d3e166"/>
+            <p>Apr. 14, 1890</p>
+            <p>Huntersville, N.C.</p>
+            <p>Dear Aunt,</p>
+            <p>It is my sad duty to write to you of Aunt Sue&apos;s death which occurred at ten oclock last night (Sunday).</p>
+            <p>On account of Pa&apos;s sickness, none of us could be with her but I think she died easy.</p>
+            <p>We were at the funeral today, it was preached at home &amp; she was buried at Hopewell church.</p>
+            <p>She looked very much like she did when alive.</p>
+            <p>Uncle Dave asked me to write to-night so you all could hear sooner.</p>
+            <p>Grace took her Mamma&apos;s death very hard, dont know what she will do now, she depended so</p>
+            <pb n="3" facs="0012_000060_000549_0003.jpg" xml:id="d3e191"/>
+            <p>on Aunt Sue in everything.</p>
+            <p>Little <unclear reason="illegible" resp="JR">Lalinus</unclear> &amp; Will seemed broken hearted.</p>
+            <p>Pa is slowly improving but is not able to sit up at all, he is greatly distrissed about Aunt Sue&apos;s death. You know she was the only relative he had in North Carolina.</p>
+            <p>I cannot write a very long letter as I have a very bad headache.</p>
+            <p>
+               <unclear reason="illegible" resp="JR">Iffr Arr</unclear> who preached the funeral had to preach one for three other people. That will show you something of the amount of sickness around here.</p>
+            <p>I will close hoping to hear from you soon &amp; sympathising with you.</p>
+            <p>Your affectionate niece,</p>
+            <p>Annette Ramsey</p>
+            <p>Monday eve,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

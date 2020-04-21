@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Anna Jones</name>
+ in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.<date when="1865-05-13">1865 May 13</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000212_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 May 13</title>
+               <date>1865-05-13</date>
+               <author>
+                  <name>Jones, Anna</name>
+               </author>
+               <extent>4 digital images; 4 pages.</extent>
+               <note type="abstract"> In this letter dated May 13, 1865, Anna Jones in Allegheny City, Pa. writes to David L. Jones in Nashville, Tenn. about caring for the children, sending one of her sons off on a train to visit his aunt, the children&apos;s ailments, and the difficulties of running a household on her own. </note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+               <note type="item">15</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Children -- Health and hygiene -- Pennsylvania -- History -- 19th century.</term>
+               <term>Home economics -- Pennsylvania -- History -- 19th century.      </term>
+               <term>Allegheny (Pa.) -- History -- 19th century.</term>
+               <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives. </term>
+               <term>Jones, Anna M. -- Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000091_000212_0001.jpg" xml:id="d3e150"/>
+            <p>Allegheny City May 13th/65</p>
+            <p>My Dear Husband</p>
+            <p>I received yours of the 8th yesterday evening I received one a few days before dated teh 5th but I thought perhaps you would e moved before you would get my letter so I thought I would wait until I would get another from you and now I find you are still in the same place I thouhg I would answer both in one and I hope it may find you well as we are just now with Gods glessing we have had little trouble however but no so serious as we thought it would be; thank the good Lord&apos; Sharon got a fall on the pavement and struck his face below the left eye and it was cut just a little I did not think it would amount to any thing at the time but the next day it began to swell and inflame and he grew sick and feverish I sent for the Doctor he was not in and Frank came he pronounced it eryesypelas and left him medicine and it continued to swell up til after ten O clock at night and then the old Doctor came I was so glad that he did for Will Lockhart came up at half past nine to see if I could get <unclear reason="illegible" resp="NW"> Jimmie</unclear> ready to go to Meadville with him at 6 the next morning I tell you I was in a <unclear reason="illegible" resp="NW">strait </unclear> to know what to do but the Doctor told me that if it was no worse the next morning to let him go for it would not be worse after that so by morning it it began to leave a little his eye swelled clean shut his face was swelled a good deal he looked awful</p>
+            <pb n="2" facs="0012_000091_000212_0002.jpg" xml:id="d3e168"/>
+            <p>but I sat up all night and gave him his medicine every two hours and I got <unclear reason="illegible" resp="NW">Gimmie </unclear> ready and he went to his Aunts with Lockart I sent her out a pair of stools with him for I did not have time to get a thing for his little cousins and I thought they would be glad of them so his long promised visit has come at last he was nearly wild about going I expect he will be as glad to get home again but I hope that he will content himself until fall I saw David <unclear reason="illegible" resp="NW"> Quail </unclear> yesterday they bought me 4 lbs of lard he had not <unclear reason="illegible" resp="NW"> beint</unclear> yet to the office and had not got the letter from you he wants me to come out I think I will when <unclear reason="illegible" resp="NW"> Aplin</unclear> goes away he is back again I would not keep him but I had to get a suit for <unclear reason="illegible" resp="NW"> Jimmie </unclear> and it cost 6,75 and beside his fare and I have money coming from <unclear reason="illegible" resp="NW"> Apline</unclear> which I want to get before he goes to oil city he is a good pay but he took his wife home and his boss got mad because he quit and did not pay him now he is back and will get it without Bother the fare is cheaper than it ever was to Sarahs it is only 4,30 by the cars and you can eat breakfast at home and dinner there wellit will take till 3 oclock to get there but that is not two days and one night by a good deal with 4 meals and lodging to pay for it I had not been looking for you home I would have took the children and went out too but I thought you would get home and I wanted to do some work at </p>
+            <pb n="3" facs="0012_000091_000212_0003.jpg" xml:id="d3e195"/>
+            <p>any rate so I concluded to stay at home Annas face is better she is so sweet it would beat you out to hear her try to talk how she will scold the boys you want to know about the weather well it is pretty cool here we had a frost that made icenight before last it began to rain on last monday and it rained until some time thursday night and it cleared up with a frost to day it looks like rain again I must stop for I want to wash some and I have just give the children their breakfast Mr <unclear reason="illegible" resp="NW"> Aplin</unclear> eats at 6 oclock it is early but I don&apos;t care if I can get to bed early I got but one letter with a three cent scrip since you went to nashville and that is good while now I dont mind for I have had so much to do but now I have the whole day for he takes his dinner all the time and she is not here to get dinner for and I dont want her for I do not like her he is a nice neought quiet man eats what is set before him and says nothing about it and when he eats his supper goes out for an houror make a half hour and goes to bed sometimes before nine and is no bother p but to get breakfast for; if I am sleepy I do hate to get up you know that as well as I do </p>
+            <pb n="4" facs="0012_000091_000212_0004.jpg" xml:id="d3e206"/>
+            <p>I have no trouble with my friends for they dont come near me I told you it would be so but I dont care I guess I can make out some how or othernow I dont know of any thing else I have to say only that I wish you were at home and I hope you will be <unclear reason="illegible" resp="NW"> crelong</unclear> is still my prayer and that God would still bless us with health and keep us through love</p>
+            <p>Yours Affectionatly</p>
+            <p>Anna M Jones</p>
+         </div>
+      </body>
+   </text>
+</TEI>

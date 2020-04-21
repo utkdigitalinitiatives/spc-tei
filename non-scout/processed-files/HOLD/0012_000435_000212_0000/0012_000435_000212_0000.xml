@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                     to his wife, Elizabeth <date when="1863"> 1863</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000212_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson to his wife, Elizabeth 1863</title>
+               <date when="1863"> 1863</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000212_0001.jpg" xml:id="d4e39"/>
+            <p>Night of the 17th 1863</p>
+            <p>Dr Elizabeth </p>
+            <p>I write this not knowing whether the <unclear reason="illegible" resp="EMS">cotton</unclear> which I shall start with to the river will ever reach there. If the trip succeeds Mr Boyd will will have recd from me 51 <gap resp="Elizabeth"/> bales of cotton. Out of the proceeds he is to hand you $3000, and apply the remainder to my debt to him.</p>
+            <p>It is impossible to describe to you the state of <unclear reason="illegible" resp="EMS">scarcity</unclear> here. The cotton burning demoralizes every thing: and throws the dregs of the stagnated water upon the surface. </p>
+            <p>I have been here a week, walked from the river in the night, and started the wagons for the <unclear reason="illegible" resp="EMS">next</unclear>
+            </p>
+            <pb n="2" facs="0012_000435_000212_0002.jpg" xml:id="d4e61"/>
+            <p>in time to have it al home by day light in the morning. My health has improved.</p>
+            <p>Affairs were all right at the plantation and had nothing to complain of but the misconduct of the overseer who has been dismissed. Young Andrew is here and is helping me at the place. He had the <unclear reason="illegible" resp="EMS">vareslord</unclear>, but is now well. There are no new cases.</p>
+            <p>Write me when you have an opportunity. I thank Jackson for his letter.</p>
+            <p>Your affectionate</p>
+            <p>AJ Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

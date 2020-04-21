@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000192_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Watson B. Smith</name>
+ in Blaine X Roads, to his father<date when="1863-12-20">1863 Dec. 20</date>
+            </title>
+            <author>
+               <name type="person">Smith, Watson B., d. 1881</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000192_000204_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Watson B. Smith in Blains X Road to his father 1863 Dec. 20</title>
+               <date>1863-12-20</date>
+               <author>
+                  <name>Smith, Watson B., d. 1881</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">Watson B. Smith wrote to his father on Dec. 20, 1863 while serving in the Civil War. He told him about the Battle of Bean&apos;s Station and how the Union cavalry was forced back. He felt they were now reinforced and could whip the South. He felt the South gained no advantage except for occupation at Bean&apos;s Station. He told his father he was addressing his letters incorrectly. He had not advanced to Capt. as his father addressed his letters. He asked his father if he had received letters from 2 generals in regards to his commission. He said he would write more later since his carpet bag was in Knoxville. He said he was well. He stated he doubted they would go to Kentucky unless the general desired to go there.</note>
+               <note type="collection">Watson B. Smith Letter</note>
+               <note type="manuscript">MS.3104</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Michigan -- Correspondence.</term>
+               <term>Promotions, Military.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Smith, Watson B., d. 1881 -- Correspondence.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000192_000204_0001.jpg" xml:id="d3e158"/>
+            <p>Hd. Qrs. 1st Div. Cav. Corps.</p>
+            <p>Blaine X Roads Dec. 20. 1863</p>
+            <p>Dear Father</p>
+            <p>We about about 4 hrs. fight with the enemy at <unclear reason="illegible" resp="JCM">Beans</unclear> Sta. &amp; then fell back to this place. We have been reinforced &amp; can whip the enemy now. the enemy gained no advantage save <unclear reason="illegible" resp="JCM">position</unclear> &amp; Beans Sta.</p>
+            <p>I see you address my letters to Capt. Smith. I am still 1st St. Acting Asst. Adjt Genl. Have not you recd. my letters enclosing Genl. Sanders &amp; Genl. Whites letters in regard to my commission?</p>
+            <p>I shall write a long letter as soon as possible.</p>
+            <p>My Carpet Bag is at Knoxville.</p>
+            <pb n="2" facs="0012_000192_000204_0002.jpg" xml:id="d3e184"/>
+            <p>I am very well.</p>
+            <p>
+               <unclear reason="illegible" resp="JCM">It</unclear> does not look as much like going to Ky. now as it did - still I think we will as Genl. Sturgis our Corps Commander desires it.</p>
+            <p>I have <unclear reason="illegible" resp="JCM">recd.</unclear> a lot of papers from home lately. Also letters from Mother &amp; Mary.</p>
+            <p>With much love</p>
+            <p>Watson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

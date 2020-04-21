@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000397_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name/>
+ to J.G.M. Ramsey in Charlotte, N.C.<date when="1871-03-05">1871 Jan. 16</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000397_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Charlotte, N.C., 1871 March 5</title>
+               <date>1871-03-05</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2  digital images; 2 pages</extent>
+               <note type="abstract">J.G.M. Ramsey wrote to Charlton Lewis on March 5, 1871. He mentioned that the 1870 tax receipt for taxes on Elizabeth Breck&apos;s farm sent by Lewis had been received. His daughter, Margaret Dickson had been approached by a tax collector for payment of tax for 1869. The family thought this tax had been paid, but there was confusion about this. Ramsey offered Lewis suggestions of how to handle the tax matter. He reminded Lewis of Mrs. Breck&apos;s desire to sell her plantation, even at a lower price, due to the plantation being unprofitable. He also asked Lewis to have the Whig Register send his paper to Charlotte instead of Knoxville.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Tax collection -- 19th century.</term>
+               <term>Farmers -- Taxation -- 19th century.</term>
+               <term>Real property tax -- 19th century.</term>
+               <term>Southern States -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Lewis, Charlton -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000397_0001.jpg" xml:id="d3e155"/>
+            <p>Charlotte N.C. March 5,1871</p>
+            <p>Charton &amp; Lewis</p>
+            <p>Your favor inclosing Tax Reciept for taxes on Mrs <unclear reason="illegible" resp="NW">Brecks</unclear> farm for 1870 was I believe duly acknowledged Her sister Mrs. Dickson writes me under recent date that the Tax Collector had applied to her for payment of tax for 1869. This was thought by us to have been paid. In reference to that Mrs. D. sayis in her letter I gave uncle John <unclear reason="illegible" resp="NW">M.</unclear> Crozier in 1869 $22 or $24.00 I forget which what the rent corn sold for. You wrote me to give it to him to pay taxes with. The <unclear reason="illegible" resp="NW">Crist </unclear> Boys had put some in the Bank to Mrs <unclear reason="illegible" resp="NW">Brecks</unclear> credit &quot; <unclear reason="illegible" resp="NW">N.M.</unclear> I suppose Col. Crozier has either forgotten the payment made to him by Mrs. Dickson or that he may have mixed it up with monies of my own remitted from time to time to me. Please call Col. Co, attention to this matter. If he recollects the payment from Mrs. D. please apply it to the payment of the tax for 1869. If he has no recollection of it or if it may have been otherwise appropriated this will authorise you to see Mr. Mitchell &amp; enquire whether the <unclear reason="illegible" resp="NW">Crists</unclear> boys - (former tennants of Mrs. <unclear reason="illegible" resp="NW">Breck</unclear>) deposited to her credit the proceeds of her oats rents for 1869 &amp; if they did so </p>
+            <pb n="2" facs="0012_000060_000397_0002.jpg" xml:id="d3e189"/>
+            <p>she requests you to use the amt. necessary for the tax to that purpose If there should not be enough on deposit to meet the tax this letter authorises you to receive the requisite amount from <unclear reason="illegible" resp="NW">Mr.</unclear> Mitchell from a special deposit in his vault of Bank of Tennessee money which I see is good in payment of taxes taking the collectors receipt &amp; inclosing it to me. - Have the tax paid at once for 1869 &amp; thus save the expense of costs to her. The tax for 1871 is not yet due L.W. Baines small grain rent will be collectable &amp; due in July &amp; will liquidate the tax for this year</p>
+            <p>Mrs <unclear reason="illegible" resp="NW">Breck</unclear>desires me to re renew her former requests to you to keep the sale of her plantation steadily in mind Baine supposed he would be able to pay for it this spring. If so, will at former figures - If not you may reduce the price a little. She desires to effect sales at once if you can. Thus far as you know the place is unremunerative &amp; she wishes to make a better investment.</p>
+            <p>Very Respectfully</p>
+            <p>Yours <unclear reason="illegible" resp="NW">M </unclear>
+            </p>
+            <p>J.G.M. Ramsey</p>
+            <p>Please say to Whig &amp; Register to send me their paper to Charlotte N.C. as I will not come to Knoxville this spring as I expected to do at Christmas when I ordered it sent there. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

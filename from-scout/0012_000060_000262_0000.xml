@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000262_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name> J. Crozier Ramsey </name> in Nashville, Tenn., to J.G.M. Ramsey 
+in Charlotte, N.C. <date when="1865-10-12"> 1865 October 12 </date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. Crozier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000262_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. Crozier Ramsey in Nashville, Tenn., to J.G.M. Ramsey in Charlotte, N.C. 1865 Oct. 12</title>
+               <date>1865-10-12</date>
+               <author>
+                  <name>Ramsey, J. Crozier</name>
+               </author>
+               <extent>5 digital images; 4 pages, 1 envelope</extent>
+               <note type="abstract">1865 Oct. 12 J. Crozier Ramsey, Nashville, Tenn., to his father, J.G.M.
+Ramsey, Charlotte, N.C. Informs his family that his case has been postponed
+until the next term of the court in Knoxville. Explanation of why he did not
+flee before his certain arrest. Relays news from Margaret Jane of happenings
+in Knoxville. Discusses his hope of recovering J.G.M.&apos;s property for him. </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Court congestion and delay -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Right of property -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Business and politics -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>Ramsey, J. Crozier (John Crozier) d. 1868 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000262_0001.jpg" xml:id="d3e157"/>
+            <p>Dr J.G.M. Ramsey</p>
+            <p>Charlotte</p>
+            <p>N.C.</p>
+            <pb n="2" facs="0012_000060_000262_0002.jpg" xml:id="d3e169"/>
+            <p>Nashville Ten Oct 12th</p>
+            <p>Dear Sir</p>
+            <p>I received your letter Mas and Lizzies a day or two ago and <unclear reason="illegible" resp="bds">posponed</unclear>
+answering until I heard whether I would have to go to Knoxville I received this morning a letter from Uncle <unclear reason="illegible" resp="bds">Dreadrick</unclear> stating that the Attorney General had agreed to have my cases continued
+until the next Term of the Court waiving my appearance at this Term - So you see that I am released from taking the trip
+I have so much dreaded. I have now not the slightest fears of my cases as all will be quiet at the the next Term of the Court
+I will <unclear reason="illegible" resp="bds">flank</unclear> them badly</p>
+            <pb n="3" facs="0012_000060_000262_0003.jpg" xml:id="d3e190"/>
+            <p>when that time comes. All of my friends here when I was released advised me to leave on account of these cases. I knew that
+I would in all probability be arrested - it mattered not where I would go and I disliked to be a fugitive from justice or rather
+from persecution - I told my friends that I would have to meet the cases some time or nother and I might as well meet them now
+as any other time - and while I appreciated their advice I had concluded to stand my ground and fight them out - I think I was
+right about it. I received a letter from Margaret Jane a few days ago - she was well and things were more quiet - but a large
+number of citizens were leaving - the Campbells</p>
+            <pb n="4" facs="0012_000060_000262_0004.jpg" xml:id="d3e198"/>
+            <p>of the Fork had to leave and a number of good Union men. As I am released for some time about my cases - I will now turn my
+attention to the investigation of your property I would have liked very much to have examined the Records of your cases and to
+have examined for myself the exact condition of yours and the rest of your childrens property - (for I have not yet understood
+the condition of the cases to form a correct legal opinion of your defences or right to recover) this I can not do - but will
+have to rely upon the opinion of other Lawyers I expect to write in a few days to Judge Brown and get him to examine correctly
+all the principles involved in your cases and also to consult Col Nelson</p>
+            <pb n="5" facs="0012_000060_000262_0005.jpg" xml:id="d3e206"/>
+            <p>as to his opinion as to your right to recover - if they should think you can recover. I think they should be the proper ones
+to undertake the business - as I have confidence in their judgment. If they think you can <unclear reason="illegible" resp="bds">recoversuits</unclear> should be instituted at once. I fear however that they will be long and tedious suits - but
+still if their is any possibility of a recovery - it is worth a trial - Sneed has commenced suits for the recovery of his property - I
+think his chances are better than yours - as the principles are different and on a better basis. I wrote you soon after my return
+from Washington Did you get the letter - All are well at Uncle Williams - Love to all - will be pleased to hear from all of
+you at any time</p>
+            <p>Yours truly J.C. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

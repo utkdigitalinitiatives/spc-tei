@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001564_000202_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Robert A. Ragan</name> in Knoxville, Tenn. to Emeline
+					Ragan <date when="1863-12-03">1863 December 03</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Robert A. Ragan</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001564_000202_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robert A. Ragan in Knoxville, Tenn. to Emeline Ragan 1863 December 03</title>
+          <date when="1863-12-03">1863 December 03</date>
+          <author>
+            <name type="person">Robert A. Ragan</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Robert A. Ragan Letters</note>
+          <note type="manuscript">MS.743</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Tennessee -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Religious aspects.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001564_000202_0001.jpg" xml:id="d4e40"/>
+        <p>March the 29th 1864</p>
+        <p>Camp Near Mosey Creek</p>
+        <p>Dear Wife</p>
+        <p>I Seat my Self the Second time this week to try to get a few lins to you So it will give you a little Consolation. We are now at Mosey Creek and have bin hear for Some two week and I dont know how long we will stay at this place, but my opinion is we will move up the Country before long. But I have bin looking So long to come up in that Country and we have not com that I am out of heart but it is not worth while to get out of heart <unclear reason="illegible" resp="bds">a wont</unclear> mak is any better but I cant help it Sometimes I thought when was up at <unclear reason="illegible" resp="bds">Dandrig</unclear> I would get home we stayed at that place 2 days we marched from the Strawbery Plains to Dandridge in one day when we got there we formed a line of Battle and we Stood in a line of Battle all the time we was there they commenced fighting as Soon as wee got there the Evening before we left that is the day after we got there it was our time to march to the front. When the orders came for the Eight to March to the front every man looked like he was anxious to go She moved bravely to the front with the intention to fight and to Spill her blood for here</p>
+        <pb n="2" facs="0012_001564_000202_0002.jpg" xml:id="d4e56"/>
+        <p><unclear reason="illegible" resp="bds">miss Grated</unclear> families at home but first, as we got to the front the orders came for us to turn and fall Back I was Sad <unclear reason="illegible" resp="bds">news</unclear> to us, we had rather fight than to retreat I was not <unclear reason="illegible" resp="bds">bcauce</unclear> we had it to. Da Burnside Said to not bring on any regular ingagement with Longstreet for there was more inportant work going on at other places. So we fell Back to Knoxvil and have Stayed there untell we came up here...Debusk &amp; George Nease came to our camps at Knoxville when I Saw them coming I would get a letter from home but I was Sadley Disapointed but I dont expect you new when they Started. They have bin with the regiment very near all the time They left the other day and went Down the Country but I dont know where they went. Georg was Struck with Surprise when he heard that his wife had birth to two children. Georg Sais that if times dont get better he is going in to the Armey and fight his way home There is a great maney men and women coming in from Cock County &amp; Green even the Rebels is coming in every day Dont you think the Bill yet &amp; John Parrott had the <unclear reason="illegible" resp="bds">inpudence</unclear> to come Down here for protection I guess he got <unclear reason="illegible" resp="bds">&amp;</unclear> he come to our Regiment and he found that the boys was going to whip him and he got away he got on the train and went down to the plains and Some</p>
+        <pb n="3" facs="0012_001564_000202_0003.jpg" xml:id="d4e74"/>
+        <p>of the Boys in the fourth Ten Regiment found it out and they soon found him and had him a Straddle of a rail they rode him about a hour and a half I guess <unclear reason="illegible" resp="bds">he thinks</unclear> there is not much protection for him I want that Low down Mills to come in Side of our Line I will make him wish he had never Saw that <unclear reason="illegible" resp="bds">mare</unclear> of mine and he is not all that is in that County that I will have revenge out of If I live and I hope to God I will get hom once more to see my little familey I want to See you all worse than ever I did I dont See any Sadisfaction. I am all the time <unclear reason="illegible" resp="bds">Stuttling</unclear> about you I want to get home to See my little Familey a part you know I never have Sean You I know how we <unclear reason="illegible" resp="bds">yonst</unclear> talk about our future hapiness and now we are deprived of it all but I am In hope times will be better while I am afrade to hear from hom I am a frade they have ruined your father all the Citizens Say that the Rebels have taken all the people have I am a frade that the people will suffer before we get posesion of that County but I am in hope it wont be long till we come I thought we would stay here Some week or two I would tell you to come down and</p>
+        <pb n="4" facs="0012_001564_000202_0004.jpg" xml:id="d4e90"/>
+        <p>See me you could come to Moristown and ten you could come to this place but dont expect you have any thing to ride I have got a good mule here if I could get it home It is wourth two hundred Dollars I am going to Send It home by some body If the Rebels take it for I have nothing to feed it if I do send it home tell your Father to take it and take ceare of it till I come home. Tell your Mother I am going to send her &amp; you some Coffee &amp; all the family to help you drink it I the way was open I could send just any thing you would want. Tell mother to not get out of <unclear reason="illegible" resp="bds">heart</unclear> times will get better after while I saw Cooney <unclear reason="illegible" resp="bds">Eisonhow</unclear> this morning and he is just from Indiana and I ast him about your grand mother he sais that he Saw her and She never ast a thing about any of your folks he Sais that She is a rebel he Sais that Solomon Neas &amp; his wife has parted on the acount of this war She is a Union woman and he is a reble. I admire her pluck She has applide for a divorse and She was about to get it tell all of the familey howdy for me Lieuntenit Ragan Sends his Respect to you all <unclear reason="illegible" resp="bds">Creed</unclear> &amp; James is here father is up at Moristown and is very <unclear reason="illegible" resp="bds">Tan</unclear> I expect you now more about that than I do I am going to Send Some Coffe to you by Lige Gragge</p>
+        <p>Your Affectinat Husband R A Ragan</p>
+      </div>
+    </body>
+  </text>
+</TEI>

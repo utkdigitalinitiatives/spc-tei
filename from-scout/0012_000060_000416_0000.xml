@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000416_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>W.A. Harrison</name>
+ in Harrodsburg, Ky., to J.G.M. Ramsey in Knoxville, Tenn. <date when="1873-11-25">1873 Nov. 25</date>
+            </title>
+            <author>
+               <name type="person">Harrison, W. A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Valine, Debbie</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000416_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W.A. Harrison in Harrodsburg, Ky., to J.G.M. Ramsey in Knoxville, Tenn. 1873 Nov. 25</title>
+               <date>1873-11-25</date>
+               <author>
+                  <name>Harrison, W. A.</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">Rev. W.A. Harrison wrote to J. G. M. Ramsey on Nov. 25, 1873. He wrote about their times in church together. He told Ramsey that he and his wife were preserving J.G.M.’s letters for their daughter and so that Harrison could cite him as an example for the young men of his church. He felt that the youth of the present were dissipating their talents and health. He felt the youth should look to the generations before them as examples. He said he could not help much with the church in Knoxville Ramsey had mentioned. He had sentimental remembrance of Mrs. Ramsey as a fine homemaker and hostess. He felt women like her were no longer around. He remembered her as being a wonderful woman and that Ramsey was truly blessed. He had many precious memories about the Ramsey family. He told Ramsey he would have a lot stored up in heaven due to all he&apos;d accomplished on earth. He sent his love to friends in Knoxville. He knew he would see them all some day, if not in life then in heaven.
+
+
+  </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Men -- Conduct of life.</term>
+               <term>Women -- Conduct of life.</term>
+               <term>Role models.</term>
+               <term>Knoxville (Tenn.)</term>
+               <term>Harrison, W. A. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000060_000416_0001.jpg" xml:id="d3e158"/>
+            <p>Harrodsburg Ky Nov 25th 1873</p>
+            <p>Dr. Ramsey;</p>
+            <p>Knoxville Tenn</p>
+            <p>Dear Dr.:</p>
+            <p>I received your kind letter a few days ago-Your well remembered signature it is need less for me to say, called up many memories of past times,-times, when together in the house of God, we took sweet council: And, were it not a sort of treason, or infidelity-to my present charge, I might add, suggested the possibility of the <unclear reason="illegible" resp="DV"> recurrence </unclear> , even on this side the River, of like sweet experiences. After reading your letter I gave it to my wife, who has filed it away with the papers that are included for our little daughter <unclear reason="illegible" resp="DV"> Mary </unclear> . She wants her to have a letter from the pen of the historian of her native State, written at the age of 77, &amp; in the uniform &amp; steady hand, in which not a tremor is perceptible. And I want to preserve it, that I may refer to it in any lectures to young men, as an evidence &amp; illustration of the fact, that it is not study &amp; labor in ones profession that break down the mass of our men in America; but something else; dissipation, it may be, in many forms, &amp; outside of their legitimate &amp; professional calling.</p>
+            <pb n="2" facs="0012_000060_000416_0002.jpg" xml:id="d3e180"/>
+            <p>I am now telling our young men that it is not work, work of head &amp; hand, &amp; protracted thro &apos; many years, that is making such war on all the functions of mind &amp; body-But on the contrary, it is the want of the steady habits, &amp; steady work of our fathers. The brain, the heart, the nerves, the lungs, the liver, the spine, the limbs, the bone, the flesh, &amp; every part &amp; faculty of mind &amp; body, are over-tasked &amp; weakened, not by study &amp; work, but by the <unclear reason="illegible" resp="DV"> terrifc </unclear> energy of passion loosened from restraint, until, like a dilapidatid mansion, the earthly house of this tabernacle falls into untimely &amp; ruinous decay. We must point our young men to our old ones, preserved &amp; healthy in mind &amp; body, who have been the workers in the <unclear reason="illegible" resp="DV"> pass </unclear> generations; benefactors to their <unclear reason="illegible" resp="DV"> species </unclear> in their own department; &amp; , around whom, in the evening of life, gathers every thing that moral worth, &amp; pity, and eminent usefulness, conspire to render venerable.</p>
+            <p>And in this connection, how can I help thinking of your kins-man David <unclear reason="illegible" resp="DV"> Deaderick </unclear> , when I heard of his death I was almost ready to say of him what has been said of Moses, &quot; his eye was not dim nor his natural strength abated &quot; -</p>
+            <pb n="3" facs="0012_000060_000416_0003.jpg" xml:id="d3e202"/>
+            <p>About the scheme you have on hand for another church in Knoxville I cannot trust myself to <unclear reason="illegible" resp="DV"> visit </unclear> much. I hope you will go on with it, and that God will direct for our good &amp; his own glory.</p>
+            <p>My love to your dear wife. I am rejoiced that God has spared her to you <unclear reason="illegible" resp="DV"> in </unclear> all your trials. Tell her I think of her as belonging to the old fashioned house <unclear reason="illegible" resp="DV"> keepers </unclear> that have well <unclear reason="illegible" resp="DV"> well nigh </unclear> passed away from this world.</p>
+            <p>I remember well the dinner she set before our Presbytery in her house on the banks of the French Broad &amp; Holston And I never got hold of a tender ham that I dont think of the ham you cut that day. I remember her as she sat at her table on <unclear reason="illegible" resp="DV"> the </unclear> day, during the war, that I called at your house, long after the hour for dinner, &amp; the luscious mince pies, &amp; other good things that were put, as if by <unclear reason="illegible" resp="DV"> majic </unclear> instantly on the table. I remember her as she walked with you, as she sat in her pew, &amp; as she stood by the grave, at the funeral of her daughter</p>
+            <pb n="4" facs="0012_000060_000416_0004.jpg" xml:id="d3e232"/>
+            <p>the <unclear reason="illegible" resp="DV"> light </unclear> of your house &amp; pride of your life, whose remains sleep in the church yard by your old home. But enough-sad very sad-yet sweet are the memories of the past. God bless you &amp; yours, my dear old friend &amp; father. Like Paul, may you be able to say-I have fought a good fight, I have finished my course, &amp; have kept the faith, &amp; hence forth <unclear reason="illegible" resp="DV"> there </unclear> is laid up for me a crown of righteousness.</p>
+            <p>Love to Mrs <unclear reason="illegible" resp="DV"> Deaderick &apos; s </unclear> family to bro Scott and all my old friends in Knoxville. My heart &amp; soul <unclear reason="illegible" resp="DV"> flow </unclear> out towards them, &amp; whether I am permitted to labor with them or not in the masters vineyard here, I trust I shall meet them in the masters house of many mansions. Remember me to bro Park, bro <unclear reason="illegible" resp="DV"> Kennedy </unclear>, &amp; c, &amp; c.</p>
+            <p>Fraternally &amp; affectionately I remain as ever yours in the best of bonds</p>
+            <p>W.A. Harrison</p>
+            <p>Wife &amp; Mary join me <unclear reason="illegible" resp="DV"> in </unclear> love.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

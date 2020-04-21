@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000434_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>E.B. Mason</name> in Newbern, Tenn., to J.G.M. Ramsey in
+Knoxville, Tenn.<date when="1876-06-26">1876 June 26</date>
+            </title>
+            <author>
+               <name type="person">Mason, E. B.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000434_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, E.B. Mason in Newbern, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1876 June 26</title>
+               <date>1876-06-26</date>
+               <author>
+                  <name>Mason, E. B.</name>
+               </author>
+               <extent>6 digital images; 6 pages</extent>
+               <note type="abstract">1876 June 26, E.B. Mason, Mayor of Newbern, Dyer County, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Mentions the hand saw given by the writer to the Tennessee Historical Society and his attempt to secure Davy Crockett &apos;s rifle for the Society. In reply to J.G.M. &apos;s query, relates origin of the name of the Forked Deer River and some history of that area. Information concerning his personal life and his ancestors. Description of a kettle of historic interest owned by E.B. Mason.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>History -- Societies, etc. -- 19th century.</term>
+               <term>Rifles -- Tennessee -- History -- 19th century.</term>
+               <term>Kettles -- Tennessee -- History -- 19th century.</term>
+               <term>Forked Deer River (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee, East -- History -- 19th century.</term>
+               <term>Mason, E. B. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000434_0001.jpg" xml:id="d3e153"/>
+            <p>Newbern Dyer County Tennessee</p>
+            <p>June 26th 1876</p>
+            <p>Dr. J.G.M.Ramsey my dear friend yours of May 13 was duly received and give me
+great pleasure to be informed that your Society appreciated the hand Saw once
+used by Gel. James Robertson which was one of the oldest Rules of the part age
+nor must I forget in connection of this hand Saw, to say it give me a <unclear reason="illegible" resp="JR">Senciar</unclear> pleasure to see the <unclear reason="illegible" resp="JR">vauel</unclear> pf the Butte are of Wm. Martin
+contributed to your Society by Mrs Martha Green the youngest daughter of Wm
+Martin duly <unclear reason="illegible" resp="JR">appacated</unclear> as well as
+that of the hand Saw contributed by his oldest daughter Ms Elizabeth C. Cribbs
+which I Regret to Say Died in Dyer County 5 or 6 weeks since and had I not
+Acknowledged in geting these <unclear reason="illegible" resp="JR">ameant</unclear> relics at the time I did they never would have never found
+there way to the Historical Society of Tennessee I have <unclear reason="illegible" resp="JR">faded</unclear> in securing Col David Crocketts
+Journals hunting gun (Old Betsy) I Rode 78 miles to get so valuable a Rifle But
+<unclear reason="illegible" resp="JR">faded</unclear> I went to his old
+neighborhood and was there Informed that Col Crockett took old Betsy with</p>
+            <pb n="2" facs="0012_000060_000434_0002.jpg" xml:id="d3e184"/>
+            <p>him to Texas and doubtless in fell into the hands of the Mexicans at Alamo; It
+would have given me great Pleasure to have Secured for your Society so valuable
+a relic as old Betsy you Enquire of me what was the Aboriginal name of Forked
+Deer River the Chicksaw Indians called it <unclear reason="illegible" resp="JR">Akenen Inour English lagucsh</unclear> was Forked Buck Major Henry
+Rutherfod with in the year 1784 with a company of Surveyor left the French
+<unclear reason="illegible" resp="JR">Soech</unclear> now Nashville in a
+(Peroge or) Small Boat disended the Cumberland to its mouth &amp; then the Ohio
+to its mouth and then the Mississippi to the Mouth of the <unclear reason="illegible" resp="JR">Akenen</unclear> which was at that time about
+15 miles below what is now known as <unclear reason="illegible" resp="JR">Heach</unclear> point they then ascended that Stream by it various
+meandering about 25 Milse to a Point where they Struck the First High land which
+was on the South Side of the Steam the Bluff was very high and from a Point near
+the Top of Said bluff a very pargy Spring Broke out which came down in a current
+Sufficient to Run</p>
+            <pb n="3" facs="0012_000060_000434_0003.jpg" xml:id="d3e204"/>
+            <p>a very good Mill which was built by Major Rutherford in the 1821 or 22 this was
+the first Mill built on that portion of the Chicksaw <unclear reason="illegible" resp="JR">Parks</unclear> from the Spring to the mouth of <unclear reason="illegible" resp="JR">Branchwea</unclear> about 200 years and while
+Major rutherford was <unclear reason="illegible" resp="JR">Eseaming</unclear>
+the Countery South of the Bluff in 1784 with a view of making his location for a
+company of men who were the owners of a larg amount Land Warents which had been
+<unclear reason="illegible" resp="JR">Issued</unclear> to the officers and
+soldiers of the Revolutionary War with great <unclear reason="illegible" resp="JR">Breten</unclear> in 1776. One of the men belonging to Major
+Rutherfords company killed a very larg <unclear reason="illegible" resp="JR">
+Buck</unclear> near the mouth of Said Spring <unclear reason="illegible" resp="JR"> hand</unclear> and from that day to the Present the River
+<unclear reason="illegible" resp="JR"> O hanon</unclear> has been known as
+the <unclear reason="illegible" resp="JR"> Forkhiden</unclear> River and its
+various Tributarys which on a map represents a Deers Horns justly entitles it to
+the name Forked Deer At the mouth of or near this Spring Stands a large Secamore
+Tree which Major Rutherford marked as his Beginning Corner of the Forked Deer
+Connection which continued Several hundred Thousand <unclear reason="illegible" resp="JR"> Alln</unclear> I have seen this old Secamore 100 Times have</p>
+            <pb n="4" facs="0012_000060_000434_0004.jpg" xml:id="d3e243"/>
+            <p>Surveyed &amp; divided more than 50,000 deers of there old North Carolina grants
+which (Red State of North Carolina Davidson County) Nashville was the County
+Site at that time I was Born and Raised within 15 miles of Nashville in
+Williamson County I have served the Citizens of Madison County for about 55
+years as Surveyor Spending a portion of my time in Rutherford County untill 1831
+when I <unclear reason="illegible" resp="JR"> posnoily billed</unclear> in
+Madison County I have served any <unclear reason="illegible" resp="JR">
+banentary in narrows leafiety bother seval and Military</unclear> I have my
+Sword and a <unclear reason="illegible" resp="JR"> find stone</unclear> of
+colours which was present to me by the Ladys <unclear reason="illegible" resp="JR"> In Riley as tenants</unclear> I am a Suthern Methodist In
+Paletech I voted for Henry Clay in 1824 and then Principales ever since In the
+late war I was for the South and at the present time for any good man against
+Grant and his <unclear reason="illegible" resp="JR">Thieving</unclear> Party I
+am <unclear reason="illegible" resp="JR"> afoood to Nesamftin + in Faven
+lyfrating our lenarang I am apondts Repudiation</unclear> If you think
+proper to write to meAddresss me as Major E.B. Mason Newbern Dyer County, Tenn,
+my only 2 children are living here and will take care of my letters I would be
+pleased to <unclear reason="illegible" resp="JR"> be at some of your
+meetings</unclear> I love to meet with</p>
+            <pb n="5" facs="0012_000060_000434_0005.jpg" xml:id="d3e273"/>
+            <p>5 page</p>
+            <p>The old men of Tennessee</p>
+            <p>I should have been pleased to have been at your next meeting on the 4 of July we
+have a Celebration on that day at Jackson and of course I must be there I am the
+President of the <unclear reason="illegible" resp="JR">Poonean</unclear> Society
+of Madison county -- I think I will be in Nashville in August and will spend
+several days in the City about the Time we are to nomenenat a Candidate for
+Govenr &amp; Electors on the <unclear reason="illegible" resp="JR"> conservative
+jeckett</unclear>.</p>
+            <p>In speaking of old Relics I have in my posession &amp; have had it 40 years a
+peace of lantern brot to the Countery by my Great, Great, , Greand,,, Father in
+1620 in the MayFlower it is still sound and the ears are Burnt of Smoothe so ar
+ethe feet escep one which is about 1/2 of an inch long There is several small
+pieces brk out of the top it never has been out of the Mason Family and has been
+handed down from generation to an other my grandfather when I was just grown up
+told me that when he was a small Boy that this old Kettle was call the little
+old Kettle and in whos hands it had been neve out of the Family and</p>
+            <pb n="6" facs="0012_000060_000434_0006.jpg" xml:id="d3e293"/>
+            <p>that the day would come when I would be the owner of the Kettle as I was his
+oldes grand som it will hold about Six gallons I have no doubt but general
+George Washington and <unclear reason="illegible" resp="JR"> Seafay it</unclear>
+both have eat their Dinner out of <unclear reason="illegible" resp="JR"> the
+pauverenu</unclear> that was cooke in this <unclear reason="illegible" resp="JR"> arsell</unclear> for on one occasion when my grandfather was in
+the Rebel army in 1778 1779 the both called and got there dinner and brot a
+letter to my grand Ma in 1789 my grand father mooved from Pensylvania to the
+French <unclear reason="illegible" resp="JR"> Leah</unclear> now Nashville and
+helped <unclear reason="illegible" resp="JR"> repotse</unclear> the Indians they
+had several <unclear reason="illegible" resp="JR"> fites</unclear> with Indian
+who would attack the white <unclear reason="illegible" resp="JR">selement</unclear> my father went the <unclear reason="illegible" resp="JR"> grokayaesk</unclear> under the Command of General James Robertson he also
+served in a Regent Commanded Col Thomas Washingon In 1812he volunteered and went
+with General Andrew Jackson on the 10 of December 1812 <unclear reason="illegible" resp="JR"> desinded</unclear> at Nashville with 2,000
+Brave <unclear reason="illegible" resp="JR"> tamfor</unclear> descended the
+Cumberlands Ohio &amp; Mississippi to the Town of <unclear reason="illegible" resp="JR"> grathih</unclear> Returned in the spring and was discharged at
+the town of Columbia in the fall of 1813 after the <unclear reason="illegible" resp="JR"> Maoney of Fort Mummons</unclear> he volunteer again &amp;
+<unclear reason="illegible" resp="JR"> helled futo the great</unclear>
+Indian at <unclear reason="illegible" resp="JR"> Toradego</unclear>my fathers serves on a Soldier Respectfully E.B. Mason</p>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

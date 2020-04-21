@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000404_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Riverside, Tenn., to William and Henry Lenoir in Lenoirs, Tenn.<date when="1871-12-25">1871 Dec. 25</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000404_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Riverside, Tenn., to William and Henry Lenoir in Lenoirs, Tenn. 1871 Dec. 25</title>
+               <date>1871-12-25</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>5  digital images;  1 envelope, 4 pages</extent>
+               <note type="abstract">J. G. M. Ramsey wrote to his grandsons, William and Henry Lenoir, on Dec. 25, 1871. He wished them a Merry Christmas and expressed his wish to see them. He gave them advice on how they should conduct themselves. He praised them for their accomplishments in their education. He mentioned that William being the oldest should watch over younger brother Henry. He asked them to respect people, especially women. He mentioned the women in their family as being well-bred, especially their deceased mother.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Grandparenting.</term>
+               <term>Family -- Southern States.</term>
+               <term>Young men -- Conduct of life.</term>
+               <term>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884 -- Correspondence.</term>
+               <term>Lenoir, William -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000060_000404_0001.jpg" xml:id="d3e159"/>
+            <p>Masters Wm. &amp; Henrie R. Lenoir.</p>
+            <p>Lenoirs,</p>
+            <p>Tennessee</p>
+            <p>To be opend &amp; read to them by D. Lenoir or W. Thos. Ramsey at Lenoirs, T.</p>
+            <pb n="2" facs="0012_000060_000404_0002.jpg" xml:id="d3e173"/>
+            <p>River - Side Dec. 25. 1871</p>
+            <p>William &amp; Henry R. Lenoir</p>
+            <p>My Dear Grandsons</p>
+            <p>This is Christmas morning I wish you all its compliments - its fun &amp; its joys happy returns of it in the great future before you. I would wish your good Grandma &amp; myself were with you in person or rather that you both were with us. Our age gives us a good claim upon your respect &amp; the parental relation we bear to your deceased mother - our excellent daughter, gives us through her a better claim upon your dutiful affection &amp; regard &amp; your filial attachment &amp; love. We often think &amp; speak of you with solicitude &amp; anxiety for your present &amp; future welfare. If we could see you oftener &amp; be with you more you would have opportunity of recieving from us but especially from your Grandma lessons of advise, of admonition &amp; of caution which none but the aged can give. These lessons refer to your intellectual training as well as to your morals &amp; your manners &amp; if properly observed &amp; followed are of more value &amp; importance to children of your age than plenty &amp; wealthy &amp; riches can bestow - in relation first to your education. We were glad to observe in </p>
+            <pb n="3" facs="0012_000060_000404_0003.jpg" xml:id="d3e187"/>
+            <p>you both some fondness of your Books &amp; studies &amp; some proper ambition to excel in your classes. We hope you will improve the good opportunity you have in your school &amp; by your <unclear reason="illegible" resp="NW">pas</unclear> instructions at home, to make constant progress in your studies - so as to gratify yourselves when you reach the proper age to complete your College course. </p>
+            <p>Secondly: Education properly speaking embraces much more than mental training - it <unclear reason="illegible" resp="NW">you</unclear> much higher &amp; includes your morals &amp; your manners. boys do not know how many necessary lessons on these two points of education are to their success &amp; respectability in future life. We both therefore advise you to be very careful of the company you keep &amp; the associations you form If your Ma had lived she would have been very particular about this &amp; would have often told you to avoid the company of the vulgar - the profane - the rude, the uncultivated - the ungenteel &amp; the unrefined. We wish you to be genteel in your dress - genteel in your behaviour - polite in your manners - deferential to those older than youselves &amp; those especially who by their age, culture, position in society or their sex &amp; character are entitled to your esteem your respect &amp; your homage. Always treat a lady, as a lady - a gentleman as a gentleman - as all well raised people never fail to do. Never contradict nor quarrel with one another. Your father is so little with you that</p>
+            <pb n="4" facs="0012_000060_000404_0004.jpg" xml:id="d3e203"/>
+            <p>often <unclear reason="illegible" resp="NW"> Willie </unclear> being the oldest should have <gap resp="Williams"/>
+               <unclear reason="illegible" resp="NW">uial</unclear> care of his younger brother &amp; <unclear reason="illegible" resp="NW">Henry</unclear> in such cases should agree to be cautioned by him The older should be for the time being guardian of the other - in his sports - his lessons &amp; his behaviour. you have frequent opportunities of seeing the conduct of well bred ladies &amp; gentleme. When this happens, cultivate their acquaintance &amp; immitate them in all that is amiable &amp; becoming in your intercourse with them; but have nothing to do with the coarse - the rude - or the vulgar &amp; illbred. Your deceased mother was born &amp; raised a </p>
+            <pb n="5" facs="0012_000060_000404_0005.jpg" xml:id="d3e221"/>
+            <p>lady. So too were your two grandmas &amp; all your aunts. there was never anything unlady like or masculine in them. they were models. Fix your standard high &amp; always maintain it. </p>
+            <p>I thought I would be down to tsee you this week - If the weather is good perhaps I may. After Christmas your pa said you might come up &amp; see us. I think you outhg to if your school does not prevent - come if you can. Your good Grandma &amp; I both wish to see you. </p>
+            <p>Farewell my dear children. Read carefully what I write hastily &amp; lay my letter up safely, that you may read it over &amp; over again.</p>
+            <p>Yours Affectionately</p>
+            <p>J. G. M. Ramsey.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

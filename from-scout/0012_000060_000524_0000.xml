@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000524_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.M.M. Caldwell</name>
+ in Rome, Ga., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-04-16">1884 Apr. 16</date>
+            </title>
+            <author>
+               <name type="person">Caldwell, J.M.M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000524_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.M.M. Caldwell in Rome, Ga., to M.B.C. Ramsey in Knoxville, Tenn. 1884 Apr. 16</title>
+               <date>1884-04-16</date>
+               <author>
+                  <name>Caldwell, J.M.M.</name>
+               </author>
+               <extent>4 digital images; 4 digital images; 4 pages</extent>
+               <note type="abstract">1884 Apr. 16 J.M.M. Caldwell, President of Rome Female College, to Mrs. J.G.M. Ramsey, Knoxville, Tenn. Condolences on the death of J.G.M. Assures Mrs. Ramsey that she will soon join her husband.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey family -- Bereavement.</term>
+               <term>Knoxville (Tenn.) -- History -- Personal narratives.</term>
+               <term>J.M.M. Caldwell -- Correspondence.</term>
+               <term>Ramsey, M.B.C. (Margaret Barton Crozier), 1802-1889 -- Correspondence.</term>
+               <term>Southern States -- History -- 1865-1951.</term>
+               <term>Bereavement and consolation</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000524_0001.jpg" xml:id="d3e151"/>
+            <p>The Rome Female College.</p>
+            <p>Rev. J.M.M. Caldwell, President.</p>
+            <p>Rome, Georgia.</p>
+            <p>Medal Awarded At</p>
+            <p>The Paris Exposition International.</p>
+            <p>1878</p>
+            <p>Mrs. J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000524_0002.jpg" xml:id="d3e176"/>
+            <p>Rome Ga</p>
+            <p>April 16th</p>
+            <p>1884</p>
+            <p>Mrs. J.G.M. Ramsey,</p>
+            <p>Dear Friend,</p>
+            <p>The sad news of the death of your beloved husband has awakened sorrow in my household - And yet the time had come for his departure - His life work had been done - He and you had been expecting it, and loved ones on the other side of the river waiting to welcome him, have rejoiced over his interning into the heavenly rest - He was useful and honored in life and now he is lamented in death by those who still linger in the earthly homes.</p>
+            <pb n="3" facs="0012_000060_000524_0003.jpg" xml:id="d3e194"/>
+            <p>Your day is far spent and your separation from him and from many friends dear to you in life and beloved of the Lord, cannot be very long - Thankful for his life and love and for the grace, which beautified his character, made him prominent among the good, and great and useful and which prepared him for a higher sphere of life, where there is neither sin, nor sickness, nor death. You must wait with patience and hope and submission to the will of God, for your own departure - under this great trial may the Spirit of grace be with you to increase your faith, and to give you peace</p>
+            <pb n="4" facs="0012_000060_000524_0004.jpg" xml:id="d3e202"/>
+            <p>by enabling you to view aright the precious promises of God, to which He will no doubt direct your thoughts - </p>
+            <p>With assurances of my sincere sympathy with you and your children and with my best wishes for you all, I am your sincere friend,</p>
+            <p>J.M.M. Caldwell</p>
+         </div>
+      </body>
+   </text>
+</TEI>

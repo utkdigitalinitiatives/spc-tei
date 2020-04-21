@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000437_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1877-05-07">1877 May 7</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000437_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1877 May 7</title>
+               <date>1877-05-07</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages</extent>
+               <note type="abstract">1877 May 7, Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Reports that all officers of the Historical Society were re-elected, including Dr. Ramsey who was re-elected as president. Complains about poor coverage given the Society by newspapers. Harsh criticism of state legislature for failing to grant the Society an appropriation.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>History -- Societies, etc. -- 19th century.</term>
+               <term>Appropriations and expenditures -- History -- 19th century.</term>
+               <term>Political culture -- Tennessee -- History -- 19th century.</term>
+               <term>Tennessee -- Appropriations and expenditures -- History -- 19th century.</term>
+               <term>Nelson, Anson, 1821-1892 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000437_0001.jpg" xml:id="d3e154"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>Tenn</p>
+            <p>Mecklenberg Place</p>
+            <pb n="2" facs="0012_000060_000437_0002.jpg" xml:id="d3e168"/>
+            <p>Nashville, May 7th 1877.</p>
+            <p>Dr. J.G.M.Ramsey</p>
+            <p>President Hist. Soc. of Tenn.</p>
+            <p>My Dear Sir:</p>
+            <p>Our annual meeting, on Tuesday last, was tolerably well attended, and all the old officers were re-elected, separately, to some for another year. A large number of donations were announced, and I put myself to a good deal of trouble to make out a full report for the American, which they did not publish, only inserting a notice of about thirty or forty lines. Their manner of cutting up our proceedings, of late, is not pleasant. The afternoon paper, &quot;The Banner,&quot; published several items about the meeting, but all in a disjoined way.</p>
+            <p>We tried to get an appropriation from the State at the last session, and Dr. Lindsley and myself went before a committee to explain our necessities, and the reasons</p>
+            <pb n="3" facs="0012_000060_000437_0003.jpg" xml:id="d3e186"/>
+            <p>for asking State <unclear reason="illegible" resp="JR">wid.</unclear> The committee listened to us very respectfully, and reported a bill to give us $500 a year for two years, which subsequently passed the Senate, but failed in the House for want of attention. I imagine the members were not disposed to aid anything, for their policy seemed to be to pull down and destroy, instead of to build up the interests of the State. A worse Legislature I never saw assembled here; and I sincerely hope Gov. Porter will not call them together again for any purpose. I think their coming together again would be a calamity.</p>
+            <p>Our Society is getting along very well, and we hope to make a good deal of progress this year.</p>
+            <p>The unanimity of your election as President, was very gratifying.</p>
+            <p>We meet again on the first Tuesday in July.</p>
+            <p>With many kind wishes, and with the sincere regards of my wife and myself to you and Mrs. Ramsey, I remain yours,</p>
+            <p>Very respectfully,</p>
+            <p>Anson Nelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

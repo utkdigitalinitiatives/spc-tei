@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>B. &amp; J. Bohen</name>
+				                    in Philadelphia, Pa., to Charles Pettit (Petit), <date when="1801-06-01">1801 June 1</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">B. &amp; J. Bohen</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, B. &amp; J. Bohen in Philadelphia, Pa., to Charles Pettit (Petit), 1801 June 1</title>
+               <date when="1801-06-01">1801 June 1</date>
+               <author>
+                  <name type="person">B. &amp; J. Bohen</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000200_0001.jpg" xml:id="d4e39"/>
+            <p>June 1, 1801</p>
+            <p>B &amp; J Bohlen</p>
+            <p>Mr Susannah</p>
+            <p>Charles Petit Esq</p>
+            <p>President of the Insurance Company of North America</p>
+            <p>Mr. Bohen</p>
+            <pb n="2" facs="0012_002414_000200_0002.jpg" xml:id="d4e53"/>
+            <p>Charles Petit Esq</p>
+            <p>President of the Insurance Company</p>
+            <p>of North America</p>
+            <p>Philadelphia June 1, 1801.</p>
+            <p>Sir:</p>
+            <p>On the 4th of march last we informed you of the capture of the Orig Susannah  Capt Donnahue from here bound to Amsterdam, by the <unclear reason="illegible" resp="AH">Cuchish</unclear> that she had him carred to Phymouth where the cargo was to be discharged, we then made an abandonement of the 77 bags of tobaco Informed in You after I lodged with you Capt Donnahue&apos;s protest on the 14th of Aprill, in the mean while we have forwarded to London such papers as we conceivd to be neccessary to get the property released this however may be a considerable while We must therefore ask from the North American Ins Co. the amount refunded.  We request <unclear reason="illegible" resp="AH"> would</unclear> have the goodness to lay this matter before the board of the directors at their next meeting.  We are with due regard <unclear reason="indecipherable" resp="AH">Lecting</unclear>
+            </p>
+            <p>Your oblr ses</p>
+            <p>B &amp; J. Bohlen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

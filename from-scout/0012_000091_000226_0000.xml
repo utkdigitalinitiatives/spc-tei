@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000226_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anna Jones</name>
+ in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.<date when="1865-07-24">1865 July 24</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000226_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 July 24</title>
+               <date>1865-07-24</date>
+               <author>
+                  <name>Jones, Anna M.</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">24 July 1865 Anna Jones in Allegheny City, Pa., to her husband David L. Jones in Nashville, Tenn. Expresses her relief at his feeling better. She was afraid he had contracted a disease fairly common to soldiers. Although their children are all remarkably healthy, many of their neighbors are suffering the consequences of a variety of fatal diseases. She, too, is being treated for intense back pain, which has limited her activities. Asks her husband not to worry about their sons not having written to him. Their communication with her is no better.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- United States -- Correspondence.</term>
+               <term>Army spouses -- Pennsylvania -- Allegheny City -- History -- 19th century -- Correspondence.</term>
+               <term>Family life -- Pennsylvania -- Allegheny City -- History -- 19th century -- Health aspects.</term>
+               <term>Pennsylvania -- History -- 19th century.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000091_000226_0001.jpg" xml:id="d3e157"/>
+            <p>Allegheny City July 24th/65</p>
+            <p>My Dear Husband</p>
+            <p>(I allmost forgot the dear thist time dident I) well I received two letters this morning and Tom &amp; Andie a paper apiece I sent you another letter last week with two dollars more in it I am so glad that you are better I was so uneasy about you I was afraid that you had something of the disease that the soldiers are subject to our; children are remarkably healthy and I am so thankful to the great Giver for it I am carefull too about what they eat and to keep them warm enough when it is damp chilly weather Martin Graham and his father have been very sick Mr Grahams was derangement of the liver and kidneys with cholera morbus Martins chills and fever Mr Mr <unclear reason="illegible" resp="NW">Cleard </unclear> is still living but not much better he has now camp fever Mr Anderson is a good deal better his was derangement of liver I was very poorly </p>
+            <pb n="2" facs="0012_000091_000226_0002.jpg" xml:id="d3e172"/>
+            <p>with my back but I got a box of pills of Cooper and it is better I could hardly get about I am wearing my flanel yet I cant go without it I do wish you were home I would like to go to the church picnic so much I will let Andia and Tom go they are going to <unclear reason="illegible" resp="NW"> Dixmont</unclear> on the cars and going all through the building it will be so nice they are not going to take anything but what will make two good meals dinner and supper and no sweetmeats I think it is a good plan I had told them that I thought you were sick and that I did not think I would go but they want me too so much that if I hear that you are better I mabie will I know that you wont get this in time to write me that you are well before then that is the reason I tell you so because I know that you cant deceive me about it I sent <unclear reason="illegible" resp="NW">bob</unclear> and Jill aninvitation as to the boys not writing to you just let it go they never come to see if I am in want or not they dont treat you meaner than They do me but if I can get</p>
+         </div>
+      </body>
+   </text>
+</TEI>

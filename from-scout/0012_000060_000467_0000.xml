@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000467_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-07-15">1880 July 15</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000467_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 July 15</title>
+               <date>1880-07-15</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 p.</extent>
+               <note type="abstract">1880 July 15 Lyman C. Draper, Corresponding Secretary, Wisconsin state Historical Society, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Questions the accuracy of some of the statements in J.G.M. &apos;s Annals concerning King&apos;s Mountain. Gives facts that contradict Dr. Ramsey&apos;s statements.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>Generals -- United States --  Biography.</term>
+               <term>South Carolina -- History -- Revolution, 1775-1783.</term>
+               <term>Southern States -- History -- Revolution, 1775-1783 -- Campaigns.</term>
+               <term>Doak, Parson.</term>
+               <term>Campbell, William, 1745-1781.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000467_0001.jpg" xml:id="d3e152"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville --</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000467_0002.jpg" xml:id="d3e164"/>
+            <p>Madison, July 15th, 1880.</p>
+            <p>My Dear Dr. Ramsey --</p>
+            <p>Since I wrote you the other day, I recovered your mislaid letter about Parson Doak.</p>
+            <p>Yesterday in writing up the route of the King&apos;s Mountain Men, I was struck with some of your statements -- <unclear reason="illegible" resp="JR">143:</unclear>
+            </p>
+            <p>1st You say 4th of Oct. when they reached Gilbert Town. I should hardly think you go that from Shelby&apos;s account because I find nothing to warrant it in the official report by the 3 Colonels -- not in Haywood, &amp; not in Shelby&apos;s acct. as dictated to Hardin. He does say abt. the 1st of Oct. in Haywood, they were joined by Cleveland -- &amp; two days after was raining, when they did not move, but held the council &amp; appointed Campbell, &amp; next mom-</p>
+            <pb n="3" facs="0012_000060_000467_0003.jpg" xml:id="d3e182"/>
+            <p>marched towards Gilbert Town, 16 or 18 miles away -- &amp; this would make it about the 4th Oct. But the official report signed by Campbell, Shelby, &amp; Cleveland, makes it 30th Sept. when Cleveland joined them -- hence it would have been the 3rd of Oct. they reached Gilbert Town. We mist not go behind the records, when we have any.</p>
+            <p>On p. 233 of your History you speak of Ferguson&apos;s march over Broad river to the <unclear reason="illegible" resp="JR"> Cow pens</unclear> -- this would make him marching towards the west. I suppose, however, you meant Pacolet -- this you say was the 4th, &amp; next day he crossed at Dean&apos;s Ferry, &amp; camped about a mile above, &amp; the next day, the 6th he marched abt. 14 <unclear reason="illegible" resp="JR">ms</unclear> to King&apos;s Mtn.</p>
+            <p>Where did you get these dates &amp; statements? It seems to me with the lights before me -- especially Col. Wm. Hill&apos;s <unclear reason="illegible" resp="JR">ms</unclear> (one of the S. Car. Cols.) that they are not reliable; &amp; Ferguson&apos;s letter to Lord Cornwallis, without date, indicates that he crossed Broad River, not at Dean&apos;s Ferry, but considerably below, at the Cherokee <unclear reason="illegible" resp="JR">Hand</unclear> -- that he marched along the road from Cherokee <unclear reason="illegible" resp="JR">Hand</unclear> leading north at Kings Mtn. He must have reached there at least as early as 4th Oct.</p>
+            <p>Very Truly Yours,</p>
+            <p>Lyman C. Draper.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

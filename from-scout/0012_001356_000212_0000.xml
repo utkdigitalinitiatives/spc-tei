@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng"
+type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng"
+type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name> to <name type="person">William Smith</name> in <name type="place">Chattanooga, Tenn.</name>, 
+               <date when="1865-03-25">1865 March 25</date>
+            </title>
+            <author>
+               <name>Smith, Eliza</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000212_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name> to <name type="person">William Smith</name> in <name type="place">Chattanooga, Tenn.</name>, 
+                  <date when="1865-03-25">1865 March 25</date>
+               </title>
+               <author>
+                  <name>Smith, Eliza</name>
+               </author>
+               <date when="1865-03-25">1865 March 25</date>
+               <author>
+                  <name>Smith, Alfred</name>
+               </author>
+               <extent>5 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>            
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-16" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank 
+            pages. Added resp attributes to editorial changes, and added name tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>         
+         <div type="letter" xml:id="d2e212">
+            <pb facs="0012_001356_000212_0002.jpg" n="1" xml:id="d2e214"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Binghamton</name> 
+                  <date when="1865-03-25">March 25, 1865.</date>
+               </dateline>
+            </opener>
+            
+            <p>My dear husband it is with pleasure i rite these few lines to you in answer to your kind letter that i received from you March 2d and was glad to <orig>here</orig> that your as well as you be  i am sorry to here that you have got such a bad cold as it leaves us all at this time bless god for it  well i hope your cold will be better in a few days  i have writting two letters to you and your letter states you have not received none it is quite <unclear reason="illegible" resp="PW">nrruses</unclear> to know</p>
+            <p>where they go to i hope you will receive this  you wanted to know if i received the thirty Dollars that you sent me i received it quite safe March the 12 by Morgans express and i was so glad of it for austin was not at work  he could not work  we have had such awfull flood as never was known before in the <orig>memorey</orig> of man  the two bridges both was taken away and the rail road bridge was not passible for day  the water reached clear from the river to the swamp  against us all one mass of water all the people had to move out of the houses  the water reached up to Mr <unclear reason="illegible" resp="PW">hindet</unclear> house over the<unclear reason="illegible" resp="PW">Sgueneatuk</unclear> river all but one house it taken ever thing before it houses barns back house fences and logs and ever thing in reach of it</p>
+            
+            <pb facs="0012_001356_000212_0003.jpg" n="2" xml:id="d2e249"/>
+            <p>a great many people are left homeless  i am sorry for them a great maney poor people have lost all they had  owego was all under water and Elmira suffered severley and vestel was all under water and a greater part of union under water and rochester was all under water  a great many <orig>pleope</orig> drowned  beside the damage done clean from New hamshir clean Minnesota Sweping ever thing before it there was one man and team of horses came down the river  the man was alive when he reache here and called for help but the horses was both dead and he struck against the bridge and was the last they see of him he went under know not how he was there was eight of binghamton men came on a little boat called a stemer worked with a camp  the started from the asylum one was drowned a french man  the rest was saved <unclear reason="illegible" resp="PW">j h lesvise</unclear> was one of them  the was all drunk   Mr king had to move up here   the water was 2 foot depht in his house  the water is <unclear reason="illegible" resp="PW">4</unclear>foot deep in the road now we have to goo through the pistol factor to get down town  we could not pass there one a <unclear reason="illegible" resp="PW">feern days ajae chushinys</unclear> had to move out  it is ruined his house he was entite out of coal  i received your money on wensday and was gone to get some coal on thursday and the wartens rose in the night so i could not get any</p>
+            
+            <pb facs="0012_001356_000212_0004.jpg" n="3" xml:id="d2e267"/>
+            <p>we suffer here with cold we cannot get any coal up here wile the water is down out of the road the have <unclear reason="illegible" resp="PW">duped</unclear> a car of coal through the bridge and George Manene is got it and i am going to try to have him bring me some round the other road if he will else i wish you was at home my dear husband you could get all the work to do you wanted i <unclear reason="illegible" resp="PW">hows</unclear>long to see you my dear boy it will be a long <unclear reason="illegible" resp="PW">teagers</unclear> 6 month to me such a one as i have never seen before the thoughts of you going so much further i all most killes me i am afraid you go through more than you let me know  my dear boy i greave for you  i am not happey no more than you i hope we shall meet again with the blessings of god and live happy together  my blessings goes with you were ever you and i hope the lord will bring you back to us again  i blister the letter with my tear to think you cannot get one word from us at home  my thoughts are daily with you and your dear little boy Henery is always talking about you and he wants you to come home  he says if father was here he should not mind nothing Austin send his kind love to you and he is well and he hopes the time will soon come when you will come back for he says when you come back he will go down to alfred at Nashvill</p>
+            
+            <pb facs="0012_001356_000212_0005.jpg" n="4" xml:id="d2e281"/>
+            <p>my dear husband i hope you will rite to me often as i am soo glad to here from you o doo rite as often as you can  alfred rote to austin and he received the letter the same day as i received yours  he was well and he sent us word you was gone to Noxville that was a hundred miles from Nashville  my dear husband i have had the house insured in the Glen falls company and i have the Noterey  Austin is hoping round like little dadey fetching everthing in life you use  he came over the feerey with a mater fruit and broom  we have got the hams and they are nice  pat foley send his best respects to you me and henery is been over the ferey three times Mr spencer is home and is got a bad cold he send his respects to you  Mr clark came home Mr and Mrs <unclear reason="illegible" resp="PW">hindet</unclear> send there love to you  Mr and Mrs king send there love to you besure rite as soon as you can rite with ink if you can get it  you will have a nice bit of money when you come if you live to <unclear reason="illegible" resp="PW">stop</unclear>6 months so that you wont have to work so hard when you com again  so i must conclud with our kindes love to you</p>
+            <p>Mr and Mrs Coley send there best respects to you</p>
+            <closer>
+               <salute>your dear wife</salute>
+               <signed>Eliza smith</signed>
+            </closer>
+         </div>
+      </body>
+      
+      <back>
+         <div type="envelope" xml:id="d2e309">
+         <pb facs="0012_001356_000212_0001.jpg" n="5" xml:id="d2e311"/>
+         <p>Flood of March 1865</p>
+         <p><address>
+               <addrLine>Mr William Smith</addrLine>
+               <addrLine>Chattanoga</addrLine>
+               <addrLine>Tenn Box 27</addrLine>
+               <addrLine>Care of SC Mearses</addrLine>
+            </address></p>
+      </div>
+      </back>
+   </text>
+</TEI>

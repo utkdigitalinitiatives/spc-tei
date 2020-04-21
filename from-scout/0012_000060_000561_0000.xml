@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000561_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mrs. A.R. Gordon</name>
+ in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1910-10-22">1910 Oct. 22</date>
+            </title>
+            <author>
+               <name type="person">Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000561_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mrs. A.R. Gordon in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1910 Oct. 22</title>
+               <date>1910-10-22</date>
+               <author>
+                  <name>Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+               </author>
+               <extent>10  digital images;  1 envelope, 9 pages.</extent>
+               <note type="abstract">1910 Oct. 22, Mrs. A.R. Gordon (nee Nellie Alexander), Franklin, Tenn., to Elizabeth Ramsey Breck, Knoxville, Tenn. Further details concerning the Alexander family. Mentions sending a copy of the family tree to Lizzie. Asks for facts, particularly on John McKnitt Alexander, to add to the information she is compiling for her son.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Genealogy -- Tennessee.</term>
+               <term>Genealogy -- Georgia.</term>
+               <term>Family -- History.  </term>
+               <term>Tennessee -- History.</term>
+               <term>Georgia -- History.</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Family.</term>
+               <term>Alexander, John McKnitt, 1733-1817 -- Family.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000561_0001.jpg" xml:id="d3e154"/>
+            <p>Mrs. E.A.R Breck</p>
+            <p>Cor. Main &amp; Cumberland Sts.,</p>
+            <p>Knoxville,</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000561_0002.jpg" xml:id="d3e168"/>
+            <p>Franklin, Tenn.,</p>
+            <p>Oct. 22, 1910</p>
+            <p>My dear Mrs. Breck:</p>
+            <p>I was so glad to get your letter, &amp; am so much obliged for the list of the Mecklenburg signers. It almost came to be an Alexanders Declaration.</p>
+            <p>Alexander is the greatest &amp; grandest name the world has ever known, dates back to 356 years before Christ, &amp; our branch goes back to Adam - as one of the signers <unclear reason="illegible" resp="JR">has</unclear> that name.</p>
+            <p>The descendants of this Adam are the Alexanders of Washington Wilkes Co.,</p>
+            <pb n="3" facs="0012_000060_000561_0003.jpg" xml:id="d3e189"/>
+            <p>Ga., &amp; considered on of the best in the state. Three sisters, married three Confederate Generals, Mrs. <unclear reason="illegible" resp="JR">Lawton</unclear>, Mrs. Gilmer, &amp; Mrs. Cummings, all living in Savannah Ga., there was one brother Gen. E.P. Alexander, who has recently died.</p>
+            <p>I have sent my &quot;tree&quot; to Nashville to an Architect to see what I can have some copies made for. I want to make all the corrections I can, &amp; fill out the undeveloped branches before it is copied. If any of the Knoxville kin would like copies, they must let me know. As soon as I hear from the Architect will let you know</p>
+            <pb n="4" facs="0012_000060_000561_0004.jpg" xml:id="d3e202"/>
+            <p>his changes.</p>
+            <p>I have never met Laura &amp; <unclear reason="illegible" resp="JR">Sprule Lyms</unclear> but know their mother &amp; sister Mrs. Dr. Crow of Atlanta well &amp; boarded one winter with <unclear reason="illegible" resp="JR">mom</unclear>Mary Crow. My son was born in her house. They are all unusually smart. One sister married an <unclear reason="illegible" resp="JR">Czard</unclear> of Va. Their uncle <unclear reason="illegible" resp="JR">cvy.</unclear> John Alexander lives at Tazewell Court House Va. &amp; his brother Rev. James Harvey Alexander resides in Atlanta.</p>
+            <p>I will enclose in this a newspaper clipping which you can return. I read in the Oct. number of the Taylor-Trotwood Magazine, a very</p>
+            <pb n="5" facs="0012_000060_000561_0005.jpg" xml:id="d3e226"/>
+            <p>interesting article about your father, yourself, &amp; home. I would love dearly to have a copy of the Declaration &amp; of Andrew Jacksons letters.</p>
+            <p>I am collecting everything I can for my son, who is now 18 yrs. old. When I am gone, there will be no one to tell him about my family. My grandfather Joseph Alexander married Elizabeth McReynolds, her people came from Scotland to Ireland. Andrew T. McReynolds was a first-cousin of Andrew Jackson, also a nephew of Gen. Chas McLean of Baltimore. His father was a prominent attorney &amp; keeper of the Seals of Ireland, at</p>
+            <pb n="6" facs="0012_000060_000561_0006.jpg" xml:id="d3e236"/>
+            <p>a salary of $25,000 a year.</p>
+            <p>Gov. Hall, who succeeded Houston a Gov. of Tenn, &amp; who married Polly Alexander has a grandson Prest of a Bank, living in Gallatin Tenn.</p>
+            <p>Have you any records of your great-grandfathers family? On my tree it makes no mention of whom John McKnitt married. One daughter Abigail married Rev. Samuel Craighead Caldwell, his son John Madison McKnitt Caldwell married my mothers sister. Another daughter of John McKnitts, married a Ramsey - another a Wallace, one son William Bain has a large share of the tree</p>
+            <pb n="7" facs="0012_000060_000561_0007.jpg" xml:id="d3e248"/>
+            <p>Now if you can fill out your branch for me, I will esteem it - a favor. Begin with - John McKnitt, giving his children, whom they married &amp; on down to the present-day. Some day we may put it in book form. Do you know what Wallace John McKnitts daughter Mary married? Judge Jesse Wallace from East Tenn. settled here, they are fine people. Mrs. Wallace was a Heiskell. If I had my tree here could give you the names of all the family. One daughter I think married Col. I. Scott.</p>
+            <p>I hope I have not bored you with this long letter, but when I </p>
+            <pb n="8" facs="0012_000060_000561_0008.jpg" xml:id="d3e258"/>
+            <p>get started on my Alexander Ancestry never know when to stop. Of course I only talk to the family about it. My husbands mother is a descendant of Ephram Brenard. His cousin Gen. George Gordon is the Commander in Chief of the Confederate Veterans.</p>
+            <p>Please excuse this miserable scrawl, I am just recovering from a severe attack of the Grippe, &amp; am nervous. I hope you will soon be fully restored to health. With love, &amp; best wishes.</p>
+            <p>Yours with sincerity</p>
+            <p>Nellie A. Gordon</p>
+            <pb n="9" facs="0012_000060_000561_0009.jpg" xml:id="d3e272"/>
+            <p>On our tree are such names as - Baxter - Marshall - Dr. Robinson, Dr. Willson - Scott - Graham - Moore, Wallace - Dixon - Kerr - Polk, Kirkpartrick, Rev. Pharr - Barrett. Henderson - McCoy - McGanby - Harris - White - Hanson. Berry - Boggs - Dr. Rankin - Bain - Parks - Bradley - Sample - Hall - <unclear reason="illegible" resp="JR">Caruthers</unclear> - Garrison - Monroe - Jelton - Ozborne - &amp; others - </p>
+            <pb n="10" facs="0012_000060_000561_0010.jpg" xml:id="d3e283"/>
+            <p>John McKnitt</p>
+            <p>born _____</p>
+            <p>married ______</p>
+            <p>children ______</p>
+         </div>
+      </body>
+   </text>
+</TEI>

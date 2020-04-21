@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000216_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Alexander Donelson</name>
+				                    at the Kentucky Military Institute to Martin <date when="1867-12-20"> 1867 Dec. 20</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Alexander Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000216_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Alexander Donelson at the Kentucky Military Institute to Martin 1867 Dec. 20</title>
+               <date when="1867-12-20"> 1867 Dec. 20</date>
+               <author>
+                  <name type="person">William Alexander Donelson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000216_0001.jpg" xml:id="d4e39"/>
+            <p>Dec 20 1869</p>
+            <p>Dear Martin</p>
+            <p>I must confess my shame for my own negligence; permitting you to write me a second letter before the first was answered. Though I feel that you who has experienced the influence of K.M.I. life could not <unclear reason="illegible" resp="EMS">accuse</unclear> another for so trivial a fault. But let me that  you for your thoughtful promptness. Your fond tidings came like a zephyr bearing on its wings a balm to soothe our melancholly spirits. We had not heard a word from home since the bearings of yours of Oct 29th save a not from Martin Curry, who said that he had not heard from you since you left, and could&apos;nt tell whether you were all dead or alive, this only increased the anxiety in which we constantly live, then Andy <unclear reason="illegible" resp="EMS">Wilcox</unclear> wrote that Sister Rachel was very sick, of course this render our imaginations wild in the thoughts of home, and the <unclear reason="illegible" resp="EMS">scares</unclear> of those dear ones </p>
+            <pb n="2" facs="0012_000435_000216_0002.jpg" xml:id="d4e56"/>
+            <p>who aid us in cherishing its memory.</p>
+            <p>Just imagine how delighted we were to hear that Sister R was up all well and a <unclear reason="illegible" resp="EMS">frio crop</unclear> Nous-<unclear reason="illegible" resp="EMS">fumes</unclear> comme hors des nos-meme. I am inclined to think that your flattering remarks of my oratory and Genius had their underscorings as dashes of irony. I did not deliver my speech on &quot;inventive genius&quot;. was allowed to hand it in on account of the number of speakers.  My second, though, on &quot;1 habit of thought&quot;. I delivered and was complimented by several on its merits. As twas my first attempts on the stage. I was much embarrased in the beginning, as I had a broad <unclear reason="illegible" resp="EMS">grise</unclear> of the whole school to face. The cause of which was <unclear reason="illegible" resp="EMS">Viz.</unclear> Most of the boys had spoken; <unclear reason="illegible" resp="EMS">Cheatham</unclear> went up, handed in his oration, so did Ramsey, and of course I thought I could hand mine in too; so I handed it to Col. and started to my seat, on which Col. call to me asking if I spoke last month. I said no, and he politely said &quot;Will Sir you must get up and read this.&quot; Of course the crowd roared, to my chaw. I was a little confused, but mounted the stage gave a nod of the pate, and took a try spit at the stove by</p>
+         </div>
+      </body>
+   </text>
+</TEI>

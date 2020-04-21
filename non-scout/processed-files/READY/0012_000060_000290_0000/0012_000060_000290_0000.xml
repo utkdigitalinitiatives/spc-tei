@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000290_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Ramsey, J.G.M.</name>
+				                   in Boston, Mass., to J. Crozier Ramsey in Knoxville, Tenn., <date when="1850-08-04">1850 August 4</date>
+            </title>
+        <author>
+          <name type="person">Ramsey, J. G. M. (James Gettys McGready)</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000290_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Ramsey, J.G.M. in Boston, Mass., to J. Crozier Ramsey in Knoxville, Tenn., 1850 August 4</title>
+          <date when="1850-08-04">1850 August 4</date>
+          <author>
+            <name type="person">Ramsey, J.G.M.</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1850</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000290_0001.jpg" xml:id="d4e44"/>
+        <p>No. 156 Revere House, Boston,</p>
+        <p>Aug. 4. 1850.</p>
+        <p>Dear Crozier</p>
+        <p>Acting upon my well known principle of appropriating &amp; employing even the fragments of my time I have snatched occasionally a few minutes from my regular engagements for the purpose of acquainting you with my movements.  I left New-York yesterday at 5 P.M. I reached this place this morning before seven.  In the Athens of America - with the Bunker Hill monument in full view - &amp; surrounded by much that is associated with the dawn of American Independence - &amp; with the patriotism &amp; valor that achieved it - &amp; witnessing as I do the evidences of the enterprise industry &amp; thrift among the descendants of the Pilgrims &amp; the patriots of the revolution I might be expected to select some one of these themes for a hasty letter.  I must decline it however.  You will find all that elsewhere &amp; better said than I could say it.  What I discussed in my last about the enhanced price that would result to our great st<gap resp="Hogan"/>le, corn, from the construction of our railroad <gap resp="Hogan"/>plies exactly in the same ratio to every other agricu<gap resp="Hogan"/>ural product.  All that can be extracted by the indu<gap resp="Hogan"/> &amp; skill of man from our fertile soil, will command a ready sale &amp; at a remunerating price in the market south of us.  Not the products of our fields only - but of the orchard - the meadows - the garden - the dairy - the poultry yard &amp; the apiary.  I need not be more minute.  Everything of the kind will sell - sell well &amp;, as I have many opportunities of seeing will bear transportation without deterioration.  What would you think of a fish from Lake Michigan or a venison from a western Prairie in the market of New-York &amp; Boston?  The genius of Fulton has annih<gap resp="Hogan"/>lated both time &amp; space.  You will live to see Major Lenoir's <gap resp="Hogan"/>cellent pippins eaten in Charleston two days after they ripen &amp; the products of your Ma's garden in the same market.</p>
+        <p>But that is but one of the advantages our farmers will experience from the Rail Road.  The appreciation of our lands everywhere over the country will necessarily follow.  I will not give you the figures.  I am astonished at what I see &amp; hear of the increased value of real estate wherever these channels of communication are opened up.  Why just this morning I saw along the route I came where New England patience is busily reclaiming land from old ocean - or cutting a slice out of a granite hill on which to build a house &amp; form a field or a garden.  Their R.R.s here are not taken through villages but villages follow &amp; grow along the roads &amp; an acre of land near one will command the price that will buy a small farm in Tennessee.  This enhance</p>
+        <pb n="2" facs="0012_000060_000290_0002.jpg" xml:id="d4e69"/>
+        <p>ment in the price of land, leads to the subdivision &amp; sale of our large plantations - alike the interest of the large land-holders &amp; of the country at large.  Of this you have a convincing proof at home.  Every body knows that one hundred acres well cultivated &amp; skilfully improved would be vastly more productive to the owner &amp; to the country than five hundred slovenly worked &amp; badly improved.  It used to be said of North Carolina large land-holders that the more acres they worked &amp; held the poorer they became.  I am generally impatient under a slander against the old North State but I have seen something of the same sort in Tennessee &amp; on this occasion choose not to vindicate our Mother state from the scurrility that makes the imputation.  Were our larger plantations thus subdivided a more numerous &amp; as I believe a more thrifty population would necessarily follow.  There would be more neatness on the farm &amp; more comfort &amp; embellishment about the buildings &amp; the grounds.</p>
+        <p>But more. The labor of the country would not only be better increased but the usages of the hired laborers themselves be increased in a<gap resp="Hogan"/>ount &amp; in quality.  They have long needed t<gap resp="Hogan"/>is incentive to constant employment &amp; to diligen<gap resp="Hogan"/> &amp; fidelity to their empoyers.  The wonder is that they have been even as diligent or as fruitful <gap resp="Hogan"/> they are.</p>
+        <p>It has been said of Daniel Boon, that when the smoke from another cabin could be seen far off in the distance, from his own - or the report of a new settler's rifle could be heard by him, disturbing the quiet of th ancient woods, he became discontented &amp; soliloquizing to himself would say "We are getting too thick here.  I must go further" &amp; taking up his trusty rifle would again plunge into the wilderness &amp; again bury himself in its dark seclusions &amp; its impenetrable wilds.  So it will be when as we all expect &amp; now desire, the locomotive shall have introduced Tennessee to the commerce the wealth - the fashion - the luxury - the vices &amp; the crimes of the world many of us will say We are too thick here - let us go further.  The infancy of a community is often perhaps most frequently the period of its g<gap resp="Hogan"/>atest happiness - most <unclear reason="Illegible" resp="JH">perfect</unclear> enjoyment &amp; innocence.  Faults it doubtless has, but like the indiscretions of youth these belong to &amp; result from its immature age.  The love of money has not belittled - corruption has not tainted - luxury has not effeminated (excuse me if I have made a verb) - crime has not stained - nor an ignoble subserviency to fash</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003423_000210_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tribute of Respect,  
+               <name type="author">T. G. Randle</name>, Chairman of <name type="org">Soldiers Christian Association</name> to Indiana Freeman, 
+               <date when="1863-10-18">1863 October 18</date>
+            </title>
+            <author>
+               <name>Randle, T. G.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_003423_000210_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Tribute of Respect,  
+                  <name type="author">T. G. Randle</name>, Chairman of <name type="org">Soldiers Christian Association</name> to Indiana Freeman, 
+                  <date when="1863-10-18">1863 October 18</date>
+               </title>
+               <date when="1863-10-18">1863 October 18</date>
+               <author>
+                  <name>Randle, T. G.</name>
+               </author>
+               <extent>2 digital images</extent>
+               <note type="collection">Joseph Oliver Freeman Letters, 1861 December 22 - 1864 June 12, undated</note>
+               <note type="manuscript">MS.0806</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Chickamauga, Battle of, Ga., 1863.</term>
+               <term>United States--History--Civil War, 1861-1865--Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e166">
+            <pb facs="0012_001564_000210_0001.jpg" n="1" xml:id="d2e168"/>
+            <opener>
+               <dateline>Near 
+                  <name type="place">Chattanooga, Tenn.</name> 
+                  <date when="1863-10-18">October 18 1863</date>
+               </dateline>
+               <salute>Tribute of Respect</salute>
+            </opener>
+            <p>At a Meeting of The <name type="org">Soldiers Christian Association of The 51st &amp; 52nd Tenn Regts</name> in camp near <name type="place">Chattanooga Tenn</name> on the 18th day of October 1863 On Motion the following Tribute of Respect in Memory of our brave comrads in arms belonging to the above named Regts who fell in the late Engagement with the Enimy on the 19th &amp; 20th of September last in the Battle of <name type="place">Chickamauga</name>.</p>
+            <p>Where as in the recent Battle of Chickamauga it has pleased Almighty God to remove by death from amongst us The Following Named Brethren and Comrads in Arms. To Wit  Lieut D B Wade  Sgts B.A. Barthalow  W.B. Farris  G.G. Perry, Isaac King,  Corpl. W.J.H. Kirkpatrick  Privates J.W. Baird, H.H. McGuire, J.O. Freeman  J.F. Mitchell, J.M. Alixandra, G.J. Hill, T.W. Vittitoe  Ebenezar Harley, T.W. Barnett, W.M. Bland &amp; Rev John Thompson.</p>
+            <p>Therefore resolves that by this act of Providence The <name type="org">Army of the Confederate States</name> has lost some of its best Soldiers Whose Conduct in the Battle field has won the admiration of their comrads in arms.  And that our country at large has lost Good Cittizens: Men who would have reflected</p>
+            
+            <pb facs="0012_001564_000210_0002.jpg" n="2" xml:id="d2e207"/>
+            <p>Honor upon its cause.  And that this Association especially has lost some of its most Useful and pious Members.</p>
+            <p>Resolved 2nd  That we deeply sympathise with much bereaved relatives &amp; Friends of the deceased Resolved 3rd  That a copy of the proceedings of this meeting be forwarded to the relatives or Friends of each of the deceased &amp; also a coppy of the same be sent to the <name type="org">Soldiers Friend</name> for publication</p>
+            <p>Committie:<lb/>
+               J.S. Hall<lb/>
+               B.F. Watts<lb/>    
+               D.M. Weathmgton<lb/>
+               T.G. Randle  Chairman<lb/>
+               A.D. Thomas Sec.</p><lb/>
+         </div>
+      </body>
+   </text>
+</TEI>

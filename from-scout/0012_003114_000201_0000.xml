@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003114_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Wesley Smith Dorris </name>Diary, 
+ <date notBefore="1861" notAfter="1864">1861-1864</date>
+            </title>
+            <author>
+               <name type="person">Dorris, Wesley Smith</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Stone, Sarah</name>
+               <name>Deane, Christine H.</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_003114_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <extent>83 pages</extent>
+               <title>Wesley Smith Dorris Diary, 1861-1864</title>
+               <date>1861-1864</date>
+               <author>
+                  <name>Dorris, Wesley Smith</name>
+               </author>
+               <note type="collection">Wesley Smith Dorris Diary Collection</note>
+               <note type="manuscript">MS.1916</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865 -- Diaries.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Tennessee.</term>
+               <term>Confederate States of America. Army.</term>
+               <term>United States -- History -- Civil War -- Battle of Fort Donelson, Tennessee</term>
+               <term>United States -- History -- Civil War -- Battle of Fort Henry, Tennessee</term>
+               <term>United States -- History -- Civil War -- Vicksburg Campaign, Mississippi</term>
+               <term>Soldiers -- Confederate States of America -- Biography.</term>
+               <term>Dorris, Wesley Smith, 1831-1863. </term>
+               <term>USA Major General Ulysses S. Grant</term>
+               <term>CSA President Jefferson Davis</term>
+               <term>CSA General Robert E. Lee</term>
+               <term>CSA General Albert Sidney Johnston</term>
+               <term>CSA Major General Leonidas Polk</term>
+               <term>CSA Brigadier General Simon Bolivar Buckner</term>
+               <term>CSA Brigadier General Bushrod Rust Johnson</term>
+               <term>CSA Brigadier General John B. Floyd</term>
+               <term>CSA Brigadier General Gideon Pillow</term>
+               <term>CSA Colonel Lloyd Tilghman</term>
+               <term>CSA Colonel John W. Head</term>
+               <term>CSA Colonel James J. Turner</term>
+               <term>CSA Captain R. E. Mayes</term>
+               <term>CSA Lieutenant Colonel Robert H. Murphy</term>
+               <term>CSA Major Bell G. Bidwel</term>
+               <term>CSA Colonel George W. Stacker</term>
+               <term>CSA Colonel Cyrus A. Sugg</term>
+               <term>Civil War Diaries</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d3e185">
+            <pb n="1" facs="0012_003114_000201_0001.jpg" xml:id="d3e186"/>
+            <note>[ The cover and first 2 pages are missing from the diary.]</note>
+            <p>other circumstances and having no arms on the morning of the 6th we received orders to <unclear reason="illegible" resp="SS">kook</unclear> three days <unclear reason="illegible" resp="SS">rations</unclear> and on the morning of the 7th <unclear reason="illegible" resp="SS">to like</unclear> the time of march <unclear reason="illegible" resp="SS">toward Lafayette</unclear> we camped at Lafayette on the night of the 7th and in the morning of the 8th we were blessed with a beautiful morning and by sun Rise we started in the direction of <unclear reason="illegible" resp="SS">Hartsville</unclear> at which place we</p>
+            <pb n="2" facs="0012_003114_000201_0002.jpg" xml:id="d3e214"/>
+            <p>4</p>
+            <p>camped the night of the 8th Morning found us in a <unclear reason="illegible" resp="SS">greate stir</unclear> there being <unclear reason="illegible" resp="SS">every</unclear> apperence of Rain which soon began to fall in torrents
+Collonel <unclear reason="illegible" resp="SS">Head</unclear> had received a letter from Generel <unclear reason="illegible" resp="SS">A.S. Johnson</unclear>
+stating that we could not be <unclear reason="illegible" resp="SS">army</unclear> then so Collonel <unclear reason="illegible" resp="SS">Head</unclear> thought propper to disband is untill the 22nd of November
+during which time we were to hold ourselves in <unclear reason="illegible" resp="SS">Readiness</unclear> to go into</p>
+            <pb n="3" facs="0012_003114_000201_0003.jpg" xml:id="d3e244"/>
+            <p>5</p>
+            <p>Camp again at anytime after which we Resumed our line of march for Gallatin which place we scatterd and mad our way to our Respective homes where we found our friends who greated us with a cherful wel-come Happy were we once more to see our friends our homes and Relatives a few days of Rest and peace were enjoyed by us on Thurs-day November the 12th we Received orders to go into Camp at <unclear reason="illegible" resp="SS">Tyre</unclear>
+            </p>
+            <pb n="4" facs="0012_003114_000201_0004.jpg" xml:id="d3e254"/>
+            <p>6</p>
+            <p>Springs on the 15th all happiness at home was now over the sad <unclear reason="illegible" resp="SS">was as</unclear> farwell must be <unclear reason="illegible" resp="SS">agane</unclear> taken and loved ones at home againe left Fryday night found us again together in the attitude of soldiers at Tyreas Springs this being a good place to drill we made good use of our short stay here and after we had Realized the Eden of <unclear reason="illegible" resp="SS">soldierry</unclear> here the visitation of friends until the 25th we</p>
+            <pb n="5" facs="0012_003114_000201_0005.jpg" xml:id="d3e271"/>
+            <p>7</p>
+            <p>Received orders to cook two days Rations and be Ready to march on the coming morning where to we new not by sunrise on the morning of the 26th we were in line and soon on our march towards Nashe-ville arrived at good-lettsville about ten o&apos;clock A.M. where Collonel <unclear reason="illegible" resp="SS">Head</unclear>  made us a feeling and parental talk at about 2 P.M. we got aboard the cars and arrived at Nashville at dark</p>
+            <pb n="6" facs="0012_003114_000201_0006.jpg" xml:id="d3e282"/>
+            <p>8</p>
+            <p>marched through the city to the warf where we Remained untill ten oclock when we steped
+aboard the General anderson and started down the River and being very tired we
+lay down and slept as best we could morning found us still moving down the River
+at 3 P.M. of the 27th measered the place of our destination. Seeing a few
+<unclear reason="illegible" resp="SS">guns planted</unclear> in the left
+bank of the River with a few <unclear reason="illegible" resp="SS">marks</unclear>
+            </p>
+            <pb n="7" facs="0012_003114_000201_0007.jpg" xml:id="d3e295"/>
+            <p>9</p>
+            <p>of fortifycation being commenced a few tents stretch back over the hill and the boat lan-ding
+here we new we were at our journey&apos;s end we disembarked from the boat stretched
+our tents dispared our humble meal and lay down for the night. Morning came with
+torrents of Rain falling which continued for severel days and having <unclear reason="illegible" resp="SS">taro plank nor</unclear> straw in our tents but
+having to lay on the wet</p>
+            <pb n="8" facs="0012_003114_000201_0008.jpg" xml:id="d3e306"/>
+            <p>10</p>
+            <p>ground severel became sick spreading desponden-cy and gloom over the Regiment and the meas-les
+the <unclear reason="illegible" resp="SS">fest</unclear> of all ar-mies broke out
+among us causing the death of many we did a greate deal of work clearing up the
+ground for our encampment and other purposes and the 2nd of December found us
+arra-nged <unclear reason="illegible" resp="SS">Reglgentally</unclear> in our
+tents and soon got <unclear reason="illegible" resp="SS">straw</unclear> and
+<unclear reason="illegible" resp="SS">plank</unclear> for our tents had some
+very wet-weather while we were in</p>
+            <pb n="9" facs="0012_003114_000201_0009.jpg" xml:id="d3e326"/>
+            <p>11</p>
+            <p>our tents which made it very disagreeable to us some few had stoves and some made places
+which were beneficial as it was now dead of winter on the 9th of December we
+received to <unclear reason="illegible" resp="SS">procede</unclear> to build
+winter quarters the work progressed as the weather was now good which was
+for-tionate on us. On the 13th a Rumer prevaled that there was a gun boat a few
+miles down the River which was commiting <unclear reason="illegible" resp="SS">deprodution</unclear>
+            </p>
+            <pb n="10" facs="0012_003114_000201_0010.jpg" xml:id="d3e339"/>
+            <p>12</p>
+            <p>on the citizens along the River. On the 14th a party of 111 men our Ridgement and 100 from
+Colonel <unclear reason="illegible" resp="SS">Murjfaek</unclear>  Ridgement with
+2 peaces of <unclear reason="illegible" resp="SS">artilery</unclear> they
+proceded down the River accompany by Colonel Head Major Turner and a company of
+cavelry and by sunrise next morning we were 28-miles down the River but the trip
+was no benefit no boat being discovered the party</p>
+            <pb n="11" facs="0012_003114_000201_0011.jpg" xml:id="d3e353"/>
+            <p>13</p>
+            <p>Returned on the evening of the 16th much fatigued from the trip the buil-ding of our quarter <unclear reason="illegible" resp="SS">ters</unclear> occupied our entire time now. December 18th great Rejoicing and feasting, feasting among the Lietenant Ponds has Returned from Fountain Head bringing a quantity of provision and letters from home. December the 20th Rejoicing still General Tilghman has gone to Fort Henry and Colonel Head is left in command</p>
+            <pb n="12" facs="0012_003114_000201_0012.jpg" xml:id="d3e365"/>
+            <p>14</p>
+            <p>of this post and has furlowed all the measles cases home that will not be able soon for duty
+24th Christas eave but looks little like it. General Tilman  issues orders
+prohibiting female visitors <unclear reason="illegible" resp="SS">Gross
+humaity</unclear> another is <unclear reason="illegible" resp="SS">issued</unclear> from him that no one is be furlowed home dead or alive
+before the 8th of January 1862. January the 3rd we have got into our quarters
+and have to drill 4 hours each day</p>
+            <pb n="13" facs="0012_003114_000201_0013.jpg" xml:id="d3e379"/>
+            <p>15</p>
+            <p>principally in the manel of arms. January the 5th Received information to day that we ware
+under the Command of General Polk. Jenuary the 8th A flag was presented to the
+30th Ridgiment much was anticipated and pains spared in arrangements many of our
+friends were here the day was excedingly Inclement and the mud and mire was
+allmost Intolerable. <unclear reason="illegible" resp="SS">Miss Allis</unclear>
+Winchester in a flowery speech and Lieutenant</p>
+            <pb n="14" facs="0012_003114_000201_0014.jpg" xml:id="d3e390"/>
+            <p>16</p>
+            <p>Nicolas Received <unclear reason="illegible" resp="SS">It</unclear> an a few appropriate
+words January the 10th Lieutenant Lane has resigned and William <unclear reason="illegible" resp="SS">Spradlin</unclear> is elected to 2nd Lieutenent
+today and there being severel <unclear reason="illegible" resp="SS">aspirents</unclear> there was some excitement among the boys Jenuary the
+14th news to day that the enimy are approaching up both Tennessee and Comberland
+River</p>
+            <p>Jenuary the 16th the Report is that the enimy are in sight of Fort Henry and that a</p>
+            <pb n="15" facs="0012_003114_000201_0015.jpg" xml:id="d3e409"/>
+            <p>17</p>
+            <p>fight is evidently near at and Captain <unclear reason="illegible" resp="SS">Brdwells</unclear>  Company was attack to the seige guns at the river and
+Improved very fast in the art of gunery</p>
+            <p>Jenuary the 17th Canonading is heard in the direction of Fort Henry the sick here are being
+moved to Clarks-ville in greate hast and <unclear reason="illegible" resp="SS">extencive fortyfy and</unclear> is going on here some are ditching and some
+falling timbers and some are cooking Rations that should we be called off we
+would be Ready</p>
+            <pb n="16" facs="0012_003114_000201_0016.jpg" xml:id="d3e425"/>
+            <p>18</p>
+            <p>January the 19th Colonel <unclear reason="illegible" resp="SS">Stackers</unclear> Redgement
+and Captain Mays   company from our Redgement left for fort Henry taking three
+peices of artilery with them. Colonel <unclear reason="illegible" resp="SS">Stacker</unclear> Resign to day, and Colonel Head talk-ing of it caused by
+<unclear reason="illegible" resp="SS">I supposed</unclear> by <unclear reason="illegible" resp="SS">unjenares</unclear> treatment from General
+Tilghman. Lieutenent Colonel <unclear reason="illegible" resp="SS">Syras A
+Sugs</unclear>  now became first in command</p>
+            <p>Jenuary the 24th <unclear reason="illegible" resp="SS">Reports</unclear> are flying today</p>
+            <pb n="17" facs="0012_003114_000201_0017.jpg" xml:id="d3e453"/>
+            <note>[ Pages 19, 20, 21, 22 missing from the diary. ]</note>
+            <p>23</p>
+            <p>boat <unclear reason="illegible" resp="SS">No alternative</unclear> was <unclear reason="illegible" resp="SS">now left</unclear> us but to prepare to make a
+bold stand or evacuate our <unclear reason="illegible" resp="SS">Fort</unclear>
+and knowing that the fall of <unclear reason="illegible" resp="SS">Donalson</unclear>  en-dangered our capital and give the enimy a pasage into
+the interior of the South we now <unclear reason="illegible" resp="SS">waite</unclear> to work night and day which was very labours but was done
+with a cherful spirit on the 7th many of the men from fort Henry come in in a
+deplorable condition some without hats <unclear reason="illegible" resp="SS">capes</unclear>
+            </p>
+            <pb n="18" facs="0012_003114_000201_0018.jpg" xml:id="d3e483"/>
+            <p>24</p>
+            <p>or guns purfectly drenched wading creaks and branches as the waters was up at this time</p>
+            <p>Feb the 8th some Reinforce-ments are arriveing and all things are in a march towards a
+<unclear reason="illegible" resp="SS">Redress</unclear> for the enimy who
+are on there way here. <unclear reason="illegible" resp="SS">In heavye
+num-bers</unclear> but we fere them not all are in fine spirrits and expect to
+meet them camly and coolly.</p>
+            <p>Feb the 9th we are <unclear reason="illegible" resp="SS">being</unclear> Reenforcements
+hourly General Piller </p>
+            <pb n="19" facs="0012_003114_000201_0019.jpg" xml:id="d3e504"/>
+            <p>25</p>
+            <p>and <unclear reason="illegible" resp="SS">Floide</unclear> here to lead us against the for
+some of the Redgements have been assigned <unclear reason="illegible" resp="SS">ther</unclear> posts</p>
+            <p>A great many prices of artilery planted to day have some skirmish-ing between the <unclear reason="illegible" resp="SS">pickets</unclear> for some days. There was a
+very heavy skirmish to day. The enimies drums are in hearing fortifying is going
+on in a hury had a Rally this evening. our Redgement was formed and marched out
+but was soon ordered back this is</p>
+            <pb n="20" facs="0012_003114_000201_0020.jpg" xml:id="d3e523"/>
+            <p>26</p>
+            <p>sunday but seemes little like it</p>
+            <p>February the 10th more Reenforcements caoming in Generel Buckner  with us have been strengthing the <unclear reason="illegible" resp="SS">paripets</unclear> of the seige. Battery has got the Rifled cannon planted</p>
+            <p>February the 11th <unclear reason="illegible" resp="SS">skir-mishing</unclear> is going on
+between the <unclear reason="illegible" resp="SS">pickets</unclear> but few
+casualties</p>
+            <p>Heavy work on the Rifle <unclear reason="illegible" resp="SS">pits</unclear> is going on Some are clearing up there battle ground</p>
+            <pb n="21" facs="0012_003114_000201_0021.jpg" xml:id="d3e549"/>
+            <p>27</p>
+            <p>We are in hearing of each other</p>
+            <p>Feb the 12th I wish many others of our Ridgement were at work at stregthening the paripets of
+the seige battery Heavy cavelry pickets are thrown out this morning at noon the
+smoke of the gun boats was seen down the River at one P.M. one made its
+apperence at the bend of the River fierd six shots at the Fort Retired at this
+time a heavy cav-elry skermish took</p>
+            <pb n="22" facs="0012_003114_000201_0022.jpg" xml:id="d3e559"/>
+            <p>28</p>
+            <p>place in hearing of the Fort which Resulted in one or two men being killed on our side and
+severel wounded. The eni-mies cavelry were pro-tected by infantry and artilery
+obliging men to Return to the Fort. In the evening they threw severel bombs into
+some tents <unclear reason="illegible" resp="SS">our center</unclear> on the
+other was <unclear reason="illegible" resp="SS">tes</unclear> A great feeling
+prevails throughout camp. The boys watching the <unclear reason="illegible" resp="SS">bomb</unclear> as if it was some-thing beautiful to</p>
+            <pb n="23" facs="0012_003114_000201_0023.jpg" xml:id="d3e577"/>
+            <p>29</p>
+            <p>
+               <unclear reason="illegible" resp="SS">witness</unclear> At night about dark were marched to
+Dover then back to a position the center. We had been allowed our position in the Fort to guard the seige guns but from the
+extreme length of our Rifle <unclear reason="illegible" resp="SS">pitts</unclear> we <unclear reason="illegible" resp="SS">I</unclear>
+suppose were called from the Front to assist in filling them up aganst an attack
+by <unclear reason="illegible" resp="SS">land</unclear> It was noon</p>
+            <p>8 P.M. The
+enimy in hearing and our breast works to be thrown up before</p>
+            <pb n="24" facs="0012_003114_000201_0024.jpg" xml:id="d3e598"/>
+            <p>30</p>
+            <p>day each Redgement and company were allotted there ground to propare to fight upon evry man went to work and by 4 A.M. of the 13th all was Ready for action The night was warm and pleasant</p>
+            <p>Feb the 13th Morning came beautiful and fare all quietly Resting on there arms by sunrise the signal was given by two of our batterys in the center which was answered and by the time sun</p>
+            <pb n="25" facs="0012_003114_000201_0025.jpg" xml:id="d3e608"/>
+            <p>31</p>
+            <p>was an hour high the bombs were flying spiritedly making a very noval sight in our history at
+about 10 A.M. the gun boats came up and opened on the Fort and continued fireing
+at intervills untill <unclear reason="illegible" resp="SS">non</unclear> when
+they backed off having done no damage except killing Captain <unclear reason="illegible" resp="SS">Dixon</unclear> At 11 A.M. the enimy made an
+attack on our lines just to the Right of our Redgement they charged furiously
+on</p>
+            <pb n="26" facs="0012_003114_000201_0026.jpg" xml:id="d3e622"/>
+            <p>32</p>
+            <p>our works and the <unclear reason="illegible" resp="SS">leaden</unclear> mesengers of death
+flew thick and fast all around us but as often as they pushed on our stubern
+boys drove them back with heavy <unclear reason="illegible" resp="SS">loss</unclear> untill they were finely <unclear reason="illegible" resp="SS">Repulsed</unclear> and Routed leaving many of there dead on the
+field. This closed the fight of the day except fireing between the land batteries
+which kept up <unclear reason="illegible" resp="SS">there</unclear> fire till
+night In the evning it became</p>
+            <pb n="27" facs="0012_003114_000201_0027.jpg" xml:id="d3e642"/>
+            <p>33</p>
+            <p>cloudy turned cold commenced Raining and soon in the night turned to snowing and we having to lay
+on our arms in the trenches we suffered in tensly</p>
+            <p>The night passed quietly with
+occasional fireing</p>
+            <p>February the 14th Morning <unclear reason="illegible" resp="SS">passed</unclear> us all quiet and a bad <unclear reason="illegible" resp="SS">loking</unclear> set of fellows from the
+exposure of the night</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Land
+batteres</unclear> fireing <unclear reason="illegible" resp="SS">shore</unclear> to day. The <unclear reason="illegible" resp="SS">enimy
+seems</unclear> to be <unclear reason="illegible" resp="SS">trading</unclear> at a dis-tant one Reg. gets <unclear reason="illegible" resp="SS">orders</unclear> to cook <unclear reason="illegible" resp="SS">three days ations</unclear>
+            </p>
+            <pb n="28" facs="0012_003114_000201_0028.jpg" xml:id="d3e678"/>
+            <p>34</p>
+            <p>and put up in there <unclear reason="illegible" resp="SS">haversacks some sharp
+shooting</unclear> along our line At 1 P.M. <unclear reason="illegible" resp="SS">some</unclear> of the gun boats mad there apperence at the bend of
+the River. They opend a furious fire on the Fort and seige battery. 
+Throwing
+bombs all over the Fort and out to the Rifle pits causing the boys to keep there
+eys open and sometimes <unclear reason="illegible" resp="SS">to hug</unclear>
+the ground. The fire-ing was now terifick and we began to think they were <unclear reason="illegible" resp="SS">serten</unclear> to <unclear reason="illegible" resp="SS">leap</unclear> the battery but as</p>
+            <pb n="29" facs="0012_003114_000201_0029.jpg" xml:id="d3e701"/>
+            <p>35</p>
+            <p>they neared our battery our fire became more constant. A dence cloud of smoke arose from the
+battery while <unclear reason="illegible" resp="SS">peal</unclear> after
+<unclear reason="illegible" resp="SS">peal</unclear> are cleare as a
+<unclear reason="illegible" resp="SS">bugler</unclear> blast they sending
+terror and confusion on the enimys fleet at evry shot and after a fight of a
+hour and a half the fleet much damage <unclear reason="illegible" resp="SS">attack</unclear> out of Range one of there boats sunk near the bend of the
+River while all were more or less damage</p>
+            <p> the <unclear reason="illegible" resp="SS">news</unclear> flew through our entire line and we</p>
+            <pb n="30" facs="0012_003114_000201_0030.jpg" xml:id="d3e726"/>
+            <p>36</p>
+            <p>could here the shouts of triumph reverbiate through the hills and vallies which doubt
+<unclear reason="illegible" resp="SS">less</unclear> went to the ears of the
+enemy for they seemed infurated and soon we hear the <unclear reason="illegible" resp="SS">keen</unclear> crack of there cannon and the whirling of shot and
+<unclear reason="illegible" resp="SS">shell</unclear> around us but did but
+little damage.</p>
+            <p>Night came on cold and dreary but still we must hug our armes and
+Remain sleepless on account of the close proximity of the enimy. At about
+<unclear reason="illegible" resp="SS">2</unclear> A.M.</p>
+            <pb n="31" facs="0012_003114_000201_0031.jpg" xml:id="d3e748"/>
+            <p>37</p>
+            <p>of the 15th our <unclear reason="illegible" resp="SS">Reg were</unclear> moved to Right wing
+while some of the other forces were thrown in our formely position</p>
+            <p>Feb the 15th our <unclear reason="illegible" resp="SS">Reg were</unclear> placed in a
+position to guard Captain <unclear reason="illegible" resp="SS">Porters</unclear> battery before day they Received orders to move the
+battery to the left wing where they intended to attack the enemy when day came.
+All things being arranged for the attack during the night <unclear reason="illegible" resp="SS">ere</unclear> the <unclear reason="illegible" resp="SS">sunrise</unclear> the <unclear reason="illegible" resp="SS">ball</unclear> was opened</p>
+            <pb n="32" facs="0012_003114_000201_0032.jpg" xml:id="d3e776"/>
+            <p>38</p>
+            <p>on the left wing and soon the heavy <unclear reason="illegible" resp="SS">peals</unclear> of
+cannon and constant roar of <unclear reason="illegible" resp="SS">musk-etry</unclear> was <unclear reason="illegible" resp="SS">booming</unclear> on our left A dense cloud of smoke arose above the timber
+and settled back over the surrounding hills seven long hours the fight Raged
+with dreadful <unclear reason="illegible" resp="SS">carnage</unclear> on both
+sides </p>
+            <p>The enimy constantly giving way while our boys pressed hard up on them
+with shouts and yells At 11 A.M. the fireing ceaced after we had beat back</p>
+            <pb n="33" facs="0012_003114_000201_0033.jpg" xml:id="d3e798"/>
+            <note>[ Pages 39, 40 missing from the diary. ]</note>
+            <p>41</p>
+            <p>Redgements strong charged our entrenchments and our weak force overwhelmed by <unclear reason="illegible" resp="SS">superior</unclear> numbers were compeled to
+give way which would not have been the case had General Buckners  force attack in
+time to there position</p>
+            <p>For a while great excitement prevaled among us but by
+this time Porters battery is in its former position and is <unclear reason="illegible" resp="SS">aping</unclear> vigerously upon them <unclear reason="illegible" resp="SS">moing</unclear> them down at <unclear reason="illegible" resp="SS">evry</unclear>
+            </p>
+            <pb n="34" facs="0012_003114_000201_0034.jpg" xml:id="d3e824"/>
+            <p>42</p>
+            <p>
+               <unclear reason="illegible" resp="SS">peal</unclear> which is constant and <unclear reason="illegible" resp="SS">terifiek</unclear> By the gallentry of Captain
+Porter the magic like movement of our troops in Reenforcing us and the noble and
+daring <unclear reason="illegible" resp="SS">Generelship</unclear> of our
+com-mander leading our boys against them soon caused them to decline notion of
+entering the <unclear reason="illegible" resp="SS">Fort</unclear> and fall back
+the ditches well <unclear reason="illegible" resp="SS">satisfied</unclear> to
+let the boys of Dixie alone there closed the scene except the fireing of the
+<unclear reason="illegible" resp="SS">sharpe</unclear>
+            </p>
+            <pb n="35" facs="0012_003114_000201_0035.jpg" xml:id="d3e848"/>
+            <p>43</p>
+            <p>shooters which has kept up <unclear reason="illegible" resp="ss">untill</unclear> dark with
+<unclear reason="illegible" resp="ss">both</unclear> armies being close to
+<unclear reason="illegible" resp="ss">each</unclear> other with a small hill
+between them a light <unclear reason="illegible" resp="ss">elise</unclear> on
+us cool and gloomy our boys was <unclear reason="illegible" resp="ss">triplin</unclear> in comparison with the enemy</p>
+            <p>Lutenent Colonel <unclear reason="illegible" resp="ss">Robb</unclear> was wounded by a <unclear reason="illegible" resp="ss">minie</unclear> ball pasing through his
+<unclear reason="illegible" resp="ss">lungs</unclear> and expired in about
+<unclear reason="illegible" resp="ss">36</unclear> hours There loss was very
+<unclear reason="illegible" resp="ss">heavy</unclear> much by the noble work
+of Captain Porter and <unclear reason="illegible" resp="ss">His well direc-ted aim</unclear> of our <unclear reason="illegible" resp="ss">maskits</unclear> our Regement was permited</p>
+            <pb n="36" facs="0012_003114_000201_0036.jpg" xml:id="d3e895"/>
+            <p>44</p>
+            <p>to go into there quarters shortly after dark having been out during the intire seige The
+night was calm and the moon shown dimly through the hazy clouds upon many pale
+<unclear reason="illegible" resp="ss">faces</unclear> and mangled bodys lying
+in the plaines of Donalson who had fallen during the day The night passed on
+quietly untill about 3 A.M. of the 16th we were called up formed an marched to
+Dover not knowing yet that we was surrendered but thinking</p>
+            <pb n="37" facs="0012_003114_000201_0037.jpg" xml:id="d3e906"/>
+            <p>45</p>
+            <p>
+               <unclear reason="illegible" resp="ss">that</unclear> the fight would be Renewed in the
+morning on the left wing and that we were going there We Remained at Dover but a
+few moments when we were faced about and marched back to the Fort and as soon as
+it was light while flags were flying on the Fort We were surrendered about
+midnight Generel Piller  <unclear reason="illegible" resp="ss">Floyd</unclear>
+and Buckner  met and seeing they were sur-rounded by overwhelming numbers and the
+enimy now having <unclear reason="illegible" resp="ss">passefonon</unclear>
+            </p>
+            <pb n="38" facs="0012_003114_000201_0038.jpg" xml:id="d3e921"/>
+            <p>46</p>
+            <p>of some of our works. The troops completely <unclear reason="illegible" resp="ss">exhausted</unclear> by <unclear reason="illegible" resp="ss">loss</unclear>
+of sleepe <unclear reason="illegible" resp="ss">unlaca by</unclear> labor and
+exposure by the length of serge finally con-cluded to surrender the Fort. Generel
+Buckner  opened corespondence with Generel Grant while Generel <unclear reason="illegible" resp="ss">Floyed</unclear> and his brigade with Generel
+Pillow made there escape at 4 A.M. the white flags waved over a heart stricken
+people who had fought nobly and bravely for there cose but it was there painful
+lot now</p>
+            <pb n="39" facs="0012_003114_000201_0039.jpg" xml:id="d3e941"/>
+            <p>47</p>
+            <p>to surrender up there bought honors to these enimys and crouch bneath there golling yoke of oppression</p>
+            <p>Feb the 16th Found us all gloomy and depresed Reflecting partly on our condition and more
+so on the condition of our beloved country. All was quiet and silent untill a peal
+from the gunboats and the whishing of a shell over us broake the stillness They
+fired two or three shots before they discovered the white flag after which they
+came up</p>
+            <pb n="40" facs="0012_003114_000201_0040.jpg" xml:id="d3e951"/>
+            <p>48</p>
+            <p>quietly. Severel made there escape boath <unclear reason="illegible" resp="ss">offercers</unclear> and privates through the lines of the enemys At 11 A.M.
+the enemy entered the Fort with brass bands playing <unclear reason="illegible" resp="ss">fifes</unclear> screaming drums beating banners flying followed by
+long columns of infantry and cavelry after which came the artilery drove into
+the Fort and fired there guns in honer of there victory and planted there
+banners on the Fort At 2 P.M. having <unclear reason="illegible" resp="ss">stacked</unclear> our arms and we were orderd</p>
+            <pb n="41" facs="0012_003114_000201_0041.jpg" xml:id="d3e968"/>
+            <p>49</p>
+            <p>out of our cabins and were exposed to a chilling rain without any cover except our blankets untill monday [ed. note: Feb. 17, 1862] <unclear reason="illegible" resp="ss">At</unclear> P.M. Monday we were marched in mud and mire by way of Dover to the boats where we got on board the Alec Scott The prisners were leaving all day of the 17th but where we could not tell on the morning of the 18th we pushed off down the River very illy situated to enjoy ourselves being very much crouded and having no place to sleep</p>
+            <pb n="42" facs="0012_003114_000201_0042.jpg" xml:id="d3e979"/>
+            <p>50</p>
+            <p>The weather was very cold at this time on evning of the 18th we Reached <unclear reason="illegible" resp="ss">Smith-land</unclear> stoped a few <unclear reason="illegible" resp="ss">minnits</unclear> when we again moved on
+arrived at <unclear reason="illegible" resp="ss">Cairo</unclear> in the latter
+part of the night where we staid till morning</p>
+            <p>Feb the 19th At 7 AM we left <unclear reason="illegible" resp="ss">Cairo</unclear> and
+<unclear reason="illegible" resp="ss">steamed</unclear> off up the <unclear reason="illegible" resp="ss">Mississippi</unclear> we traveled very slow as
+the ice was thick and floating down the River which much impeaded the progress
+of the boat Neare</p>
+            <pb n="43" facs="0012_003114_000201_0043.jpg" xml:id="d3e1007"/>
+            <p>51</p>
+            <p>Midnight we stoped at Cape <unclear reason="illegible" resp="ss">Gierrdeau</unclear> where we
+Remained untill the morning of the 20th when Resumed our course up the River At
+2 &apos;o clock of the morning of the 21st we landed at st. Louis Before it was farly
+light hundreds of citzen of the Citty were upon the bank to see us and it was no
+hard matter to discover a strong Sutheren sentiment among them espeshly among
+the ladies At one P.M. we set</p>
+            <pb n="44" facs="0012_003114_000201_0044.jpg" xml:id="d3e1018"/>
+            <p>52</p>
+            <p>out for the <unclear reason="illegible" resp="ss">Alton</unclear> Illinois where we landed at
+9 <del type="overstrike" hand="wsd">P.M. we set for At</del> P.M. and when
+marched to the cars where we bid adeau to our offercers and left for Springfield
+Illinois at which <unclear reason="illegible" resp="ss">placed</unclear> we
+arrived at sunrise of the 22nd and pressed on to Camp Butler five miles east of
+Springfield on the Greate Western Railroad</p>
+            <p>After being kept in prison about seven month We started for <unclear reason="illegible" resp="ss">Vixburg for exchange</unclear>
+            </p>
+            <pb n="45" facs="0012_003114_000201_0045.jpg" xml:id="d3e1040"/>
+            <p>53</p>
+            <p>September the 7th We got a board a trane of cares at Camp Butler From Camp to Springfield 6
+miles From Springfield to Alton is 70 miles From <del type="overstrike" hand="wsd">A</del> St Louis Masouri 27 to Stewart Illinoise and <unclear reason="illegible" resp="ss">Sulpher</unclear> Springs opposit on the
+Masouri <unclear reason="illegible" resp="ss">sidei</unclear> 20 miles From
+Stewart <unclear reason="illegible" resp="ss">Landind</unclear> to Saline
+Masouri 15 miles From Salene to Williamsburg Masouri 12 miles</p>
+            <p>From Willianburg</p>
+            <pb n="46" facs="0012_003114_000201_0046.jpg" xml:id="d3e1062"/>
+            <p>54</p>
+            <p>to St Mary Masouri 13 miles</p>
+            <p>From St Mary to Chester Illinois 8 miles From Chester to Liberty Illinois 15 miles</p>
+            <p>From Liberty to Cape <unclear reason="illegible" resp="ss">Jerido</unclear> Masouri 40 miles
+From Cape <unclear reason="illegible" resp="ss">Jerido</unclear> to Birds points
+Masouri 39 miles</p>
+            <p>From Birds Point to Cairo Illinois 1 miles From Cairo to Columbia Kentucky 26 miles From Columbus to <unclear reason="illegible" resp="ss">Hickman</unclear> Kentucky 18 miles</p>
+            <pb n="47" facs="0012_003114_000201_0047.jpg" xml:id="d3e1085"/>
+            <p>55</p>
+            <p>From hickman to Island 10 Tennessee 27 miles</p>
+            <p>From Island 10 to Point Pleasant Tennessee 9 miles</p>
+            <p>From Point Plesant to Fort Tennessee 9 miles Pillow From Fort Pillow to Fort <unclear reason="illegible" resp="ss">Randolph</unclear> Tennessee 10 miles From Fort
+Randolph to Memphis Tennessee 60 miles From Memphis to Hellena Arkances 90
+miles</p>
+            <pb n="48" facs="0012_003114_000201_0048.jpg" xml:id="d3e1100"/>
+            <p>56</p>
+            <p>From Hellena to <unclear reason="illegible" resp="ss">Priers</unclear> Point Mississippi 12
+miles</p>
+            <p>From <unclear reason="illegible" resp="ss">Priers</unclear> Point to Napolian Arkansas 80 miles</p>
+            <p>From Napolian to <unclear reason="illegible" resp="ss">Tounville</unclear> Missssippi 85
+miles</p>
+            <p>From <unclear reason="illegible" resp="ss">Tounville</unclear> to Lake Providence <unclear reason="illegible" resp="ss">Lousianina</unclear> 45 miles From Lake
+Providence to Vicksburgs Mississippi 75 miles</p>
+            <p>From Vixburg to Clinton 30 miles</p>
+            <pb n="49" facs="0012_003114_000201_0049.jpg" xml:id="d3e1131"/>
+            <p>57</p>
+            <p>From Clinton to Jackson Mississippi 10 miles From Springfield Illinois By the way of
+Vicksburg to Jackson is about 900 miles we started the seventh of September and
+landed at <unclear reason="illegible" resp="ss">Vixburg</unclear> the Monday the
+21st just being <unclear reason="illegible" resp="ss">14</unclear> day on the
+River</p>
+            <p>We landed at <unclear reason="illegible" resp="ss">Jackson</unclear> the 24th of September.
+It Rained that day and was very mudy and it was night when we got there and <gap reason="indecipherable" resp="Stone"/>
+            </p>
+            <pb n="50" facs="0012_003114_000201_0050.jpg" xml:id="d3e1151"/>
+            <p>58</p>
+            <p>on the platform at the <unclear reason="illegible" resp="ss">depo</unclear> at Jackson
+<unclear reason="illegible" resp="ss">the night</unclear> we got there On
+the 25th we moved into a lot <unclear reason="illegible" resp="ss">there</unclear> close to the <unclear reason="illegible" resp="ss">depo</unclear>
+            </p>
+            <p>On the 27th our offircers went to look out a campen place On
+the <unclear reason="illegible" resp="ss">28</unclear> we went one mile and a
+half from town we stade there three or four days and Reorgan-ize and then we had
+orders to strike tents and go on the other side of town there we stayed till the
+6th we got orders to <unclear reason="illegible" resp="ss">disw</unclear>
+            </p>
+            <pb n="51" facs="0012_003114_000201_0051.jpg" xml:id="d3e1177"/>
+            <note>[ Pages 59, 60, 61, 62 missing from the diary. ]</note>
+            <p>63</p>
+            <p>
+               <unclear reason="illegible" resp="ss">thing</unclear> march us about three miles from to into
+a nother portion of the Riffle pits there we stayed till the 15th we was orderd
+to march back to town We camped in a lot there untill the night of the 18th we
+was orderd to draw two days Rations and <unclear reason="illegible" resp="ss">kook</unclear> it up and be Ready to march by eight o&apos;clock the next
+morning we started for cold <unclear reason="illegible" resp="ss">water</unclear>
+            </p>
+            <pb n="52" facs="0012_003114_000201_0052.jpg" xml:id="d3e1196"/>
+            <p>64</p>
+            <p>on the morning of the 19th where we landed a little before sunset we eat hour humble meal and lay down being very tired we slept very well On the 20th we set up our tents on cold water about 6 miles from town On the 21st we com-menced drilling in Company <del type="overstrike" hand="wsd">company</del> drilled evry day untill the 23rd we drilled in a batalion drill</p>
+            <pb n="53" facs="0012_003114_000201_0053.jpg" xml:id="d3e1207"/>
+            <p>
+               <unclear reason="illegible" resp="ss">comm here</unclear> #</p>
+            <p> 65</p>
+            <p>on the that day there was a man shot in the 10th Tennesee Ridgement accidently by a man shooting a beef</p>
+            <p>on the 24th it turn cold and snowed and the leefs was green on the trees On the 26th it cleard off and there was a hard frost that killed evry thing</p>
+            <p>On the 27th and 28th we drilled in skermish drills on the 27th we drawed our uniform clothing</p>
+            <pb n="54" facs="0012_003114_000201_0054.jpg" xml:id="d3e1223"/>
+            <p>66</p>
+            <p>On the 29th we went out on the driller ground and had a generel Rolle call on that day Generel Loid Tilgman Receaved us in to his lands</p>
+            <p>On the first day of November we went about one mile and half to a Review</p>
+            <p>There was a good many spectators and there was a good many ladies to see us on</p>
+            <p> That day there was two</p>
+            <pb n="55" facs="0012_003114_000201_0055.jpg" xml:id="d3e1237"/>
+            <p>67</p>
+            <p>Brigads and <unclear reason="illegible" resp="ss">a</unclear> Texas legion There
+was a <unclear reason="illegible" resp="ss">brass</unclear> band to play for us
+while we was drilling in brigade drille</p>
+            <p>On the 2nd there was a generel
+insp-ection of arms Also on the 3rd we had another Generel Review where there was
+severel Generel Came out on the field where our Generel <gap reason="indecipherable" resp="Stone"/>
+            </p>
+            <p>Comanding the western division Received us </p>
+            <pb n="56" facs="0012_003114_000201_0056.jpg" xml:id="d3e1257"/>
+            <p>68</p>
+            <p>We came back to our tents very tired We kooked our supper and went to bed and about twelve oclock that night the <unclear reason="illegible" resp="ss">beaugle</unclear> was <unclear reason="illegible" resp="ss">blewed</unclear> for the ordilys to get up and draw three days Rations and we had to get up and kook them up by four oclock that morning</p>
+            <p>About four oclock we was orderd to strike tents and and <unclear reason="illegible" resp="ss">fix</unclear> up <unclear reason="illegible" resp="ss">our</unclear>
+            </p>
+            <pb n="57" facs="0012_003114_000201_0057.jpg" xml:id="d3e1278"/>
+            <p>69</p>
+            <p>kooking vessels and be Read to march at any minuit when <unclear reason="illegible" resp="ss">call</unclear> on the kooking vessels was full of doe and was hot and we
+had a time getting them to the waggons</p>
+            <p>We was then orderd to swing napsacks and
+get into line as quick as possibel and the Roll was called we staid in line
+sometime and then we broke ranks and lay around until four oclock that
+evening</p>
+            <pb n="58" facs="0012_003114_000201_0058.jpg" xml:id="d3e1291"/>
+            <p>70</p>
+            <p>Wen we was orderd into line againe and march down on our drill ground and us in a line of battle </p>
+            <p>We thought for the purpose of fighting as the pickets had been fighting for severel days</p>
+            <p>And then we was orderd to stack arms where we stayed untill next day About eleven oclock We was orderd to march but did not no where we was going We went in the direc-</p>
+            <pb n="59" facs="0012_003114_000201_0059.jpg" xml:id="d3e1303"/>
+            <p>71</p>
+            <p>tion of Hollowsprings We thought we was going into the Riffle pits but we march into town and stayed there untill dark and then we was orderd to march and we marched about six miles northeast that night</p>
+            <p>We stoped about ten oclock being tired we ate a little bredd and meat and lay down on the ground with out tents and slep very well</p>
+            <pb n="60" facs="0012_003114_000201_0060.jpg" xml:id="d3e1313"/>
+            <p>72</p>
+            <p>On the next day which was the 7th we was ordered to swing napsacks and get into line as quick as we could and be Ready to march</p>
+            <p>we started and went about one mile north from there and we was orderd to stop in the woods where we stade till the ninth On the eigth we was orderd to clean of our camping ground we thought we was a going to stay there severel days but</p>
+            <pb n="61" facs="0012_003114_000201_0061.jpg" xml:id="d3e1323"/>
+            <p>73</p>
+            <p>that night we was orderd to keepe our napsacks packed and Ready to march at a minuits warning</p>
+            <p>About two oclock on the morning of the ninth we was ordered into line and took up a line of to the southeast</p>
+            <p>we marched all day till after dark untill nine oclock that night About two oclock on the morning of the 10th we was orderd to get up</p>
+            <pb n="62" facs="0012_003114_000201_0062.jpg" xml:id="d3e1335"/>
+            <p>74</p>
+            <p>and be Reddy to march in ten minuits we started and went sout about nine miles that we stoped and stayed all night that and on the morning of the the 11th we was orderd to march eight miles east and we stoped on a little creak and staid untill the 13th We was orderd to march about one mile and a half south where we have got our tents we have not had a tent</p>
+            <pb n="63" facs="0012_003114_000201_0063.jpg" xml:id="d3e1343"/>
+            <p>75</p>
+            <p>since we left cold water which we left the 4th of November till the 13th it Rained on us the
+night of the 12th all night</p>
+            <p>we did not have a tent to go into only the hospittle
+tents and they was for the sick On the 14th there was nothing done in peticler
+on that day</p>
+            <p>On the 15th nothing done in petickler</p>
+            <p>On the 15th there was a detale
+<unclear reason="illegible" resp="ss">made</unclear>
+            </p>
+            <pb n="64" facs="0012_003114_000201_0064.jpg" xml:id="d3e1359"/>
+            <p>76</p>
+            <p>to go out and clean out Roads for the artilery to <unclear reason="illegible" resp="ss">pass</unclear> about</p>
+            <p>On the the night of the 16th the detale Return On the
+17th there was nothing done only Generel Loyde Tilman got wounded in the foot by
+a spent ball On the 18th there was 8 of Turners men came to him and we drilled
+in a batal-ion drill on the <unclear reason="illegible" resp="ss">19th</unclear>
+there was nothing of importence done</p>
+            <pb n="65" facs="0012_003114_000201_0065.jpg" xml:id="d3e1375"/>
+            <p>77</p>
+            <p>on the 20th there was nothing done only drilling and fortyfying On the 21 there was severel of our men came in that we left <unclear reason="illegible" resp="ss">behind</unclear> at camp Butler On the 21st captain Bunton <unclear reason="illegible" resp="ss">Return</unclear> from home nothing in peticler done on the 22nd On the 23rd one of our company died H. B. Cole our brigade was assign there possition in the Rifle pits</p>
+            <pb n="66" facs="0012_003114_000201_0066.jpg" xml:id="d3e1389"/>
+            <p>78</p>
+            <p>on the 24th there was nothing done in peticler On the 25th we was on detale a falling timber</p>
+            <p>On the 26th A captain J. L. Jones came back from Tennessee On the 27th there is still details to cut timber </p>
+            <p>On the 28th there is severel Redgement leaveing here but do not know where there a going On the 29th we are orderd to kook up this days</p>
+            <pb n="67" facs="0012_003114_000201_0067.jpg" xml:id="d3e1402"/>
+            <note>[ Pages 79, 80, 81, 82 missing from the diary. ]</note>
+            <p>83</p>
+            <p>On the 22nd there was a skermish drill in the <unclear reason="illegible" resp="ss">four
+part</unclear> of the day and brigade in the evening</p>
+            <p>On the 23rd we drilled in the skermish drill in the morning and in the evening brig-ade drill</p>
+            <p>On the 24th there was a Revew at Granada we all went and Jefferson Davis was there and a good
+many others Tylman Price <unclear reason="illegible" resp="ss">Greg</unclear>
+and while we was there was</p>
+            <pb n="68" facs="0012_003114_000201_0068.jpg" xml:id="d3e1424"/>
+            <p>84</p>
+            <p>orderd to detal 15 of each company to go back to camp <unclear reason="illegible" resp="ss">Lovel</unclear> and fetch our nap-sack out to town for we had to leave there
+Rite off On on the 25th Which was Cristmast day we got on the cars and did not
+<unclear reason="illegible" resp="ss">know</unclear> where we was going but
+we started towards Jackson When we got to Jackson we turned towards wicks-burg
+we knew where we was going we</p>
+            <pb n="69" facs="0012_003114_000201_0069.jpg" xml:id="d3e1438"/>
+            <p>85</p>
+            <p>new we was not done hereing the bombs yet we was <unclear reason="illegible" resp="ss">in hops</unclear> that we was going to Tennessee but We landed at Vicksburgs
+On the 26th we went to about one mile from camp</p>
+            <p>On the 27th we was orderd to go
+into the Riffle pits but we went out to Rein-force some others that was in the
+pits if the Yanks should be two hard <unclear reason="illegible" resp="ss">fror</unclear> them but they did not neede us that day we was orderd</p>
+            <pb n="70" facs="0012_003114_000201_0070.jpg" xml:id="d3e1454"/>
+            <p>86</p>
+            <p>to camp that knight</p>
+            <p>On the 28th we was orderd to go back to the Riffle pits but we did not
+get into any fight that day but the Yanks bombs us badly that day</p>
+            <p>On the 29th we
+was orderd to the Right to our position before day we went behind a hill and
+staide till ten or aleven Oclock when we was orderd away from there and sent to
+the sentir <unclear reason="illegible" resp="ss">our bat-</unclear>
+            </p>
+            <pb n="71" facs="0012_003114_000201_0071.jpg" xml:id="d3e1468"/>
+            <p>87</p>
+            <p>
+               <unclear reason="illegible" resp="ss">terys</unclear> Commenced to play on the Yanks about
+day light the Yanks soon Returned the complement and con-tinued it untill about
+Eleven oclock when the yanks came up to the third- and thirtieth Tennessee
+Redgements <del type="overstrike" hand="wsd">which</del> to make a charge but
+we made them skedadle we Run on them and took about four hundred prisners five
+stands of <unclear reason="illegible" resp="ss">collers</unclear>
+            </p>
+            <pb n="72" facs="0012_003114_000201_0072.jpg" xml:id="d3e1483"/>
+            <p>88</p>
+            <p>there was about eight thousand aganst eight hindred we took about twelve hundred stand of arms there was about 15-hundred Yanks killed and taken prisners there was but few of our men kill there was one of samples men killed in the fight</p>
+            <p>Mager Tucker of the Third Tennessee Reg</p>
+            <p>There was but few wounded. On the 30th there was nothing done only sharp</p>
+            <pb n="73" facs="0012_003114_000201_0073.jpg" xml:id="d3e1495"/>
+            <p>89</p>
+            <p>shooting and a few shells <unclear reason="illegible" resp="ss">throwe</unclear> from each
+battery. On the 31st there was sharp shooting from each side in the morning
+about Eleven oclock the yanks sent in a flag of truce to bury there dead our
+Generels gave them four hours to bury there dead</p>
+            <p>On the</p>
+            <p>Jenuary the 1st</p>
+            <p>there was nothing done on that day till evenig</p>
+            <pb n="74" facs="0012_003114_000201_0074.jpg" xml:id="d3e1512"/>
+            <p>90</p>
+            <p>Our men sent a few bombs over to them to let them know that we was still here and acasi-only one of our sharp shooters would send a messionger to tell them that we are still behind the ditches</p>
+            <p>January the 2nd When morning came it was found that the enemy had disappeared and soon after light our men left the works in persuit of them</p>
+            <pb n="75" facs="0012_003114_000201_0075.jpg" xml:id="d3e1522"/>
+            <p>91</p>
+            <p>but did not over take them till they had Reached there transports on yazoo River where they was protected by their gun-boats which opened on our men causing them to Return to there works</p>
+            <p>Generel Lee Returned his harty thanks to the soldiers and bid them go to the camps It com-menced Raining late in the evening and Rained on us all night</p>
+            <p>The Redgement got to camp about 9 P.M.</p>
+            <p>January the 3rd It is</p>
+            <pb n="76" facs="0012_003114_000201_0076.jpg" xml:id="d3e1536"/>
+            <p>92</p>
+            <p>still Raining The enemy have left this place</p>
+            <p>We get no war news to day of
+importence</p>
+            <p>January the 4th the Raine have ceaced the clouds have disappeard and the
+brillient Rays of the sun pours fourthe</p>
+            <p>News of the fight at Murfresboro con-furm
+in yesterdays paper January the 5th The <unclear reason="illegible" resp="ss">nonconscrips</unclear> order of <unclear reason="illegible" resp="ss">Releaing</unclear> those that are under 18 - <unclear reason="illegible" resp="ss">ovr</unclear> 40 years old all those discharge are going home</p>
+            <pb n="77" facs="0012_003114_000201_0077.jpg" xml:id="d3e1559"/>
+            <p>93</p>
+            <p>provided this <unclear reason="illegible" resp="ss">law</unclear> to be a good one The third
+and thirtieth was sepurated today <unclear reason="illegible" resp="ss">Apart</unclear> of our Brig-ade the third and fiftieth left to day for Port
+Hudson Louisiana Jenuary the 6th Day clear and windy</p>
+            <p>We get news to day that
+<unclear reason="illegible" resp="ss">Island</unclear> No 10 is evacuated by
+the enemy and that Jeff Tompson had taken new <unclear reason="illegible" resp="ss">madrid</unclear>
+            </p>
+            <p>Also that Morgan has been doing good servis in
+Kentucky At <unclear reason="illegible" resp="ss">2</unclear> P.M. today we
+broke up camps form and</p>
+            <pb n="78" facs="0012_003114_000201_0078.jpg" xml:id="d3e1586"/>
+            <p>94</p>
+            <p>marched through town down to the River where we embarked on board a boat. At ten P.M. we with the tenth Tennessee and two battery of artilley left for Port Hudson</p>
+            <p>Jenuary the 7th We are still moveing down the mipissippi Day cool Raw At 8 P.M. We Reached Port Hudson</p>
+            <p>January the 8th Day clear and cool this morning we was moved out to our camping ground one mile from town</p>
+            <pb n="79" facs="0012_003114_000201_0079.jpg" xml:id="d3e1598"/>
+            <p>95</p>
+            <p>close to the Rifle pits The fortifications seems very strong It commences Rain-ing in the evening and Rained all night</p>
+            <p>January the 9th It Rained all day and we have about enough old tents to keep our luggage dry our situa-tion is low and water bad which produces some dis satisfaction among the troops We get news that Bragg has fallen Back from Murfresboroug to Tullihoma also news that General Magruder</p>
+            <pb n="80" facs="0012_003114_000201_0080.jpg" xml:id="d3e1608"/>
+            <p>96</p>
+            <p>has taken Galveton Texas and distroyed three of the enemies boats with but little <unclear reason="illegible" resp="ss">loss</unclear>
+            </p>
+            <p>Jenuary the 10th It Rained all last night but has fored off to day No war news afoot</p>
+            <p>Jenuary 11th day pleasant no news of importince</p>
+            <p>Some talk of us going over into Texas Captain
+William Lovell arrived having left home about a month previous he says that our
+country looks very desolate and the people much <unclear reason="illegible" resp="ss">dijected</unclear>
+            </p>
+            <pb n="81" facs="0012_003114_000201_0081.jpg" xml:id="d3e1626"/>
+            <p>97</p>
+            <p>being overrun by the enemy</p>
+            <p>Jenuary 12th Clear day</p>
+            <p>Nothing going on except the usual occupation of camp</p>
+            <p>Jenuary the 13th looking like Rain. A Report prevails that the yanks have crossed the River
+at Batten Rough and are aiming to <unclear reason="illegible" resp="ss">pass up</unclear> the River Intinding to cut off the communica-tion of Red River which enters into the Misipippi 30 miles above Port Hudson</p>
+            <pb n="82" facs="0012_003114_000201_0082.jpg" xml:id="d3e1643"/>
+            <p>Jenuary the 14th Raining to day The boys <unclear reason="illegible" resp="ss">put</unclear>
+to keep dry shelter <unclear reason="illegible" resp="ss">sorces</unclear> and tents bad</p>
+            <p>Jenuary the 15th still Raining some but has turned cooler in fact is cold wether for this con-try Get a paper to day giving an account a Report of the Battle of Murpresboro It was one of the bloodiest battle of the war</p>
+            <p>Jenuary the 16th The clouds have passed off and the weather cool There seems to be a</p>
+            <pb n="83" facs="0012_003114_000201_0083.jpg" xml:id="d3e1659"/>
+            <note>[The remaining pages and back cover are missing from the diary.]</note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000590_000203_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Order to Sell Cherokee Lands
+					<name/>
+               <date when="1836-12-24">1836 Dec 24</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000590_000203_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Order to Sell Cherokee Lands 1836 Dec 24</title>
+          <date when="1836-12-24">1836 Dec 24</date>
+          <author>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">William Holland Thomas and James Robert Thomas Collection</note>
+          <note type="manuscript">MS.2072</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Cherokee Indians -- Biography.</term>
+          <term>Cherokee Indians -- History.</term>
+          <term>Confederate States of America. Army -- Biography.</term>
+          <term>Soldiers -- Confederate States of America -- Biography.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e36">
+        <pb n="1" facs="0012_000590_000203_0001.jpg" xml:id="d4e37"/>
+        <p>S Caronlina</p>
+        <p>Haywood County</p>
+        <p>In Pursuance of an order of the <unclear reason="illegible" resp="AH">County</unclear> Court of said County directing the made in what the surveyed Cherokee Ladns (Granted to said County by an act of the General Assembly Passed one Thousand Eight Hundred Thirty-five) are to be sold I do hereby certify that William Thomas Became the Purchaser of Lott no 94 District no 1 Containing fifty acres of <unclear reason="illegible" resp="AH">third</unclear> Quality Signed by order of Court</p>
+        <p>Decr the 24  1836</p>
+        <p>
+          <unclear reason="illegible" resp="AH">LS Dilliard Chur</unclear>
+        </p>
+        <p>
+          <unclear reason="illegible" resp="AH">Emcous ten 666746</unclear>
+        </p>
+        <pb n="2" facs="0012_000590_000203_0002.jpg" xml:id="d4e59"/>
+        <p>Law Certified</p>
+        <p>
+          <unclear reason="illegible" resp="AH">for law</unclear>
+        </p>
+        <p>in <unclear reason="illegible" resp="AH">Halson</unclear>
+            </p>
+        <p>co</p>
+      </div>
+    </body>
+  </text>
+</TEI>

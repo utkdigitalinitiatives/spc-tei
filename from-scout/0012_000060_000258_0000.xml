@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000258_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name> J. Crozier Ramsey </name> in Nashville, Tenn., to Mrs. E.A.R. Breck 
+in Charlotte, N.C. <date when="1865-08-05"> 1865 August 4 </date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. Crozier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000258_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. Crozier Ramsey in Nashville, Tenn., to Mrs. E.A.R. Breck in Charlotte, N.C. 1865 Aug. 4</title>
+               <date>1865-08-04</date>
+               <author>
+                  <name>Ramsey, J. Crozier</name>
+               </author>
+               <extent>7 digital images; 6 pages, 1 envelope</extent>
+               <note type="abstract">1865 Aug. 4 J. Crozier Ramsey, Nashville, Tenn., to his sister, Mrs. E.A.R.
+Breck, Charlotte, N.C. Expresses happiness that his parents are taking
+defeat and loss of property well. News that he has entered the practice of
+law. Encloses his business card. Information for the members of his family
+concerning the advisability of their returning to Knoxville. Reports that
+sentiment against Confederate sympathizers is still strong in Knoxville.
+Mentions their applications for pardons, his attempt to find a position for
+McKnitt, and Margaret Jane&apos;s new husband. Finds equal treatment of both
+Union and Confederate sympathizers in Nashville. </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Quality of life -- Tennessee -- History -- 19th century.</term>
+               <term>Family -- Employment -- History -- 19th century.</term>
+               <term>Peaceful coexistence -- Tennessee -- History -- 19th century.</term>
+               <term>Tennessee -- Politics and government -- 19th century.</term>
+               <term>Knoxville -- Politics and government -- 19th century.</term>
+               <term>Ramsey, J. Crozier (John Crozier) d. 1868 -- Correspondence.</term>
+               <term>Ramsey, J. Crozier (John Crozier) d. 1868 -- Health.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000060_000258_0001.jpg" xml:id="d3e159"/>
+            <p>Mrs. E.A. R. Breck</p>
+            <p>Charlotte</p>
+            <p>N.C.</p>
+            <p>Via Richmond Va</p>
+            <pb n="2" facs="0012_000060_000258_0002.jpg" xml:id="d3e173"/>
+            <p>Nashville Ten Auugust 4th</p>
+            <p>My Dear Sister</p>
+            <p>I was please to receive your very kind letter by to-days mail and was very glad to hear that Papa and Ma are
+well and that they stand our defeat and their loss of property with Christian fortitude that is as it should be, but
+few persons of their age could have stood the troubles and trials they have had with such fortitude. I have no
+doubt but what we all by industry and energy will be enabled to get along comfortably and happy yet, and after things
+get quiet may be able to recover their property, if not we can get along very well without it I was also pleased to learn
+that <unclear reason="illegible" resp="bds">Ehisk</unclear> Robert and Mark were well you did not say any thing about Susan,
+but I <unclear reason="illegible" resp="bds">presume</unclear> she is well. I have commenced the practice</p>
+            <pb n="3" facs="0012_000060_000258_0003.jpg" xml:id="d3e191"/>
+            <p>of my profession and have had some business I am boarding with Uncle William, they are all very kind to me, my health
+has improved though I am still weak, the walk however in the morning and evening I think will be of service to me
+<unclear reason="illegible" resp="bds">soon Tenes</unclear> I have no doubt will pay your coupons when presented, but I would
+not have the money sent by mail, if the Express is running as far as Charlotte, have it sent that way. I am at a great
+to know how to advise you all I am like you I have a great distaste for East Ten but I dont think that their would be
+any impropriety in you and Mack returning to Knoxville on a visit and see if you cant get your property back and then
+rent or sell it. I suppose you could get transportation. Mr Simmons and Dr Hall are both living here I spoke to Mr S if he
+could not get Mack employment as a clerk here</p>
+            <pb n="4" facs="0012_000060_000258_0004.jpg" xml:id="d3e202"/>
+            <p>he said he thought he could. I told him that I did not know whether he had employment or <unclear reason="illegible" resp="bds">weather</unclear> he would like to come here he told me to write to him and if he wanted a situation he
+would try and get him one see Mack about it It will not be safe for Robert to come to Tennessee at present. I will let
+know when to come if he wants to return. Their are some cases pending in the State and Federal Courts at Knoxville against
+me expect I will be compelled to be there in October or November to attend to them. I will however try to have them arranged
+without having to go there. I have much appreciation for <unclear reason="illegible" resp="bds">Pardon</unclear> and my
+papers are in charge of Judge Patterson (the Presidents son in law and M.S. Senator from Ten) He is a particular
+friend of mine and visited me while imprisoned at Knoxville I saw him a few days ago as he was going on to Washing</p>
+            <pb n="5" facs="0012_000060_000258_0005.jpg" xml:id="d3e216"/>
+            <p>ton and had a long conversation with him he also agreed to take charge of Papas case he seems to think that we will
+have no dificulty in getting them through. I expect to hear from him in a week or two about our applications and will
+let Papa know the result of his application. Uncle <unclear reason="illegible" resp="bds">Carrick</unclear> and family
+passed through here a few weeks ago on their way to Clarksville Ten they have settled there and I hear that he is getting
+some practice. I frequently hear from Knoxville and see every day or two some one from the place the sentiment is still bad
+and outrages are still committed upon Southern men No prominent Southern men have returned and what are there are making
+arrangments to leave</p>
+            <p>I get letters from M.J. (my Sister) most every week she is well as to her marrage I presume she is satisfied with it and of
+course I am I hope she Mr McKnitt will make her a kind and an affect</p>
+            <pb n="6" facs="0012_000060_000258_0006.jpg" xml:id="d3e229"/>
+            <p>ionate husband She has had a hard time of it few women could have gone through what she has She was very devoted to me
+while I was in prison there and was of great service to me</p>
+            <p>She writes me some very good letters (one of the very best I ever received) I am saving it to show it to you all She is a
+Christian and a noble woman What a great pleasure it would be to us all if we were all living near each other. I dont know
+how Pap would like to live in East Ten again but I have no doubt but what he could live in comfort and with more
+<unclear reason="illegible" resp="bds">care</unclear> on Margaret Janes place than any other. I have not doubt but what
+it would be perfectly safe for him there (after while) No one would do him any personal</p>
+            <pb n="7" facs="0012_000060_000258_0007.jpg" xml:id="d3e242"/>
+            <p>harm the class of man that are committing them these outrages are worthless and the moral men of the country are doing
+all they can to put a stop to it public sentiment will soon correct the outlaws I doubt the propriety of a man of his age moving
+to a new country among strangers unless he had means these are questions for future considerations you are all
+<unclear reason="illegible" resp="bds">quaintly situated</unclear> and it is best to <unclear reason="illegible" resp="bds">wait</unclear>
+patiently until the country becomes settled and peace entirely <unclear reason="illegible" resp="bds">returned</unclear> and then
+we can better judge as to what will be the best. What a great contrast between this peace place and East Ten here their is now now
+distinction between Union and Southern men that is as it should be. I often think of you all with the kindest of feelings and would
+be pleased to be with you all once more and I hope I may be able to do so some time. Remember me kindly and affectionately to all
+Will be pleased to hear from you all often</p>
+            <p>Yours truly</p>
+            <p>J.C. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

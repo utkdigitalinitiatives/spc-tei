@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000215_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio,
+<date when="1864-01-03">
+1864 January 3
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000215_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to Sarah Probert in Pittsfield, Ohio, 1864 January 3</title>
+               <date>1864-01-03</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>5  digital images;  1 envelope, 4 pages.</extent>
+               <note type="abstract">In this letter, dated January 3, 1864, from John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins complains that changes in the mail route have resulted in a decrease in letters from home. He writes also of General Foster&apos;s order to stabilize prices and the anger it has caused among Knoxville merchants. He points out that local farmers have also come into town, complaining that the Confederate occupation of the area has left them nearly &quot;destitute.&quot;</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Letter mail handling -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Merchants -- Economic conditions -- 19th century.</term>
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Watkins, John, b. 1839 -- Correspondence.</term>
+               <term>United States. Army. Ohio Independent Light Artillery Battery, 19th (1862-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000074_000215_0001.jpg" xml:id="d3e157"/>
+            <p>Jan 3rd 1864</p>
+            <p>Miss Sarah J Probert</p>
+            <p>Pittsfield Swain Co</p>
+            <p>Ohio</p>
+            <pb n="2" facs="0012_000074_000215_0002.jpg" xml:id="d3e171"/>
+            <p>Knoxville Tennessee Sunday Jan 3d 1864</p>
+            <p>My darling Sarah</p>
+            <p>Well I hardly know how to commence a letter to you this morning, for the want of something to write. I dont believe that I should be at a loss for something to say if I was where I could sit down by your side and talk to you this morning. but somehow I cant go right to work and put my thoughts down on paper as well as i would talk them off. perhaps one reason for it is, I have not had any letters from you or anybody else for that matter very lately to answer. and consequently have no questions to answer, and seemingly nothing to write about. but for all that I must write to you anyhow. I suppose the reason we have had no mail for some time back is the changing of the route. I have heard that the authorities are about to discontinue the route over the mountains from Ky by the way of Cum Gap for hauling supplies and of bringing the mail and that from now our supplies and everything else will come via Louisville Nashville and Chattanooga by rail. they calculate to have the road between here and Chattanooga in running order by the 10th of this month if possible, and I hope they will. and I know of any other reason why our mail has not got</p>
+            <pb n="3" facs="0012_000074_000215_0003.jpg" xml:id="d3e183"/>
+            <p>along before this. we are having some pretty cold weather here jest now. we had quite pleasent weather up till last thursday night. along in the evening it began to rain and I tell you the old year went out a howling and the new one came in after the same fashion. I was on guard from 11 till 12 and then the wind was blowing a gale and in a little while after it turned round cold and by daylight everything was froze up tight. and oh what a bitter cold day New Year&apos;s day was. a real sharp cutting wind blowing all day. it seemed to blow right through a person. that evening the wind went down and it did not seem so cold although it froze very hard that night. yesterday it was a still cold day. this morning it has moderated some. there is but very little going on here to break the quiet that has hung over us for 3 or 4 weeks. last week one day we were all quite anxious to know the cause of some firing from a Battery on the east side of town they fired some duzzen sounds and then stopped. but we afterward found out that they were firing a salute for Major Gen&apos;l Grant as he was coming in on the cars. Gen&apos;l Foster who is in command here now issued an order the other day regulating the prices on everything which has made what few store keepers there is here pretty huffy, and they have closed up there stores and wont sell anything. what action the authorities will take next I am quite anxious to know. they ought to make them sell</p>
+            <pb n="4" facs="0012_000074_000215_0004.jpg" xml:id="d3e191"/>
+            <p>or confiscate there stuff. one dollar and a half for very poor butter a pound is pretty huge. that has been put down to 75 cts. flour 4 cts a pound cornmeal 3 and everything else in proportion. he also docked the sutlers on there prices. that vexes them some I tell you. we dont hear anything yet from the front of any account, which I consider very strange. they have also got the smallpox in town but to what extent I dont know. I hope not very bad. I wish Sarah I could get a letter from you if it was possible this morning late enough to know what kind of a time you had Christmas and New years, but it will be some time before I shall get a letter late enough for that. I have no doubt that you had a very pleasent time either at home or among some of the rest of the folks. we had to use the days jest as all the rest. but if I thought of home once I&apos;ll bet I did a hundred times. and I wish that I was there or at least be there to spend next Christmas. and if we are as successful next year as we have been this I rather guess we shall spend the lovely days at home together. but darling I wish I could see you before that. oh how I would like to be up there for a few weeks. or long enough to have a good long visit what good times we would have together. we could use up a good deal of time talking of the past and what had been going on since we last saw each other</p>
+            <pb n="5" facs="0012_000074_000215_0005.jpg" xml:id="d3e199"/>
+            <p>and plan for the future. but I imagine the time would go off <gap resp="J.H."/> fast altogether. I suppose there is plenty of snow for the folks all to ride around on by this time. or at least I should think there would be by this time. we have not had any snow here yet and I wont be a bit sorry if we dont have an inch this winter. for it will only help make it more disagreeable for us situated as we are, than to have it stay away. we have had considerable rain here once or twice this last month and the pontoon bridge has been carried off twice. this last storm we had took it off and it jest been laid down. the farmers coming in from the country along back lately tell about the rebels stripping them of almost everything while they were around here horses cattle and provision, leaving them almost destitute. one day last week there was a man in town that had some papers that he had got from the north someway, selling them. they were about a week old. he only asked 40 cents a piece for them and sold them quite rapid at that. so you see what a little news costs us. but I must close. with my love the same for you as ever and true.</p>
+            <p>Yours affectionately</p>
+            <p>John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

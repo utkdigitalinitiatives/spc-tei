@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000214_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds,</name>
+				                  in Camp Laurel, Md., to Ellen Smith in Jackson, Tenn.,<date when="1918-03-20">1918 Mar. 20</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds,</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000214_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds, in Camp Laurel, Md., to Ellen Smith in Jackson, Tenn.,1918 Mar. 20</title>
+          <date when="1918-03-20">1918 Mar. 20</date>
+          <author>
+            <name type="person">James L. Dodds,</name>
+          </author>
+          <extent>8 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000214_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith,</p>
+        <p>111 Hatton Street,</p>
+        <p>Jackson,</p>
+        <p>Tenn,</p>
+        <pb n="2" facs="0012_001303_000214_0002.jpg" xml:id="d4e49"/>
+        <p>From J.L. Dodds</p>
+        <p>Co L. 23th Engineers,</p>
+        <p>Laurel Md.</p>
+        <pb n="1" facs="0012_001303_000214_0003.jpg" xml:id="d4e57"/>
+        <p>Camp Laurel</p>
+        <p>March 20 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Well I have waited several days for a letter from you but I havent heard a word. I wrote to you about two weeks ago did you get it  I wrote some letters that got lost I guess I never here from them</p>
+        <p>We sure are having some fine weather here now</p>
+        <pb n="2" facs="0012_001303_000214_0004.jpg" xml:id="d4e69"/>
+        <p>but I cant get out to enjoy it. I would give any thing just to get out of this place a little while  I havent even seen a picture show since I enlisted</p>
+        <p>I know I could enjoy any thing in the way of amusement if I only had a chance  But all I can do is to drill one day and work the next</p>
+        <p>The same thing over and over until I am so tired of it dont know what to do</p>
+        <pb n="3" facs="0012_001303_000214_0005.jpg" xml:id="d4e77"/>
+        <p>3</p>
+        <p>When I first got here they let me shoot some and I liked that but I dont get that any more  I couldent hit the side of a house so I guess they gave it up as a bad job.</p>
+        <p>So if a Dutchman got in my way he wont be in any danger at all unless it is an accident  </p>
+        <p>What do they have for amusement in the city now? About the same old thing I guess  Is the Marlow still running I guess if it is they have better shows than they use too</p>
+        <p>I guess Esther is a married woman now. I havent heard from any body since she was to be married but I guess they made it  </p>
+        <p>Will they live in Bham or will Cecil try to get a job in Jaxon  I thank that would be the best way to do and then Esther wouldent have to go away</p>
+        <p>Write me all about the wedding and how pretty ever thing was</p>
+        <pb n="4" facs="0012_001303_000214_0006.jpg" xml:id="d4e93"/>
+        <p>4</p>
+        <p>and about Mrs. Williamson shedding tears cause I know she did and how about you? I bet you miss her almost as bad as her mother did.</p>
+        <p>Cause I could look out the window most any time and see you both crossing the street either from your house or to Mrs. Williamsons</p>
+        <p>Wont seem right if I ever get back and dont</p>
+        <pb n="5" facs="0012_001303_000214_0007.jpg" xml:id="d4e103"/>
+        <p>5</p>
+        <p>see you that way then you both maybe gone by that time though cant never tell  But I hope not any way</p>
+        <p>Say you ask Bernard if he ever sent Orr watch to him. He is afraid it has been lost  He sent the money to Richard Lane and told him to see Bernard and get his watch and send it to him</p>
+        <p>He has never heard a word from Richard and dont know wheather he got the money or not</p>
+        <pb n="6" facs="0012_001303_000214_0008.jpg" xml:id="d4e113"/>
+        <p>6</p>
+        <p>Well I got my railroad passes the other day (I dont know wheather I ever told you or not but I requested passes from here home and they are here) but dont guess I will get to use them now</p>
+        <p>As soon as they came I went up and had a chat with My Captin about going home and he said there was nothing doing  So I call that hard luck dont you? If I dont leave too soon I may still get to come though</p>
+        <p>Well I have got to wash my supper dishes which consist of one tin pan knife fork spoon and tin cup guess by the time I get through will be time to go to bed  Dont you thank I would be tired after a job like that</p>
+        <p>Well take a day off and write Me all the news you can thank of and do it real soon</p>
+        <p>The same old boy</p>
+        <p>James L Dodds</p>
+        <p>Co L. 23th Engineers  Laurel Md.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

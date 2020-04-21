@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000225_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">William</name> in <name type="place">MacDonalds Station, Tenn.</name> to to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-05-15">1865 May 15</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>          
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000225_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William</name> in <name type="place">MacDonalds Station, Tenn.</name> to to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-05-15">1865 May 15</date>
+               </title>
+               <date when="1865-05-15">1865 May 15</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>5 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>            
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>        
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-16" who="ty">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>      
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>         
+         <div type="letter" xml:id="d2e206">
+            <pb facs="0012_001356_000225_0002.jpg" n="1" xml:id="d2e208"/>
+            
+            <opener>
+               <dateline>
+                  <date when="1865-05-15">monday may 15 1865 1865</date><lb/>
+                  <choice><orig><name type="place">Mac Doanalds Station</name></orig><corr><name type="place">MacDonalds Station, Tenn.</name></corr></choice> East Tenn
+               </dateline>
+            </opener>
+            
+            <p>my dear wife I received your kind and wellcome letter and I was glad to heare that you was all well when you wrote to me last of wich I thank god youre letter found me pretty well considering I have had very bad colde on my <choice><orig>longes</orig><corr>lungs</corr></choice> since I laste wrote to you my longs are very worse now the weather is so Horryable the days are so hot and the nights are so cold and we all have to sleep under canvas tents my dear when we got up last friday moring and came out of our tents in the it look as wite as snow all the wad so cold that we had to put on our overcoats our camp is still at mac Doanaldes Station we dont expect to stay heare any longer then the first of June</p>
+            
+            <pb facs="0012_001356_000225_0003.jpg" n="2" xml:id="d2e237"/>
+            <p>mr King should not done so more but tell him it cannot be helped no my dear and loveing wife I want to come home to see you I longe to see you and my dear austin and alfred and my dear henry I gan would not wish me to stay heare if I was sick I can get worke if I come home my dear wife if stay here my longes will get worse instead of beter I shall aske mr mearse for time the first day of June my three months are out and if the Blessed Lorde gives me my Ealth and strengeth I will be home by the middle of June if nothing happens to me I will be happey to see yuo all again if if the Lorde alfred stayes at nashvill until I call and see if he wants to come with me he can alfred acts very unkind to me I wrote two letters to him and he never answered on of them yet I wrote one the 16 of april</p>
+            
+            <pb facs="0012_001356_000225_0004.jpg" n="3" xml:id="d2e243"/>
+            <p>in care SC mears <name type="place">Chattanooga Tenn</name></p><!-- The preceding paragraph belongs in the <dateline>, which spanned the entire width of the folded sheet of paper on which this letter appears.  -->
+               <p>and one last week but I hope he is well at this time now if I the cold get some medson to take I should feel better in a few dayes there is no docter here now to docter nobody live of die without withougt sending to Chattanooga my dear wife I was sory to heare the deth of John Depew and you saide mr sebey I did not know what mr sebey you ment was it mr sebey on <unclear reason="illegible" resp="NL">okistred</unclear> wich I used to fix the garden for my dear Lisey I will write to you again beteen now and the first of June before I start for home and then I will tell you all the particklers about comeing home Please to give my kind respects to mr and mrs culey and I hope they all well and mr and mrs King my dear Lisey I ham writing in the tent and it is so hot there to Day
+                  
+            <pb facs="0012_001356_000225_0005.jpg" n="4" xml:id="d2e256"/>
+            that is bad for a poor <unclear reason="illegible" resp="NL">Louler</unclear> that are wellks the heate tase greate efecte of me here but I my my dear wife I shall soon be home with you and kiss you once again my dear love was a good many miles apart but never the worse for that my wife I ham 1400 miles from Binghamton now but I shall hope to come backe again to see you all as soon as I can my dear wife please to me again when you get this letter I must conlclude with my kindest love to you now with love to austing and my dear henry I ham glad he gose to school and learns is little book kiss him for me and one kiss from me to you my dear wife Lisey sent you few leaves oa rose dont you thinke they looke nice <unclear reason="illegible" resp="NL">Libeyfor</unclear> I do dow them to susan the roses here are <unclear reason="illegible" resp="NL">ansomeculis</unclear> I ever see tell austin there is a young man working here is name is marcel camine you know ho he is Brother to Erney bliss and he is well</p>
+         </div>
+      </body>
+      <back>
+         <div type="envelope" xml:id="d2e272">
+      <pb facs="0012_001356_000225_0001.jpg" n="5" xml:id="d2e274"/>
+      <p><address>
+               <addrLine>Mr Austin H Smith</addrLine>
+               <addrLine>Binghamton</addrLine>
+               <addrLine>Broom County N.Y.</addrLine>
+               </address></p>
+         </div>
+      </back>
+   </text>
+</TEI>

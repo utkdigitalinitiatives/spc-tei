@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, to <name type="person">Alfred
+               Smith</name> in <name type="place">Nashville, Tenn.</name>, <date when="1865-05-22">1865 May 22</date>
+            </title>
+            <author>
+               <name>Smith, Eliza</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_001356_000205_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, to <name type="person">Alfred
+                  Smith</name> in <name type="place">Nashville, Tenn.</name>, <date when="1865-05-22">1865 May 22</date>
+               </title>
+               <date when="1865-05-22">1865 May 22</date>
+               <author>
+                  <name>Smith, Eliza, 1839-1912</name>
+               </author>
+               <extent>5 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>         
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">               
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>         
+         <change when="2013-07-16" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank 
+            pages. Added resp attributes to editorial changes, and added name tags.
+         </change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e206">
+            <pb facs="0012_001356_000205_0002.jpg" n="1" xml:id="d2e208"/>
+            <!-- The text that appears at the top of the page is the postscript to the letter, and was placed within that corresponding element, at the end to mantain a valid document. This was documented with <note place=> -->
+            
+            <opener>
+               <dateline>
+                  <name type="place">Binghamton</name> <date when="1865-05-22">May 22</date>
+               </dateline>
+               <salute>my dear son</salute>
+            </opener>
+            
+            <p>It is with pleasure that i rite these few lines to you hoping they will you in good health in answere to your kind and welcome letter that i received from you May 20 and was glad to here that you was well as bless god it leaves us all well we are had bad colds but we are getting over them my dear boy  you wanted to know if father had said in his letterswhen he cepted to come home he rote to me about two weeks ago and he said they expected to be discharged on the first of june and i hope you will come home with him and if you dont when you get your pay be sure get Mr Curtis to go with you to Actams express company offices and send your
+               
+               <pb facs="0012_001356_000205_0003.jpg" n="2" xml:id="d2e229"/>
+               money home to me it will not be safe for you to bring that money home yourself take out a enought for your ure to bring you home as you will get a pass to come home no doubt and then be sure send the rest home i will take good care of it for you  there is so maney robereys ever day it makes one afraid  i am rite for your father to do the same it will be the safes way it would be very hard for you to lose all you money after working so hard for it  dont send it by the post there is so much lost send it by AAams express  father was not very well when i heard from him  Austin send his kind love to you and he was
+               
+               <pb facs="0012_001356_000205_0004.jpg" n="3" xml:id="d2e231"/>
+               dreadfull pleased with his ring and shield he was much obliged to you for them he long to see you he is counting of the time of you coming home  Henery send his love to hattey and he cried because there was nothing for him and he hopes you will bring him some little shells and if you can bring me a couple of shells from the south i should like them  work is not so dull after all at binghamton  pat foley send his best respect to you pat is working for george how long with Austin  this day i have a letter from your father and he says you are unkind for not answering his letters he is rote two letters and
+               
+            <pb facs="0012_001356_000205_0005.jpg" n="4" xml:id="d2e233"/>
+               you are not answering one of them besure my dear child rite to him i am afraid you are not had thes the direction is</p>
+            <p>
+               <address>
+                  <addrLine>William Smith</addrLine>
+                  <addrLine>Chattenooga tenesse</addrLine>
+                  <addrLine>care S C Mearers</addrLine>
+                  <addrLine>Box 24</addrLine>
+               </address>
+            </p>
+            <p>father says he shall come home in june  he will ask for his time the first of june and he thinks he shall be home the middle of june and he say he shall call for you at Nashvill and i hope you will come with fathere if you can stop till then  it will be the safesty way  rite to me as soon as you can and send me word what you shall do i have sent you a few stamps   about coming home</p>
+            
+            <closer>
+               <salute>So i must conclud good by god bless my dear boy a kis from me your mother</salute>
+               <signed>Eliza smith</signed>
+            </closer>
+            <postscript>
+               <p><note place="overleaf top">take care of your blanket and bring it home and buy a nother if you can</note></p>
+            </postscript>
+         </div>
+      </body>
+      
+      <back> <div type="envelope" xml:id="d2e278">
+         <pb facs="0012_001356_000205_0001.jpg" n="5" xml:id="d2e280"/>
+         <p>BINGHAMTON</p>
+         <p>MAY</p>
+         <p>23</p>
+         <p>N. Y.</p>
+         <p><address>
+               <addrLine>henry</addrLine>
+               <addrLine>Mr Alfred Smith</addrLine>
+               <addrLine>Nasville</addrLine>
+               <addrLine>Tenn</addrLine>
+               <addrLine>Box 487</addrLine>
+            </address></p>
+      </div>
+      </back>
+   </text>
+</TEI>

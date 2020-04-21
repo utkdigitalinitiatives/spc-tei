@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000551_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Annette Ramsey</name>
+ in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1890-08-18">1890 Aug. 18</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Annette</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000551_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Annette Ramsey in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1890 Aug. 18</title>
+               <date>1890-08-18</date>
+               <author>
+                  <name>Ramsey, Annette</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 pages.</extent>
+               <note type="abstract">1890 Aug. 18, Annette Ramsey, daughter of Robert Ramsey, Huntersville, N.C., to her aunt, Elizabeth Ramsey Breck, Knoxville, Tenn. Account of her housekeeping while her mother and sister are gone and of her poor health and teaching during the summer. Thanks her aunt for her kindness to them. Discusses her sister&apos;s going to live with Lizzie and her own desire to come. Mentions the effect which her father&apos;s death had upon her. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Parents -- Death -- Psychological aspects. </term>
+               <term>Women caregivers -- Psychological aspects.</term>
+               <term>Huntersville (N.C.) -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, Annette -- Anecdotes.</term>
+               <term>Ramsey, Robert McGready, 1832-1890 -- Death and burial.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000551_0001.jpg" xml:id="d3e151"/>
+            <p>Mrs E.A.R. Breck</p>
+            <p>Knoxville</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000551_0002.jpg" xml:id="d3e163"/>
+            <p>Huntersville N.C.</p>
+            <p>Aug. 1890</p>
+            <p>My dear Aunt,</p>
+            <p>I have been intending to write to you for some time but concluded to wait until I got home.</p>
+            <p>I am keeping house now, as Ma has gone to Grandma&apos;s on some business and Andie is visiting.</p>
+            <p>I had company to day for dinner and I was a little worried when I got it all through but have written three letters since and have two postals and one more letter to write. Ma wants to hear this eve and I am writing for Andie to come home</p>
+            <p>I have been working hard this summer for I find teaching any thing else essays. besides I have been sick a good</p>
+            <pb n="3" facs="0012_000060_000551_0003.jpg" xml:id="d3e183"/>
+            <p>deal, not down in bed but feeling bad all the time.</p>
+            <p>You have been very very kind to us. I never will forget it and will try in a measure to repay you by living such a life that even my father&apos;s people will not blush to own me.</p>
+            <p>Ma says you want Bart to go stay with you. You know how hard it will be for us to give her up but I would never say a word against it for I know it will be for her benefit.</p>
+            <p>I will go with her, if you care to have me, to visit you. I will be glad to see you again.</p>
+            <p>I have been away from home ever since the day Pa was buried, perhaps it was selfish in me to leave, but I could not stay.</p>
+            <p>I had nursed him so long, and was so used to his being there in bed that</p>
+            <pb n="4" facs="0012_000060_000551_0004.jpg" xml:id="d3e201"/>
+            <p>I could not stay when he did not need me any longer.</p>
+            <p>I know you have had more trouble than I but I do not think it could have been the same to you that it was to me.</p>
+            <p>It changed me from one of the liveliest most contented person around to one of the saddest and most discontented.</p>
+            <p>I do not want to stay one place two days without wishing I was in another.</p>
+            <p>Please skip over the sad part of this letter and remember only the pleasant things I have to say. We are doing fine now I can cook very well all but bread, and have plenty of time to read as I do not visit any at all.</p>
+            <p>I have not seen any of Uncle Dave, but I have only been home one day.</p>
+            <pb n="5" facs="0012_000060_000551_0005.jpg" xml:id="d3e219"/>
+            <p>Bart says it is near train time so I must close.</p>
+            <p>Bart says she want to to go stay with you, she thinks she will like it.</p>
+            <p>Give my love to Uncle Mack, and Aunt Mag and all.</p>
+            <p>In haste, your loving niece</p>
+            <p>Annette Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

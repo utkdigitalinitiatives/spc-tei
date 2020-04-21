@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000217_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Clement Biddle</name>
+				                      in Robbin Hood Hill to Charles Pettit, Esq., in Philadelphia, Pa.,<date when="1799-09-22">1799 Sept. 22</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Clement Biddle</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000217_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Clement Biddle in Robbin Hood Hill to Charles Pettit, Esq., in Philadelphia, Pa.,1799 Sept. 22</title>
+               <date when="1799-09-22">1799 Sept. 22</date>
+               <author>
+                  <name type="person">Clement Biddle</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000217_0001.jpg" xml:id="d4e39"/>
+            <p>Charles Pettit Esquire</p>
+            <p>President of Ins. Co. N Am.</p>
+            <p>Philadelphia</p>
+            <note type="transcription">The following text is a continuation of the first page of the letter.</note>
+            <p>Sept 22 1799</p>
+            <p>Clement Biddle</p>
+            <pb n="2" facs="0012_002414_000217_0002.jpg" xml:id="d4e53"/>
+            <p>Robbin Hood hill Sept 22, 1799</p>
+            <p>DrSir</p>
+            <p>Jhn Day Recd. Orders from M. Adam Gilchrist President of the Branch bank in Charleston South Carolina at whose insistance
+			           I made  The Insurance form. Desaupine to make this Insurance for his friend Joshua Ward Esq. ageeably to the memorandum inclosed &amp;
+				   M. Gilchrist adds not doubling it will be Come on as good terms and better<unclear reason="illegible" resp="pw">illegible</unclear>M.
+				   Desaupines.  From the open situation of the premises I think it ought to be done for less, there being little but internal Risk on the Lot on
+                                    which M. Wards buildings stand on at least 2/3 of an Acre <unclear reason="illegible" resp="pw">illegible</unclear> in front but the
+                                    dwelling house <unclear reason="illegible" resp="pw">lg</unclear>able end of the Coach house <unclear reason="illegible" resp="pw">next</unclear>
+                                    the street with Considerable distances between each.</p>
+            <p>He also adds that &quot;he wishes Insurance on his dwelling house No. 21. Church street, say 4000 Drs to cover his house, kitchen
+				  store house &amp;stable.</p>
+            <p>The lot on which these buildings stand is 40 feet in front <unclear reason="illegible" resp="pw">illegible</unclear>in the rear by
+				   240 feet deep 2 open at the <unclear reason="illegible" resp="pw">illegible</unclear>and Church Street 45 feet wide.  The
+				   dwelling house is</p>
+            <pb n="3" facs="0012_002414_000217_0003.jpg" xml:id="d4e83"/>
+            <p>is 26 feet on the street by 54 feet deep, an Alley of 14 feet to the southward 24 feet to the northward of said building an Entrance
+  				  to the house by a wooden Plasa in the Alley 4 feet wide, a wing at the west end of the house 12 by 14 feet wide with a wooden Plasa
+				  of same.  The house<unclear reason="illegible" resp="pw">illegible</unclear>three stories high brick and tiled - at the distance of 9 feet from 
+				  the wing on the north side of the lot begins the Outbuildings is or are 18 feet wide by 56 feet long &amp; no boundaries to the north,
+				  two stories high.  Two story brick houses with Outbuildings all shingled roofs one outside his Lot  2 two room wooden stores of one story
+				  high on the opposite side of the street.  Thus he says he &quot;has noted every advantage &amp;disadvantage except that in case of fire he
+				  is so Open behind there are nothing but wooden fences to oppose a Communication being made with meeting <unclear reason="illegible" resp="pw">hadd</unclear>
+				  &amp;water<unclear reason="illegible" resp="pw">sreet</unclear>&amp;having taken so much harm to make his property <unclear reason="illegible" resp="pw">illegible</unclear>
+				  externaly he has no doubt he shall have this same covered as cheap as any in the City.  £2000 PS at the present rates wd. not replace the buildings.</p>
+            <pb n="4" facs="0012_002414_000217_0004.jpg" xml:id="d4e99"/>
+            <p>The letter nor order dont state if M. Ward buildings to be of brick tho I conclude from the description that they are where not <unclear reason="illegible" resp="pw">illegible</unclear>
+				  noted.</p>
+            <p>Please to let me know the Rates of Insurance required against fire for One Year or for Seven.</p>
+            <p>Others <unclear reason="illegible" resp="pw">illegible</unclear>
+               <unclear reason="illegible" resp="pw">illegible</unclear>to assume this</p>
+            <p>I am with Esteem</p>
+            <p>Jno. <unclear reason="illegible" resp="pw">Oard</unclear>
+               <unclear reason="illegible" resp="pw">illegible</unclear>
+            </p>
+            <p>Clement Biddle</p>
+         </div>
+      </body>
+   </text>
+</TEI>

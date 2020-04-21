@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002279_000201_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>"Uncle Bob," R. M. Travis</name>
+				                     in the Philippines to Travis Kennerly in Knoxville, Tenn., <date when="1899-10-11">1899 October 11</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">"Uncle Bob," R. M. Travis</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002279_000201_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, "Uncle Bob," R. M. Travis in the Philippines to Travis Kennerly in Knoxville, Tenn., 1899 October 11</title>
+          <date when="1899-10-11">1899 October 11</date>
+          <author>
+            <name type="person">"Uncle Bob," R. M. Travis</name>
+          </author>
+          <extent>11 pages</extent>
+          <note type="collection">Robert Morris Travis Papers</note>
+          <note type="manuscript">MS.3281</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Travis family</term>
+          <term>Henry County (Tenn.) -- History.</term>
+          <term>Spanish-American War, 1898 -- Personal narratives, American.</term>
+          <term>Spanish-American War, 1898.</term>
+          <term>United States. Army. Infantry Regiment, 4th.</term>
+          <term>Washington (State) -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002279_000201_0001.jpg" xml:id="d4e39"/>
+        <p>Soldiers letter</p>
+        <p>
+          <unclear reason="illegible" resp="SLJ">Cdvand R stur</unclear>
+        </p>
+        <p>2nd Lt 4 Infantry</p>
+        <p>W. T. Kennerly, Esq.,</p>
+        <p>Knoxville,</p>
+        <p>Tennessee, U. S. A.,</p>
+        <p>P. O. Box 236,</p>
+        <pb n="2" facs="0012_002279_000201_0002.jpg" xml:id="d4e56"/>
+        <p>To WTK from "Uncle Bob" Robert Travis 1899</p>
+        <p>Ismus P. I.</p>
+        <p>Oct. 11 th 1899</p>
+        <p>Mr. Travis Kennerly</p>
+        <p>Dear Nephew:</p>
+        <p>I have just been handed your very welcome letter and I assure you I was glad to hear from you. In regard to not getting answers to letters you have written to me I will say that I have written regularly to you and all the people at home as soon after recieving your letters as it was possible to do so I have recieved only one pkg of Magazines you</p>
+        <pb n="3" facs="0012_002279_000201_0003.jpg" xml:id="d4e70"/>
+        <p>sent me. There must be something wrong with the mails. Well Travis the last three week have bene lively enough here. We have been fighting every day or night around Imus as the enemy has seemed determined to take the town until last Friday when we gave them the worst "Trouncing" they have yet recieved. They had established their headquarters at Buliciana a small village three miles from Imus and about 2 Miles from Bacoon for the purpose of cutting off our supplies that came from Bacoon. They had</p>
+        <pb n="4" facs="0012_002279_000201_0004.jpg" xml:id="d4e74"/>
+        <p>entrenched themselves on the river and road between the two places and also at Bulician with a network of trenches. Last Thursday they had the assurance to send in an officer with a flag of truce demanding our surrender. Thursday night we arranged a surprise for them. We lef the third Battallion to look after Imus while the 1st and 2 nd marched out after dark the first taking up our march through the rice fields under continual five from their outposts</p>
+        <pb n="5" facs="0012_002279_000201_0005.jpg" xml:id="d4e78"/>
+        <p>but we kept on in the darkness without returning a shot until we had gained a position that gave us a Flank fire on their trenches here we formed a long Skirmish line and laid down in the mud and water until daylight. In the meantime our other Battalion had moved around the other side and two Companies of The 14 th had Come up from the south Connecting with us Thus forming a Triangle with Their marks near the centre. Promptly at daylight our Battalion advanced upon them under a hot fire. we moved</p>
+        <p/>
+        <pb n="6" facs="0012_002279_000201_0006.jpg" xml:id="d4e83"/>
+        <p>steadily along and charged them capturing their trenches and causing them to fall back on our scond line where they were recieved with volley after volley they fought hard but we drove them back towards the town and out through it to the samps beyond capturing about 100 prisoners and 25 or thirdy rifles ammunition S. c. their loss was severe but cannot be correctly estimated as the fight took place in the rice fields where the water was waist deep and the grass shoulder high</p>
+        <pb n="7" facs="0012_002279_000201_0007.jpg" xml:id="d4e87"/>
+        <p>making it impossible to find the dead or wounded except in the trenches where there was a goodly number. We camped that night at the town of Bulician and the next night we marched back to Imus through the mud waist deep. General Lawton came to Bulician just before we left with the 13 th Infty and two troops of Cavalry and 4 guns of the 6 th Art on his way towards San Franeko De Malabon he sent over after a detail of 12 men and a Sgt to scout the immediate teritory outside of our outposts. I had the honor</p>
+        <pb n="8" facs="0012_002279_000201_0008.jpg" xml:id="d4e91"/>
+        <p>of leading the party which he accompanied examining the road S. c. He moved his column Saturday and had a hard fight at Noveleta a town near Cavite "Viego" or old Cavite where he lost two officers and 10 or 12 men. The enemy used artillery on them and one their guns was Captured. Monday he Captured the Town of San Francisco de Malabon one of the finest inland cities on the Island. we have had orders to hold ourselves in readiness to move on short notice</p>
+        <pb n="9" facs="0012_002279_000201_0009.jpg" xml:id="d4e95"/>
+        <p>for forty-eight hours but where we will go I have no idea. I am in good health and am getting on as well as I could expect but our guard duty here is the toughest I ever saw. We are constantly fired upon on outpost and up to a few days ago we had to fight every day or night We have lost several men in the last month but considering the amount of hard "Scrapping" we have done our loss has been small. The prisoners we got say that the 4 th is the hardest regiment they ever run up against and they Say</p>
+        <pb n="10" facs="0012_002279_000201_0010.jpg" xml:id="d4e99"/>
+        <p>we dont sleep but travel around after night and fight at night same as day light. It is a grand old regiment and when you hear of us being beat you can safely say that there will be very few left to tell the tale. I dont see any change for the better here but I believe the insurgents are stronger today than ever. I am still keeping that journal of daily occurences and will continue as long as I am here. I have three day Books full now and am</p>
+        <pb n="11" facs="0012_002279_000201_0011.jpg" xml:id="d4e103"/>
+        <p>well advanced on the 4 th I may send them to you if I can ever get to Manila again. Well Travis give my best wishes and love to all the folks at home and write to me when convenient and I will answer.</p>
+        <p>Your Uncle Bob</p>
+        <p>Adress Sgt R.M. Travis</p>
+        <p>Co B 4 th Infantry</p>
+        <p>Manila</p>
+        <p>P. I.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

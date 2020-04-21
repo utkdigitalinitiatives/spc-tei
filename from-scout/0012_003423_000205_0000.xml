@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003423_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">H. Parson</name> in <name type="place">Corinth, Mississippi</name>, to Indiana Freeman, 
+               <date when="1862-05-24">1862 May 24</date>
+            </title>
+            <author>
+               <name>Parson, H.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_003423_000205_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">H. Parson</name> in <name type="place">Corinth, Mississippi</name>, to Indiana Freeman, 
+                  <date when="1862-05-24">1862 May 24</date>
+               </title>
+               <date when="1862-05-24">1862 May 24</date>
+               <author>
+                  <name>Parson, H.</name>
+               </author>
+               <extent>3 digital images</extent>
+               <note type="collection">Joseph Oliver Freeman Letters, 1861 December 22 - 1864 June 12, undated</note>
+               <note type="manuscript">MS.0806</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Chickamauga, Battle of, Ga., 1863.</term>
+               <term>United States--History--Civil War, 1861-1865--Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e166">
+            <pb facs="0012_003423_000205_0001.jpg" n="1" xml:id="d2e168"/>
+            <opener>
+               <dateline>
+                  <name type="place">Corinth, Mississippi</name> 
+                  <date when="1862-05-24">May the 24 /62</date>
+               </dateline>
+               <salute>dear sister</salute>
+            </opener>
+            
+            <p>i take this opertunity of ritin to you to let you no how i am  i am not well but i am so as to be a bout  i am in hopes that this may find you well  times is veary glumy hear  tha air fiting som evryday  tha have bin fiting to day  tha have bin canonadin all day  our regment is gone out on picket to day  we air lookin for a fight evryday  the yaneys is advancian an forty fying as tha cum i want to cum home mity bad but thair is no chance now  i am in hopes that i can com home a bout the fourth of july  i want you to right to me i have ritin to you too or three times an i have not got no anser yet</p>
+            
+            <pb facs="0012_003423_000205_0002.jpg" n="2" xml:id="d2e188"/>
+            <p>bruthe heneary says that he wants you to right to him  he is her at <name type="place"><choice><orig>corint</orig><corr resp="pw">Corinth</corr></choice></name> he is well at this time he sed he was comin home as son as this fite was over ef he lives  you must pre pair a good diner for us when we get home on the fourth of july  an ask all the gals to cum over an eat with us  you must gave my best respect to all the folks about randolph</p>
+            <p>you must not think hard of john for not comin home for he cant get a furlow un tell this fite is over  sister ef you Sea any of fathers folks you must tel them to right to me an tel uncal <unclear reason="illegible" resp="PW">foly</unclear>to right to me an tel them that i want to Sea them</p>
+            
+            <pb facs="0012_003423_000205_0003.jpg" n="3" xml:id="d2e207"/>
+            <p>all an you mus right to me  i is not well but he bruther is So as to be a bout  i bleave i have ritin you all the news that i have So i must bring my leter to a close by Saying that you must right to me</p>
+            <p>So remaine your afexiant bruther an tell <unclear reason="illegible" resp="PW">dah j l pasay</unclear>to indeanor freman</p>
+         </div>
+      </body>
+   </text>
+</TEI>

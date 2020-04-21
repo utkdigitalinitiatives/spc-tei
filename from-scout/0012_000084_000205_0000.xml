@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000084_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+R. Rds.
+</name>
+in Nashville, Tenn., to P. L. Fox,
+<date when="1864-10-04">
+1864 October 4
+</date>
+            </title>
+            <author>
+               <name type="person">Rds., R.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+               <name>Rosinski, Wanda</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000084_000205_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, </title>
+               <date>1864-10-04</date>
+               <author>
+                  <name>Rds., R.</name>
+               </author>
+               <extent>2  digital images;  0.3 linear feet;  2 p.</extent>
+               <note type="abstract">In this letter, dated October 4, 1864, from &quot;R. Rds.&quot; in Nashville Tennessee, he asks P. L. Fox, to travel to Cincinnati to find a pile driver to use at Johnsonville, Tenn. He instructs him to look elswhere if he cannot find one in Cincinnati.</note>
+               <note type="collection">Loudon Bridge/Civil War Collection, 1864</note>
+               <note type="manuscript">MS.2686</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Railroad bridges -- Tennessee -- Loudon County -- Design and construction.</term>
+               <term>Bridges -- Tennessee River.</term>
+               <term>Pile drivers.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000084_000205_0001.jpg" xml:id="d3e153"/>
+            <p>Military Division of the Mississippi.</p>
+            <p>Chief Engineer&apos;s Office of U.S. Military Railroads.</p>
+            <p>Nashville Octr. 4th. 1864.</p>
+            <p>P.L. Fox Esqr.</p>
+            <p>Div. Engr.</p>
+            <p>Dear Sir,</p>
+            <p>You will proceed at once to Cincinnati for the purpose of procuring a Pile Driver to drive the Piles required at Johnsonville, Tenne. You are hereby authorized to arrange terms for the use of the same, and for the skilled labor necessary to do the work. The Job is a short one, and can probably be finished in a week or Ten days. If unsuccessful</p>
+            <pb n="2" facs="0012_000084_000205_0002.jpg" xml:id="d3e173"/>
+            <p>in getting a machine at Cincinnati, you will try elsewhere, and arrange for it to be taken to Johnsonville at the earliest possible time.</p>
+            <p>Respectfully.</p>
+            <p>Chf. Engr. <unclear>Govl.</unclear> R. Rds.</p>
+            <p>Div. of the Miss.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

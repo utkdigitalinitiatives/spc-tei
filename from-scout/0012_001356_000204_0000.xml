@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, to <name type="person">Alfred
+               Smith</name> in <name type="place">Nashville, Tenn.</name>, <date when="1865-05-09">1865 May 9</date>
+            </title>
+            <author>
+               <name>Smith, Eliza</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000204_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, to <name type="person">Alfred
+                  Smith</name> in <name type="place">Nashville, Tenn.</name>, 
+                  <date when="1865-05-09">1865 May 9</date>
+               </title>
+               <date when="1865-05-09">1865 May 9</date>
+               <author>
+                  <name>Smith, Eliza</name>
+               </author>
+               <extent>9 digital images&gt;</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>        
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-16" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank 
+            pages. Added resp attributes to editorial changes, and added name tags.</change>         
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>         
+         <div type="letter" xml:id="d2e209">
+            <pb facs="0012_001356_000204_0002" n="1" xml:id="d2e211"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Binghamton</name>
+                  <date when="1865-05-09">May 9 1865<lb/></date>
+               </dateline>
+            </opener>
+            
+            <p>my dear son it is with pleasur i now answer your kind and wellcome letter that i received May 6th and i was glad to here that you was well and doing well as bless god it leaves us all well at this time my dear son i received your photograph quite safe i was very pleased with them i have given one to your Aunt Amelia and one to <unclear reason="illegible" resp="PW">rote</unclear> Allen one to daniel Coley he wanted one so bad he always asks after you so kindly he send his best respects to you he is going to rite to you my dear boy i am sorry your father dont rite to you but he does not have hardley any time to rite</p>
+            <p>I received a letter from father on May 4th on thursday and he says he is well and his eyes was quite better and he said i was to tell you in your letter that he was going to rite to you he said he hoped you was well</p>
+            
+            <pb facs="0012_001356_000204_0003.jpg" n="2" xml:id="d2e235"/>
+            <p>he said he had been out one the knoxovill and virgeney road but they was ordered back by the cheif engeer of the works and back to Cattanoga but they was gone to a place called <unclear reason="illegible" resp="PW">deer nweels</unclear> in Alabama about 5 hund and 50 milles they should be gone about a month he rote his letter on the 17 of April so by that account they will soon be back again but you can rite to him and send the direction that i sent you cattonogo in the care of S C Mearers box 27 and that will follow him you wanted to know how bussiness was at binghamton it is pretty dull there is not much doing</p>
+            <p>Austin donth have very little to do it worronees me a great deal he dont work only 3 or 4 day in a week and for 4 week he did not work at all</p>
+            <p>pat fooley is gone to Osvego to work for his 12 dollors a week Austin work for Gorge <unclear reason="illegible" resp="PW">hove</unclear> when he does work at all</p>
+            
+            <pb facs="0012_001356_000204_0004.jpg" n="3" xml:id="d2e253"/>
+            <p>my dear boy i have seen a little trouble since you went away with your father and you going away but i get are to it now some Austin send his kind love to you he says he will have bully good times when you come Henery send you a hundred kises he goes to school he is a good boy he wants me to tell you he rite pig dog cat top</p>
+            <p>Aunt and uncle send there kind love to you i want send them <unclear reason="illegible" resp="PW">likness</unclear> to England i would like them taken standing upright i have one of them and i think a great deal of it my dear boy i hope you will rite to me often as you can give my best respects to Mr Curtis and our respects to henery Weeller Horras hervey send his best respects to you</p>
+            
+            <pb facs="0012_001356_000204_0005.jpg" n="4" xml:id="d2e265"/>
+            <p>be a good boy and dont neglect to read your bible when you can be steadey my dear boy you have by best wisheses you are ever in my thoughts the neigbours send there respects to you Miss Susan Coley give her best respects to you she sent you those flowers rite often</p>
+            
+            <closer>
+               <salute>So i must conclude with kindest love to you and i ever remain your
+                  affectionate mother</salute>
+               <signed>Eliza Smith</signed>
+            </closer>
+            <postscript>
+               <p>Write Soone <lb/>Dear Brother</p>
+            </postscript>
+         </div>
+         
+         <div type="letter" xml:id="d2e288">
+            <pb facs="0012_001356_000204_0006.jpg" n="5" xml:id="d2e290"/>
+            <note resp="sj">[The following text is a rough draft of the previous letter.]</note>
+            <opener>
+               <dateline>
+                  <name type="place">Binghamton</name>
+                  <date when="1865-05-09">May 9 1865<lb/></date>
+               </dateline>
+               <salute>my dear son</salute>
+            </opener>
+            
+            <p>it is with pleasur i now answer your kind and wellcome letter that i received May 6 and we was glad to <orig>here</orig> that you was well and doing well as it leaves us all at this time bless god for so great a blessing i received your photograph guite save i was dradfull pleased with them i have given your Aunt Amelia and Daniel Coley one he wanted one so dradful bad he send his best respects to you he always asks after you so kindly i have had a letter from your father the 4 day of May he was in Cattanoaga they had been on the knoxvill and verganey road but they was ordered back by the <orig>cheif</orig> engeer and now they are gone 
+               
+               <pb facs="0012_001356_000204_0007.jpg" n="6" xml:id="d2e319"/> 
+               to Alabama but if you rite to him the direction i sent you it will follow him he has recieved a letter from us and i think by this time he must of had another one he was quite well and his eyes was better he does not say aword about coming home yet send me word weather it is so or not that all the comsarries are order not to buy any more provision for the army if it is so you will have to come home soon but i dont notice rummor ther are rummors ever day pat dooly is gone to day to ovego to work for his 12 dollars a week and i expect Austin is gone he is now working for Gorge how yet he his not work <add place="below">worked</add> for 4 weeks and last week he went 4 days pay last week but if he dont go he is gone to work steadey 
+               
+               <pb facs="0012_001356_000204_0008.jpg" n="7" xml:id="d2e324"/> 
+               busnis is prettey dead here in binghamton there is no briges and it makes things very bad there is no boat nor shoe bussines much going on here Austin talks of going in a machine shop as soon as his father comes back we have our garden looking prett good for us maninging it rite as often as you can it does me so much good to here from you Austin send his kind love to you and he was glad to here from you and he say he will have lulley good times when you come home henery send you a thousand kises and he says i send you word he goes to school and he rites top pig dog and he is a very good boy and his teacher like him well it must be very grand to see the procacion in Nashvill but was not it awfull <pb facs="0012_001356_000204_0009.jpg" n="8" xml:id="d2e327"/> to think of it the prsadant to be murd the neibourgs send there best respects to you i send my love to you be a good boy and be steadey and not forget to read your bible when you can hav time you uncle and Aunt send there love to you and Aunt think i had better not rind one of them likness she would like them taken standing up when you come home will doo to send to England so i must conclud with my kindest love to you and ever remain your affectionate mother</p>
+            
+            <closer>
+               <signed>Eliza Smith</signed>
+            </closer>
+            <postscript>
+               <p>rite as soon dear boy send me as you can word how you are oft for clothes i am
+                  fraid you are bariley i should like to send you some if i could</p>
+               <p><add place="above">Miss Susan Colley sent the flowers</add></p>
+            </postscript>
+         </div>
+      </body>
+      
+      <back>
+         <div type="envelope" xml:id="d2e351">
+         <pb facs="0012_001356_000204_0001.jpg" n="9" xml:id="d2e353"/>
+         <p>BINGHAMTON</p>
+         <p>MAY</p>
+         <p>9</p>
+         <p>N.Y.</p>
+         <p><address>
+               <addrLine>Mr Alfred Smith</addrLine>
+               <addrLine>Nashville</addrLine>
+               <addrLine>Tenn</addrLine>
+               <addrLine>Box 4.87</addrLine></address></p>
+      </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000336_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Pourcente</name> in Philadelphia, Pa. to William Bell (Merchent),
+					<date when="1798-02-26">1798 Feb. 26</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">John Pourcente</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000336_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Pourcente in Philadelphia, Pa. to William Bell (Merchent), 1798 Feb. 26</title>
+               <date when="1798-02-26">1798 Feb. 26</date>
+               <author>
+                  <name type="person">John Pourcente</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000336_0001.jpg" xml:id="d4e39"/>
+            <p>Mess. William Bell / Merchant.</p>
+            <p>Philadelphia</p>
+            <p>John Pourcent</p>
+            <p>Mole St. Nicholas</p>
+            <p>February 26 1798</p>
+            <p>Recieved March 15 1798</p>
+            <pb n="2" facs="0012_002414_000336_0002.jpg" xml:id="d4e53"/>
+            <p>Messr. Wm. Bell</p>
+            <p>Philadelphia</p>
+            <p>Nolle St Nicholas 26th. Feby. 1798</p>
+            <p>Gentlemen</p>
+            <p>We are in this harbour since the 24th instant being Brot. in By his majesty <unclear reason="illegible" resp="AH">Sloop the Swallow.</unclear>
+            </p>
+            <p>I cannot tell you yet what will Be the issue of our Detention. tho&apos; I am much affeared that we will be confiscated at least if credit is to be given to the informations which I have received in all cases you may depend upon my care and attention to your interests.</p>
+            <p>The captain has been examined this day.  I am to undergo my Examination to morrow.</p>
+            <p>There is is said in your cargoe several articles which are prohibited such as the <unclear reason="illegible" resp="AH">rails the Coine Shoes</unclear>
+            </p>
+            <p>Immediately after a determination I will give you intelligence of what has been decided.  I shall follow your order &amp; Casse all the necessary measures so that you may have recourse to the underwriters</p>
+            <p>It is very unfortunate for you that we have not been able to proceed to our Destination.  Business there, is very Good, with a prospect of being still Better on acct. of the arrestation of all the Vessels bound to those parts.</p>
+            <p>I have the honour to be <unclear reason="illegible" resp="AH">perticely</unclear> Gentelmen, your obedt. &amp; humble servt.</p>
+            <p>J. Pourcente.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

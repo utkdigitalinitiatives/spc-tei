@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000337_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Francis Pastorius</name> in Halifax, Nova Scotia to Joseph Donath &amp; Sons in Philadelphia, Pa.,
+					<date when="1797-11-19">1797 Nov. 19</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">Francis Pastorius</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000337_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Francis Pastorius in Halifax, Nova Scotia to Joseph Donath &amp; Sons in Philadelphia, Pa., 1797 Nov. 19</title>
+               <date when="1797-11-19">1797 Nov. 19</date>
+               <author>
+                  <name type="person">Francis Pastorius</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000337_0001.jpg" xml:id="d4e39"/>
+            <p>Letter. F. Pastorius</p>
+            <p>Nov. 19. 1797</p>
+            <p>Joseph Donath &amp; Son</p>
+            <p>Philadelphia</p>
+            <p>in front struct four doors</p>
+            <p>above the front office</p>
+            <p>Favoured by Capt Merry</p>
+            <p>Francis Pastorius Nov. 19 1797</p>
+            <pb n="2" facs="0012_002414_000337_0002.jpg" xml:id="d4e57"/>
+            <p>Halifax November</p>
+            <p>19th 1797</p>
+            <p>Joseph Donath &amp; Son</p>
+            <p>Philadelphia</p>
+            <p>Gentlemen,</p>
+            <p>I take the opportunity to write informing you i have got the <unclear reason="illegible" resp="AH">dure</unclear> of the Wessel the 17th after a long &amp; teague time waiting for it. as the Judge was wanting finder proof to come in. the Schoner Teigraf &amp; brig. Pomona. has Arived have from Havana.  The Schoner has been tryed &amp; condemn &amp; every Wesel under the same prediciment will be condemned here by this Court.  The brig Fathfull &amp; cargo is condemed &amp; likewise paying all costs &amp; charges.</p>
+            <p>I am now geting Coppies of the processing of Courth &amp; every other paper that necessary -</p>
+            <p>The appeal will be entered &amp; all the bills paid &amp; I shall proceed with the papers &amp; quickly possible.</p>
+            <pb n="3" facs="0012_002414_000337_0003.jpg" xml:id="d4e78"/>
+            <p>Sir it being very suprising i have received but one letter since i arrived heare.  As it mite have been a great Less. to me.  but i have took W <unclear reason="illegible" resp="AH">foreitts</unclear> advise in Every thing &amp; i hope it will be the best.</p>
+            <p>Gentle men I remain</p>
+            <p>Your Humble</p>
+            <p>Servant</p>
+            <p>Francis Pastorius</p>
+            <pb/>
+         </div>
+      </body>
+   </text>
+</TEI>

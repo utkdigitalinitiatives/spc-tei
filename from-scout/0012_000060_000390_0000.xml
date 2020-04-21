@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000390_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Arthur C. Crozier</name>
+ in Knoxville, Tenn., to J.G.M. Ramsey in Salisbury, N.C.<date when="1871-01-12">1871 Jan. 12</date>
+            </title>
+            <author>
+               <name type="person">Crozier, Arthur C.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Veve, Marielle</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000390_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Arthur C. Crozier in Knoxville, Tenn., to J.G.M. Ramsey in Salisbury, N.C. 1871 Jan. 12</title>
+               <date>1871-01-12</date>
+               <author>
+                  <name>Crozier, Arthur C.</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages</extent>
+               <note type="abstract">Arthur C. Crozier wrote this letter to his brother-in-law, J.G.M. Ramsey, on January 12, 1871. He mentioned one of Dr. Ramsey’s law cases. He had no news about the Brakebill matter, but hoped that payment would be realized from it without a lawsuit. He told Ramsey of his future plans to move to a farm near Knoxville where he hoped to find some business, even though he was doubtful due to some conflicts in regards to a misunderstanding he&apos;d had with someone. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Liability (Law)--United States.</term>
+               <term>Dispute resolution (Law)--United States.</term>
+               <term>United States--Trials, litigation, etc.--19th century.</term>
+               <term>Tennessee--History--Civil War, 1861-1865.</term>
+               <term>Crozier, Arthur C.--Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884--Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000060_000390_0001.jpg" xml:id="d3e159"/>
+            <p>ansd. Febr <unclear reason="illegible" resp="NW">827/1 </unclear>
+            </p>
+            <p>Doct</p>
+            <p>J.G.M.Ramsey</p>
+            <p>Charlotte</p>
+            <p>N. 6</p>
+            <pb n="2" facs="0012_000060_000390_0002.jpg" xml:id="d3e177"/>
+            <p>Knoxville T Jan 12/71</p>
+            <p>Dr J.G. M Ramsey</p>
+            <p>
+               <unclear reason="illegible" resp="NW">Dr J - </unclear>
+            </p>
+            <p>I returned home last week - I did not see my prospect for business in that city - It required too much cash capital for me to go into my sort of business.</p>
+            <p>The U.S. Court is in <unclear reason="illegible" resp="NW">session</unclear> now and John is very much engaged and I have not met with <unclear reason="illegible" resp="NW">McCormick </unclear> I will try &amp; see him to day and if I can get any information that will give me a hope of making a compromise with <unclear reason="illegible" resp="NW">Brownlow if</unclear>all your <unclear reason="illegible" resp="NW">cases</unclear>, I will try to go to Washington City - Mr Spence who promised to aid me in the matter is now in Washington &amp; will remain there during the winter. I will write him to day. In the mean time write me whatever you think would give my aid in the matter. </p>
+            <p>John showed me your letter authorizing the <unclear reason="illegible" resp="NW">dismissal</unclear>of the suit <unclear reason="illegible" resp="NW"> sui</unclear> The Traders Bank &amp; myself. I am very much in hopes we can have them <unclear reason="illegible" resp="NW">dismissal</unclear> at the next term of the Court.</p>
+            <p>I have not heard what was done with your Brakebill matter. I very</p>
+            <pb n="3" facs="0012_000060_000390_0003.jpg" xml:id="d3e219"/>
+            <p>much hope that the money can be <unclear reason="illegible" resp="NW">realized </unclear> without my suit. I am afraid my <unclear reason="illegible" resp="NW">Coations</unclear> in East Tennessee will not be satisfactory and that I shall have to <unclear reason="illegible" resp="NW">bemore </unclear> or at least remain away myself and try and get into business somewhere. I wrote you at one time about my misunderstanding with <unclear reason="illegible" resp="NW">Cre Deaderick </unclear>. I can see very plainly a great <unclear reason="illegible" resp="NW">castnop</unclear> on the part of the most of the family in <unclear reason="illegible" resp="NW">annyance</unclear> of this and it makes the place rather unpleasant. We will move to the place purchased by <unclear reason="illegible" resp="NW">Darthura</unclear> &amp; Margaret next week. It is 4 miles from town on the Clinton RR - contains 80 acres</p>
+            <p>The boys still continue to have chills - <unclear reason="illegible" resp="NW">Dunlap</unclear> had one last night William has not had any for two weeks</p>
+            <p>Love to all </p>
+            <p>Yours truly</p>
+            <p>A. <unclear reason="illegible" resp="NW">C.</unclear> Crozier</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001180_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Henry B. Wetzell</name>
+ in Strawberry Plains, E. Tenn., to Aaron Wetzell in Slifer, Pa., <date when="1863-01-17">1863 Jan. 17</date>
+            </title>
+            <author>
+               <name type="person">Wetzell, Henry B.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_001180_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry B. Wetzell in Strawberry Plains, E. Tenn., to Aaron Wetzell in Slifer, Pa., 1863 Jan. 17</title>
+               <date>1863-01-17</date>
+               <author>
+                  <name>Wetzell, Henry B.</name>
+               </author>
+               <extent>5 digital images; 4 pages, 1 envelope</extent>
+               <note type="abstract">Henry B. Wetzell wrote to his father, Aaron Wetzell, on January 17, 1863 while serving in the Civil War. He was surprised his father hadn&apos;t heard from anybody in his company as one soldier from the area was sick and had written home. He mentioned one soldier that was stationed in Knoxville who had received letters and sent letters home that were received. He thought it was a problem with a certain post office who had jealous tendencies. He told his father he is well. He mentioned their &quot;pursuit of Longstreet&quot;, the 2nd U.S. Artillery in Knoxville, Tenn. and a transfer from the 37th P.A. to the 11th A.H.V for the ones that did not re-enlist. Wetzell told his father his decision not to re-enlist despite some good offers made to him. He knew too much service in the military took a great toll on men. He said many in his regiment re-enlisted, but he felt good about his decision. It was hard leaving behind the ones that had re-enlisted and their flag. Five men did not re-enlist. Their whole camp moved the day before from Blain&apos;s Cross Roads to Strawberry Plains, Tenn. They were closer to Knoxville along the railroad and would be able to get supplies handier.  They were in a good place. He figured he would still be in for some time, but not sure in which company, so he told his father to send his letters to the 11th A.H.V. 9th Army corps until further notice.</note>
+               <note type="collection">Henry B. Wetzell Letter</note>
+               <note type="manuscript">MS.2782</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee, East -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>Recruiting and enlistment.</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Wetzell, Henry B. -- Correspondence.</term>
+               <term>Wetzell, Aaron -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_001180_000200_0001.jpg" xml:id="d3e157"/>
+            <p>Mr Aaron Wetzell</p>
+            <p>Slifer. P.O. </p>
+            <p>Union County</p>
+            <p>Pennsylvania</p>
+            <pb n="2" facs="0012_001180_000200_0002.jpg" xml:id="d3e171"/>
+            <p>Strawberry Plains. E. Tenn</p>
+            <p>Jan 17th 1863</p>
+            <p>Dear Father</p>
+            <p>Your last letter recd by me from you was last evening dated Dec 28th. You say you have not recd a line from me since the 7th of Nov neither have you heard anything of any in the Co. this is indeed as mysterious to me as to you. I had not written it is true from the 7th of Nov untill about the 23rd of Dec as I note the reason why I could not write in a former letter to you. We were in pursuit of Longstreet and had not our Knapsacks along nor could we procure any writing material untill the 23, of Dec when I wrote my letter though you might have heard from others than from Daniel &amp; me. David Yoder was left sick at Knoxville when we left on the 7th and he told me that he wrote home immediately after our departure. Wm. Achenbach who was then detailed in the 2nd U.S. Artillary remained in Knoxville when we left and sent off several letters home as soon as the seige was raised and he told me last evening that he had recd a letter from his wife and that she had recd several letters from him after the seige. Where does the trouble lay whose fault is it that you do not get our letters when directed to Slifer P.O. and others get letters regular when directed to</p>
+            <pb n="3" facs="0012_001180_000200_0003.jpg" xml:id="d3e185"/>
+            <p>Elmisport. I have often throught that the <unclear reason="illegible" resp="JCM">amniro</unclear> did not get all the letters intended for them if they had to be handled by the PoMaster of Slifer P.O. &amp; the impression seems to prevail yet in many minds in our Co whether any jealousy still exist in regards to the Union Co and Lycoming Co men yet if there is it may account for the non-arrival of letters to and from Slifer P.O. but I hope you may have heard from us long ere this and your anxiety - may be somewhat abated. When you hear that we are alive and well and in good spirits. You mentioned the reinlistment question in your last letters, well I have taken your advice and did not enlist I studied the question day and night I weighed heavily on my mind. I studied the question thoroughly on both sides. Strong inducements - were held out to me to reinlist, good offres made to me by Officers if I would enlist. &amp;c &amp;c but I thought it to be one of the most important cases to decide that I ever had before me. I am going by the time my present time expires I will be nearly old enough to start out iwth the world for myself if ever A young man in civil life of my age can as far better than serving a military life for 3 years, in 3 years at home I may become fitted for some useful employment in life. something that may be of benefit to me and to others, 3 years more may can ruin any young man of my</p>
+            <pb n="4" facs="0012_001180_000200_0004.jpg" xml:id="d3e196"/>
+            <p>age both morally and physically although I fell pretty well convinced that I am far healthier and have a much stronger constitution than when I left home. yet 3 years more of as hard service as I have seen since I have been out will make me a cripple. These and may other reason caused me to take a decided stand against and <unclear reason="illegible" resp="JCM">reenlisting</unclear> and I am pursuaded that I took the right course though the exitement ran very high for a few days and caused the greater-part of our Regt to enlist and many of those who did enlist begin to see their folly. We were transferred from the 37th P.A. yesterday to the 11th <unclear reason="illegible" resp="JCM">A.H.V.</unclear> where we now are all who did not enlist in our Regt. We left yesterday morning. Our Regt remained in camp and on picket duty. Our whole Camp moved here yesterday from Blains X Roads 12 miles nearer Knoxville along the R.R. so that we can get supplies <unclear reason="illegible" resp="JCM">handier</unclear> the cars now run from Nashville here (16 miles from Knoxville) and we are beginning to get more clothing and rations already. It was <unclear reason="illegible" resp="JCM">middling</unclear> hard to leave behind us yesterday morning many friends whom we had become united together like as if we were all brothers, and also to part from that old ragged, riddled, and battle scarred flag which we had fought under in many a hard fought battle but we left all these cheerfully as only a soldier can do, feeling that we had</p>
+            <pb n="5" facs="0012_001180_000200_0005.jpg" xml:id="d3e216"/>
+            <p>chosen the right course. there are only 5 of our Co with us who came along. H.C.M. Cormick. Dave Yoder. Wm. Achenbach. R.H.M. Hainer, and myself. I think we <unclear reason="illegible" resp="JCM">will</unclear> be treated like gentleman both by Officers and men for there is not a more common set of people than these New Hampshire men to be formed anywhere. We are in a very fine place for a camp in the woods in plenty of good wood to burn and not far from the Holston River. I do not know how long we will remain here but by all appearances by the way they are fixing up camp we will likely stay for some time we have not fixed up any yet but I suppose we will be ordered to fix up tomorrow. I dont know what Co we are going in yet but you may direct your letters to me for the present H.B. Wetzell 11th <unclear reason="illegible" resp="JCM">A.H.V.</unclear> 9th Army corps as soon as I find out what Co we belong I will tell you and give you different directions. I will write soon again to you. I am in most excellent health.</p>
+            <p>I am as ever</p>
+            <p>Your affectionate Son</p>
+            <p>Henry. B. Wetzell</p>
+            <p>11th <unclear reason="illegible" resp="JCM">A.H.V.</unclear> 9th <unclear reason="illegible" resp="JCM">Ale</unclear>
+            </p>
+            <p>I think you</p>
+            <p>can arrive a</p>
+            <p>good bit better</p>
+            <p>now</p>
+         </div>
+      </body>
+   </text>
+</TEI>

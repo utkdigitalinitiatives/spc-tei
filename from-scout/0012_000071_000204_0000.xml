@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Knoxville, Tenn., to Amos Gould in Owosso, Michigan,
+<date when="1864-07-11">
+1865 April 11
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000204_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1865 April 11</title>
+               <date>1865-04-11</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated April 11, 1865, from Henry Cherry in Knoxville, Tenn. to Amos Gould, Cherry notes the arrival of the news of Lee&apos;s surrender, saying &quot;from every Fort around Knoxville demonstrations of joy were given in the firing of cannon.&quot; Expresses displeasure with Grant, arguing that he should now have &quot;offered any other than unconditional surrender and then let Government show such mercy &amp; leniency as might be wise &amp; proper.&quot; Also speaks of the beauty of the area and the opportunities available for lawyers.</note>
+               <note type="collection">The Henry Cherry Letters, 1865</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000204_0001.jpg" xml:id="d3e142"/>
+            <p>Knoxville Tenn</p>
+            <p>Apl 11th 1865.</p>
+            <p>Hon,</p>
+            <p>Amos Gould,</p>
+            <p>Dear Sir,</p>
+            <p>On my return to camp yesterday from Presbytery, I was made glad by a letter from you, though one sentence in it would have surprised me much had I not known that many letters are miscarried. I know that I had written to you not long since, &amp; on referring to my diary I find it was on Saturdy 25th March. Your letter is dated the 30th, so that mine to you had hardly time to reach you. I hope you received it soon after writing yours, for it will go to show you how anxious I am for the Paymaster to come along among us. It is now the Eighth month, and some of us are really distressed &amp; in want of what cannot be had without money. But we cannot help ourselves, &amp; grumbling makes the matter no better, so we get together sometimes and try to comfort one another. Why we should</p>
+            <pb n="2" facs="0012_000071_000204_0002.jpg" xml:id="d3e160"/>
+            <p>be thus kept in suspense &amp; want is more than we can answer. If you were to ask me why I do not send money I would say &quot;because I have none,&quot; but Uncle Sam cannot say so &amp; to us it is a mystery. I know well that my friends whom I owe may think me very backward in paying, but when I get the money they will find that then there will be no backwardness nor delay. I am quite as impatient for it as are my friends &amp; I long for the Pay Master to arrive but he comes not yet.</p>
+            <p>You speak of Thomas&apos; Army. I believe he did not go with it. But it was a heavy affair. Even the Generals &amp; their aids were kept in entire ignorance. At first we learned that an order was given for &quot;rations for 10,000 men&quot; for some 8 or 10 days. We thought that was ominous of a big thing. In a few days the care began to increase, &amp; the trains came in &amp; passed on at the rate of from 10 to 25 trains per day, and we began to discover that we know nothing about the affair, &amp; could not find any body that did. Ten Thousand, 20, 30, 40, 70.000 are passed &amp; still they come &amp; on they go, till</p>
+            <pb n="3" facs="0012_000071_000204_0003.jpg" xml:id="d3e170"/>
+            <p>it is said over 100,000 have passed toward Virginia. The last we have heard from them was that at Jonesboro Genl Stoneman sent the 10th Mich in advance toward Boonville &amp; all the Cavalry marchd for Salisbury.</p>
+            <p>Yesterday we had news of the surrender of Lee&apos;s Army, &amp; from every Fort around Knoxville demonstrations of joy were given in the firing of cannon. If I understand the conditions of surrender, (at an hour when necessity would have compelled it) I regret that Grant should have offered any other than unconditional surrender, &amp; then let Government show such mercy &amp; leniency as might be wise &amp; proper. Johnson may assume command and ask for the same terms. He has the same right, for he is no more in rebellion than Davis &amp; Lee. But perhaps all is right &amp; we do not get hold of the right end of the reports.</p>
+            <p>Peaches, Plumbs, &amp; Apples have been in blossom some time. The weather is charming. My best regards to each &amp; all of your family.</p>
+            <p>Most truly Yours</p>
+            <p>Henry Cherry.</p>
+            <pb n="4" facs="0012_000071_000204_0004.jpg" xml:id="d3e186"/>
+            <p>Allow me to add that if Ebenezer Gould would come to this country he could make a splendid fortune in 5 years &amp; were he to live here that length of time he would never leave this beautiful land. At Maryville 15 miles from this there is not a lawyer. There were 3, each doing a good business, but left with the Army &amp; the changes which must around that one place be affected, will give a fortune to a lawyer. If I were a lawyer I see the finest field open before me that I ever witnessed. The chances are many.</p>
+            <p>H Cherry</p>
+            <p>April 11 1865</p>
+         </div>
+      </body>
+   </text>
+</TEI>

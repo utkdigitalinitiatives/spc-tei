@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000207_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                 in Camp Meade, Md., to Ellen Smith, in Jackson, Tenn.,<date when="1918-01-04">1918 Jan. 4</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000207_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in Camp Meade, Md., to Ellen Smith, in Jackson, Tenn.,1918 Jan. 4</title>
+          <date when="1918-01-04">1918 Jan. 4</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000207_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson,</p>
+        <p>Tenn.</p>
+        <pb n="2" facs="0012_001303_000207_0002.jpg" xml:id="d4e49"/>
+        <p>Camp Meade Md.</p>
+        <p>Jan 4 - 18</p>
+        <p>Dear Ellen:</p>
+        <p>I received your letter this a.m. and was real glad to here from you  I dont know very murch to write but I will see how well I can do. </p>
+        <p>Well I guess you are not cooking so murch now as Christmas is over  I have had my shair of working in the kitchen but havent had any children to take care of I thank I could do that too for I have learned to do most ever thing around the house. You should see me pushing a broom I am the best in town  But I dont like to at all.</p>
+        <p>I thank the dances are about a thing of the past in Jaxon the last 2 or 3 I was at before I left I dident a good time at all  I dont know what is the matter unless the crowd has changed so murch from what it was 4 or 5 years ago.</p>
+        <p>I guess it did seem good to see Mr and Mrs Chandler back in Jaxon. I would like to see them Myself but there is nothing doing  But if I am in this Country when spring comes I am going to come home</p>
+        <pb n="1" facs="0012_001303_000207_0003.jpg" xml:id="d4e65"/>
+        <p>for a few days or just as many days as they will let me stay. About the first of April is the time I am thanking about coming home. </p>
+        <p>Well I say you wouldent miss any thing of entrest if you do miss the picture  I sure wish I could see a show of some kind they have shows here at the Y.M.C.A. but I cant go I am under quaranteen Now</p>
+        <p>I am slipping this letter out or I am going to try to I dont know if I will get it out or not  I know Esther is a happy girl now her husban has got there at last I dont blame her at all.</p>
+        <p>I say Santee was good to you  I wouldent know what to do with so many presents. I dident get a thing but a little bundle from Red Cross had a checker board a pencil and sack of tobacco</p>
+        <p>Mother sent me a Christmas box with some thing to eat but she put some stuff in a fruit jar and the jar broke and liked to have ruined the hole thing  I was some mad about it but that dident do any good</p>
+        <p>It looked so good to and I couldent eat it and was just starving for some thing like this  Well I dont know any thing else to write  So I will close write me real soon and tell me all the news  As ever the same</p>
+        <p>James L.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

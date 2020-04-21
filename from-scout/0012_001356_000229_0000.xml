@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000229_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">William Smith</name> in <name type="place">Nashville, Tenn.</name>, to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-06-11">1865 June 11</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the 
+                  <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000229_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William Smith</name> in <name type="place">Nashville, Tenn.</name>, to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-06-11">1865 June 11</date>
+               </title>
+               <date when="1865-06-11">1865 June 11</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e209">
+            <pb facs="0012_001356_000229_0001.jpg" n="1" xml:id="d2e211"/>
+            
+            <opener>
+               <dateline>
+                  <date when="1865-06-11">Sunday afternoon June 11 1865</date><lb/>
+                  <name type="place">Nashville</name>
+               </dateline>
+            </opener>
+            
+            <p>my wife I write these lines hopeing they will find you all well at this time I thank god it leasves me pretty will at this time although my trouble is graite my dear wife I wrote these few lines to telly ou aboute my alfred he is very dangers sick in the ospetle now he whent to the hospital the 3 day of June being wheler wrote a letter o me on the 3 of June and I did not get it untill the eighte of june and he stated me in a letter the I must come to nashvill in aste
+               
+            <pb facs="0012_001356_000229_0002.jpg" n="2" xml:id="d2e228"/>
+               for alfred have got the <unclear reason="illegible" resp="NL">tipefaver</unclear> very bad and I must in haste for the docter said he coldnot live and the letter come to <name type="place">chattanooga</name> to me I was gone 16 miles belo <name type="place">dalton</name> I come to chattanooga on friday afternoon and a rived at nasvhill on saturday night my dar wife and I whent to the hospetle and I founde my dear alfred very sick with the fever and the diarea he did not know me then intell the next morning is is not senseble now he dont know only now and then my d. weife he canot speke much out at all that I can understant him
+               
+            <pb facs="0012_001356_000229_0003.jpg" n="3" xml:id="d2e239"/>
+               he trys very harde to spoke to me and he cannot my dea wife this is trouble to me now I wish he ade come here a month ago henry wheeler said that is been sick this last month and he told him he had bette go home then before he got the fever I ham with him all the time day and night I keep ill cloths on is head all the time the doctor tolde me this morin that this was but littel chance of his recovery his putts was a hundred and sitey and if hely lower quill he would not live live
+               
+            <pb facs="0012_001356_000229_0004.jpg" n="4" xml:id="d2e242"/>
+               my wife I do not like to be in the hospitel there so many men in there sick moste of them are <gap/> o my dear wife I wish you was here he called for you last night last night he called ma three times and it made me fel so bad all the I sit alone in the Hosital I am got to be up all the night againg with my de child or  my dear wif I you austin was here my de wife I feel very sad myself if it is the Lords will that I should have to leave my dear whilde in tennsee and come home without him i never conbin</p>
+         </div>
+      </body>
+   </text>
+</TEI>

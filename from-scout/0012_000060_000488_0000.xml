@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000488_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1882-03-27">1882 Mar. 27</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000488_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>	Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1882 Mar. 27</title>
+               <date>1882-03-27</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 p.</extent>
+               <note type="abstract">1882 Mar. 27 Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Refers to the recent improvement in J.G.M.&apos;s health. Offers congratulations on his 85th birthday. Expresses the hope that he will live many more years and that they will someday meet in heaven. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Birthdays --  Tennessee -- Knoxville.</term>
+               <term>Wishes.</term>
+               <term>Future life.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Health</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Anniversaries, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e148">
+            <pb n="1" facs="0012_000060_000488_0001.jpg" xml:id="d3e149"/>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Mecklenberg Place</p>
+            <p>Knoxville,</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000488_0002.jpg" xml:id="d3e163"/>
+            <p>Anson Nelson,</p>
+            <p>City Treasurer.</p>
+            <p>Office of City Treasurer,</p>
+            <p>Nashville, March 27, 1882</p>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>My Dear Sir:</p>
+            <p>The receipt of your precious letter of the 18th <unclear reason="illegible" resp="JR">has</unclear> acted as a <unclear reason="illegible" resp="JR">tonic</unclear> to me, and I read the familiar <unclear reason="illegible" resp="JR">writing</unclear> with a <unclear reason="illegible" resp="JR">zest</unclear> that was truly refreshing. My wife, also, enjoyed it exceedingly. We are very much gratified to know that you are better, and we trust you will continue to improve.</p>
+            <p>What a delightful time you must have had on Saturday last, celebrating your 85th birthday! How we wish we could have been with you! Those present must have enjoyed the occasion. Long may you live! And you will too; And when you leave this world you will enter into the next with</p>
+            <pb n="3" facs="0012_000060_000488_0003.jpg" xml:id="d3e198"/>
+            <p>your youth renewed, and all your intellectual faculties in full vigor.</p>
+            <p>Shall we know each other there? Of course we will. If Peter nand James and John, on the moment of Transfiguration, could recognize Moses and Elijah, one of whom had been in Heaven for fifteen hundred years, the other nine hundred, what is to hinder us from recognizing each other? It is a delightful thought.</p>
+            <p>But I write you a line this morning to congratulate you upon your passing the eighty-fifth mile post in the <unclear reason="illegible" resp="JR">journey</unclear> of life, and to say that my wife and I send our love and good wishes to you and Mrs. Ramsey and all your family. Your wife has kept you alive, by the aid of our Heavenly Father, for these many years, and she will receive a bright crown for all her works of faith and labors of love, in the Kingdom of eternal glory.</p>
+            <p>Praying that you may remain with us for many years to come,</p>
+            <p>I remain yours,</p>
+            <p>Very sincerely,</p>
+            <p>Anson Nelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

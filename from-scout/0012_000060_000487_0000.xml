@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000487_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>W.G. McAdoo</name>
+ in Knoxville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1881-03-25">1881 Mar. 25</date>
+            </title>
+            <author>
+               <name type="person">McAdoo, W. G. (William Gibbs), 1820-1894</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000487_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W.G. McAdoo in Knoxville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1882 Mar. 25</title>
+               <date>1882-03-25</date>
+               <author>
+                  <name>McAdoo, W. G. (William Gibbs), 1820-1894</name>
+               </author>
+               <extent>2 digital images; 1 envelope, 1 p.</extent>
+               <note type="abstract">1882 Mar. 25 W.G. McAdoo, Knoxville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Poem commemorating Dr. Ramsey&apos;s 85th birthday.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Birthdays -- Poetry.</term>
+               <term>Friendship -- Poetry.</term>
+               <term>Existentialism in literature.</term>
+               <term>Tennessee, East -- Poetry.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Anniversaries, etc.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000060_000487_0001.jpg" xml:id="d3e150"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>At Home,</p>
+            <p>Knoxville.</p>
+            <pb n="2" facs="0012_000060_000487_0002.jpg" xml:id="d3e162"/>
+            <p>To Dr. J.G.M. Ramsey,</p>
+            <p>On reaching his 85th Birthday,</p>
+            <p>March 25th 1882.</p>
+            <p>O joy, that to the pyramid of years</p>
+            <p>Which in Thy Life thy loving friends behold,</p>
+            <p>One more is added; and to thee unrolled</p>
+            <p>Thy life&apos;s year Eight-sixth in joy appears!</p>
+            <p>Already Tennessee&apos;s great heart reveres</p>
+            <p>Thy honored name, as did the Greeks of old</p>
+            <p>The grand Thucydides; for Thou has told</p>
+            <p>The story of Thy land&apos;s proud pioneers!</p>
+            <p>He did the same for Greece; and as his name</p>
+            <p>Through the years by Thousands lives, so too Thine own</p>
+            <p>Shall Through the future ages oft be cited.</p>
+            <p>Heaven send thee many years! And may the claim</p>
+            <p>Fate hath on all, so gently be made known</p>
+            <p>That Thou shall painless pass to Heaven delighted!</p>
+            <p>W.G. McAdoo</p>
+            <p>Knoxville, Tennessee.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

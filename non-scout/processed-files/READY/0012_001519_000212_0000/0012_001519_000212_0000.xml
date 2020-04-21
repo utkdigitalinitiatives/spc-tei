@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000212_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Laura Maynard</name>
+				                    in Knoxville, Tenn., to Washburn Maynard in Newport, RI., <date when="1863-10-18">1863 Oct. 18</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Laura Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000212_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Laura Maynard in Knoxville, Tenn., to Washburn Maynard in Newport, RI., 1863 Oct. 18</title>
+          <date when="1863-10-18">1863 Oct. 18</date>
+          <author>
+            <name type="person">Laura Maynard</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000212_0001.jpg" xml:id="d4e39"/>
+        <p>Horace Maynard N.Y.</p>
+        <p>Free</p>
+        <p>Mid'n Washburn Maynard</p>
+        <p>Naval Academy,</p>
+        <p>Newport,</p>
+        <p>R.I.</p>
+        <pb n="2" facs="0012_001519_000212_0002.jpg" xml:id="d4e53"/>
+        <p>Knoxville. Oct. 18th. 1863</p>
+        <p>My dear Washburn,</p>
+        <p>Two weeks ago tonight, you left us at Cincinnati - I hope you reached your destination in safety &amp; comfort - We thought of you &amp; spoke of you, <unclear reason="illegible" resp="JCM">every</unclear> day, as having arrived at different points in your journey. We left on Tuesday as we intended. We crossed the Ohio, to Covington, at <unclear reason="illegible" resp="JCM">L. Pell &amp; wen Joor</unclear> Whirling the one way to Lexington. At Nicholasville, we arrived at S Pill in a disagreable rain. This is the <unclear reason="illegible" resp="JCM">tirmiuus</unclear> of the R. Road, &amp; from there we came the cutin distance to Knoxville, in Gov't Ambulances.  Mr. &amp; Mrs <unclear reason="illegible" resp="JCM">Tachustock</unclear> &amp; Pleas. meet us at Nicholasville &amp; came on with us. OUr drivers were soldiers who took this means</p>
+        <pb n="3" facs="0012_001519_000212_0003.jpg" xml:id="d4e73"/>
+        <p>of coming to Knoxville to join their regiments. We had a long tedious journey, on the roughest road I ever saw. We passed the famous Wild Cat battle - field - the wildest spot you can imagine - &amp; saw the place where your borther's tent was pitched - &amp; where the rebel Perry Newman &amp; Athens were slain. At our place, a small rock is placed <unclear reason="illegible" resp="JCM">underish</unclear> in the ground, with the inscription "3 Lecesh buried here," cut upon it with a knife. &amp; from this defeat you know the rebels turned back to Knoxville, &amp; then went on to <unclear reason="illegible" resp="JCM">Somerset</unclear> to get a terrible whipping at Mill Spring - We came to <unclear reason="illegible" resp="JCM">Barbourville</unclear> &amp; <unclear reason="illegible" resp="JCM">then</unclear> to cumberland Gap - This is a wonderful place &amp; when you come home, I hope you will see it.</p>
+        <p>We spent a night at Tazewell &amp; another at Maynardville, &amp; then after a few hours' ride, we were in Knoxville. It rained hard, &amp; the</p>
+        <pb n="4" facs="0012_001519_000212_0004.jpg" xml:id="d4e91"/>
+        <p>streets were very muddy, &amp; we were taken by our <unclear reason="illegible" resp="JCM">caudley</unclear> escort (a pack of Molford's) through Gay St. as far as Cumberland St. &amp; <unclear reason="illegible" resp="JCM">thenee</unclear> to Mr. Brownlow's while there waiting to unload I received an invitation through one <unclear reason="illegible" resp="JCM">Beu</unclear> to go to Mr. <unclear reason="illegible" resp="JCM">Diekeiuson</unclear> Accordingly, I came here where I am now writing. Tho' how long I may stay I do not know. Our house is occupied by a Federal Officer Gen <unclear reason="illegible" resp="JCM">Gilbert</unclear> &amp; is in a wretched condition - I have not been to look at it. Your father has been all through it. Aunt <unclear reason="illegible" resp="JCM">Nold</unclear>, Ben &amp; Caroline are all here, &amp; welcomed us most joyfully. Aunt <unclear reason="illegible" resp="JCM">Nold</unclear> wants to see you &amp; Jimmy - The says the watered your garden last year, after we left &amp; sold your crop, &amp; you are entitled now, to &amp; 5,00 Confederate money -</p>
+        <p>As we were journeying <unclear reason="illegible" resp="JCM">witheeward</unclear> we met Perez Cowan, who <unclear reason="illegible" resp="JCM">grab</unclear> oz-</p>
+        <pb n="5" facs="0012_001519_000212_0005.jpg" xml:id="d4e125"/>
+        <p>hard, onhis way to Amherst College - I told him if he had been out a few days earlier he would have met you at cincinnati &amp; you could have gone to N. York together. I am truly rejoiced that he has gone there. He will write you I think - I have not seen <unclear reason="illegible" resp="JCM">Mat.</unclear>yet.</p>
+        <p>I cannot tell you much about the state of things here at present. Gen. Burnside is here &amp; I have seen him &amp; like him.</p>
+        <p>Your brother I have not seen but I hope he will get a furlough of at least four or five days &amp; come &amp; see me. I have nothing more of your cousin <unclear reason="illegible" resp="JCM">Wen</unclear> I only hope he will, someday make his appearance among us.</p>
+        <p>Your sister is not <unclear reason="illegible" resp="JCM">quitting just</unclear> yet that she is at home - It does not seem just like the old place to her. She is well &amp; wants to see her brother.</p>
+        <p>Your father is still here, with me &amp; my will, &amp; like me he wants to hear from you. Write to me darling, as soon as you receive this &amp; let us know all about you &amp; your Academy.</p>
+        <p>May God love &amp; bless you</p>
+        <p>Your Mother</p>
+        <p>Most affecty</p>
+      </div>
+    </body>
+  </text>
+</TEI>

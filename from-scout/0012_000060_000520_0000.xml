@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000520_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>John M. Lea</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1884-03-19">1884 Mar. 19</date>
+            </title>
+            <author>
+               <name type="person">Lea, John M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000520_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John M. Lea in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1884 Mar. 19</title>
+               <date>1884-03-19</date>
+               <author>
+                  <name>Lea, John M.</name>
+               </author>
+               <extent>2 digital images; 2 pages; Box 2; Folder F</extent>
+               <note type="abstract">1884 Mar. 19 John M. Lea, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Reports that J.G.M.&apos;s recovery brought great gratification to the members of the Historical Society. Offers congratulations on his approaching 87th birthday and points to the many changes which have occurred during his life and changes that are to come. Believes that the society is passing from the period of collecting relics to the more desirable period of amassing historical information and will soon publish an annual volume. Encloses newspaper account of the March 18th meeting of the Society.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey family</term>
+               <term>Tennessee -- History -- Societies.</term>
+               <term>Tennessee -- Learned institutions and societies.</term>
+               <term>Lea, John M.(John McCormick), 1818-1903 -- Correspondence.</term>
+               <term>Ramsey, J.G.M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Southern States -- History -- 1865-1951.</term>
+               <term>Historical societies</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000520_0001.jpg" xml:id="d3e153"/>
+            <p>41 North Vine Street</p>
+            <p>Nashville, Tenn., March 19 1884</p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Prest. Tenn Historical Society</p>
+            <p>My Dear Sir,</p>
+            <p>At the meeting of the Society last night, an an account of the proceedings being herewith enclosed, there were several subjects of interest <unclear reason="illegible" resp="JR">discussed</unclear>, but the one matter which gave most pleasure was the announcement that you had recovered from the severe attack of <unclear reason="illegible" resp="JR">illuch</unclear>, of which a few weeks ago we were so much pained to hear. There is not a member of the Society who, whether he has ever seen or known you or not, does not consider you as his friend and the recovery to your usual health affords them all a sincere gratification. Allow me to congratualte you - a few days in advance of the fact I believe - on the <unclear reason="illegible" resp="JR">recrossence</unclear> of the anniversary of your birth-day. Hither the limits of your life have been <unclear reason="illegible" resp="JR">compreped</unclear> since events, which have had a direct and beneficial influence upon the human race than ever before happened within three such duration of Time. The world has moved more within the last eighty five years than it moved for the two hundred and fifty preceeding years - To which intent it will move in the next eight five years no one can tell, for there seems to be no limit to an <unclear reason="illegible" resp="JR">inguny</unclear> into the secrets of nature - no differently in the way of <unclear reason="illegible" resp="JR">prograph</unclear>which the human capacity may not conquer.</p>
+            <pb n="2" facs="0012_000060_000520_0002.jpg" xml:id="d3e190"/>
+            <p>Prof. <unclear reason="illegible" resp="JR">Garret</unclear> read last night one of the most interesting papers which has ever been presented to the Society. The Society will soon be able to publish an annual volume. You know I much more appreciate matters of history than I do the collection and presentation of ideas, and I am glad to report that we are emerging from the <unclear reason="illegible" resp="bds">museum</unclear> period into the highter position of an organization whose office it will be to gather up every thing in the past worthy of a remembrance and to note all that is now <unclear reason="illegible" resp="JR">passing</unclear> for the benefit of those who may succeed us.</p>
+            <p>After the company had left last night and Mr. Nelson and company were arranging the minutes, I told him I should invite you to-day, and he requested me to give to you his congratulations upon your recovery and to present his regards to Mrs. Ramsey. Please say to Mrs. Ramsey I highly appreciate the letter which she wrote to me a few months ago and I have filed it away among my valuables. I beg you both to accept my best and kindest wishes.</p>
+            <p>Very Truly</p>
+            <p>Your friend,</p>
+            <p>John M. Lea</p>
+         </div>
+      </body>
+   </text>
+</TEI>

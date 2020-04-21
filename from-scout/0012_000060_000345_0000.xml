@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000345_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Francis A. Ramsey</name> in Swan-pond, Tenn., to J.G.M.
+Ramsey, at Washington College, Tenn. <date when="1815-09-27">1815 September 27</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000345_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Francis A. Ramsey in Swan-pond, Tenn., to J.G.M. Ramsey at Washington College, Tenn. 1815 Sept. 27</title>
+               <date>1815-09-27</date>
+               <author>
+                  <name>Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1815 Sept. 27 Francis A. Ramsey, Swan-pond, Tenn., to his son, J.G.M. Ramsey, Washington College, Tenn. Instructions for making the trip home to Knoxville and for picking up wool left at Squire Galbraith&apos;s on the way.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Personal belongings -- Tennessee -- History -- 19th century.</term>
+               <term>Travel -- History -- 19th century.</term>
+               <term>Tennessee -- Description and travel -- History -- 19th century.</term>
+               <term>Washington College (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000345_0001.jpg" xml:id="d3e155"/>
+            <p>James G. My. Ramsey</p>
+            <p>at Washington College</p>
+            <p>By <unclear reason="illegible" resp="bds">Seg</unclear> Tennessee</p>
+            <pb n="2" facs="0012_000060_000345_0002.jpg" xml:id="d3e170"/>
+            <p>Dear James</p>
+            <p>I had written the enclosed letters to you with an expectation of sending them by Mr Patterson
+but he was gone before I got to Mr Rogerses with the letter, I have since that time received some
+specie and have sent $20 by <unclear reason="illegible" resp="bds">levy</unclear>. I wish you to go
+on Saturday to Mr Carmichaels, and try if he will give you any money, whatever he will give you
+either in paper or silver will be acceptable. I want you to come by Squire <unclear reason="illegible" resp="bds">Galbraiths</unclear> and bring the Merino wool that I left there <gap resp="Dyson-Smith"/>
+               <unclear reason="illegible" resp="bds">cancled</unclear> if it is done if it is not I suppose
+<gap resp="Dyson-Smith"/> can be done while you are there -- If Mr <unclear reason="illegible" resp="bds">Harneses</unclear>
+               <unclear reason="illegible" resp="bds">buys</unclear> does not wait until Monday I would rather
+you would not start with them, as for you to travel on the <unclear reason="illegible" resp="bds">Sableath</unclear>,
+you can perhaps be ready on Saturday night, and come down after <unclear reason="illegible" resp="bds">Tensncess</unclear> as far as Squire Galbraiths, breakfast at Greeneville on Monday morning
+and get home on Tuesday night - but prudence will <unclear reason="illegible" resp="bds">doust</unclear> - 
+May God have you continually in his Holy keeping is the earnest Prayer of your affectionate</p>
+            <p>Father - F.A. Ramsey</p>
+            <p>27th September 1815</p>
+            <p>Our kind Salutations to all Friends</p>
+            <p>I wish you to see Mr Carmichael</p>
+         </div>
+      </body>
+   </text>
+</TEI>

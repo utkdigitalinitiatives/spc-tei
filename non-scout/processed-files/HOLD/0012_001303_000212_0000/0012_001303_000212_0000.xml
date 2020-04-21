@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000212_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in Camp Laurel, Md., to Ellen Smith in Jackson, Tenn.,<date when="1918-02-24">1918 Feb. 24</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000212_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in Camp Laurel, Md., to Ellen Smith in Jackson, Tenn.,1918 Feb. 24</title>
+          <date when="1918-02-24">1918 Feb. 24</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000212_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith,</p>
+        <p>111 Hatton Street.</p>
+        <p>Jackson,</p>
+        <p>Tenn.</p>
+        <pb n="2" facs="0012_001303_000212_0002.jpg" xml:id="d4e49"/>
+        <p>From J.L. Dodds</p>
+        <p>Co. L. 23th Engir.</p>
+        <p>Laurel, Md.</p>
+        <pb n="3" facs="0012_001303_000212_0003.jpg" xml:id="d4e57"/>
+        <p>Camp Laurel Md.</p>
+        <p>Feb 24 1918</p>
+        <p>Dear Ellen:</p>
+        <p>I received your letter friday night and had begun to thank I would never here from you any more  I was real glad to get it even if I did have to wait a long time</p>
+        <p>I am getting along fine and feel dandy all the time  I thank this life agrees with Me for I feel so murch better than I did when I enlisted</p>
+        <p>The only thing that is rong with me Now I want to come home. But I dont thank they is any chance for me to get off from Camp</p>
+        <p>So guess I will have to let it</p>
+        <pb n="4" facs="0012_001303_000212_0004.jpg" xml:id="d4e73"/>
+        <p>go at that.</p>
+        <p>I am having lots of fun Now have been on the rifle range several times of late But they wont learn Me how to shoot  I Miss the target about half the time</p>
+        <p>I have been shooting a mechine gun this morning  I shot it 47 times and didnt hit the target at all "some shot" and the target is about 6 feet squar  so I dont thank I will ever learn how to shoot the blooming thing</p>
+        <p>Guess you are still on the go, for the weather has been real nice here except a snow friday and it has most melted now  I am not at all sorry of it either I thank I have had enough winter for a while</p>
+        <p>I have thought several time I would freeze but have always</p>
+        <pb n="5" facs="0012_001303_000212_0005.jpg" xml:id="d4e85"/>
+        <p>Managed to pull through</p>
+        <p>Say did you get the picture I sent you you should have it by this time. Well what do you think of it? Say havent you got a little picture of some kind you could send me? one that will go in My card case  I want to take it to France with Me.</p>
+        <p>Well what is going on in the little City? I guess there isnt murch only the shows  But that is more than I get to see. I will tell the truth I havent been to a show since I left home</p>
+        <p>I wouldent know how to act if I should get a chance to go to one</p>
+        <pb n="6" facs="0012_001303_000212_0006.jpg" xml:id="d4e95"/>
+        <p>I have been to one dance  I thank I have told you about that  But I didnt tell you about the little girl I met  She sent me a box of candy the other day. Oh some girl  As long as she will send the candy</p>
+        <p>Guess I will soon leave here and then I will go back to Laurel I thank  And then away goes the girl and the candy  Has Esther got married yet? Tell her will write her soon</p>
+        <p>I dont know any more to write so I will close for this time  Write Me every thing you can thank of I like to here the news</p>
+        <p>With lots of love</p>
+        <p>James L Dodds.</p>
+        <p>Co. L. 23th Engir.</p>
+        <p>Laurel,</p>
+        <p>Md.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

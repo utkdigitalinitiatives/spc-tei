@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000351_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Francis A. Ramsey</name> in Swan-pond, Tenn., to Mr. and Mrs. Reynolds
+Ramsey, in Gettys Town, Penn. <date when="1800-09-25">1800 September 25</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000351_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Francis A. Ramsey in Swan Pond, Tenn., to Mr. and Mrs. Reynolds Ramsey in Gettys Town, Penn. 1800 Sept. 25</title>
+               <date>1800-09-25</date>
+               <author>
+                  <name>Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1800 Sept. 25, Francis A. Ramsey, Swan Pond, Tenn., to his parents, Mr. and Mrs. Reynolds Ramsey, Gettys Town, Adams County, Penn. Description of the illness and death of his son, Samuel Reynolds. Description of the death of an aunt and news of the illness of another aunt. Also, requests information as to why his parents had not written him in over a year&apos;s time.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Death notices -- Tennessee, East -- History -- 19th century. </term>
+               <term>Children -- Tennessee, East -- Death -- History -- 19th century.</term>
+               <term>Letter writing -- Social aspects -- Tennessee, East -- History -- 19th century.</term>
+               <term>Tennessee, East -- History -- 19th century.</term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Correspondence.</term>
+               <term>Ramsey, Reynolds, 1736-1816 or 17 -- Correspondence. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000351_0001.jpg" xml:id="d3e157"/>
+            <p>Knoxville Oct 9th 1800</p>
+            <p>Recd Octbr 27th</p>
+            <p>Mr Reynolds Ramsey</p>
+            <p>in Gettys Town</p>
+            <p>Adams County</p>
+            <p>Pennsylvania</p>
+            <p>To be left in the post office in Gettys Town</p>
+            <pb n="2" facs="0012_000060_000351_0002.jpg" xml:id="d3e177"/>
+            <note type="transcription">The following post script runs along the left side of the first page of the letter.</note>
+            <p>P.S. By a letter received yesterday from Old Uncle Alexander I am informed that Aunt is no better but is
+wore very <unclear reason="illegible" resp="bds">low</unclear> by her sickness of more than twelve months, it is
+probable that she will soon take her flight also and light in the Realms of Glory and ever be with her
+Lord, whom she hath loved so long and so faithfully upon earth.</p>
+            <note type="transcription">The preceding post script runs along the left side of the first page of the letter.</note>
+            <p>Swan-pond September 25th 1800</p>
+            <p>Honored Parents</p>
+            <p>I do not know what to say, what to think or what to conclude about my receiving no accounts from you, more than
+twelve months have elapsed since I have received a scrape of a pen from you, this is my seventh letter in that time, why
+it is that no account is received by either my Brother or my self from you is therefore matter of surprize indeed:
+Brother received yours of the 15th of March last by post in a very short time after it was wrote which made us
+expect to receive more shortly in the same way - My last to you was dated 30th of July last, on that same day I was
+seized with the <unclear reason="illegible" resp="bds">remitting</unclear> Fever and for the most part have been
+confined to the house (tho not to bed) ever since - a few days after I was taken, our son Samuel Reynolds was taken
+a few days after him James was taken, and after him McKnitt - The Children all soon recovered - Mrs Ramsey alone
+of the white family escaped, and five of the <unclear reason="illegible" resp="bds">Black</unclear> have had
+it, and all appear tolerably well recovered, and we was hoping that Providence who had thus far tryed us would
+stay his hand and not contend longer with us - but Oh! how <unclear reason="illegible" resp="bds">blasted</unclear>
+our expectations! Not to keep you longer in suspence about the mournful event! Our Dear Son Samuel Reynolds is
+now in Eternity. Gods Holy Will be done -- The manner of his death was as follows (to wit) on the morning of
+the 16th instant him and his two Brothers John and James had all arose early in apparent good health as ever
+they were - <unclear reason="illegible" resp="bds">each</unclear> one of them took a piece of bread and
+<unclear reason="illegible" resp="bds">ate</unclear> heartily after they got up and were all playing about
+the outside of the yard when I arose - </p>
+            <pb n="3" facs="0012_000060_000351_0003.jpg" xml:id="d3e213"/>
+            <p>at about 8 oclock they all came into the House Sammy complained to his Ma that he was cold, he sat before
+her a short time at the fire and began to shake we put him into bed and covered him warm expecting he was taking
+a fit of the ague, but he was directly seized with some kind of stupor and sleepiness and could scare talk any - 
+he then was taken with a violent vomiting and <unclear reason="illegible" resp="bds">purging</unclear> which
+continued about an hour, and then ceased, he had a most excessive thirst from the first which continued with
+him while he could take any thing when the vomiting ceased he broke out in a cold clammy sweat which continued
+to the last he was at this time for the most part delirious and could talk until about 12 oclock at which
+time he became <unclear reason="illegible" resp="bds">conuntsed</unclear> &amp; continued from one fit to
+another until about 3 o clock at which time his breath left him, and his active sprightly spirit I humbly
+trust was graciously received in the arms of our blessed Redeemer, who in the days of his flesh took
+little Children into his arms and blessed them - and said of such is the kingdom of God!</p>
+            <p>Immediately after Sammy was taken and began to appear sleepy we suspected the symptoms were dangerous
+and sent off for Mr <unclear reason="illegible" resp="bds">Garreck</unclear> (who is now in the practice
+of Physic) he was not at home, the messenger continued on to town for Doctor <unclear reason="illegible" resp="bds">Claiborn</unclear> who was not at home neither, but was then about two miles from my
+own house - I sent there for him and it was about 12 oclock before we</p>
+            <pb n="4" facs="0012_000060_000351_0004.jpg" xml:id="d3e235"/>
+            <p>we could get any medical assistance, every effort proved fruitless after the Doctor came as well
+as before, God was determined to show us that in this as well as other things that &quot;without him we could
+do nothing&quot; he I fondly hope took him to himself - about 10 oclock Sammy in the midst of his
+<unclear reason="illegible" resp="bds">distraction</unclear> and great pain broke out and sung</p>
+            <lg>
+               <l>&quot;Salvation oh! the joyful sound</l>
+               <l>&quot;Tis pleasure to our ears - </l>
+            </lg>
+            <p>who can say but that at that very moment the spirit of God was showing him that <unclear reason="illegible" resp="bds">of creation</unclear> and <unclear reason="illegible" resp="bds">making</unclear>
+               <gap resp="Dyson-Smith"/> ling
+to accept it - I humbly trust that him and his Brother who went before him are now in the enjoyment of God
+and have already learned more about that salvation that is purchased by our glorious Redeemer than what is
+known by the most advanced Saint on earth - My Brother is sick also and was not able to come to see us, and
+assist us in this trying time it appears as if God had on purpose <gap resp="Dyson-Smith"/> us out from human comfort that
+we <unclear reason="illegible" resp="bds">aforetime</unclear> enjoyed that he himself might be seen to be
+the only source from whence we derive consolation, and bless his name that he with-holds not altogether
+<gap resp="Dyson-Smith"/> own free favour from us, and hath <unclear reason="illegible" resp="bds">positively</unclear>
+promised that his loving kindness he will not take away; - My dear old Aunt <unclear reason="illegible" resp="bds">Patton</unclear> hath also took her flight from these regions of distress - upon the 9th
+day of August she sent over to see if I could go over and see her I then had a fever upon me and could
+not go, when she heard I could not come, then believing the time of her departure was at hand she cried
+out &quot;Good Lord Jesus receive my Spirit,&quot; she spoke none afterwards but in about fifteen
+minutes went asleep we trust in Jesus and I expect will awake in his Image in the morning of the
+Resurrection, and Oh! that we may all be prepared to rise</p>
+            <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+            <p>in like manner is the earnest prayer of your affectionate son F.A. Ramsey</p>
+            <p>P.S. I hope Brother is on the <unclear reason="illegible" resp="bds">recovery</unclear>, Mrs Ramsey
+desires to be remembered to you all, she is unable to write at present.</p>
+            <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+         </div>
+      </body>
+   </text>
+</TEI>

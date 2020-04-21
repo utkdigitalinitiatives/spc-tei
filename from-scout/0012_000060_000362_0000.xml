@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000362_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>H.R. Frost</name> in Charleston, S.C., to J.G.M.
+Ramsey, in Charleston, S.C. <date when="1829-03-17">1829 March 17</date>
+            </title>
+            <author>
+               <name type="person">Frost, Henry Rutledge, 1790-1866</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000362_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, H.R. Frost, in Charleston, S.C., to J.G.M. Ramsey in Charleston, S.C. 1829 Mar. 17</title>
+               <date>1829-03-17</date>
+               <author>
+                  <name>Frost, Henry Rutledge, 1790-1866</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1829 Mar. 17, H.R. Frost, Dean of the Medical College, Charleston, S.C., to J.G.M. Ramsey, Charleston, S.C. Invitation to a supper to be given by the faculty of the Medical College. Enclosed are calling costs of Col. Hayne and Mitchell King.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Suppers -- South Carolina -- Charleston -- History -- 19th century.</term>
+               <term>Dinners and dining -- South Carolina -- Charleston -- History -- 19th century.</term>
+               <term>Charleston (S.C.) -- Social life and customs -- 19th century.</term>
+               <term>Frost, Henry Rutledge, 1790-1866 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000362_0001.jpg" xml:id="d3e151"/>
+            <p>Mr. J.G. Ramsey</p>
+            <pb n="2" facs="0012_000060_000362_0002.jpg" xml:id="d3e159"/>
+            <p>The Faculty of the Medical College request the pleasure of Mr. J.G. Ramsey&apos;s company at supper
+tomorrow evening 8 Oclock at Camilla <unclear reason="illegible" resp="bds">Thustons</unclear> Broad
+Street - </p>
+            <p>H.R. Frost Dean</p>
+            <p>Thursday March 17</p>
+         </div>
+      </body>
+   </text>
+</TEI>

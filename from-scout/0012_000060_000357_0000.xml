@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000357_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J.G.M. Ramsey</name> en route to Charleston, S.C., to M.B.C.
+Ramsey, in Mecklenburg, Tenn. <date when="1828-11-11">1828 November 11</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000357_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey en route to Charleston, S.C., to M.B.C. Ramsey in Mecklenburg, Tenn. 1828 Nov. 11</title>
+               <date>1828-11-11</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1828 Nov. 11, J.G.M. Ramsey, North Carolina, en route to Charleston, South Carolina, to his wife, Mrs. M.B.C. Ramsey, Mecklenburg, Tenn. Discusses friends whom he has seen on his trip, his activities in general, and his plans for traveling farther south. Mentions the coming presidential election.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Travel -- Social aspects -- History -- 19th century.</term>
+               <term>Homesickness -- Tennessee, East -- History -- 19th century.  </term>
+               <term>Presidential candidates -- United States -- 19th century.   </term>
+               <term>Southern States -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Ramsey, M. B. C. (Margaret Barton Crozier), 1802-1889 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000357_0001.jpg" xml:id="d3e153"/>
+            <p>Mrs. M.B.C. Ramsey</p>
+            <p>Mecklinburg</p>
+            <p>Tennessee</p>
+            <p>Mr. Wallis</p>
+            <pb n="2" facs="0012_000060_000357_0002.jpg" xml:id="d3e167"/>
+            <p>Dr. Alexander&apos;s</p>
+            <p>Tuesday Evening Nov. 11, 1828</p>
+            <p>Dear Wife</p>
+            <p>If all my letters arrive safe at Mecklinburg you will think I write often enough however little
+worthy of your attention I communicate - But as your letters to me have miscarried I fear the same fate
+may have attended mine to you &amp; I therefore take this method by Cousin J.M. Wallis to tell you in 
+a few words that on the whole my health is improving I think - &amp; that if I could forget one melancholy
+instance of the <unclear reason="illegible" resp="bds">instability</unclear> of all human &amp;
+<unclear reason="illegible" resp="bds">sublunary</unclear> enjoyments I would <unclear reason="illegible" resp="bds">pass</unclear> my <unclear reason="illegible" resp="bds">time</unclear>
+though absent from you &amp; any home even pleasantly - Today I spent in <unclear reason="illegible" resp="bds">Charlotte</unclear> - a place you know with me of some notoriety - I saw Mr. Polk from
+Tennessee - who politely showed me Cornwallis&apos; head-quarters - the grave-yard of his soldiers &amp;c - Tell
+the Col. L.R.C.C. that I <unclear reason="illegible" resp="bds">went about among</unclear> the vast crowds
+that frequent a N.C. court on Tuesday giving an attentive ear to what was saying by <unclear reason="illegible" resp="bds">those</unclear> of Genl. Jackson - Two Adams <unclear reason="illegible" resp="bds">electors</unclear>
+were on the ground &amp; no one of the Jackson Ticket but 2 or 3 to one were evidently in favor of our</p>
+            <pb n="3" facs="0012_000060_000357_0003.jpg" xml:id="d3e206"/>
+            <p>candidate. There is no need to enlarge here on this topic - but I cannot keep from attending the
+election Thursday next - </p>
+            <p>Mr. Wallis I hope will stay one day at least with you - he is so home-sick that he could not be
+prevailed on to rest but one day here - I ask him how he supposes I do who may be absent from home a month
+or two or three yet? I answer to you I will do as well as I can. I know my duty to myself to my family
+&amp; to my country requires the sacrifice &amp; I yield to the necessity of it with as much cheerfulness
+as I can command &amp; perhaps with more than you suppose from some accidental expressions in my
+letters - but I disguise nothing from you &amp; feeling when I write as if I were by you &amp; conversing
+with you I perhaps come out with too little reserve in some places - You must not form erroneous conclusions
+from such expressions - </p>
+            <p>Our friends are all well &amp; are doing well - I find all of them are members of their Mother Church - The
+Presbyterian - except Dr. Caldwell - who has had his little son baptised - even Uncle J.M.A. in his old
+age has made a <unclear reason="illegible" resp="bds">profession</unclear>
+            </p>
+            <pb n="4" facs="0012_000060_000357_0004.jpg" xml:id="d3e220"/>
+            <p>of the religion of his Fathers. All the young <gap resp="Dyson-Smith"/> of the <unclear reason="illegible" resp="bds">connection</unclear> are in full <unclear reason="illegible" resp="bds">commu</unclear>
+               <gap resp="Dyson-Smith"/>
+- A wedding is expected in a few <unclear reason="gap" resp="bds">day</unclear>
+               <gap resp="Dyson-Smith"/> for which I am
+invited to <unclear reason="illegible" resp="bds">wait</unclear> - R. D. <gap resp="Dyson-Smith"/> Caldwell - but I shall
+be on my way <gap resp="Dyson-Smith"/> before it takes place - My friends are <gap resp="Dyson-Smith"/> ions that I should stay longer
+here <unclear reason="illegible" resp="bds">than</unclear> tended - but next Wednesday I shall set <gap resp="Dyson-Smith"/>
+               <unclear reason="illegible" resp="bds">Campden</unclear> S.C. - against that <gap resp="Dyson-Smith"/> shall receive a letter
+from <gap resp="Dyson-Smith"/> calculate high water <unclear reason="illegible" resp="bds">preven</unclear>
+               <gap resp="Dyson-Smith"/>
+week - Uncle <unclear reason="illegible" resp="bds">Baum</unclear> has <unclear reason="illegible" resp="bds">made enough</unclear>
+               <gap resp="Dyson-Smith"/> me to be at Mr. Henderson&apos;s tomorrow night - The election
+Thursday - Major Davidson&apos;s Friday - B Alexanders Saturday - Hopewell Sunday, John Alexanders Monday. 
+<unclear reason="illegible" resp="bds">W. Alexander</unclear> Tuesday &amp; Wednesday I leave them for the
+South - <unclear reason="illegible" resp="bds">Tell Croz<gap resp="Dyson-Smith"/>
+               </unclear> to <gap resp="Dyson-Smith"/> what I told
+<gap resp="Dyson-Smith"/> &amp; to be always good - These things of course you <gap resp="Dyson-Smith"/> will not permit every one to
+see - but those who <unclear reason="illegible" resp="bds">have</unclear> parents or can estimate parental
+solicitude <unclear reason="illegible" resp="bds">will</unclear> overlook &amp; excuse it - </p>
+            <p>I have only time to say <unclear reason="illegible" resp="bds">Love unceases</unclear> I am yours</p>
+            <p>J.G.M. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

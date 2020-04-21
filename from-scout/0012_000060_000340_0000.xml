@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000340_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J.G.M. Ramsey</name> in Mecklenburg, Tenn., to Andrew
+Jackson, at the Hermitage, near Nashville, Tenn. <date when="1823-05-28">1823 May 28</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000340_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1823 May 28, Letter (copy), J.G.M. Ramsey in Mecklenburg, Tenn., to Andrew Jackson at the Hermitage, near Nashville, Tenn.  Draft letter, May 30, 1823, to Judge Haywood.</title>
+               <date>1823-05-28</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>1 digital image; 1 page</extent>
+               <note type="abstract">1823 May 28, letter (copy), J.G.M. Ramsey, Mecklenburg, Tenn., to Gen. Andrew Jackson, the Hermitage, near Nashville, Tenn. Explains his interest in publishing a pamphlet on the Mecklenburg Convention and Declaration of 1775. Reports that while visiting relatives in North Carolina, he learned of Gen. Jackson&apos;s participation in the Convention. Requests information concerning the officers of the Convention. Includes draft letter, May 30, 1823, to Judge Haywood, (North Carolina?). </note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Pamphlets -- North Carolina -- Charlotte -- History -- 18th century.</term>
+               <term>Political conventions -- North Carolina -- History -- 18th century.</term>
+               <term>Declaration of intention -- North Carolina -- History -- 18th century.</term>
+               <term>Tennessee, East -- History -- 19th century -- Pamphlets.</term>
+               <term>Mecklenburg County (N.C.) -- History -- 18th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Jackson, Andrew, 1767-1845 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000060_000340_0001.jpg" xml:id="d3e156"/>
+            <p>Mecklenburg near Knoxville</p>
+            <p>Dear General</p>
+            <p>A pamphlet has recently published wich you have probably seen containing - documents of an interesting
+nature. From it the fact is established beyond controversy that a convention composed of &amp;c &amp;c vested
+with unlimited powers met at Charlotte in Mecklenburg <unclear reason="illegible" resp="bds">county</unclear>
+N.C. to deliberate on the existing state of things - From <unclear reason="illegible" resp="bds">these</unclear> 
+deliberations <unclear reason="illegible" resp="bds">resulted</unclear> + the convention made a declared - Which
+declared themselves &amp; represented a free &amp; independent of the government + a <unclear reason="illegible" resp="bds">transaction</unclear> as glorious &amp; eventful as it is honorable to the virtuous firmness
+patriotic <unclear reason="illegible" resp="bds">dream</unclear> &amp; the intelligence of the Convention
+They met on the 19th May 1775 &amp; on unhappily been suffered to remain the united in declaring themselves 
+a free &amp; independent people &amp; <unclear reason="illegible" resp="bds">however absolved</unclear> themselves
+from all allegiance in a great measure unknown &amp; forgotten &amp; has to the British Crown. This Declaration
+of Independence is in its <unclear reason="illegible" resp="bds">letters</unclear> &amp; never been inserted in
+the historical records of our Country. The memory of such an event ought to be perpetuated &amp; cherished in the
+bosom <unclear reason="illegible" resp="bds">onwards</unclear> 1st. of the American people. On a late visit
+to my relations in Mecklenburg I was informed 2nd that the 2nd Hero of New Orleans + the distinguished Citizen
+of my native State was the Deliverer of his <unclear reason="illegible" resp="bds">country</unclear> present
+at Charlotte on that memorable occasion - you when other &amp; Wishing to obtain all more important the
+information that can at this late period be collected relative to this <unclear reason="illegible" resp="bds">avocation</unclear> will permit to inform me who were members I have taken the liberty
+to request your leaders in that transaction of the Convention - especially who were the President &amp; Secretary
+or the <unclear reason="illegible" resp="bds">primary</unclear> members of the Convention - and any thing else
+on <unclear reason="illegible" resp="bds">these</unclear> such part character in forming the declaration yet
+you may think proper to communicate will be received most gratefully may <unclear reason="illegible" resp="bds">allow</unclear>
+to wrest from oblivion one of the most briliant transactions of in the early history of this Country. I have the
+honor to be with much respect yours &amp;c</p>
+            <p>May 30, 1823</p>
+            <note type="transcription">The following text is a second rough draft, upside down, at the bottom
+of the first page.</note>
+            <p>Judge Haywood</p>
+            <p>I have in my possession a pamphlet which you have no doubt seen establishing the fact that Convention met on the
+19 May 1775 at Charlotte &amp; declared themselves a free &amp; independent people. I have thought that perhaps
+in your historical researches you have received some information on the subject or that you have some
+<unclear reason="illegible" resp="bds">
+                  <unclear reason="illegible" resp="bds">recollection of that</unclear>Mill place</unclear>
+important fact in the early history of <gap resp="Dyson-Smith"/> Country. I should be happy to hear from you on this subject as soon
+as your other valuable engagements will permit</p>
+            <p>yours</p>
+            <p>May 30, 1823</p>
+            <note type="transcription">The preceding text is a second rough draft, upside down, at the bottom
+of the first page.</note>
+            <pb n="2" facs="0012_000060_000340_0002.jpg" xml:id="d3e231"/>
+            <p>Mecklenburg near Knoxville</p>
+            <p>May 29, 1823</p>
+            <p>My dear Sir</p>
+            <p>I have in my possession a pamphlet that contains <unclear reason="illegible" resp="bds">certificates</unclear>
+and attestations from many persons of respectability &amp; standing in North Carolina that a convention
+vested with unlimited powers met at Charlotte <unclear reason="illegible" resp="bds">Meck</unclear> County N.C.
+and on the 19 May 1775 declared themselves a free &amp; independent people This declaration as it is
+more than thirteen months sooner than the national one of July 4, 1776 and as it is not only similar in its
+spirit &amp; letter to it but also in some parts identically the same is considered a momentous transaction
+&amp; one altogether honorable to the virtue intelligence &amp; independence of that section of the
+country when it took place. The members of that immortal Convention have with the exception of two or three
+left this for the world of spirits. One of the survivors <unclear reason="illegible" resp="bds">Zacheras</unclear>
+Willson resides near Gallatin and my object in writing to you at this time is to procure from him through you
+any information he can at this late period of his life give of that eventful transaction. Particularly the
+first moves of the business - the members names - pursuits in life &amp;c. the name of the President &amp;
+Secretary &amp; the feelings of the mass of the people on the subject, &amp; any thing else he may think
+proper to communicate. A certificate from him will bear with it a kind of official authority as he was a
+member of the Con &amp; must have understood all the first steps of the that glorious event &amp;c</p>
+            <p>Rev. J.R. Bain</p>
+         </div>
+      </body>
+   </text>
+</TEI>

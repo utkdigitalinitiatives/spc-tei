@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000077_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Robert Neville
+</name>
+in Knoxville, Tenn. to his wife, Mary,
+<date when="1863-09-17">
+1863 September 17
+</date>
+            </title>
+            <author>
+               <name type="person">Neville, Robert</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000077_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Robert Neville in Knoxville, Tenn. to his wife, Mary, 1863 September 17</title>
+               <date>1863-09-17</date>
+               <author>
+                  <name>Neville, Robert</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">This letter dated September 17, 1863, was written by Robert Neville, a Union solider and a Corporal in the 103rd Regiment, Ohio Infantry. The letter was written to his wife Mary from Knoxville, Tennessee. He writes of his well being and the reception of the Union soldiers by people in the region - &quot;truly loyal people and whose enthusiasm was unbounded almost fanatically at the sight of The Yankees as they call up such joy I never saw in my life.&quot; </note>
+               <note type="collection">Robert Neville Letter, 1863</note>
+               <note type="manuscript">MS.2797</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>God (Christianity) -- Faithfulness. </term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Neville, Robert, Union soldier -- Correspondence. </term>
+               <term>United States. Army. Ohio Infantry Regiment 103rd (1862-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000077_000200_0001.jpg" xml:id="d3e154"/>
+            <p>Knoxville Ten Sept 17/63</p>
+            <p>My Very Dear Wife</p>
+            <p>A long time occored sine I wrote you my last nor have I in that time which has been more than six weeks, have I had your kind cheerful letters nevertheless your dear Husband has been well very well cheerful contented and happy though our march over the mountains was somewhat severe still it was pleasant and cheerfully performed then again we were placed on half rations except coffee, and a very needful beverage it was to, yet, amidst all the privations and hardship we passed through still we have lacked &quot;no good thing&quot; and have got over into East Ten without the loss of a man or the fireing of a gun. much to the joy of a persecuted brutally used hunted down, and truly Loyal people and whose enthusiasm was unbounded almost frantically so. as the sight of The Yankees as they invariably call up such manifestations of joy I never saw in all my life we were greeted amidst the waving of the old stars and stripes of hankerchiefs the throwing up of hats and and one continued long cheering of shout after shout and the quick grasp of the hand. nor have I amidst all this forgotten <unclear>to</unclear> the great source from whence every blessing doth eminate and evry day I tried to look to that great source our kind heavenly Father, nor have I been alltogether without good christian counsell even in this land of persecution</p>
+            <pb n="2" facs="0012_000077_000200_0002.jpg" xml:id="d3e169"/>
+            <p>and trial, and precious that counsels has been to me then my good testament has been like a treasure to me a precious guide, a great comforter in a weary hour amidst the wickedness of those around me. I might continue in this strain for some time yet, but you have perhaps more of our movements in the papers than I have seen or heard, nor will my time allay me to write at length.</p>
+            <p>Friday morning Sept 18</p>
+            <p>It was a long time before I got to sleep last night, for what reason I can not account, but as I lay upon my blanket spred upon the flore of the Knoxville Depot I thought of the many events that has transpired during the year that has past and gone more peticularly those of a religious nature I thought of a long christain narration I would have to give when I returned home and while I was thinking of all this I felt a gracious sense of our Heavenly Father in my soul, nerveing me to a patient waiting for the appointed time to come for that return, and the prospect at present is very cheering nor does it appear very far distant, also nerving me to a faithful performance of all known duties, to which duties I feel fully determined to do in the strength of grace Though the means of grace, which from the secret place of prayer I am deprived of, yet I do not for git them nor the return of the Holy Sabbath day, though military duties has compeled me to work on that day still I thought of the preached word that I enjoyed with you and others in other days</p>
+         </div>
+      </body>
+   </text>
+</TEI>

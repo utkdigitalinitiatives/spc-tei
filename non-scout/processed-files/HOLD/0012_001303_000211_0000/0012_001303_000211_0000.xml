@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000211_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in Camp Meade, Md., to Ellen Smith in Jackson, Tenn.,<date when="1918-01-27">1918 Jan. 27</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000211_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in Camp Meade, Md., to Ellen Smith in Jackson, Tenn.,1918 Jan. 27</title>
+          <date when="1918-01-27">1918 Jan. 27</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>7 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000211_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson,</p>
+        <p>Tenn,</p>
+        <pb n="2" facs="0012_001303_000211_0002.jpg" xml:id="d4e49"/>
+        <p>Tell Esther I will write her just as soon as I can I am going to try to write to night if I can get some paper.</p>
+        <p>Camp Meade Md.</p>
+        <p>Jan 27 1918</p>
+        <p>Dear Ellen:</p>
+        <p>I have the afternoon off so I will write you a few lines  I have been trying to find a few minutes time to write you for the last two days but this is the first time I have had a chance</p>
+        <p>I have been here 12 days I didnt get any mail until Friday and we couldnt send any out  That is why I havent written you before</p>
+        <p>The first 3 Companys of this Regt left here for France so they say To tell you the truth I dont know where they have gone</p>
+        <p>But I know they have left here. The Colonel (Johnson) was</p>
+        <pb n="3" facs="0012_001303_000211_0003.jpg" xml:id="d4e67"/>
+        <p>talking to us on the drill ground the other morning and he said we would have to hurry up and get in shape for we wouldnt have as long to get ready to go over the pond as the other 3 Companys had and they were only in Training about 2 1/2 months</p>
+        <p>I have been here about 6 weeks but I dont thank we will leave here before the 15 of March and maybe not then  I want to come home some time about 15 of March if I can</p>
+        <p>I was up town about 2 hours last night is the first time I have been out of Camp since I have been here only on hikes</p>
+        <p>This is some burg about 2 thousand people  Just one main street have a picture show but I didnt go I had to be back in</p>
+        <pb n="4" facs="0012_001303_000211_0004.jpg" xml:id="d4e77"/>
+        <p>Camp at 9 45 PM.</p>
+        <p>I felt like I had just got out of jail when I got up town   I went in a restauraunt and ordered 4 eggs some ham and then finished up with some hot cakes  I guess the must thought I hadnt had any thing to eat in a week</p>
+        <p>But I am not use to any thing like that. I have beans potatoes and some beef stew three times a day and I was tired of that stuff</p>
+        <p>It was snowing so the girls didnt come out and I didnt get a chance to see any of them  I thank I will have to go back some time when it is better weather if I can get a pass</p>
+        <pb n="5" facs="0012_001303_000211_0005.jpg" xml:id="d4e87"/>
+        <p>We have to have passess to get out of Camp if we didnt I would go most ever night</p>
+        <p>But I wont go any more soon for I dont want to get to many passes so when I come home I can tell them I havent been out of Camp but a few times and I want to go home for about 10 days</p>
+        <p>I dont know wheather I can get off that long or not  Yes that is the reason I am in the fifth Class  If I was at home I would be in the first Class but as I have already enlisted that Makes me in the fifth Class</p>
+        <p>Have any of the boys had to leave lately I guess they will have to some time soon for that is the reason we had to leave Camp Meade that</p>
+        <pb n="6" facs="0012_001303_000211_0006.jpg" xml:id="d4e97"/>
+        <p>Tell Bernard that Orr is here and is fat as a pig he is reading the paper now the first time he has been quiet all day he said this is the first job he ever had that he couldnt quit.</p>
+        <p>is a draft Camp and they had to make room for the bunch they drafted</p>
+        <p>I like here pretty well we are in tents here 6 to a tent We have 6 beds 6 chairs 1 table and a stove in a little old tent 14 x 14 so you can see we dont have murch room</p>
+        <p>My room mates are Orr Vernon from Jaxon a fellow moose from ever where a fellow from New York and the other fellow I dont know where he is from</p>
+        <p>Jno Cortmell from Jaxon is in the next tent to us so he comes in to see us ever night that we dont have to work</p>
+        <p>We have more to do here than</p>
+        <pb n="7" facs="0012_001303_000211_0007.jpg" xml:id="d4e111"/>
+        <p>we did at Camp Meade</p>
+        <p>I had to laugh when I read what you said about all the ladies talking to me on the train. I walked ever step of the way down here  They never go on train until it is about 50 miles</p>
+        <p>They just line this bunch up and walk  I feel at home though My tent sits about 100 feet from the Band O railroad track and they have a passenger train through about ever 30 minutes I go out of my tent door and wave at them all when I am in my tent</p>
+        <p>Well all My paper is gone so I guess I will have to close for this time and it is almost time for Retreat I will have to get out in line. </p>
+        <p>Answer real soon and dont for get me  Sure wish I was at home this p.m. add this way</p>
+        <p>James L Dodds, Co. L. Camp Meade Md.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

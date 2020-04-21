@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000282_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Receipt,
+					<name>W. G. Burford</name>
+				                     to David Burford<date when="1853-08-13">1853 August 13</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">W. G. Burford</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000282_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Receipt, W. G. Burford to David Burford1853 August 13</title>
+          <date when="1853-08-13">1853 August 13</date>
+          <author>
+            <name type="person">W. G. Burford</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000282_0001.jpg" xml:id="d4e39"/>
+        <p>Wm G Burford</p>
+        <p>Recpt $6.10</p>
+        <p>Noted &amp; acptd,</p>
+        <p>paid by D.Burford for D.Burford and WmG.Burford</p>
+        <pb n="2" facs="0012_000115_000282_0002.jpg" xml:id="d4e49"/>
+        <p>Rec'd 13th day of August 1853 of David Burford six hundred and ten dollars and fifty cents on account of the purchase of the interest of James M. Couens interest in the purchase of the McAllister land. the foregoing is to pay over to the lawer for his interest one hundred and ten &amp; a half dollars being a profit paid him on his purchase, and the five hundr to be and remain as a payment on the part of G. D.Burford towards the land and for Couens interest.</p>
+        <p>$6.10</p>
+        <p>W G Burford</p>
+        <p>Note to H. Banks sale due 25 Dec. 1853 for $2.00</p>
+        <p>" Mason Walher due " " " " 65</p>
+        <p>" W.W. Eunette due " " " " 45</p>
+      </div>
+    </body>
+  </text>
+</TEI>

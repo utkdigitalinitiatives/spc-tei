@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Memphis, Tenn., to Mrs W. R. Hackley, <date when="1864-11-06">1864 Nov. 06</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000212_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Memphis, Tenn., to Mrs W. R. Hackley, 1864 Nov. 06</title>
+               <date when="1864-11-06">1864 Nov. 06</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolf Hackley Letter</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000212_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis Nov 06 64</p>
+            <p>My Darling</p>
+            <p>Yours of the 30 <unclear reason="illegible" resp="JCM">tilt</unclear> recd this morning your of the 26 I recd on Monday after I wrote you thank you for your frequent letters and they have as yet come to hand in good time the key of the tool <unclear reason="illegible" resp="JCM">che</unclear> was in my packet you had <unclear reason="illegible" resp="JCM">better</unclear> get the <unclear reason="illegible" resp="JCM">Gunsmith</unclear> to open it and make a new key I have been very busy this past week, but the office does not pay as well as it did last year however I may get a better position soon as I <unclear reason="illegible" resp="JCM">reach</unclear> pretty high with all the officers, I think I wrote you that Genl <unclear reason="illegible" resp="JCM">Arme</unclear> wanted me in his office but Mr. <unclear reason="illegible" resp="JCM">Lemeny</unclear> was unwilling to let me go at present I am glad that sister M did not</p>
+            <pb n="2" facs="0012_000298_000212_0002.jpg" xml:id="d4e69"/>
+            <p>hurt herself <unclear reason="illegible" resp="JCM">mabsically</unclear> when she fell. Give her my love when you write - I hope she had a pleasant visit am sorry that Ann is unable to do his work but you had better get along as well as you can untill she gets better as girls are hard to get and she seemed to be a good one the weather this past week has been very gloomy with much drizzly rain and <unclear reason="illegible" resp="JCM">rain and cobl yert</unclear> day a <unclear reason="illegible" resp="JCM">heary</unclear> white port but the trees still have thin leaves tho colored I am very sorry that Hatties head troubles here so much she had better try <unclear reason="illegible" resp="JCM">wahoo,</unclear> and each regularly Charlies cold is bad just now when she wants to <unclear reason="illegible" resp="JCM">practice</unclear> she must be careful and not get another one or she will lose this whole winter</p>
+            <pb n="3" facs="0012_000298_000212_0003.jpg" xml:id="d4e88"/>
+            <p>I want the girls to study but not too hard I think i shall be able to get money for their schooling which is all <unclear reason="illegible" resp="JCM">inportant</unclear> I think I can make money here <unclear reason="illegible" resp="JCM">prollising Lusi</unclear> but will not give up a <unclear reason="illegible" resp="JCM">curl county for a uncurl county</unclear> I expect to send you a draft next week I did not break the $100 bill I <unclear reason="illegible" resp="JCM">brot down</unclear>as I got money to pay my board bill from my office I hope Annil will soon be able to go to school. <unclear reason="illegible" resp="JCM">Lii</unclear> I suppose is getting along well I am glad she <unclear reason="illegible" resp="JCM">well</unclear> a Negro has scared <unclear reason="illegible" resp="JCM">Ridlhin</unclear> I hope he will not make it up with him so as to keep him out of the stable. My best respects to Mr Woods and the young ladies I wish I was at home to show them some courtesy - Kiss all</p>
+            <p>Mrs W R Hackley    Your aff Husband</p>
+            <p>W R Hackley</p>
+         </div>
+      </body>
+   </text>
+</TEI>

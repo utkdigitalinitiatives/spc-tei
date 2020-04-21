@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000231_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Humes, W.Y.C.
+</name>
+in Memphis, Tenn. to O.P. Temple in Knoxville, Tenn.,
+<date when="1861-03-21">
+1861 March 21
+</date>
+            </title>
+            <author>
+               <name type="person">Humes, W.Y.C.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000231_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W.Y.C. Humes in Memphis, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 March 21</title>
+               <date>1861-03-21</date>
+               <author>
+                  <name>Humes, W.Y.C.</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">In this letter, dated March 21, 1861 W.Y.C. Humes in Memphis, Tenn. writes to O.P. Temple in Knoxville, Tenn., making an offer for three of Humes&apos; slaves. He also urges Temple to continue practicing law and to stay away from politics. He notes that &quot;secession is rappidly growing in West Tennessee.&quot;</note>
+               <note type="collection">The O.P. Temple Papers, 1861</note>
+               <note type="manuscript">MS.21</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Women slaves -- Tennessee -- History -- 19th century.</term>
+               <term>Slave trade -- Tennessee -- History -- 19th century.</term>
+               <term>Slaveholders -- Tennessee -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Memphis (Tenn.) -- History -- 19th century.</term>
+               <term>Humes, W. Y. C. -- Correspondence.</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e159">
+            <pb n="1" facs="0012_000070_000231_0001.jpg" xml:id="d3e160"/>
+            <p>Memphis Mar. 21st 1861</p>
+            <p>Col O P Temple,</p>
+            <p>Dear Sir,</p>
+            <p>I will give you a thousand dollars for Rebecca and four hundred for each of the boys, which is a good price for the times.</p>
+            <p>I will not have any use for her here until fall and besides it would be dangerous to bring her and her children to Memphis until fall. I must confess that I would like very much to own Beccy, indeed have a very strong preference for her, and have often regretted that I ever sold her. You can write me what you are willing to take, for I dont think you or I will endeavour to make any illiberal profit off of each other.</p>
+            <p>I hope your friends will let you alone in your profession, for I believe you can accomplish more in solid reputation and otherwise at the law than you can in the dusty and hazardous and laborious arena of politics. Secession is rappidly growing in West Tennessee.</p>
+            <p>My kindest regards to Mrs Temple. In closed I send you a note of Thos W. Hurries on Turley. I wish</p>
+            <pb n="2" facs="0012_000070_000231_0002.jpg" xml:id="d3e180"/>
+            <p>you would look into the condition of the case in the Chancery Court and see if the rule for the former notes is complete and all right, and for the collection of the inclosed note take such steps as you may deem proper. Confer with Thos W. Hurries.</p>
+            <p>With sentiments of lasting regard</p>
+            <p>I remain yours &amp;c.</p>
+            <p>WYC Humes</p>
+            <pb n="3" facs="0012_000070_000231_0003.jpg" xml:id="d3e194"/>
+            <p>W Y C Humes</p>
+            <p>A April 10/61</p>
+            <p>Wrote that he might have negroes at his offer.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

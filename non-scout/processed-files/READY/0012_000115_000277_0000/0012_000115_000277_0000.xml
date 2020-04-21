@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000277_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>David Burford</name>
+				                    in Dixon Spring, Tenn., to Newton Cannon in Nashville, Tenn., <date when="1836-05-23">1836 May 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">David Burford</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000277_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, David Burford in Dixon Spring, Tenn., to Newton Cannon in Nashville, Tenn., 1836 May 23</title>
+          <date when="1836-05-23">1836 May 23</date>
+          <author>
+            <name type="person">David Burford</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000277_0001.jpg" xml:id="d4e39"/>
+        <p>Copy of Letter from D. Burford to his Excellancy N. Cannon Gov. of Ten</p>
+        <p>Copy of Letter to Govn Cannon dated 23 May 1836</p>
+        <p>His Excellancy</p>
+        <p>Newton Cannon</p>
+        <p>Governor of the State of Ten</p>
+        <p>Nashville</p>
+        <pb n="2" facs="0012_000115_000277_0002.jpg" xml:id="d4e53"/>
+        <p>Dixon Spring</p>
+        <p>Monday May 23rd 1836</p>
+        <p>Dear Sir,</p>
+        <p>This will be handed you by my old friend and acquaintance Edmond Jennings who was a <unclear reason="illegible" resp="LLW">soldier</unclear> of the Revolutionary War of the late war, and who was the first to enroll his name as a volunteer for the Southern frontier of the United States agreeable to your Proclamation of the 28th last, and assembled with the rest of us at this place on this morning to take up the line of march for Memphis by way of Nashville and but for your order on the 13th <unclear reason="illegible" resp="LLW">Just was it</unclear> who <unclear reason="illegible" resp="LLW">up the</unclear> volunteers with a <unclear reason="illegible" resp="LLW">general</unclear> number would have left this morning Mr Jennings the soldier of the two wars is entitled to, and I have no doubt will receive the thanks of your Excellancy for his patriotism and zeal in behalf of his country, and although old and infirm, his zeal and patriotism cannot fail to have a powerful effect in favour of the cause with the younger portion of our fellow citizens of the state.</p>
+        <p>Permit me to say in addition, that I hope the old Patriot will receive from you and the citizens of Nashville some publick manisfestation of approbation &amp; respect</p>
+      </div>
+    </body>
+  </text>
+</TEI>

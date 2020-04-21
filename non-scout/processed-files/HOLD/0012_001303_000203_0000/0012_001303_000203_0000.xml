@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000203_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in Camp Meade, Md., to Ellen Smith in Jackson, Tenn., <date when="1917-12-31">1917 Dec. 31</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jordan, Seth</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000203_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in Camp Meade, Md., to Ellen Smith in Jackson, Tenn., 1917 Dec. 31</title>
+          <date when="1917-12-31">1917 Dec. 31</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers </note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000203_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tenn</p>
+        <pb n="2" facs="0012_001303_000203_0002.jpg" xml:id="d4e49"/>
+        <p>J. L. DODDS</p>
+        <p>23 Engineers</p>
+        <p>Camp Mead</p>
+        <p>Md</p>
+        <pb n="3" facs="0012_001303_000203_0003.jpg" xml:id="d4e59"/>
+        <p>Camp Meade Md</p>
+        <p>Dec 31 - 17</p>
+        <p>Dear Ellen -</p>
+        <p>I receved your letter this pm. And was real glad to here from you I was just getting ready to ball ever body out. when at last I got your letter I guess the delay must be here in the camp I havent heard a word from any of my people I am sure I have some more mail here some where. Some of the boys are getting mail that was wrote two weeks ago and more</p>
+        <p>I mailed you a card last night and I was at the Y.M.C.A. and closing time come and I had to quit before I finished it</p>
+        <p>I was trying to tell you about getting quaranteened They have most all of the barracks quaranteened now and I guess we will get in it before it is over and if we do I cannt write and if I shouldnt write for a while you may know I am quaranteened I want you to write any</p>
+        <pb n="4" facs="0012_001303_000203_0004.jpg" xml:id="d4e73"/>
+        <p>way if I count</p>
+        <p>Well it is ever thing but warm up here I almost freeze we have had a few warm days. but I would call them cold if I was at home There has been snow on the ground ever sincewe got here and I dont see murch chance of it going away I am kindly getting use to it now. And I will tell you I am some walker now I have done more walking since I joined the army than I did in a year at home They take us out on a hike most ever day so if I ever get back home I wont need a street car to go any where I want to go from Jaxon I can walk</p>
+        <p>Well you said you bet I make a good looking soldier.  You loose and I win for I dont thank I look so well in my uniform I have never got to see myself though I dont know how I look I dont thank there is a mirror in this camp large enough for a fellow to see himself</p>
+        <pb n="5" facs="0012_001303_000203_0005.jpg" xml:id="d4e81"/>
+        <p>I didnt know Lynn had enlisted I wish I could have stayed some where close to home It will take a month pay for me to get home. But I dont verry murch of getting a chance to come home before I go across the pond I thank in 2 months I will be on my way to France I am just guessing at it but that is the way it looks now</p>
+        <p>Well I bet they are having a dance some where to night and O how I wish was there Not only to the dance but to see you and others I know in the city.</p>
+        <p>You spoke of Santa well I didnt know there was surch a fellow this Christmas The Red Cross gave me a checker board as hankerchief and a sack of tobacco was all the Santie I had but that is more than I expected</p>
+        <p>Well maybe I will have more some day I wouldnt know what to do with any thing Sontie would bring Any way I have a laundry bag</p>
+        <pb n="6" facs="0012_001303_000203_0006.jpg" xml:id="d4e91"/>
+        <p>and have to keep all of my clothes in it. I bet Esther was disapointed Xmas when Cecil didnt get to come from Jaxon Yes I thank she is crazy about the man Well I cant blame her a bit. I am sure I would like to have some one crazy about me but I dont think there is a chance there has never surch a thing happened yet</p>
+        <p>Well I guess I will have to quit for it is almost bed time and I tell you when a fellow has to get up at 5:30 oclock he has to go to bed early and they make us go to bed by 9:30 whether we want to or not so you can see it not what you want it what you get</p>
+        <p>Well now I want you to write real often abd dont always wait for an answer for some times I count write just when I want to and I may get quaranteened</p>
+        <p>Wishing you a happy New Year with love James L.</p>
+        <p>23 Engineers Recruting Detachment</p>
+        <p>Camp Meade Md.</p>
+        <p>Tell ever body hello for me</p>
+      </div>
+    </body>
+  </text>
+</TEI>

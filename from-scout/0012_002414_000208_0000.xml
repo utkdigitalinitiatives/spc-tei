@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000208_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Greene, David &amp; Son</name> in Boston, Mass. to John Inskeep <date when="1807-05-31">1807 May 31</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">Greene, David &amp; Son</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000208_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Greene, David &amp; Son in Boston, Mass. to John Inskeep 1807 May 31</title>
+               <date when="1807-05-31">1807 May 31</date>
+               <author>
+                  <name type="person">Greene, David &amp; Son</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000208_0001.jpg" xml:id="d4e39"/>
+            <p>David <gap resp="Hutson"/> &amp; Son</p>
+            <p>Boston 31 May 1807</p>
+            <p>John Inskeep Esq</p>
+            <p>President of the Insce Co</p>
+            <p>North America</p>
+            <p>Philadelphia</p>
+            <pb n="2" facs="0012_002414_000208_0002.jpg" xml:id="d4e55"/>
+            <p>John Inskeep Esq</p>
+            <p>Phild.</p>
+            <p>Sir,</p>
+            <p>We are favored with your letter of 22nd Jany with its&apos; enclosures - </p>
+            <p>Mr. Goodwin informs us that by the last Vessells for England he remitted the amo. due Widow of Mr. Roberts &amp; Co. &amp; agreeably to your orders we return you the bill, without Portest -</p>
+            <p>Mr. Timothy Rogers informs us that the Proceeds of the Wine, shipped by the same House to him, will be shortly due, in foreign bills - on bills of the Country Banks, which are at a disco. of <unclear reason="illegible" resp="AH">3 P c.9 -</unclear>
+            </p>
+            <p>What shall be done with this money where in?? probably we might procure with it a draft at 90 days on your City at <unclear reason="illegible" resp="AH">bar</unclear>.  We want your instructions &amp; we are respsectufylly your ob. servt.</p>
+            <p>D Greene &amp; Son</p>
+            <p>Boston May 31, 1807</p>
+         </div>
+      </body>
+   </text>
+</TEI>

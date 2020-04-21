@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000252_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                     to Caroline M. Brown, <date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000252_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,</title>
+          <date>undated</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.599</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000599_000252_0001.jpg" xml:id="d4e38"/>
+        <p>This to the boys  Dear Isaiah and george I would love to See You Soon if it was So I could I do Feel in hope that it will not be
+				       long till That time will Come for i am not Fit for duty here  And i do not think I will be Soon if Ever  I feel afraid that i Will be 
+				       trubled with The Dropsy the rest Of my days i may get will if i could get to come home</p>
+        <pb n="2" facs="0012_000599_000252_0002.jpg" xml:id="d4e42"/>
+        <p>But if i have to Stay In the Service i will Die after a while with It it i am afraid but If i should never get Home i want you Boys to
+				  be good boys TC your mother and The Neighbours for That is the way to Have friends in this World if i get to come Home i will
+				  fetch one Of the best little that Is in the 31st regt now I am Sitting there Alone and feel verry Lonesome to if you Boys was here
+				  to run in and out i would like it</p>
+        <pb n="3" facs="0012_000599_000252_0003.jpg" xml:id="d4e46"/>
+        <p>I want to See you all The worst old way  And i want to See The Stock and see how You do up your farming And i want to see
+				  The Neighbours too with The rest of you but you And your mother first  Of all I have seen Anough of this war  You had better
+				  think If i get out of this It will take a pretty Man to get me in the Next you had better Think Now Boys i Want you to form Some
+				  kind of a better</p>
+        <pb n="4" facs="0012_000599_000252_0004.jpg" xml:id="d4e50"/>
+        <p>write soon  I will read it with Pleasure i tell i <unclear reason="illegible" resp="pw">bane</unclear>To hear from you boy As
+				  well as your mother  Now write and dont Neglect it you must All write and tell Me how you got along with your harvest Any way
+				  and how your Corn looks to And how your oats Are and all these Little things are out Thare such things  Looks verry Bad here
+				  So good by to mother And boys and all</p>
+        <p>Henry Brown to <unclear reason="illegible" resp="pw">his</unclear>Boys</p>
+      </div>
+    </body>
+  </text>
+</TEI>

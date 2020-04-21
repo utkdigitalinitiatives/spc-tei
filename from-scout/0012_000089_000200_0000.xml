@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000089_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+William R. Story
+</name>
+in Greeneville, Tenn. to John J. King,
+<date when="1865-08-16">
+1865 August 16
+</date>
+            </title>
+            <author>
+               <name type="person">Story, William R.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+               <name>Rosinski, Wanda</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000089_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William R. Story in Greeneville, Tenn. to John J. King, 1865 August 16</title>
+               <date>1865-08-16</date>
+               <author>
+                  <name>Story, William R.</name>
+               </author>
+               <extent>2  digital images;  0.1 linear feet;  2 p.</extent>
+               <note type="abstract">In this letter, dated August 16, 1865, to John J. King, William R. Story discusses the opening of a post of the Freedmen&apos;s Bureau in Greeneville, Tennessee. Additionally, he notes the rumor of a Freedmen&apos;s court opening in Bristol to deal with a number of reported cases of abuse. Story encourages King to abandon &quot;old political ideas&quot; in order to avoid increased suffering.</note>
+               <note type="collection">William R. Story Letter, 1865</note>
+               <note type="manuscript">MS.1136</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Freedmen -- Tennessee -- History -- 19th century.</term>
+               <term>African American soldiers.</term>
+               <term>Reconstruction (U.S. history, 1865-1877)</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865 -- African Americans.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- African Americans.</term>
+               <term>United States. Bureau of Refugees, Freedmen, and Abandoned Lands.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000089_000200_0001.jpg" xml:id="d3e153"/>
+            <p>
+               <unclear>Quarters</unclear> Co &quot;M&quot; 1st U.S. Colored A. &quot;Hvy&quot;</p>
+            <p>Greeneville Tenn Aug 16th 1865</p>
+            <p>Mr John J. King</p>
+            <p>Sir</p>
+            <p>One of my men has a wife on your place &quot;Umy&quot; by name. She has two children; &quot;Cumpsy&quot; or Tecumsey says if you will allow her to remain in the house she is in he will pay rent, (as much rent) as any reasonable man could ask. his wages are $16.00/100 per month, and he has money in bank already, so I guess he will be good for any small amount of a years rent.</p>
+            <p>The Freedmans Bureau are going to establish a post in your part of the country in a short time. On account of the reports of misusage some have received from the hands of their former masters. there are allready quite a number collected here that have been driven away from there, that are to be taken back and used as evidence against some of those that have sent them away <unclear reason="Paper smudged." resp="JH">swiftly</unclear> without even clothing to hide their nakedness.</p>
+            <p>You have been a kind <unclear reason="Spelling unfamiliar." resp="JH">Mastro</unclear>, so Ive heard and probably you can see far enough ahead to keep out of trouble. by acting right</p>
+            <pb n="2" facs="0012_000089_000200_0002.jpg" xml:id="d3e181"/>
+            <p>towards this peculiar people.</p>
+            <p>The old political Ideas you must remember have been the cause of a long bloody war, now at an end, and probably you have suffered with the rest of us, in loss of property, &amp; freinds. If so be wise and do not commit yourself by any act taht will cause you to loose more. when it can be avoided by a manly straitforward course with those of your blacks that are yet with you.</p>
+            <p>I do not wish to threaten, or to dictate any course to you, but just a friendly warning, that will, if acted upon, make much in your favor. a court that is called the Freedmans Court is now in vogue, for such cases as are aggravated or where the blacks have been abused by whipping, by turning of, after they have worked all summer; Several cases have been reported in and about the place of Bristol and a court is to be established there, under the protection of the Military to try some cases if you wish to avoid being brought up there, act as I have intimated. Manly &amp; strait forward &amp; you will avoid it. I am sir</p>
+            <p>Will R. Story</p>
+            <p>Captain 1st U.S. A &quot;Hvy&quot;</p>
+            <p>(for Tecumseh)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

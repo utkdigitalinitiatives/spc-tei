@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000394_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>List of debits to J. Ramsey
+					<name/>
+               <date when="1872"> 1872 </date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Valine, Debbie</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000394_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>List of debits to J. Ramsey 1872</title>
+          <date when="1872"> 1872 </date>
+          <author>
+          </author>
+          <extent>1 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Valine, Debbie">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e36">
+        <pb n="1" facs="0012_000060_000394_0001.jpg" xml:id="d4e37"/>
+        <p>List of debits to J. <unclear reason="illegible" resp="DV"> C. </unclear> Ramsey as shown on his <unclear reason="illegible" resp="DV"> acct </unclear>. Book viz 1st from <unclear reason="illegible" resp="DV"> MKnitt </unclear>Ramsey for amt. paid to <unclear reason="illegible" resp="DV"> E. </unclear> Sandford paid on Tax sales for the years 1863 4, &amp; 5 - $97.02 as found on page 2 <unclear reason="illegible" resp="DV"> 6 </unclear>
+            </p>
+        <p>2nd <unclear reason="illegible" resp="DV"> fees </unclear> on naturalization cases-in all 23 names page 22.  Four of these papers were handed to Col. J. H. Crozier</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000207_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Holston U.S.A. General Hospital, Knoxville, Tenn.,
+<date when="1864-07-28">
+1864 July 28
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000207_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn. to Jeannie Lockhart, 1864 July 28</title>
+               <date>1864-07-28</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated July 28, 1864 from Holston U.S.A. General Hospital in Knoxville, Tenn., to &quot;My Own Darling,&quot; John Shrady, a regimental surgeon, discusses the fate of his pony, after a raid by Confederate soldiers in Bardstown, KY. Additionally, he assures the recipient of his intentions to vote for Abraham Lincoln in the upcoming Presidential election and encourages her to attend the &quot;Concerts at Central Park.&quot; The letter includes a short message to his young child, whom he refers to as &quot;Baby.&quot;</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000207_0001.jpg" xml:id="d3e143"/>
+            <p>Holston U.S.A. Gen&apos;l Hospital</p>
+            <p>Knoxville, Tenn</p>
+            <p>July 28th 1864.</p>
+            <p>My Own Darling</p>
+            <p>Yours of the 20th came to hand yesterday, having as you see only been seven days in transit. Somewhat of a miracle you are ready to exclaim in these days of -- I was about saying -- &quot;slow mail coaches.&quot;</p>
+            <p>I hope that mine of the 21st has reached you by this time. Don&apos;t call me &quot;irksome,&quot; if I repeat once more that it contained a draft of $850.00 for you upon Pa&apos;s order. I write this often about it so that its fate may be traced out, in case of miscarriage or loss -- and that if it has not come to hand within a reasonable space of time, I may be enabled to get it duplicated for you.</p>
+            <pb n="2" facs="0012_000068_000207_0002.jpg" xml:id="d3e161"/>
+            <p>I suspect that owing to the high prices my salary is not going to avail much but suppose that I must as all do during war times take matters philosophically. My concern has, however, been for you.</p>
+            <p>You ask me about my pony. I have heard nothing with regard to her lately. I saw in the papers that some 200 or 300 Guerillas entered the town and stole all the horses -- the place is Bardstown, Ky. Perhaps the circumstances may have met your own eye. However, I have just written Mr. Queen, with whom I left her in charge to ascertain particulars. I will give you the result of my enquiries.</p>
+            <p>My Darling need have no fears of my voting for McClellan for the Presidency. I am not full in the faith with regard to his capacity or policy he intends pursuing.</p>
+            <pb n="3" facs="0012_000068_000207_0003.jpg" xml:id="d3e173"/>
+            <p>I believe that Lincoln means to put down the rebellion, that he is honest and I should certainly vote for him, for this reason if no other that the rebels hate him. They feel themselves conquered but their pride will not allow themselves to admit it. I say, let them be humbled for once and evermore.</p>
+            <p>I rejoice that you are gaining strength, only, Darling don&apos;t keep the house too much. I see by the papers that are sent me by you and others of the family that the Concerts at Central park have been resumed. Won&apos;t my darling treat herself to an occasional visit -- I say occasional because I know that if she goes once she will oftener and that she will feel better and happier. Were I at home, I don&apos;t know but that I might be Blue Beard enough to insist upon your accompanying Sis </p>
+            <pb n="4" facs="0012_000068_000207_0004.jpg" xml:id="d3e183"/>
+            <p>and myself to that favored resort. War, you know, makes men cruel.</p>
+            <p>&quot;Nine weeks more, including yesterday, to serve&quot; I said as I counted over the Wednesdays in an almanac. Have patience, my dearest, and pray that we be once more permitted to meet each other and share each others destiny in each other&apos;s society.</p>
+            <p>Baby&apos;s Letter.</p>
+            <p>Papa is very proud of Baby&apos;s kiss and will take her to the Central Park and perhaps to Barnum&apos;s Museum to see some little foxes, if her Mamma thinks that she will make no noise. Baby must be good to her Mamma and must kiss her for Papa and Mamma will give her the kiss Papa has sent.</p>
+            <p>Address me at</p>
+            <p>Holston U.S.A. General Hospital</p>
+            <p>Knoxville Tenn</p>
+            <p>Write soon. God bless and keep you is the earnest wish and prayer of</p>
+            <p>Your absent but not forgetful</p>
+            <p>Husband</p>
+            <p>John.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

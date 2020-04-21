@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000536_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1886-01-20">1886 Jan. 20</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000536_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1886 Jan. 20</title>
+               <date>1886-01-20</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages.</extent>
+               <note type="abstract">1886 Jan. 20, Anson Nelson, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Sentimental recollection of J.G.M. and recognition of Mrs. Ramsey&apos;s goodness. Account of his wife &apos;s activities. Reports his preference for remaining at home rather than traveling. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Praise.</term>
+               <term>Women -- Social life and customs -- 19th century.</term>
+               <term>Family life -- Tennessee.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884.</term>
+               <term>Ramsey, M. B. C. (Margaret Barton Crozier), 1802-1889 -- Influence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000060_000536_0001.jpg" xml:id="d3e158"/>
+            <p>If not delivered in Ten Days, return to</p>
+            <p>Anson Nelson,</p>
+            <p>Real Estate and General Agent,</p>
+            <p>No. 54 Cole Building,</p>
+            <p>Nashville, - - Tennessee.</p>
+            <p>Mrs. Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000536_0002.jpg" xml:id="d3e181"/>
+            <p>Nashville, Tenn., January 20th 1886,</p>
+            <p>My dear friend, Mrs. Ramsey,</p>
+            <p>For several days past I have been intending to write to you; but the weather has been so very cold and disagreeable that I did not feel like doing any thing but trying to keep comfortable.</p>
+            <p>Your recent contribution to the Tennessee Historical Society awakens memories of the past and brings to mind pleasant recollections. The noble deeds of your noble husband will never fade from my mind, and my remembrance of you will ever remain a delightful conception. Your labors of love and your intelligent works will be recognized, to some small extent, by all who know you on earth, but more fully recognizedly our Father who is in Heaven, who sees all things, and who knows all things. He will bless you for all your goodness and kindness to</p>
+            <pb n="3" facs="0012_000060_000536_0003.jpg" xml:id="d3e195"/>
+            <p>him who has gone to Heaven before you and to your family and others.</p>
+            <p>Mrs. Nelson sends you a great deal of love, and is proud of her acquaintance with you, and of your friendship. We think of you often, and talk of you frequently. Mrs. N. has been exceedingly busy for many months past, and is all the time pressed with her daily duties. Besides a good deal of sewing, patching and cleaning, lessons to a niece on the piano, letter-writing, &amp; she leads a Ladies&amp; <unclear reason="illegible" resp="JR">Denotional</unclear> Meeting at our church once a week, studies a good deal for that purpose, and to teach a large class in our Sunday School (grown young men.) She is doing, I think, a great deal of good.</p>
+            <p>I wish she could take a little trip to Knoxville, just to see you; but I feel so much averse to going any where that I hardly expect to. I formerly liked to travel, and nothing gave me greater pleasure - but, for some years past, I greatly prefer to stay at home. In fact I feel as an old man might be expected to feel - to remain at home and in quiet, as much as possible. Do not, my friend, forget to pray for us. We remember you at a Throne of Grace daily. the Lord bless you! the Lord sustains you! the Lord cause His face to shine upon you!</p>
+            <p>We send kind regards to all your household, and will be glad to hear from you at any time.</p>
+            <p>Very Truly yours, Anson Nelson.</p>
+            <p>The Society thanks you for your contribution.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

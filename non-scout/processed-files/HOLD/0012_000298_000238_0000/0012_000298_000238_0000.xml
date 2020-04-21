@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000238_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Yazoo City, Miss., to his wife <date when="1865-11-13">1866 Nov. 13</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000238_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Yazoo City, Miss., to his wife 1866 Nov. 13</title>
+               <date when="1865-11-13">1866 Nov. 13</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>1 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000238_0001.jpg" xml:id="d4e39"/>
+            <p>Yazoo City Nov 13th 1865</p>
+            <p>My Darling</p>
+            <p> As I write twice a week and there is nothing of interest to you in this place you will have to be contented with short letters The result of last weeks <unclear reason="illegible" resp="EMS">fees</unclear> are $136, besides my daily pay. expenses for board lodging office rent and blanks about $20, so one weeks fees pays your expenses for a month but it is very tiresome in the long evenings and I daily wish for your company, we have had one hard front which makes the leaves fall <unclear reason="illegible" resp="EMS">fastly</unclear> no vegetables but sweet potatoes and I am afraid to eat them tho I feel very well again and using only cistern water hope to keep all right, I hope to hear from <unclear reason="illegible" resp="EMS">Tommy</unclear> this week and hope to get somewhere where there is Lots of Cotton for I do want to get him once more. I hope you are all comfortable and pleased with your mode of living and that you have recd the money I desired Athearn to send you from Memphis and that the muffs arrived safe - I expect to get some other skins in a few days those I expected were not brought in kiss the children for me </p>
+            <p>Your affc husband</p>
+            <p>WRHackley</p>
+         </div>
+      </body>
+   </text>
+</TEI>

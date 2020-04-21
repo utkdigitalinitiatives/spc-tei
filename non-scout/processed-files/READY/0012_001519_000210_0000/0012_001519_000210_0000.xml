@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000210_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Laura Maynard</name> in Westborough, Mass. to Washburn
+					Maynard in Newport, R.I. <date when="1863-04-23">1863 April 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Laura Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000210_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Laura Maynard in Westborough, Mass. to Washburn Maynard in Newport, R.I. 1863 April 23</title>
+          <date when="1863-04-23">1863 April 23</date>
+          <author>
+            <name type="person">Laura Maynard</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001519_000210_0001.jpg" xml:id="d4e40"/>
+        <p>Horace Maynard, N.Y.</p>
+        <p>Midn Washburn Maynard</p>
+        <p>Naval Academy</p>
+        <p>Newport,</p>
+        <p>R.I.</p>
+        <pb n="2" facs="0012_001519_000210_0002.jpg" xml:id="d4e52"/>
+        <note type="transcription">The following text is a continuation of</note>
+        <p>Ann Mary is happy &amp; sends her little love</p>
+        <p>I shall go to <unclear reason="illegible" resp="bds">Beverly</unclear> next week, I think - Don't forget my <unclear reason="illegible" resp="bds">key</unclear> - Be studious &amp; do right &amp; may God Help you - </p>
+        <p>Your <unclear reason="illegible" resp="bds">own</unclear> Mother - </p>
+        <note type="transcription">The preceding text is a continuation of</note>
+        <p>Westboro' Apr. 23rd 1863.</p>
+        <p>Dearest Washburn,</p>
+        <p>I feel happy, now, when I think of you - I can locate you, in my mind, &amp; I am rejoiced that the location is so happy. I know, now, that you are well-fed, well-clothed, well-treated, have pleasant quarters, &amp; the very best &amp; kindest friends to care for you. All that is necessary, to make you a good &amp; respectable &amp; useful man is your own effort &amp; the Helping of God.</p>
+        <p>Your own effort, I am sure, will not be wanting, &amp; God's Helping, you know, may always be obtained by seeking it. Indeed I am very glad I have been to Newport. We had a charming journey to Westboro'. In Providence we walked</p>
+        <pb n="3" facs="0012_001519_000210_0003.jpg" xml:id="d4e81"/>
+        <p>about the town just an hour. It is a very pretty town. In <unclear reason="illegible" resp="bds">Worcestre</unclear> we tarried two hours, more or less, &amp; walked nearly all the time - We arrived <unclear reason="illegible" resp="bds">there</unclear> at 5 1/2, P.M, &amp; spent the night at your Uncle Warren's - Yesterday we spent at your grandfather's, until about 4, P.M. when we came down &amp; your father made preparation to leave on the Steam-boat train at 6 1/2 - A letter came to him here, from Mr. Barton, who has just returned to N. York from N. Orleans - In this letter he says that <unclear reason="illegible" resp="bds">Dreyfous</unclear>, that German <unclear reason="illegible" resp="bds">lignor - I len</unclear> at Knoxville, has juts come to N.Y. having left Knoxville only three or four weeks since. He told Mr. Barton that it was a mistake about your cousin William's having been shot - that he was alive in Knoxville, when he left, &amp; was acting in</p>
+        <pb n="4" facs="0012_001519_000210_0004.jpg" xml:id="d4e97"/>
+        <p>the Quarter Master's Department, buying provisions for the Army - &amp; that he got the appointment through <unclear reason="illegible" resp="bds">Mc' Elnattle</unclear> - I feel so much relieved by it, that I could not wait longer, without letting you konw it. I trust it is true, &amp; if so, our troops will soon go in there, &amp; we will have him again. <unclear reason="illegible" resp="bds">Dreyfous</unclear> says, also, that <unclear reason="illegible" resp="bds">Messrs.</unclear> Dickinson, Morrow, Craig, Williams, <unclear reason="illegible" resp="bds">Haren</unclear> &amp; <unclear reason="illegible" resp="bds">Thins</unclear>, are well, &amp; talk Union still. James Cowan &amp; Charles McClung procured substitutes for themselves in the Army, &amp; are at home - Frank McClung is in the Ordance Department with <unclear reason="illegible" resp="bds">Pleas.</unclear> - Mr. Atwell is so old that he has not been disturbed - McMahan has bought some Iron works, in Georgia &amp; B. R. Strong is Cashier in his place - &amp;c, &amp;c, He says nothing</p>
+        <pb n="5" facs="0012_001519_000210_0005.jpg" xml:id="d4e120"/>
+        <p>about <unclear reason="illegible" resp="bds">Perin</unclear> Cowan - </p>
+        <p>Your father &amp; Gov. Johnson will go immediately to Tenn. &amp; we shall hear of active operations there, soon, I hope.</p>
+        <p>I send you a R. I. bill which was in your father's <unclear reason="illegible" resp="bds">pack, when</unclear> we arrived here - I want you to go where you left your <unclear reason="illegible" resp="bds">sugation</unclear>, &amp; spend it for some more pictures - &amp; send me some - &amp; be sure to send one to Clara, with a letter.</p>
+        <p>Give my kindest regards to Mr. &amp; Mrs. Noble - I shall always love them - &amp; I want you to call <unclear reason="illegible" resp="bds">there</unclear> at least once a week - as <unclear reason="illegible" resp="bds">much</unclear> oftener as you can, - before you sail - Also, remember me to Mr. Sheffield's family, when you see them - Mrs. <unclear reason="illegible" resp="bds">Prof. Nourse</unclear> called to see me &amp; wants you to call them - don't fail to do so before you go away - &amp; more than once if possible - She has some very agreeable daughters, I am told - Remember me to her - </p>
+      </div>
+    </body>
+  </text>
+</TEI>

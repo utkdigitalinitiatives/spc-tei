@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000238_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Maberry, Giller, &amp; Watkin</name>
+				                    in Philadelphia, Penn., to Maj. David Burford in Dixon Springs, Tenn., <date when="1839-02-25">1839 Feb. 25</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Maberry, Giller, &amp; Watkin</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000238_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Maberry, Giller, &amp; Watkin in Philadelphia, Penn., to Maj. David Burford in Dixon Springs, Tenn., 1839 Feb. 25</title>
+          <date when="1839-02-25">1839 Feb. 25</date>
+          <author>
+            <name type="person">Maberry, Giller, &amp; Watkin</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000238_0001.jpg" xml:id="d4e39"/>
+        <p>D. Burford Esq</p>
+        <p>Dixon Springs</p>
+        <p>Tennessee</p>
+        <p>From Maberry, Giller, </p>
+        <p>&amp; Watkins - recd, 11th</p>
+        <p>March 1839</p>
+        <pb n="2" facs="0012_000115_000238_0002.jpg" xml:id="d4e53"/>
+        <p>Philad, February 25th 1839</p>
+        <p>Dear Sir,</p>
+        <p>Yours of the 10th <unclear reason="illegible" resp="JCM">Jan</unclear> we have rec c Stating you had received from W Thomas <unclear reason="illegible" resp="JCM">Pheps</unclear> $250, last March &amp; had written us requesting us to draw on you for that amount - Which letter we have never received - we believe there is no bank nearer you than Nashville - if it is not troubling you too  much, we shall be be obliged if you will send us a draft for the amount please enclose their not to us also -</p>
+        <p>Respectfully</p>
+        <p>Maberry, Giller &amp; Watkin</p>
+        <p>You will please accept our thanks for your attention - M G &amp; W</p>
+        <p>D. Burford Esq</p>
+      </div>
+    </body>
+  </text>
+</TEI>

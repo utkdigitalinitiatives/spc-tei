@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003553_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">Cushman Cunningham</name> at <name type="place">Cumberland Gap</name> to
+               his father, <date when="1862-06-21">1862 June 21</date>
+            </title>
+            <author>
+               <name>Cunningham, Cushman</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2012</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special
+                  Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_003553_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Cushman Cunningham</name> at <name type="place">Cumberland Gap</name> to his Father, 
+                  <date when="1862-06-21">1862 June 21</date>
+               </title>
+               <author>
+                  <name>Cunningham, Cushman</name>
+               </author>
+               <extent>6 digital images</extent>
+               <note type="collection">Knoxville Civil War Correspondence Collection, 1862-1864</note>
+               <note type="manuscript">MS.3711</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+                  <term>Civil War Letters</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-09-13" who="nl">Reformatted transcription from its original TEI.2
+            markup to comply with the TEI-P5 lite schema.</change>
+         <change when="2013-09-13" who="nl">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e161">
+            <pb facs="0012_003553_000201_0001.jpg" n="1" xml:id="d2e163"/>
+            
+            <opener>
+               <dateline> 
+               <name type="place">Cumberland Gap</name>
+               <date when="1863">June 21st 1862.</date>
+               </dateline>
+               <salute>My Dear Father</salute>
+            </opener>
+            
+            <p>At last! we have gained the "Gibraltor of America", and that too without the loss of blood, not a comrade has fallen, and the way to East Tenn. is open.</p>
+            <p>On the 7th inst. we took up our line of march from the <name type="place">"Moss House"</name>, which is within two miles of the Ford, our destination being Powells Valley by the way of <name type="place">Rogers Gap</name>, on the fourth day (the 10th inst.) we arrived at the foot of the mountain, which at that point is thirty five miles from <name type="place">Cumberland Ford</name>, here we found our progress arrested by a heavy blockade of fallen timber, stones, etc , which the rebels had placed in the road for the purpose of preventing our appoach. (our Pickets had been thrown forward the day before, and had taken possession of the crest of the Mountain, from which point they were enabled to see the country in <name type="place">Powells Valley</name> for miles.)</p>
+            <p>After giving the men a few hours rest, large details were made, with axes, picks, and spades, and the work of clearing the blockade commenced: and by two O'clock of the next day (The 11th Inst) the passage was cleared, and the 26th</p>
+            
+            <pb facs="0012_003553_000201_0002.jpg" n="2" xml:id="d2e202"/>
+            <p>Brigade debouched from the Mountain into the Valley, and bivouacked for the night in a woodland owned by a <name type="person">Mr. Rogers</name>.  we were accompanyed by two Batteries of Artillery, the Enemys Pickets were in full view, and succeeded in capturing a veter-inary surgeon belonging to the <name type="org">9th Ohio Battery</name>, who had very foolishly exposed himself.  our Pickets before this had captured 3 horses, and had wounded 2 of the rebels, quite seriously.</p>
+            <p>About one oclock of the morning of the 12th Inst. <name type="person"><abbr>Genl.Bairds</abbr></name>, Brigade (the 27th) arrived.  and on this same day <name type="person">General Morgan</name>, received orders from <name type="person"><abbr>Genl. Buell</abbr></name>, to recross the Mountain, and retire his whole force to <name type="place">Williamsburgh</name>, the order was made known to the troops, and gave universal dissatisfaction, they had worked hard, crossing the mountain at a point hitherto deemed impractica-ble for trains, been on short allowances of provisions, and then after all their toil, and fatigue, to be compelled to retrace their steps, was rather provoking.</p>
+            <p>However, orders must be obeyed, and the countermarch commenced, luckily for the <name type="org">26th Brigade</name>, it was ordered to bring up the rear, the Artillery worked all night to get up the mountain and we had to wait untill Every train, wagon, and Everything liable to capture had safely crossed.  On the morning of the 13th inst a country man, and a Union man, brought</p>
+            
+            <pb facs="0012_003553_000201_0003.jpg" n="3" xml:id="d2e236"/> 
+            <p>the news that <name type="place">Cumberland Gap</name> was being evacuated, which information <name type="person">Colonel De Comcy</name> forwarded with dispatch to <name type="person">General Morgan</name>, at the same time ordering the <name type="org">26th Brigade</name> and one Battery not to move until further orders. We waited anxiously for a reply, for I myself, firmly believed that the information we received was correct, finally the answer came, Col. De Corney's course was approved of and the whole of the Division ordered up.</p>
+            
+            <p>We remained at the point waiting for supplies (and for the Brigades of General Carter, and Spears to come up; they had crossed the Mountain at <name type="place">Big Creek Gap</name>, some 15 or 18 miles farther west of Rogers Gap) until the morning of the 18th inst. We left our camp at 11h o'clock in the morning, and expected to find a strong force of the enemy encamped on a Mr. Thomas' farm, about 9 miles distant. The 26th Brigade leading and accompanied by the finest battery in the Division, <name type="person">Capt. Foster</name>'s and the 4 heavy siege guns, riffled 20 &amp; 30 pounders, but we could not make any use of them as the enemy had fled, leaving their camp fires still burning advancing a few miles further we encamped at 9 o'clock, at what, at the time was thought to be our camping place for the night, in a farmers house nearby we arrested a </p>
+            
+            
+            <pb facs="0012_003553_000201_0004.jpg" n="4" xml:id="d2e263"/>
+            <p>Rebel Lieutenant, who confirmed the news of the evacuation of the Gap, after resting a few hours, the signal to march was again sounded, we advanced rapidly, yet cautiously and without molestation occupied the works before sunset. The 16th Regt. was the first regiment on the mountain and inside the fortifications, the flags of the <name type="org">22nd Ky.</name> and the <name type="org">42nd Ohio</name> accompanying <name type="org">Foster's Battery</name> came immediately after and fired a salute of 34 guns, proclaiming in thunder tones to the loyal and persecuted people of <name type="place">East Tennessee</name> a speedy prospect of deliverance.</p>
+            
+            <p>The Rebels left little of value. What could not be carried away was destroyed. The tents were left standing, but were cut to ribbons by their Bowie Knives. They left 5 guns, 64 pounders, and Howitzers. 2 of them were thrown over the cltff", carriages and all, the carriages of the other guns were cut to pieces. I spent one forenoon in going over the works and they may well be called formidable. The evacuations was without doubt, caused by our flank movement, threatening to cut off their communications and menacing <name type="place">Knoxville</name>.</p>
+            
+            <p>As to our future movements, I am altogether in the dark. <name type="person">General Morgan</name> is probably waiting for orders from <name type="person">General Buell</name> (one word here in regard to Genl. Morgan he is every inch a soldier and has the confidence of the whole Division, he has a smile and pleasant word for all, but is rather profuse in compliments).</p>
+            
+            <pb facs="0012_003553_000201_0005.jpg" n="5" xml:id="d2e295"/>
+            <p>Yesterday I received my package of clothes. I would have preferred light blue pants, but will make those which I received, answer until I can get others.</p>          
+            <p>I wish that you would tell Imgard to make me apr. of light blue trousers of the finest and best material that he can get (that is the regulation color now) and have them forwarded by <name type="person">Lieut. Ross</name>, who is in Wayne County, recruiting for the regiment, also tell <name type="person">Mr. Auman</name> to make me a pair of fine boots, he has my measure. Also tell Lieut. Ross to purchase for me in <name type="place"><abbr>Cinn.</abbr></name> two pair of fine buff buck gauntlets size no 6. <name type="person">Mr. Clark</name> can send my cap by the same opportunity. A few cans of fruit, tomatoes, apple butter, etc. would be highly relished.</p> 
+            <p>Enclosed I send you a check on <name type="place">Louisville</name> for $250 payable to you, or order, it is cash in Cinn. so you ought not to stand a shave in Wooster. Will you please pay my bill at Imgards which is about $80 lift my note at <name type="place">Plumers &amp; Clarks</name> for $80 and pay Mr. Flattery $70, the amount of cash, which I believe he advanced me. The remainder make use of yourself. (I had almost forgotten to tell you, to pay Foreman, for one year's subscription for the Republican).</p> 
+            <p>I shall write to <name type="person">Mr. Flattery</name>, and <name type="person">Mr. Clark</name>, in a few days.</p>
+            <p>I lost all of my bed clothes in this last march, and would like to have</p>
+            
+            <pb facs="0012_003553_000201_0006.jpg" n="6" xml:id="d2e338"/>
+            <p><name type="person">Thomas Stibbs</name> send me a pair of his best blankets (heavy &amp; fine) either white or grey. <name type="person">Lieut. Ross</name> I presume will bring any, and everything you may wish to send.</p>
+            <p>I must close for the messenger who carries the letters this morning is about ready to leave. Remember me kindly to all enquiring friends, my best love to Mary E. and Theodore. Tell them to write often and not to wait for me to wnte. Hoping that we will all meet again soon.</p>
+            
+            <closer>
+                  <salute>I remain
+                          Your Son,</salute>
+                  <signed><name type="person">C. Cunningham</name></signed>
+            </closer>
+            
+            <postscript>
+               <label>P.S.</label>
+               <p>Please acknowledge receipt of check as soon us possible.</p>
+            </postscript>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

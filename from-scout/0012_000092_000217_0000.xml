@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000217_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Chattanooga, Tenn., to Crittenden Cregmile, <date when="1863-11-01">1863 November 1</date>
+            </title>
+            <author>
+               <name type="person">Cregmille, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000217_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Chattanooga, Tenn. to Crittenden Cregmile, 1863, November 1</title>
+               <date>1863-11-01</date>
+               <author>
+                  <name>Cregmille, Southgate, 1843-1865</name>
+               </author>
+               <extent>1 digital image; 1 page</extent>
+               <note type="abstract">1863 November 1 Southgate Cregmile in Chattanooga, Tenn., to his brother Crittenden. Acknowledges receiving his letter and assures him that all the hometown boys are well. Discusses the layout of the camp and its vulnerability to enemy fire. Describes Gen. Longstreet&apos;s men as cleverly wearing blue uniforms just like theirs; but, on the other hand, also emphasizes the fact that Gen. Bragg&apos;s men have located their cannons too far out of range to do any damage. Makes note of his brigade&apos;s new picket schedule. Thanks him for the photo he sent of himself and asks that their brother Magnum send one of himself as well. Asks him to write soon.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Tennessee -- Chattanooga -- History -- 19th century -- Social conditions.</term>
+               <term>Command of troops -- History -- 19th century.</term>
+               <term>Military planning -- United States -- History -- 19th century.</term>
+               <term>Chattanooga (Tn.) -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Anecdotes.</term>
+               <term>Military leadership.</term>
+               <term>Military tactics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e160">
+            <pb n="1" facs="0012_000092_000217_0001.jpg" xml:id="d3e161"/>
+            <p>Camp Near Chattanooga</p>
+            <p>Tenn</p>
+            <p>Brother Crittenden - Nov 1st 1863</p>
+            <p>I have receved your letter and was glad to here from you all the Reily Boys is well.</p>
+            <p>the Rebles are close a round us yet there is nothing be tween the pickets lines but a little run Longestreets men all has Blue Uniforms like ours. While we were on picket yesterday one of the rebs sed that Bragg has fetched up three tow hundred pounders thay have got three canon up on the very peak of lookoutmountain but thay are to high up for them to do any damage thay Bursted there largest gun the first fire the 61st Ohio has got up under range of there guns so that so that there is no danger of them getting hurt.</p>
+            <p>Our Division has been change from the weckond to the first the 15th and the <unclear reason="illegible" resp="NW">18th</unclear> Regulars are with our Brigade now.</p>
+            <p>I receved your Photograph and was glad to get it. tell Mangum to send his for I woulde like to see how he looks by this time.</p>
+            <p>No more this time</p>
+            <p>rite soon</p>
+            <p>Southgate Cregmile</p>
+         </div>
+      </body>
+   </text>
+</TEI>

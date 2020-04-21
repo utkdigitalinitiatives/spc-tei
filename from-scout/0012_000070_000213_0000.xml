@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000213_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Brownlow, John B.</name>
+ in Bulls Gap, Tenn. to O.P. Temple in Knoxville, Tenn. <date when="1864-09-18">1864 September 18</date>
+            </title>
+            <author>
+               <name type="person">Brownlow, John B.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000213_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John B. Brownlow in Bulls Gap, Tenn. to O. P. Temple in Knoxville, Tenn., 1864 September 18</title>
+               <date>1864-09-18</date>
+               <author>
+                  <name>Brownlow, John B.</name>
+               </author>
+               <extent>7 digital images; 7 pages</extent>
+               <note type="abstract"> 1864 September 18, John B. Brownlow, Bulls Gap, Tenn.writes to O.P. Temple in Knoxville, Tenn. he is pleased at praise received by his troops; more about the Greeneville fight; sleep, food in camp; Michigan and Kentucky troops; wants Temple to come and make a speech on the 9th.
+ </note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865 -- Equipment and supplies</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865 -- Personal narratives</term>
+               <term>United States -- History -- Civil War, 1861-1865 </term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence</term>
+               <term>Brownlow, John Bell, 1839-1922 -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000070_000213_0001.jpg" xml:id="d3e155"/>
+            <p>J.B. Brownlow</p>
+            <p>Head-Quarters, 9th Tennessee Cav.</p>
+            <p>&quot;Confidential&quot; In the Field</p>
+            <p>Bull&apos;s Gap, Tenn. Sept. 18th 1864.</p>
+            <p>Dr. Col:-</p>
+            <p>Your letter of the 13th inst. was not received until to day. I am glad to have additional evidence from it that the labors and efforts of the East Tennessee soldiers are duly appreciated by our friends at home. </p>
+            <p>When we read such letters as your&apos;s and hear from Nashville (as we did to day by a gentleman who came directly through that place) that at the conclusion of Gov. Johnson&apos;s speech, at the great meeting held there the other night, he proposed three cheers for the 13th &amp; 9th Tenn. Cav. and Tenn. Battery calling them by name we concluded we have accomplished more and made more reputation for E. Tenn. troops than we had imagined. </p>
+            <p>On yesterday Gen. Gillem told me he had the morning reports of the various regiments composing the enemy&apos;s strength at Greenville. These morning reports, which are daily made out by the Adgt. of a Regt., give the effective force of a regt. </p>
+            <p>These reports gave the strength (effective) of their command for the day before the fight. On the day of the fight They had no time to make out reports.</p>
+            <pb n="2" facs="0012_000070_000213_0002.jpg" xml:id="d3e180"/>
+            <p>The Gen. told me these reports show they had twenty two (2200) hundred men. Of this number he thinks it fair to estimate that they had 2000 men in action. </p>
+            <p>Vaughn was about 5 miles from Greeneville with several hundred men when they were surprised and their pickets captured sleeping, but he got into the action as soon as possible. We killed some men belonging to his Brigade and captured others. </p>
+            <p>We had in the fight just eleven (1100) hundred men, of this number the 9th had </p>
+            <p>The remainder of our force, with all the train (save Ambulances) was left at the Gap with four pieces of Artillery because we supposed we had men enough for the supposed force of the enemy </p>
+            <p>We had two pieces of Artillery at Greeneville. The enemy four. I know the Gen did not know their force was so great. Such was not our information. Had we not completely surprised them and killed Morgan they might have given us a hard fight. Considering the disparity in numbers I think our friends at home have a right to feel proud of what we have done, as well as ourselves.</p>
+            <p>Nothing can be made for our cause by attempting to conciliate rebels. The only way to restore peace is to kill and subjugate them. </p>
+            <p>We fought old troops, while, as you say, our men had done little actual fighting. </p>
+            <p>If, with all the surroundings or under the circumstances mentioned, men from Ohio or Ky; had done as much,</p>
+            <pb n="3" facs="0012_000070_000213_0003.jpg" xml:id="d3e203"/>
+            <p>the Cincinnati or Louisville papers would have had quite as much written as there has been in published in the &quot;Whig&quot;.</p>
+            <p>In a lat number of the &quot;Whig&quot; it is stated that they strength of the 10th Michigan Cav. is four hundred. This is a mistake. They have left us now. While with us they never had more than (250) two hundred and fifty men. Whether they were all at Greeneville or not I do not know. I will do those who were there the justice to say that they fought well. No better, however, than our own men. The most hazardous position assigned to my portion of our command was that of the two companies of the 13 who surrounded Mrs. Williams house and killed Morgan, bringing his body to the rear within sight of 800 or 1000 Rebels. The Michigan men didn&apos;t like us because they didn&apos;t think we gave them as much credit as they deserved.</p>
+            <p>The 13th Regt. went to Greeneville on the Babb&apos;s Mill Road. I on the stage road. The Michigan men were put in advance of me because their guns were better for skirmishing than seige Carbines having much longer range. They were armed with Spencer&apos;s Revolving Carbine. After the skirmishing was done, the enemys pickets all driven in and the fight fairly commenced. I passed the Michigan Regiment with the </p>
+            <pb n="4" facs="0012_000070_000213_0004.jpg" xml:id="d3e215"/>
+            <p>9th and went into action. My last letter was written hastily, I may have reiterated in this much in that. </p>
+            <p>I will not trouble you with reading the details of an engagement until we have another and I can write something you have not seen or heard. </p>
+            <p>This opportunity for doing this will not be long past - <unclear reason="illegible" resp="NW"> poued</unclear> provided I am shielded by that Providence who smiles upon the just cause. </p>
+            <p>This afternoon I slept four hours. I go to sleep only after a hard day&apos;s march. When in camp at any place several days I revert to my old habit of sleeping in day time and sitting up reading and writing during the night. I have several times had to march all night and found this practice not a draw-back. </p>
+            <p>We started to Greeneville at midnight. Fortunately I slept that evening from 1 to 8. As a result, I felt well and was wide awake during the night and following day. </p>
+            <p>I spend from half past eight till ten in Gen. gillem&apos;s tent to night. He assured me he would move soon, as soon as the interests of the command will permit. He said he would give the finishing blow to these fellows if he had to go to Bristol to get a fight. They will give us a fight, I think, this side of Bristol. </p>
+            <p>I don&apos;t know that they have been re-enforced lately by men, but they have recently received from Va several pieces of Artillery which are at Carter&apos;s Depot at this time. Gillem told me he would capture this Artillery. I know he is impatient to meet them again for he is impatient for another star. </p>
+            <pb n="5" facs="0012_000070_000213_0005.jpg" xml:id="d3e238"/>
+            <p>We have nothing now but hard tack (&amp; not enough of that) and beef. We haven&apos;t a particle of bacon, coffee salt &amp; but little sugar. We must have these things if waiting a few days will get them. At Greenville, from continual marching since Aug. 4th, our stock was broken down. Now it is in good condition all all shod. </p>
+            <p>In place of the <unclear reason="illegible" resp="NW">8th </unclear> Michigan Cavalry we have a part of the 16th Ky: Cav. numbering 150 men. I think them good fighting material. </p>
+            <p>After writing the above I telegraphed you to come here. You replied you would do so, and I expected you on to day&apos;s train until your telegram was received that you could not get on the train for the crowd. </p>
+            <p>It is not very important you should come but I would be glad if you would do so and make a speech to the 9th. I think it would do much good. This is the principle reason I have for wishing you to come. </p>
+            <p>I hope you will come up on the next train. I would be glad, also, to have you make the acquaintance of the General.</p>
+            <p>Whether I see you or write again you may rest assured that I will get your property</p>
+            <pb n="6" facs="0012_000070_000213_0006.jpg" xml:id="d3e259"/>
+            <p>to Bull&apos;s Gap as soon as I get to Greeneville which will be soon.</p>
+            <p>If you conclude to come, prepare your self for a long speech, and dispatch me on what train you will come. </p>
+            <p>In haste,</p>
+            <p>Your&apos;s Truly,</p>
+            <p>John B. Brownlow</p>
+            <p>Lt. Col. Com&apos;dig 9 Tenn Cav.</p>
+            <p>Col. O.P.Temple,</p>
+            <p>Knoxville,</p>
+            <p>Tenn.</p>
+            <pb n="7" facs="0012_000070_000213_0007.jpg" xml:id="d3e284"/>
+            <p>Lt Col J B Brownlow</p>
+            <p>Sept 18/64 </p>
+         </div>
+      </body>
+   </text>
+</TEI>

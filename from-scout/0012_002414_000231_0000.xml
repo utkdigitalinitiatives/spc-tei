@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000231_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Receipt,
+					<name>John Claypoole</name>
+				                   Dunlap Claypoole,<date when="1795-12-31">1795 Dec. 31</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John Claypoole</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000231_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Receipt, John Claypoole Dunlap Claypoole,1795 Dec. 31</title>
+               <date when="1795-12-31">1795 Dec. 31</date>
+               <author>
+                  <name type="person">John Claypoole</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000231_0001.jpg" xml:id="d4e39"/>
+            <p>Insurance Co. of N.A.</p>
+            <p>£6,, 4,, 41/2</p>
+            <p>Walnut &amp;<unclear reason="illegible" resp="pw">Fnonts</unclear>.</p>
+            <p>Bill</p>
+            <p>Dunlap &amp;Claypoole</p>
+            <p>Decem 31, 1795</p>
+            <p>
+               <unclear reason="illegible" resp="pw">Ent</unclear>
+            </p>
+            <pb n="2" facs="0012_002414_000231_0002.jpg" xml:id="d4e59"/>
+            <p>1795  Insurance Company of North America</p>
+            <p>To Dunlap &amp;Claypoole, Dr.</p>
+            <p>Jany. 13 To advertg a Dividend declared_________6 times___13__1 1/2</p>
+            <p>June 19 To ___do___ Last Instalment___________6 do_____13__1 1/2</p>
+            <p>July 13 To____do___ a Dividend declared________6 do_____13__1 1/2</p>
+            <p>Decr.22 To____do___Choice of Directors ________9 do_____ 1_5____</p>
+            <p>        31 To the American Daily Advertiser, from Jany. 1 ______3 _____</p>
+            <p>£ 6 _ 4 _ 4 1/2</p>
+            <p>Received payment for Dunlap &amp;Claypoole</p>
+            <p>Cash rect _ Jany 23 _ 1795</p>
+            <p>John Claypoole</p>
+         </div>
+      </body>
+   </text>
+</TEI>

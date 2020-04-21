@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000237_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   to Ellen Smith, in Jackson, Tenn., <date when="1919-01-24">1919 Jan. 24</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jordan, Seth</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000237_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds to Ellen Smith, in Jackson, Tenn., 1919 Jan. 24</title>
+          <date when="1919-01-24">1919 Jan. 24</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000237_0001.jpg" xml:id="d4e39"/>
+        <p>Soldiers Mail</p>
+        <p>J. L. Dodds</p>
+        <p>T Co # 8 = 23 Eng</p>
+        <p>American Exp Force</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000237_0002.jpg" xml:id="d4e59"/>
+        <p>Jan 24 1919</p>
+        <p>Savilly France</p>
+        <p>Dear Ellen -</p>
+        <p>I received a letter from you last night Was real glad to here from you, although I was sorry to here you were sick I am feeling fine and lordy I thank the cold weather makes us feel better</p>
+        <p>This weather here is quite different from what it was in Nice I don't see why they didn't let me stay down there, where the weather is nice and warm</p>
+        <p>We have had a small snow since I got back but it is all gone now. I think it is too cold to snow now. And of <unclear reason="illegible" resp="SMJ">course</unclear> I am</p>
+        <pb n="3" facs="0012_001303_000237_0003.jpg" xml:id="d4e76"/>
+        <p>driving a truck every day when I come in at night I sit around and hug a little stove until bed time.</p>
+        <p>Say if I were you I would run Mrs James and <unclear reason="illegible" resp="SMJ">Havel</unclear> out of town for bringing the flu back and giving it to you</p>
+        <p>Well I will try again I have had to stop writing three times I have just got back from a entertainment the <unclear reason="illegible" resp="SMJ">12 of</unclear> of C put on Was real good</p>
+        <p>Was three men they travel from one <unclear reason="illegible" resp="SMJ">place</unclear> to another and entertain the soldiers.</p>
+        <p>I dont know what we would do if wasnt for some things like that to help us pass the time away.</p>
+        <pb n="4" facs="0012_001303_000237_0004.jpg" xml:id="d4e97"/>
+        <p>I say you got some nice Xmas presents and there were so many of them.</p>
+        <p>I will say Bob beat them all with a diamond necklace I know you will love him most to death wont you? (Oh please dont) for that.</p>
+        <p>Well I havent any small <unclear reason="illegible" resp="SMJ">firdues</unclear> so cant send you one. But my be wont be long untill I will be home I hope so any way.</p>
+        <p>The days seem like weeks I I want to get home so bad Going home is all that the boys talk about or think about. I guess that is why the times passes so slow.</p>
+        <p>Say did Dean McDade ever get</p>
+        <pb n="5" facs="0012_001303_000237_0005.jpg" xml:id="d4e112"/>
+        <p>over here. I dont see how he got home so quick if he was over here.</p>
+        <p>Do you still here from Esther and her mom. I wrote them a letter but never heard from them guess they never got it I have wrote more letters since I have been in the army than I would have written in ten years out.</p>
+        <p>But I have to write letters to get letters. I believe I would go crazy if I didnt get lots. I just cant tell you how different I do here after getting some mail. </p>
+        <p>Say <unclear reason="illegible" resp="SMJ">Arr</unclear> is in the hospital I think he had to <unclear reason="illegible" resp="SMJ">lie</unclear> a time on his <unclear reason="illegible" resp="SMJ">fangloves</unclear> guess he will soon be alright </p>
+        <pb n="6" facs="0012_001303_000237_0006.jpg" xml:id="d4e131"/>
+        <p><unclear reason="illegible" resp="SMJ">Will us</unclear> is most <unclear reason="illegible" resp="SMJ">hard</unclear> time for a soldier and I have to get up real early in the morning. Will quit for this time Write me real often for I am always real glad to get your letters.</p>
+        <p>With lots of love from</p>
+        <p>James L. Dodds</p>
+        <p>Truck Co #8 = 23 <unclear reason="illegible" resp="SMJ">Engrs</unclear>
+            </p>
+        <p>American Exp Force</p>
+        <p>France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

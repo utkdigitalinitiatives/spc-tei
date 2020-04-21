@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001255_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>John Bell</name>
+				                    in Nashville, Tenn., <date when="1844-08-30">1844 Aug. 30</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">John Bell</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001255_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Bell in Nashville, Tenn., 1844 Aug. 30</title>
+          <date when="1844-08-30">1844 Aug. 30</date>
+          <author>
+            <name type="person">John Bell</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">John Bell Letter</note>
+          <note type="manuscript">MS.2752</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Brownlow, William Gannaway, 1805-1877</term>
+          <term>Clay, Henry, 1777-1852</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+          <term>United States -- Politics and government -- 1815-1861.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001255_000200_0001.jpg" xml:id="d4e39"/>
+        <p><unclear reason="illegible" resp="JCM">Miuate</unclear> Nashville</p>
+        <p>Aug. 30th 1844</p>
+        <p>Dr. Sir</p>
+        <p>I received your letter postmarked <unclear reason="illegible" resp="JCM">Greenville</unclear> several days ago - &amp; having been looking out for an <unclear reason="illegible" resp="JCM">explosion a spuhalran</unclear> has been at home - but he has since left with saddle bags - &amp; <unclear reason="illegible" resp="JCM">hener</unclear> suppose we may having nothing yet a which or the <unclear reason="illegible" resp="JCM">Town mother.</unclear> I find very few of our friends here have heard any thing about the true notion of the core. Foster tell or is telling a few of his friends - I have told some three or four of mine but even some of <unclear reason="illegible" resp="JCM">Toms</unclear> best friends here do not offer to have had any <unclear reason="illegible" resp="JCM">introduction</unclear> from him that you would make any question of <unclear reason="illegible" resp="JCM">wraity</unclear> with him. <unclear reason="illegible" resp="JCM">Fatheroffer,</unclear> I find had talked to <unclear reason="illegible" resp="JCM">Taws</unclear> told him what he <unclear reason="illegible" resp="JCM">hend in P. Ten. Norwell</unclear> 6.6. was informed, but now I do not know first;  but he is now understood to be one of Jones' most <unclear reason="illegible" resp="JCM">hunted &amp; confidented advises.</unclear> I have talked with Norwell I told him that he must not allow Jones to publish any thing offensive to gone feeling, should the <unclear reason="illegible" resp="JCM">Union</unclear> come out with the chief but to let the mother lie <unclear reason="illegible" resp="JCM">say</unclear> for the present at <unclear reason="illegible" resp="JCM">Cert,</unclear> &amp; news to be taken <unclear reason="illegible" resp="JCM">up goin</unclear> unless absolutely <unclear reason="illegible" resp="JCM">necessary.</unclear>
+            </p>
+        <p>I <unclear reason="illegible" resp="JCM">infer from conversing</unclear> with <unclear reason="illegible" resp="JCM">Zolliciffer</unclear> that he is under the impression, how go I know not; nor to or the idea why directly conveyed to me that you would not be able to show by the proofs you are supposed to have in your<unclear reason="illegible" resp="JCM">possession</unclear> that Jones said anything about a widow or the turning out of a widow - but merely that he had said to on of Genl. J. upon some <unclear reason="illegible" resp="JCM">auosion joululy</unclear> that he <unclear reason="illegible" resp="JCM">Tour was a gnoln</unclear> man in the Church than the Genl. &amp; if he did not take care he would time him out - or something to that effect.</p>
+        <p>Jones said to me he <unclear reason="illegible" resp="JCM">posen</unclear> of <unclear reason="illegible" resp="JCM">lele Norwell</unclear> in a conversation</p>
+        <pb n="2" facs="0012_001255_000200_0002.jpg" xml:id="d4e125"/>
+        <p>on the state of the <unclear reason="illegible" resp="JCM">cause</unclear> in e. Ten that he had understood that you were making statements about him <unclear reason="illegible" resp="JCM">probably</unclear> which he did not like &amp; said he had written to two of his friends on the subject - He also was or <unclear reason="illegible" resp="JCM">oppressed</unclear> to be in a <unclear reason="illegible" resp="JCM">dehumous</unclear> about. I supposed his about went to bring out army <unclear reason="illegible" resp="JCM">Mag</unclear> I know or had heard upon the <unclear reason="illegible" resp="JCM">subject.</unclear> I said you had alluded to the <unclear reason="illegible" resp="JCM">subject in conversing</unclear> with me, but that you had expressed no ill feeling toward him <unclear reason="illegible" resp="JCM">whatever yore</unclear> night have felt - yore <unclear reason="illegible" resp="JCM">expressed</unclear> none &amp; I believed regretted much that <unclear reason="illegible" resp="JCM">there</unclear> should be any cause of controversy between you. I moreover advised him that I thought it most <unclear reason="illegible" resp="JCM">prudent</unclear> for the party &amp; all concerned that <unclear reason="illegible" resp="JCM">moderation</unclear> &amp; good feeling should if possible, be preserved at least, for the present.</p>
+        <p>Upon the whole I think it <unclear reason="illegible" resp="JCM">morifent</unclear> that Jones is uneasy - &amp; that his plan at present is to deter you from any attack on him by holding out to your friend his <unclear reason="illegible" resp="JCM">obilily</unclear> to get the better of you. It is your letter to him on this subject that he must <unclear reason="illegible" resp="JCM">relive</unclear> tho, he did not tell me the <unclear reason="illegible" resp="JCM">contents of it.</unclear> In fort he was reserved with me - not seeming to know whether to take me or his friend or entry - In which he was <unclear reason="illegible" resp="JCM">rights,</unclear>for tho, I am not his enemy, I can near regard him as my friend or trust him, often his <unclear reason="illegible" resp="JCM">treatment</unclear> to me since his <unclear reason="illegible" resp="JCM">itutiu</unclear>
+            </p>
+        <p>I observe in your preface or dedication of the Book you have published that you stab that <unclear reason="illegible" resp="JCM">You.</unclear> Jones was the only man who had the boldness in 1834 to come out <unclear reason="illegible" resp="JCM">ossurly for blay</unclear> in this <unclear reason="illegible" resp="JCM">stols</unclear> for which you give him <unclear reason="illegible" resp="JCM">gud satd.</unclear> Now I do not know that this <unclear reason="illegible" resp="JCM">stotmuld is attacking</unclear>it will attract the public <unclear reason="illegible" resp="JCM">notion,</unclear> but I am curious to know when &amp; how you got such information. For not not only in 1839 - but in my <unclear reason="illegible" resp="JCM">spuibir genrelly,</unclear> with in</p>
+        <pb n="3" facs="0012_001255_000200_0003.jpg" xml:id="d4e214"/>
+        <p><unclear reason="illegible" resp="JCM">1837-</unclear>8-&amp; 7 - but <unclear reason="illegible" resp="JCM">uprolly</unclear> in 1839, I <unclear reason="illegible" resp="JCM">scaily</unclear> made a <unclear reason="illegible" resp="JCM">spuh</unclear> not me, I now believe ( &amp; I made fifty or more that year I expect) he which I did not defend the <unclear reason="illegible" resp="JCM">blay</unclear> &amp; hold him or the probabl <unclear reason="illegible" resp="JCM">audedet of our perly</unclear> in 1840 - or that he <unclear reason="illegible" resp="JCM">weaseld</unclear> he - Not only 20 I visited that one <unclear reason="illegible" resp="JCM">persued</unclear> every where should take that stand or he must <unclear reason="illegible" resp="JCM">effuled in seaney the elulious in that qur</unclear> I not only spoke of Mr Celay or our most leading man and on our next <unclear reason="illegible" resp="JCM">audideh but actually were</unclear> out a set of <unclear reason="illegible" resp="JCM">dauned nerly</unclear> in defending him against this <unclear reason="illegible" resp="JCM">deaf of leafani Gl</unclear>I remember well that I <unclear reason="illegible" resp="JCM">conowed Dr. McClory's powerful bound in</unclear> red calf welcoming all McClay <unclear reason="illegible" resp="JCM">eudred</unclear> or published in 1829.8. this is a little moth but still I cannot <unclear reason="illegible" resp="JCM">saw wupu to her open</unclear> my course in 1834 - not proper to be notified or repoured now - but at some future time if I shall be formed to have ailed the port I claim to have ailed. I not only spoke but wrote much in 1839 in <unclear reason="illegible" resp="JCM">defence</unclear> of Mr. Celay. A. A. Hall <unclear reason="illegible" resp="JCM">proper</unclear> at that period will <unclear reason="illegible" resp="JCM">sha</unclear> the course I look make <unclear reason="illegible" resp="JCM">strup.</unclear> A long diologue between a member of <unclear reason="illegible" resp="JCM">Casil of raform</unclear> which apprend at that time was written by me.</p>
+        <p>You may <unclear reason="illegible" resp="JCM">perain</unclear> that I have some <unclear reason="illegible" resp="JCM">surpaseer</unclear> that Jones informed you that I was not out for Alay in 1839 - You will know whether I do him <unclear reason="illegible" resp="JCM">injintes.</unclear>
+            </p>
+        <p>I was not the only more openly for Celay in 1839, If I am not <unclear reason="illegible" resp="JCM">nortok Lul. Chelhor we lewy</unclear> member of <unclear reason="illegible" resp="JCM">leaph whe coneed his Anhut</unclear>
+            </p>
+        <p>Yoursm Truly</p>
+        <p>W. G. Brownlow Esq.  <unclear reason="illegible" resp="JCM">Jno</unclear>Bell</p>
+        <pb n="4" facs="0012_001255_000200_0004.jpg" xml:id="d4e304"/>
+        <p>I <unclear reason="illegible" resp="JCM">lox </unclear> you with double <unclear reason="illegible" resp="JCM">posbly fearing stuf</unclear> if the letter is<unclear reason="illegible" resp="JCM">nicked pad</unclear> it well we send it not to be delivered to you. &amp; I fear to send it <unclear reason="illegible" resp="JCM">safely.</unclear> I fear you will not get it any hand.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

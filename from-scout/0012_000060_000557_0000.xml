@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000557_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>L.W. Youmans</name>
+ in Fairfax, S.C., to Mrs. E.A.R. Breck in Knoxville, Tenn.<date when="1904-04-18">1904 Apr. 18</date>
+            </title>
+            <author>
+               <name type="person">Youmans, L. W.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000557_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, L.W. Youmans in Fairfax, S.C., to Mrs. E.A.R. Breck in Knoxville, Tenn. 1904 Apr. 18</title>
+               <date>1904-04-18</date>
+               <author>
+                  <name>Youmans, L. W.</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages.</extent>
+               <note type="abstract">1904 Apr. 18, L.W. Youmans, Planter and dealer in General Merchandise, Fairfax, S.C., to Mrs. E.A.R. Breck, Knoxville, Tenn. Thanks Elizabeth for sending him a copy of Lyman Draper&apos;s book, Lives of the House of King &apos;s Mountain. Feels that it furnished material for other books, including Roosevelt&apos;s Winning of the West. Remarks that high prices have induced him to plant more cotton. Remembrance of Henry and Bessie Lenoir. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>King&apos;s Mountain, Battle of, S.C., 1780 -- Sources.</term>
+               <term>Cotton -- Prices -- South Carolina -- Fairfax -- 20th century. </term>
+               <term>Cotton growing -- South Carolina -- Fairfax -- 20th century. </term>
+               <term>South Carolina -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>East (U.S.) -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- King&apos;s Mountain and its heroes.</term>
+               <term>Roosevelt, Theodore, 1858-1919 -- Winning of the West. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000557_0001.jpg" xml:id="d3e152"/>
+            <p>L.W Youmans,</p>
+            <p>Planter</p>
+            <p>And Dealer In</p>
+            <p>General Merchandise,</p>
+            <p>Fairfax, S.C.</p>
+            <p>Mrs E.R. Breck</p>
+            <p>&quot;809&quot; East Main St Knoxville</p>
+            <p>East Tenn</p>
+            <pb n="2" facs="0012_000060_000557_0002.jpg" xml:id="d3e175"/>
+            <p>L.W Youmans,</p>
+            <p>Planter</p>
+            <p>And Dealer In</p>
+            <p>General Merchandise,</p>
+            <p>Fairfax, S.C., April 18th 1904</p>
+            <p>Mrs ER Breck</p>
+            <p>Knoxville Tenn</p>
+            <p>Dear Mrs Breck</p>
+            <p>I write to acknowledge your kindness in sending me Lyman Drapers &quot;Lives of the heroes of Kings Mountain&quot;</p>
+            <p>I have read this work with great pleasure and much edification It seems upon comparison to have furnished much of the material used in Simm&apos;s History of South Carolina also in the more elaborate work of Gen McGrady and likewise in Roosevelt&apos;s &quot;Winning of the west&quot;. In fact it gave me a better idea of the fierce and</p>
+            <pb n="3" facs="0012_000060_000557_0003.jpg" xml:id="d3e202"/>
+            <p>implacable <unclear reason="illegible" resp="JR">contest</unclear> between the whigs and <unclear reason="illegible" resp="JR">tivies</unclear>waged in the upper part of South Carolina than any other work I have read.</p>
+            <p>Stimulated by the high prices we are all busy in this section planting cotton, I will finish tomorrow and the first planting is coming up in May and the children are well with kind remembrances to<unclear reason="illegible" resp="JR">Belp and Idenceny</unclear>and much esteem for yourself.</p>
+            <p>Very Sincerely</p>
+            <p>L.W. Youmans</p>
+         </div>
+      </body>
+   </text>
+</TEI>

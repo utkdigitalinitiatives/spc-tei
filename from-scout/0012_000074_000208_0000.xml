@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000208_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio,
+<date when="1863-10-06">
+1863 October 6
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000208_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to Sarah Probert in Pittsfield, Ohio, 1863 October 6</title>
+               <date>1863-10-06</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>7 digital images; 7 pages</extent>
+               <note type="abstract">In this letter, dated October 6, 1863, from John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins describes daily life in camp, providing details of two recent funerals, one of a Captain and the other of a Private, complaining of the bigger scale of the former. He also describes a local, Knoxville-area custom: &quot;I guess that I never have told you of a peculiar habit that almost universally exists among the people here and that is the use of tobacco and snuff, among the women and children as the men.&quot;</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e139">
+            <pb n="1" facs="0012_000074_000208_0001.jpg" xml:id="d3e140"/>
+            <p>Oct 6th 1863</p>
+            <p>Miss Sarah J Probert</p>
+            <p>Pittsfield Swain</p>
+            <p>Co Ohio</p>
+            <pb n="2" facs="0012_000074_000208_0002.jpg" xml:id="d3e154"/>
+            <p>direct to Knoxville Tennessee care of Capt Joe C Shields</p>
+            <p>19th Ohio Battery 1st Brigade 3rd Division 23d army corps</p>
+            <p>Knoxville Tennessee October 6th 1863</p>
+            <p>Dear Sarah</p>
+            <p>My darling I wish that I was where we were one year ago to day. if I did not see you before night then it would be because I could not move. it is one year ago to day since we left the city of Cleveland, and I shall remember that day a good while. it seems a longer time then that since we came away from home. and then to think that we have got two more jest as long years to serve it makes me feel sometimes as though I never would leave home again if I made out to get home this time. but there is no knowing after all but what I should leave jest as soon again if it was necessary as I did this time. it is enough to put a man out of patience to live and get along as we have to some of the time. we dont begin to draw enough rations lately and now since the 9th Army Corps has got here there is no such thing as buying anything to eat on account of the scarcity of provisions and the great demand there is for it. when we came here butter was selling for 15 and 20 cts a pound. now it is selling for 75. potatoes have only as yet doubled in price and everything that is eatable has risen in proportion and to top off with we cant get any mail here for some reason or other. I have not had a letter since</p>
+            <pb n="3" facs="0012_000074_000208_0003.jpg" xml:id="d3e170"/>
+            <p>we have been here. nor have I the least idea when I shall get one. but I really hope it will be pretty soon for I am very anxious to here from you Sarah the first one. we cannot even get papers here of any description to pass away the time over but I would not care so much if I could get some letters. I know there must be letters for me somewhere and a lot of them to. I dont feel hard towards any one at home because I dont get them, but I do think something ought to be done either to the Postmasters along the south or else the carriers that ought to bring it over the mountains. there is something the matter somewhere or else the mail would have been running regularly before this time. there certainly has been time enough and still I dont think there is but very little use for a person to work himself up about it for that will not help the matter a bit, but if I could only get a letter from you once more darling and hear that you were well &amp; happy I should feel. I intended to write to you last Sunday, but we had to all turn out to a funeral. the man that was buried belonged to the 100th regiment and the whole brigade had to turn out. it was the first military funeral that I ever saw on so large and grand a scale. there was the 44th 100 and 104th regiments and our Battery. the batalion was formed about 1/2 past 12 to go down from camp. the 100th on the lead the 44th next and then the 104th and our battery in the rear of all. in that way we</p>
+            <pb n="4" facs="0012_000074_000208_0004.jpg" xml:id="d3e178"/>
+            <p>marched into town and up to the church where the sermon was preached. there we were drawn up in two lines along the middle of the street till the sermon was over. then we were formed in the same order and marched to the graveyard, the brass bands playing some appropriate pieces, there being two of them along. in the graveyard there was some few remarks made, and a prayer. the coffin was then lowered into the grave and three volleys fired over it. at the same time, there was another party a little way off burying a poor private. there was only a few of his comrades putting him away trying to bury him decent while where we were there was a whole Brigade ordered out to attend a soldiers funeral and probably no better soldier than the other was but the one was a private and the other a Capt. I could not help noticing the contrast between the two burials and making some remarks about it to, that would not be very well if some of the officers around had heard it. I hope it will never be my fate to be left in this cursed of all countries. I would prefer to have my bones laid away in a better country, but I was going to tell why I did not write after that. we did not get back into camp till dark and then it was to late and monday it was so cold that I did not dare attempt to write for fear I would have to give it up as a bad job before it was half done. and so I concluded that I would wash in the forenoon yesterday and</p>
+            <pb n="5" facs="0012_000074_000208_0005.jpg" xml:id="d3e186"/>
+            <p>I will write to you every week as soon as I can find out wheather you got my letters or not.</p>
+            <p>write my letter to day, if it should happen to be warm enough. this morning it was pretty cool and the Capt took us out to drill. and we did not get back till most dinner time and after I got my dinner I thought that I would try and write a letter. I hope darling that you have got the letters I have written to you since we have been here for if you have not got them by this time you will think there is something up sure. and have good cause for it to. if we could only get the mail for us as regular as we got it in Kentucky how much more pleasent the evenings would pass off. I should have something to interest my mind in if I could get a letter to read once in a while in the evening. there is considerable time between dark and roll call every evening that generally passes off pretty slow. last night after I laid down I could not go to sleep for a long time. the fellow that I bunk with and myself got to talking about home, he about his home, and me about my home and how well we would like to be there, and after we got done talking, I kept up a good deal of thinking about it; and as this is the time of year for apples and cider, I could not help thinking of how many jest such evenings I had spent at your house. and most always plenty of cider and apples to eat and drink and how pleasent the time passed by sitting by a large fire and plenty of papers to read. and then when I get home again how odd it will seem to again have the privilege of sitting up in the evening till I get a good read to go to</p>
+            <pb n="6" facs="0012_000074_000208_0006.jpg" xml:id="d3e196"/>
+            <p>bed. here we have roll call at 7 in the evening. and all have to be there. at about 1/2 past 7 tattoo sounds and every light in camp has to be put out, and no loud noise to be made after it either. and under the circumstances there is nothing else for us to do but go to bed. at 5 oclock in the morning the bugle blows for us to get up and in about 15 minutes after we have roll call again and everyone not present unless excused gets put on extra duty, and so it goes day in and out again the same thing over and over again. I dont know but I shall get so used to it that some one will have to blow a bugle for me to get up by after I get home.</p>
+            <p>the 7th. well I did not have time last evening to finish up this letter and I am going to see what I can do towards it this morning. daylight this morning ushered in one of those wet dreary and everlastingly long days for us to drag out again. it has rained steady so far this morning and I have no doubt but what it will keep it up all day, and we can amuse ourselves laying down or sitting up writing a little if the tent dont leak so as to wet everything, or mending clothes, and so it goes. and I&apos;ll bet a cent that you would laugh to see me putting a patch on the knee of a pair of pants, or even washing clothes. but neverless I do such things. wash every week, and when it is necessary put a patch on my pants. but how it looks I wont pretend to tell you, but looks pretty near as good as some of the natives work around here. I guess that I never have told you of a peculiar habit that almost universally exists among the people here and that is the use of tobacco and snuff, among the women and</p>
+            <pb n="7" facs="0012_000074_000208_0007.jpg" xml:id="d3e206"/>
+            <p>children as the men, but I really think the women are not half as neat about it as the men are. how filthy it does look to me to see a woman pull out a plug of tobacco and bite a great chunk off and go to chawing and spitting all around. some of them use snuff. they have a little brush. they dip that in to there snuff box and then into there mouths, rubbing it on to there teeth. you have heard of snuff dipping before, and I tell you it is anything but for me anyway. to see a woman with her mouth about half full of that stuff and the spaces between her teeth all filled up with it, it makes me shudder all over, and I jest have to walk off. it is the same with the little girls and boys, especially those that live out back from town here. I remember when we were on the road coming heare back in the mountains, there was a woman and a little girl (perhaps 10 years old) out by the side of the road to see the yanks, as they call us, go by, and the girl saw one of our men taking a chew of tobacco and she asked him for a chew. she said she like our kind of tobacco the best. it was a good deal sweeter than theres, but her mother did not like to have her asking everybody for it and so she advised the fellow not to give her any. I thought to myself if it was some folks that thad that girl to deal with she would get here neck broke most, and still the blame cant all be put on the children. I will have to close now. hoping this will find you in as good health as I am at present and still trusting in your love as much to day as ever. oh Sarah I am in hopes that the war will be closed up by and by so that I can once more see you and then I will prove my devotion to you in stronger language than I can write it.</p>
+            <p>Your soldier boy still</p>
+            <p>John</p>
+            <p>write as often as you can conveniently</p>
+         </div>
+      </body>
+   </text>
+</TEI>

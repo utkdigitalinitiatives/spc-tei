@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000232_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Glass, E.A.</name>
+in Chattanooga, Tenn. to O.P. Temple in Knoxville, Tenn.,
+<date when="1861-06-16">
+1861 June 16
+</date>
+            </title>
+            <author>
+               <name type="person">Glass, E.A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000232_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, E.A. Glass in Chattanooga, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 June 16</title>
+               <date>1861-06-16</date>
+               <author>
+                  <name>Glass, E.A.</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">In this letter, dated June 16, 1861 E.A. Glass in Chattanooga, Tenn. writes to O.P. Temple in Knoxville, Tenn., to request that Temple write to Constable William Rogers to &quot;indulge&quot; him on an outstanding debt. Rogers has seized some of Glass&apos; property in repayment of the debt. Glass suggests that if Temple does not help him, he will take advantage of recent legislation that states &quot;debts due to Northern men cannot be forced.&quot;</note>
+               <note type="collection">The O.P. Temple Papers, 1861</note>
+               <note type="manuscript">MS.21</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Landowners -- Tennessee, East -- History -- 19th century.</term>
+               <term>Collecting of accounts -- Tennessee, East -- History -- 19th century.</term>
+               <term>Debtor and creditor -- Tennessee, East -- History -- 19th century.</term>
+               <term>Tennessee, East -- Politics and government -- 19th century.</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>Glass, E. A. -- Correspondence.</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000070_000232_0001.jpg" xml:id="d3e158"/>
+            <p>Chattanooga Tenn</p>
+            <p>June 16th 1861</p>
+            <p>Gent</p>
+            <p>Wm Rogers Constable has some of my property levied on to be sold the 25th Inst for the debt of Robinson &amp; Hudson on A D Taylor JP Hodges &amp; myself! Times are very hard and I will not be able to pay the money against the day of sale my object in writing you is this. I wish you to write Rogers to indulge me on the debt, it is a hard debt for me to pay. if you will do so I will pay it just as fast and as soon as I can, if you are not willing to indulge me, I will have to take advantage of the late Law, that debts</p>
+            <pb n="2" facs="0012_000070_000232_0002.jpg" xml:id="d3e172"/>
+            <p>due to Northern men cannot be forced, however I do not wish to take that course with it, it is a debt I will have to pay and will do so as soon as possible, but yet I will not have my property Sacrafizd if I can avoid it, please write to Rogers by return mail, and also write to me</p>
+            <p>Yours Resply</p>
+            <p>E.A Glass</p>
+            <pb n="3" facs="0012_000070_000232_0003.jpg" xml:id="d3e184"/>
+            <p>E.A. Glass</p>
+            <p>no answer</p>
+            <p>June 16th 1861</p>
+            <p>Claim Robertson &amp; Hudson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

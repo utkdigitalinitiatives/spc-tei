@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000203_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    in Paris, to his father <date when="1848-02-05">1848 Feb. 05</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000203_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson in Paris, to his father 1848 Feb. 05</title>
+               <date when="1848-02-05">1848 Feb. 05</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000203_0001.jpg" xml:id="d4e39"/>
+            <p>Paris Feb 5th 1848</p>
+            <p>My dear father</p>
+            <p>I received in due season your letter of Jan 27 bringing me the agreeable intelligence that the sick ones of the family had nearly recovered, and the news that my new brother was to be called Alexander William, these I think are very good names, since they are not common to many members of the family.</p>
+            <p>In case you should not have received my letter in answer to yours of the 17 &amp; 18, I state that I received those in due season, and at the same time the letter and draft of <unclear reason="illegible" resp="EMS">Baring Brothers &amp; cr.</unclear> Tell sister Mary and brother Johnny that I received their kind letters and will soon answer them.</p>
+            <pb n="2" facs="0012_000435_000203_0002.jpg" xml:id="d4e52"/>
+            <p>I am very sorry that Johnny&apos;s application has been put off so by the government, but hope that Commodore Parker&apos;s influence will decide the case in his favour.</p>
+            <p>You will have seen by the papers the particulars of the situation of Paris on the 29&apos; Jany; since that day it appears certain that the extensive precautions taken by the government were fully justified by the information it had received of the intentions of a certain portion of the community. The assembly here has not yet passed the organic laws on acted upon the affair of the Clubs. I was present during part of the sitting of Saturday, the day which I understood had been set apart for the discussion of the proposition <unclear reason="illegible" resp="EMS">Rateau</unclear>
+            </p>
+            <p>The assembly usually meets at about 1 1/2 and adjourns at about 6 o&apos; clock. I was present in the chamber from 1 to 5. At about 1 1/2 o&apos; clock, 1/4 of the members I judge being present, the assembly was called to order by general Lamoniciere<unclear reason="illegible" resp="EMS">vici Prest</unclear> in came </p>
+            <pb n="3" facs="0012_000435_000203_0003.jpg" xml:id="d4e65"/>
+            <p>to order at about 1 hour after, and remained at order for short intervals during the time that I remained; the rest of the time there was nothing but confusion and uproar in spite of the endeavours of the President and officers to keep order. I heard speeches from Messieurs Rousseau Dupere Perree &amp; Leon Faucher the minister of the Interior.  The letter did not show as much eloquence as I expected from a man in his position. Cavaignae is quite a plain looking man, Lamartine very fine looking; <unclear reason="illegible" resp="EMS">Thiers</unclear> is a small man, appears to be about 60, and is very good looking - these the ministers and Berrier the lawyer, were the important characters that I saw. The President of the Republic having some time ago asked Mr Rush to present to him the officiers of our service who were in Paris, we attended his soiree and were presented to him on last Thursday evening.  I had a short conversation with him, and was very much pleased with the manner in which he received us. He is a very small man, but very good looking; he appears very care worn.  Mr Bancroft was present at this  </p>
+            <pb n="4" facs="0012_000435_000203_0004.jpg" xml:id="d4e72"/>
+            <p>soiree, and is still in Paris. Cavaignae, Lamartine, <unclear reason="illegible" resp="EMS">Arago &amp; c</unclear> never attend the soirees of the President. Give my love to Ma and all the family, and a kiss to Martha and the baby, and remember me kindly to Mr Fay and family. </p>
+            <p>Your affectionate son</p>
+            <p>A J Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

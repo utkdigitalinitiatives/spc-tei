@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000563_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christmas card,
+<name>Nellie Alexander Gordon</name>
+ n Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1910-12-23">1910 Dec. 23</date>
+            </title>
+            <author>
+               <name type="person">Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000563_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Christmas card, Nellie Alexander Gordon in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1910 Dec. 23</title>
+               <date>1910-12-23</date>
+               <author>
+                  <name>Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 greeting cards.</extent>
+               <note type="abstract">1910 Dec. 23, Nellie Alexander Gordon, Franklin, Tenn., to Elizabeth Ramsey Breck, Knoxville, Tenn. Christmas card. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Christmas cards -- Tennessee -- 20th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 20th century.</term>
+               <term>Franklin (Tenn.) -- History -- 20th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e143">
+            <pb n="1" facs="0012_000060_000563_0001.jpg" xml:id="d3e144"/>
+            <p>Mrs. E.A.R. Breck</p>
+            <p>Cor. Main &amp; Cumberland Sts.,</p>
+            <p>Knoxville,</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000563_0002.jpg" xml:id="d3e158"/>
+            <p>With</p>
+            <p>best</p>
+            <p>Wishes</p>
+            <pb n="3" facs="0012_000060_000563_0003.jpg" xml:id="d3e170"/>
+            <p>Christmas.</p>
+            <p>Resting on the faithfulness</p>
+            <p>Of Christ our Lord,</p>
+            <p>Resting on the Fulness of His</p>
+            <p>Own sure word,</p>
+            <p>Resting on His power, on His</p>
+            <p>Love untold,</p>
+            <p>Resting on His covenant</p>
+            <p>Secured of old.</p>
+            <p>Francis Ridley Havergal</p>
+            <p>To Mrs. E.A.R Breck</p>
+            <p>From Mrs. A.R. Gordon Jr.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

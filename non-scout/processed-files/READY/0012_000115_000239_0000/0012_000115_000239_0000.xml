@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000239_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>E. B. Long</name>
+				                    in Baltimore, Md.., to Maj. David Burford in Dixon Springs, Tenn., <date when="1838-04-01">1838 Apr. 01</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">E. B. Long</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000239_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, E. B. Long in Baltimore, Md.., to Maj. David Burford in Dixon Springs, Tenn., 1838 Apr. 01</title>
+          <date when="1838-04-01">1838 Apr. 01</date>
+          <author>
+            <name type="person">E. B. Long</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000239_0001.jpg" xml:id="d4e39"/>
+        <p>Major David Burford</p>
+        <p>Dixon Springs</p>
+        <p>Tennessee</p>
+        <p>From</p>
+        <p>E. B. Long at the</p>
+        <p>firm of Jones, Woodward &amp; Co</p>
+        <p>of Baltimo</p>
+        <pb n="2" facs="0012_000115_000239_0002.jpg" xml:id="d4e55"/>
+        <p>Major Burford,</p>
+        <p>Dixon Springs April 1st 1838</p>
+        <p>Dear Sir</p>
+        <p>You will please pass to the credit of Taylor &amp; Phelp' note two any monies or good notes already received for <unclear reason="illegible" resp="JCM">enrale,</unclear> and if not enough to pay the whole <unclear reason="illegible" resp="JCM">of one</unclear> note, receive such other good notes at short date for <unclear reason="illegible" resp="JCM">our &amp; T Jony</unclear> &amp; co claim as you may select - I think he had better pay you the balance in money and close the matter at once.</p>
+        <p>On the settlement there must be 3pr cent exchange added with <unclear reason="illegible" resp="JCM">interest</unclear> we are now exacting 10 prct from others -</p>
+        <p>Please write to me at Nashville as soon as you return care Michal, Dance, &amp; Co and give statement of the payment made - or rather the amt of notes rec? <unclear reason="illegible" resp="JCM">nafe</unclear> our claim - with the date and amt of our <unclear reason="illegible" resp="JCM">enr &amp; T. J. H.</unclear> notes or I have not a memorrandum of them with me - Should Mr Phelp go to Balto without arranging the whole of the claim with you, you will please give his note credit by the amt arranged &amp; forward them <unclear reason="illegible" resp="JCM">toay</unclear> that we may be prepared to make the settlement with him in Baltimore <unclear reason="illegible" resp="JCM">Iyiny</unclear> very Truely &amp; Resply</p>
+        <p>EBLong of Jones, Woodward &amp; Co.</p>
+        <pb n="3" facs="0012_000115_000239_0003.jpg" xml:id="d4e95"/>
+        <p>Re,d 14 June 1838 for Talbot Jones &amp;co $271.38 in Tennessee funds and note on White</p>
+        <p>wrote Jones, Woodard &amp;co of Baltimore on the <unclear reason="illegible" resp="JCM">11th</unclear> Sept 1838 to <unclear reason="illegible" resp="JCM">discuss</unclear> on me at sight for 4500 - D.Burford</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

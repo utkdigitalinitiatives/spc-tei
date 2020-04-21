@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000222_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Richardson, D.</name>
+ in Washington, D.C. to O.P. Temple in Knoxville, Tenn. <date when="1865-03-03">1865 March 03
+ </date>
+            </title>
+            <author>
+               <name type="person">Richardson, D.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000222_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, D. Richardson in Washington, D.C. to O.P.Temple in Knoxville, Tenn., 1865 March 03</title>
+               <date>1865-03-03</date>
+               <author>
+                  <name>Richardson, D.</name>
+               </author>
+               <extent>4  digital images;  4 pages</extent>
+               <note type="abstract">1865 March 3 D. Richardson, Washington, D.C., to the Directors of the Knoxville &amp; Ky. R.Rd. Co. R.R. bill defeated in Senate; E. Tenn. needs own representatives in Congress.
+</note>
+               <note type="collection">The O.P. Temple Papers, 1865</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Railroads -- Southern States -- History -- 19th century.</term>
+               <term>Businessmen -- Southern States -- Political activity -- History -- 19th century.</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865. </term>
+               <term>Knoxville and Kentucky Railroad Company.</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000070_000222_0001.jpg" xml:id="d3e158"/>
+            <p>National Hotel</p>
+            <p>Washington D.C. March 3/65.</p>
+            <p>to the directors of the</p>
+            <p>Knoxville &amp; Ky R.R. Co.</p>
+            <p>Gentleman</p>
+            <p>It is with profound regret that I announce to you the failure of our Rail Road Bill in the Senate. S Lowdon and Senator Wilson have been the cause of its defeat, though every honourable means that I could suggest and use, have been brought to bear to secure its passage, but all to no purpose. With $25,000 in cash placed at my disposal, I could have carried it easily. Very many men have assisted me, but all combined could not turn Stanton, nor remove Wilsons</p>
+            <pb n="2" facs="0012_000070_000222_0002.jpg" xml:id="d3e176"/>
+            <p>fear of him. Never have I labored so earnestly for the accomplishment of any object in my life, as I have for this, and the result is most humiliating to me. One evening only have I devoted to personal pleasure this winter, while the rest of my time, both day and night I have labored for this enterprise. </p>
+            <p>I am compelled to say to you, and all of our people in East Tennessee, that we need not expect any legislation here in congress favorable to our special interests as a community, or as a division of a state, till we can be represented here by our own men. I have watched the course of legislation, and the terror of speaches bearing upon our State, with intense interest, but there are no <unclear reason="illegible" resp="NW"> acts</unclear>
+            </p>
+            <pb n="3" facs="0012_000070_000222_0003.jpg" xml:id="d3e188"/>
+            <p>looking to our relief at present, beyond the prosecution of the war. Therefore, I most devoutly hope in the choice of our next delegation to represent East Tenn., in our Congress, that the most able - discreet - honest, and worthy men will be selected for that responsible potition; men who have the moral courage to speak boldly in defense of justice- truth, and the right. Let those who are given to the use of liquors and to &quot;Women of easy virtues&quot; be kept at home. </p>
+            <p>I do not at present, see any way by which we can obtain the funds for immediate prosecution of our work; if others can make any suggestion to that effort. I will be most happy to hear and respond to it. I tried the &quot;Loud Warrant&quot; scheme, but to no purpose It is uncertain now when I </p>
+            <pb n="4" facs="0012_000070_000222_0004.jpg" xml:id="d3e198"/>
+            <p>shall return to Knoxville; I hope however that the regular annual meeting will be held at the appointed time, for this work must be kept in view till we can see our wishes carried to completion.</p>
+            <p>Mr Moses furnished me with a brief abstract of the Financial condition of our Co. while I suppose he gave you a report in full. </p>
+            <p>I propose to leave here on Monday to see my family in Mass. and will be happy to hear from some members of our Board. very soon, directed to me in care of Miss Burnall Adams &amp; Co. 30 Wall St. N.Z.</p>
+            <p>Very Respectfully</p>
+            <p>Yours</p>
+            <p>D. Richardson</p>
+            <p>D Richardson, A March 29/65</p>
+         </div>
+      </body>
+   </text>
+</TEI>

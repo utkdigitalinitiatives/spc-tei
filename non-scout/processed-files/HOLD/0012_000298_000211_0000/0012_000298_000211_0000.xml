@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000211_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Memphis, Tenn., to his wife in Bloomington, Ill., <date when="1864-10-31">1864 Oct. 31</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000211_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Memphis, Tenn., to his wife in Bloomington, Ill., 1864 Oct. 31</title>
+               <date when="1864-10-31">1864 Oct. 31</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolf Hackley Letter</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000211_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis Oct 31 1864</p>
+            <p>My Darling</p>
+            <p>Yours of the 22 has been recd and relieved me much on Annies account I hope she was well enough to go home with Mrs McRoberts as a change would do her good if the weather is not too cool for <unclear reason="illegible" resp="JCM">must</unclear> have been pretty hard <unclear reason="illegible" resp="JCM">reen</unclear> to accomodate Mrs. McRoberts comfortabley as our beds are none of the best I think you had better get a spring for Hatties bed I am sorry she suffers with her <unclear reason="illegible" resp="JCM">head</unclear> but she had better go to school as long as she can not going in very bad weather I do not think study can hurt hur and exercise will do her good if she does not walk so fast as to our exert and exhaust herself tell her to be careful about this <unclear reason="illegible" resp="JCM">last</unclear>
+            </p>
+            <pb n="2" facs="0012_000298_000211_0002.jpg" xml:id="d4e58"/>
+            <p>I <unclear reason="illegible" resp="JCM">have met several</unclear> persons here whom I knew as boys - one of them a son of Capt Buna whom you must have known in Ky but he was a great friend to Mr Brown and to me. I am to dine today with him he resides in town and is a Merchant, another is Col W Taylor son inalw to Genl <unclear reason="illegible" resp="JCM">Hamilton</unclear> and a sort of a cousin whom I knew well as a boy in Richmond in fact I am meeting old acquaintances almost daily. <unclear reason="illegible" resp="JCM">hit has but</unclear> little time to visit having to be in the office from 9 to 4 every day. I do not yet know if my present occupation will pay as well as that of last winter but hope I should find out some way of making money as living is much higher than it was I have been paying $2 per day but in a day or two will have a room fixed up and the</p>
+            <pb n="3" facs="0012_000298_000211_0003.jpg" xml:id="d4e71"/>
+            <p>wll not spend more than <unclear reason="illegible" resp="JCM">$1,25</unclear> per day - I am in hopes soon of having some extra work after  night as I get very lonesome <unclear reason="illegible" resp="JCM">life</unclear> bedtime. god bless you all my dear ones, kiss all for me</p>
+            <p>Your affe Husband</p>
+            <p>W R Hackley</p>
+            <p>Mrs W R Hackley</p>
+            <p>Bloomington</p>
+            <p>Ills</p>
+         </div>
+      </body>
+   </text>
+</TEI>

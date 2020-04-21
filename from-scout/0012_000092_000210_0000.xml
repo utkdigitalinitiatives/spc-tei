@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000210_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Murfreesboro, Tenn., to Mother, <date when="1863-05-03">1863 May 3</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000210_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Murfreesboro, Tenn. to Mother, 1863, May 3</title>
+               <date>1863-05-03</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1863 May 3 Southgate Cregmile in Murfreesboro, Tenn., to his Mother (Eleanor Griffin). Updates her on the well being of the hometown boys. On constant watch for Conf. Gen. Bragg to show up there at any time. Describes the forfeiture of weapons and surrender of hundreds of Rebel soldiers due to lack of rations, including one whole division. Union Com. Rosencrans (Old Rosey), preparing to move forward, orders the men to exchange their large tents 
+for small, so they can be carried. Urges her to write soon.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Tennessee -- Murfreesboro -- 19th century -- Social conditions.</term>
+               <term>Prisoners of war -- Tennessee -- History -- 19th century.</term>
+               <term>Command of troops -- History -- 19th century.</term>
+               <term>Murfreesboro (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Griffin, Eleanor, 1819- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military police.</term>
+               <term>Military leadership.</term>
+               <term>Military deserters.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000092_000210_0001.jpg" xml:id="d3e164"/>
+            <p>Campe Near Mourfreesboro</p>
+            <p>Tenn</p>
+            <p>May 3rd 1863</p>
+            <p>Dear Mother</p>
+            <p>I seat my self this after noon to rite you a few lines to let you know how things is going on at this place</p>
+            <p>Harvey cone has gone to the hospital. all the rest of the Reily boys is well. we are looking for Bragg here every day while I were on Picket the other night there were tow hundred rebles stacked there arms out side of the picket and come in and give them selves up. thay say Bragg whle army only has </p>
+            <pb n="2" facs="0012_000092_000210_0002.jpg" xml:id="d3e182"/>
+            <p> six days rashions and doent know where the next is to come from thay sad there whole Division was coming in the first chance thay got. James Rea got a Butternut letter from <unclear reason="illegible" resp="NW">Jr.</unclear> McCluskey. </p>
+            <p>Old Rosey is fixen for a forward movement we have turnde over our large tents and have drawed small tents so that we can care them with us. I will send you some of our small change that we get here no more at presant</p>
+            <p>rite soon</p>
+            <p>S. Cregmile</p>
+         </div>
+      </body>
+   </text>
+</TEI>

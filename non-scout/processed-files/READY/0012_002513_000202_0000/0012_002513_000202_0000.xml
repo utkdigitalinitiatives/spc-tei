@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002513_000202_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Watson B. Smith</name>
+				                    in Loudon, Tenn. to Howard B. Smith <date when="1863-09-07">1863 Sept. 7</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Watson B. Smith</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002513_000202_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Watson B. Smith in Loudon, Tenn. to Howard B. Smith 1863 Sept. 7</title>
+          <date when="1863-09-07">1863 Sept. 7</date>
+          <author>
+            <name type="person">Watson B. Smith</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Watson B. Smith Papers, June 1863 - Sept. 1863</note>
+          <note type="manuscript">3324</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Michigan -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States. Army. Corps, 23rd (1863-1865).</term>
+          <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002513_000202_0001.jpg" xml:id="d4e39"/>
+        <p>Head Qrs. 2d Div. 23d Army Corps.</p>
+        <p>Loudon, E. Tenn Sept 7 1863</p>
+        <p>Dear Brother</p>
+        <p>If you take your atlas, find the State of Tennessee and look along the line of the East Tenn R. R. about 40 miles west of Knoxville you will find Loudon the place where we are now encamped--it is situated on the Tenn. River. The R. R. bridge at this place was a very fine one 1600 feet long--the rebels burnt it just before our advance came up. We are now at work building a pontoon bridge which will be completed in a few days. The cars &amp; telegraph, between here &amp; Knoxville, will be in operation again by tomorrow or next day--but we have no telegraph or cars going forth neither any opportunity of sending or receiving mails. I have letters written since leaving Jamestown but no opportunity of sending them. </p>
+        <p>And now what shall I talk to you about, shall it be some incidents of our march down here? Coming over the mountains was a very severe march-the three Division 2d 3d &amp; 4th</p>
+        <pb n="2" facs="0012_002513_000202_0002.jpg" xml:id="d4e51"/>
+        <p>came by different routes, ours (now take up your Atlas again) was by way of Liberty, Columbia, Albany in Ky &amp; Jamestown, Montgomery, Emery Iron Works, &amp; Kingston in Tenn. The rebels had pretty much cleaned out everything in the forage and subsistence line, so much so that our teams had to scour the country for miles &amp; even then the mules were not half fed. You see we have nearly 300 wagons drawn by from 4 to 6 mules Each &amp; of course they consumed a large amount of forage. The men, too, were on short rations some of the times but roasting ears &amp; apples which were plenty compensated in a measure for the short rations. Most of the apple orchards along our line of march have been cleaned out, say nothing of melon patches &amp;c.</p>
+        <p>It would amuse you to see the troops ford a stream, if it is not too deep they roll up their pantaloons as high as possible &amp; then push in shouting &amp; laughing especially when an unlucky fellow skips down heels over head as is frequently the case. In crossing the Cumberland the troops were obliged to take off their pantaloons-just think of an army striped in that way.</p>
+        <p>I am now Aid de Camp on Brig Genl. White's</p>
+        <pb n="3" facs="0012_002513_000202_0003.jpg" xml:id="d4e59"/>
+        <p>Staff and as he is in command of a Division so acting Maj. Genl. I am acting captain. My duties are light-mainly carrying important orders, writing orders in the absence of the A. A. G. &amp; in battle when get into one showing commanders of Regiments to their position &amp; carrying the Generals orders to one commands and another. There are 11 officers composing the staff A.A. G., Inspector Genl., Com'sy of musters, Qr. Mr., Com'sy., surgeon, two Aid-de-Camps, Topographer, Provost Marshall &amp; Ordnance officer-then the Genl. has 25 mounted orderlies or escort who carry dispatches. The Regulations allow the tent to every two staff officers. We have our Hd. Qrs. ambulance, wagons &amp;c. Four of us are with the Genl. constantly viz. Adjutant Surgeon &amp; Aid-de-Camps &amp; we almost invariably make Hd. Qr. at some house &amp; take meals in houses or pitch our tents in a fine front yard or orchard of people &amp; eat all kinds of meals-on our way over the mountains we halted near the house of one of the "white trash" or "poor white folks" about dinner time-we had milk corn bread, meat &amp; potatoes all of which went very well except the meat which although it had just been</p>
+        <pb n="4" facs="0012_002513_000202_0004.jpg" xml:id="d4e63"/>
+        <p>roasted smelt very strong &amp; showed considerable life upon cutting it, in fact it was alive with maggots, so you may imagine we shoved that dish one side in haste. We see corn bread in some shape &amp; bacon at nearly every meal either as "corn bread," "corn dodger," "corn cake" or some thing else corn. A good loaf of wheat bread is a rarity in fact I have not seen a loaf in this State &amp; not much in Ky. but bisquet, where they have the flour, is always brought in the table &amp; fresh hot relays as long as we are eating chickens are generally pretty plenty usually fried. Apples &amp; peaches in Tenn. seem to be very abundant but they do not seem to pay attention to choice grafts as they do with us. Hog is the staple &amp; hog I never liked.</p>
+        <p>I meant to have said that there are at present in this command 8 regiments of Infantry, 4 Batteries &amp; one regt. of Cavalry, which makes quite a force.</p>
+        <p>How I would like to hear from home learn how you all are &amp;c but we hear little news except what is going on around us.</p>
+        <p>Your aff brother</p>
+        <p>Watson</p>
+        <p>P.S. I send you a $ 5.00 &amp; 25 cent Confederate scrip which will not buy candy in Detroit. W.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

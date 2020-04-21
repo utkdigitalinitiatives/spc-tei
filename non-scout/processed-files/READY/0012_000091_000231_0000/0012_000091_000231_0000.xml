@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000231_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>David Jones</name>
+				                    in Nashville, Tenn. to his wife <date when="1865">1865</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">David Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000231_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, David Jones in Nashville, Tenn. to his wife 1865 ?? 23</title>
+          <date when="1865">1865</date>
+          <author>
+            <name type="person">David Jones</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000091_000231_0001.jpg" xml:id="d4e39"/>
+        <p>Nashville Thursday 23 / 65</p>
+        <p>My Dear Wife Your kind and welcome letter came to hand this afternoon Just after dinner I was expecting it yesterday i was going to write you but i thought I would wait and hear from you first As cold water to a thirsty Soul so is good news from a far country I was glad to understand that you were all well as I am first - rate now Anna I sent you a letter last Sabbath I thought i would have to be on guard duty for 3 days but i got off it yesterday that was wednesday morning there was four of us sent about 3 miles from the Barracks to guard the cook house and stables and some other things the ......................tables then we were free till supper time then we had to the same thing again we took one days rations with us but they gave us our meals In the first place ill give you a little history of the Place we have to watch in the first Place the building was occupied by a Rebel it was a very extensive Pork Packing Establishment I was told last night </p>
+        <pb n="2" facs="0012_000091_000231_0002.jpg" xml:id="d4e45"/>
+        <p>that when our soldiers took Nashville that that there was 1152 <unclear reason="illegible" resp="EMS">dressed</unclear> boys hanging up there Besides what was <unclear reason="illegible" resp="EMS">Packed</unclear> up and all the <unclear reason="illegible" resp="EMS">Land</unclear> was t here now our fellows has it turned unto stables and cook houses it lies close to the Cumberland River near the wharf where the Pitts and <unclear reason="illegible" resp="EMS">Duats</unclear> and others lies yesterday i saw a grand sight it was the Steamer Emerald from St Louis had a Reg of Soldiers on Board bound for St Louis all the decks were crammed full Then at 6 o clock in the evening we had to go on duty 2 hours on duty and 4 off duty my first turn was from 10 to 12 it was on Wednesday night the first thing that came to my mind was that on that night 2 weeks you James and I was at the Prayer meeting in Allegheny what a distance in so short a time the next thing was that drew my attention as i was walking to and fro was a Brass Band Playing some pretty tunes from that until 12 all was silent with the exception of some mules a Braying and some frogs had a regular Serenading But one thing i forgot in regard to last Sabbath as i stated that i was not on guard at nine o clock we were all  </p>
+        <pb n="3" facs="0012_000091_000231_0003.jpg" xml:id="d4e61"/>
+        <p>on the top of a Hill <unclear reason="illegible" resp="EMS">near ft Negby</unclear> for inspection we had to take our Knapsack and everything we had on our back and stand there about 2 hours we <unclear reason="illegible" resp="EMS">dared</unclear> not sit down we were all pretty tired again we went home it was dinner time after dinner i sat down to read at two o clock i went to hunt for a church I walked about an hour and at last had to go to a Niger Church Methodist there was a chaplain of some Reg a white Man in the Pulpit too but it was the Niger that introduced the Services after Singing he said that he wanted every colored man and woman to celebrate the Emancipation Proclamation of this State and another thing says he i want all of you to keep Sober not to have their names recorded at the Major office he said that the colored people was often on <unclear reason="illegible" resp="EMS">second there for drinkers</unclear> or for whiping their <unclear reason="illegible" resp="EMS">wives</unclear> and the women for knocking their husband down with a chair or something else the white man could hardly keep his face straight then the white man took his text from Ephesians 4 and 14 and 15<unclear reason="illegible" resp="EMS">verse</unclear> he was a good Preacher but the Nigers were</p>
+        <pb n="4" facs="0012_000091_000231_0004.jpg" xml:id="d4e80"/>
+        <p>in and out all the time they kept such a noise that I could not hear anything at last the clock struck 4 when i had to leave myself when i got to the Barracks they were ready to go out on a dress Parade then we had to go up the same hill again where they played the Yankee Doodle in place of going to church After we came back we got our Supper after Supper some Methodists got together into a building and held a Prayer Meeting there when i went in there was some <unclear reason="illegible" resp="EMS">boys</unclear> engaged in Prayer and some other <unclear reason="illegible" resp="EMS">boys</unclear> made some remarks from the words when my heart is overwhelmed Lead me to the Rock that is higher than i so after that I went home read a letter and went to bed so that ended the Sabbath That young Harper of Manchester is a clerk in a wagon shop here you mentioned about sending the Letter with a <unclear reason="illegible" resp="EMS">Mr Gilland</unclear> I dont know who he is I was told after I came home today that there had been some Preacher here asking for Some one of my name he said he would call again Give my respects to Jane <unclear reason="illegible" resp="EMS">Keown</unclear> I think Jane will be more useful to you than any one else I am Perfectly Satisfied</p>
+      </div>
+    </body>
+  </text>
+</TEI>

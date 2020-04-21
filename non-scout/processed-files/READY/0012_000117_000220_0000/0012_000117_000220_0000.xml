@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000220_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Jos W. Allen</name>
+				                    in New Orleans, La., to David Burford in Dixons Springs, Smith Co., Tenn., <date when="1855-04-21">1855 April 21</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Jos W. Allen</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000220_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Jos W. Allen in New Orleans, La., to David Burford in Dixons Springs, Smith Co., Tenn., 1855 April 21</title>
+          <date when="1855-04-21">1855 April 21</date>
+          <author>
+            <name type="person">Jos W. Allen</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000220_0001.jpg" xml:id="d4e39"/>
+        <p><unclear reason="illegible" resp="LLW">in</unclear> Chattanooga &amp; Nashville</p>
+        <p>Maj D. Burford</p>
+        <p>Dixons Springs,</p>
+        <p>Smith County</p>
+        <p>Tennessee</p>
+        <p>Direct to Box A No 18</p>
+        <pb n="2" facs="0012_000117_000220_0002.jpg" xml:id="d4e55"/>
+        <p>New Orleans April 21st 1855</p>
+        <p>Maj D. Burford</p>
+        <p>Dear Sir,</p>
+        <p>I am in recpt yours of the 14th inst.  As soon as James comes to the city I will make an arrangement with him in regard to your drawing on him provided you wish to do so.  I shall remain here until 1st of July and as James comes to the city but seldom (as he is trying to get along this year without an overseer) it would be best, if you find you will require the amount alluded to, to first write to me and I will get it from him and send it to you.  In the mean time the first time he comes to the city I will make the arrangement for you to draw on him payable in the city at any time you may find it necessary.</p>
+        <p>There is no necessity to renew the note on the mortgage nor is it even necessary to protest a mortgage note in this state.</p>
+        <p>The prospect for crops - both of sugar &amp; corn is very gloomy in this state.  I have never known as dry a winter &amp; spring.  The  money market is tightening daily.  Remember me cordially to your family and believe me</p>
+        <p>Very truly your friend</p>
+        <p>Jos W. Allen</p>
+      </div>
+    </body>
+  </text>
+</TEI>

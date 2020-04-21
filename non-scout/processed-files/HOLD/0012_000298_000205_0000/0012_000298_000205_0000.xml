@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Memphis, Tenn., to his wife in Joliet, Ill. <date when="1864-03-06">1864 Mar. 06</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000205_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Memphis, Tenn., to his wife in Joliet, Ill. 1864 Mar. 06</title>
+               <date when="1864-03-06">1864 Mar. 06</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolf Hackley Letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000205_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis March 6 &quot;64</p>
+            <p>My Dear Wife</p>
+            <p>Yours of the 28 <unclear reason="illegible" resp="JCM">Febr co yrs = tinday</unclear> I am sorry you had so mcuh trouble about busines which I have kept from you always but it cannot be avoided and I am sure you do <unclear reason="illegible" resp="JCM">this</unclear> but you can so do not worry <unclear reason="illegible" resp="JCM">see how Zan</unclear> if he cannot get some young man of his acquaintance to help you if he cannont write to Aleck and see if he has time time come on and pay him what he gets from the <unclear reason="illegible" resp="JCM">Insurence of</unclear> for his time how would it do for you to go to Rockford if you cannot be <unclear reason="illegible" resp="JCM">seated</unclear> at Bloomington, I have applied for an appointment as Treasury Aid for Aleck the duties are similar to Inspector of the Customs with which he is familiar I have not written him to know if he wanted it but from what he</p>
+            <pb n="2" facs="0012_000298_000205_0002.jpg" xml:id="d4e62"/>
+            <p>said when I saw him<gap resp="Mincey"/>think he would like it you <gap resp="Mincey"/> ask if he would like it, <gap resp="Mincey"/> have as much to do further <gap resp="Mincey"/> two months I can lay by enough to buy a small farm but still hope to be able to, get to LaGrange in a month or two, and then I hope to have you with me and let the girls stay at school for I am satisfied that I can make all the money I want in five years after the war ends, by my <unclear reason="illegible" resp="JCM">pretense</unclear> in LaGrange this Memphis is the dirtiest meanest hole I ever was in. the streets are always <unclear reason="illegible" resp="JCM">either</unclear> mud or dust, and both worse than I ever saw any where else I sent you on the 2o  a Draft for $300 and will send more this week which will pay all and you had better get good warm clothes and shawls I hope you will not need furs <unclear reason="illegible" resp="JCM">on</unclear> this winter if so we may be <unclear reason="illegible" resp="JCM">there</unclear> able to get them, the number of people you speak of in Joliet <unclear reason="illegible" resp="JCM">certainly</unclear> me. I did not think that town</p>
+            <pb n="3" facs="0012_000298_000205_0003.jpg" xml:id="d4e90"/>
+            <p>would ever fill up again nor do I know what they can do <unclear reason="illegible" resp="JCM">for</unclear> a living I hope you may be able to get some young man to help you <unclear reason="illegible" resp="JCM">mow</unclear> as you will have many to pay for it and that you will be far from business troubles hereafter, I do not recognise the Photograph you sent - and think you had better put the names on the back you know I can scarsely <unclear reason="illegible" resp="JCM">enable</unclear> the Photographs of anyone I suppose however it is Charlotte from the hat in her lap have all the children &amp; yourself taken and send me soon - I have been disturbed by visitors this morning and must clos to be in time for church so good bye - Love and kisses to all tell the girls they must write me at least once a week</p>
+            <p>Your aff Husband</p>
+            <p>W R Hackley</p>
+            <p>Mrs. W R Hackley</p>
+            <p>Joliet</p>
+            <p>Ills,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

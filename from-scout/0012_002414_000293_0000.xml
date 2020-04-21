@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000293_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Robert Morris</name>
+		                            in Hills to Joseph Ball &amp; President &amp; Directors of the Isurance Co. of North America.,<date when="1798-01-07">1798 Jan. 07</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Robert Morris</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000293_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Robert Morris in Hills to Joseph Ball &amp; President &amp; Directors of the Isurance Co. of North America.,1798 Jan. 07</title>
+               <date when="1798-01-07">1798 Jan. 07</date>
+               <author>
+                  <name type="person">Robert Morris</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000293_0001.jpg" xml:id="d4e39"/>
+            <p>Jos. Ball Esqr Presidt</p>
+            <p>of The Directors of the</p>
+            <p>Insura. Compy of</p>
+            <p>No America</p>
+            <p>Letter</p>
+            <p>Robert Morris</p>
+            <p>Jany. 7th, 1798</p>
+            <pb n="2" facs="0012_002414_000293_0002.jpg" xml:id="d4e55"/>
+            <p>Hills  Jany 7th, 1798</p>
+            <p>Gentn</p>
+            <p>I have received this day a letter from Jos. Ball Esqr Presidt. of your Board requiring the payment of the interest due on my Bond, this letter
+				       was written yesterday and as my situation does not admit  of that prompt payment.  I could wish, nor of that close attention to the details
+				       of business that I have been used to, I can only assure you that I will immediately set about raising the Money required and as I expect to
+				       accomplish it in a reasonable time I hope you will not precipitate and encrease the burthen of distress with which I am now struggling.  In
+				       expectation of soon Complying with your call I remain respectfully</p>
+            <p>Gentn Your Obed hble Servt</p>
+            <p>Robt Morris</p>
+            <p>Jos Ball Esqr Presidt</p>
+            <p>of The Directors of the Insura Compy</p>
+         </div>
+      </body>
+   </text>
+</TEI>

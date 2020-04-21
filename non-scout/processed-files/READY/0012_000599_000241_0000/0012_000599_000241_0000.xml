@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000241_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in camp near Corinth, Miss., to Caroline M. Brown,<date when="1862-05-21">1862 May 21</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000241_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in camp near Corinth, Miss., to Caroline M. Brown,1862 May 21</title>
+          <date when="1862-05-21">1862 May 21</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000241_0001.jpg" xml:id="d4e39"/>
+        <p>Camp Near Corinth Miss</p>
+        <p>May 21th AD 62</p>
+        <p>Caroline M. Brown</p>
+        <p>Dear wife i received the letters you sent me by osburn the 19th and i was truly glad to hear fromd you and to hear that you ware all toarable well then and i got 9 stamps in the letter and 16 in a paper that you told John to get me whitch made 25 i think i have got all you have sent before in letters I do hope i have enough to do me while thiss war lasts you nead not send me any more for some time at any rate till we see what they will do down here we are geting in close quarters with them down here Henry Brown</p>
+        <pb n="2" facs="0012_000599_000241_0002.jpg" xml:id="d4e49"/>
+        <p>Now i will tell you about my Health my health is not verry good at present but better than I have bin for some time Back you will see that I have not bin well for some time by a letter i wrote last sunday i had some invelope marke to send home to you and i thought i would you a few lines to lett you know how i was by now If i had some of your good old potatoes i think i could help you save some of them I have got set against the crackers i am glad you have got along with your work so well as you have indeed</p>
+        <pb n="3" facs="0012_000599_000241_0003.jpg" xml:id="d4e53"/>
+        <p>The news come in just now that one of our boys was shot in the Breast his name is <unclear reason="illegible" resp="LW">venning</unclear> they was out on picket and one of our Caverly shot him through a mistake you will get the news in the letter I wrote before this and tell the boys that i have wrote about the stock in some of my other or at least i think so I am glad to here that you have such good luck with your stock as you have And that a you are doing so well in trading just keep on at it till i get home if so lucky i will have have to quit i am getting nervse</p>
+        <pb n="4" facs="0012_000599_000241_0004.jpg" xml:id="d4e60"/>
+        <p>I was verry to hear of the Death of Simon Marshall to leave the family he did I verry bad when god calls we must go i exspect when i write the next letter the grate battle will be fought let it go whitch way it will you said that Mandy beal was with you try and keep her with you I shall close by saying do the best you can Remember me when this you see tho many miles we seprate be Direct your letters to Camp Shiloh Tennessee so good by to you all</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

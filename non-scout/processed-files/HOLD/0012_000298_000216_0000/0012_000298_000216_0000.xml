@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000216_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1864-12-04">1864 Dec. 4</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000216_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Memphis, Tenn., to his wife 1864 Dec. 4</title>
+               <date when="1864-12-04">1864 Dec. 4</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000216_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis, Dec. 4th 64</p>
+            <p>My Darling</p>
+            <p>Yours of the 27 <unclear reason="illegible" resp="EMS">letter</unclear> recd yesterday. the usual time and I am glad to learn that you are all well. Yesterday I sent you by Express $120.00 which I hope will arrive safely before this year will <unclear reason="illegible" resp="EMS">have</unclear> recd H Tallcott letter and know what she wishes me to do (that is if you can read it; which is all I can do). I have no desire to go to Sonora at present. so that I must stick to the Treasury Department as long as I can which will enable us to live and educate the children. tho away from you and them it is not half living. I have the same room and furniture I had but   </p>
+            <pb n="2" facs="0012_000298_000216_0002.jpg" xml:id="d4e53"/>
+            <p>and spend my evenings until 9 o clock reading which I can do without hurting my eyes I have gas in the room near the fire place and am very comfortable several young men sleep in the house and sometimes I sit with them my expenses are now about $10 per week. I have not yet got my commission from Washington but expect it daily. then my pay will be better ($6,00 per day and expenses not <unclear reason="illegible" resp="EMS">gracitis</unclear>. I hope to be able to send you all some presents for xmas and will if I can I may see you before that time but everything is unsettled and will be for some time at least until Hood and Beauregard leave <unclear reason="illegible" resp="EMS">Lennissu</unclear> which by last nights arrival I hope will be soon. The lines here are closed and no business <unclear reason="illegible" resp="EMS">done</unclear> at which times I cannot make</p>
+            <pb n="3" facs="0012_000298_000216_0003.jpg" xml:id="d4e66"/>
+            <p>any extras I have had a present of a coat and two pairs Boots, and a promise of a dress for you. Segars and tobacco as<unclear reason="illegible" resp="EMS">were</unclear> my only expenses except <unclear reason="illegible" resp="EMS">board</unclear> and washing is one glass of Lager per day. I do not think I can send you more money untill Jany. but will if I get it. I recd a letter from <unclear reason="illegible" resp="EMS">Haley</unclear> a few days since give her my love and say I will answer it as soon as I can - I do think that the girls might write me now and then without being so punctilious as to my answering them. <unclear reason="illegible" resp="EMS">sitting</unclear> the desk from 9 till 4 PM. I get tired of pen and ink. tell my boy that his pa does want to see him and mama very very much Give my love to the children</p>
+            <p> Your Aff Husband </p>
+            <p>Mrs Wm. R Hackley        WRHackley</p>
+            <p> Bloomington, Ills</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000251_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Thomas Thruxtun</name>
+				                    in Baltimore, Md. to Samuel Sterett.,<date when="1796-02-07">1796 Feb. 7</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Thomas Thruxtun</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000251_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Thomas Thruxtun in Baltimore, Md. to Samuel Sterett.,1796 Feb. 7</title>
+               <date when="1796-02-07">1796 Feb. 7</date>
+               <author>
+                  <name type="person">Thomas Thruxtun</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000251_0001.jpg" xml:id="d4e39"/>
+            <p>Capn. Trustun</p>
+            <p>Samuel Sterett Esqr</p>
+            <p>Philadelphia</p>
+            <pb n="2" facs="0012_002414_000251_0002.jpg" xml:id="d4e47"/>
+            <p>Dear Sir</p>
+            <p>I have yours by last post, Accompanying My<unclear reason="illegible" resp="pw">Pendts</unclear>, which May answer the end desired _
+				       I Now enclose you the oath of Nine and Lawson, with the Certificate of Mr<unclear reason="illegible" resp="pw">Parviance</unclear>the 
+				       Collector, Which will No doubt be Sufficient, to Cancel the Policy of Insurance Made, from Bermuda_  as the property on which the Said 
+				       Insurance was Made, is still there in Stau quo___</p>
+            <p>I am in haste Your friend</p>
+            <p>Thomas Truxtun</p>
+            <p>Balt <unclear reason="illegible" resp="pw">illegible</unclear>Feb. 7, 1796</p>
+            <p>S Sterett Esqr</p>
+         </div>
+      </body>
+   </text>
+</TEI>

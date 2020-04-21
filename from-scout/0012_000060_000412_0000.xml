@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000412_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mrs. James K. Polk</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1872-11-02">1872 Nov. 2</date>
+            </title>
+            <author>
+               <name type="person">Polk, Sarah Childress, 1803-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000412_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mrs. James K. Polk in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1872 Nov. 2</title>
+               <date>1872-11-02</date>
+               <author>
+                  <name>Polk, Sarah Childress, 1803-1891</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 pages</extent>
+               <note type="abstract">Mrs. James K. Polk wrote to J.G.M. Ramsey on November 2, 1872. She told him she could not recall receiving a letter from him containing a copy of the &quot;Land We Love.&quot; She mentioned that she referred Mr.[Lyman] Draper of the [State Historical Society of Wisconsin] to him. She expressed her regrets in regards to Mrs. Ramsey&apos;s poor health which prevented their trip to Nashville.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Presidents&apos; spouses -- United States -- Correspondence.</term>
+               <term>Societies -- History, organization, etc.</term>
+               <term>Presidents -- United States -- History -- Sources.</term>
+               <term>Wisconsin -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Polk, Sarah Childress, 1803-1891--Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884--Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000060_000412_0001.jpg" xml:id="d3e164"/>
+            <p>Nov.11.1872</p>
+            <p>Andd. Madame &amp; Enclosed copy of Inscription on Capt. Knox tomb - will send a duplicate to Mr. Draper</p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000412_0002.jpg" xml:id="d3e172"/>
+            <p>Nov. 2, 1875?</p>
+            <p>Dr. J.G.M.Ramsey,</p>
+            <p>My dear Sir, </p>
+            <p>Your esteemed favor I have received and for which pleasure I return to you my acknowledgments.</p>
+            <p>I have no recollection of receiving from you the letter <unclear reason="illegible" resp="NW">leferid </unclear> to, with a copy of the &quot; Land We Love &quot; , If I did my memory has failed me on the subject: consequently My dear Sir, I hope that it will </p>
+            <pb n="3" facs="0012_000060_000412_0003.jpg" xml:id="d3e194"/>
+            <p>for his work or convenient to your self to furnish and transmit to Mr. Draper. I wrote to him &amp; referred him to you, with so much pleasure. </p>
+            <p>I have anticipated the pleasure of seeing Mrs. Ramsey &amp; yourself if Nashville soon. And regret to hear from you that Mrs R-s health will not permit you to make the visit at present. I yet hope you may be able to come. &amp; be spared that I will be most happy to meet you again</p>
+         </div>
+      </body>
+   </text>
+</TEI>

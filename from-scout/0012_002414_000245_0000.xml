@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000245_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>George Scriba</name>
+				                    in New York, N.Y. to Gustavus and Hugh Calhoun.,<date when="1804-12-24">1804 Dec. 24</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">George Scriba</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000245_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, George Scriba in New York, N.Y. to Gustavus and Hugh Calhoun.,1804 Dec. 24</title>
+               <date when="1804-12-24">1804 Dec. 24</date>
+               <author>
+                  <name type="person">George Scriba</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000245_0001.jpg" xml:id="d4e39"/>
+            <p>Messrs Gustavus &amp;Hugh Calhoun</p>
+            <p>Merchants</p>
+            <p>Philadelphia</p>
+            <p>N York 24th Decemr. 1804</p>
+            <p>Geo. Scriba  to  G &amp;H Calhoun</p>
+            <p>the day or days of their reimbursement:  The amount which the Company has already received in London to be considered as part payment on the above proposition &quot;_</p>
+            <pb n="2" facs="0012_002414_000245_0002.jpg" xml:id="d4e53"/>
+            <p>Messrs G &amp;H Calhoun</p>
+            <p>Newyork 24th Decemb. 1804</p>
+            <p>Dear Sirs !</p>
+            <p>By the Statement Mr. Pettit has Sent you of the Charlottes&apos; case , and which you communicated to me by your Letter of the 21st Inst: it appears the North American Insurance Office claim by their own Statement, ( if correct ) $6032.72/100 and on receiving that Sum &quot;or Such Sum as will be Shown a Balance thereof &quot;they are willing to relinquish to me all the Companys&apos; claim to the Awards.</p>
+            <p>I now request you to obtain from Mr. Pettit, the exact Sum the Company has received by their Agent in London on account of their claim; from the Register Office in the year 1800. _  If I am correct that Sum must have been £1672 Sterling or thereabouts and this Sum being ascertained, and the claim the Company has of $6032.70/100 as by their own Statement is first deducted therefrom, there will then be a Balance due me from the Company.</p>
+            <p>The</p>
+            <pb n="3" facs="0012_002414_000245_0003.jpg" xml:id="d4e67"/>
+            <p>The Company can thus have no longer any claim on the Awards made by the Commissioners under the Seventh Article of the British Treaty in the case of the Charlotte, Mallaby master.  I therefore request that you will urge the final Settlement of the Charlottes&apos; Business with the N. A. Insurance Office, and obtain from them a communication for any claim on the Awards made by the Commissioners under the Seventh  Article of the British Treaty: And as soon as the exact Balance can be ascertained due me from the Company, you will please to receive the Same. _ </p>
+            <p>The Company can have no objections to give you an acknowledgement, purporting to pay to you for my account , the before mentioned Balance as soon as it can be ascertained and adjusted. _  As to their renunciation to the claim they made on the Awards, I request you to Send it to me as Speedily as possible, which will enable me to draw for</p>
+            <pb n="4" facs="0012_002414_000245_0004.jpg" xml:id="d4e73"/>
+            <p>for the amount now so long kept out of my hands. _</p>
+            <p>I am with Sentiments of much respect</p>
+            <p>Dear Sirs!</p>
+            <p>Your mo obedt. Servant</p>
+            <p>&amp;devoted friend,</p>
+            <p>Geo: Scriba</p>
+            <p>P S</p>
+            <p>Mr. Pettit would have done me an <gap reason="indecipherable" resp="pw"/>infinite to give you at once the amoun<gap reason="indecipherable" resp="pw"/>1800 any received in London in the ye<gap reason="indecipherable" resp="pw"/>at the time when he furnished you with <gap reason="indecipherable" resp="pw"/> Statement of the Companys&apos; claim.  The amount which the Company has received in London at that time I always considered more than they have paid me.  In consequence of this I say in my proposition of the 15th November last  &quot;The Company Shall receive the full amount  paid by them to me with the 2 perCent deduction which will be $7456.12/100 with Interest at Six perCent per Annum from the  day of Payment to the</p>
+         </div>
+      </body>
+   </text>
+</TEI>

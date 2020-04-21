@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000533_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mary E. Huger</name>
+ in Philadelphia, Penn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1885-02-15">1885 Feb.15</date>
+            </title>
+            <author>
+               <name type="person">Huger, Mary Esther, 1820-1898</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Veve, Marielle</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000533_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mary E. Huger in Philadelphia, Penn., to M.B.C. Ramsey in Knoxville, Tenn. 1885 Feb.15</title>
+               <date>1885-02-15</date>
+               <author>
+                  <name>Huger, Mary Esther, 1820-1898</name>
+               </author>
+               <extent>7  digital images; 1 envelope, 6 pages.</extent>
+               <note type="abstract">1885 Feb.15 Mary E. Huger, Philadelphia, Penn., to M.B.C. Ramsey, Knoxville, Tenn. Account of her Christmas vacation spent with her daughters and granddaughters. Discussion of her deaf granddaughter and the special school she attends, the daily activities of the writer and her family. News of her plans to return with her daughters to their home in Sewanee. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family -- Health and hygiene -- Pennsylvania -- Philadelphia -- History -- 19th century.</term>
+               <term>Deaf -- Services for -- Pennsylvania -- Philadelphia -- History -- 19th century.</term>
+               <term>Education -- Pennsylvania -- Philadelphia -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Philadelphia (Pa.) -- History -- 19th century.</term>
+               <term>Huger, Mary Esther, 1820-1898 -- Family.</term>
+               <term>Pennsylvania Institution for the Deaf and Dumb -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000533_0001.jpg" xml:id="d3e155"/>
+            <p>Mrs. J. G. M. Ramsey</p>
+            <p>(North) Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000533_0002.jpg" xml:id="d3e167"/>
+            <p>1030 Spruce Street. Philadelphia Penn</p>
+            <p>Feb 15.</p>
+            <p>Dear Mrs. Ramsey:</p>
+            <p>I have been intending to write to you for a long time, &amp; I am sorry to say have let one obstacle after another prevent me, until now. My life is busy one for a person of my age - &amp; when we first cause we were all sick, for two &amp; three weeks. I went to Knoxville in Dec. intending to remain there until January - Two of my daughters were to spend the winter with my son Frank - another daughter &amp; my two little Gr daughters, were to come here by January - but were wanted very much to spend Christmas together in</p>
+            <pb n="3" facs="0012_000060_000533_0003.jpg" xml:id="d3e181"/>
+            <p>Knoxville - My sons house being too small for us all, we wished to find board near, so that we could all be together, &amp; I crowed in at my sons for a couple of days, while the family looked for board for us in every direction - but could find no place except at one of the hotels at the other end of town, &amp; as I had hurt my foot very badly, &amp; could only walk a short distance, there would have been small comfort in that, so at the last we gave up, &amp; came on here, three weeks before the schools opened, &amp; spent our Christmas among strangers. I should certainly have got a carriage &amp; gone out to see you, had I imagined it possible, we could not find, even</p>
+            <pb n="4" facs="0012_000060_000533_0004.jpg" xml:id="d3e189"/>
+            <p>one room to board in near Summit hill, for we we willing to be crowded, &amp; pay high board, so anxious were we to stay. I only gave up all hope, the evening before we left, &amp; then had packing &amp; letters to write -. I do not think this place agreed with us at first - the climate is very severe, and the house heated by a furnace - no open fires at all - the rooms get very hot, &amp; if a window is open, the outer air is bitter cold. However, at last we have learnt to manage the heat &amp; our clothing more judiciously, though we can not get rid of colds. I came here to put my little deaf Gr daughter to the Oral School, as it is called, </p>
+            <pb n="5" facs="0012_000060_000533_0005.jpg" xml:id="d3e197"/>
+            <p>which is a branch school of the large Philadelphia Asylum, where those who wish to learn speech, have separate instruction - There are over 70 pupils, who are taught speech, &amp; not allowed to use sighs - I am sorry to say they are none of them the children of gentlefolks, though several well off enough to pay for instruction. As well as I can judge, it is a good school, &amp; it was the best thing we could do to bring the child here. My daughter Marie, attended the school of design, &amp; is much interested in her work -. She &amp; Esther both go directly after breakfast - Esther returns at 2, but my daughter, not until five - So I am left with my other Gr child, whom I teach every day.</p>
+            <pb n="6" facs="0012_000060_000533_0006.jpg" xml:id="d3e205"/>
+            <p>No 2.</p>
+            <p>You will see from all this we are not idle, &amp; I have besides the childrens clothes &amp; many things for them to attend to. I prefer Philadelphia very much to Louisville - We have relatives here too - though never met the younger ones before - &amp; knew but little of the Mother, who was a Middleton, from Charleston, older than I am, and married a Philadelphian, before I was grown up - but they are nice people &amp; very polite to us. Then we have a very comfortable boarding house - a large delightful room, &amp; very excellent table - the people in the house are quite nice too, so we think ourselves fortunate. We shall remain here until the end of May - and if</p>
+            <pb n="7" facs="0012_000060_000533_0007.jpg" xml:id="d3e215"/>
+            <p>I stop in Knoxville, I shall be out to see you without delay you may be sure.</p>
+            <p>My daughters, except the one with me, will all then be at our home at Sewanee, &amp; plenty of room for us in Franks house.</p>
+            <p>I have thought of you very often, Dear Mrs Ramsay, &amp; commenced writing more than once, but some thing always prevented my finishing my letter - I am very glad you have your daughters with you There are some old ladies here without children or gr children &amp; they seem so lonely, with none to care for them, I think we are much fortunate however great our troubles may have been.</p>
+            <p>Remember me kindly to your daughters, &amp; believe me yours affectionately M E Huger</p>
+         </div>
+      </body>
+   </text>
+</TEI>

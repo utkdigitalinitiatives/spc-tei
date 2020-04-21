@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000218_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                  in France to Ellen Clark Smith, in Jackson Tenn., <date when="1918-06-08">1918 June 8</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Sheldon Giles</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000218_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Clark Smith, in Jackson Tenn., 1918 June 8</title>
+          <date when="1918-06-08">1918 June 8</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Smith Family Papers Title</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Sheldon Giles">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000218_0001.jpg" xml:id="d4e39"/>
+        <p>James L Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Ex Force</p>
+        <p>Miss Ellen Clark Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson </p>
+        <p>Tennessee</p>
+        <p>U. S. A.</p>
+        <pb n="2" facs="0012_001303_000218_0002.jpg" xml:id="d4e57"/>
+        <p>June 8, 1918</p>
+        <p>Some where in France</p>
+        <p>Dear Ellen:</p>
+        <p>I recieved two letters from you yesterday and I cant tell you how glad I was to get them I was looking every day for a letter from you
+So you can imagine how glad I was. I was cooking dinner when the mail came and when I got the two letters I quit frying stake to read them.
+The other cook said he didnt want me to get any more mail when we were cooking dinner But I hope I can get it any time believe me 
+welll things are a little quiet here now as I am getting use to the noise and things that go on here</p>
+        <p>When I first got here every time I heard an aeroplane I would have to go out and look at it as long as I could see it and now 
+I dont notice them half the time Unless I think there is going to be a fight in the air. I like to see that it is real entertaining</p>
+        <p/>
+        <p/>
+        <pb n="3" facs="0012_001303_000218_0003.jpg" xml:id="d4e71"/>
+        <p>I think I told you about seeing the German plane come down in flames the other day Well that alway pleases me to see the 
+                <unclear reason="illegible" resp="SG">WORD</unclear> Backs come down.</p>
+        <p>But things are coming along nice now. We have some fun here with the boxing gloves the company shares them and in the 
+evenings after supper some one put them on a go to it. We have some French soilders here and some times they put them on and then we have some fun
+Soilders are just like kids always playing but we have to do some thing like that to amuse our selfs.</p>
+        <p>Well I am sorry you didnt get to go to the dance. But I dont understand why you didnt tell Bob  you wanted to go 
+I remember very well how you use to tell me what to do and more especially to go home pretty early do you remember it.
+Well I guess Ester has to love Carl so</p>
+        <pb n="4" facs="0012_001303_000218_0004.jpg" xml:id="d4e83"/>
+        <p>much she dont have time to write me. I think I will write them  night . If I have the time to write to mother on sunday
+I can realize yet Ester is married. Miss Mary Ransom writes to us boys and send the interesting news out of the town of Jackson
+Since I see in there also  that you have had several wedding back home.</p>
+        <p>You said you would stash you letter because some one else wanted to read it. Well I am th eonly one that
+has to read it and I dont get tired at all You dont know how much I enjoy I do enjoy getting letters from you But hope in the near future
+we wont have to write to each other I will be home to talk to you Must close for this time write me real soon and dont forget me</p>
+        <p>with lots of love</p>
+        <p>James L. Dodds</p>
+        <p>Co L 23 Engrs</p>
+        <p>American Ex Force</p>
+        <p>Via N. Y. France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

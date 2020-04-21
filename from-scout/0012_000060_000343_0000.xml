@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000343_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Robert Henderson</name> in Murfreesboro, Tenn., to Naomi Eliza, William, and J.G.M. Ramsey,
+in Knoxville, Tenn. <date when="1821-01-21">1821 January 21</date>
+            </title>
+            <author>
+               <name type="person">Henderson, Robert, 1764-1834</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000343_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Robert Henderson of Murfreesboro, Tenn., to Naomi Eliza, William, and J.G.M. Ramsey of Knoxville, Tenn. 1821 Jan. 21</title>
+               <date>1821-01-21</date>
+               <author>
+                  <name>Henderson, Robert, 1764-1834</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1821 Jan. 21 Robert Henderson, Murfreesboro, Tenn., to Naomi Eliza Ramsey, William Baine Ramsey, and J.G.M. Ramsey, Knoxville, E.T. Conveyance of sympathy on the death of their father, Francis A. Ramsey, the writer&apos;s closest friend. Promises to preach a sermon on Col. Ramsey in East Tennessee if possible. Special condolences to Eliza.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Condolence notes -- Tennessee -- History -- 19th century.</term>
+               <term>Interpersonal relations -- Tennessee -- Religious aspects -- History -- 19th century.</term>
+               <term>Friendship -- Tennessee -- Religious aspects -- History -- 19th century.</term>
+               <term>Murfreesboro (Tenn.) -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Death and burial.</term>
+               <term>Ramsey, W. B. A. (William Baine Alexander), 1799-1874 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000343_0001.jpg" xml:id="d3e155"/>
+            <note type="transcription">The following text is a continuation of the third page of the letter.</note>
+            <p>earnestly do I pray that he may be your friends that of your dear brothers &amp; your guide even
+unto death and that his <unclear reason="illegible" resp="bds">rich</unclear> grace may eventually
+bring you all to that happy place of unallayed enjoyment where your pious parents as I doubt not have
+met &amp; enjoy each other &amp; their God.</p>
+            <note type="transcription">The preceding text is a continuation of the third page of the letter.</note>
+            <p>Doctr James G.M. Ramsey</p>
+            <p>Knoxville E.T.</p>
+            <p>Mail</p>
+            <note type="transcription">The following text is a note added by J.G.M. Ramsey.</note>
+            <p>Rev. R. Hendersons letter to me with a draft of the one that occasioned it.</p>
+            <p>J.G.M. Ramsey</p>
+            <note type="transcription">The preceding text is a note added by J.G.M. Ramsey.</note>
+            <note type="transcription">The following text is a continuation of the third page of the letter.</note>
+            <p>Mrs Henderson and family feel for you every good wish &amp; desire to be affectionately
+remembered Adieu my dear children Adieu.</p>
+            <p>Your sincere &amp; affectionate friend</p>
+            <p>Robt Henderson</p>
+            <note type="transcription">The preceding text is a continuation of the third page of the letter.</note>
+            <pb n="2" facs="0012_000060_000343_0002.jpg" xml:id="d3e195"/>
+            <p>Murfreesborough 21 Jan. 1821</p>
+            <p>My dear young friend,</p>
+            <p>Your letter of Dec. 20 is before me. The reception of this letter was extremely grateful to me
+as it <unclear reason="illegible" resp="bds">related</unclear> the circumstances of the death
+&amp; last Christian <unclear reason="illegible" resp="bds">exercises</unclear> of your excellent
+father. A subject on which I was quite anxious but had not been gratified before the reception of the
+letter now before me. The Knoxville Register gave the melancholy account of his death in a few days
+after it happened. I was very anxious to hear particularly concerning his last <unclear reason="illegible" resp="bds">exercises</unclear> but all the account I could receive was this <unclear reason="illegible" resp="bds">good</unclear> one that he died as he had lived on humble <unclear reason="illegible" resp="bds">extent</unclear>. Well my dear sir may you compare the friendship of Colo Ramsey and
+myself to that of David and Jonathan for I think I may say with some truth &amp; propriety that neither
+of those valuable men loved the other better than I loved your worthy father, unless his capacity of
+affection was greater than mine. Nor have I the smallest doubt that this affection was fully reciprocated.
+Ours sir was a long &amp; tried affection which existed with ardor &amp; without one moments abatement,
+upward of thirty years. No chills, no Jealousies, no distrust ever checked it in one solitary instance.
+And now that he is gone to receive that glittering crown for which his labours were so assiduous, he
+has not left behind him the man on Earth so thoroughly &amp; completely the friend of my affections
+&amp; heart. Though thank God there are many men whom I still love affectionately and I hope about
+as much as my duty calls for; but none in so high a degree as the dear departed friend of whom I
+write. These sir are the undisguised feelings of a man who disdains flattery either to the living or
+the dead. &amp; whom I presume the tongue of calumny itself has never</p>
+            <pb n="3" facs="0012_000060_000343_0003.jpg" xml:id="d3e222"/>
+            <p>charged with that base and ignoble thing. I loved your father for his virtues. I reciprocated
+all his glowing friendship as I ought to have done. but <unclear reason="illegible" resp="bds">&amp;</unclear>
+I am acquainted with myself his personal attentions to and friendship for me was so far from
+being the only reason of my love for him that it was by no means the leading motive This was his
+many virtues &amp; the excellence of his character. For sir it is a principal with me to love
+excellence and virtue wherever I see them and that in proportions to their quantity.</p>
+            <p>With regard to the request of your brothers, your sister and yourself, with respect to a
+sermon on occasion of your fathers death it will give me a mournful pleasure to comply with it
+should opportunity eve occur which I think is a good deal uncertain as to preaching it in that
+Country, my health having not been good since past Oct. I <unclear reason="illegible" resp="bds">aught</unclear> to visit that end of the state during the ensuing spring or summer,
+as I am subpoenad to give testimony in a certain land trial in Jefferson County in which
+it appears justice will no be done with my testimony. Should my health admit I think it probable I
+shall be in <unclear reason="illegible" resp="bds">during ing</unclear> the month of April. &amp; should
+I come your request (<unclear reason="illegible" resp="bds">Deo volende</unclear>) shall be
+complied with. I think with you that the example of your father aught to be held forth to the
+imitation of others. And notwithstanding my dear young friends might get better hands to do
+this nearer home, yet since it their desire I should do it I will compy if opportunity
+<unclear reason="illegible" resp="bds">serves</unclear>. And should I not visit that Country
+in the course of a few months if it would be your desire that such a sermon should go to the
+<unclear reason="illegible" resp="bds">Word</unclear> I shall preach it in Murfreesborough
+and send you the Manuscript copy.</p>
+            <pb n="4" facs="0012_000060_000343_0004.jpg" xml:id="d3e250"/>
+            <p>Please, sir signify your wish on this subject as soon as convenient that in the event
+I cannot go to east Tennessee I may know how to proceed; though I should greatly prefer
+preach the sermon in the lands where your father used to worship &amp; where he was best
+known.</p>
+            <p>Dear young friends how we have sympathesied with you in your distress <unclear reason="illegible" resp="bds">and</unclear> lamented your <unclear reason="illegible" resp="bds">incomparable</unclear>
+loss. Great was your loss in being deprived, when <unclear reason="illegible" resp="bds">since</unclear>
+children of so respectable enlightened &amp; pious a mother &amp; one so happily calculated to
+have assisted in forming your young minds to virtue &amp; moral goodness. but still while you
+were under the <unclear reason="illegible" resp="bds">tuition</unclear> of so good <unclear reason="illegible" resp="bds">&amp;</unclear> careful a father assisted by so pious, gentle, &amp;
+affectionate a mother as you found in the amiable Mrs <unclear reason="illegible" resp="bds">Fleming</unclear>
+Your case was not so bad. But now that precious <unclear reason="illegible" resp="bds">father</unclear>
+the Guide of your youth is gone. One consolation however attends your ineffable loss, you are all
+old enough to record on the tablets of your hearts the virtues, the distinguished virtues of so good
+a father, I hope you will copy his bright example through life, and hear him though dead still
+speaking. Children of my <unclear reason="illegible" resp="bds">crased</unclear> friend I feel for
+you all, but dear Eliza most for you. O my dear Girl what a loss is yours. Can you my beloved
+young friend, image of the friends I once so dearly loved can you with any confidence make the
+language of the Psalmist your own <unclear reason="illegible" resp="bds">oo</unclear> When my
+father &amp; mother forsake me the Sand will take me up,, O my dear girl make the Lord your
+friend, by faith by peity &amp; prayer, he is the precious friend of all the pious. I think
+he was your mothers friend I think he was your fathers friend &amp; O Eliza <unclear reason="illegible" resp="bds">how</unclear>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

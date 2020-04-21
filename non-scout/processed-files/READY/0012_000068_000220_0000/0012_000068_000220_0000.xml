@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000220_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>John Shrady</name>
+					in Bull's Gap, Tenn., to Jeannie Shrady in New York, N.Y.,
+					<date when="1863-10-04">
+						1863 October 4
+					</date>
+            </title>
+        <author>
+          <name type="person">Shrady, John</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000068_000220_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Shrady in Bull's Gap, Tenn., to Jeannie Shrady in New York, N.Y., 1863 October 4</title>
+          <date when="1863-10-04">
+						1863 October 4
+					</date>
+          <author>
+            <name type="person">John Shrady</name>
+          </author>
+          <title>Letter, <name>John Shrady</name>
+					in Bull's Gap, Tenn., to Jeannie Shrady in New York, N.Y.,
+					<date when="1863-10-04">
+						1863 October 4
+					</date>
+               </title>
+          <date>2007-02-26</date>
+          <author>
+            <name>Shrady, John</name>
+          </author>
+          <date when="1863-10-04">
+						1863 October 4
+					</date>
+          <extent>2 pages</extent>
+          <note type="abstract">In this letter, dated October 4, 1863, from Bull's Gap, Tenn., John Shrady, a regimental surgeon, writes to his wife, Jeannie, in New York City, commenting on the recent death of the "poor old Captain" and the modest nature of his funeral.  He also mentions that there is little of note going on other than the weather being "changeable."</note>
+          <note type="collection">John Shrady Letters, 1863</note>
+          <note type="manuscript">MS.1436</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e96">
+        <pb n="1" facs="0012_000068_000220_0001.jpg" xml:id="d4e97"/>
+        <p>Head Quarters 3rd Brig. 4th Cav. Divisn 23 A.C.</p>
+        <p>Bull's Gap, Sunday, Oct. 4th 1863</p>
+        <p>My Own Precious,</p>
+        <p>Your letter of Augt 22nd was received by me yesterday, having succeeded that of September 6th by many days.</p>
+        <p>I am sorry that the poor old Captain is dead but hope that he has gone to that land, where sickness and sorrow are unknown.  How desolate must be that widow's heart and how impressed must she be with the hollow-heartedness of the world's professions of friendship.  Had they have been wealthy, as you say, how unseemly, no doubt, would have been the strife to minister to his wants.  How constant would have been the inquiries regarding his condition, and how sympathetic the tone of voice.  As it was, probably even attendance upon his funeral was an irksome task - perhaps even the minister may have rattled off the ceremony and consoled with the lips, - not from the heart.   But he has gone to his long account; he heeds not, he cares not for the honors conventionally extorted from society towards the poor mouldering clay.  His spirit may even smile at the wave of merriment which is sure to roll over the chasm made by that spirit's flight.  Vanity of vanities, all is vanity.</p>
+        <p>Jeannie, I know that you have not been cast into a mould so rough.  I know that you have a heart -  a true woman's heart - one that you do not as Shakspeare says "wear upon your sleeve for daws to peck at" but as a jewel in a casket, none the less glittering because of its concealment.  It is a heart gushing over with the tenderest of sympathies, and may Heaven grant that it never be broken by me.  And that I have won it, may I ever be worthy of it.  How fast flew the moments when I was at home, how tedious the time now - how I count days, weeks &amp; months - how many of them</p>
+        <pb n="2" facs="0012_000068_000220_0002.jpg" xml:id="d4e111"/>
+        <p>must elapse before I shall be free to have you always by my side.  But keep your soul in patience, my darling, and our happy days may dawn again, when hand-in-hand, without one jarring word, we will walk down the slope of life together, rich, it may be not in money, but what is much more to be envied, in each others love.  Dont you think, Darling, that we have earned this Paradise?</p>
+        <p>I have not much news for you - the weather is becoming more changeable and fires towards night are by no means disagreeable.  We have an abundance of hay to sleep upon and our slumbers are sound.</p>
+        <p>I shall never tire of assuring you of my love.  Dont let our little Pet forget her PaPa far away.  Remember me to Mother, Fan &amp; Nell.  I will send you some money at the very first opportunity, relying upon the truth of the saying "Where there is a will, there is a way."  Keep a good heart, my darling - you are uppermost in my thoughts and my anxieties are for you &amp; yours.  Had I a snug little home for you, I should be more than happy.  Write soon.</p>
+        <p>Yours Devotedly</p>
+        <p>John Shrady</p>
+        <p>P.S. Address</p>
+        <p>Surgn John Shrady</p>
+        <p>Col. Carter's Brig: 4th Cav. Divn 23d A.C.</p>
+        <p>Bull's Gap, Jefferson Co, Tenn.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Murfreesboro, Tenn., to Crittenden Cregmile, <date when="1863-02-28">1863 February 23</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000206_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Murfreesboro, Tenn. to Crittenden Cregmile, 1862, February 23</title>
+               <date>1863-02-23</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">1863 February 23 Southgate Cregmile in Murfreesboro, Tenn., to his brother Crittenden. Delights in telling his brother that all there are well at present, but hears that he is sick with the measles. Warns him to avoid getting a cold on top of this. Feels more like home there since he has been paid and they are not having to forage for food. As a result of their new Colonel&apos;s intervention, Brig. Gen. Negley promises that duty thereafter will be lighter than before. Encourages him to write more often.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Tennessee -- Murfreesboro -- 19th century -- Social conditions</term>
+               <term>Soldiers -- Tennessee -- Murfreesboro -- 19th century -- Correspondence.</term>
+               <term>Command of troops -- History -- 19th century.</term>
+               <term>Murfreesboro (Tenn.) -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military leadership.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000092_000206_0001.jpg" xml:id="d3e159"/>
+            <p>Camp Near Murfreesborough</p>
+            <p>Tenn</p>
+            <p>Feb 23rd 1863</p>
+            <p>Brother Crittenden</p>
+            <p>I thought a long as this is pay day I woulde rite you a few lines to let you know that we are all well at presant. I receved a letter from you to day and here that you have got the measels. you must minde now and not run out in the Colde for if you cetch colde on them it will go pritty harde with you. I have fifty eight Dollars now and will live something like home now. I was out Foragen for tow days and we had a good time we have a good suply of fresh pork</p>
+            <pb n="2" facs="0012_000092_000206_0002.jpg" xml:id="d3e175"/>
+            <p>and Chickens honey turnips apples and sutch things as we need. we are a foragen or on picket most every day. but we have got annew Col from the 17th Ohio and I think he is a first strate Col from the Appearnces of him. he went up to Gen Negley and seen him a bout putting us on duty so mutch. Negley promis him here after that the duty woulde be mutch lighter. </p>
+            <p>I wount you to rite and tell me what Brigade Henry Richard is driving team for or when you rite to him tell him to rite to me for I havent had a letter from him sence he left from our house. tell Father that </p>
+            <pb n="3" facs="0012_000092_000206_0003.jpg" xml:id="d3e185"/>
+            <p>
+               <unclear reason="illegible" resp="NW">T.</unclear> F. Anthony sent him a Check of $50 Dollars.</p>
+            <p>well I must stop riting for I havent mutch to tell you we are a doing well and very well at that for the weather is a getting warm the cars runs clear thought now and have plent here to eat and wear</p>
+            <p>Southgate Cregmile</p>
+            <p>2 Division</p>
+            <p>2 Brigade</p>
+            <p>and the olde 69th</p>
+            <p>rite often for we doent get many letters now. I doent think thay come thought.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

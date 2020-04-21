@@ -1,0 +1,2129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002568_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Josiah Reed</name> Diary, 
+					<date when="1863">1863-1868</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Stone, Sarah</name>
+               <name>Wibking, Lyndy</name>
+            </respStmt>
+            <author>
+               <name>Reed, Josiah</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002568_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Josiah Reed Diary, 1863-1868</title>
+               <date when="1863">1863-1868</date>
+               <author>
+                  <name type="person">Josiah Reed</name>
+               </author>
+               <extent>152 pages</extent>
+               <note type="collection">Reed Diaries</note>
+               <note type="manuscript"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ohio -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Ohio Infantry Regiment, 94th (1862-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Stone, Sarah">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary">
+            <pb n="1" facs="0012_002568_000201_0001.jpg" xml:id="d4e39"/>
+            <p>[Front Cover Recto]</p>
+            <pb n="2" facs="0012_002568_000201_0002.jpg" xml:id="d4e43"/>
+            <p>[Front Cover Verso]</p>
+            <p>C</p>
+            <p>6) 265</p>
+            <p>662</p>
+            <p>206</p>
+            <p>90.00</p>
+            <p>116 00</p>
+            <p>7.00</p>
+            <p>4</p>
+            <p>
+               <unclear reason="illegible" resp="SS">20 00</unclear>
+            </p>
+            <p>1 Pr Boots</p>
+            <p>1 Hat</p>
+            <p>2 Shirts (Stuff for)</p>
+            <p>168</p>
+            <p>20</p>
+            <p>50</p>
+            <p>20</p>
+            <p>90</p>
+            <p>175</p>
+            <p>150</p>
+            <p>325</p>
+            <note type="transcription">The following text is written sideways at the bottom of the page.</note>
+            <p>5.00 $70.00 1.00</p>
+            <p>5.00 1.00</p>
+            <p>1.00</p>
+            <p>4.00</p>
+            <p>5.00</p>
+            <p>1.00</p>
+            <p>100.</p>
+            <p>101.00</p>
+            <p>30)200</p>
+            <p>400</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Z</unclear>L. Wheeler</p>
+            <note type="transcription">The preceding text is written sideways at the bottom of the page.</note>
+            <pb n="3" facs="0012_002568_000201_0003.jpg" xml:id="d4e119"/>
+            <p>Wm Bask<gap reason="indecipherable" resp="Stone"/>
+            </p>
+            <p>Hem<gap reason="indecipherable" resp="Stone"/>
+            </p>
+            <p>Fosi<gap reason="indecipherable" resp="Stone"/>
+            </p>
+            <p>Q<gap reason="indecipherable" resp="Stone"/>
+            </p>
+            <p>Bough<gap reason="indecipherable" resp="Stone"/>
+            </p>
+            <p>Bowling Gree</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Drugguh Cucilas</unclear>
+            </p>
+            <p>New York</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Lo He</unclear> Newton M.D.</p>
+            <p>36 Beekman St.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Carn,</unclear> William St</p>
+            <pb n="4" facs="0012_002568_000201_0004.jpg" xml:id="d4e154"/>
+            <p>
+               <gap reason="indecipherable" resp="Stone"/>.00</p>
+            <p>
+               <gap reason="indecipherable" resp="Stone"/>.00</p>
+            <p>
+               <gap reason="indecipherable" resp="Stone"/>00</p>
+            <p>
+               <gap reason="indecipherable" resp="Stone"/>00</p>
+            <p>
+               <gap reason="indecipherable" resp="Stone"/>0</p>
+            <p>230.00</p>
+            <p>88.00</p>
+            <p>142.00</p>
+            <pb n="5" facs="0012_002568_000201_0005.jpg" xml:id="d4e177"/>
+            <p>PERPETUAL</p>
+            <p>DIARY.</p>
+            <note type="transcription">The following text was written by the author on top of and over the typed word &quot;Diary&quot;.</note>
+            <p>70</p>
+            <p>10</p>
+            <p>79</p>
+            <p>2 80</p>
+            <p>3 39</p>
+            <p>14 29)</p>
+            <p>
+               <unclear reason="illegible" resp="SS">67</unclear> )</p>
+            <p>8 ) 23</p>
+            <note type="transcription">The preceding text was written by the author on top of and over the typed word &quot;Diary&quot;.</note>
+            <p>A. LIEBENROTH &amp; VON AUW,</p>
+            <p>25 BEEKMAN STREET,</p>
+            <p>NEW YORK.</p>
+            <pb n="6" facs="0012_002568_000201_0006.jpg" xml:id="d4e212"/>
+            <p>100 rods 4 in</p>
+            <p>100 &quot; 3 in</p>
+            <p>100 &quot; 2 in</p>
+            <p>Entered, according to Act of Congress, in the year 1862, by</p>
+            <p>A. LIEBENROTH &amp; VON AUW,</p>
+            <p>in the Clerk&apos;s Office of the District Court of the United States, for the Southern District of New York.</p>
+            <pb n="7" facs="0012_002568_000201_0007.jpg" xml:id="d4e226"/>
+            <p>CALENDAR FOR 1862.</p>
+            <pb/>
+            <pb n="9" facs="0012_002568_000201_0009.jpg" xml:id="d4e234"/>
+            <p>CALENDAR FOR 1863.</p>
+            <pb/>
+            <pb n="11" facs="0012_002568_000201_0011.jpg" xml:id="d4e242"/>
+            <p>JANUARY. 1863</p>
+            <p>Thurs. 1.</p>
+            <p>First day of year &amp; 2nd days fight Am at Hospital 2 ms from front <unclear reason="illegible" resp="SS">Corwrreicting</unclear> commenced <unclear reason="illegible" resp="SS">abot T.</unclear> Promised to be a bloody day. Was ordered to join our train it was ordered to Nashville - came with it I reported at hosp. <unclear reason="illegible" resp="SS">no 2, was Reed</unclear> with great kindness by dr Greens and <unclear reason="illegible" resp="SS">Jernrye</unclear> for which am <unclear reason="illegible" resp="SS">goal = but pa</unclear>
+            </p>
+            <p>Friday 2.</p>
+            <p>Weather cool and windy <unclear reason="illegible" resp="SS">nothrn definite</unclear> from battlefield <unclear reason="illegible" resp="SS">Tightey</unclear> still Accompanied De <unclear reason="illegible" resp="SS">Perinmeu</unclear> through his wards Helped him <unclear reason="illegible" resp="SS">drep</unclear> some wounds, Went to the St. Cloud hotels &amp; took a bath. Came back to <unclear reason="illegible" resp="SS">In Jermings</unclear> &amp; Green&apos;s room &amp; awated their arrival</p>
+            <p>Saturday 3.</p>
+            <p>Still with my friends, but shall be assigned to some ward tomorrow. Spent the day in reading Medicine. Nothing definite from field today still fighting. Arm doing finely.</p>
+            <pb n="12" facs="0012_002568_000201_0012.jpg" xml:id="d4e288"/>
+            <p>JANUARY.</p>
+            <p>Sunday 4.</p>
+            <p>Was <unclear reason="illegible" resp="SS">mlrodweed</unclear> into the drug store of Hospital <unclear reason="illegible" resp="SS">no</unclear> 2 and hence forth am to mak it my head quarter Have some prospect of being appointed Assistant <unclear reason="illegible" resp="SS">Drug gr</unclear> it was a busy day, but I find I have it all to learn</p>
+            <p>Monday 5.</p>
+            <p>Spent the day at the drug store Plenty of work but cannot accomplish much on account of my arm and on account of <unclear reason="illegible" resp="SS">macperse</unclear>
+            </p>
+            <p>Good news from the <unclear reason="illegible" resp="SS">sent</unclear> of war. <unclear reason="illegible" resp="SS">Minfees brse</unclear> is ours.</p>
+            <p>Tuesday 6</p>
+            <p>About the same duties over again. Was introduced into the mystery of <unclear reason="illegible" resp="SS">wer king</unclear> pills. No particular herbs, Saw my name down on detail paper</p>
+            <pb n="13" facs="0012_002568_000201_0013.jpg" xml:id="d4e326"/>
+            <p>JANUARY.</p>
+            <p>Wednesday 7.</p>
+            <p>About the same duties Still learning a little but slowly. Have learned nothing from my Reg yet.</p>
+            <p>Thurs. 8.</p>
+            <p>Weather cloudy and inclined to rain. Our store room is cold and no wood. The wounded are getting along well considering their chance 600 here in all which is 200 more than the regular capacity</p>
+            <p>Jan 20 9.</p>
+            <p>John <unclear reason="illegible" resp="SS">As Poll merch Tailor</unclear> Central <unclear reason="illegible" resp="SS">A went</unclear> opposite <unclear reason="illegible" resp="SS">6 st Market spane</unclear>
+            </p>
+            <pb n="14" facs="0012_002568_000201_0014.jpg" xml:id="d4e350"/>
+            <p>JANUARY. 21</p>
+            <p>Stationery.</p>
+            <p>11.</p>
+            <p>12.</p>
+            <pb n="15" facs="0012_002568_000201_0015.jpg" xml:id="d4e360"/>
+            <p>JANUARY.</p>
+            <p>13.</p>
+            <p>14.</p>
+            <p>15.</p>
+            <pb n="16" facs="0012_002568_000201_0016.jpg" xml:id="d4e370"/>
+            <p>JANUARY.</p>
+            <p>22</p>
+            <p>Expenses While on Furlough</p>
+            <p>Transportation 7.75</p>
+            <p>Omnibus .50</p>
+            <p>Cigars .35</p>
+            <p>Bill at Hotels 1.50</p>
+            <p>Book 2.75</p>
+            <p>Blows 12.00</p>
+            <p>17.</p>
+            <p>Boots 8.50</p>
+            <p>Cigars .25</p>
+            <p>Tooth Pick 5</p>
+            <p>
+               <unclear reason="illegible" resp="SS">A</unclear> 10</p>
+            <p>Prov 50</p>
+            <p>Fair 25</p>
+            <p>Cigars 25</p>
+            <p>Omnibus 35</p>
+            <p>35.35</p>
+            <p>Sunday 18.</p>
+            <p>This day is more in teresting than its pred-acessars, by E<unclear reason="illegible" resp="SS">S</unclear>. Reed very <unclear reason="illegible" resp="SS">unesehectectly hirning wfe</unclear> He left the <unclear reason="illegible" resp="SS">folks</unclear> well <unclear reason="illegible" resp="SS">unt</unclear> had some diffrently in getting here.</p>
+            <pb n="17" facs="0012_002568_000201_0017.jpg" xml:id="d4e429"/>
+            <p>[page missing]</p>
+            <pb n="18" facs="0012_002568_000201_0018.jpg" xml:id="d4e433"/>
+            <p>[page missing]</p>
+            <pb n="19" facs="0012_002568_000201_0019.jpg" xml:id="d4e437"/>
+            <p>JANUARY.</p>
+            <p>25.</p>
+            <p>Jejunum composes 2 of small intestines. so called from it always <unclear reason="illegible" resp="SS">being empty</unclear>. <unclear reason="illegible" resp="SS">Ilum</unclear> composes 3 of small intestines</p>
+            <p>55 West 33 st</p>
+            <p>Ebbitt Hall</p>
+            <p>E.S.R.<unclear reason="illegible" resp="SS">Q</unclear>. Does pain</p>
+            <p>26.</p>
+            <p>increase on coughing, sneezing, and swallowing, Is it worse at night? Any <unclear reason="illegible" resp="SS">fullnep</unclear> in ear <unclear reason="illegible" resp="SS">Lenitus aurum</unclear>
+            </p>
+            <p>27.</p>
+            <pb n="20" facs="0012_002568_000201_0020.jpg" xml:id="d4e471"/>
+            <p>JANUARY.</p>
+            <p>1860 28.</p>
+            <p>May 30, Articles <unclear reason="illegible" resp="SS">wended</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Patap Bicarb Ziv</unclear> 14</p>
+            <p>Acid Citric <unclear reason="illegible" resp="SS">Ziv</unclear> 28</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Paln</unclear> Licorice Red <unclear reason="illegible" resp="SS">Ziv</unclear> 16</p>
+            <p>Benzoic Acid <unclear reason="illegible" resp="SS">Zi</unclear> 62</p>
+            <p>Acid Sulphuric <unclear reason="illegible" resp="SS">Ziv</unclear> 20</p>
+            <p>
+               <unclear reason="illegible" resp="SS">ThudEril, Aconite Ziv</unclear> 35</p>
+            <p>29.</p>
+            <p>30.</p>
+            <pb n="21" facs="0012_002568_000201_0021.jpg" xml:id="d4e516"/>
+            <p>JANUARY.</p>
+            <p>31.</p>
+            <pb n="22" facs="0012_002568_000201_0022.jpg" xml:id="d4e522"/>
+            <p>FEBRUARY.</p>
+            <p>1.</p>
+            <p>2.</p>
+            <p>Read two letters this eve from S <unclear reason="illegible" resp="SS">T</unclear>. Reed &amp; one from W <unclear reason="illegible" resp="SS">Blessenjer</unclear>
+            </p>
+            <p>3.</p>
+            <p>Egbert S Reed started home today on the cars and took with him the remains of Wm H Burly</p>
+            <p>Weather <unclear reason="illegible" resp="SS">coald</unclear> and no steam</p>
+            <pb n="23" facs="0012_002568_000201_0023.jpg" xml:id="d4e547"/>
+            <p>FEBRUARY.</p>
+            <p>10.</p>
+            <p>Laryngoscope</p>
+            <p>Wednes. 11.</p>
+            <p>Recd. a letter from Mary Carwford and answered it immediately. Today Dr Myers got his discharge and received a contract for assistant surgeon He leaves us tomorrow.</p>
+            <p>12.</p>
+            <pb n="24" facs="0012_002568_000201_0024.jpg" xml:id="d4e561"/>
+            <p>Dec 11th 1863</p>
+            <p>A report in yesterdays Cincinati Commercil gives the loss of the 94th Ohio in the battle of Chattanooga on the 24 &amp; 25th as 1 killed and 17 wounded. The first was Alan White &amp; among the latter is Wm Rohr</p>
+            <p>14.</p>
+            <p>15.</p>
+            <pb n="25" facs="0012_002568_000201_0025.jpg" xml:id="d4e571"/>
+            <p>FEBRUARY.</p>
+            <p>16.</p>
+            <p>17.</p>
+            <p>18.</p>
+            <pb n="26" facs="0012_002568_000201_0026.jpg" xml:id="d4e581"/>
+            <p>FEBRUARY.</p>
+            <p>19.</p>
+            <p>A memorandum of Chemical lectures deli-vered by Dr Leindsley Commencing Apr 4, 1864</p>
+            <p>Apr 5th. 1864</p>
+            <p>20.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">1 Review</unclear> this week the following subjects water, acids, <unclear reason="illegible" resp="SS">consinstu</unclear> of nitric, carbonic, sulph-uric, Phospohoric</p>
+            <p>Also nomenclature symbols and laws of combination</p>
+            <p>All substances in</p>
+            <p>21.</p>
+            <p>materia medica may be divided chemically into acids bases and their compounds, and neutrals. Water by times belongs to each of these classes.</p>
+            <pb n="27" facs="0012_002568_000201_0027.jpg" xml:id="d4e608"/>
+            <p>FEBRUARY.</p>
+            <p>22.</p>
+            <p>Every student should have a text book. <unclear reason="illegible" resp="SS">here wm miends Fowne&apos;s</unclear> or Tellman&apos;s or <unclear reason="illegible" resp="SS">Regnault</unclear> in two <unclear reason="illegible" resp="SS">oulnom&apos;s</unclear>
+            </p>
+            <p>Also Wood and Bache&apos;s US <unclear reason="illegible" resp="SS">Distressatory</unclear>
+            </p>
+            <p>The work this week will be to review the ground gone over last course</p>
+            <p>23.</p>
+            <p>Apr 7</p>
+            <p>Nitrogen - it has no posative test but is known by its negative properties as regards the tests for other gasses</p>
+            <p>The light of lightng <unclear reason="illegible" resp="SS">bngs</unclear> and such lights is <unclear reason="illegible" resp="SS">chul</unclear> to phosphorus which <unclear reason="illegible" resp="SS">uscidizes in the</unclear> air at a very low temperature They are called phosphorescent.</p>
+            <pb n="28" facs="0012_002568_000201_0028.jpg" xml:id="d4e647"/>
+            <p>FEBRUARY.</p>
+            <p>25.</p>
+            <p>Apr 9th.</p>
+            <p>Amount of Oxygen in the world</p>
+            <p>Animal 3/4 } Oxygen is 1/2 or 3/4 of the whole globe</p>
+            <p>Vegetable 4/5</p>
+            <p>26.</p>
+            <p>Mineral 1/2</p>
+            <p>Ocean &amp; Water 8/9</p>
+            <p>Atmosphere 1/5</p>
+            <p>Amt. of Carbon in atmosphere is 3 @ 7 parts in 10,000</p>
+            <p>27.</p>
+            <p>Most abundant source of <unclear reason="illegible" resp="SS">HOSO3</unclear> is <unclear reason="illegible" resp="SS">im gypsum</unclear> and in other sulphates</p>
+            <p>S, O, &amp; Cl are the three most active <unclear reason="illegible" resp="SS">elem</unclear>
+            </p>
+            <pb n="29" facs="0012_002568_000201_0029.jpg" xml:id="d4e686"/>
+            <p>FEBRUARY.</p>
+            <p>28.</p>
+            <p>in nature forming many Sulphides.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Generil</unclear> terms apply to species but &apos;specific&apos; terms apply to <unclear reason="illegible" resp="SS">inchrict-nals, Example, Useide</unclear> is generic because <unclear reason="illegible" resp="SS">thes ure many osircles</unclear> but <unclear reason="illegible" resp="SS">Osercle</unclear> of Lead is specific.</p>
+            <p>29.</p>
+            <p>Binary compounds are known by the name always ending in ide as Chloride of Lead , Sulphide of iron <unclear reason="illegible" resp="SS">&amp; c &amp; c</unclear>
+            </p>
+            <pb n="30" facs="0012_002568_000201_0030.jpg" xml:id="d4e713"/>
+            <p>MARCH.</p>
+            <p>1.</p>
+            <p>Apr 12 Dr Lindsley</p>
+            <p>Subject Hydrochloric Acid</p>
+            <p>1st explanation of the explosion of a <unclear reason="illegible" resp="SS">coal gass</unclear> explosion.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Illem visiting gave us</unclear> C2H4</p>
+            <p>2.</p>
+            <p>H. forms with atmospheric air form a <unclear reason="illegible" resp="SS">ponefully</unclear> explosive <unclear reason="illegible" resp="SS">I Mixture</unclear> Atmospheric air was <unclear reason="illegible" resp="SS">orwith</unclear> with the <unclear reason="illegible" resp="SS">cole</unclear> gass. All compounds containing H mixed with atmospheric air forms explosive mixture when a source of heat is offered. Heavy <unclear reason="illegible" resp="SS">carbontter</unclear> hydrogen and light <unclear reason="illegible" resp="SS">carbontter</unclear>
+            </p>
+            <p>3.</p>
+            <p>Hydrogen is genereted in <unclear reason="illegible" resp="SS">coal emission eject there wasnt and th</unclear> atmospheric air <unclear reason="illegible" resp="SS">fomt the explosive mistom in mines.</unclear> Accidents with gass <unclear reason="illegible" resp="SS">formess</unclear>
+            </p>
+            <pb n="31" facs="0012_002568_000201_0031.jpg" xml:id="d4e766"/>
+            <p>MARCH.</p>
+            <p>4.</p>
+            <p>in rooms not constantly used, often occur from leaking from the burner the escaped gass mixing with the atmosphere form -ing a very explosive mixture.</p>
+            <p>Apr 13th</p>
+            <p>Subject Chlorine</p>
+            <p>5.</p>
+            <p>Liquids and gases are both fluids - called so from the agreement in flowing We have currents of air as well as currents of water</p>
+            <p>The difference between our feelings of a warm summer day, and on a winter day is owing in part to the greater <unclear reason="illegible" resp="SS">cofness</unclear> of air inhailed when the air is cold and consequently the more oxygen we inhale the more <unclear reason="illegible" resp="SS">wntorend</unclear> we become. <unclear reason="illegible" resp="SS">Thi</unclear> depends on expansion by heat</p>
+            <pb n="32" facs="0012_002568_000201_0032.jpg" xml:id="d4e793"/>
+            <p>MARCH.</p>
+            <p>7.</p>
+            <p>The law of pressure on gases is inversely in <unclear reason="illegible" resp="SS">voluens</unclear> as their pressure</p>
+            <p>Refer in Chemistry to Mariott&apos;s law</p>
+            <p>8.</p>
+            <p>Apr 14th Dr Lindsley.</p>
+            <p>Subject, Chlorine.</p>
+            <p>Relating to all gaseous substances</p>
+            <p>The greater the heat the greater the volume</p>
+            <p>The greater the pressure the less the volume</p>
+            <p>9.</p>
+            <p>Out of these law&apos;s grow the the power to convert such substances into fluids and even into solids</p>
+            <pb n="33" facs="0012_002568_000201_0033.jpg" xml:id="d4e823"/>
+            <p>MARCH.</p>
+            <p>10.</p>
+            <p>All know gasses either <unclear reason="illegible" resp="LW">ultimate</unclear> or compound have been condensed into liquids by abstracting heat or by mechanical pressure with but 6 exceptions.</p>
+            <p>These 6 are called</p>
+            <p>11.</p>
+            <p>Permanent Gasses</p>
+            <p>Oxygen               0</p>
+            <p>Hydrogen             H</p>
+            <p>Nitrogen             N</p>
+            <p>Carbonic Oxid        CO</p>
+            <p>Binoxid of Nitrogen  NO2</p>
+            <p>Marsh gas            C204</p>
+            <p>CO is very poisonous whe inhailed</p>
+            <p>C204 is the gas that arises in <unclear reason="illegible" resp="LW">blubbery</unclear> when the mud of marshes is stirred up</p>
+            <p>One cubic inch of water when converted into steam expands 1760 times or occupies 1 cubic ft</p>
+            <pb n="34" facs="0012_002568_000201_0034.jpg" xml:id="d4e863"/>
+            <note type="transcription">The following text is written sideways on the left side of the page.</note>
+            <p>Seriform Bodies {</p>
+            <p>Temporary Vapors or Gases. Permanent Gasses {</p>
+            <note type="transcription">The preceding text is written sideways on the left side of the page.</note>
+            <p>MARCH.</p>
+            <p>13</p>
+            <p>{1 Oxygen</p>
+            <p>{2 Nitrogen</p>
+            <p>{3 Hydrogen</p>
+            <p>{4 Carbonic Oxid</p>
+            <p>{5 Binoxid of Nitrogen</p>
+            <p>{6 Marsh gas</p>
+            <p>14.</p>
+            <p>15.</p>
+            <pb n="35" facs="0012_002568_000201_0035.jpg" xml:id="d4e894"/>
+            <p>MARCH.</p>
+            <p>16.</p>
+            <p>Chemical affinity exerts a very marked effect upon bodies</p>
+            <p>These permanent gases may in this way be solidified or liquified by chemical combination</p>
+            <p>17.</p>
+            <p>This <unclear reason="illegible" resp="LW">Q</unclear> constitutes 8/9 of water also 1/2 of minerals.</p>
+            <p>This lecture was a general review on the properties of gases.</p>
+            <p>18.</p>
+            <pb n="36" facs="0012_002568_000201_0036.jpg" xml:id="d4e915"/>
+            <p>MARCH.</p>
+            <p>19.</p>
+            <p>Apr 15 Lindsley</p>
+            <p>The effect on bodies by chemical affinity</p>
+            <p>Solids are converted to gasses and gases into solids and liquids</p>
+            <p>Chlorate of <unclear reason="illegible" resp="LW">Blassn</unclear> is</p>
+            <p>20.</p>
+            <p>KO ClO5 which contains 39 atoms of K, 36 atoms of CL &amp; 48 atoms of O Then more than 1/3 of the salt in O Hence only is solidified by chemical combination</p>
+            <p>Ammomated sulphat of copper is much used for filling bottles in show windows of drug stores</p>
+            <pb n="37" facs="0012_002568_000201_0037.jpg" xml:id="d4e938"/>
+            <p>MARCH.</p>
+            <p>22.</p>
+            <p>Apr 19th Tuesday</p>
+            <p>Lindsley - Chlorine it is one of the most interesting elements in nature The distinguishing feature in this gas is in color <unclear reason="illegible" resp="LW">parlish</unclear> green.</p>
+            <p>2nd It is absolutely connected with animal life but it does not occur in the solids of the tissue</p>
+            <p>3d Its powerful chemical action It is <unclear reason="illegible" resp="LW">uent</unclear> to oxygen. It never occurs alone in nature having such a strong chemical affinity</p>
+            <p>24</p>
+            <p>4th It is the great artificial disinfectant. 5th It is the great bleaching agent.</p>
+            <p>It is not permanent. <unclear reason="illegible" resp="LW">its sh gr</unclear> 25</p>
+            <p>It is one of the heavy gas</p>
+            <pb n="38" facs="0012_002568_000201_0038.jpg" xml:id="d4e969"/>
+            <p>MARCH.</p>
+            <p>25.</p>
+            <p>All gases heavier than atmospheric air are calld heavy gases those lighter light gases</p>
+            <p>It is very soluble in water</p>
+            <p>Its physiological properties</p>
+            <p>It is irrespirable, exceedingly so.</p>
+            <p>26.</p>
+            <p>When very much diluted with atmospheric air it can be respired without inconvenience. <unclear reason="illegible" resp="LW">Whe</unclear> in the atmosphere we can readily distinguish it from other gases</p>
+            <p>These as the physical points.</p>
+            <p>27.</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Chorid</unclear> of Sodium is the great mine from which the whole series of soda compounds It is also the source of chlorine</p>
+            <pb n="39" facs="0012_002568_000201_0039.jpg" xml:id="d4e999"/>
+            <p>MARCH.</p>
+            <p>28.</p>
+            <p>Reaction for HCl.</p>
+            <p>NaCl + HO1SO3 = HCl + NaO1 SO3</p>
+            <p>Pure HCl is colorless but commercial is a yellowish brown.</p>
+            <p>29.</p>
+            <p>Black Oxid of manganese It is only the <unclear reason="illegible" resp="LW">alis</unclear> of manganese</p>
+            <p>Chlorine</p>
+            <p>MnO2 + 2HCl = MnCl + Cl HO +</p>
+            <p>30.</p>
+            <pb n="40" facs="0012_002568_000201_0040.jpg" xml:id="d4e1024"/>
+            <p>MARCH.</p>
+            <p>31.</p>
+            <p>What is <unclear reason="illegible" resp="SS">Co e ent</unclear>
+            </p>
+            <p>also</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Caeculus</unclear>?</p>
+            <note type="transcription"> The author drew a slash on top of part of the following text.</note>
+            <p>The former has the appearance somewhat of dried elderberries a little larger and a little more <unclear reason="illegible" resp="SS">meloned</unclear> to red color</p>
+            <p>The letter is little <unclear reason="illegible" resp="SS">round</unclear> blackish and grayish nuts the size of a small hazel</p>
+            <note type="transcription"> The author drew a slash on top of part of the preceding text.</note>
+            <p>Amount of Clothing drawn since enlist ment up to Mar 1, 1865 6100</p>
+            <p>Wm Bradford 1752</p>
+            <p>Died 1752 Buried in Church yard at Trinity Church N.Y.</p>
+            <pb n="41" facs="0012_002568_000201_0041.jpg" xml:id="d4e1061"/>
+            <p>APRIL.</p>
+            <p>1.</p>
+            <note type="transcription">The author drew a shape on the page.  The following text is written in and around the shape.</note>
+            <p>500 <unclear reason="illegible" resp="SS">rods</unclear>
+            </p>
+            <p>160 <unclear reason="illegible" resp="SS">aurs</unclear>
+            </p>
+            <p>300 <unclear reason="illegible" resp="SS">rods</unclear>
+            </p>
+            <note type="transcription">The author drew a shape on the page.  The preceding text is written in and around the shape.</note>
+            <p>Required width.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Rool</unclear>
+            </p>
+            <p>width = l + S / 2 - [square root] l + 2ls + s2 / 4</p>
+            <p>- (the superficial contents)</p>
+            <p>2.</p>
+            <p>Commenced taking daily <unclear reason="illegible" resp="SS">Ge yette</unclear> Jan 13 / 65</p>
+            <p>33 st. A few cloves from broadway.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">2 P. Mo.</unclear> 55.</p>
+            <p>3.</p>
+            <pb n="42" facs="0012_002568_000201_0042.jpg" xml:id="d4e1108"/>
+            <p>APRIL.</p>
+            <p>4.</p>
+            <p>Lewis Dalton Apr 3 Taken about a week ago Tongue <unclear reason="illegible" resp="SS">waited</unclear> with yellow and <unclear reason="illegible" resp="SS">spotten</unclear> clean around the edges.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Wire scanty.</unclear>
+            </p>
+            <p>Pulse 68. and week. lips dry <unclear reason="illegible" resp="SS">mdicatng</unclear> fever</p>
+            <p>5.</p>
+            <p>Bowels regular but watery.</p>
+            <p>eyes yellowish &amp; <unclear reason="illegible" resp="SS">inclined</unclear> to bloodshot.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Tanng</unclear> peaked</p>
+            <p>Has had continued feaver most of time but no chills.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Rx</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Hyd: Chls mit grs v</unclear>
+            </p>
+            <p>6.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Rsier grs x</unclear>
+            </p>
+            <p>We Directed to give at 6 PM at once</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Fiever</unclear> mixture to be given when fever high</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Cough mixture</unclear> when troubled with coughing.</p>
+            <pb n="43" facs="0012_002568_000201_0043.jpg" xml:id="d4e1167"/>
+            <p>APRIL.</p>
+            <p>7.</p>
+            <p>Apr 5 Case reported today as being better - almost or entirely clear of fever and resting well. Dose of <unclear reason="illegible" resp="SS">calornel</unclear> and rhubarb operated on towels in 12 to 14 hours. Set some bitters compose as below with <unclear reason="illegible" resp="SS">directo</unclear> to give <unclear reason="illegible" resp="SS">lables poorful</unclear> occasionaly if fever did not return &amp; there was lack of apetite a weakness</p>
+            <p>8.</p>
+            <p>Rx</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Jr. Valerian</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Fl. Enli Cinchoner</unclear>
+            </p>
+            <p>&quot; &quot; <unclear reason="illegible" resp="SS">Gentian</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Spts Frumerti</unclear>
+            </p>
+            <p>Aqua</p>
+            <p>
+               <unclear reason="illegible" resp="SS">No</unclear> Dose Tablespoonful</p>
+            <p>9.</p>
+            <p>The above was also directed to be given to __________ 3 times a day.</p>
+            <pb n="44" facs="0012_002568_000201_0044.jpg" xml:id="d4e1212"/>
+            <p>APRIL.</p>
+            <p>10.</p>
+            <p>Time Table</p>
+            <p>Trains <unclear reason="illegible" resp="SS">Leave Pigna far</unclear> South.</p>
+            <p>8_25 A M.</p>
+            <p>4_52 P.M.</p>
+            <p>11.</p>
+            <p>1 <unclear reason="illegible" resp="SS">Integumet</unclear>
+            </p>
+            <p>2 Sup lay or Sup <unclear reason="illegible" resp="SS">Facin</unclear>
+            </p>
+            <p>3 Deep layer of &quot; &quot;</p>
+            <p>4 Inter columnar &quot;</p>
+            <p>5 Cremaster muscle</p>
+            <p>6 <unclear reason="illegible" resp="SS">Infurstebulaform</unclear> facia</p>
+            <p>7 Sub <unclear reason="illegible" resp="SS">servs,</unclear> Areolar tissue</p>
+            <p>1 <unclear reason="illegible" resp="SS">Ilegurnerl</unclear>
+            </p>
+            <p>2 Sup. layer of Sup <unclear reason="illegible" resp="SS">Facius</unclear>
+            </p>
+            <p>12.</p>
+            <p>3 <unclear reason="illegible" resp="SS">Rorsbrifonte &quot; &quot;</unclear>
+            </p>
+            <p>4 Sub servs areolar <unclear reason="illegible" resp="SS">ham</unclear>
+            </p>
+            <p>5 Peritoneum</p>
+            <pb n="45" facs="0012_002568_000201_0045.jpg" xml:id="d4e1277"/>
+            <p>APRIL.</p>
+            <p>13.</p>
+            <p>Apr 6</p>
+            <p>Miss Clark about 22 or 23 of delicate constitution and has had epilepsy for several years</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Affection</unclear> at present Pain in breast and stomach extending down towards the hips some nervousness. Pulse 100 or 110. Some feaver.</p>
+            <p>14.</p>
+            <p>Toungue not coated but red Bowls regular but <unclear reason="illegible" resp="LW">Repit so</unclear> with medicine <unclear reason="illegible" resp="LW">8 am</unclear> tympanitis</p>
+            <p>Rx</p>
+            <p>
+               <unclear reason="illegible" resp="LW">PulvDovers grs xv iii/viij</unclear>
+            </p>
+            <p>Hyd Cum Creta <unclear reason="illegible" resp="LW">&quot; 1/vi</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="LW">M Fr.</unclear> Charts No 2</p>
+            <p>one immediately and if rest is not restore</p>
+            <p>15.</p>
+            <p>the other in 3 hours</p>
+            <p>Promised to see her tomorrow at two oclock</p>
+            <p>Questions</p>
+            <p>Visited patient today as arranged found her resting much better than yesterday</p>
+            <pb n="46" facs="0012_002568_000201_0046.jpg" xml:id="d4e1327"/>
+            <p>APRIL.</p>
+            <p>16.</p>
+            <p>but still some pains in chest. Bowls regular some appetite not so much nervousness as yesterday no tympanitis. Had taken bath powders according to directions Gave 5 morphine powders to be given when ther was much pain and directed chest to be bathed in turpentine</p>
+            <p>17.</p>
+            <p>as before Promised to visit her again on Sunday afternoon</p>
+            <p>Sunday Apr 9.</p>
+            <p>Visited according to promise found the patient somewhat agitated on account of having had a spasm at 11 AM. Some tendency to loosness of bowels.</p>
+            <p>18.</p>
+            <p>Morphine had a tendency to brain discontinued</p>
+            <p>Some fever yet no change in tongue</p>
+            <p>Rx Dovers <unclear reason="illegible" resp="LW">Zss</unclear>
+            </p>
+            <p>Hyd Cum Creta <unclear reason="illegible" resp="LW">grs iv</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="LW">M Fl.</unclear> Pulse iv</p>
+            <p>One at 4 P.M. and one at</p>
+            <pb n="47" facs="0012_002568_000201_0047.jpg" xml:id="d4e1364"/>
+            <p>APRIL.</p>
+            <p>19.</p>
+            <p>bedtime unless she rests well. Directed turpentine or mustard to breast as before.</p>
+            <p>Hand - Book of Skin Diseases for students and practitioners By Thomas Hiller M.D.</p>
+            <p>20.</p>
+            <p>Boiling Springs</p>
+            <p>Cumberland Co</p>
+            <p>Pa</p>
+            <p>21.</p>
+            <pb n="48" facs="0012_002568_000201_0048.jpg" xml:id="d4e1384"/>
+            <p>APRIL.</p>
+            <p>22.</p>
+            <p>Post Offices Addresses</p>
+            <p>Charles W. Carlton</p>
+            <p>Warren</p>
+            <p>Joe Davis Co</p>
+            <p>see</p>
+            <p>23.</p>
+            <p>James B Knapp</p>
+            <p>South Hill</p>
+            <p>Stuben Co.</p>
+            <p>New York</p>
+            <p>24.</p>
+            <p>Ransom M Smith</p>
+            <p>Joliet</p>
+            <p>Ill</p>
+            <pb n="49" facs="0012_002568_000201_0049.jpg" xml:id="d4e1419"/>
+            <p>APRIL.</p>
+            <p>25.</p>
+            <p>J R <unclear reason="illegible" resp="LW">Aby</unclear>
+            </p>
+            <p>Lucas</p>
+            <p>Richland Co</p>
+            <p>Ohio</p>
+            <p>26.</p>
+            <p>Thomas A Wilkinson</p>
+            <p>Rio</p>
+            <p>Columbia Co</p>
+            <p>Wis</p>
+            <p>27.</p>
+            <p>Columbus} Columbus</p>
+            <p>Cleavland} Cleavland</p>
+            <p>Buffalo} or Erie</p>
+            <p>Rome} Oswego</p>
+            <p>Troy} New York</p>
+            <p>New York}</p>
+            <pb n="50" facs="0012_002568_000201_0050.jpg" xml:id="d4e1460"/>
+            <p>APRIL.</p>
+            <p>28.</p>
+            <p>A List of Prices of Drugs</p>
+            <p>Acid   Acetic    per    Zi        .05</p>
+            <p>&quot; Benzoic   &quot; &quot;   1.25</p>
+            <p>&quot; Citric    &quot; &quot;    .13</p>
+            <p>&quot; Gallic    &quot; &quot;   1.00</p>
+            <p>&quot; Muriatic  &quot; &quot;    .05</p>
+            <p>&quot; Nitric    &quot; &quot;    .05</p>
+            <p>&quot; Sulphuric &quot; &quot;    .05</p>
+            <p>29.</p>
+            <p>&quot; Tartaric  &quot; &quot;    .15</p>
+            <p>&quot; Oxalic    &quot; Zi        .07</p>
+            <p>Alcohol 80 per cent</p>
+            <p>&quot; Ammoniated zi              .10</p>
+            <p>&quot; <unclear reason="illegible" resp="LW">Amynon: Arom: Zi .15</unclear>
+            </p>
+            <p>Aloes Barbad            Zi        .13</p>
+            <p>&quot; Cape             &quot;    .07</p>
+            <p>&quot; &quot;    Pulse  &quot;    .08</p>
+            <p>&quot; Soe       &quot; &quot;    .15</p>
+            <p>Alum             per    lb        .12</p>
+            <p>30.</p>
+            <pb n="51" facs="0012_002568_000201_0051.jpg" xml:id="d4e1510"/>
+            <p>MAY.</p>
+            <p>1.</p>
+            <p>Bellevew Hospt Med College</p>
+            <p>Fees</p>
+            <p>Preliminary and Regular 105</p>
+            <p>Matriculation 5</p>
+            <p>Dissecting <unclear reason="illegible" resp="LW">Licked</unclear> 10</p>
+            <p>Graduation 30</p>
+            <p>2.</p>
+            <p>Total 150</p>
+            <p>Preliminary term Begins Sep. 13th Regular term commences Oct. 11.</p>
+            <p>Isaac E Taylor MD Pres.</p>
+            <p>Austin Flint &quot; &quot; Sec</p>
+            <p>James R. Ward &quot; &quot; Surg. <unclear reason="illegible" resp="LW">&amp; Palk</unclear>
+            </p>
+            <p>Frank H Hamilton &quot; &quot; Surg.</p>
+            <p>3.</p>
+            <p>Situated on East river between 26 and 28 Streets</p>
+            <p>Janitor</p>
+            <p>Silas Pearsall</p>
+            <pb n="52" facs="0012_002568_000201_0052.jpg" xml:id="d4e1556"/>
+            <p>MAY.</p>
+            <p>4.</p>
+            <p>Dr J. Hall</p>
+            <p>765 8th Avenue</p>
+            <p>N.Y.</p>
+            <p>Sidney</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Claveland</unclear>
+            </p>
+            <p>Buffalo via Lake</p>
+            <p>5.</p>
+            <p>Buffalo via RR</p>
+            <p>Albany</p>
+            <p>N York via River</p>
+            <p>or via R.R.</p>
+            <note type="transcription">The following text has an X drawn over it.</note>
+            <p>Atlanta <unclear reason="illegible" resp="LW">&amp;</unclear> Great Western</p>
+            <p>6.</p>
+            <p>Leaves Dayton</p>
+            <p>11.30 A.M.</p>
+            <p>Night Train 12.55 am</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Apri</unclear> 21 60</p>
+            <note type="transcription">The preceding text has an X drawn over it.</note>
+            <pb n="53" facs="0012_002568_000201_0053.jpg" xml:id="d4e1607"/>
+            <p>MAY.</p>
+            <p>7.</p>
+            <p>Lake Shore Route via Columbus &amp; Cleavland</p>
+            <p>20 60</p>
+            <p>Tickets cannot be had by Sidney.</p>
+            <p>The above rate is for steamer from Cleavland to Buffalo</p>
+            <p>8.</p>
+            <p>Atlantic and Great W.</p>
+            <p>Leaves Dayton</p>
+            <p>1.10 A.M.</p>
+            <p>8.20 A.M.</p>
+            <p>12.20 P.M.</p>
+            <p>Little Miami Col. &amp; X</p>
+            <p>9.</p>
+            <p>Leaves Dayton</p>
+            <p>7.36 A.M.</p>
+            <p>11.10 A.M.</p>
+            <p>4.50 P.M.</p>
+            <pb n="54" facs="0012_002568_000201_0054.jpg" xml:id="d4e1646"/>
+            <p>Sep MAY. 1865</p>
+            <p>10.</p>
+            <p>Dayton <unclear reason="illegible" resp="LW">&amp; M.</unclear> RR</p>
+            <p>Arrives of Dayton</p>
+            <p>9.45 A.M.</p>
+            <p>6.20 P.M.</p>
+            <p>Sep. 11. 1865</p>
+            <p>Started for N.Y. from Troy at 8.42 AM arrived at Dayton 9.45 &quot; Started for Columbus after securing tickets to NY City. Arrived at Xenia at 12 am after a pleasant ride of 50 minutes in which nothing of unusual</p>
+            <p>12.</p>
+            <p>interest occurred</p>
+            <p>Started for Col 12.30 Land and County not so good as in vicinity of Dayton From Selma to Charleston county level and of a better</p>
+            <pb n="55" facs="0012_002568_000201_0055.jpg" xml:id="d4e1674"/>
+            <p>Sep May. 1865</p>
+            <p>13.</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Lshality</unclear> than before we came to <unclear reason="illegible" resp="LW">Selmer</unclear> It is now raining hard From Charleston to London County level and beautiful a grazing county As seen from cars L is a place of not much impertance A place</p>
+            <p>14.</p>
+            <p>of perhaps 2000 inhab.</p>
+            <p>From London on 15 West Jefferson a grazing county. The <unclear reason="illegible" resp="LW">cant warnerd</unclear> place is small town situated on a small stream of water some bottom lands in vicinity</p>
+            <p>15.</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Alton up to</unclear> this <unclear reason="illegible" resp="LW">satio</unclear> the land is flat and not first rate a grazing county a small unimportant place</p>
+            <p>Arrived at Col about 2 <unclear reason="illegible" resp="LW">112</unclear> oclock</p>
+            <pb n="56" facs="0012_002568_000201_0056.jpg" xml:id="d4e1711"/>
+            <p>MAY.</p>
+            <p>16.</p>
+            <p>but saw only a small portion of the city Started for Cleavland at 3 P.M.</p>
+            <p>From Col to Worthington <unclear reason="illegible" resp="LW">6 ms</unclear> country rather poor flat and wet.</p>
+            <p>Orange 15 ms from</p>
+            <p>17.</p>
+            <p>Col. county much the same as betw. the other stations. Wet and wild. Hay plentiful Lewis <unclear reason="illegible" resp="LW">Centie</unclear> 16 ms unimportant place</p>
+            <p>Berlin 20 ms <unclear reason="illegible" resp="LW">Beach flats</unclear> some pretty well improved farms. The roads generally straight.</p>
+            <p>18.</p>
+            <p>Delaware 25 ms</p>
+            <p>Beach flats til within a mile of Delaware til within a mile of Delaware Surrounding country undulating and diversified Pop 10000</p>
+            <p>Eden 30 miles</p>
+            <p>Level and flat</p>
+            <pb n="57" facs="0012_002568_000201_0057.jpg" xml:id="d4e1749"/>
+            <p>MAY.</p>
+            <p>19.</p>
+            <p>Ashley 34 ms</p>
+            <p>County much the same as that already passed over This is a small place of 100 inhabitants</p>
+            <p>Cardington 41 ms</p>
+            <p>Country still flat and wet improvements poor no barns nor good houses.</p>
+            <p>20.</p>
+            <p>Town of some importance</p>
+            <p>Gilead 45 ms</p>
+            <p>County flat but a little better improved A small RR Town</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Sberra</unclear> 53 ms</p>
+            <p>County more undulating and better improved</p>
+            <p>21.</p>
+            <p>Sheep abundant unimportant RR Town</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Galion</unclear> 59 ms</p>
+            <p>County improving better <unclear reason="illegible" resp="LW">improvion</unclear>
+            </p>
+            <p>This is a very important RR town the terminus of the</p>
+            <pb n="58" facs="0012_002568_000201_0058.jpg" xml:id="d4e1792"/>
+            <p>MAY.</p>
+            <p>22.</p>
+            <p>Bellefontain &amp; Ind. R.R.</p>
+            <p>Cresline 63 ms.</p>
+            <p>County improving high and rolling good farms Took supper</p>
+            <p>Shelby 72 ms</p>
+            <p>County rolling and well improved Crops look better It is now</p>
+            <p>23.</p>
+            <p>about sunset.</p>
+            <p>Salem 78 ms</p>
+            <p>Here it is too dark to see the county.</p>
+            <p>Arrived at Cleavland at 9 PM took a buss for the Johnston House Here we found by no means first class accommodations</p>
+            <p>24</p>
+            <p>After spending the night on 4th floor vainly attempting to sleep amid the bellboys on <unclear reason="illegible" resp="LW">magntoes.</unclear> Breakfasted on very common fair and walked out through the city and then</p>
+            <pb n="59" facs="0012_002568_000201_0059.jpg" xml:id="d4e1826"/>
+            <p>MAY.</p>
+            <p>25.</p>
+            <p>to the lake shore Nothing here of much interest there being such a fog as to render the lake scenery unattractive I am while <unclear reason="illegible" resp="LW">the a tng fom</unclear> in a sail boat</p>
+            <p>The farrest city is lovely named and well deserves the credit it has of being</p>
+            <p>26.</p>
+            <p>one of Ohio&apos;s nicest cities</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Anurrsmy Idiopathic or Franmed NC</unclear> Caused By <unclear reason="illegible" resp="LW">Gatt</unclear> Degeneration</p>
+            <p>Also</p>
+            <p>
+               <unclear reason="illegible" resp="LW">First form Annrrom</unclear>
+            </p>
+            <p>27.</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Nonanclature</unclear> depends upon minute anatomy of the sack This is an impossibility therefore he would discard it.</p>
+            <p>He would call it a true <unclear reason="illegible" resp="LW">anurism</unclear> as long as the coats <unclear reason="illegible" resp="LW">remained intact</unclear>
+            </p>
+            <pb n="60" facs="0012_002568_000201_0060.jpg" xml:id="d4e1869"/>
+            <p>MAY.</p>
+            <p>28.</p>
+            <p>When breaks through the sack a false anurism The false may be <unclear reason="illegible" resp="LW">diffused</unclear> saculated or ruptured</p>
+            <p>Edying current <unclear reason="illegible" resp="LW">fibrin</unclear> Remedy for anurism Delay the current of blood but not entirely arrest it. Under these conditions it fills up with</p>
+            <p>29.</p>
+            <p>
+               <unclear reason="illegible" resp="LW">fibrin</unclear>
+            </p>
+            <p>An bursting into a cavity are always fatal</p>
+            <p>40.80 170</p>
+            <p>.50 75</p>
+            <p>4.00 <unclear reason="illegible" resp="LW">2/245</unclear>
+            </p>
+            <p>1.00</p>
+            <p>1.20 1.22</p>
+            <p>10.00</p>
+            <p>30.</p>
+            <p>2.00</p>
+            <p>59.50 59.50</p>
+            <p>24.10 41.80</p>
+            <p>2/83.60 17.70</p>
+            <p>41.80</p>
+            <pb n="61" facs="0012_002568_000201_0061.jpg" xml:id="d4e1919"/>
+            <p>MAY.</p>
+            <p>31.</p>
+            <p>Acct of articles</p>
+            <p>Bought for joint use by J Reed</p>
+            <p>Sep. 18. Coal Oil 1/2 gal 48</p>
+            <p>Sep 20 <unclear reason="illegible" resp="LW">McNear Cr by Dernonateatons licked</unclear> 10 00</p>
+            <p>Oct. 9. <unclear reason="illegible" resp="LW">McNeal</unclear> Dr. to cash for washing .45</p>
+            <note type="transcription"> The following text is written on top of the above paragraph.</note>
+            <p>Balanced</p>
+            <note type="transcription">The preceding text is written on top of the above paragraph.</note>
+            <p>Mar. 20 Prof Wood exhibits to the class a calculus taken from a woman it being the 4th &amp; of enormous size: one of its predecessors weighed 16 oz.</p>
+            <p>Amputations</p>
+            <p>Hays operation is made in any portion of the metatarsal bones and is the best <unclear reason="illegible" resp="LW">Shapeus</unclear> operation not so good <unclear reason="illegible" resp="LW">Simes</unclear> operation takes away the whole of the foot cuts <unclear reason="illegible" resp="LW">ing</unclear> the articular surfaces, <unclear reason="illegible" resp="SS">But</unclear> preserve</p>
+            <pb n="62" facs="0012_002568_000201_0062.jpg" xml:id="d4e1966"/>
+            <p>JUNE.</p>
+            <p>1.</p>
+            <p>the heel.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Purperal</unclear> Fever not peculiar to large cities or large hospitals It is not entirely epidemic <unclear reason="illegible" resp="SS">He</unclear> thinks it a <unclear reason="illegible" resp="SS">timotic</unclear> diseases That any lison which may accompany it is only accidental no constant lisions, morbid anatomy is not a cause but a result of disease.</p>
+            <p>2.</p>
+            <p>In some epidemics the lision is in the peritonium on others, a purulent deposit in remote peritoneal cavi ties, from the <unclear reason="illegible" resp="SS">genitile or arry</unclear> The violence of disease does not bear any relations to the amount of lisions. In some there is no lisiions to be found.</p>
+            <p>3.</p>
+            <p>It is thereof a special disease dependig upon special poison and any lision which may accompany it is only one of the results. The Prophy-lasis is not the same as that of inflammatory</p>
+            <pb n="63" facs="0012_002568_000201_0063.jpg" xml:id="d4e1995"/>
+            <p>diseases</p>
+            <p>JUNE.</p>
+            <p>4.</p>
+            <p>It must be <unclear reason="illegible" resp="SS">guardid my west</unclear> as thoroughly as smallpox <unclear reason="illegible" resp="SS">Eryeipelas</unclear> poison may develop it in purperal women</p>
+            <p>Purperal fever is Contagious, and in this it is not <unclear reason="illegible" resp="SS">surpaped</unclear> by any other disease except smallpox</p>
+            <p>Treatment.</p>
+            <p>5.</p>
+            <p>May have <unclear reason="illegible" resp="SS">matchs, perito-nites</unclear> or phlebitis and not have purperal fever proper</p>
+            <p>Treatment not <unclear reason="illegible" resp="LW">antithlegestie</unclear> but Eliminate the poison by Cathartic <unclear reason="illegible" resp="LW">emeties sudorfirs</unclear> but only a small portion can be eliminated If any</p>
+            <p>6.</p>
+            <p>tendency to cerebral <unclear reason="illegible" resp="LW">pletherer</unclear> may deplete 2nd control vascular action and nervous excitability <unclear reason="illegible" resp="LW">hence</unclear> veratrum viride and opium.</p>
+            <pb n="64" facs="0012_002568_000201_0064.jpg" xml:id="d4e2044"/>
+            <p>JUNE.</p>
+            <p>Allay <unclear reason="illegible" resp="LW">nervous</unclear> irritation</p>
+            <p>7.</p>
+            <p>and <unclear reason="illegible" resp="LW">entimation</unclear> by large and repeated doses of opium The normal relation must be kept between the pulse and respiration. The veratrum and opium must act in concert</p>
+            <p>3d indication carry the patient through the</p>
+            <p>8.</p>
+            <p>disease with stimulants and nutriment</p>
+            <p>Veratrum is not incompatible with stimulants and tonics If the whisky or the veratrum be stopped the pulse will run up.</p>
+            <p>Thomas // <unclear reason="illegible" resp="LW">Tomorrow</unclear>
+            </p>
+            <p>9.</p>
+            <p>M H Hanks</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Billenlle</unclear> Dun Co</p>
+            <p>Wisconsin</p>
+            <pb n="65" facs="0012_002568_000201_0065.jpg" xml:id="d4e2083"/>
+            <p>JUNE.</p>
+            <p>10.</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Segan</unclear> 1000 per <unclear reason="illegible" resp="LW">M Governint Bord</unclear>
+            </p>
+            <p>RR Reed Dr Sep 4, 1865 on Settlement</p>
+            <p>Six months rent up to 4.00</p>
+            <p>March 1st. 50.00</p>
+            <p>11.</p>
+            <p>Have a note in Bank which comes due June 21 1866. J Reed</p>
+            <p>Apr 24 1866</p>
+            <p>12.</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Soheerble</unclear> Dr <unclear reason="illegible" resp="LW">To</unclear>
+            </p>
+            <p>Cash $4000</p>
+            <p>Apr 28 Also cash 300</p>
+            <pb n="66" facs="0012_002568_000201_0066.jpg" xml:id="d4e2120"/>
+            <p>JUNE.</p>
+            <p>13.</p>
+            <p>Conducting an examination of children</p>
+            <p>Name</p>
+            <p>Age</p>
+            <p>Gen</p>
+            <p>Residence</p>
+            <p>How many living brothers and sisters and how many have died. at which age if so, and</p>
+            <p>14.</p>
+            <p>with what diseases.</p>
+            <p>Health of the immediate relative</p>
+            <p>As to the diseases incident to childhood</p>
+            <p>History of present illness</p>
+            <p>When was it last quite well?</p>
+            <p>What first symptoms of <unclear reason="illegible" resp="LW">uneasiness</unclear> appetite. Thirst. Bowles <unclear reason="illegible" resp="LW">xck</unclear>
+            </p>
+            <p>If nursing let it suck in your pressence.</p>
+            <p>15.</p>
+            <p>Has the child been worried in any way recently by washing, change of clothes or otherwise?</p>
+            <pb n="67" facs="0012_002568_000201_0067.jpg" xml:id="d4e2165"/>
+            <p>JUNE.</p>
+            <p>16.</p>
+            <p>17.</p>
+            <p>18. 1865</p>
+            <p>Started from <unclear reason="illegible" resp="LW">Roushvill</unclear> for house on the 6 oclock train arrived in Louisville about 6 P.M. obtained a hack and had my trunk taken over to the ferry and from thence by wagon to depot. Started at 9 P.M. for Indiana</p>
+            <p/>
+            <pb n="68" facs="0012_002568_000201_0068.jpg" xml:id="d4e2181"/>
+            <p>19.</p>
+            <p>Arrived at Ind about 3 1/2 A.M. breakfasted on oysters and waked out to see the city but was soon driven in by rain</p>
+            <p>Started for Union City 3/4 past 6 A.M. where we arrived at 11 A.M. Dined at <unclear reason="illegible" resp="LW">Brownian</unclear> house with Mr Jones and started for Greenville at 2.20 P.M.</p>
+            <p>20.</p>
+            <p>Recd of Geo. Martz on Rent 15 dollars May 8</p>
+            <p>Rx Spigelia Zss</p>
+            <p>Senna</p>
+            <p>Fennel Seed a a 120 grs</p>
+            <p>Manna zi <unclear reason="illegible" resp="LW">No</unclear>
+            </p>
+            <p>Boiling water <unclear reason="illegible" resp="LW">O Infuse</unclear>
+            </p>
+            <p>Dose <unclear reason="illegible" resp="LW">zii</unclear>
+            </p>
+            <p>21.</p>
+            <p>3 times a day to a child 2 years old</p>
+            <pb n="69" facs="0012_002568_000201_0069.jpg" xml:id="d4e2219"/>
+            <p>JUNE.</p>
+            <p>22. May 21, 1866</p>
+            <p>Frank Middleton</p>
+            <p>Symptoms of Pleurisy</p>
+            <p>Ordered mustard draughts to side a foot bath and &quot; &quot; feet Gave 6 doses Tullis Powder 6 <unclear reason="illegible" resp="LW">ps</unclear> per dose and directed to be given one every 2 hours until relieved of pain then one every 3 or 4 hours Gave</p>
+            <p>23.</p>
+            <p>also 40 <unclear reason="illegible" resp="LW">mp</unclear> Cath Pills to be taken at 7 May 22 A.M.</p>
+            <p>May 22 Reported better this morning Directed to be informed if symptoms again arose toward evening.</p>
+            <p>If this proves to be pleuritis the treatment so far is good Purgatives diaphoretic and diuretics with anodynes if pain be present</p>
+            <p>24.</p>
+            <p>in the second stage. If needed sedatives also may be used Salts cream of tartar veratrum or antimony Diuretics For the latter</p>
+            <p>Rx Milk Sweet Oi</p>
+            <p>Aqua Oii</p>
+            <p>Mustard ground Ziss</p>
+            <p>Boil until curdled then <unclear reason="illegible" resp="LW">stian</unclear>
+            </p>
+            <pb n="70" facs="0012_002568_000201_0070.jpg" xml:id="d4e2260"/>
+            <p>25.</p>
+            <p>Dose wineglassful every 2 hours or hour</p>
+            <p>Ingestion of liquids should be prohibited during this stage as far as consistent with comfort of patient. Depletion in this way should be discontinued when strength of patient begins to flag A neutricious diet and stimulants and tonics are</p>
+            <p>26.</p>
+            <p>all indicated</p>
+            <p>Warren&apos;s Burg</p>
+            <p>Pleasant Hill</p>
+            <p>27.</p>
+            <pb n="71" facs="0012_002568_000201_0071.jpg" xml:id="d4e2278"/>
+            <p>JUNE.</p>
+            <p>28.</p>
+            <p>Middleton Sr Nephritis Colic</p>
+            <p>1 Developed suddely</p>
+            <p>Pain radiates from kidneys but especially take the course of meters extending down into thigh and groin</p>
+            <p>3 Pain in testicle on affected side &amp; at same time it is drawn up</p>
+            <p>4 Pain <unclear reason="illegible" resp="LW">exassine Canunatin Caring</unclear>
+            </p>
+            <p>5 &quot; without intermission but</p>
+            <p>29.</p>
+            <p>more or less exacerbations</p>
+            <p>6 Urine notably diminished</p>
+            <p>7 Constant desire to michurate &amp;</p>
+            <p>8 Sometimes bloody urin</p>
+            <p>9 Anorexia thirst nausea &amp; sometimes Coldness of surface &amp; sweating and feebleness of circulation countenance Pallid and expressive of anguish</p>
+            <p>10 Bowels constipated</p>
+            <p>30.</p>
+            <p>Pain may suddenly cease with a heavy discharge of urin <unclear reason="illegible" resp="LW">Liable</unclear> to more than one fit</p>
+            <p>Remedies which may be employed Venaesection, Cupping, warm fomentation, warm baths, warm enema, Purgatives (not saline)</p>
+            <pb n="72" facs="0012_002568_000201_0072.jpg" xml:id="d4e2322"/>
+            <p>JULY.</p>
+            <p>1.</p>
+            <p>For Diuretic</p>
+            <p>Rx Flax Seed Tea Oii</p>
+            <p>Sweet Spirits nitre Zi</p>
+            <p>No Dose Zii every 2 hours</p>
+            <p>or</p>
+            <p>Rx Potass Bicarb Ziii</p>
+            <p>Acid Citric Zii</p>
+            <p>Dissolve each in Ziv of water</p>
+            <p>Dose Zss. 3 times a day</p>
+            <p>2.</p>
+            <p>Lithic Acid diathesis</p>
+            <p>Rx Soda BiCarb Zss</p>
+            <p>Flax Seed Tea Oii</p>
+            <p>No Dose Zii every 2 hrs.</p>
+            <p>or</p>
+            <p>Phosphatic Diathesis</p>
+            <p>Mineral acids</p>
+            <p>3.</p>
+            <p>Spleen as high as 9th <unclear reason="illegible" resp="LW">sip</unclear>
+            </p>
+            <pb n="73" facs="0012_002568_000201_0073.jpg" xml:id="d4e2369"/>
+            <p>JULY.</p>
+            <p>4.</p>
+            <p>Mrs Clay.</p>
+            <p>Examin size of spleen</p>
+            <p>also of Cymphatic glands</p>
+            <p>also Region of liver</p>
+            <p>Will apply a small blister over spleen if it be enlarged and sore</p>
+            <p>June 7</p>
+            <p>Mrs. J. Bailey Gravel &amp; Cystitis. Some headache Pain over <unclear reason="illegible" resp="LW">hypogactive</unclear> and <unclear reason="illegible" resp="LW">turns</unclear> frequent michuration with burning pain at end quantity passed very small with some tenesmus Gave Car Potass Introduce <unclear reason="illegible" resp="LW">Cathete</unclear> but got only about Zss of water. Tried it</p>
+            <p>6</p>
+            <p>again with no better success.</p>
+            <p>Prescribed</p>
+            <p>Rx Potass Bicarb Zvi</p>
+            <p>Flax Seed Tea Oii</p>
+            <p>
+               <unclear reason="illegible" resp="LW">No</unclear> Give Zii every 2 hours</p>
+            <p>also 20 <unclear reason="illegible" resp="LW">gtlb.</unclear> Bal <unclear reason="illegible" resp="LW">Cossarb</unclear> 3 times <unclear reason="illegible" resp="LW">d</unclear>
+            </p>
+            <p>&quot; Comp Cath Pills 4</p>
+            <pb n="74" facs="0012_002568_000201_0074.jpg" xml:id="d4e2425"/>
+            <p>JULY.</p>
+            <p>7.</p>
+            <p>If no better today will Prescribe</p>
+            <p>Rx <unclear reason="illegible" resp="LW">Bucha Fol.</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="LW">Nvi Wsi Fol aa</unclear> Zss</p>
+            <p>Aqua Bullient Oi</p>
+            <p>
+               <unclear reason="illegible" resp="LW">M</unclear> Digest for half hour and <unclear reason="illegible" resp="LW">stren</unclear>
+            </p>
+            <p>S zss every 2 or 3 hours</p>
+            <p>If much pain a suppository of opium</p>
+            <p>8.</p>
+            <p>gave 8 <unclear reason="illegible" resp="LW">Phose</unclear> just learne that they have sent for another Doctor</p>
+            <p>June 8</p>
+            <p>Mrs M. Teegarden</p>
+            <p>Acut. Bronchitis ~ a bad case</p>
+            <p>Found her weak some cough and expectoration</p>
+            <p>Pain diffused all over breast</p>
+            <p>9.</p>
+            <p>Says the expectoration is sometimes mixed with blood. Breathing not accelerated but produces some pain when a full breath is taken. Resonance of health on percussion vocal resonance not altered no rales heard</p>
+            <pb n="75" facs="0012_002568_000201_0075.jpg" xml:id="d4e2475"/>
+            <p>JULY.</p>
+            <p>10.</p>
+            <p>Gave her</p>
+            <p>Rx <unclear reason="illegible" resp="LW">Dover Pulse grs</unclear> 24</p>
+            <p>Divided into 8 powders To be given one every 3 hours</p>
+            <p>She complained of having a considerable of fever every evening for which I gave her</p>
+            <p>Rx Quinine grs x</p>
+            <p>Carb Ferri grs ii</p>
+            <p>
+               <unclear reason="illegible" resp="LW">No Fl</unclear> 4 Pulse S commence in</p>
+            <p>11.</p>
+            <p>morning one every 3 hours.</p>
+            <p>Will see her tomorrow P.M.</p>
+            <p>Then inquire Is cough equal to the expectoration Any dispensea The state of the skin The appetite The pains also examine chest</p>
+            <p>If she does not spit up every time she coughs then opium <unclear reason="illegible" resp="LW">6 Hours</unclear> not If patient is so feeble as to</p>
+            <p>12.</p>
+            <p>let mucus accumulate in bronchial tubes no opium. Short spasmodic cough. Ipecac 1/2 gr every hour</p>
+            <pb n="76" facs="0012_002568_000201_0076.jpg" xml:id="d4e2518"/>
+            <p>JULY.</p>
+            <p>13.</p>
+            <p>Comp Syrup of Butternut</p>
+            <p>Rx</p>
+            <p>Ext Hyocyamus Zi</p>
+            <p>&quot; Butternut Zii</p>
+            <p>Oil Sassafras Zss</p>
+            <p>Bicarb Soda Zii</p>
+            <p>Simple Syrup <unclear reason="illegible" resp="LW">Ltii</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="LW">M</unclear> Dose Tablespoonful</p>
+            <p>3 times a day.</p>
+            <p>14.</p>
+            <p>15.</p>
+            <pb n="77" facs="0012_002568_000201_0077.jpg" xml:id="d4e2551"/>
+            <p>JULY. 1863</p>
+            <p>16.</p>
+            <p>Friday 17.</p>
+            <p>Rosecranse and Staff visited our Hospital had a review of the troops at this post in afternoon many people out besides soldiers</p>
+            <p>18.</p>
+            <pb n="78" facs="0012_002568_000201_0078.jpg" xml:id="d4e2564"/>
+            <p>19.</p>
+            <p>Questions Mrs Armacroft</p>
+            <p>Any shortness of breath on exercise?</p>
+            <p>Has it progressively increased?</p>
+            <p>Much Dyspnoea?</p>
+            <p>Any cough or expectoration?</p>
+            <p>&quot; Hemoptisis</p>
+            <p>Pulmonary Oedema</p>
+            <p>Hydrothorax</p>
+            <p>Heart beat abnormally strong?</p>
+            <p>20.</p>
+            <p>Is Pulse small and weak?</p>
+            <p>&quot; &quot; irregular in force and rithm?</p>
+            <p>Is action of heart irregular</p>
+            <p>Pain a prominent symptom?</p>
+            <p>Any sense of distress referable to <unclear reason="illegible" resp="LW">praecardiac?</unclear>
+            </p>
+            <p>&quot; nervous symptoms?</p>
+            <p>Is much apprehension of mind?</p>
+            <p>Is sleep disturbed by dreams?</p>
+            <p>Any dropical effusion anywhere?</p>
+            <p>Is face congested and lips livid?</p>
+            <p>21.</p>
+            <p>Turgescence of <unclear reason="illegible" resp="LW">Corricul</unclear> veins</p>
+            <p>They may also pulsate</p>
+            <p>Apetite &amp; Digestion impaired</p>
+            <p>Urin Scanty</p>
+            <p>Hemorrhage from Stomach &amp; intestines</p>
+            <p>also epistaxis</p>
+            <p>Is palpitation increased on exerci</p>
+            <pb n="79" facs="0012_002568_000201_0079.jpg" xml:id="d4e2631"/>
+            <p>JULY.</p>
+            <p>22.</p>
+            <p>Endocardial murmur at apex beat indicates mitral lesions</p>
+            <p>If heard under point of <unclear reason="illegible" resp="LW">seafwla</unclear> the mitral regurgitant lesion</p>
+            <p>If heard only at apex mitral Systotic</p>
+            <p>Precystotic murmur heard at apex rough &amp; vibratory</p>
+            <p>23.</p>
+            <p>24.</p>
+            <pb n="80" facs="0012_002568_000201_0080.jpg" xml:id="d4e2652"/>
+            <p>JULY.</p>
+            <p>25.</p>
+            <p>26.</p>
+            <p>27.</p>
+            <pb n="81" facs="0012_002568_000201_0081.jpg" xml:id="d4e2662"/>
+            <p>[page missing]</p>
+            <pb n="82" facs="0012_002568_000201_0082.jpg" xml:id="d4e2666"/>
+            <p>[page missing]</p>
+            <pb n="83" facs="0012_002568_000201_0083.jpg" xml:id="d4e2670"/>
+            <p>[page missing]</p>
+            <pb n="84" facs="0012_002568_000201_0084.jpg" xml:id="d4e2674"/>
+            <p>[page missing]</p>
+            <pb n="85" facs="0012_002568_000201_0085.jpg" xml:id="d4e2678"/>
+            <p>AUGUST.</p>
+            <p>19.</p>
+            <p>May life <unclear reason="illegible" resp="LW">so</unclear> the be <unclear reason="illegible" resp="LW">please</unclear> and <unclear reason="illegible" resp="LW">cry as morning dew</unclear>
+            </p>
+            <p>June 18, 1866</p>
+            <p>Have a note in bank $10000 due Sep. 16 to 19</p>
+            <p>20.</p>
+            <p>21.</p>
+            <pb n="86" facs="0012_002568_000201_0086.jpg" xml:id="d4e2702"/>
+            <p>AUGUST.</p>
+            <p>22.</p>
+            <p>23.</p>
+            <p>24.</p>
+            <pb n="87" facs="0012_002568_000201_0087.jpg" xml:id="d4e2712"/>
+            <p>AUGUST.</p>
+            <p>25.</p>
+            <p>Dixon on Eye</p>
+            <p>Wilsons Skin Disease</p>
+            <p>26.</p>
+            <p>27.</p>
+            <pb n="88" facs="0012_002568_000201_0088.jpg" xml:id="d4e2726"/>
+            <p>AUGUST.</p>
+            <p>28.</p>
+            <p>29.</p>
+            <p>30.</p>
+            <pb n="89" facs="0012_002568_000201_0089.jpg" xml:id="d4e2737"/>
+            <p>AUGUST.</p>
+            <p>31.</p>
+            <pb n="90" facs="0012_002568_000201_0090.jpg" xml:id="d4e2743"/>
+            <p>SEPTEMBER.</p>
+            <p>1.</p>
+            <p>Apr 6th, 1864</p>
+            <p>Dr Jenning&apos;s Lecture</p>
+            <p>1 Descriptive anatomy is that pertaining to the parts as individuals.</p>
+            <p>2 General <unclear reason="illegible" resp="SS">Andive</unclear> or Hystology</p>
+            <p>2.</p>
+            <p>3 Microscopic Anatomy</p>
+            <p>While anatomy gives us the description of all the various parts of the human body, Pysiology teaches us the uses of these parts.</p>
+            <p>A general knowledge of anatomy and chemistry is necessary to learn physiology.</p>
+            <p>Phyiology is</p>
+            <p>The functions of the organs are divided into organic functions, and Functions of generation.</p>
+            <pb n="91" facs="0012_002568_000201_0091.jpg" xml:id="d4e2773"/>
+            <p>SEPTEMBER.</p>
+            <p>4.</p>
+            <p>The organic functions pertain to building up the body by the <unclear reason="illegible" resp="SS">mentrition</unclear>
+            </p>
+            <p>Function of sensation</p>
+            <p>Function of intellection.</p>
+            <p>5.</p>
+            <p>The organ of the above function is the brain</p>
+            <p>The organic functions exhibit their power in fashioning the <unclear reason="illegible" resp="SS">nentrition</unclear> which is dissimilar to itself into the organs of</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Frmative.</unclear>
+            </p>
+            <p>6</p>
+            <p>Microscopic Fiber <unclear reason="illegible" resp="SS">Cells</unclear> &amp; membrain Nest subject <unclear reason="illegible" resp="SS">Digentry.</unclear> Friday at 11</p>
+            <pb n="92" facs="0012_002568_000201_0092.jpg" xml:id="d4e2810"/>
+            <p>SEPTEMBER.</p>
+            <p>7.</p>
+            <p>Prof. Winston</p>
+            <p>Apr 7th, 1864</p>
+            <p>Theraputic, general principals</p>
+            <p>In order to know how to use medicines to remove diseases, we must understa -d said diease</p>
+            <p>8.</p>
+            <p>Disease is nothing bi physiology perverted</p>
+            <p>No man can cure disease or right perverted physiological action, it is the work of nature: All the physition can do is to assist nature The effects of remedies is to change the physiological action of the part.</p>
+            <p>9.</p>
+            <p>Fever is the result of physiological action.</p>
+            <p>There are many things which can be done by medicines, but some things we cannot do Destroyed parts cannot be restored by medicines</p>
+            <pb n="93" facs="0012_002568_000201_0093.jpg" xml:id="d4e2837"/>
+            <p>SEPTEMBER.</p>
+            <p>10.</p>
+            <p>All that is known of remedies we have learned by experience.</p>
+            <p>The general effect of medicine is produced by being absorbed into the circulation <unclear reason="illegible" resp="SS">leuse</unclear> of experiment on a dog. In order that medicine may be absorbed and carried into the circulation it must be dissolved</p>
+            <p>11.</p>
+            <p>When medicines are absor bed into the circulation what is the effect?</p>
+            <p>The effects are not so numerous as is first supposed</p>
+            <p>The blood is either changed by an element being <unclear reason="illegible" resp="SS">suppred</unclear> or to <unclear reason="illegible" resp="SS">would</unclear> morbid processes going on</p>
+            <p>12.</p>
+            <p>Mercury is excreted by the liver. Medicins are <unclear reason="illegible" resp="SS">minatinal</unclear> to be blood an <unclear reason="illegible" resp="SS">hevre</unclear> must be <unclear reason="illegible" resp="SS">shininat-ed</unclear>
+            </p>
+            <pb n="94" facs="0012_002568_000201_0094.jpg" xml:id="d4e2876"/>
+            <p>SEPTEMBER.</p>
+            <p>13.</p>
+            <p>1864</p>
+            <p>3 Narcotics act upon the nervous <unclear reason="illegible" resp="SS">centres</unclear>
+            </p>
+            <p>4 Astringents affect only the muscular tissues</p>
+            <p>Winston&apos;s lecture Apr 12th.</p>
+            <p>Subject. Obstetrics</p>
+            <p>14.</p>
+            <p>Obsterics has only recently been introduced as a distinct chair, within the <unclear reason="illegible" resp="SS">Cast</unclear> of century.</p>
+            <p>This a depart of medicine that has more certain knowledge in it than any other dep of Med.</p>
+            <p>15.</p>
+            <p>Obstetritions should have decency and refinement. Should avoid the style and manner of the butcher</p>
+            <pb n="95" facs="0012_002568_000201_0095.jpg" xml:id="d4e2908"/>
+            <p>SEPTEMBER.</p>
+            <p>16.</p>
+            <p>The anatomy of the pelvis.</p>
+            <p>No one can become proficient in this branch without an accurat knowledge of the pelvis.</p>
+            <p>17.</p>
+            <p>18.</p>
+            <pb n="96" facs="0012_002568_000201_0096.jpg" xml:id="d4e2922"/>
+            <p>SEPTEMBER.</p>
+            <p>19.</p>
+            <p>Winston. Apr 14</p>
+            <p>Therapeutics</p>
+            <p>Some medicines when carried into the circulation undergo a change so we cannot always calculate exactly on the effects of a medicine</p>
+            <p>20.</p>
+            <p>The laws of Chemistry are the same everywhere both in the living organism and out of it. An excess of acid in the blood may be corrected by alkaline medicine</p>
+            <p>But chemical changes are not so marked in the circulation as in the retort</p>
+            <p>21.</p>
+            <p>The avenues of Administration</p>
+            <p>By far the larger <unclear reason="illegible" resp="SS">portal</unclear> of medicines are given through the stomach</p>
+            <p>We also give it per <unclear reason="illegible" resp="SS">Aner</unclear>
+            </p>
+            <pb n="97" facs="0012_002568_000201_0097.jpg" xml:id="d4e2954"/>
+            <p>SEPTEMBER.</p>
+            <p>22.</p>
+            <p>Also by friction upon the skin If we wish to <unclear reason="illegible" resp="SS">prodrill</unclear> salvation we can facilitate this by <unclear reason="illegible" resp="SS">amiomtmy</unclear> the grow &amp; arms with <unclear reason="illegible" resp="SS">Why Hyd</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Ingivrny ther rectin- ble</unclear> by the skin the dose is about 3 timse as larg as the dose per <unclear reason="illegible" resp="SS">amnn</unclear>
+            </p>
+            <p>23.</p>
+            <p>Farms of Medicine</p>
+            <p>Forms or</p>
+            <p>Pill, Mixture, Solution powders, Liniments, <unclear reason="illegible" resp="SS">Mig,</unclear> cerates, <unclear reason="illegible" resp="SS">&amp; &amp;c &amp;y</unclear>
+            </p>
+            <p>24</p>
+            <p>These are usually <unclear reason="illegible" resp="SS">componnded</unclear>
+            </p>
+            <p>Should avoid a long blunderous way of prescribing medicine</p>
+            <p>The apothecaries <unclear reason="illegible" resp="SS">Werst</unclear>
+            </p>
+            <pb n="98" facs="0012_002568_000201_0098.jpg" xml:id="d4e3002"/>
+            <p>SEPTEMBER.</p>
+            <p>25.</p>
+            <p>Prescriptions are written in latin somtimes, somtimes in english somtimes abbreviates</p>
+            <p>The Pharmacopes a few years ago</p>
+            <p>26.</p>
+            <p>Much pains should be taken in writing recipes.</p>
+            <p>The name and age should be put on the recipe so the apothecary may avoid mistakes</p>
+            <p>27.</p>
+            <p>The druggist is not <unclear reason="illegible" resp="SS">compellent</unclear> if does not know the dose of all the medicines he puts up. Because</p>
+            <pb n="99" facs="0012_002568_000201_0099.jpg" xml:id="d4e3025"/>
+            <p>SEPTEMBER.</p>
+            <p>28.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Rerol</unclear> for doses</p>
+            <p>Divid the period from adult life down to childhood</p>
+            <p>Habits of living <unclear reason="illegible" resp="SS">Sex</unclear>
+            </p>
+            <p>29.</p>
+            <p>Mental Action Climate</p>
+            <p>Classification of Medicines.</p>
+            <p>30.</p>
+            <p>A variety of kinds every one using his particular</p>
+            <pb n="100" facs="0012_002568_000201_0100.jpg" xml:id="d4e3052"/>
+            <p>OCTOBER.</p>
+            <p>1.</p>
+            <p>The true <unclear reason="illegible" resp="SS">plin</unclear> is a classification according to their pysiological affects upon the system.</p>
+            <p>5 General Classes</p>
+            <p>2.</p>
+            <p>1 &quot; Class</p>
+            <p>Evacuants</p>
+            <p>2nd Gen. Class</p>
+            <p>Stimulents</p>
+            <p>3d Gen. Class</p>
+            <p>Sedatives</p>
+            <p>4th <unclear reason="illegible" resp="SS">Aleratives</unclear>
+            </p>
+            <p>Gen Class</p>
+            <p>5th Revulsives</p>
+            <pb n="101" facs="0012_002568_000201_0101.jpg" xml:id="d4e3088"/>
+            <p>OCTOBER.</p>
+            <p>4.</p>
+            <p>Apr 16. Winston</p>
+            <p>Obstetrics.</p>
+            <p>Inferior plain</p>
+            <p>Superior &quot;</p>
+            <note type="transcription">The author drew a shape on the page.  The following text is written on and around the shape.</note>
+            <p>2</p>
+            <p>1</p>
+            <p>1</p>
+            <note type="transcription">The author drew a shape on the page.  The preceding text is written on and around the shape.</note>
+            <p>5.</p>
+            <p>The pelvis as a whole and the parturian canal</p>
+            <p>There are 4 symphases</p>
+            <p>The symphesis pubus is bound together by the pubic ligaments. The sacro illeact symphases. Bound together by the sacro-illeac ligaments. Also the illeo-lumbar liga-ment.</p>
+            <p>6</p>
+            <p>Then we hay the sacro-coxigal ligamen binding the coxix to the sacrum.</p>
+            <p>The union of the 1st lumbar with the 1st sacrum is of much importance to the</p>
+            <pb n="102" facs="0012_002568_000201_0102.jpg" xml:id="d4e3127"/>
+            <p>OCTOBER.</p>
+            <p>7.</p>
+            <p>obstetrition</p>
+            <p>The pelvis may be divided into the greater &amp; lesser pelvis</p>
+            <p>The upper part from the lower part of the <unclear reason="illegible" resp="LW">reur</unclear> is called the greater</p>
+            <p>After the 4th month</p>
+            <p>8.</p>
+            <p>the child cannot be <unclear reason="illegible" resp="LW">relamed</unclear> in the lower pelvis and it mounts above the brim of the pelvis. The woman then feels what is called the quickening. The time varies from 2 to 4 month</p>
+            <p>The lesser pelvis</p>
+            <p>9.</p>
+            <p>is the great object of interest. This is that part from the brim down It is an inverted cone it is not a straigt cavity The anterior posterior is the</p>
+            <pb n="103" facs="0012_002568_000201_0103.jpg" xml:id="d4e3158"/>
+            <p>OCTOBER.</p>
+            <p>10.</p>
+            <p>The different diameters is about equal being about or a little less than 5 in</p>
+            <p>For purposes of description the lesser pelvis has been divided into 4 compartments anterior posterior and 2 lateral</p>
+            <p>a line drawn across</p>
+            <p>11.</p>
+            <p>from the tuberosities of the pelvis pubus or <unclear reason="illegible" resp="LW">pecteleum lenuneis</unclear> makes the anterior compartment</p>
+            <p>The posterior compartment is triangular</p>
+            <p>The tuberosity of the ischium is of great interest to the obstetrician</p>
+            <p>12.</p>
+            <p>The Plains and straights and axis</p>
+            <p>The superior plain has a measurement <unclear reason="illegible" resp="LW">or chancters</unclear> antero posterior <unclear reason="illegible" resp="LW">diamete</unclear> lateral</p>
+            <p>Diagonal</p>
+            <pb n="104" facs="0012_002568_000201_0104.jpg" xml:id="d4e3196"/>
+            <p>OCTOBER.</p>
+            <p>13.</p>
+            <p>These diameters differ very much in different races in the superior Straight</p>
+            <p>Oblique <unclear reason="illegible" resp="LW">han</unclear> 4 9/10 in</p>
+            <p>Transvers &quot; longes</p>
+            <p>anteroposterior &quot; shortest</p>
+            <p>Inferior Straight</p>
+            <p>14.</p>
+            <p>is that marked by a plain drawn from the point of the <unclear reason="illegible" resp="LW">conix</unclear> and</p>
+            <p>It has the same diameter that the superior straigh</p>
+            <p>antero posterior</p>
+            <p>Transverse</p>
+            <p>Oblique</p>
+            <p>15.</p>
+            <p>Lateral.</p>
+            <p>They are about the same in all directions a little over 4 inches.</p>
+            <p>The antero posterior <unclear reason="illegible" resp="LW">becons</unclear> the greates diameter in parturtion by giving back of the <unclear reason="illegible" resp="LW">casise</unclear>
+            </p>
+            <pb n="105" facs="0012_002568_000201_0105.jpg" xml:id="d4e3244"/>
+            <p>OCTOBER.</p>
+            <p>16.</p>
+            <p>Apr 19 Tuesday</p>
+            <p>Materia Medica</p>
+            <p>Classification</p>
+            <p>Evacuant are so called becaus they throw off something</p>
+            <p>17.</p>
+            <p>from <unclear reason="illegible" resp="LW">froma the ecomery</unclear>
+            </p>
+            <p>Emetics</p>
+            <p>
+               <unclear reason="illegible" resp="LW">leathertics</unclear>
+            </p>
+            <p>Diapporetic</p>
+            <p>Syalagogues</p>
+            <p>Emmenagogues</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Sernutaterrs</unclear>
+            </p>
+            <p>Expectorants</p>
+            <p>
+               <unclear reason="illegible" resp="LW">Parturunes</unclear>
+            </p>
+            <p>Anthelmintics</p>
+            <p>18.</p>
+            <p>Emetics have the capacity to produce an inverted action of the stomach.</p>
+            <p>These ar not so much used as formerly We understand the principle better</p>
+            <pb n="106" facs="0012_002568_000201_0106.jpg" xml:id="d4e3292"/>
+            <p>OCTOBER.</p>
+            <p>19.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Emetics use</unclear> of to <unclear reason="illegible" resp="SS">knds</unclear>
+            </p>
+            <p>Constitutional of which Ipecac <unclear reason="illegible" resp="SS">Lobelia</unclear> are <unclear reason="illegible" resp="SS">tytics</unclear> and</p>
+            <p>Local Emetics whic act locally upon the princpals of counter <unclear reason="illegible" resp="SS">irritat</unclear>
+            </p>
+            <p>The only object is not to evacuate the stomach</p>
+            <p>20.</p>
+            <p>1st class operates by first being absorbed into the circulation and produces emesis by nervous transmition</p>
+            <p>The mechanism of vomiting, It is by muscular action of the stomach, ribs, and diaphragm at the same time the <unclear reason="illegible" resp="SS">piloric</unclear> orifice is closed</p>
+            <p>21.</p>
+            <p>Other results</p>
+            <p>It <unclear reason="illegible" resp="SS">promes</unclear> a most powerful effect on the nervous system</p>
+            <p>Also secretion, Diaphor-esis,</p>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb n="111" facs="0012_002568_000201_0111.jpg" xml:id="d4e3356"/>
+            <p>NOVEMBER.</p>
+            <p>1.</p>
+            <p>It is only under power ful emesis is bile thrown up.</p>
+            <p>Sedation,</p>
+            <p>Secretion,</p>
+            <p>Give these remedies in broken doses repeated every 25 or 30 minutes</p>
+            <p>2.</p>
+            <p>Also a large amount of fluids, The stomach must have somthing to act upon not too much fluid, but some</p>
+            <p>Reaction must follow the emetic effect.</p>
+            <p>3.</p>
+            <p>It is applicable in all stages of life We may give them freely, there is no damages in their use.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Contra</unclear> indicated</p>
+            <pb n="112" facs="0012_002568_000201_0112.jpg" xml:id="d4e3385"/>
+            <p>NOVEMBER.</p>
+            <p>4.</p>
+            <p>in case of great debility, or in determination of blood to the brain</p>
+            <p>2 Active hemorrhage</p>
+            <p>3 in Hernia, Annurism</p>
+            <p>4 in advance / <unclear reason="illegible" resp="SS">iregmancy</unclear>
+            </p>
+            <p>Some are prisonors in their nature Tartar <unclear reason="illegible" resp="SS">Emetis</unclear> is a type.</p>
+            <p>5.</p>
+            <p>Preparation of <unclear reason="illegible" resp="SS">Antimeny</unclear>
+            </p>
+            <p>1 He wants <unclear reason="illegible" resp="SS">but-ant, et potassa Turtras Dont</unclear> want the wine, <unclear reason="illegible" resp="SS">mst</unclear> the powder then we know what we are giving.</p>
+            <p>It is soluble in water calomel is soluble in water.</p>
+            <p>Calomel must be carefully. <unclear reason="illegible" resp="SS">Cascalgia</unclear> was once treated by giving 1/60 of a gram</p>
+            <p>Febrial or inflamatory <unclear reason="illegible" resp="SS">diseuse</unclear>
+            </p>
+            <pb n="113" facs="0012_002568_000201_0113.jpg" xml:id="d4e3432"/>
+            <p>NOVEMBER.</p>
+            <p>7.</p>
+            <p>Friday</p>
+            <p>Weather cloudy, cold, and rainy terminating with snow, Grand review by Rosecrance, of his new command</p>
+            <p>After shivering around till 9 A.M. marched to a large field near <unclear reason="illegible" resp="SS">B. Greano.</unclear> where our division (Rosseaus) was drawn up in line &amp; reviewed. Twas a cold birth. Got back 2 P.M. and had good eat of bean soup.</p>
+            <p>8.</p>
+            <p>Saturday</p>
+            <p>Clear. and moderate. Nothing of impor-tance in camp. Went out Battaglion drill, A.M. &amp; com drill p.m. Was excu-sed from duty to make out a list of lopes at Fate&amp;s Ferry. Helped at this &amp; wrote a letter to S. F. Reed.</p>
+            <p>9.</p>
+            <p>Sunday</p>
+            <p>Morning frosty &amp; clear - day pleasant. Was detailed to act as sergeant for getting up wood, but received marching orders before starting. Struck tents at 11 a.m. marched 5 ms. south of B. Greene and camped in an open field country barren and rockey - water scarce.</p>
+            <pb n="114" facs="0012_002568_000201_0114.jpg" xml:id="d4e3460"/>
+            <p>NOVEMBER.</p>
+            <p>10.</p>
+            <p>Monday</p>
+            <p>Morning frosty &amp; clear day warm <unclear reason="illegible" resp="SS">&amp; le</unclear> Started from camp at 7 and we <unclear reason="illegible" resp="SS">suppost</unclear> for Nashvill. Passed through Franklin a thriving place of 1500 <unclear reason="illegible" resp="SS">ina</unclear> stopped in camp about 5 p.m. having travel about 19 ms Franklin is 21 ms from B. Greene Traveled 19 ms very dusty. Camp water plenty but not handy. Camp ground in field.</p>
+            <p>11.</p>
+            <p>Tuesday</p>
+            <p>Cloudy &amp; moderate morning. Clear &amp; Pleasant through day. Started from camp at 7 1/2 o-clock. Marched 3 ms through thick dust to Mich-elsvill, a small village, and marched out to camp ground Wood scarce, water plenty but inconvenient. House was burned near camp. <unclear reason="illegible" resp="SS">Our k</unclear> Camp Tennessee.</p>
+            <p>12.</p>
+            <p>Wednesday</p>
+            <p>Rainy &amp; moderate. Nothing of impor -tance today. <unclear reason="illegible" resp="SS">Drefs parate</unclear> in evening and orders read for regular routine of camp duties. Look like staying a while. Boys went out <unclear reason="illegible" resp="SS">of were</unclear> going and McDonal brought in hog, chicken and potatoes Had a good supper!!!</p>
+            <pb n="115" facs="0012_002568_000201_0115.jpg" xml:id="d4e3500"/>
+            <p>NOVEMBER.</p>
+            <p>13.</p>
+            <p>Thursday</p>
+            <p>Weather clear &amp; beautiful. Entered upon duties of the day, consisting in officer&apos;s drill squad drill company drill and <unclear reason="illegible" resp="SS">ballaghon</unclear> drill, and <unclear reason="illegible" resp="SS">drep</unclear> parade. Was very busy, Evening two of our boys came from Louisville. The Leut and Sargeant Major returned from Greenville with mail.</p>
+            <p>14.</p>
+            <p>Friday</p>
+            <p>Weather Beautiful.</p>
+            <p>Nothing of importance going on in camp. Our regular routine of duties keeps us busy up we want to be <unclear reason="illegible" resp="SS">Commisiced</unclear> a letter to Dave Freeman but for want of time had to lay it over till tomorrow</p>
+            <p>15.</p>
+            <p>Saturday</p>
+            <p>Weather beautiful indian summer <unclear reason="illegible" resp="SS">Forensic</unclear> regular duties. afternoon cleaning up guns for inspection tomorrow is the order Rumered we leave tomorrow. News now informed</p>
+            <pb n="116" facs="0012_002568_000201_0116.jpg" xml:id="d4e3537"/>
+            <p>NOVEMBER.</p>
+            <p>16.</p>
+            <p>Sunday</p>
+            <p>Weather cloudy. All is bristle this morning to get ready to start. Wrote a letter to G.B. Wells to send by Cap. <unclear reason="illegible" resp="SS">Gorsnch</unclear> Cap <unclear reason="illegible" resp="SS">&amp; Tarrer</unclear> starts for Greenville this morn. Marched at 7 1/2 o-clock and stopped about 4 o clock having marched 14 ms over a rather poor &amp; Desolate <unclear reason="illegible" resp="SS">Comm</unclear>
+            </p>
+            <p>17.</p>
+            <p>Monday</p>
+            <p>Started from our camp at the big hotel and marched over a poor and rather rough country and arrived at the junction <unclear reason="illegible" resp="SS">dis</unclear> 11 ms This is an importa- -ant <unclear reason="illegible" resp="SS">fromt</unclear> and must be well garded. May stay here some time. 10 ms to Nashville Weather rainy. Bad night.</p>
+            <p>18.</p>
+            <p>Tuesday</p>
+            <p>Spent an uncomfortable night on account of the rain. Weather cloudy &amp; threatening. Fixed up our quarters and did miscellane -ous duties. This camp at the jun -ction &amp; near the RR Bridge near the Cumberland River</p>
+            <pb n="117" facs="0012_002568_000201_0117.jpg" xml:id="d4e3573"/>
+            <p>NOVEMBER.</p>
+            <p>19.</p>
+            <p>Wedne</p>
+            <p>Weather rainy. Was detailed on pricket <unclear reason="illegible" resp="SS">Co&apos;s Dy</unclear> I went out about 3 in&apos;s from camp &amp; relieved <unclear reason="illegible" resp="SS">ColF.</unclear> Rained till 2 p.m. Our shanty fell down but did not hurt any one. Night dark and blustery and disagreeable for picket -ing. Night <unclear reason="illegible" resp="SS">paped</unclear> without any alarm.</p>
+            <p>20.</p>
+            <p>Thursday</p>
+            <p>Morning cool and cloudy clear in afternoon. Was relieved at 8 1/2 o-clock from our picket duty and got back to camp 10 1/2</p>
+            <p>Balance of the day cleared up our guns <unclear reason="illegible" resp="SS">&amp;ck</unclear>
+            </p>
+            <p>21.</p>
+            <p>Friday</p>
+            <p>Weather cool but not rainy. Had regular camp duties- company drill in morning bataglion drill in afternoon. Had a <unclear reason="illegible" resp="SS">reutation</unclear> at night before the Lieut. Colonel. A lesson was assigned for tomorrow</p>
+            <pb n="118" facs="0012_002568_000201_0118.jpg" xml:id="d4e3612"/>
+            <p>NOVEMBER.</p>
+            <p>22.</p>
+            <p>Saturday</p>
+            <p>Morning clear and frosty. day pleasant. Drilled company drill in the forenoon, afternoon omited bataglion drill and cleaned up our guns for inspection. I washed my shirts and drawrs, Read a letter from Lizzie Woodard</p>
+            <p>23.</p>
+            <p>Sunday</p>
+            <p>Morning cool &amp; clear was ordered to prepare for inspec tion at 9 a.m. was inspec- -ted accordingly and then had no further duties, wrote a letter to E.H. Went out &amp; gathered some nuts. There is an abundance of them here The hills are covered with prickly <unclear reason="illegible" resp="SS">(her)</unclear>
+            </p>
+            <p>24</p>
+            <p>Monday</p>
+            <p>Cool &amp; clear. <unclear reason="illegible" resp="SS">Torn McHee</unclear> &amp; I went out to get some corn meal Got 1/2 <unclear reason="illegible" resp="SS">bn</unclear> &amp; had a good supper of mush Went out at 2 p.m. on review. Boys lively this evening. <unclear reason="illegible" resp="SS">6 ng t</unclear> Edgefield.</p>
+            <pb n="119" facs="0012_002568_000201_0119.jpg" xml:id="d4e3645"/>
+            <p>NOVEMBER.</p>
+            <p>25.</p>
+            <p>Tuesd</p>
+            <p>Moderate &amp; cloudy. Attended to the usual comp. duties, policing company drill &amp; Do not feel very well God some fries &amp; light bread &amp; butter and had more good things than my stomach demanded. Night cold. Saw for the first time the Cumberland River</p>
+            <p>26.</p>
+            <p>Wedn</p>
+            <p>Cold &amp; cloudy. p.m. Clear and cool. <unclear reason="illegible" resp="SS">Brformeit</unclear> the regular camp duties. Was unwell today. having missed breakfast &amp; eat but little din- -ner This is the first meal I have mis since I was in the service for want of appetite. Sow belly smells awful.</p>
+            <p>27.</p>
+            <p>Thurs</p>
+            <p>Cold &amp; clear in a morning but cloudy and moderat in p.m. Our company was detailed for regimented yard today. I am not well on the sick list for the first time Got our overcoats today. Much <unclear reason="illegible" resp="SS">reporced</unclear>
+            </p>
+            <pb n="120" facs="0012_002568_000201_0120.jpg" xml:id="d4e3672"/>
+            <p>NOVEMBER.</p>
+            <p>28.</p>
+            <p>Friday</p>
+            <p>Today we were exempt from regular camp duties. This camp is at what is called Edgefield Junction, at the junction of Louisville &amp; Nashville road with the ___ ___ We are near the Cumberland river. The country around is only medium. better further out.</p>
+            <p>29.</p>
+            <p>Saturday</p>
+            <p>Weather clear. Duties light drilled this a.m. Co drill, but did not go out this p.m.</p>
+            <p>Som of boys went out with forea -ging teams, but did not bring any thing but corn. A man came in camp with apples and the boys went for them</p>
+            <p>30.</p>
+            <p>Sunday</p>
+            <p>Day cloudy &amp; smouky. This morning upon a short notice, we went out on picket. Did not get on breakfast and had not much to take with no Post, at old corn mill. We&apos;ll have shelter should it rain.</p>
+            <pb n="1" facs="0012_002568_000201_0121.jpg" xml:id="d4e3697"/>
+            <p>DECEMBER.</p>
+            <p>1.</p>
+            <p>Monday</p>
+            <p>Rained hard last night, had a rough time. got in camp abou -t 9 o.cock a.m. Drew 5 days rations, which came not too soon. Drew flour instead of crackers. <unclear reason="illegible" resp="SS">an eric rn</unclear> our history The boys were wishing for flour but now they have it do not to know what to do</p>
+            <p>2.</p>
+            <p>Tuesday.</p>
+            <p>Weather cool &amp; cloudy. Nothing of importance in camp today. Wrote a letter to <unclear reason="illegible" resp="SS">Gev.</unclear> B. Reed. Reported this eve that we move tomorrow</p>
+            <p>Report confirmed. Our flow goes well but causes trouble. <unclear reason="illegible" resp="SS">Mak flitters. hot draw</unclear> to sleep on today- <unclear reason="illegible" resp="SS">luve</unclear> it tomorrow.</p>
+            <p>3.</p>
+            <p>Wednesday</p>
+            <p>Got up early &amp; started at about about 7 o.clock. Clear and cool Marched to within one mile of Nashville. Beautiful camp ground Beautiful country, but much des -troyed. Name of camp Edgefield</p>
+            <pb n="2" facs="0012_002568_000201_0122.jpg" xml:id="d4e3734"/>
+            <p>DECEMBER.</p>
+            <p>4.</p>
+            <p>Thursd</p>
+            <p>Clear &amp; pleasant. Was detailed Coporal of gard. Nothing of importance transpired today My duties were light, not <unclear reason="illegible" resp="SS">so hury</unclear> as the regular camp duties.</p>
+            <p>5.</p>
+            <p>Friday</p>
+            <p>Today opens blustery. Snow hard. Got permission to go to Nashville. Tis a beautifu town but shows the effects of the war State house is a splendid structure Got a regular dinner for the first since I left <unclear reason="illegible" resp="SS">Covington</unclear>
+            </p>
+            <p>6</p>
+            <p>Saturday</p>
+            <p>Quite Cold - snow on Ground. Camp duties light, One lesson in non Comm -ission drill. Got a letter from Rebecca Crawford &amp; learned Sam was in the 2nd Ohio.</p>
+            <pb n="3" facs="0012_002568_000201_0123.jpg" xml:id="d4e3761"/>
+            <p>DECEMBER.</p>
+            <p>7.</p>
+            <p>Sunday</p>
+            <p>Morning Cool but pleasant. Had company <unclear reason="illegible" resp="SS">revietn</unclear> as soon as we were <unclear reason="illegible" resp="SS">dismiked</unclear> was surprised to find Sam Crawford at my side Had a long talk with him &amp; pleas -ant time Learned that Geo Gould was in the 4th Ohio Cavelry.</p>
+            <p>8.</p>
+            <p>Monday</p>
+            <p>Morning cold but warm day. <unclear reason="illegible" resp="SS">Hust &amp; Andy Teeganden</unclear> called this morning. They came to take the remains of James home, Heard directly from home Wrote W.E. J. Reed Did not March as we had exp- -ected from oders on last night. Will probably go before long.</p>
+            <p>9.</p>
+            <p>Tuesday</p>
+            <p>Weather cool. Camp duties light. Was verry agreeably surpr -ised to see Drs. Greene &amp; Jenn- -ings in camp. Was cut short of their company by orders to march Went to river &amp; count- -termarched to camp. <unclear reason="illegible" resp="SS">Slajed</unclear>
+            </p>
+            <pb n="4" facs="0012_002568_000201_0124.jpg" xml:id="d4e3794"/>
+            <p>DECEMBER.</p>
+            <p>10.</p>
+            <p>Wednesd.</p>
+            <p>Marched this morning at 5 oclock. Was hurried to get off in time. Cool in morning but pleasant through day. Marched out on the Franklin pike about 3 ms. and camped. Place rather good butt water unhandy. Getting nearer the <unclear reason="illegible" resp="SS">seeash</unclear> Dont know the name of Camp</p>
+            <p>11.</p>
+            <p>Thursday.</p>
+            <p>Morning Cold day pleasant. Camp duties light. Read a letter last night from G.B. Wills <unclear reason="illegible" resp="SS">cont.</unclear> 10 dollars, it being part of my township bounty Read a letter from S.E.V. today and answered the same. Read orders to have 3 days rations in our haversacks &amp; be ready to march [at 8 o.clock</p>
+            <p>12.</p>
+            <p>Friday</p>
+            <p>Started from camp at 8 a.m. the 94 th &amp; 1st. Wisconsin with a large number of <unclear reason="illegible" resp="SS">serms</unclear>. Went North of Edefield junction. Found <unclear reason="illegible" resp="SS">corn</unclear> late in p.m. but loaded most of it. <unclear reason="illegible" resp="SS">Cmped new</unclear> _____ ville. <unclear reason="illegible" resp="SS">Went tid 6</unclear> teams to <unclear reason="illegible" resp="SS">guby</unclear>. With diffrently found it,</p>
+            <pb n="5" facs="0012_002568_000201_0125.jpg" xml:id="d4e3837"/>
+            <p>DECEMBER.</p>
+            <p>13.</p>
+            <p>Saturday</p>
+            <p>Stood picket last night. started with 6 teams in quest of <unclear reason="illegible" resp="SS">Torriage</unclear>. With some difficulty got loaded by noon. Went to camp &amp; started back about 2 oclock p.m. &amp; got into camp about 9 o-clock. Weather warm and cloudy.</p>
+            <p>14.</p>
+            <p>Sunday</p>
+            <p>Camp duties light. weather warm &amp; cloudy. Received marching orders and prepared accordingly. Recd a letter from <unclear reason="illegible" resp="SS">J.</unclear> Bobb &amp; one from E Hoover. both valued friends. Weather cloudy and warm.</p>
+            <p>15.</p>
+            <p>Monday</p>
+            <p>Weather cloudy and rainy in the afternoon. Camp duties light. Wrote a letter to <unclear reason="illegible" resp="SS">J Bob</unclear> This eve. drew soft bread for the first time. Our tent <unclear reason="illegible" resp="SS">leeks desperatily</unclear>
+            </p>
+            <pb n="6" facs="0012_002568_000201_0126.jpg" xml:id="d4e3870"/>
+            <p>DECEMBER.</p>
+            <p>16.</p>
+            <p>Tuesday</p>
+            <p>Weather cold and windy. Was detailed on gard duty. McNeil was Lieut of the gard Got along very well. no gard having been arrested on account of delinqu -ency of duty.</p>
+            <p>Name of the camp Andy Johnston.</p>
+            <p>17.</p>
+            <p>Wednesday</p>
+            <p>Weather clear and mod -erate. Camp duties light Drilled some in the manual o farms. Com- -menced a letter to E. H. Had orders to clean up guns for inspection News from <unclear reason="illegible" resp="SS">Brirside</unclear> today is not favorable.</p>
+            <p>18.</p>
+            <p>Thursd.</p>
+            <p>Morning cold &amp; Clear</p>
+            <p>Prepared in morning for inspection. Marched out at 9 o-clock Passed very well. Drew 5 days rations. No movements on the <unclear reason="illegible" resp="SS">tapis</unclear>. Did my washing.</p>
+            <pb n="7" facs="0012_002568_000201_0127.jpg" xml:id="d4e3903"/>
+            <p>DECEMBER.</p>
+            <p>19.</p>
+            <p>Friday</p>
+            <p>Weather Clear &amp; Moderate. Camp duties light. Sent James Sebring to the hospita with Measels. Recd. a letter from E. S. Reed. Wrote a letter to E. H.</p>
+            <p>20.</p>
+            <p>Saturday</p>
+            <p>Was aroused at 4 o-clock. Orders to have 3 days rations in haversacks. 2 in wagons, and be ready to move at a moments notice. Was called in line at noon to go <unclear reason="illegible" resp="SS">forriging</unclear> Went out toward franklin about 6 ms. from camp. Got back 9 p.m.</p>
+            <p>21.</p>
+            <p>Sunday</p>
+            <p>Weather cloudy and windy. Camp duties light. Wrote a Letter to D Freeman and one to B.B. Reed Dr. Greene called and informed me of a situ -ation I can obtain in a hospital</p>
+            <pb n="8" facs="0012_002568_000201_0128.jpg" xml:id="d4e3928"/>
+            <p>DECEMBER.</p>
+            <p>22.</p>
+            <p>Monday</p>
+            <p>Weather beautiful. camp duties light. Drilled some in the <unclear reason="illegible" resp="SS">bunonet</unclear> exercise. Drew 5 days rations. Drew for the first time</p>
+            <p>Vegetables News from washington bad. It seems to be discouraging the way things are going.</p>
+            <p>23.</p>
+            <p>Tuesday</p>
+            <p>Weather most beautiful. Camp duties light nothing <unclear reason="illegible" resp="SS">transpirnt</unclear> worth mensioning. The climate now is most beautiful- roads good. What a deli -ghtful country and climate of it were not for its peculiar institiution.</p>
+            <p>24</p>
+            <p>Wednesday</p>
+            <p>Cloudy in morning, clear and beautiful in p.m. Recd. orders to be ready to march Prepared for inspection. Recd. order to move at 7 1/2 o clock a.m. tomorrow</p>
+            <pb n="9" facs="0012_002568_000201_0129.jpg" xml:id="d4e3959"/>
+            <p>DECEMBER.</p>
+            <p>25.</p>
+            <p>Christmas</p>
+            <p>Packed up to march as ordered. but the order was ccountermended. We were detailed for picket duty. Arrived at our posts about 1 p.m. Heard some artiller and some <unclear reason="illegible" resp="SS">ningnetry</unclear> it <unclear reason="illegible" resp="SS">being</unclear> an attack on our <unclear reason="illegible" resp="SS">fornay</unclear> train. Kept a vigilent look ou</p>
+            <p>26.</p>
+            <p>Friday</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Satrted</unclear> this morning for camp, with the understanding to march. Started on our arrival and at the same time it began to rain. It rained on till we stopped which was about 3 o-clock camped about 9 ms from camp toward Murfreesboro</p>
+            <p>27.</p>
+            <p>Saturday</p>
+            <p>Marching order at 8 oclock Prepared in haste 1000 oclo -ck heavy <unclear reason="illegible" resp="SS">annonading</unclear> is <unclear reason="illegible" resp="SS">60</unclear> heard at our left. The ball is opined. 94th is left in rear Started at 2 and roads being as bad only got a mile &amp; camped</p>
+            <pb n="10" facs="0012_002568_000201_0130.jpg" xml:id="d4e3998"/>
+            <p>DECEMBER.</p>
+            <p>28.</p>
+            <p>Sunday</p>
+            <p>Weather clear. Started from camp about 8 1/2 o-clock Roads desparate have to double teams. slow progress.</p>
+            <p>Got to <unclear reason="illegible" resp="SS">Knowlensville</unclear> about 4. Camped there. There are some signs of the fighting. -bullet holes and <unclear reason="illegible" resp="SS">ve</unclear> in houses.</p>
+            <p>29.</p>
+            <p>Monday. Our teams were overhauled this morning &amp; all left out except what was absolutely necessary. <unclear reason="illegible" resp="SS">Mud</unclear> ahead. Started daylight with infantry. Leave behind four of our boys. Sebring, Wolf, Judy 2nd Hullinger &amp; Hardman. Camped 11 ms. from Murfresb.</p>
+            <p>30.</p>
+            <p>Tuesday</p>
+            <p>Started from camp at 7. went 2 or 3 ms when the canon began to roar to our left. Within 4 ms of <unclear reason="illegible" resp="SS">Me</unclear>, formed in a field to our left. and skirmishing to our right was heard plain not far off. This may be an eventful day.</p>
+            <pb n="11" facs="0012_002568_000201_0131.jpg" xml:id="d4e4033"/>
+            <p>DECEMBER.</p>
+            <p>31.</p>
+            <p>Wednesday</p>
+            <p>The last of <unclear reason="illegible" resp="SS">BL</unclear>, and most memor rable frm life Ball opened early this morning. First engage about 10. made a successful bayonet change. <unclear reason="illegible" resp="SS">secesh student died</unclear>. Man -euvered around considerable was found in field in front of en- -emy <unclear reason="illegible" resp="SS">balls</unclear> whistled desparately. <unclear reason="illegible" resp="SS">wonnder</unclear> about 2 o-clock.</p>
+            <p>Was formed in support of batteries several times. had <unclear reason="illegible" resp="SS">his</unclear> men wounded by a solid shot at one time Jacob <unclear reason="illegible" resp="SS">Sru</unclear> arm shot off. Geo. <unclear reason="illegible" resp="SS">Duter</unclear> in leg. Desparate fighting today Hardest on our right the <unclear reason="illegible" resp="SS">on -amy hard to flush</unclear> us on <unclear reason="illegible" resp="SS">up</unclear> but only partially wounded. Col. Frizel, Capt. <unclear reason="illegible" resp="SS">Sterl</unclear> and many others were wounded today. Reg. left in command <unclear reason="illegible" resp="SS">it Maj Gring</unclear> Battle bids fair to be the most desparate of the war- each side fighting with desparation. May God give to us the victory. The whole Southwestern army on <unclear reason="illegible" resp="SS">hold</unclear>
+            </p>
+            <pb n="12" facs="0012_002568_000201_0132.jpg" xml:id="d4e4081"/>
+            <p>sides is dependent upon the result of this battle for instance. and likewise this nation.</p>
+            <pb n="13" facs="0012_002568_000201_0133.jpg" xml:id="d4e4085"/>
+            <p>CASH ACCOUNT.-JANUARY.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>Aug J. R. Mitchell Dr</p>
+            <p>to cash 1.00</p>
+            <p>&quot; <unclear reason="illegible" resp="SS">Mosas</unclear> Hall Dr</p>
+            <p>too cash 5.00</p>
+            <p>&quot; Sowden Dr Paid</p>
+            <p>to paper. .25</p>
+            <p>Pd. <unclear reason="illegible" resp="SS">88</unclear> 85</p>
+            <p>Mar 12, 1864</p>
+            <p>Broadrick Dr to leash lent 5 0</p>
+            <p>Mar 26</p>
+            <p>Oct 15 Wm. Long Dr 10 00</p>
+            <p>&quot; 24 C. Carleton &quot;</p>
+            <p>&quot; 23 Long Cr</p>
+            <p>Tobacco 50</p>
+            <p>&quot; 1 Dr Rutledge Dr</p>
+            <pb n="14" facs="0012_002568_000201_0134.jpg" xml:id="d4e4128"/>
+            <p>CASH ACCOUNT.-FEBRUARY.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>Estate Acct with J. M. Reed.</p>
+            <p>Sale of Real Estate in Court 1505 00</p>
+            <p>Sold By J M Reed 1700</p>
+            <p>for</p>
+            <p>Personal after</p>
+            <p>Dividend 2.74</p>
+            <p>Recd of J M Reed</p>
+            <p>the full amount of</p>
+            <p>my share 237 .50</p>
+            <p>________________________________</p>
+            <p>________________________________</p>
+            <p>________________________________</p>
+            <p>________________________________</p>
+            <p>________________________________</p>
+            <p>Dec</p>
+            <pb n="15" facs="0012_002568_000201_0135.jpg" xml:id="d4e4165"/>
+            <p>CASH ACCOUNT.-MARCH.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>Nov 1</p>
+            <note type="transcription">The following text has a scribble on top of it.</note>
+            <p>Dr Green Dr</p>
+            <p>To cash 40 00</p>
+            <p>Aug 22 1865</p>
+            <p>BBReed Cr</p>
+            <p>By work on levy up</p>
+            <p>to above date 5 days</p>
+            <note type="transcription">The preceding text has a scribble on top of it.</note>
+            <p>Dec, 22</p>
+            <note type="transcription">The following text has a scribble on top of it.</note>
+            <p>Dr J. Williams</p>
+            <p>Dr to cash 30 00</p>
+            <note type="transcription">The preceding text has a scribble on top of it.</note>
+            <p>Paid</p>
+            <pb n="16" facs="0012_002568_000201_0136.jpg" xml:id="d4e4202"/>
+            <p>CASH ACCOUNT.-APRIL.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>Date. J.B. McNeal my acct.</p>
+            <p>with J. Reed.</p>
+            <p>Debtor Credit</p>
+            <p>Sep &quot; Ca. By Fair to D 80</p>
+            <p>&quot; &quot; Dr To. Through Tick 20 60</p>
+            <p>&quot; &quot; Stem not given 75</p>
+            <p>&quot; By Fair to Niagra 75</p>
+            <p>&quot; &quot; Buss. at Buffalo. 50</p>
+            <p>&quot; &quot; Hotel at Cleav. 2 75</p>
+            <p>&quot; &quot; Buss hire 50</p>
+            <p>&quot; &quot; Ferry at Nigra 30</p>
+            <p>&quot; &quot; Hack &amp; S Bridge 1 25</p>
+            <p>&quot; &quot; Sleep. Car 88</p>
+            <p>&quot; &quot; Breakfast on Boat. 1 00</p>
+            <p>&quot; &quot; Supper 50</p>
+            <p>&quot; &quot; Express 75</p>
+            <p>&quot; To Fair at Bridge 25</p>
+            <p>&quot; &quot; Bill at cave 2 00</p>
+            <p>&quot; &quot; Sup. at Falls 60</p>
+            <p>&quot; &quot; Museum at Falls 50</p>
+            <p>&quot; &quot; Matric Fee 5 00</p>
+            <p>&quot; &quot; Hotel Bill 1 00</p>
+            <p>&quot; By Dissecting T 10.00</p>
+            <p>&quot; To. Washing 45</p>
+            <p>&quot; &quot; Light. Oil.   24</p>
+            <p>29.95 21 42</p>
+            <p>Balanced on other page.</p>
+            <note type="transcription">The following text was written sideways underneath the &quot;Rec&apos;d&quot; column.</note>
+            <p>Settled</p>
+            <note type="transcription">The preceding text was written sideways underneath the &quot;Rec&apos;d&quot; column.</note>
+            <pb n="17" facs="0012_002568_000201_0137.jpg" xml:id="d4e4270"/>
+            <p>CASH ACCOUNT.-MAY.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>Oct. 9 Mc Neal Dr</p>
+            <p>To Cash 20 00</p>
+            <p>&quot; 11 &quot; Oil 13</p>
+            <p>&quot; 14 &quot; Express Wagon 25</p>
+            <p>&quot; 24 By <unclear reason="illegible" resp="SS">Cash</unclear> 20 00</p>
+            <p>Nov. 24 &quot; 18 sheets 30</p>
+            <p>Dec 9 &quot; Bill to Wash W. 40</p>
+            <p>&quot; &quot; To Cash 30 00</p>
+            <p>Jan 2 By &quot; 30 00</p>
+            <p>&quot; 16 &quot; Paper      10</p>
+            <p>50 38 50 80</p>
+            <pb n="18" facs="0012_002568_000201_0138.jpg" xml:id="d4e4302"/>
+            <note type="transcription">The following text has red/brown tape on top of it.</note>
+            <p>CASH ACCOUNT.-JUNE.</p>
+            <note type="transcription">The preceding text has red/brown tape on top of it.</note>
+            <p>Date. Oct 14. 1865 Red&apos;c. Paid.</p>
+            <p>Began boarding at Mrs. Covley on the evening of Oct. 14th. 1865. at 700 per week.</p>
+            <p>Oct 23 To cash 10.00</p>
+            <p>Nov 6 &quot; &quot; 20 .00</p>
+            <p>&quot; 27 &quot; &quot; 20 .00</p>
+            <p>Dec. 26 &quot; &quot; 30 00</p>
+            <pb n="19" facs="0012_002568_000201_0139.jpg" xml:id="d4e4322"/>
+            <p>CASH ACCOUNT.-JULY.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <pb n="20" facs="0012_002568_000201_0140.jpg" xml:id="d4e4328"/>
+            <p>CASH ACCOUNT.-AUGUST.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>Debilitating influences</p>
+            <p>1 1 A want of proper nourishment</p>
+            <p>2 Impurity of air</p>
+            <p>4 Over exertion</p>
+            <p>5 A want of exertion. A proper amount of exercise is good</p>
+            <p>6 Heat &amp; Cold</p>
+            <p>7 Intemperence. This does not predispose to the prevailing diseases of the country. but it predisposed him to other diseases and to death 10 years of continual intemper -ence will kill any one</p>
+            <p>11 Grief, fear, Dispondency This kills many at the present time.</p>
+            <pb n="21" facs="0012_002568_000201_0141.jpg" xml:id="d4e4350"/>
+            <p>CASH ACCOUNT.-SEPTEMBER.</p>
+            <p>Date. III Rec&apos;d. Paid.</p>
+            <p>Predisposition to Disease</p>
+            <p>Disease predisposes to diease. Chills and fever</p>
+            <p>Hemmorage</p>
+            <p>Temperament</p>
+            <p>Age</p>
+            <p>Fits in children- they are predisposed to them from their age. Worrms and teeth <unclear reason="illegible" resp="SS">cutting</unclear> is not the predisposing cause</p>
+            <p>N. H Jones.</p>
+            <p>35 <unclear reason="illegible" resp="SS">Board</unclear> St.</p>
+            <pb n="22" facs="0012_002568_000201_0142.jpg" xml:id="d4e4379"/>
+            <p>CASH ACCOUNT.-OCTOBER. <unclear reason="illegible" resp="SS">Dinsen</unclear>
+            </p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>Wilson&apos;s Definitions of</p>
+            <p>A changed conditon of <unclear reason="illegible" resp="SS">fnnetion</unclear> or structure in one or more parts of the body.</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Bahilings Definitns</unclear>
+            </p>
+            <p>A changed condition of function is one or more parts of the body</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Amputation</unclear>
+            </p>
+            <p>exists but it cannot be demonstrated by physical science</p>
+            <p>Every man must be judged by his own standard of health</p>
+            <p>Therefore every one is the best judge of his or her health.</p>
+            <p>Predisposing <unclear reason="illegible" resp="SS">Caises</unclear> of <unclear reason="illegible" resp="SS">Du</unclear>
+            </p>
+            <p>1 Every thing that debilitat predisposes to disease</p>
+            <p>2 Excitement</p>
+            <pb n="23" facs="0012_002568_000201_0143.jpg" xml:id="d4e4420"/>
+            <p>CASH ACCOUNT.-NOVEMBER.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>3 Predisposition to disease</p>
+            <p>4 Present diease</p>
+            <p>5</p>
+            <p>6 Temperament</p>
+            <p>7 age</p>
+            <p>8 sex</p>
+            <p>9 Occupation 74 40</p>
+            <p>Ovecoat 25 00</p>
+            <p>Necktie 1 00</p>
+            <p>Collars 20</p>
+            <p>Collars 30</p>
+            <p>Collars 40</p>
+            <p>Hat 5 00</p>
+            <p>Shoes 4 00</p>
+            <p>Coat 22 00</p>
+            <p>Pants 10 00</p>
+            <p>Drawrs 3 50</p>
+            <p>Socks &amp; Gloves 2 50</p>
+            <p>Total 43.90</p>
+            <p>Books &amp; Stationery 30 <unclear reason="illegible" resp="SS">00</unclear>
+            </p>
+            <p>104 00</p>
+            <pb n="24" facs="0012_002568_000201_0144.jpg" xml:id="d4e4472"/>
+            <p>CASH ACCOUNT.-DECEMBER.</p>
+            <p>Date. Rec&apos;d. Paid.</p>
+            <p>Board at <unclear reason="illegible" resp="SS">Covleys 133 00</unclear>
+            </p>
+            <p>&quot; &quot; Parsons 27 00</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Tinhon</unclear> 105 00</p>
+            <p>Matriculation 500</p>
+            <p>Dissectins 10 00</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Grachiahny</unclear> 30 00</p>
+            <p>Presents 7 00</p>
+            <p>Postage 2 00</p>
+            <p>Fair St Cars 1 00</p>
+            <p>Theaters 1 00</p>
+            <p>Tobacco 2 00</p>
+            <p>Incidentals 5 00</p>
+            <p>Fair East 30 00</p>
+            <p>&quot; West 25 00</p>
+            <p>383 00</p>
+            <p>Books &amp; Clothing 104 00</p>
+            <p>487 00</p>
+            <pb n="25" facs="0012_002568_000201_0145.jpg" xml:id="d4e4519"/>
+            <p>CASH ACCOUNT.-SUMMARY.</p>
+            <p>Rec&apos;d. Paid.</p>
+            <p>JANUARY, A. Thoma &amp; Son</p>
+            <p>FEBRUARY, Wattles &amp; Rupp.</p>
+            <p>MARCH, M. Richie</p>
+            <p>APRIL, Ryan Wendell</p>
+            <p>MAY,</p>
+            <p>JUNE,</p>
+            <p>JULY,</p>
+            <p>AUGUST,</p>
+            <p>SEPTEMBER,</p>
+            <p>OCTOBER,</p>
+            <p>NOVEMBER,</p>
+            <p>DECEMBER.</p>
+            <pb n="26" facs="0012_002568_000201_0146.jpg" xml:id="d4e4550"/>
+            <p>Description of my watch</p>
+            <p>No. 15746</p>
+            <p>Maker. B. Laval</p>
+            <p>St <unclear reason="illegible" resp="SS">Jamier.</unclear>
+            </p>
+            <p>Largest size silver watch with silver cap, patent lever full jeweled, hunter cased case <unclear reason="illegible" resp="SS">flowred.</unclear>
+            </p>
+            <p>Property of</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Josi</unclear> Reed</p>
+            <p>
+               <unclear reason="illegible" resp="SS">lev. P. 94th</unclear> Reg</p>
+            <p>
+               <unclear reason="illegible" resp="SS">O.V.T.</unclear>
+            </p>
+            <p>Yellow Springs</p>
+            <p>In Care of <unclear reason="illegible" resp="SS">J.</unclear> A. Layton.</p>
+            <pb n="27" facs="0012_002568_000201_0147.jpg" xml:id="d4e4587"/>
+            <p>Dr . . .80</p>
+            <p>Cr . . 20.60</p>
+            <p>19 80</p>
+            <p>Dr . .  .75</p>
+            <p>19.05</p>
+            <p>Dr . . 50</p>
+            <p>2 75</p>
+            <p>_____________________</p>
+            <p>Flint 5.00</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Scanzom</unclear> 4.00</p>
+            <p>Slitter 8.00</p>
+            <p>Condie 3.00</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Dichonay</unclear> &amp; 1.00</p>
+            <p>Blank <unclear reason="illegible" resp="SS">Perl</unclear> 2.00</p>
+            <p>Stationery 3.00</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Surjing</unclear> 3.50</p>
+            <p>30 00</p>
+            <pb n="28" facs="0012_002568_000201_0148.jpg" xml:id="d4e4633"/>
+            <p>Dec, 30</p>
+            <p>Continued for Diary</p>
+            <p>Was ordered to inspect and load our guns. The reg. was then diverted into <unclear reason="illegible" resp="SS">seven per -mes. Com J,</unclear> contains 35 in all 7 non commissioned, 3 comissioned officers</p>
+            <p>___________________________</p>
+            <p>___________________________</p>
+            <p>Lincoln removed <unclear reason="illegible" resp="SS">Frem</unclear> because he was <unclear reason="illegible" resp="SS">ahea</unclear> of <unclear reason="illegible" resp="SS">hint</unclear>
+            </p>
+            <p>___________________________</p>
+            <p>Kentucky is the most contempt. <unclear reason="illegible" resp="SS">slc up star</unclear>
+            </p>
+            <note type="transcription">The following text was written on top of the previous paragraph.</note>
+            <p>10 1/3</p>
+            <p>2 1/5</p>
+            <p>5 5 15 <unclear reason="illegible" resp="SS">17 0 2 7 4</unclear>
+            </p>
+            <p>3</p>
+            <p>10.50</p>
+            <p>
+               <unclear reason="illegible" resp="SS">1 1 5</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">4 3</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">5</unclear>
+            </p>
+            <p>11.94</p>
+            <p>15</p>
+            <p>20</p>
+            <p>15</p>
+            <p>5 2</p>
+            <p>7 5</p>
+            <p>7 7</p>
+            <p>7 5</p>
+            <p>2 4</p>
+            <note type="transcription">The preceding text was written on top of the previous paragraph.</note>
+            <p>The Question shall be read at the next evening.</p>
+            <p>A definite time for <unclear reason="illegible" resp="SS">adjournment</unclear>
+            </p>
+            <pb n="29" facs="0012_002568_000201_0149.jpg" xml:id="d4e4715"/>
+            <p>7 - 14 A.M.</p>
+            <p>5 - 28 P.M.</p>
+            <p>87</p>
+            <p>Oct 14 - - 41</p>
+            <p>Nov 14 - - 31</p>
+            <p>Dec 14 - - 30</p>
+            <p>Jan 14 - - 31</p>
+            <p>Feb 14 - - 28</p>
+            <p>120</p>
+            <p>80</p>
+            <p>40</p>
+            <p>113 51</p>
+            <p>40</p>
+            <p>59</p>
+            <p>39</p>
+            <p>30</p>
+            <p>80</p>
+            <p>2880</p>
+            <p>1000</p>
+            <p>4880</p>
+            <p>
+               <unclear reason="illegible" resp="SS">J.W.</unclear> Legg</p>
+            <p>800</p>
+            <note type="transcription">The following text was written upside down on the bottom of the page.</note>
+            <p>The Druggists</p>
+            <p>General Receipt Book</p>
+            <p>By</p>
+            <p>Henry Beasley</p>
+            <note type="transcription">The preceding text was written upside down on the bottom of the page.</note>
+            <pb n="30" facs="0012_002568_000201_0150.jpg" xml:id="d4e4777"/>
+            <p>31</p>
+            <p>29</p>
+            <p>28</p>
+            <p>31</p>
+            <p>30</p>
+            <p>31</p>
+            <p>19</p>
+            <p>168</p>
+            <p>16) 138</p>
+            <p>7.69</p>
+            <p>9.25</p>
+            <p>2.75</p>
+            <p>5.25</p>
+            <p>24.94</p>
+            <p>1.80</p>
+            <p>26.74</p>
+            <p>47.33</p>
+            <p>5.00</p>
+            <p>52.33</p>
+            <p>26.75</p>
+            <p>25.58</p>
+            <p>28) 168 16</p>
+            <p>168</p>
+            <pb n="31" facs="0012_002568_000201_0151.jpg" xml:id="d4e4827"/>
+            <p>[Back Cover Recto]</p>
+            <p>Corrosive Sublimate</p>
+            <p>Red Precipitate</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Prot</unclear> Iodide <unclear reason="illegible" resp="SS">Meruse</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Ext Colony</unclear> with <unclear reason="illegible" resp="SS">Conh</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Potafs</unclear> Birate</p>
+            <p>
+               <unclear reason="illegible" resp="SS">Curb Gron</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Fel Exts Valeriun</unclear>
+            </p>
+            <p>
+               <unclear reason="illegible" resp="SS">Finct Digetattis</unclear>
+            </p>
+            <p>Soda Bicarb</p>
+            <p>Hyd. Cum Creta</p>
+            <pb n="32" facs="0012_002568_000201_0152.jpg" xml:id="d4e4865"/>
+            <p>[Back Cover Verso]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

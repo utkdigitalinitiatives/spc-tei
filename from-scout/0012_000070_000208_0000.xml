@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000208_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Thornburgh, J.M.</name>
+ in Huntsville, Ala. to O.P. Temple in Knoxville, Tenn. <date when="1864-08-10">1864 August 10</date>
+            </title>
+            <author>
+               <name type="person">Thornburgh, J.M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000208_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. M. Thornburgh in Huntsville, Ala., to O. P. Temple in Knoxville Tenn., 1864 August 10</title>
+               <date>1864-08-10</date>
+               <author>
+                  <name>Thornburgh, J.M.</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract"> Letter dated August 10, 1864, J.M. Thornburgh, Hdqts. 4 Div. Cav., Huntsville, Ala. writes to O.P. Temple in Knoxville, Tenn. saying that friends want him to be Atty. Gen. and Circuit judge. Includes names of loyal men; wants some men called to account before courts are organized. </note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Circuit courts -- Tennesee, East -- History -- Civil War, 1861-1865</term>
+               <term>Attorneys general  -- Tennesee, East -- History -- Civil War, 1861-1865</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865</term>
+               <term>United States -- History -- Civil War, 1861-1865</term>
+               <term>Thornburgh, J. M. (Jacob Montgomery), 1837-1890 -- Correspondence</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000070_000208_0001.jpg" xml:id="d3e154"/>
+            <p>HQ <unclear reason="illegible" resp="NW"> Mis</unclear> 4 Div Cav All</p>
+            <p>Huntsville All</p>
+            <p>Aug 10th 1864</p>
+            <p>Hon O.P. Temple</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <p>Sir</p>
+            <p>I have recently received several letters from friends at home, stating that there was a desire among some of the loyal men to see me occupying the place of Attor Genl in our circuit. Untill the courts are properly reestablished I prefer to remain in the army - nor would I be willing to resign until the end is soon. If it was not for a hurt I received by the fall of a horse, in a fight with Morgan in 62, which recently gives me some trouble - </p>
+            <p>Will you make some inquiry in regard to who the loyal men of that circuit is likely to have for circuit judge</p>
+            <pb n="2" facs="0012_000070_000208_0002.jpg" xml:id="d3e182"/>
+            <p>and will probably aspire to the Attor Gen&apos;l place? I am not very anxious to try to fill a place that I am so little prepared to fill properly Yet I would like to call those men who have murdered robbed, driven from home and insulted and oppressed our unprotected families; to account for some of their just actions - and to watch their future movements - Some of this must be done by us before the courts are established, while other cases ought be examined only by the courts - </p>
+            <p>Genl Gillem is on his way now with one brigade of E Ten Cav (Millers) to clean up <unclear reason="illegible" resp="NW"> Guerrillus 
+</unclear> (Confidential) I regret that I was not permitted to go - I am now in command of the 4th Cav Div but hope I will not have the responsibility long - Write me how things look for reorganizing the courts in our circuit.</p>
+            <p>I am very respectfully</p>
+            <p>Your civil Servant</p>
+            <p>J M Thornburgh</p>
+            <pb n="3" facs="0012_000070_000208_0003.jpg" xml:id="d3e201"/>
+            <p>Lt col J M Thornburgh</p>
+            <p>A Sept 9th 1864</p>
+         </div>
+      </body>
+   </text>
+</TEI>

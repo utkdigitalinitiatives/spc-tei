@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000214_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Jacob Astor &amp; Son</name>
+				                      in New York, N.Y. to James Latimer, Esq. in Philadelphia, Pa.,<date when="1822-01-04">1822 Jan. 4</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John Jacob Astor &amp; Son</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000214_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Jacob Astor &amp; Son in New York, N.Y. to James Latimer, Esq. in Philadelphia, Pa.,1822 Jan. 4</title>
+               <date when="1822-01-04">1822 Jan. 4</date>
+               <author>
+                  <name type="person">John Jacob Astor &amp; Son</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000214_0001.jpg" xml:id="d4e39"/>
+            <p>Jas Latimer Esq</p>
+            <p>Philadelphiae</p>
+            <note type="transcription">The following text is on the right margin of page one of the letter.</note>
+            <p>1822</p>
+            <p>John Jacob Astor Son</p>
+            <p>New York  Jany 4. 1822</p>
+            <pb n="2" facs="0012_002414_000214_0002.jpg" xml:id="d4e53"/>
+            <p>Jas Latimer Esqre   Newyork 4th January 1822</p>
+            <p>Philadelphia,</p>
+            <p>Dr Sir,</p>
+            <p>We have received your favor of 29 <unclear reason="illegible" resp="pw">Ulto</unclear> with some letters for Canton which we forward
+                                    <unclear reason="illegible" resp="pw">Mr.</unclear>Jby Astor to sail the 7th.</p>
+            <p>We are your</p>
+            <p>Most obdt. Servt.</p>
+            <p>John Jacob Astor &amp; Sone</p>
+            <p>PS We have just recd. yours of 2nd which will receive due attention   -  yrs as before</p>
+            <p>J J A  &amp;S</p>
+         </div>
+      </body>
+   </text>
+</TEI>

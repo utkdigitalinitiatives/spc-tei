@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000208_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Knoxville, Tenn., to Amos Gould in Owosso, Michigan,
+<date when="1865-11-01">
+1865 November 1
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000208_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Memphis, Tenn. to Amos Gould in Owosso, Mich., 1865 November 1</title>
+               <date>1865-11-01</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated November 1, 1865, from Henry Cherry in Memphis, Tenn. to Amos Gould, Cherry expresses happiness over rumors that they are to be mustered out today. Describes Jackson as &quot;a wealthy &amp; very beautiful place said to be the handsomest town in Tennessee. But the people are very different from those of E. Tennessee. They are proud, haughty, aristocratic, and are today as rebellious in spirit as they were four years ago.&quot; Also talks of post-war anger in both Jackson and Memphis. </note>
+               <note type="collection">The Henry Cherry Letters, 1865</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000208_0001.jpg" xml:id="d3e142"/>
+            <p>Memphis Nov 1st 1865.</p>
+            <p>Tuesday Morning</p>
+            <p>Hon</p>
+            <p>Amos Gould,</p>
+            <p>My Dear Sir,</p>
+            <p>Your letter dated Oct 20th came to hand yesterday having been quite diligent in its search after me as it was directed to Johnsonville whither it went by way of Nashville -- thence returned to Louisville-via Nashville-via Cairo-to Memphis</p>
+            <p>I was very glad indeed to hear from you &amp; am glad to be able to reply for only a week ago at Jackson a couple of soldiers came down street on a full run &amp; I turned a corner, lest some mischief might happen but the horses also turned &amp; one of them whirled &amp; dashed right over me in an instant, &amp; left me senseless. The Surgeons were soon there &amp; found me all right as no bones were broken save that probably one or two ribs are loosened.</p>
+            <p>We left Jacksonville on Thursday night &amp; arrived here on Friday PM at 3 Oclock.</p>
+            <pb n="2" facs="0012_000071_000208_0002.jpg" xml:id="d3e165"/>
+            <p>Since then we have been waiting for orders, &amp; rumor says this is the day for Mustering us out, but we must wait till the higher officials are ready, &amp; I presume it will be to day or to-morrow. Great anxiety is felt by both Officers &amp; men, &amp; many are impatient. I do not blame them, for they have waited long under most painful suspense. Now, we feel that we are soon to be citizens, for we are here under orders for Muster-out.</p>
+            <p>We were at Jacksonville about 5 weeks. It is a wealthy &amp; very beautiful place said to be the handsomest town in Tennessee. But the people are very different from those of E Tennessee. They are proud, haughty, Aristocratic, and are to day as rebellious in spirit as they were Four years ago. Bitterness of feeling exists to a degree which is really surprising, &amp; they seem to wonder why Daviss should have so failed, for there being no papers for them to read, they are yet as ignorant of the true state of affairs as though they had lived in Greenland. But they</p>
+            <pb n="3" facs="0012_000071_000208_0003.jpg" xml:id="d3e175"/>
+            <p>know the Confederacy has ended -- somehow; and they do not know on whom to spit their venom. When I went from Memphis to Jackson, I think I would come with the bounds of truth to say that I heard &quot;God damn the Nigger,&quot; &quot;God damn the Abolitionists&quot; -- &quot;God damn the Yankees,&quot; not less than 500 times, most scornfully &amp; bitterly repeated. Memphis too is a very determined rebel town, &amp; I think there will yet be very serious trouble, for they are inventing all sorts of ways to prove that &quot;the Nigger wont work unless he is made to work.&quot; They will prove it, and great disaster will follow. But I hope soon to see you, &amp; we will talk over these matters.</p>
+            <p>Yesterday was 6 months since we were paid and as we will be paid in Michigan soon I must ask you to do me the kindness to send immediately to my wife Twenty Five Dollars, for I know they have long been in great want &amp; I will pay you as soon as we are paid. I hear that Col Trowbridge has commenced business in Knoxville.</p>
+            <pb n="4" facs="0012_000071_000208_0004.jpg" xml:id="d3e185"/>
+            <p>I ought to have been at Kingston on the 1st of September, but I had no control over Uncle Sam.</p>
+            <p>Kindest regards to all.</p>
+            <p>As ever I am</p>
+            <p>Most truly Yours</p>
+            <p>Henry Cherry.</p>
+            <p>H Cherry</p>
+            <p>Nov 1 1865</p>
+         </div>
+      </body>
+   </text>
+</TEI>

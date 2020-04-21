@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000497_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. and M.B.C. Ramsey in Knoxville, Tenn.<date when="1882-05-11">1882 May 11</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000497_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn., 1882 May 11</title>
+               <date>1882-05-11</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 p.</extent>
+               <note type="abstract">1882 May 11 Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Expresses regret that Dr. Ramsey &apos;s infirmities prevent him from writing. Account of the last Historical Society meeting at which J.G.M. was named Honorary President and relieved of any taxing labors for the Society. Reports that several complimentary speeches were made about him. Mentions Judge Lea &apos;s illness and his great value to the Society. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Public officers -- Tennessee -- Biography.</term>
+               <term>Public officers --  Societies, etc. -- History -- 19th century.</term>
+               <term>History -- Societies, etc.</term>
+               <term>Tennessee -- Officials and employees, Honorary.</term>
+               <term>Tennessee --  History -- Societies, etc.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884.</term>
+               <term>Tennessee Historical Society -- Elections, 1882.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000497_0001.jpg" xml:id="d3e153"/>
+            <p>Mayor&apos;s Office</p>
+            <p>Nashville, Tenn.</p>
+            <p>Dr. or Mrs. J.G.M. Ramsey</p>
+            <p>Mecklenberg Place</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000497_0002.jpg" xml:id="d3e171"/>
+            <p>Anson Nelson,</p>
+            <p>City Treasurer.</p>
+            <p>Office of City Treasurer,</p>
+            <p>Nashville, May 11th, 1882</p>
+            <p>Dr J.G.M. Ramsey,</p>
+            <p>My Dear Sir:</p>
+            <p>I regret exceedingly your increased infirmities, by which you are unable to write. Your old friend Judge Lea has for three or four days, been quite sick, and could not attend our annual meeting on Tuesday afternoon. It was a good meeting, nevertheless, and well attended. I mail you today two or three papers, each of which has an account of the proceedings.</p>
+            <p>The members were very much averse to giving you up as President, and passed a resolution relieving you of all labor and responsibility, and although Gen. <unclear reason="illegible" resp="JR">Houston&apos;s</unclear> resolution does not say exactly what the Society meant, yet it does so sufficiently to contain the idea. They mean that you are not expected to write or labor for the Society,</p>
+            <pb n="3" facs="0012_000060_000497_0003.jpg" xml:id="d3e197"/>
+            <p>or do any thing save to be Honorary President. The General would have so worded the resolution, only that our bylaws do not provide for Honorary offices of any kind. His meaning was clearly expressed in a neat and elegant little speech made to the society, and which was highly complimentary to you. So did Col. <unclear reason="illegible" resp="JR">J. George Harn&apos;s, Hon. James, Dr. Porter Robt Thompson</unclear> and several others. It was gratifying to hear such laudatory remarks and it would make you blush were I to tell you all the nice things said about you. You will see Judge Lea&apos;s remarks printed in the proceedings. They are expressed in his usual elegant and elevated style. He deserves, and will <unclear reason="illegible" resp="JR">Greatly</unclear> receive the Gratitude of al the members of the Society for his constant and valuable services. No one, perhaps, more than the Recording Secretary, who is brought directly in contact with all that he does. All the old officers were re-elected.</p>
+            <p>I need not say how sincerely and fervently I wish your last days to be your best days, and how confident and certain I feel that, after life&apos;s toils are over, you will enter upon your home in Heaven. and that dear devoted wife of yours, whose watchful care of your <unclear reason="illegible" resp="JR">terrycoal</unclear> comforts, and your partner in spiritual comforts, will receive a nice reward from the hands of our Heavenly Father.</p>
+            <p>The Lord bless and preserve you both!</p>
+            <p>Yours, very sincerely,</p>
+            <p>Anson Nelson</p>
+            <pb n="4" facs="0012_000060_000497_0004.jpg" xml:id="d3e222"/>
+            <p>My Dear Mrs. Ramsey:</p>
+            <p>I was very glad to receive your last letter, but grieved to hear that the Doctor was unable to write. Mrs. Nelson has been sick for a week, a very unusual circumstance -- for she is in good health, ordinarily. She sends much love to you and the Doctor, and says that</p>
+            <pb n="5" facs="0012_000060_000497_0005.jpg" xml:id="d3e232"/>
+            <p>the copying she did was cheerfully done, and that she wishes she could do more to please either of you.</p>
+            <p>We would be glad to get a few lines from you, at any time, telling us of the Doctor&apos;s condition. We really want to know.</p>
+            <p>With sincere regards, I remain</p>
+            <p>Your friend</p>
+            <p>Anson Nelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

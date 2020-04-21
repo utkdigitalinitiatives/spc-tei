@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000359_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J.G.M. Ramsey</name> in Charleston, S.C., to M.B.C.
+Ramsey, in Mecklenburg, Tenn. <date when="1828-11-30">1828 November 30</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000359_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Charleston, S.C., to M.B.C. Ramsey in Mecklenburg, Tenn. 1828 Nov. 30</title>
+               <date>1828-11-30</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1828 Nov. 30, J.G.M. Ramsey, Charleston, S.C., to his wife, Mrs. Margaret B.C. Ramsey, Mecklenburg, near Knoxville, E. Tenn. Assures her of his love and longing for her (apparently, to ease doubts expressed in her last letter). Discusses services attended at Presbyterian and Baptist churches. Relates his chance meeting with Dr. Rutledge, a friend from Tennessee, and a tour of an insane asylum where he sees another acquaintance who is a patient.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Interpersonal relations -- Tennessee, East -- Psychological aspects -- History -- 19th century.</term>
+               <term>Church attendance -- South Carolina -- Charleston -- History -- 19th century.</term>
+               <term>Asylums -- South Carolina -- Charleston -- History -- 19th century.    </term>
+               <term>Charleston (S.C.) -- Social life and customs -- History -- 19th century.</term>
+               <term>Tennessee, East -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Ramsey, M. B. C. (Margaret Barton Crozier), 1802-1889 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000060_000359_0001.jpg" xml:id="d3e158"/>
+            <note type="transcription">The following text is a continuation from the bottom of this, the first page of the letter.</note>
+            <p>than a fourth of the time I expected to be absent from you is past - Write me how you are yourself - what
+kind of weather you have - here we have the appearances of spring - roses in bloom all through the
+gardens &amp; other vegetables growing - Tell the Col. I am not treating him right - but will write
+to him next - I could not rest till I would in some way atone to you for the <unclear reason="illegible" resp="bds">unruley &amp; unintentional <gap resp="Dyson-Smith"/> usioned</unclear>. Pardon me my dear for all I do or
+have done wrong &amp; believe <unclear reason="illegible" resp="bds">me</unclear> incapable when I am
+myself of giving you the least pain - Give the children all a kiss from me - I need not repeat what
+I have said about &amp; for them - The God of their Fathers <unclear reason="illegible" resp="bds">rather</unclear> bless them &amp; you. Most sincerely yours truly</p>
+            <p>J.G.M. Ramsey</p>
+            <p> - You wont of course let every body see these letters</p>
+            <note type="transcription">The preceding text is a continuation from the bottom of this, the first page of the letter.</note>
+            <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+            <p>are pretty good. Mrs. Day is a plain kind of a woman but ignorant of every thing out of town - but
+perhaps I shall stay here while I am in Charleston. - I am obliged to Dr. <unclear reason="illegible" resp="bds">Coffin</unclear> for his visit to you &amp; for his good offices towards myself - Tell
+Miss D. that I say she must stay with you till B.J.C. returns. May-be our neighbour Jack can prevail
+on her to stay near us longer - I wish you had said how long B.J. expected to stay in Nashville &amp;
+<unclear reason="illegible" resp="bds">ask</unclear> about her &amp; your Papa&apos;s family - every
+thing interests me so much that I wish you would be minute in your details - I thank you my dear a
+thousand times for your letters but you must recall the expression &quot;I feel very anxious since I find
+you are so&quot; I beg you to make yourself happy - I shall forbid I have already forbidden my self to
+think of the past or reflect upon the present - I only allow my self to think of what is future - especially
+that I shall meet you all in health &amp; prosperity in 70 or 80 days - It is pleasure to believe that
+more</p>
+            <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+            <p>Free</p>
+            <p>J.G.M. Ramsey P.M.</p>
+            <p>at Mecklenburg Tenn.</p>
+            <p>Mrs. Margaret B.C. Ramsey</p>
+            <p>Mecklenburg near Knoxville</p>
+            <p>E. Tennessee</p>
+            <pb n="2" facs="0012_000060_000359_0002.jpg" xml:id="d3e210"/>
+            <p>Charleston Nov. 30, Sunday Morning</p>
+            <p>My dear Wife</p>
+            <p>After the lectures yesterday I called in at the Post-Office - having little expectation however of
+receiving a letter from Tenn. (having rec. one from the Col. on Wednesday) but was <unclear reason="illegible" resp="bds">agreeably</unclear> disappointed indeed on opening it to find the name of my dear Margaret
+at the bottom. &amp; I hasten to make any atonement I can (if my letters of recent date have not done
+so) for some accidental expressions I must have made that have created any inquietude or uneasiness in
+your bosom. A person as susceptible as I am &amp; who relishes with so much zeal the purity of domestic
+<unclear reason="illegible" resp="bds">enjoyment</unclear> you are well aware could not leave home
+without feeling regrets - which would be heightened according to the length of his intended absence &amp; the
+cause &amp; object of it - These feelings I indulged in no further than I could not prevent &amp; I have
+<unclear reason="illegible" resp="bds">manifold</unclear> more resolution in resisting their influence
+than perhaps you will be disposed to grant me. I may I must have communicated some of them to you but
+you know an accidental expression is not always an <unclear reason="illegible" resp="bds">index</unclear>
+of a habitual state of mind - &amp; also how great an alleviation of any species of suffering is
+derived from the sympathy of others. Hence it is that in the relation of unpleasant feelings we lighten
+the burden on ourselves &amp; vice versa if we are indulging pleasurable sensations their zeal is much
+heightened by imparting them to others. - but this is too philosophical - When I left you I was leaving
+much - when I left our children the sacrifice was increased - every day I progressed on my journey I was
+getting further from you - when I left Mecklenburg N.C. I was leaving a people who had received not only
+their religious <unclear reason="illegible" resp="bds">privileged</unclear> &amp; advantages in a
+considerable degree from my ancestors but were also indebted to them for their civil institutions &amp;
+who of course felt not only as friends but as relations - Moreover you know from the nature of my
+pursuits how fully I was absorbed in business at home - my profession - my offices - my farm -
+<unclear reason="illegible" resp="bds">ferry - mules</unclear> - &amp;c &amp;c left no vacuum for
+ennui - but on leaving them all the engines of mind &amp; body were directed solely &amp; <unclear reason="illegible" resp="bds">exclusively</unclear> to my <unclear reason="illegible" resp="bds">trunk</unclear> - Not a single <unclear reason="illegible" resp="bds">journey</unclear>
+for a single day <unclear reason="illegible" resp="bds">varied</unclear> the scene (- except part of
+a day in <unclear reason="illegible" resp="bds">Wicks</unclear> when I had variety enough of another
+kind) by the way Have you even recd. a letter from <unclear reason="illegible" resp="bds">Wilksboro</unclear>
+relating my adventures in the Mountain?) - I have now got as far from you as I ever will be &amp; much
+further than I wish - I am becoming interested in the Lectures - &amp; begin to look forward to
+the time of my joyful return to you in Feby &amp; hope to be able hereafter to overcome even better
+than heretofore any home-sickness I may have &amp; I shall I think pass my time off tolerably
+pleasantly - while I continue to hear that you are well - be sure to write every Wednesday &amp; to
+be very particular even minute in every</p>
+            <pb n="3" facs="0012_000060_000359_0003.jpg" xml:id="d3e260"/>
+            <p>thing that directly or indirectly affects you - us - ours. You tell me to write particularly about my
+health - I will do so - but I expect you also to communicate with great particularity your own state of
+health - your feelings - &amp; every thing which you know interests me. Especially if you wish me to be at
+home 15th of January - What is thy request queen Esther? &amp; it shall be granted to the content of my
+whole kingdom. My self - my all - are yours exclusively &amp; entirely yours. The church bells are ringing
+&amp; I will defer till after sermon the rest of my letter - Sunday night. - My old land-lady sent me up
+word this morning that if I intend to go to a Baptist Church she would be glad to furnish me a seat. I
+accordingly accepted the invitation &amp; attended the only Baptist Church in town - Mr. <unclear reason="illegible" resp="bds">Ludlow</unclear> preached - Is Christ divided? was the <unclear reason="illegible" resp="bds">text</unclear> &amp; his subject of course the Unity of Christ. He took occasion to mention
+that the belief of this fundamental essential &amp; important doctrine was required of all persons before
+Baptism could be administered. He was ingenuous but the last sermon you &amp; I heard together at Lebanon
+had fixed my belief on that subject &amp; I remain unmoved. Tell Mr. <unclear reason="illegible" resp="bds">Eagleton</unclear> that I heard his doctrine assaulted but that I believe he could have
+refuted the reasoning brought against it. In the afternoon having the whole City to select from I went
+to hear Mr. Bruce in the Scotch Church (2nd Presbyterian Church of Charleston) Presbyterianism in Scotland
+you know I consider the Christian Church &amp; you will of course not feel surprised at my selection. The
+grave &amp; solemn manner of their preacher - the <unclear reason="illegible" resp="bds">catholocism</unclear>
+of his doctrines - his evangelical piety - the fervor of his prayers - the attentive &amp; 
+<unclear reason="illegible" resp="bds">prayerful</unclear> countenances of his <unclear reason="illegible" resp="bds">auditory</unclear> - the old tunes the choristers sing &amp; their <unclear reason="illegible" resp="bds">inimmitable</unclear> antique demeanor during service are just
+what you would expect &amp; wish to see. (This is no complyment I mean it is a true one) for you are
+not one that likes fashion in religion - ) Before their service commenced I strolled alone through
+their Church Yard - It is one of the oldest in the U.S. &amp; every tomb stone almost says &quot;here
+lies &amp;c from shire in Scotland.&quot; I expect after my curiosity is satisfied hearing other preachers
+I shall become a <unclear reason="illegible" resp="bds">slated</unclear> hearer pro-tem - of Mr. Bruce.
+Listen to his text in this fashionable city &amp; you will know some-thing of the man &amp; his
+congregation - &quot;Yield yourself wholly &amp; acceptable to God which is your reasonable service&quot;. This
+is as near as I can recollect it &amp; I believe I am not far wrong. - I shall never again condemn the
+practice of rising to sing the last verse of a hymn as <unclear reason="illegible" resp="bds">methodistical</unclear>
+inasmuch as these old Blue-Stockings practice it. I have no doubt the oldest Bruce that ever preached
+in the oldest shire in Scotland <unclear reason="illegible" resp="bds">done</unclear> the same. Tell the
+Col. &amp; Mr. <unclear reason="illegible" resp="bds">McNeil</unclear> to have this matter attended
+to in our old Scotch-Church - Perhaps Paul himself done so. - Service is holden this evening by Mr.
+<unclear reason="illegible" resp="bds">Capers</unclear> a very eloquent divine at Trinity Church but
+as I can hear him again &amp; as I have an opportunity of an epistolary conversation with my dear M.
+&amp; as I have a little sore throat I concluded not to go out - Before dismissing this subject I will
+just observe in general that this town is much more quiet &amp; orderly on Sunday than I had expected
+to find it - Indeed there is very little noise &amp; no disorder - The <unclear reason="illegible" resp="bds">sacerdotal</unclear> dress confined in other places to the episcopalians &amp; Papists
+is here worn by the clergy of all denominations. Even my old Scottish Bruce had on his gown &amp; his
+square <unclear reason="illegible" resp="bds">creval</unclear> - He has no doubt his authority for
+it - </p>
+            <pb n="4" facs="0012_000060_000359_0004.jpg" xml:id="d3e312"/>
+            <p>I have heard that Mr. Palmer to whom I have letters from my good friend Mr. Foster preaches in
+town - I recd. also letters in N.C. to Dr. McDowell another clergyman of distinction here. These
+gentlemen I have not yet found leisure to call upon - nor have I yet called upon my friend Dr.
+<unclear reason="illegible" resp="bds">Rutledge</unclear> but yesterday evening as I stepped
+off the exchange with you letter in my hand coming to my room to read it (for no one reads here
+in the street - ) I heard a well known &amp; recognized voice say Doctor Ramsey &amp; before
+I saw the countenance my hand was embraced cordially very cordially by <unclear reason="illegible" resp="bds">Mr.</unclear> Rutledge cold &amp; phlegmatic as he seems to be in Tennessee. I
+am very glad to see you in town - how did you leave your family? I shewed the letter I had
+just then received I hope he continued you will receive good news from home. Did you receive a
+letter &amp; bundle from me in the summer. On my replying in the negative he expressed much
+regret - he had recd my letter &amp; replyed to it by Mr. Roper who promised to deliver it
+&amp; also <unclear reason="illegible" resp="bds">among</unclear> other things <gap resp="Dyson-Smith"/> this is
+a complyment worth receiving - common periodicals he never reads &amp; to suppose I
+<unclear reason="illegible" resp="bds">had similar</unclear> taste is no trifling eulogism)
+Where have you <unclear reason="illegible" resp="bds">stopped</unclear> I told him my number - 
+He is according to his own appointment &amp; invitation (is this S.C. etiquette?) to call at
+my room tomorrow afternoon at 5 Oclock - where I will indeed by very glad to see him - He
+is not like some people good to promise &amp; always forgetful of his promise - Without an
+enquiry from me on the subject he told me he would send me down his medical Books tomorrow
+&amp; would take pleasure in introducing me to several societies in the City - I will only
+have to look grave - affect familiarity with their proceedings &amp;c &amp;c - &amp; get
+along as well as I can - You know I have various <gap resp="Dyson-Smith"/> as in emergencies - If the articles
+he sent arrive - take good care of the <gap resp="Dyson-Smith"/> inform me what they are &amp;c &amp; the
+contents of his letter.</p>
+            <p>Speaking of this acquaintance reminds me of another I saw yesterday &amp; when you get
+leisure you can make a <unclear reason="illegible" resp="bds">tragedy</unclear> out of
+it - In visiting the Hospital &amp; Alms-house yesterday I ascended <unclear reason="illegible" resp="bds">upstairs</unclear>
+               <gap resp="Dyson-Smith"/> passage fronting the wards for lunatics &amp; insane
+people. In <unclear reason="illegible" resp="bds">looking through</unclear> the grates that
+seperate them from the rational world I saw setting in a window with his face averted partly
+from me a person whom I thought I knew I called out involuntarily (it is contrary to the rules
+of the Institution to speak to the insane) or instinctively <unclear reason="illegible" resp="bds">Kincaid</unclear> - <unclear reason="illegible" resp="bds">Heh</unclear> he
+quickly replied &amp; without knowing who called him came <unclear reason="illegible" resp="bds">to <gap resp="Dyson-Smith"/> grating</unclear> - Do you know me Kincaid - He reached his finger
+through to me <gap resp="Dyson-Smith"/> why Ramsey - &amp; then <gap resp="Dyson-Smith"/>
+               <unclear reason="illegible" resp="bds">convulsively</unclear> from us walked down to seat again in the
+window - whistling &amp; laughing as he went - I afterwards got the keeper to let me into
+his ward - &amp; I asked him how he was - nothing is the matter with me Ramsey - I am
+very well - &amp; quickly absented himself again - I shall enquire more about him - There
+are many insane persons here - You recollect D.D. Ramsey was killed by a lunatic from
+this hospital - But my sheet admonishes me to leave this medley of subjects &amp; come
+home to home things a little - My general health is not worse than when you saw me - I
+have no cough no spitting - no <unclear reason="illegible" resp="bds">heater</unclear> - my
+appetite is tolerably good - &amp; my strength greater than when I left home - I have
+while I write some pain in my shoulder &amp; breast but it generally disappears on
+motion - I intend to exercise sufficiently - &amp; not to read too much - My boarding
+is tolerably good - My nerves however will not be destroyed by strong coffee or heavy
+suppers - perhaps this is well for me - The Col. can tell you that their dinners</p>
+         </div>
+      </body>
+   </text>
+</TEI>

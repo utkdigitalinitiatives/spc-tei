@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000525_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mary E. Huger</name>
+ in Sewanee, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-04-27">1884 Apr. 27</date>
+            </title>
+            <author>
+               <name type="person">Huger, Mary Esther, 1820-1898</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000525_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mary E. Huger in Sewanee, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 Apr. 27</title>
+               <date>1884-04-27</date>
+               <author>
+                  <name>Huger, Mary Esther, 1820-1898</name>
+               </author>
+               <extent>5 digital images; 5 digital images; 5 pages</extent>
+               <note type="abstract">1884 Apr. 27 Mary E. Huger, Sewanee, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Sympathizes with M.B.C. in the death of J.G.M. and points out her good fortune in having him for a husband. News of her plans for the future, her children, and the growing university at Sewanee.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Relations, Interpersonal -- History -- 19th century.</term>
+               <term>Character -- History -- 19th century.</term>
+               <term>Tennessee -- Social aspects -- 19th century.</term>
+               <term>Tennessee -- Social aspects -- 19th century.</term>
+               <term>Ramsey family</term>
+               <term>Ramsey, M.B.C. (Margaret Barton Crozier), 1802-1889 -- Correspondence.</term>
+               <term>Southern States -- History -- 1865-1951.</term>
+               <term>Adoration</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000525_0001.jpg" xml:id="d3e155"/>
+            <p>Mrs J G M Ramsey</p>
+            <p>East Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000525_0002.jpg" xml:id="d3e167"/>
+            <p>Sewanee - April 27th</p>
+            <p>Dear Mrs Ramsey. I have been feeling very poorly since my returns here, or you would have heard from me before this. Frank sent me the Knoxville paper with the very interesting Sketch of the life &amp; works of one whom you may well be proud of calling your husband. But though I have admired his public career &amp; virtue, what has touched me most in my intercourse with the Dr., was his goodness, his pure honest heart, &amp; simple tenderness -. As you have had no other experience of the life of a wife, you can hardly know, it seems to me, what a blessing you have had in the constant</p>
+            <pb n="3" facs="0012_000060_000525_0003.jpg" xml:id="d3e177"/>
+            <p>affection &amp; respectful attention of such a man. I am very glad to have known him, indeed both of you have formed a very beautiful episode in my life in Knoxville, &amp; I hope we shall meet again, &amp; talk over the past together.</p>
+            <p>I found my daughter &amp; her little family quite well &amp; very happy to have us all again under her roof - My youngest daughter met me at Chattanooga so we are quite a large family circle, &amp; I shall not move over to my own little home for some time yet - as the two other daughters, will not return from <unclear reason="illegible" resp="JR">Thilia</unclear> until June. they are both taking lessons to enable them to support themselves - One doing very well painting, &amp; the other is learning <unclear reason="illegible" resp="JR">tence</unclear> of the </p>
+            <pb n="4" facs="0012_000060_000525_0004.jpg" xml:id="d3e193"/>
+            <p>Decoration Art, now so much the fashion.</p>
+            <p>I have scarcely been out since I came, the weather has been so inclement, &amp; I have not felt strong, but I hear the University has begun with several more pupils than usual, &amp; then for the first time there is to be a hotel to be opened on the 1st of June. the same house that Mrs. French rented here, has been bought by a Company of University Gentlemen, has been largely added to &amp; made entirely new &amp; commodious - another large building across the street fitted up for boarders, &amp; the two houses can accommodate 100 people. A good man is engaged to keep the house, &amp; the gentleman who is to supervise affairs says he is determined it shall be a success. This has already made property more desirable here &amp; there has been quite a demand for houses.</p>
+            <pb n="5" facs="0012_000060_000525_0005.jpg" xml:id="d3e203"/>
+            <p>I hope you keep well, &amp; for your childrens sake cheerful, though all the house hold must feel their occupation has gone. When I was at your house I thought how comfortable &amp; cared for the good Dr was, having his devoted family to watch over &amp; care for him, &amp; I could pray my end might be like his - Give my kind love to your daughter &amp; believe me affec </p>
+            <p>Yours Mary E. Hughes.</p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000182_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Allen J. Clifton</name>
+ in Knoxville, Tenn., to his mother<date when="1864-02-20">1864 Feb. 20</date>
+            </title>
+            <author>
+               <name type="person">Clifton, Allen J., 1843-1931</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000182_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Allen J. Clifton in Knoxville, Tenn. to his mother, 1864 Feb. 20</title>
+               <date>1864-02-20</date>
+               <author>
+                  <name>Clifton, Allen J., 1843-1931</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">In this letter to his mother (written near Knoxville, Tennessee), Allen J. Clifton reported on his unit&apos;s position and supplies, described the weather, mentioned that he was in good health, inquired about the health and doings of family members and friends, and asked for some postage stamps. He also asked about the &quot;returned veterans&quot; and solicited his mother&apos;s opinion of his decision not to re-enlist. He mentioned some of the soldiers had received news that people didn&apos;t think much of them. His messmate was with him and also had not re-enlisted.</note>
+               <note type="collection">Allen J. Clifton Letter</note>
+               <note type="manuscript">MS.2964</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers--Confederate States of America--Public opinion.</term>
+               <term>Soldiers--Tennessee--Correspondence.</term>
+               <term>Tennessee--History--Civil War, 1861-1865--Personal narratives, Confederate.</term>
+               <term>Knoxville (Tenn.)--History.</term>
+               <term>Clifton, Allen J., 1843-1931--Correspondence.</term>
+               <term>United States. Army. New Hampshire Infantry Regiment, 11th (1862-1865). </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000182_000200_0001.jpg" xml:id="d3e155"/>
+            <p>Knoxville Tenn</p>
+            <p>Febyr 20th 1864</p>
+            <p>Dear Mother</p>
+            <p>I wrote you a letter some time ago and have not yet received an answer to it, although I am impatiently looking for it. We are <unclear reason="illegible" resp="JCM">encamped</unclear> about a mile from Knoxville &amp; have enough to eat &amp; good clothe Tell me about the returned Veterans &amp; send me an express with an account of them. The weather is pretty cold at present, we had a little snow the other day just before that we had warm weather What do you think on my not reenlisting. some of the boys have received letters &amp; they say that some people dont think much of us. I dont care what they think I want your opinion. When did you hear from Andrew last did he reenlist. There is nothing of importance going on here once in a while we manage to move a mile or so. so you see letter writing is quite a job. I dreamt the other night that Alise was very sick but the saying is to always take dreams <unclear reason="illegible" resp="JCM">contrary</unclear> I am quite well and in good <unclear reason="illegible" resp="JCM">spirits</unclear> and I hope</p>
+            <pb n="2" facs="0012_000182_000200_0002.jpg" xml:id="d3e178"/>
+            <p>that you are all the same. This is a very short letter but for the life of me I cant think of anything, well no wonder here I set in front of smoking fire almost smokes a fellows eyes out. This is the second letter that I wrote to you this morning the other one just as I got it finished I <unclear reason="illegible" resp="JCM">spoiled</unclear> it by a big blot so that you could not read half of it all on account of the smoke. I&apos;ll get a letter <unclear reason="illegible" resp="JCM">yet</unclear> all if I dont or a kind of a one send me a few Postage stamps I have paper and Envelopes</p>
+            <p>How is John progressing.</p>
+            <p>And I suppose Lily in the meantime has learned some new songs pop goes the weasel <unclear reason="illegible" resp="JCM">fe</unclear>
+            </p>
+            <p>Dont Mary want a new veil well if she does tell her to wait till I get home I will buy her two.</p>
+            <p>we have some <unclear reason="illegible" resp="JCM">green</unclear> cooking here. we draw flour and have no bakeing soda so we take ashes &amp;make lye Jerusalem you aught to our bread <unclear reason="illegible" resp="JCM">raise,</unclear> we put a loaf about as thick</p>
+            <pb n="3" facs="0012_000182_000200_0003.jpg" xml:id="d3e208"/>
+            <p>as a 3 cent piece in our dutch oven an it raised the lid completely off. baking soad is $2 a pound corn meal 15 cts a quart. butter $1 pound. Potatoes $3bush Fresh fish 35 cts pound <unclear reason="illegible" resp="JCM">fe</unclear> to the end of the chapter as Parson <unclear reason="illegible" resp="JCM">Bronlow</unclear> says.</p>
+            <p>send me a body of good <unclear reason="illegible" resp="JCM">Qills</unclear>
+            </p>
+            <p>My old messmate William Smith is with me &amp; has not reenlisted he sends his best respects</p>
+            <p>Give my love to all</p>
+            <p>Allen J. Clifton</p>
+            <p>Company H.11th N.H.V.</p>
+            <p>2hd Brig. 2nd Div 9th A.C.</p>
+            <p>Knoxville Tenn</p>
+         </div>
+      </body>
+   </text>
+</TEI>

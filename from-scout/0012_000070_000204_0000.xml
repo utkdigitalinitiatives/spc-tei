@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name> Fletcher, A.J.</name>
+ in Evansville, Ind., to O.P. Temple in Knoxville, Tenn. <date when="1864-06-18">1864 June 18</date>
+            </title>
+            <author>
+               <name type="person">Fletcher, A.J.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000204_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, A. J. Fletcher in Evansville, Ind., to O. P. Temple in Knoxville Tenn., 1864 June 18</title>
+               <date>1864-06-18</date>
+               <author>
+                  <name>Fletcher, A.J.</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">Letter June 18, 1864 A. J. Fletcher in Evansville, Ind. writes to O.P. Temple in Knoxville, Tenn. debating whether to return to East Tenn. or to stay in Indiana. Also discusses Copperhead movement in southern Indiana, and his distrust for McClellan and Democrats.</note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Copperhead movement -- Civil War, 1861-1865</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865 </term>
+               <term>Indiana -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence</term>
+               <term>Fletcher, A. J. (Andrew J.) 1820-1870 -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000070_000204_0001.jpg" xml:id="d3e155"/>
+            <p>Evansville Indiana</p>
+            <p>June 18. 1864.</p>
+            <p>Dear Temple,</p>
+            <p>Your esteemed favor of the 4th was received day before yesterday. You can hardly imagine how I enjoy, in my present isolated condition, a letter from an old friend. Yours I assure was absolutely invaluable. -Precious. </p>
+            <p>It would be asking to much to ask you to write often but I will be selfish enough to beg you to write again.</p>
+            <p>I am positively on a stand and undecided whether to locate here or to hold myself in readiness to return to our native land at the earliest day practicable. I love East Tennessee, and weep over her sufferings -suffered long with her people and still sympathise in heart with them. Still I feel it a duty, that the loyal children of the state owe her to stand by her in her distracted condition, and to aid in bringing law and order out of the chaos that reigns. Yet I see around me such evidence of universal prosperity and a contentment and safety, in such contrast with affairs of my home, and with that I feel so much the sense of personal safety that I confess I am almost tempted to think no more of my native hills. </p>
+            <pb n="2" facs="0012_000070_000204_0002.jpg" xml:id="d3e173"/>
+            <p>Here, I fear no more the advance or the retreat - the brutal soldery or the assasin, walk the streets all hours without arms and lie down at night and sleep soundly - none to make me afraid. - Then there is something really fascinating about this great Northwest - the great giant power which is destined to control this continent. And this young and heretofore unknown city is a delightful place, - Twenty years since a mere landing - Twelve years ago a small village now it has its 18,000 inhabitants - its one hundred manufacturing establishments - Its 40 wholesale houses - its four banks Its Rail road and its canal to the lakes while &quot;La Belle Reviere&quot; of the French washes its wharfs with its 8 or 10 fine steamers daily at its landings. Peopled mainly by the busy and untiring Yankee and the
+laborious and honest German. As city clerk I know officially that there is but one single &quot;poor person&quot; drawing bounty from the city and but few from the county! There is not a regular house of ill-fame and scarcely a gaming house in the place. You will be surprised to learn that a complete classical education is given here in the free schools without a cents cost! Such is the fact - the tax payers glory in sustaining the schools and have 2200 children at school.</p>
+            <pb n="3" facs="0012_000070_000204_0003.jpg" xml:id="d3e181"/>
+            <p>There are some drawbacks to be sure. The Copperhead element in Southern Indiana is actually in the majority. They are rebels at heart and more to be detested than rebels; but they must go down - and will be put down before long.</p>
+            <p>Let me tell you briefly what this party is. It is nothing but our old foe, the Democracy (or rather what is left of it - So much chagrined at losing the spoils of office as to become desperate and prefer the fall of the union to the success of any other party. This is all of it.</p>
+            <p>They differ widely (as of old) on every subject but one - that is power. Peace democrats - War democrats - Kentucky Union men and downright rebels can unite on any man or any platform for the sake of victory. They will nominate McClellan a man without politics having but one idea (the endoresement of his military career by the people) and all will unite upon him. They know if the present campaign is a success the President will be re-elected and as their only hope of success is in the failure of the government, they now pray for the defeat of Grant &amp; Sherman. Such is the Democratic Party of 1864. - God forbid that any friend of mine should ever should ever identify himself, unwillingly ever, with this party. There are but two parties on this continent - The</p>
+            <pb n="4" facs="0012_000070_000204_0004.jpg" xml:id="d3e193"/>
+            <p>one seeking to destroy and the other to save. Jeff Davis is ex-officio the head of the one, and Lincoln of the other. There is but one single issue. There is no middle ground. It is possible from the very nature of man to support an opponent of the Administration without desiring the defeat of its armies as the only hope of success to the opposing party. Look at Fremont, a major General an ultra anti slavery man. In his his letter of acceptance there is not one word in favor of a rigorous prosecution of the war. Even he does not desire the success of our armies because that will elect Lincoln. Neither will MClellan neither will the supporters of Mclellan</p>
+            <p>I make these strong remarks not because I think you or any other friend of mine will be betrayed into a position of opposition to the Union candidate - But because of earnest convictions of my heart. In deed I am alarmed at the prospect of organizing a great party who must and will desire the defeat of our armies.</p>
+            <p>Will you do me the favor to remember me kindly to Mrs. T. and also to Col. Baxter and to Dr. Brownlow, Fleming and Col. Heiskell &amp; Col. Sam Rogers and other friends. </p>
+            <p>Write to me the current events and personal incedents of the Country. </p>
+            <p>Truly</p>
+            <p>A. J Fletcher</p>
+            <p>Col. OP. Temple</p>
+            <p>Knoxville Ten</p>
+         </div>
+      </body>
+   </text>
+</TEI>

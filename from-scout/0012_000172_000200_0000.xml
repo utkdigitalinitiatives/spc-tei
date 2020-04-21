@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000172_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Albert Woodcock</name>
+ in Franklin, Tenn., to Leute, <date when="1863-05-06">1863 May 06</date>
+            </title>
+            <author>
+               <name type="person">Woodcock, Albert</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000172_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Captain Albert Woodcock in Franklin, Tenn. to Leute in Place Unknown, 1863, May 6</title>
+               <date>1863-05-06</date>
+               <author>
+                  <name>Woodcock, Albert</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">Capt. Albert Woodcock of the 92nd Illinois who was stationed in Franklin, Tenn. wrote to his wife, Lucy (Lute), on May 6, 1863. He spoke about fatigue and the miserably cold weather. One division had moved out to attack the enemy at Spring Hill. He figured his unit would be sent out before night as a reinforcement. He reminded her to send the Capt. some articles. He hadn&apos;t received letters from her everyday so wondered if she was writing daily. He figured everybody at home was busy. He asked about the family. He felt bad that she was alone rearing the children, but told her he knew she could do it well. He told her his company was healthy and working hard and about the daily happenings at camp. He drew a small diagram of his position.</note>
+               <note type="collection">Albert Woodcock Letter, 1863, May 6</note>
+               <note type="manuscript">MS.2792</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Illinois -- Correspondence.</term>
+               <term>Franklin, Battle of, Franklin, Tenn., 1864.</term>
+               <term>Families of military personnel -- Illinois.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Woodcock, Albert -- Correspondence.</term>
+               <term>Woodcock, Lucy -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000172_000200_0001.jpg" xml:id="d3e159"/>
+            <p>150</p>
+            <p>
+               <unclear reason="illegible" resp="NW">Our</unclear> Camp at Franklin Tenn</p>
+            <p>May 6th <unclear reason="illegible" resp="NW">R.</unclear>D. 1863</p>
+            <p>Dearest Leute,</p>
+            <p>I have just finished a letter to brother &amp; sister Noble. You say I must not neglect you for friends. I will endeavor not to. We were out yesterday <unclear reason="illegible" resp="NW">an</unclear> fatigue falliing the The air this morning is very <unclear reason="illegible" resp="NW">diclly</unclear> &amp; a cold rain is drizzling down. Gen. Gilberts division consisting of 6 Regts moved out to day probably to attack the enemy at Spring Hill. I should not be at all surprised if we should be ordered out before night to reinforce them. Capt. Smith is now at home. I have solid comforts &amp; happiness in my tent when I think how nicely the <unclear reason="illegible" resp="NW">Capt </unclear> is enjoying himself. I do hope he will improve in health Lieut Light is in command of the company. The company are getting along finely. I took breakfast at the Caps table yesterday morning; but I should have enjoyed it better had he been present. Dont forget to send <unclear reason="illegible" resp="NW">by</unclear> the Capt. the articles I requested. I hope John has got the money I sent I begin to feel uneasy. I <unclear reason="illegible" resp="NW">juck </unclear>no letter from you for the past two days, I wonder if you write every day. Well how do things <unclear reason="illegible" resp="NW">move</unclear> off at dear old home? I suppose John and Henry are as busy as ever in the Office; you as busy as ever at the sewing machine or caring for the little boys.</p>
+            <pb n="2" facs="0012_000172_000200_0002.jpg" xml:id="d3e199"/>
+            <p>How are the children getting along? I could not but notice when at home that Berty had grown somewhat <unclear reason="illegible" resp="NW">rune dgish </unclear>. Those little boys need great <unclear reason="illegible" resp="NW">attention</unclear>. I sympathise with you dearest <unclear reason="illegible" resp="NW">One</unclear>. Dont <unclear reason="illegible" resp="NW">jail</unclear> to make them mind when you &amp; sp <gap resp="Williams"/> to them just once. I need not give you advice in this; you doubtless think it is easier to preach than to practise; but I feel a great anxiety for the children though I should not for they are in your wise care. Col Sheets is well. Boys that ar <gap resp="Williams"/> with <unclear reason="illegible" resp="NW">I</unclear> me getting along well. We are still working like ants at our fortifications Th <gap resp="Williams"/> following is a rough diagram of our position to <gap resp="Williams"/>
+            </p>
+            <p>From the above you will get a fai<gap resp="Williams"/> I did of our situation. It is time for the scribbling to go into mail. My love to all. Tell Ca<gap resp="Williams"/> Smith I can take down anything in Co. B &amp; when he <gap resp="Williams"/> back I shall roll him in the <unclear reason="illegible" resp="NW">nust.</unclear>Kiss my boys fo<gap resp="Williams"/> me. I embrace you</p>
+            <p>Good Bye</p>
+            <p>Albert Woodcock</p>
+            <p>Cat., Co., 92nd Illinois</p>
+         </div>
+      </body>
+   </text>
+</TEI>

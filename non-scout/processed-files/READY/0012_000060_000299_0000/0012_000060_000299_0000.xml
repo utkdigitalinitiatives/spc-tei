@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000299_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Daniel Breck</name>
+				                in St. Paul, Territory of Minnesota, to J.G.M. Ramsey in Mecklenburg, Tenn., <date when="1851-10-26">1851 October 26</date>
+            </title>
+        <author>
+          <name type="person">Breck, Daniel</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000299_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Daniel Breck in St. Paul, Territory of Minnesota, to J.G.M. Ramsey in Mecklenburg, Tenn., 1851 October 26</title>
+          <date when="1851-10-26">1851 October 26</date>
+          <author>
+            <name type="person">Daniel Breck</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1851</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000299_0001.jpg" xml:id="d4e44"/>
+        <p>St Paul Oct 26th 1851</p>
+        <p>Dear Doctor</p>
+        <p>We are all disposed to believe that our fathers are the wisest persons in the world and I dont believe my father ever gave me better or wiser advice than when he told me "never to rise to make a speech unless I had something worth saying and always to sit down when I got through."  If this principle will apply to writing as well as speaking then I have some neat apology for my long silence  It is true I could have written to you about our daily pursuits; my negligence has bene fully and better supplied by Lizzie's more interesting letters I could have written to you descriptions of the country; this has been supplied by abler pens.</p>
+        <p>All that I can do now is to give you my judgment as to the prospects of Minnesota generally and my prospects in particular.  The newspapers which Lizzie and myself occasionally send you reveal the position of politicks and politicians of the Territory.</p>
+        <p>I have not been disappointed in my expectations</p>
+        <pb n="2" facs="0012_000060_000299_0002.jpg" xml:id="d4e56"/>
+        <p>of the country in any respect.  Its resources as I have seen them developed in the products of the soil during the <unclear reason="Illegible" resp="JH">sum</unclear> and fall are far greater than I had been led to believe.  I have seen corn growing which measured fourteen feet, the yield in oats and wheat is great and the growth of potatoes and every other vegetable is beyond all credibility to one who has never visited this country.  It is no uncommon thing to see many acres of potatoes together which yielded over four hundred bushels of potatotes to the acre  Before I came here for five years I have not eat one doesend potatoes; but I have here become fond of them.  The flavour is much finer than the southern and the potatoe sells for 15 &amp; 20 cents more per bushel in St Louis than any other potatoe.  We have grown the beet which measured two feet three inches in circumfrence &amp; the turnip and onion is out of all bounds of belief unless seen I have seen none of that soil such as we have in Ky &amp; Ten. which will yield nothing.  It is only about one acre in five thousand which is not capable of being cultivated and growing grain and vegetables.  The entire country is covered with most beautiful and clear lakes abounding</p>
+        <pb n="3" facs="0012_000060_000299_0003.jpg" xml:id="d4e63"/>
+        <p>with the finest and choisest fish.  Ask Alex, what he would think of fishing one day with single hook and line and catching from two to three hundred pounds of perch and pike (for the picherd is the same fish as the pike almost)  A friend and myself commenced after dinner fishing in one of three lakes and caught about sixty pike &amp; perch which weighted over two hundred pounds.  It was noticed in one of the papers and a few days afterwards we were beaten "all hollow" by another party!  but they had a boat &amp; we had not,  These lakes are full of springs and the water is fresh and generally we have what we call "trains of lakes" running into one another.  They are generally from one half mile to three miles long and from one half to one mile wide.  Some are small  We have sometimes a Tamerach Swamp which is <unclear reason="Illegible" resp="JH">wet</unclear> and marshy; but it only needs to be drained This Tamerach grows without many branches into tall slender poles which are used for fencing.  As for game I find the deer are not so plenty as I had expected; but we have plenty of bear and grouse &amp; geese and ducks.  But yesterday L Roberts brought in from part of a days hunt</p>
+        <pb n="4" facs="0012_000060_000299_0004.jpg" xml:id="d4e70"/>
+        <p>sixty ducks and Jim Thomson brought in from two days shooting one hundred and twenty seven and all fat and fine.  Geese are abundant; but not so much hunted as the duck &amp; grouse.  I have as yet not shot the ducks; but intend this week giving them a fair trial.</p>
+        <p>We have water power and lumber in great abundance  Besides the mighty power of the falls which man has turned to his own convenience, every trout brook gives power sufficient to keep up during the entire year the largest mills.  We have numerous saw mills now established and constantly at work and more being erected and yet all not sufficient to supply plank for house building - more than one hundred and forty houses have been erected since last spring and every morning now shows a new frame (sometimes a dozen) going up Emigrants are pouring in by every boat - We have six regular boats now in the trade and often a <unclear reason="Illegible" resp="JH">stragler</unclear> - and all are loaded to the <unclear reason="Illegible" resp="JH">gecords &amp; souce</unclear> two or three more are engaged for next season  Besides the proceeds of the products of our soil we <unclear reason="Illegible" resp="JH">have porly</unclear> paid into this Territory by Uncle Sam</p>
+      </div>
+    </body>
+  </text>
+</TEI>

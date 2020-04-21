@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng"
+type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng"
+type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000214_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name> to <name type="person">William Smith</name> in <name type="place">Chattanooga, Tenn.</name>, 
+               <date when="1865-05-06">1865 May 6</date>
+            </title>
+            <author>
+               <name>Smith, Eliza</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000214_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name> to <name type="person">William Smith</name> in <name type="place">Chattanooga, Tenn.</name>, 
+                  <date when="1865-05-06">1865 May 6</date>
+               </title>
+               <date when="1865-05-06">1865 May 6</date>
+               <author>
+                  <name>Smith, Eliza</name>
+               </author>
+               <extent>7 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+            certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>         
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">               
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-17" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e209">
+            <pb facs="0012_001356_000214_0003.jpg" n="1" xml:id="d2e211"/>
+            <!-- The text that appears at the top of the page is part of the postscript to the letter, and was placed within that corresponding element at the end to mantain a valid document. This was documented with <note place=> -->
+            
+            <opener>
+               <dateline>Binghamton May 6 1865<lb/>
+                  Saturday
+               </dateline>
+            </opener>
+            
+            <p>my dear husband it is with pleasure i rite these few lines to you in answer to your kind and welcome letter that i received May 4th and i was glad to heare that you was well and your eyes so comfortable as it leaves us all well thank heaven for so great a blessing  i worried about your poor eyes i was afraid you would be blind but i am so thankfull to god that he is restored to you your eyes well again and i hope he will restore to you your health whilst away on <choice><orig>forineng</orig><corr resp="nl">foreign</corr></choice> soil while away from freinds and those who loves you you are all to me in this world and my dear children i hope we shall be the world to each other darling  great sorrow has come to us all but out of sorrow strenght is born in each other love we will gather strenght and chearfull receive the sunlight as it Homes in upon our hearths and homes we had a dreadfull shock lossing our dear president and cheif Magstrate by a most villiansos murderer but they have shot him and they are a going to bring the other of his assocatous to justises but the lord will over take the murders for vengence is mine and i will repay it say the lord  the lord will punish them at the last day for he says in his word no murder shall enter the kingdom of heaven and one that will rise up and murder a second moses when he so bravily like moses was on the verge of entering in the promis land but let us hope but there is nothing in this world to count of or hope for but still let us like the <unclear reason="illegible" resp="PW">dromed</unclear> man catch at a straw let us hope that our president <name><choice><orig>Andrew Jonston</orig><corr resp="da">Andrew Johnson</corr></choice></name> the succeder of our late president
+               
+               <pb facs="0012_001356_000214_0004.jpg" n="2" xml:id="d2e241"/>
+               may be like <orig>Josuh</orig> when he led the children of israel in the promis land  moses was not suffered by god to enter in the promis land  when he was on the verge of entering god smote the rocks that moses should not enter and Josuh led them through and god ordainded it to be that <name type="person"><choice><orig>Abraim lincoln</orig><corr resp="nl">Abraham Lincoln</corr></choice></name> was not to do no more on earth he had gained libertey and his work was finished god ordained a better purpose for him his mission is ended on earth  he is laided quietley down to sleep he sleepeth as saints sleep to awake in glory  my dear husband you wanted to know a bout binghamton there is nothing particular only excitiments all the time there is not a great deal of work going on the weather is very unsettled now  Mr <unclear reason="illegible" resp="PW">Seberg</unclear> of binghamton died the other day rather suden  Mr riley as lived in <unclear reason="illegible" resp="PW">fanimen</unclear> house died quite suden Mr depue is dead this over two months  Mr hensdale is been very sick  ugene is in Nashville he is been gone about three weeks  he rote to his father and said they was in a place called blu hell untill they would singh a paper to stay in the quartermaster department for 6 months he was a boughs rough that took them down there you wanted to know about the garden we have peas  up we have a bed of onions up and nother one planted we have winter <unclear reason="illegible" resp="PW">chabge</unclear> seed up our strawberess look good they are notted for flower very full they currens bushes look better than you see they are very full of blom and the goseberey are full to allmost everbody is dead on account of the worm last year the large grape vine is dead but the little one is shotting good
+               
+               <pb facs="0012_001356_000214_0005.jpg" n="3" xml:id="d2e263"/>
+               Mr lindet cut it and i am afraid it killed it the large pear tree is nothing but a mass of blow and your green gage is full of blow but the washington is not in blow yet. we are planting potatoes we have two lots for potatoes  the flower garden look very nice the roses look beatifull  i have made up all the beds myself i miss you for planting the flowers for me  i have a great many reeds up  i have beatiful pannies  i had a letter from Alfred the other and he says he is well off but he had not heard of you so i sent him your direction on a envilope so he can rite to you and i sent him word how you was  Austin send his kindest love to his father he was glad to here that you was well and he says he is trying to do his best  he can he is gone in to work this week so i hope we shall get along so dont worrey about us if you have a months pay you can send it if you like if you do send it by Admas express companey  but if you dont want to draw any dont for us we shall get along good enought with out but if you have to have dont keep on your person for i am afraid you would lose it if would not be safe some one might rob you of it  if you do send that rite me a letter so i may know i shall keep it till you come home  little henery gives his love to his dear father and he send a
+               
+               <pb facs="0012_001356_000214_0006.jpg" n="4" xml:id="d2e265"/>
+               thousand kises he goes to school ever day he is a very good boy he says he rite on his slate pig top dog cat he is a good boy  i have sent you 25 cent worth of stamps in your letter i hope you will have them safe and i am glad you have had a letter from us and i think by this time you must have got a nother one  i have not neglected ritting Mrs bindet and Mr bindet send there love to you Mr and Mrs king send there best respects to you  they are all well  jim king is been naughty since he came home Mrs king is in the way Mr Mathews he called to see me to inquire after you and he sent his best respects to you and he hoped you now would have your health  Mr and Mrs Coley send there best respects to you Mr spencer send his best respects to you  So i must conclude with my kindest love to you and i ever remain</p>
+            
+            <closer>
+               <salute>your affectionate<lb/>
+                  wife until death</salute>
+               <signed>Eliza Smith</signed>
+            </closer>
+            <postscript>
+               <p>rite soon my dear a hundred kises to you</p>
+               <p>Pat Foley Sends his Best Respects to you good bye and god bless you</p>
+               <p>Dear Father i received a while ritting i have received a letter from Alfred he is well and he think it hard he does have no letter from you rite to him please</p>
+               <note place="overleaf top"><p>i have done baking bread to day</p></note>
+            </postscript>
+         </div>
+         
+         <div type="addendum" xml:id="d2e297">
+            <pb facs="0012_001356_000214_0007.jpg" n="5" xml:id="d2e299"/>
+               <p>Mr King desired me to rite a line to you to tel you that work is very pleantifull  that when you come you will not stand still for a sole after you get rested good my dear husband rite often as soon as you can a kiss</p>
+               <signed>from lizey</signed>
+         </div>
+      </body>
+      
+      <back>
+         <div type="envelope" xml:id="d2e311">
+            <pb facs="0012_001356_000214_0001.jpg" n="6" xml:id="d2e313"/>
+         <p>Postages Stampes this invelope
+            Stampes in this invelope</p>
+         <p>BINGHAMTON</p>
+         <p>MAY</p>
+         <p>8</p>
+         <p>N.Y.</p>
+         <p><address>
+               <addrLine>Mr William Smith</addrLine>
+               <addrLine>Chattanogo</addrLine>
+               <addrLine>Care of S. C. Mears</addrLine>
+               <addrLine>Tenn</addrLine>
+               <addrLine>Box 27</addrLine></address></p>
+         <pb facs="0012_001356_000214_0002.jpg" n="7" xml:id="d2e349"/>
+         <p>William S.</p>
+         <p>William</p>
+      </div>
+      </back>
+   </text>
+</TEI>

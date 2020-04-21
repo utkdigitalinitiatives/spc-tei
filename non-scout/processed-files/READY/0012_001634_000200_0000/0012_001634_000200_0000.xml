@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001634_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>John Cocke</name>
+				                  to Col. Edwin Allison, Greenville,<date when="1813-09-06">1813 Sept. 6</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">John Cocke</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001634_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Cocke to Col. Edwin Allison, Greenville,1813 Sept. 6</title>
+          <date when="1813-09-06">1813 Sept. 6</date>
+          <author>
+            <name type="person">John Cocke</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Cocke, John Letter dated Sept.6, 1813, to Col. Edwin Allison, Greenville.</note>
+          <note type="manuscript">MS.0731</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>United States. Army. Armored Division, 10th.</term>
+          <term>World War, 1939-1945 -- Concentration camps -- Germany.</term>
+          <term>World War, 1939-1945 -- Medical care.</term>
+          <term>World War, 1939-1945 -- Personal narratives, American.</term>
+          <term>World War, 1939-1945 -- United States.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001634_000200_0001.jpg" xml:id="d4e39"/>
+        <p>General Orders</p>
+        <p>To Colonel Allison</p>
+        <p>Col</p>
+        <p>Edwin Allison</p>
+        <p>Greenville</p>
+        <pb n="2" facs="0012_001634_000200_0002.jpg" xml:id="d4e51"/>
+        <p>Sept  6th 1813</p>
+        <p>Sir</p>
+        <p>From recent orders Rec d from Gov Blount and from an apprehension that an attack is Meditated by the Creek Indians on some part  of the frontier of
+			           <unclear reason="illegible" resp="PW">illegible</unclear> it became my duty to order that defensive measures be immediately<unclear reason="illegible" resp="PW">redobled</unclear>
+				  to secure and protect the frontier of my <unclear reason="illegible" resp="PW">division</unclear> you will therefore without delay put the first Brigade
+				  of militia in the best possible state of defence by notifying them of the Meditated attack by the Creek Indians and requiring them to be ready to act at a
+				  moments warning to repel any invasion that may be made or <unclear reason="illegible" resp="PW">strialured</unclear> on any part of the Brigade now
+				  under your Command &amp; treat the invading enemy to our peace and in the event of an attack made or of your knowledge of the approach</p>
+        <pb n="3" facs="0012_001634_000200_0003.jpg" xml:id="d4e71"/>
+        <p>of the enemy to the frontier you will instantly order a Competent force not only to repel them but to <unclear reason="illegible" resp="PW">Chalisr</unclear>
+				   and as far as in your power utterly destroy them &amp; persue as far as prudener will <unclear reason="illegible" resp="PW">seictalr</unclear>you will
+				    without  delay Communicate to me all the information you learn acquire Relation to the movements  &amp; disposition of the enemy to gether with such
+                                         orders as you may from time to time Issue with an account of all necessary expenditures for supply  &amp; you will be careful not to molest any friendly Indians
+                                         but treat them with hospitallity &amp; friendship so long as there Conduct is proper</p>
+        <p>I am Respectfully</p>
+        <p>your obt sert</p>
+        <p>John Cocke</p>
+        <p>orders similor to the alarm Isd to Genl Taylor but finding he is absant I send them to you now Commanding</p>
+        <p>JC</p>
+      </div>
+    </body>
+  </text>
+</TEI>

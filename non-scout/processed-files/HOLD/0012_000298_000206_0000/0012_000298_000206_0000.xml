@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Memphis,Tenn., to his wife and children <date when="1863-11-22">1863 Nov. 22</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000206_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Memphis,Tenn., to his wife and children 1863 Nov. 22</title>
+               <date when="1863-11-22">1863 Nov. 22</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">William Randolf Hackley Letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000206_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis Ten. Nov 22d 1863</p>
+            <p>My Dear Wife and children</p>
+            <p>I arrived here Thursday night and an half past 9 Friday went up to Mr. Yeatmans office where the first person I saw was Sid <unclear reason="illegible" resp="JCM">Dummond</unclear> who is a clerk in the office and who knew me at once and introduce me to Mr Yeatman who invited me inside of the rail and I sat there noticing the manner of doing business for untill half past 4 without an opportunity of speaking a work to Mr. Y. who was constantly employed with a crowd wanting this turns until that time when the office closed and he had a short time to speak to me but as I knew he had had no dinner I did not detain him there but want to see him again in the evening - he offered me the position of Local agent at LaGrange place about 18 miles from this with $4 per day pay - he says the country about there is very pleasant and I might ilke it so well as to make it a permanent home that he could give me a place</p>
+            <pb n="2" facs="0012_000298_000206_0002.jpg" xml:id="d4e50"/>
+            <p>in turn at $3 per day. I told him I would rather go to LaGrange and tomorrow I go into his office to <unclear reason="illegible" resp="JCM">begin</unclear> my duties, there will be proabably some days before I go out, as from some cause no one is allowed to go out of town into the country - the pay in on the first of every month so that <unclear reason="illegible" resp="JCM">none</unclear> is due untill <unclear reason="illegible" resp="JCM">January</unclear> but if you do not get the money from <unclear reason="illegible" resp="JCM">Kildebrant</unclear> let me know and I will try and get some for you I went to chruch this morning and hear a good serman from Dr. White but there was no music tho the organ was use to pitch the tune and there was a good chair the church is also draped with black The town is much larger and prettier than I thought and the yards full of Magnolia, Crape Myrtle, Cape Jesamine and Cedar and many other familiar shrubs and the roses still red <unclear reason="illegible" resp="JCM">with</unclear> their green leaves and <unclear reason="illegible" resp="JCM">fire</unclear> is of but little <unclear reason="illegible" resp="JCM">rest</unclear> there was none in church nor are there any <unclear reason="illegible" resp="JCM">stiris</unclear> I had to stop one day at a hotel and can not yet find a boarding house <unclear reason="illegible" resp="JCM">several</unclear> on which I called are full but am giving out the afternoon to see if I can find one as the expense of the hotel per day is nearly equal to my pay</p>
+            <pb n="3" facs="0012_000298_000206_0003.jpg" xml:id="d4e82"/>
+            <p>I remained three house in Bloomington on my way and finding Fuller as the <unclear reason="illegible" resp="JCM">supot he directs</unclear> me to Hubbards which I found easily and out there until  4 oclk and got supper which Mr Hubbard said he always had early <unclear reason="illegible" resp="JCM">another</unclear> girls came home hungry at that hour they all got home before I left and are looking well. may much better than I ever expected to be here they are all at school and Amalia as the normal Ella &amp; May at the High school which is not far from the house The place is much larger that I thought and is hilly and wooded and really a very pretty town much prettier than Joliet and I do wish you were there. the schools bring up good I got onto the <unclear reason="illegible" resp="JCM">Sleeping</unclear> can at Centralia and the thing shook so that I thought my back would break on that I had taken a bad cold there was a fine boat waiting for the train at Cairo and as son as we got on board <unclear reason="illegible" resp="JCM">we left the fan</unclear> to Memphis - $10 from Joliet to Cairo - 11.10, we found when we got to Hickman <unclear reason="illegible" resp="JCM">thirty mules</unclear> from Cairo that 100 Guerailla had been in town the day before and taken horses and broken open stores and taken hats, shoes &amp; we stopped</p>
+            <pb n="4" facs="0012_000298_000206_0004.jpg" xml:id="d4e101"/>
+            <p>at Hickman about 8 hours taking in <unclear reason="illegible" resp="JCM">pight</unclear> and lay an anchor about 6 hours in the night which prevented our getting in <unclear reason="illegible" resp="JCM">at the</unclear> usual hour hit the boat was comfortable tho very full and the weather <unclear reason="illegible" resp="JCM">exacnable</unclear> Mr Yeatman asked after Hatty - I had formed an idea that he was tall and thin when he is short and fat with a bald head and florid compexion - tho very busy I do miss you all so much that I expect to be home sick in as very short time and I do not know how long it may be before I kiss you all so kiss one another for me and remmber in your prayers as I do you all give my boy extra kisses every body says that money is to be made her eand I shall try and come in <unclear reason="illegible" resp="JCM">fence</unclear> than my room is so dark that I can scarsely see to write.</p>
+            <p>Your affc husband &amp; father</p>
+            <p>MRHackley</p>
+            <p>November 22nd</p>
+         </div>
+      </body>
+   </text>
+</TEI>

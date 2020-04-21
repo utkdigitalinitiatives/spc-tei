@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000304_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>James Perot and William Perot</name>
+				                   in Bermuda to Charles Pettit., <date when="1806-05-29">1806 May 20</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">James Perot and William Perot</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000304_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, James Perot and William Perot in Bermuda to Charles Pettit., 1806 May 20</title>
+               <date when="1806-05-29">1806 May 20</date>
+               <author>
+                  <name type="person">James Perot and William Perot</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000304_0001.jpg" xml:id="d4e39"/>
+            <p>JWP</p>
+            <p>Charles Pettit Esqr.</p>
+            <p>Captain Robinson  Philadelphia</p>
+            <p>Bermuda May 20, 1806</p>
+            <p>Jas &amp;Wm.     Perot</p>
+            <p>informing of Sales of Brand</p>
+            <p>Recd: Jun 26. 1806</p>
+            <p>answered</p>
+            <pb n="2" facs="0012_002414_000304_0002.jpg" xml:id="d4e57"/>
+            <p>Charles Pettit Esqr</p>
+            <p>Philada.</p>
+            <p>Bermuda  20th May 1806</p>
+            <p>Sir</p>
+            <p>We wrote you in Original and Duplicate under the 28th, tttto, which we doubt not you have received.   Since then and on the 14th
+				       Inst. part of the Cargo of the Ship Columbian Packed was Sold as Vendue,  by Order of the Court of N. Admiralty say all the Brandy, 
+				       Fruit, Pickles, Almonds and Some of the Wine _ the Brandy 5/5 a Cas. pGal. Fruit $7 pCase, the other Articles we cannot Speak 
+				       particularly of more than, that a small shipment of Wine in Cases sold at about $6. pdoz. there was a few Shots Claret bid off at about
+				       $14 pShot, these not appearing a disposition to bid more for it, the Marshall Stoped the Sale.  the other Articles of the Cargo rests as
+				       when Captn. Warrington left this, and it is likely that such part of the Cargo as is not likely to injure by lying, will remain as if a final
+				       Decree is given, when that will be, is quite uncertain, as we presume the Captors have an expectation/or pretended so/ of producing
+				       some proofs favorable to them that were taken in Some of the vessels from Bordeaux, and carryed to Halifax</p>
+            <p>With great Respect we are</p>
+            <p>Sir</p>
+            <p>Your Most Hum Servts</p>
+            <p>James &amp;Wm. Perot</p>
+         </div>
+      </body>
+   </text>
+</TEI>

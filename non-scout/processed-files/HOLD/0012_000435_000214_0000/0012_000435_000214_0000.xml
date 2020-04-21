@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000214_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Alexander Donelson</name>
+				                    at the Kentucky Military Institute to his father <date when="1869-07-16"> July 16 1869</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Alexander Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000214_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Alexander Donelson at the Kentucky Military Institute to his father July 16 1869</title>
+               <date when="1869-07-16"> July 16 1869</date>
+               <author>
+                  <name type="person">William Alexander Donelson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000214_0001.jpg" xml:id="d4e39"/>
+            <p>Sept 27th 1867</p>
+            <p>Dear Pa</p>
+            <p>In the fulfillment of my duty, I now snatch a few moments from the many rolling away that they may be diligently employed in the work which I now undertake, and that gladly, to give you an account of our deeds since here, as well as of our expectations cast for the future.  Both have enjoyed good health, and the consolation of knowing that we have done all in our power for the compliance with your will, to please you, to comfort you and brighten your hopes of us in time to come.  Oh! <unclear reason="illegible" resp="EMS">In our dealinies</unclear>, could</p>
+            <pb n="2" facs="0012_000435_000214_0002.jpg" xml:id="d4e50"/>
+            <p>now be presented to you bound and sealed with bright and spotless ties, branded with no marks of dissipation or disgrace but, <unclear reason="illegible" resp="EMS">covered</unclear> with the emblems of honor and destinction from the fraudulent or debauched. My Dear Father be you assured that I will strive for mine to be, as the latter above.</p>
+            <p>I am sorry to confess (ei) in my opinion, that our school is not so progressive in knowledge, as it was last session for the reason of which as its very evident. I will say We have three new professors two of which cannot ascend the hill of science, because they seem not to have the faculty of analyzing that upon which they start, (ei) principle, They know the how, but, as I above said, They but partially know the why. </p>
+            <pb n="3" facs="0012_000435_000214_0003.jpg" xml:id="d4e59"/>
+            <p>and tis our lot to hear these expound or pretend to, yet! little do we hear, unless do you understand, how is <unclear reason="illegible" resp="EMS">nor</unclear> why. </p>
+            <p>Not withstanding this we have made some progress in our studies, through perseverance and toil, our lessons are long and the professors marks very closely so to obtain a good mark one would have to study very hard often not receiving his <unclear reason="illegible" resp="EMS">seaverd.</unclear> hence you may not expect our records to be number one, but, I can say that I will endeavor to stay among the best of my class.</p>
+            <p>Would you prefer my studying Bookkeeping to French, or which ever you prefer let me know as I can take one of the two now.</p>
+            <p>When I read your last, twas the beginning lines that I perused with merry heart and gladened </p>
+            <pb n="4" facs="0012_000435_000214_0004.jpg" xml:id="d4e75"/>
+            <p>spirit, but on glancing down the page when I saw that you had been attacked by that abominable plague (chills) my merry heart and glad spirit was somewhat oppressed and downcast, but hope that in this you have grown hardy and prosperous. We recd the check amts to one hundred Dollars $100 sold it to Col Allen, for which we have his receipts, He sent the <unclear reason="illegible" resp="EMS">of</unclear> rect for our tuition $350, to you, so said.</p>
+            <p>I think that we have funds suffice to counterbalance our wants for the present five months, we will try and make it do, as the drum will soon tap I&apos;l bid you good might.</p>
+            <p>Martin joins in love to all, </p>
+            <p>Finally may you think of me as <unclear reason="illegible" resp="EMS">ere</unclear> Your Afft son </p>
+            <p>W.A. Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

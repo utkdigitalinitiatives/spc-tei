@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000211_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Holston U.S.A. General Hospital, Knoxville, Tenn.,
+<date when="1864-09-28">
+1864 September 28
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000211_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn. to Jeannie Lockhart, 1864 September 28</title>
+               <date>1864-09-28</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated September 28, 1864 from Holston U.S.A. General Hospital in Knoxville, Tenn., to &quot;My Own Precious,&quot; John Shrady, a regimental surgeon, informs the recipient that the regiment has not yet been &quot;mustered out,&quot; despite reaching the 28th of September. Additionally, he discusses general family matters and asks her to settle an outstanding bill for him. He also mentions &quot;Brownlow,&quot; a possible reference to William G. Brownlow and his Knoxville newspaper.</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000211_0001.jpg" xml:id="d3e143"/>
+            <p>Knoxville, Tenn</p>
+            <p>Sept 28th 1864</p>
+            <p>My Own Precious,</p>
+            <p>The day for my being &quot;mustered out&quot; has arrived and I don&apos;t know whether I am any nearer that desideratum than I ever was. There is trouble about the regimental papers. I heard, to-day, that they were all to be made out over again, before the men, who, by the way, have been unpaid for a year and over, could receive any money.</p>
+            <p>I have been told that I would certainly be mustered out, but if matters are going on in this way, I see no other refuge but disappointment. Oh, how I long to be with you -- I cannot help murmuring at that destiny which separates two loving hearts.</p>
+            <p>You did right in making what disposition you did of the money entrusted, although I omitted in my last my approbation of your course I thought of it several times while writing, but</p>
+            <pb n="2" facs="0012_000068_000211_0002.jpg" xml:id="d3e161"/>
+            <p>was led away insensibly by other topics.</p>
+            <p>I hope that you did not think strange of the omission.</p>
+            <p>I acknowledge my fault in not having written quite as frequently as I might, but prevailing rumors can urging me to procrastinate until I learned something definite, or was about starting homeward. You may know how almost absolutely certain I was of a speedy journey or I should never have suggested that your letters would not probably find me in Knoxville.</p>
+            <p>I am in a most unenviable state of uncertainty -- I don&apos;t know whether to request you to commence writing again or not, -- but I trust there will be no necessity, as I would much rather see you face to face. All of which you must know is most natural and is not to be construed into any want of appreciation of your letters. You know my heart, my darling, and so I will not apologize through fear of your thinking that I really mean something dreadful.</p>
+            <p>I hope my darling is in good health and spirits and that our little Fanny is growing</p>
+            <pb n="3" facs="0012_000068_000211_0003.jpg" xml:id="d3e177"/>
+            <p>apace and a winsome little lady: she has become quite a prattler, I ween, and will no doubt bestow a kiss upon her Papa when she sees him with due grace and coquetry.</p>
+            <p>I dont know but that it would be better for you to settle that bill with Geo. Loss for me -- I suppose he thinks that I am drawing a magnificent salary -- you know the people think that immense amounts are squandered by the Government in this way. Then you know that &quot;Family Talk&quot; has got to be quite a divinity in the land.</p>
+            <p>The reason why you did not get &quot;Brownlow&quot; of late was because of the interruption in rail-road communications. He explains in this week&apos;s number and says arrangements have been made to prevent its recurrence, not of the paper but of any cause of complaint.</p>
+            <p>Will writes me (Sept 5th) that he has sent several &quot;Harper&apos;s&quot; &amp; &quot;Continental&apos;s&quot; -- I regret to tell him that none have come to hand lately.</p>
+            <p>My kindest remembrances to Mother, Fan and all enquiring relatives. My heart&apos;s holiest</p>
+            <pb n="4" facs="0012_000068_000211_0004.jpg" xml:id="d3e193"/>
+            <p>affections to the companion of my joys and sorrows, from whom I am just now most unwillingly absent. May Heaven reward her with its choicest gifts and may our little daughter long be a comfort to her and, in declining years, a support. May she be to her as the ivy to the oak. Kiss her, my Precious, for me -- And always be assured that in the inner temples of my heart there dwells none other but yourself.</p>
+            <p>Yours devotedly --</p>
+            <p>John.</p>
+            <p>P.S. -- As I desire to keep you advised in regard to every matter affecting this my present crisis, I will write you frequently. Meanwhile, as I said before, for fear that your letters may not reach me, I will not ask you to write.</p>
+            <p>John.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

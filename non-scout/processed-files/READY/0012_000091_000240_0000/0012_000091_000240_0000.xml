@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000240_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>David Jones</name>
+				                    to his wife <date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">David Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000240_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, David Jones to his wife</title>
+          <date>undated</date>
+          <author>
+            <name type="person">David Jones</name>
+          </author>
+          <extent>1 page</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000091_000240_0001.jpg" xml:id="d4e38"/>
+        <p>James And Andrew and Thos I want you all to be good boys and do whatever your Mother tells you always and then you will keep yourself out of a good deal of trouble go to school always in proper time and try and get <unclear reason="torn" resp="EMS">NO l</unclear>deportment whover of you that will have the best deportment shall get a nice present from me when I come back i will give you all a present But the Best Boy shall have the Best present Keep from bad boys dont have nothing to do with them <gap reason="missing" resp="Smither"/>
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

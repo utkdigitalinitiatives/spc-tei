@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000216_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>John Shrady</name>
+					in Camp near Stanford, Ky., to "Mother" in New York, N.Y.,
+					<date when="1863-04-08">
+						1863 April 8
+					</date>
+            </title>
+        <author>
+          <name type="person">Shrady, John</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000068_000216_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Shrady in Camp near Stanford, Ky., to "Mother" in New York, N.Y., 1863 April 8</title>
+          <date when="1863-04-08">
+						1863 April 8
+					</date>
+          <author>
+            <name type="person">John Shrady</name>
+          </author>
+          <title>Letter, <name>John Shrady</name>
+					in Camp near Stanford, Ky., to "Mother" in New York, N.Y.,
+					<date when="1863-04-08">
+						1863 April 8
+					</date>
+               </title>
+          <date>2007-02-21</date>
+          <author>
+            <name>Shrady, John</name>
+          </author>
+          <date when="1863-04-08">
+						1863 April 8
+					</date>
+          <extent>2 pages</extent>
+          <note type="abstract">In this letter, dated April 8, 1863, from  camp near Stanford, Ky., John Shrady, a regimental surgeon, writes to his mother in New York City, reporting generally on his condition and explaining why he has not written to her as often as she would like.  He describes, also, the general state of the countryside in Kentucky:  "You may now form some idea of how this rebellion has disorganized society and what a field there will be left for missionaries when Peace dawns once more upon the land."</note>
+          <note type="collection">John Shrady Letters, 1863</note>
+          <note type="manuscript">MS.1436</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e96">
+        <pb n="1" facs="0012_000068_000216_0001.jpg" xml:id="d4e97"/>
+        <p>Camp near Stanford, Ky</p>
+        <p>April 8th 1863.</p>
+        <p>Dear Mother,</p>
+        <p>I have no doubt but that you will be proud enough when you receive this letter, notwithstanding your supposition that I am forgetful of you.  But really Ma, what between my accumulating correspondences, the making out of reports, leaving marches early &amp; late entirely out of the question, I can command but very little of that precious commodity known as time.  I see a great deal of the country, abundance of rocks &amp; trees, some habitations, which when a dozen or so are clustered together are baptized towns, bipeds clad in butternut-stained woollens, with unkempt hair, and tow-headed children gaping at us from before cabin-doors, but very little of the thrift which is said to characterize the universal Yankee nation.  Once in a while, in some town whose pretensions are a little above the vulgar, we hear the tinkling of the church-going bell upon some glorious country Sabbath, but let me tell you, that this is rather the exception.  In these perilous times the shepherds are too apt to desert their flocks.</p>
+        <p>At the approach of the ragged bands, who profess so much tenacity for Southern rights all flee, only taking with them what valuables they may for the nonce secure - plunder then is the order of the day and the stores are emptied of their contents in a twinkling.  This habit you must not think harshly of, it is true Southern chivalry.  You may now form some idea of how this rebellion has disorganized society and what a field there will be left for missionaries when Peace dawns once more upon the land.</p>
+        <p>I suppose that you are now busy with weeding out your garden and exercising all manner of solicitude over some slip, - or perhaps trimming up the grape-vines which, bye the bye, must have yielded last fall a pretty respectable crop.  Mayhap the very moment the post man rings the bell in 32nd street, you may be in East Broadway playing with a certain little grandchild - for this absence from your home, you have my full pardon.</p>
+        <p>I really have nothing of any moment to write you, no adventures to recount</p>
+        <pb n="2" facs="0012_000068_000216_0002.jpg" xml:id="d4e113"/>
+        <p>for you must know that the most wandering life becomes hum-drum after awhile and there is but little work for the pen in the way of description.</p>
+        <p>I have written to Pa, whose letter will probably preceed yours and as he will likely read it to you, I deem it unnecessary to go over the same topics.  I hear pretty frequently of you through Jeannie, who, in turn, keeps you posted about me.  Jake informed me of poor old Mrs Harrison's death: her wearied limbs are at rest, now - no more will Martha-like cares torture her and no more will she totter beneath the infirmities of age.  John Doyle is gone too and Heather Reynolds.  There have been many changes during my absence, more than I could have expected, but it is the History of the world and we, as puppets, perform our parts almost unconsciously.</p>
+        <p>I suppose that matters go pretty smoothly with you, now, that you have your share of comforts and that even though you do attend church without a companion, you enjoy the sermon as well.  You know that it is impossible to gratify all our desires, therefore is it not the part of wisdom to meet our disappointment with philosophy.  My absence from home is not by any means a delightful arrangement, but I endure it as calmly as I may trusting to the future for any exceeding great rewards.  When my tent is too cold, I give myself an extra-roll in the blanket and congratulate myself that I have a nigger only 16 years old who brushes my clothes and blacks my boots, - a piece of property I never could possess at home.  We are elected to certain duties and of course must somehow or other go through with them - if we grumble, wrinkles my come and so to preserve one's beauty we must needs refrain from the practice.</p>
+        <p>Remember me to all enquiring friends - write soon, give me what news you can command and wish me a safe return at no distant period.  And as I have written somewhat at random, if the matter I have furnished is not the pure gold yours must be the task to separate the dross and claim the precious ore as your own.  So, with all good wishes for your welfare I must conclude.</p>
+        <p>Yours dutifully</p>
+        <p>John</p>
+      </div>
+    </body>
+  </text>
+</TEI>

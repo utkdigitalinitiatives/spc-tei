@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000211_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    in Concordia to his wife, Elizabeth <date when="1857-10-17">1857 Oct. 17</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000211_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson in Concordia to his wife, Elizabeth 1857 Oct. 17</title>
+               <date when="1857-10-17">1857 Oct. 17</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>1 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000211_0001.jpg" xml:id="d4e39"/>
+            <p>Concordia Oct 17th 1857 </p>
+            <p> Dear Elizabeth</p>
+            <p>I wrote you a short note by <unclear reason="illegible" resp="EMS">way</unclear> Bother John who left me on the 13th. <unclear reason="illegible" resp="EMS">Linee then the</unclear>negroes have improved a little, but <unclear reason="illegible" resp="EMS">they take fresh</unclear> chills nearly as fast as I send them to the field. I am here to day for quinine, but find none in the country. Those that I had in the field this week average more than 100 lb to the hand, but there are always some 15 or 20 not engaged as pickers. My corn is gathered and in a fine crop. The cotton will yield near a bale to the acre if it can be saved.</p>
+            <p>I will be at home as soon as I put things in a proper train - will start the gin tomorrow, and hope the negroes will improve as soon as we get a frost. <unclear reason="illegible" resp="EMS">Eony</unclear>, the overseer appears to have managed very well for the last month.</p>
+            <p>There are no dangerous cases, unless they become so from relapses. <unclear reason="illegible" resp="EMS">Shack</unclear> is near the worst case, and I think his has been produced by too much quinine.</p>
+            <p>See that the wheat is measured as it is sown, and that the corn is given freely to the hogs. </p>
+            <p>Yr aff </p>
+            <p>AJ Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

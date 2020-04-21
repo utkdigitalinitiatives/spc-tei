@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000214_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>John Shrady</name>
+					in Nashville, Tenn., to Jeannie Shrady in New York, N.Y.,
+					<date when="1863-03-01">
+						1863 March 1
+					</date>
+            </title>
+        <author>
+          <name type="person">Shrady, John</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000068_000214_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Shrady in Nashville, Tenn., to Jeannie Shrady in New York, N.Y., 1863 March 1</title>
+          <date when="1863-03-01">
+						1863 March 1
+					</date>
+          <author>
+            <name type="person">John Shrady</name>
+          </author>
+          <title>Letter, <name>John Shrady</name>
+					in Nashville, Tenn., to Jeannie Shrady in New York, N.Y.,
+					<date when="1863-03-01">
+						1863 March 1
+					</date>
+               </title>
+          <date>2007-02-19</date>
+          <author>
+            <name>Shrady, John</name>
+          </author>
+          <date when="1863-03-01">
+						1863 March 1
+					</date>
+          <extent>4 pages</extent>
+          <note type="abstract">In this letter, dated March 1, 1863, from  Nashville, Tenn., John Shrady, a regimental surgeon, writes to his wife, Jeannie, in New York City, discussing the news of "General Tom Thumb's" wedding in February and how it must have "profited" P.T. Barnum.  He reports on the condition of Nashville, describing it as "tumble down," and describes his recent walk to the Nashville cemetery.  The remainder of the letter concerns money, the care of their young daughter and Jeannie's health.</note>
+          <note type="collection">John Shrady Letters, 1863</note>
+          <note type="manuscript">MS.1436</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e102">
+        <pb n="1" facs="0012_000068_000214_0001.jpg" xml:id="d4e103"/>
+        <p>Hospital <unclear reason="Illegible" resp="JH">Nosq</unclear>
+            </p>
+        <p>Nashville Tenn</p>
+        <p>March 1st 1863.</p>
+        <p>Dearest Jeannie,</p>
+        <p>I received yours of the 23d ult, and a most welcome missive was it, too.  I wrote you, yesterday, in great haste - indeed I had almost concluded to telegraph - in regard to the package, which you must have received with a species of trembling joy.  Now that you have it, there is a great load from off my mind.  Money, according to my experience, is a most evanescent article - in fact, I hate it on that account.  Now, darling, you must not feel hurt because I send you what I hate, but then you know the bills were so well engraved &amp; by their greenness so reminded me of the approaching spring that you must forgive me this once -- now won't you.  Seriously, were I you, I would have my ivories attended to without delay.  You will save yourself much future pain and I am, of course, glad over your determination.  I suppose that by this time you have received the other package of Fifty dollars, to which reference has been made in the letters preceeding this.</p>
+        <p>Will has sent me a clipping from the New York Herald - so I judge from the print - giving an account of Tom Thumb's wedding at Trinity.  Gotham was all agog of course - had I been home I have not the least doubt but that my pet might have been tempted to escort her husband to the grand gathering.  I suppose old "Phineas T." must have profited by it, in some shape or other - probably by this time he has waxen figures commemorative of the event, in his Museum.</p>
+        <p>Poor mother has my heartfelt sympathies - hers has been, indeed, a life-long struggle.  More than once, in her case, have I</p>
+        <pb n="2" facs="0012_000068_000214_0002.jpg" xml:id="d4e121"/>
+        <p>thought of good, old Sam Johnson's, definition of life "much to be endured &amp; but little to be enjoyed."  I fear, my pet, that another cup of sorrow is not far from our lips.  Nell has all along been fighting for life, against fearful odds and I have not had courage enough to force myself to the belief.  Yet, I will hope against my better judgment, - there is a great drain upon her constitution, which has never been of the strongest and I don't wonder at the Doctor's discouragement.  She should know her critical position and yet who will make up his mind to tell her - it seems hard to believe what I cannot bring myself to write.  I, though unprepared myself, feel remiss of my duty, in not sounding the note of alarm.  Cannot my darling, suggest to her in her gentle way the vanity of all things earthly.  When the body is wracked with pain, the mind is in on trim to receive religious consolation - and I am afraid that her sufferings will increase rather than abate.  Don't be alarmed, Jeannie, but I have my forebodings and cannot help telling the partner of my life.  I would feel the goadings of an outraged conscience were I to have omitted these paragraphs and yet I was strongly tempted to have left them unwritten for the reason that if Nell knew them, she would yield up all hopes of recovery.  How to act under these circumstances I leave to your own good judgment.</p>
+        <p>Were George to see Nashville now, he would not speak so rapturously of it.  You will comprehend the expression "tumble down" if I so characterize its appearance.  Spring, which is now opening may add to its charms. To day being balmy &amp; mild, I strolled down one of the streets until I came upon the Cemetery, which is distant from the city proper about a mile &amp; half.  Though rich in that solemn grandeur which belongs to all burial grounds</p>
+        <pb n="3" facs="0012_000068_000214_0003.jpg" xml:id="d4e127"/>
+        <p>it will not compare with Greenwoods - it has none of its variety but a few ideas are embodied in the sculptured monuments.  Among some of the memorials I noticed and obelisk marking the spot where rest the remains of the Hon Felix Grundy, who shone as a lesser light in the galaxy of which Webster &amp; Clay were the bright, particular stars.  The most mournful feature is the soldiers' graves, with their wooden head-boards - some, however, are marked by marble slabs - on one, was inscribed "Rest, soldier, rest - thy warfare is over."  He was but twenty - all his hopes of many years of life, "gone" at that early age "like the baseless fabric of a vision."  Some read "Unknown," but this was more particularly the case in the plot, appropriated by the Rebels, when they held the city.</p>
+        <p>I tried to imagine you at my side, but in vain.  I thought of a certain occasion when in Greenwood we happened upon a long avenue just as the autumnal sun was closing the day - how I clasped your hand &amp; wished to you that "our lives might be as beautifully smooth as that road and set as grandly calm as that sun."  Does not, my precious, remember it?  Why is it that I delight so in summoning up the past.  I am happy in the consciousness of having your whole heart.  I have never been disappointed in  you, - no, indeed, echoes my inmost soul.  Let me tell you - it seems as though this war would never end - the future when we shall once again renew those scenes, with little Fanny's hands in ours, so far off, that my mind is forced to feast upon the past.  So, my darling, must not understand me as bewailing what is gone as though all pleasure had fled with it.  No, no, neither regret, nor despair clouds my sun - it is the impatience of one wating for a holiday - the holiday of seeing you.</p>
+        <pb n="4" facs="0012_000068_000214_0004.jpg" xml:id="d4e133"/>
+        <p>Little Pink must have captivated Kate.  I don't wonder at it. I left her sleeping like a little angel and did not kiss her for fear of awakening her but I trust you will make up for my cruelty.  How I would like to see her, if only to apologize.  I know she would both understand &amp; forgive.  The little toad, you must know, I think far above the common run.   Tell Fan, there is no need of whipping her so much, - she must remember that she was once a child herself, - ask her what she would have thought of an aunt whipping her every time she missed a step in walking or mispronounced a word.</p>
+        <p>For a wonder, those two papers did actually accompany your letter.  Such a marvel in the history of transmission of newspapers should be noted down.  You ask me how I made out with my report, - it must have given satisfaction, or it would have been returned.  That's the custom, here, when things don' suit.  Everytime I receive an official envelope, I enquire "What's wrong." - and feel releived when I find that after all, it is no complaint.  Don't forget  your photograph &amp; that of little Dolly - I can hardly wait for them.  Never mind if you do look thin - I will think all the same of it - I only wish it might be otherwise for your sake, as it may indicate failing health. Don't sew too much, my pet, - nor begrudge yourself any little visits or rides - all that I give you, is freely given &amp; I could not be mean enough to ask you "What did you do with all that money?"  I know that you need a great many little comforts &amp; I feel ashamed of the paltry sum.  So now, Jeannie, I will enjoin you to use it as you best see fit, without any misgivings of my needing it, for I have enough until next pay-day, which rumor says is not far off.  Write soon, send me a paper occasionally.  Remember me to all your folk, &amp; take it for granted that I mean a kiss for you, though too far away to give it.  Yours affectionately</p>
+        <p>John</p>
+      </div>
+    </body>
+  </text>
+</TEI>

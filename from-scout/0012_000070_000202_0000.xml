@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name> McGaughey, Samuel</name>
+ in Greeneville, Tenn., to S.P. Carte, Provost Marshal General in Knoxville, Tenn. <date when="1864-06-24">1864 June 24</date>
+            </title>
+            <author>
+               <name type="person"> McGaughey, Samuel</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000202_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter  Samuel McGaughey &amp; others in Greeneville, Tenn., to S. P. Carter, Provost Marshall Gen&apos;l in Knoxville Tenn.1864 June 24</title>
+               <date>1864-06-24</date>
+               <author>
+                  <name> McGaughey, Samuel</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract"> Letter June 24, 1864 Samuel McGaughey and others in Greeneville, Tenn. write a Petition of Union men of Greene Co. in favor of John Smith to S. P. Carter, Provost Marshal General, Knoxville, Tenn.</note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Greene County (Tenn.) -- History</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+               <term>McGaughey, S. P. (Samuel P.), 1816-1870  -- Correspondence</term>
+               <term>Carter, Samuel Powhatan, 1819-1891  -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000070_000202_0001.jpg" xml:id="d3e152"/>
+            <p>State of Tennessee</p>
+            <p>County of Greene</p>
+            <p>To S.P. Carter Provost Marshal Genneral or the proper military Commandant</p>
+            <p>Knoxville Tennessee </p>
+            <p>The undersigned union citizens of said County, do most respectfully bring before you the case of John smith a paroled prisoner taken at the Surrender of Vicksburg.</p>
+            <p>In a few days after the surrender Mr. Smith came home and remained there until after the falling back of Gen Wilcoxs Brigade, working on his fathers farm, but in consequence of being told that if he remained until after the occupying of this portion of the state by the Federal Army, That he would be arrested and held as a prisoner of war, he went to Smith Co, Va. as we have been informed, and worked as a private citizen on a farm until a short time ago he came back to his fathers where he was by a portion of Col. Footes command arrested, and as we understand, taken to Knoxville These as we understand then are the facts of the case. </p>
+            <p>We would further state that said Smith is a truthful, moral, well behaved young man, and several of us have heard him </p>
+            <pb n="2" facs="0012_000070_000202_0002.jpg" xml:id="d3e172"/>
+            <p>say that he never intended to fire another gun until he was regularly exchanged and to our knowledge has never arried arms, nor misbehaved in any way</p>
+            <p>We respectfully as you to examine his case, and see if he can be released upon bond, or in some other way consistent with the rules and articles of war</p>
+            <p>All of which is respectfully submitted. Greeneville June 24th 1864</p>
+            <p>Names</p>
+            <p>Samuel McGaughey</p>
+            <p>G. <unclear reason="= illegible" resp="NW"> Jones</unclear>
+            </p>
+            <p>William S. McGaughey</p>
+            <p>John McGaughey</p>
+            <p>Azor Koontz</p>
+            <p>Solomon good</p>
+            <p>Isaac C. Dobson</p>
+            <p>Samuel Brittan</p>
+            <p>David M. Dobson</p>
+            <p>Thomas S. Dobson</p>
+            <p>Sam&apos;l S. Cook</p>
+         </div>
+      </body>
+   </text>
+</TEI>

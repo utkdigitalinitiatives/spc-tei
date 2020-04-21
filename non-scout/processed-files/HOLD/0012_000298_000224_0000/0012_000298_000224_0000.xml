@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000224_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1865-05-28">1865 May 28</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000224_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Memphis, Tenn., to his wife 1865 May 28</title>
+               <date when="1865-05-28">1865 May 28</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000224_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis May 28 1865</p>
+            <p>My Darling</p>
+            <p>Yours of the 21st was recd on Thursday. and am glad you have got through house cleaning which is a hard job. and one I wish could be avoided but it cannot be - I should be at my present work as long as the system lasts but no one can say when it will end all other restrictions have been taken off and East of the Miss, <unclear reason="illegible" resp="EMS">run</unclear> trade is free except in Guns and ammunition. The Confederates are coming in daily. <unclear reason="illegible" resp="EMS">Fluvert</unclear> has been paroled and is on his farm but I fear when the troops are all sent home whenever that maybe that there will be many murders the Confederates have the same</p>
+            <pb n="2" facs="0012_000298_000224_0002.jpg" xml:id="d4e53"/>
+            <p>feeling they ever had and have only given up their arms because they cannot longer fight but they hate the men who have  <unclear reason="illegible" resp="EMS">served</unclear> at home and will fight them with small provocation they hate them even more than they do the Yanks, I did not send for Charlotte because I do not know how long I may stay here. I do not think it will be longer than July as by that time I think the difference between cotton grown by compensated labor and the old will be abolished and with it the <unclear reason="illegible" resp="EMS">bust</unclear> of the Treasury regulations will be repealed at any rate I will come home in July or August - My cold has not gone entirely but remains troublesome principally about the throat and I have to talk so much that by night it is quite sore. and caused me </p>
+            <pb n="3" facs="0012_000298_000224_0003.jpg" xml:id="d4e63"/>
+            <p>to cough considerably but the long paroxsyoms of coughing have gone and one or two hacks generally brings up the phlegm the past two days have been quite pleasant but the week previous was very hot.  My room is kept much cleaner but this week I will move into the one I use as the office the office will be moved into the room I used as the Rental office. this change will give me a lighter and dryer room than the present one. I have the same bed <unclear reason="illegible" resp="EMS">SC</unclear>- that I have always had Tell Dick that I came down in the City of Cairo, the Holmans send their love to him and you and would C to come but she had better not leave him at present as I have great hopes from the present treatment may God grant them favorable results - for this </p>
+            <pb n="4" facs="0012_000298_000224_0004.jpg" xml:id="d4e70"/>
+            <p>posibly Hattie may agree to try the same remedy the both as also I suspect in <unclear reason="illegible" resp="EMS">driver </unclear>in both as also I suspect in <unclear reason="illegible" resp="EMS">Lin</unclear>being in the spinal cord if they can only be returned to health and strength they are young enough to learn all that is necessary. I cannot promise you two letters a week regularly but whenever I can will. I get a letter from Sister M which I will send you it contains news of the Talcotts Love to all you Affc Husband</p>
+            <p> WRHacley</p>
+            <p>Mrs Wm. R Hackley </p>
+            <p>Bloomington Ills,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

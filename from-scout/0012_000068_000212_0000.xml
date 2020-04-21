@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Knoxville, Tenn.
+<date when="1864-10-08">
+1864 October 8
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000212_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Knoxville, Tenn. to Jeannie Lockhart, 1864 October 8</title>
+               <date>1864-10-08</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated October8, 1864 from Knoxville, Tenn., to &quot;My Own Darling,&quot; John Shrady, a regimental surgeon, informs the recipient that he has now received his discharge from service, noting that it will be a little longer before he starts his return journey due to arranging final paperwork. Additionally, he laments missing an opportunity to write to her earlier, before General Forrest&apos;s attack on Union rail communications.</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000212_0001.jpg" xml:id="d3e143"/>
+            <p>Knoxville, Tenn.</p>
+            <p>October 8th 1864</p>
+            <p>My Own Darling,</p>
+            <p>Hurrah, I am now a free man. I have just received my discharge in writing and in proper form. I ignorantly omitted writing you by one mail. I did not know that our communications by rail were established. When I learned of my lost opportunity, Forrest again interfered and I was of course obliged to forego my intention -- or let the letter lay in the Post Office until the matters on the road were again in &quot;apple-pie order.&quot;</p>
+            <p>I hardly think that I shall be able to start for home before next week as there is a certain receipt about which the Med: Purveyor is quibbling, and I think that the matter had better be closed up on the spot -- especially when you have the facilities at hand. The Government won&apos;t pay up to date of muster-out until</p>
+            <pb n="2" facs="0012_000068_000212_0002.jpg" xml:id="d3e159"/>
+            <p>a clear receipt from all indebtedness can be obtained from the proper departments. This is all right, because a great many might take advantage and the government be a loser -- besides too the annoyance of &quot;after claps&quot; may be avoided.</p>
+            <p>Lt Col: Melton intends coming on to spend a few weeks in New York -- I don&apos;t know whether he purposes putting up at some Hotel or not, but I rather think he intends being my guest. Can mother &amp; yourself so arrange it, that he can without inconvenience be accommodated during his stay?</p>
+            <p>Now, Darling, the time of our reunion is drawing near, very near, may a merciful Heaven grant to shield from all harm, as the cup of bliss is so near our lips. He has spared us both so far, may we not hope for a continuance of His kind favor.</p>
+            <p>Tell little Sis, her Papa will be</p>
+            <pb n="3" facs="0012_000068_000212_0003.jpg" xml:id="d3e173"/>
+            <p>soon to see her Mamma &amp; her little toadship. I suppose that the latter has grown somewhat past my recognition -- I might even pass her by upon the street, without knowing it. Yet there is a certain something that will identify in spite of advancing months.</p>
+            <p>Commend me to Mother and Fan -- To Pa, Ma &amp; the rest. Your faithful heart, my darling, is about meeting with a realization of its longings -- may I never cause it one unnecessary throb of pain. I have missed you in many a gloomy hour during my absence -- I have dreamed of you upon the field, &amp; in prison, and you always appeared as a guardian spirit. Heaven, I know, will reward you, and I hope to be its chosen instrument. I will write you again, giving you the time when I start and the probable time of my final arrival home.</p>
+            <pb n="4" facs="0012_000068_000212_0004.jpg" xml:id="d3e183"/>
+            <p>I miss your letters very much -- if I had have known of the length of time required in making our regimental matters all right, I would have greedily demanded one more epistle at least.</p>
+            <p>Now, My Precious, Adieu,</p>
+            <p>Yours devotedly</p>
+            <p>John.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

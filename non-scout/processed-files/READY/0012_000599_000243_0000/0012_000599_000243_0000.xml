@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000243_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Caroline M. Brown,<date when="1862-06-06">1862 June 6</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000243_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,1862 June 6</title>
+          <date when="1862-06-06">1862 June 6</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000243_0001.jpg" xml:id="d4e39"/>
+        <p>Union!</p>
+        <p>June 6th 1862</p>
+        <p>Caroline M. Brown</p>
+        <p>Dear little family All to gether i long to see you all together around our old table and that is not all i wish to be at home in harvest But i fear it wont be so that i can this harvest any way if i am sparred to get home <unclear reason="illegible" resp="LW">Alold</unclear> i hope the men will not sufer the crop to get to wast at any ratt the boys must be good to help with the grain and cary water to the hands and not grumble</p>
+        <pb n="2" facs="0012_000599_000243_0002.jpg" xml:id="d4e52"/>
+        <p>you had better try to get some boddy to cut the meadow and make the hay and mow it Away you will not have anough to let it out on the halves you had better try to save it all your self if you can you must let me know how the wheat look by this time and whether the weavel is in it or not and how your oats and corn looks i do hope you will be blest with good health while i am gone at any rate and good crops with the health</p>
+        <pb n="3" facs="0012_000599_000243_0003.jpg" xml:id="d4e56"/>
+        <p>I am sorry to say that I only sent you twelve Dollars the last time we drawed our pay we was paid off on the 22 of last month And we sent our money to Lexington By Mr Ogle in Mr Bone name he will let you know when he gets it and then you can use it to the best advantage James bone wrote to his father about it states theh amount to each one mine was $12 Dollars i owe the same <unclear reason="illegible" resp="LW">old</unclear> the cooks And i keep some for my own use</p>
+        <pb n="4" facs="0012_000599_000243_0004.jpg" xml:id="d4e63"/>
+        <p>I wish we was all at home with our family once more</p>
+        <p>no more at present only that this may find all of you in the best of health my health is pretty good write soon I think the time long since i got a letter from you But i shall bare with it so help me god good by to you and the boys i hope we will soon meet again so good by to all</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

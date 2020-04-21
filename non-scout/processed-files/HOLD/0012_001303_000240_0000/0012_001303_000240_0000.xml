@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000240_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn.,<date when="1919-04-13">1919 Apr. 13</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000240_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1919 Apr. 13</title>
+          <date when="1919-04-13">1919 Apr. 13</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000240_0001.jpg" xml:id="d4e39"/>
+        <p>AM. EX. F.</p>
+        <p>J L Dodds</p>
+        <p>Comp L 23rd Engrs</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000240_0002.jpg" xml:id="d4e57"/>
+        <p>Bruilly France</p>
+        <p>April 13-1919</p>
+        <p>Dear Ellen:</p>
+        <p>I received a letter from you this last week and of course you know I was real glad to hear from you. I get so few letters from you these days.</p>
+        <p>I believe you do hate to write now you must be real sweet and write me real often and maybe I will get home some of these days</p>
+        <p>Then you wont have to write any more for I am never going to get this far from home any more. Do you blame me  Yes I know Lin is getting impatient to get home and</p>
+        <pb n="3" facs="0012_001303_000240_0003.jpg" xml:id="d4e71"/>
+        <p>he is not alone. If I dont get home before long will have to have a <unclear reason="illegible" resp="PW">fueled</unclear> sell ready for me in <unclear reason="illegible" resp="PW">Boliuer</unclear>
+            </p>
+        <p>I wrote Lin short letter to day asking him what he is doing and when he expected to start home. We might get home about the same time</p>
+        <p>Of course I havent the least idea when I will get to come back.</p>
+        <p>And I guess I wont know a thing about starting until we are ready to move out</p>
+        <p>Some say we will leave this camp some time this month.</p>
+        <p>But we will go where there is some work to be done near Le Mans.</p>
+        <pb n="4" facs="0012_001303_000240_0004.jpg" xml:id="d4e90"/>
+        <p>I know you was glad to see Harold come back  I bet he makes you step around since he is such a big man</p>
+        <p>This Army life is great if a fellow can stand it I know he was glad to get home and get some good cooking </p>
+        <p>The way they cook in the Army every thing start just alike whether it is beans or meat. </p>
+        <p>Well I have lost that job I was telling about last Sunday (K P) you ask Harold he can tell you how it goes</p>
+        <p>I will be out on truck next week.</p>
+        <pb n="5" facs="0012_001303_000240_0005.jpg" xml:id="d4e102"/>
+        <p>I say the Elks did have some minstral from the way the program looks  wish I could have been there  Of course Bond Wilkerson would have to do some thing.</p>
+        <p>They must have made some big money out of it if they had three big nights  Yes Lin and myself were talking about the dance we knew they would have on St. Patrick day.</p>
+        <p>I know I will be to late to get in in any of the dances until next winter.</p>
+        <p>I will say that was some rain you had every one that writes to any of us has something to say about it</p>
+        <pb n="6" facs="0012_001303_000240_0006.jpg" xml:id="d4e112"/>
+        <p>Yes I remember where we went to see the dredge</p>
+        <p>That brings back old memories did you ever think about that being the first night I ever made a date with you </p>
+        <p>The beginning of some happy hours I have spent  Only to have them stoped all of a sudden about 18 months later  No I never will forget that time.</p>
+        <p>Well dear is most supper time and I am going to have some good old Army beans  Can't miss them</p>
+        <p>With lots of love</p>
+        <p>Fayette</p>
+      </div>
+    </body>
+  </text>
+</TEI>

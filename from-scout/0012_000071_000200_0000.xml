@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Somerset, Kentucky to Amos Gould in Owosso, Michigan
+<date when="1864-03-04">
+1864 March 4
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Somerset, Ky. to Amos Gould in Owosso, Mich., 1864 March 4</title>
+               <date>1864-03-04</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated March 4, 1864, Henry Cherry writes from Somerset, Kentucky to Amos Gould, in Owosso, Michigan, talking of the difficulty of getting paid. He also discusses how the other officers support him, despite the negative statements made about him by Captain Ayers. Finally, Cherry notes that the &quot;pike&quot; to Knoxville is &quot;abandoned&quot; and questions how he will be reunited with his regiment.</note>
+               <note type="collection">The Henry Cherry Letters, 1864</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000200_0001.jpg" xml:id="d3e142"/>
+            <p>Somerset Kentucky</p>
+            <p>Friday March 4th 1864.</p>
+            <p>Hon Amos Gould,</p>
+            <p>My Dear Sir,</p>
+            <p>Yours of Feb 23d came to hand last evening, fortunately finding me here instead of marching with the Regiment over the bleak &amp; Rocky Mountains in the severe storm now just over. I am here by (&quot;Special Order No 3&quot;.) which directs me to take the charge &amp; care of all our sick who are able to travel to Michigan. I might have been in Toledo to night, had not Genl Fry refused Transportation, &amp; ordered me to my Regiment. I have since seen the General &amp; he sees the thing in a different light, so that I am hoping he will do the fair thing for our boys. Some Fifty are selected to go if the Genl gives Transportation. I am obliged to you for the account of rent &amp; am surprised at the amount for I supposed it would be more than you say. When I come, if you find that the amount is too small, I will make it, &amp; all else right, if I can get my pay. Two months pay was due me on the last of Feb &amp; I am</p>
+            <pb n="2" facs="0012_000071_000200_0002.jpg" xml:id="d3e158"/>
+            <p>very much needing a little of it, for my present comfort, not being able to hire a bed, I use a blanket on the floor.</p>
+            <p>The time will soon come I trust, when I shall not be so pinched with poverty. If I can get my pay while away from the Regiment, I can square up every thing, &amp; go on with a cheerful heart. You cannot tell the feelings of heartfelt gratitude within me toward you for your kindness toward me &amp; mine. I will return you interest in full.</p>
+            <p>I have been deeply grieved at the reports of Capt Ayers about me. Col Foote wrote immediately to Mrs Cherry denying the statements &amp; afterward Lieut Col Trowbridge wrote another statement, condemning Capt Ayers &amp; commending me. This Paper is signed by all the Officers, &amp; if it had been worth while every man in the Regiment would have signed it. I am sorry that my wife &amp; family should have had occasion for such grief. I am not much acquainted with Ayers &amp; would not know him unless he was pointed out to me.</p>
+            <p>You will probably have learned of Lieut Byerlys promotion to Regimental</p>
+            <pb n="3" facs="0012_000071_000200_0003.jpg" xml:id="d3e172"/>
+            <p>Commissary. If he does as well as he has heretofore he will ere long take another step. He is very far ahead of his Captain in Mental Ability &amp; moral courage.</p>
+            <p>It may be that Genl Fry will take a notion that our sick are well enough off in Ky &amp; conclude not to give me transportation, and in that case I shall have to find my Reg. the best way I can. I have exhausted all my arguments with him, but he is a Kentuckian &amp; jealous of the rights of others. You will know the result in a short time. I send with this, a letter to the Tribune on affairs in this region which is pretty thoroughly rebel. The great &quot;pike&quot; to Knoxville is now abandoned, The Telegraph cannot be put up, The Post Stations are ordered in, &amp; all building at Pt Burnside is now ordered to be stopd. I have heard of no order about Camp Nelson. Were I to give one, I would say Remove it to Cincinnati, where the sick would be cared for, or a fuss made by the civilized population. A Hospital needs to be where all concerned in it can be watched by respectable people. In closing allow me</p>
+            <pb n="4" facs="0012_000071_000200_0004.jpg" xml:id="d3e182"/>
+            <p>to say again, Thanks, many thanks for your kindnesses. To whom can my wife &amp; children look but to you. I will pay you all.</p>
+            <p>With affectionate regards to Mrs Gould Mrs Osborn Mrs E Gould &amp; Mrs Graham &amp; all others</p>
+            <p>I am most truly and</p>
+            <p>Affectionately</p>
+            <p>Yours</p>
+            <p>Henry Cherry.</p>
+            <p>As I have to write some letters for the sick boys who cannot write will you please say to Mrs Cherry that I met Genl Fry a little while ago &amp; he promised to send waggons for me &amp; the sick boys as far as Camp Nelson. Then another General may see fit to stop us, &amp; I may not be able to conquer him, but I am not afraid to try. I will write to her as soon as I can.</p>
+            <p>I saw half an hour since a rough customer a Major Lyon who knew Dr Graham at New Albany. He was good natured but rough as a Porcupine.</p>
+            <p>H Cherry</p>
+            <p>March 4 1864</p>
+         </div>
+      </body>
+   </text>
+</TEI>

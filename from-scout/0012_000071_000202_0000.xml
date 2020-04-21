@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Knoxville, Tenn., to Amos Gould in Owosso, Michigan,
+<date when="1864-07-11">
+1864 July 11
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000202_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1864 July 11</title>
+               <date>1864-07-11</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated July 11, 1864, Henry Cherry writes from Knoxville, Tenn. to Amos Gould, in Owosso, Michigan, thanking him for his help in clearing up the problems with Cherry&apos;s certificate of muster. He also discusses how happy the officers were to receive the paperwork that would allow Cherry to be paid. Finally, Cherry discusses delivering Sunday services to people in the &quot;country&quot; noting that &quot;The people from every direction are urging me to come &amp; preach, but my duties will not permit me to be often absent from camp.&quot;</note>
+               <note type="collection">The Henry Cherry Letters, 1864</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000202_0001.jpg" xml:id="d3e142"/>
+            <p>Knoxville, Tenn. July 11th 1864</p>
+            <p>(Head quarters 10th Mich Cav)</p>
+            <p>Honl Amos Gould</p>
+            <p>Dear Sir,</p>
+            <p>Your favor of June 29th with duplicate to <unclear reason="Unclear first letter; looks like the letter v." resp="Josh Hogan">V.M.</unclear>Genl Wm Hammond came duly to hand with the signature of Capt John H Knight, for all of which please receive my most sincere thanks. You doubtless soon after sending, received a few lines informing you of my good fortune in receiving a notice from the &quot;Sec of War&quot; at Washington that my muster was recognized. That settled the whole matter with Col Foote immediately on his return from Knoxville. It came in the night, with other official papers and so glad were the Officers present, that they at once deputied the Adjutant to go &amp; wake me up, &amp; hand me the paper with their united congratulations. Every Officer meeting me the next day rejoiced with me &amp; for me. It certainly was a most happy circumstance, and as we are informed that the Paymaster was in Knoxville yesterday, we shall hope to see him here this week to pay this Regiment, and if he does</p>
+            <pb n="2" facs="0012_000071_000202_0002.jpg" xml:id="d3e161"/>
+            <p>Please remember me to all your families &amp; when you write to your Brother Ebenezer give him my best wishes &amp; regards.</p>
+            <pb n="3" facs="0012_000071_000202_0003.jpg" xml:id="d3e169"/>
+            <p>so, you may expect all my debts to be paid as soon thereafter as is possible to send the drafts. I want my wife to have the pleasure of paying them for it will do her so much good. Her heart will rejoice as well as mine. Among all the undesirable enemies in the world, debt is the worst, for it makes a man feel so helpless, &amp; dependent, &amp; mean.</p>
+            <p>As for affairs in our Regiment nothing has been brought to a focus that I ahve heard of. I do not hear as much as I would, were I connected with the troubles. They are of a character which will permit no interference on my part, &amp; as I have enough to do with my own work I am contented to make no enquiries. Yesterday I spent my second sabbath in the country and it was a very pleasant one. I gave in the morning by special request, an address to a union sabbath school, &amp; preached in the afternoon. The people from every direction are urging me to come &amp; preach, but my duties will not permit me to be often absent from camp.</p>
+            <p>With many &amp; sincere thanks to you I remain</p>
+            <p>As Ever Truly Yours H Cherry.</p>
+            <pb n="4" facs="0012_000071_000202_0004.jpg" xml:id="d3e183"/>
+            <p>H Cherry</p>
+            <p>July 11 1864</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000208_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Jo. W. Allen</name>
+				                   in Nashville, Tenn. to David Burford in Smith County, Tenn.,<date when="1854-02-04">1854 Feb. 04</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Herbert</name>
+        </respStmt>
+        <author>
+          <name type="person">Jo. W. Allen</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000208_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Jo. W. Allen in Nashville, Tenn. to David Burford in Smith County, Tenn.,1854 Feb. 04</title>
+          <date when="1854-02-04">1854 Feb. 04</date>
+          <author>
+            <name type="person">Jo. W. Allen</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Herbert">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000208_0001.jpg" xml:id="d4e39"/>
+        <p>400 $ belonging to</p>
+        <p>D Burford &amp; Co</p>
+        <p>to pay Wm F Mallister</p>
+        <p>Maj D Burford</p>
+        <p>Dixon's Spring;</p>
+        <p>Smith County:</p>
+        <p>Tennessee.</p>
+        <note type="transcription">The following text is another note written on the bottom of the envelope.</note>
+        <p>From Jo. W. Allen</p>
+        <p>containing</p>
+        <p>Fall &amp; Cunningham</p>
+        <p>&amp;</p>
+        <p>Ewen Brothers</p>
+        <p>Note $ 4445.45</p>
+        <note type="transcription">The preceding text is another note written on the bottom of the envelope.</note>
+        <p>From Jo; W, Allen</p>
+        <pb n="2" facs="0012_000117_000208_0002.jpg" xml:id="d4e74"/>
+        <p>Nashville Feb 4 1854</p>
+        <p>Dear Majr</p>
+        <p>I have bound your money to Fall &amp; Cunningham at 6% for 60 days and enclose you the note - it is to be paid any time by giving three days notice - the note is undoubted and will be paid promptly - If you want the money before the note is due they will have it ready on your writing to them and giving three days notice</p>
+        <p>Van arrived here Thursday night he went two days with David and he is a a place where letters can be sent to him if you write enclose the letter to me - dont date it at any place nor put David' name in it nor on it - enclose it in an envelope &amp; send it to me -</p>
+        <p>Dr Cornwall is here to see the Govn. - I have had him seen and he will not issue his proclamation unless compelled - Van went up last night to see <unclear reason="illegible" resp="HJ">Guild</unclear> &amp; will be back here to day I have told Van not to tell any body where David was not even his mother not any of us.  Then we can all say we dont know</p>
+        <pb n="3" facs="0012_000117_000208_0003.jpg" xml:id="d4e89"/>
+        <p>where he is - <unclear reason="illegible" resp="HJ">Guild</unclear> will be at Carthage at the <unclear reason="illegible" resp="HJ">chancery</unclear> court and can then determine you &amp; him when David ought to come in or whether at all or not - Excuse this letter</p>
+        <p>I am much pressed for time and am in no condition of mind to think clearly since this terrible calamity</p>
+        <p>Yours <unclear reason="illegible" resp="HJ">ms</unclear> truly</p>
+        <p>Jo W Allen</p>
+      </div>
+    </body>
+  </text>
+</TEI>

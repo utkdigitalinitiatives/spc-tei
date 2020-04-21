@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000235_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Spring Hill, to Caroline M. Brown,<date when="1862-03-27">1862 Mar. 27</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000235_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Spring Hill, to Caroline M. Brown,1862 Mar. 27</title>
+          <date when="1862-03-27">1862 Mar. 27</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000235_0001.jpg" xml:id="d4e39"/>
+        <p>Spring Hill</p>
+        <p>March 27 62</p>
+        <p>Dear wife I received your letter of the 9, 10, and 11 last night and was truly glad to here from you and was verry sorrow to here that was so much sickness in that settlement but glad to hear that you and the children ware well when you wrote last I heard that Sarah mains was Dead and buried I feel sorry for Thomas indeed alltho it is no more than i exspected when I saw her last I will just say that i found seven stamps in the letter whitch pleased me verry much indeed also</p>
+        <pb n="2" facs="0012_000599_000235_0002.jpg" xml:id="d4e47"/>
+        <p>A nice invelope i can get as many of them as i want and paper to we lack nothing but stamps you may send me some more if you can get them I think they will come safe you stated that you had sent me three letters with that one and that was the second one for me you said that you felt sorry for me I feel sorry for you and the children to think that you have so much to see to and do that i feel verry Bd to think of it but we must Be satisfide with our fate i hope we will be permited to meet soon again it is whisperd throug camp this morning that we will leave here soon for some others point I shal by saing good bye</p>
+        <p>Henry Brown</p>
+        <pb n="3" facs="0012_000599_000235_0003.jpg" xml:id="d4e53"/>
+        <p>Isaiah M. Brown</p>
+        <p>Now a few words to the boys Isaiah you wanted to know how long Jule would go be fore she would have a colt that is more than I can tel you must take the best care of her that you can you said that <unclear reason="illegible" resp="LW">keep</unclear> was dead that he was kiled for sheep killing I am glad that you had him killed you say nothing about the little pup i would like to see him you said something About that ring I drawed it In a package of paper and i did Not want it and i thought i woul send it home you said you wante to know how many letters i have wrote this is the 12th one and it is 14 sheets of paper in them</p>
+        <p>Henry Brown to Isaiah Brown</p>
+        <pb n="4" facs="0012_000599_000235_0004.jpg" xml:id="d4e64"/>
+        <p>To George W. Brown</p>
+        <p>Now George, W, i would like to see you the best kind and see you and your little pup play about the yard you must tell me whether you like that picture i sent you from Nashville Tennessee Now you boys must work like little heroes and see what you can raise this summer and be carefull with Jule and do not let her runn off with you boys if you can help it if you do she will be ruind forever Now i will bring my letter to a close for this time as i wroat to you the day befor so good boys Remember me</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

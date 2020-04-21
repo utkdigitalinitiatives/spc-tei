@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    in New Orleans, La., to his wife <date when="1850-01-30">1850 Jan. 30</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson in New Orleans, La., to his wife 1850 Jan. 30</title>
+               <date when="1850-01-30">1850 Jan. 30</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000200_0001.jpg" xml:id="d4e39"/>
+            <p>New Orleans Jany 30. &apos;50</p>
+            <p>My dear Elizabeth</p>
+            <p>I have shipped to <unclear reason="illegible" resp="EMS">EM Clare</unclear> of Hamilton 1 barrel of the finest coffee 1 of the finest sugar and one of Molasses on board of the <unclear reason="illegible" resp="EMS">Lohunton</unclear>.</p>
+            <p>The papers contain an order <unclear reason="illegible" resp="EMS">aproving</unclear> Jackson to the Utah service. This will prevent him staying with us as long as he <unclear reason="illegible" resp="EMS">caputed</unclear>. I hope to get off on the 1st of February, and stopping two days at my farm, will reach home about the 12th. Tell Jackson not to leave until he sees me. My object in being here is to effect a money arrangement by which I will <unclear reason="illegible" resp="EMS">settle</unclear> all my debt on the Mississippi plantation. This I think will be <unclear reason="illegible" resp="EMS">offorted</unclear> in a day or two, though the times are hard and nothing of the sort can be done without paying too much.</p>
+            <p>When I left my place all were well except Benjamin, who had hurt his <unclear reason="illegible" resp="EMS">leg</unclear>. The inflammation had fallen into his <unclear reason="illegible" resp="EMS">eyes.</unclear>
+            </p>
+            <pb n="2" facs="0012_000435_000200_0002.jpg" xml:id="d4e74"/>
+            <p>My <unclear reason="illegible" resp="EMS">tunes</unclear> in <unclear reason="illegible" resp="EMS">Tennessee</unclear> were not paid, but the collector promised to wait until my return. They are enormous and would make a revolution in any other country but ours.</p>
+            <p>If the Hermitage Military school <unclear reason="illegible" resp="EMS">passes</unclear> it will increase the value of our land, but will not really benefit any body but the chicken raisers and the <unclear reason="illegible" resp="EMS">shop</unclear> dealers.  I am opposed to the whole scheme as far as the public intent is to affected by it, but shall say nothing about it. If it increases the value of the land I proposed to sell McFarlane I shall be on the look out for the favorable moment to get rid of it.</p>
+            <p>Tell WM and <unclear reason="illegible" resp="EMS">Stockly</unclear> to hold on to their cotton. It is obliged to sell higher in the course of six weeks, but even to day it would command 10 cents in this market. </p>
+            <p>David had better work out the <unclear reason="illegible" resp="EMS">session with Crofs</unclear>, who is a good teacher. When I get home, I will try some new plan to get a teacher for Martin, <unclear reason="illegible" resp="EMS">Hen, &amp; Haty</unclear> to all of whom remember me affectionately, not forgetting David &amp; Lewis.  </p>
+            <p>With kind regards to your sister Kate and to Rachel, believe me always</p>
+            <p>V. devoted husband</p>
+            <p>A J Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

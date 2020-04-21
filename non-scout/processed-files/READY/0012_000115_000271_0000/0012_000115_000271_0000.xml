@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000271_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Deed of Trust,
+					<name>J. W. Hamilton</name> and <name>Patrick Hamilton</name>
+				                    T. D. Allen for the benefit of R. Alexander and D. Burford <date when="1830-12-03">1830 Dec. 03</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">J. W. Hamilton</name>
+          <name type="person">Patrick Hamilton</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000271_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Deed of Trust, J. W. Hamilton and Patrick Hamilton T. D. Allen for the benefit of R. Alexander and D. Burford 1830 Dec. 03</title>
+          <date when="1830-12-03">1830 Dec. 03</date>
+          <author>
+            <name type="person">J. W. Hamilton</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e41">
+        <pb n="1" facs="0012_000115_000271_0001.jpg" xml:id="d4e42"/>
+        <p>Jw H <gap reason="indecipherable" resp="Mincey"/>
+            </p>
+        <p>Patrick A. Hamilton</p>
+        <p>Deed of Trust</p>
+        <p>T. D. Allen for the</p>
+        <p>Benefit of R. Alexander</p>
+        <p>&amp; D. Burford</p>
+        <pb n="2" facs="0012_000115_000271_0002.jpg" xml:id="d4e57"/>
+        <p>Know all men by these presents that we John W. Hamilton &amp; Patrick A. Hamilton for and in consideration of the sum of one dollar to us in hand paid by Discon T. Allen, the receipt whereof is hereby acknowledged, have bargained, sold, and delivered unto said Allen the following <unclear reason="illegible" resp="JCM">deserted</unclear> property, to wit one stud horse four years old last spring of bay colour, and known by the name of John Miller, also two black horses about eight, or nine years old; also two brown mules now in the possession of Richard Alexander, and a Jinny; and also a gray mare called blue eyed Marry, also a four wheel carriage and also one brown &amp; one gray mare and six colts, four yearlings &amp; two spring colts. To have and to hold to said Allen for the uses and purposes herinafter expresses for no other; - Whereas said John W. Hamilton and Patrick Hamilton have this day  <unclear reason="illegible" resp="JCM">executen</unclear> their joint note payable to Richard Alexander &amp; David Burford on the first day of February next for one thousand and twenty dollars and fifty-three cents: now if the said John W. Hamilton, or Patrick A. Hamilton, or any other purson for them shall well and truly pay or cause to be paid unto said Alexander or Burford the aforesaid note at the time it falls due them or in that case said Allen is to reconvey said property to said John W. or Patrick A. Hamilton, but if said note is not punctually paid at the time aforesaid it is hereby made the duty of said Allen on the applisation of said Alexander or Burford, to advertise at Hartsville &amp; at Dixons Spring at least five days before the day of sale and sell the whole of the above described property for cash or so much tereof as shall be sufficient to satisfy said note &amp; interest and also</p>
+        <pb n="3" facs="0012_000115_000271_0003.jpg" xml:id="d4e67"/>
+        <p>the expense of keeping said horses. it is further understood by and between the partys that said Alexander &amp; Burford or either of them are to have absolute control over the whole of said horses, mules, Jinny, carriage &amp; costs so far as to take care of, or have them taken care of excpet the two black horses which it is agreed that said Hamilton is purmited to ride or take to the lower country, but is to return them; and it is further understood and agreed by and between the partys that if any sale should be made by the trustee Allen that the same shall be absolute and convey the property as fully as the original owners could do, and that the same shall not be dedeemable.</p>
+        <p>Witness our hands &amp; seals this 3rd Dec 1830</p>
+        <p>JW Hamilton Seal</p>
+        <p>PAHamilton Seal</p>
+        <p>Witness</p>
+        <p>
+          <unclear reason="illegible" resp="JCM">Wm Sauderdale</unclear>
+        </p>
+        <p>
+          <unclear reason="illegible" resp="JCM">JLAnthony</unclear>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

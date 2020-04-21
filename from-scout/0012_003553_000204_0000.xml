@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003553_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">William H. Dennis</name> in <name type="place">Knoxville, TN</name>, to
+               his brother David, <date when="1863-12-12">1863 December 12</date>
+            </title>
+            <author>
+               <name>Dennis, William H.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2012</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special
+                  Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_003553_000204_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William H. Dennis</name> in <name type="place">Knoxville, TN</name>, to his brother David, 
+                  <date when="1863-12-12">1863 December 12</date>
+               </title>
+               <author>
+                  <name>Dennis, William H.</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Knoxville Civil War Correspondence Collection, 1862-1864</note>
+               <note type="manuscript">MS.3711</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+                  <term>Civil War Letters</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-09-13" who="nl">Reformatted transcription from its original TEI.2
+            markup to comply with the TEI-P5 lite schema.</change>
+         <change when="2013-09-13" who="nl">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e161">
+            <pb facs="0012_003553_000204_0001.jpg" n="1" xml:id="d2e163"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Knoxville Tenn.</name>
+                  <date when="1863">Dec. 12th 1863</date>
+               </dateline>
+               <salute>Dear Brother</salute>
+            </opener>
+            
+            <p>with much pleasure I will try to Scrible you A few lines to let you know that I Am well And harty hoping these few lines may find you all well and Enjoying the pleasures of life  all the boys of your acquaintance are well and Enjoying Camp life as well as could bee Expected under the circumstances</p>
+            <p>know dout before this reaches you you will have herd of the Seige of <name type="place">Knoxville</name> and how we was placed  I am not prepared to give much news but I will give A little what comes under my observation</p>
+            <p>the first we herd of the rebels was they attacted our forces across the river from Knoxville and drove our men back with in too miles of town   at the Same time they</p>
+            
+            <pb facs="0012_003553_000204_0002.jpg" n="2" xml:id="d2e193"/>
+            <p>Attacted <name type="person">Burnside</name> at Louden 30 miles below here and outnumber and drove him back to knoxville also the rebels followed up closely and attacted us in the morning  we did not Suffer So much as Some of the other troops for our brigade was held as A reserve but we kept them back</p>
+            <p>the first day when nigth come old Burny had all his boys out with Picks and Shovels Again  day light we had rifle pitts all around the town  that was the way <unclear reason="illegible" resp="PW">worked</unclear> then fought all day and dug rifle pitts at night till we was pretty well fortifyed</p>
+            <p>but I tell you the rebs had us in A pretty tight place they moved right up and Surrounded us there  we was tight as you please  they cut off our Supply   we did not have much to live on  we had to live on ham &amp; corn bred and half rations of that and lay int on the cold froze ground for 21 day</p>
+            
+            <pb facs="0012_003553_000204_0003.jpg" n="3" xml:id="d2e210"/>
+            <p>on the morning of the 29th of November the rebels maid A charge on our fort with 1300 picked men of the best thay had to try to take the fort  the charge did not last over 20 minutes and our men killed 400, wounded 500, and took 300 hundred of them prisoners  it was a hard looking Sight to See  I hope I may never See an other like it  our loss was only 4 killed and 11 wounded at that time   at the time of the attact at the fort our brigade was over the we was attacted at the Same time but we drove them back also we had one man killed and 15 wounded in the regt. there was too wounded in our company <name type="person">Wm. Fraser</name> and <name type="person">Samuel Totten</name></p>
+            <p>but on the morning of the 22nd day of the Seige we got up and found that the rebels had left in the night for Virginia  by this time <name type="person">General Shearman</name> had reinforced us and our men Started</p>
+            
+            <pb facs="0012_003553_000204_0004.jpg" n="4" xml:id="d2e227"/>
+            <p>After the rebels the 104th regt. is gone with the rest  I was detailed to guard the Commissary in here in camp and I did not get to go Along  I was Sorry for I would liked to of been Along  it is the first time that I was Ever left behind the regiment Since we was out I have been on Evry march that the regiment has t maid   I have not herd any thing from the regiment Since they left but I think they <unclear reason="illegible" resp="PW">have</unclear> Enough to Capter <name type="person">Longstreet</name> and all his force</p>
+            <p>What is your opinion About the war   for my part I think the rebs, is About gone up I have better prospects of the war ending Soon know then I Ever had if Braggs Army is as bad whiped as reported I think the war will Soon Close   I hope how Soon it may End as my paper is About done I close asking you to write Soon I have not had A letter from you Since in Aug. give my best wishes to all Enquiring friends</p>
+            
+               <closer>
+                  <salute>I Am truly Yours</salute>
+                  <signed><name type="person">William H. Dennis</name></signed>
+               </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

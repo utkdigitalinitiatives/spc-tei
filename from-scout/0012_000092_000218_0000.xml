@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000218_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mangum Cregmile</name>
+ in Stilwells Corner, to Southgate Cregmile<date when="1865-04-06">1865 April 26</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Mangum, 1848-1917</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000218_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mangum Cregmile in Stillwell Corner to Southgate Cregmile, 1865, April 6</title>
+               <date>1865-04-06</date>
+               <author>
+                  <name>Cregmile, Mangum, 1848-1917</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">1865 April 26 Seventeen year old Mangum Cregmile in Stillwell&apos;s Corner, Ohio, to his brother Southgate. Assures him that all is well there. Having recently moved into a new place, he knows no one and there is little to do; but, he plans to move again as soon as possible and get a well paying job. Would rather learn a trade than farm but has no preference right now. Sharing good news, he describes the excitement, especially in Cincinnati, over Richmond, the Confederate capitol, finally falling to the Federals; but has also received news of a local boy being killed. Encourages him about his wound and asks him to write soon.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Families of military personnel -- United States -- History -- 19th century -- Correspondence.</term>
+               <term>Soldiers -- United States -- History -- 19th century.</term>
+               <term>Ohio -- History -- Civil War, 1861-1865 -- Social aspects.</term>
+               <term>Cregmile, Mangum, 1848-1917 -- Correspondence.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>War casualties.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000092_000218_0001.jpg" xml:id="d3e157"/>
+            <p>Thursday April 6st 65</p>
+            <p>Stilwell corner</p>
+            <p>Dear Brother</p>
+            <p>I take the presant oppertunity of writing you a Short lettre to let you know how thing is going on about Stilwell Corner We have left the old plac at last and moved in one of the <unclear reason="illegible" resp="NW">linescrie </unclear> place I ever seenen my life I dont know any body and have nothing to ete but set around and that is worse them <unclear reason="illegible" resp="NW">the ick </unclear> But I dont expect to stay hear long that </p>
+            <pb n="2" facs="0012_000092_000218_0002.jpg" xml:id="d3e177"/>
+            <p>is if I can get a place to work and good wages I hate to set around and I hate to work that is farm I would like to learn a trad but I dont know waht I would like best <unclear reason="illegible" resp="NW">they </unclear> is great excitment up hear ever, the full of Richmend there was a great time in Cincinnati last Monday night The Sad news cam to day that Theodere Antheny was killed, I hope that your wound is not bad and James <unclear reason="illegible" resp="NW">Reea </unclear> Well South it is getting dark and <unclear reason="illegible" resp="NW">Tip</unclear> wants to write </p>
+            <pb n="3" facs="0012_000092_000218_0003.jpg" xml:id="d3e194"/>
+            <p>So I will quit fer this time</p>
+            <p>So write Soon</p>
+            <p>Yours in hast</p>
+            <p>Mangum Cregmile</p>
+            <p>Southgat Cregmile</p>
+         </div>
+      </body>
+   </text>
+</TEI>

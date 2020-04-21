@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000209_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Lt. Col. Edward Maynard</name> in camp near Carthage, Tenn. to Washburn
+					Maynard in Newport, R.I. <date when="1863-04-20">1863 April 20</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Lt. Col. Edward Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000209_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Lt. Col. Edward Maynard in camp near Carthage, Tenn. to Washburn Maynard in Newport, R.I. 1863 April 20</title>
+          <date when="1863-04-20">1863 April 20</date>
+          <author>
+            <name type="person">Lt. Col. Edward Maynard</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001519_000209_0001.jpg" xml:id="d4e40"/>
+        <p>Camp near Carthage</p>
+        <p>April 20th 1863</p>
+        <p>Dear Pick,</p>
+        <lg>
+          <l>"I long have thought my youthful friend</l>
+          <l>A something to have sent you</l>
+          <l>Tho' it may serve no other end</l>
+          <l>Than just a kind memento" - </l>
+        </lg>
+        <p>So said Burns poet farmer of <unclear reason="illegible" resp="bds">Scotria's</unclear> hills - I like to write to my friends and to hear from them - You see by this that we no longer <unclear reason="illegible" resp="bds">lie</unclear> looking on the dreary site of Murfreesboro' - We came to this place on Apr. 4th after a hard forced march from <unclear reason="illegible" resp="bds">M.</unclear> which place we left on the 2nd - One need has come to hand since here we landed and I received</p>
+        <pb n="2" facs="0012_001519_000209_0002.jpg" xml:id="d4e68"/>
+        <p>several letters but looked in vain for your familiar hand - One was from father at Washington, one from <unclear reason="illegible" resp="bds">Mille</unclear> at S. Hadley and one from <unclear reason="illegible" resp="bds">Aleck</unclear> Kennedy at Louisville Ky - a classmate of mine at Knoxville in which he says he saw at that place Charles Coffin Jim <unclear reason="illegible" resp="bds">Craighead</unclear> - Young Legg and Tillery going North in search of their rights under a guard, having been taken at <unclear reason="illegible" resp="bds">Somerset</unclear> in Carter's fight with Pegram - Charley said they could not have been whipped, but they ran out of powder and lead. He says Jim <unclear reason="illegible" resp="bds">Craighead</unclear> looked as if he were dead.</p>
+        <pb n="3" facs="0012_001519_000209_0003.jpg" xml:id="d4e87"/>
+        <p>Could I have seen those boys as prisoners I would have treated them as best I could for old acquaintance sake - I wish I could come and see you I would give you some funny incidents that take place - Could you see this place you would think it enjoyed the pleasures of war - It looks like a widow womans farm but still is in much better whack than Murfreesboro where there is not a rail to tell there ever was a fence - Genl. <unclear reason="illegible" resp="bds">Cullom</unclear> whom you used to see in Washington lives here - I have not seen him as he is a violent rebel but I think I shall go and see him - </p>
+        <pb n="4" facs="0012_001519_000209_0004.jpg" xml:id="d4e94"/>
+        <p>There is not nearly as much duty here as there was at Murfreesboro - and we have a pleasant camp but still it does not suit me. I never will be content to be idle at a place when I should be with my command in the field. I want to get back to Ky. where I know the country and can do some devilment to the Rebs. I employ my leisure time in writing, reading Byron, Burns, and all works on the army and its doings that I can find. Our men are tolerably well and in good spirits. Our Regt. is the best in this Brigade in drill and discipline - There is no news that I can find out now so I close - Write soon</p>
+        <p>Your brother Edward - </p>
+      </div>
+    </body>
+  </text>
+</TEI>

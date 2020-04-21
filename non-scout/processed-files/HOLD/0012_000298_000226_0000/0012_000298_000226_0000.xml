@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000226_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1865-06-04">1865 June 4</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000226_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Memphis, Tenn., to his wife 1865 June 4</title>
+               <date when="1865-06-04">1865 June 4</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000226_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis June 4th 1865</p>
+            <p>My Darling</p>
+            <p>Yours of Wed recd. I am sorry to hear of Charlotte head being so bad but hope the treatment may succeed I will send her the Ticket this week but really think she had better not come down at present. As the weather is intensely hot and the Physicians say that untill July this city is not healthy after that time it is more healthy in the mean time she had better take a trip to see the <unclear reason="illegible" resp="EMS">Bowens</unclear> I trust she will be better before this reaches you. things are very unsettled and I do not know how long I may have work in this Department but hope untill the Courts are open and I can get into practice mine is the only office which has not been interfered with and I have more than ever last month 3700. people were before me and proved their cotton so you see I have been busy and now have three clerks in my office <unclear reason="illegible" resp="EMS">Athearn</unclear> went home on a visit last Wednesday and I sent</p>
+            <pb n="2" facs="0012_000298_000226_0002.jpg" xml:id="d4e53"/>
+            <p>by him to be forwarded by Express from Centralia $75- in 50/ currency - I hope you will get it without delay, I got my money from the Ex Co for the <unclear reason="illegible" resp="EMS">term</unclear> but only the amt you paid they saying that the mistake was made at Centralia so I took what I could get yesterday I found a hole in one of my front teeth the one that was discolored and mean to have it filled at once if it can be done it does not ache I recollect breaking off a piece of that tooth many years since cracking a nut which has caused the decay it does not pain me in the least - I am glad that Ann behaves well you had better keep her the negroes here are <unclear reason="illegible" resp="EMS">perfectly</unclear> worthless but if I can get such a one as were speaking about I will take her up when I go - Genl Orme returned here yesterday from Paducah he is not well and I suppose will get home the next week he has the camp dysentery which he contracted in Arkansas which is severe. My new room is quite pleasant and is kept quite clean I have the promise of a Mosquito <unclear reason="illegible" resp="EMS">ban</unclear> this week which will   </p>
+            <pb n="3" facs="0012_000298_000226_0003.jpg" xml:id="d4e66"/>
+            <p>soon be necessary tho not as yet the flys are very bad and <unclear reason="illegible" resp="EMS">they hurt</unclear> awful. tho most of the streets are watered daily. but it comes in from those not watered the city full of Confeds who have surrendered there are now no bodies of troops in arms. The War is over - but the South ruined. The men have no means to procure teams to work with and I do not see what they can to do next winter May God help them and keep them from evil ways. the hot weather is very trying I have put on my <unclear reason="illegible" resp="EMS">Lisle</unclear>thread shirts but wish I had my old cotton summer ones. if any one is coming down who will bring them send me four or five - I think Dixon will be along soon. he is in the Sheriffs office in the Court House square all day - and I think would bring them. I saw the Holmans last Sunday they desired me to send their love Mrs Parkers is the only lady left but the house is full of men Clara says she is better but she looks badly Kiss the children for me.</p>
+            <p>Your aff husband</p>
+            <p>Mrs W R Hackley            WRHackley</p>
+            <p>Bloomington Ills,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

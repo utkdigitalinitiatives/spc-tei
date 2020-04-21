@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>David L. Jones</name>
+ in Nashville, Tenn. to Anna Jones in Allegheny City, Pa. <date when="1865-04-05">1865 April 05
+ </date>
+            </title>
+            <author>
+               <name type="person">Jones, David L..</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000204_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa., 1865 April 5</title>
+               <date>1865-04-05</date>
+               <author>
+                  <name>Jones, David L..</name>
+               </author>
+               <extent>4  digital images;  4 pages</extent>
+               <note type="abstract">Letter dated April 5 1865 David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa. Describes guard duty, inspections, food at camp and a nightmare he had about returning home.
+</note>
+               <note type="collection">David L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+               <note type="item">8</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldier -- Pennsylvania -- Correspondence.</term>
+               <term>Operational rations (Military supplies) -- Tennessee -- Nashville -- History -- 19th century. </term>
+               <term>Soldiers -- Medical care.</term>
+               <term>Nashville (Tenn.) -- History -- 19th Century</term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Jones, David L., Union soldier -- Correspondence. </term>
+               <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866). </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000091_000204_0001.jpg" xml:id="d3e157"/>
+            <p>Nashville Tenn April 5th / 65</p>
+            <p>My Dear Wife</p>
+            <p>This wet and muddy morning after been relieved from guard Duty and partaking of a cup of coffee and in all probability that I shall be on guard again. I therefore embrace this opportunity of writing to you a few lines hopeing that you and Children are well as this leaves me at present thank the giver of food and perfect gift when I laid me down this morning at two o clock I dreampt that i was at home but i thought you had moved from where you was and when I wakened up i was disappointed very much to find myself where i was Yesterday we got a few Potatoes from the Sanitary Commission there was some boiled for dinner but i had to take and eat at eleven so as to relieve a guard</p>
+            <pb n="2" facs="0012_000091_000204_0002.jpg" xml:id="d3e169"/>
+            <p>But after i came back i got three Potatoes which i cooked myself the first potatoes we tasted since we came here we also have some sour grout and a few dried apples but we have not got any of them yet <unclear reason="illegible" resp="NW"/> gets rice and hominy but we have not seen any yet it would be better if they would issue rice and give less meat it turns a person s stomach against meat when you see it tramped under feet I dont eat any meat hardly Some growls of not having enough meat I give nearly all of mine away to them last monday some of our fellows went down the wharf and found a Pittsburgh boat there what they were acquainted with the hands and took dinner with them one of them took and ate very hearty and after coming back to the Barracks i thought he would have died but he got over it though</p>
+            <pb n="3" facs="0012_000091_000204_0003.jpg" xml:id="d3e179"/>
+            <p>We have a Doctor in the Regt now from butler bo I dont know whether he was in the Army before of not he is ranked as a Lieutenant I hear that we have got a Chaplain too I dont know his name neither have seen him Neither do I know what is the use in having a Preacher unless they would give their men time to go to meeting Sabbath day is the biggest day we have Sabbath morning first thing they commence cleaning their gun and boots and any other fixing they may have to do against Inspection which takes Place at half past nine then in the afternoon they have Dress Parade or Company inspection when they inspect your guns knapsack <unclear reason="illegible" resp="NW"/> sack canteen and clotheing then at 8 o clock in the evening the lights must be put out And herre Lincoln and <unclear reason="illegible" resp="NW"/> will appoint days of Thanksgiving for the </p>
+            <pb n="4" facs="0012_000091_000204_0004.jpg" xml:id="d3e191"/>
+            <p>Success of our Arms &apos; when they dont make any effort to keep holy the Sabbath day it is nothing but Mockery All they care for is their own interest while at Camp Curtin then was some of our fellows had their limbs froze and there are some here what took cold at that camp and are at the Hospital here That sick man that I was telling you about when i was there came on after us and is gone to the hospital here since. I should like to know how does the children behave themselves whether they <unclear reason="illegible" resp="NW"/> you <unclear reason="illegible" resp="NW"/> trouble or not I shall now <unclear reason="illegible" resp="NW"/> give my respect to your Father and Robt and his Wife &amp; family Old Mr Holmes is not left Jane Mr &amp; Mrs While Kifs the children for me and recieve the same yourself I shall try and write this week again, David</p>
+         </div>
+      </body>
+   </text>
+</TEI>

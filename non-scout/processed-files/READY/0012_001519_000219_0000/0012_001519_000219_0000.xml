@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000219_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Laura and Horace Maynard</name>
+				                    in Knoxville,Tenn., to Washburn Maynard <date when="1865-09-26">1865 Sept. 26</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Laura and Horace Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000219_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Laura and Horace Maynard in Knoxville,Tenn., to Washburn Maynard 1865 Sept. 26</title>
+          <date when="1865-09-26">1865 Sept. 26</date>
+          <author>
+            <name type="person">Laura and Horace Maynard</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.0415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000219_0001.jpg" xml:id="d4e39"/>
+        <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+        <p>Your father is at home - You know he has been elected to Congress again &amp; if the Tenn. members are admitted, I may go to Washington during the winter &amp; so will be near you. All send love - much love to "Pick" May God bless you, <unclear reason="illegible" resp="JCM">love-</unclear> Your Mother, most affec'ly-</p>
+        <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+        <p>Knoxville. Sept. 26th. 1865</p>
+        <p>My darling Washburn,</p>
+        <p>You have been out on the ocean, all <unclear reason="illegible" resp="JCM">bravely,</unclear> since I saw you - I wonder if a view of the open sea, incontrollable save by its maker, vast &amp; sublime, has the same effect upon you, as it has upon me. I never weary with looking upon it - it never becomes common, or of an everyday appearance, so as to attract no attention from me I do not know what might be the result of looking upon it day after day, without a glimpse of land to relieve the eye, by a change.</p>
+        <p>I started out, <unclear reason="illegible" resp="JCM">beautifully,</unclear> I see, three days ago, Washburn dear, &amp; was interrupted, &amp; there it stopped. Nothing of special interest has occurred since then, except a letter from "the Col." &amp; our <unclear reason="illegible" resp="JCM">poor</unclear> Jimmy. Edward insists that he is very hard at work at our State Capital, &amp; also, that it is very hard for him to see Jim Brownlow married</p>
+        <pb n="2" facs="0012_001519_000219_0002.jpg" xml:id="d4e67"/>
+        <p>without doing likewise - &amp; in the same breath, he wisely assures us that he will not marry until he can support a wife. Poor, Edward he is invited to act as one of Jim's grooms men, next Thursday, Oct. 3rd. <unclear reason="illegible" resp="JCM">Mip Haipee</unclear> is to be there, as his partner, &amp; Capt. Thomas &amp; Mary Brownlow are to be the other attendants. The brial party will come to Knoxville in a week or two, &amp; won't there be conversation at the Govenor's house?</p>
+        <p>Edward also writes that he has heard of you from young Fletcher, who has full house. He complains of you not writing him much, but he is very proud &amp; very <unclear reason="illegible" resp="JCM">fond</unclear> of his Naval brother. I hope he will come home &amp; settle himself to study &amp; work, see your father's office, before long, &amp; never tire until he has a profession that will yield him a livelihood, &amp; give him a character.</p>
+        <p>Saturday night - 8 1/2 o'clock. My poor letter! Here it lies, &amp; I had hoped it would be half way to you cye, by this time. We have had</p>
+        <pb n="3" facs="0012_001519_000219_0003.jpg" xml:id="d4e81"/>
+        <p>an unexpected visit, today, from Fletcher himself, who has just started for his school, again. I was very glad to see him &amp; hope he will get to you safely.  And you have been to see one Kinsfold in Vermont &amp; Mass. I am truly glad you <unclear reason="illegible" resp="JCM">improved</unclear> the opportunity, to do so. You found a vacancy in Vermont, that can <unclear reason="illegible" resp="JCM">never</unclear> be filled again for us. I hardly desire to go there any more. I hope you saw the remaining ones, there especially your two aunts, <unclear reason="illegible" resp="JCM">Rehea &amp; Mila.</unclear> And I hope you met your Uncle Randolph tho' your time was too limited, probably, for you to visit at his home, Ytown. And did you go to Beverly, &amp; find your Uncle Tracy confined with a broken leg? Of course, you took Westboro' in your way, &amp; did you go to Hopkinton to see what your cousin Addie calls "the prodigy," that has recently made its appearance there? And did you stop in N. York, long enough to call at Uncle's &amp; your cousin John's? All these</p>
+        <pb n="4" facs="0012_001519_000219_0004.jpg" xml:id="d4e94"/>
+        <p>things I would like to know, &amp; a thousand &amp; one things more, about yourself &amp; your last cruise. We have had wild times here, with rebels - Our returned soldiers, who have been fighting so long for the Union, &amp; who were driven away from their houses, at first, have no <unclear reason="illegible" resp="JCM">fridays for "sicesh."</unclear> Have you heard that Abner Baker shot Will Hall &amp; killed him? He was put into the jail but in a short time our soldier boys went in a body to the jail took him out &amp; hanged him. This so much alarmed remaining rebels that they fled several of them, that night, &amp; they are still going. Bob Armstrong, Hugh &amp; Min. French, Jim White, Charles M'Clung, (son of Hugh,) Frank Moses, John <unclear reason="illegible" resp="JCM">Willies</unclear> &amp; Cook <unclear reason="illegible" resp="JCM">Dannie,</unclear> &amp; Mr. Craighead &amp; his hopeful son James, all left, at once others are going as soon as they can settle affairs &amp; get their families away. You know they used to say that the Union men &amp; " You there" men could not live here together, &amp; they former now take them at their word, &amp; send them away, rather hurriedly. I hope we will have quiet, happy times, again, are long. I have been to "Freesoil" Campbell Co. &amp; spent nearly three weeks. Jimmy is still there, watching his ducks &amp; rooster &amp; a small pig that has just been added to his treasures. A school has recently opened in <unclear reason="illegible" resp="JCM">Harudeen Y'cduey</unclear> &amp; he must come home &amp; commence attending it. Hellen Carey is with us attending the sustitute.  Her sister <unclear reason="illegible" resp="JCM">Miss Bitter</unclear> is one of the teachers. Ann Mary, also, attends school</p>
+        <pb n="5" facs="0012_001519_000219_0005.jpg" xml:id="d4e113"/>
+        <p>
+          <unclear reason="illegible" resp="JCM">Your mother, in her anxiety to send you a memento by Ms. Fletcher has taken her burn skin relief from a basket &amp; during that I enclose it with this letter in a large envelope - It is hardly the kind of thing for a greet reading ergo &amp; perhaps you will buy it aride away you dash suber. to be brought out mentions her after, for snow or sking it very suit. Brother if as hope to see you by midwinter. In the summertime, do write again us a narration of your voyage up Solera Seeder's Bay - Every thing from you know interests us all &amp; is read wth an anxiety</unclear>
+        </p>
+        <pb n="6" facs="0012_001519_000219_0006.jpg" xml:id="d4e118"/>
+        <p>
+          <unclear reason="illegible" resp="bds">that of itself would make it worse visiting. Let us know how you spent your shirt time, short kinder you saw, &amp; what pleasures you enjoyed. Things go us here asmuch as in order is gradually taking the plan of compasion &amp; things are dockying back to their old runnings - Jeffereson, you will be justly occupied the cunning you - in holding on to what you have gained - Do your best, Let every effort, great &amp; small, be as good as  you can make it - In this way you can steadily improve &amp; grow - Solve the weighty problems of life but the solution be correct. Kindly &amp; truly Horace Maynard Hon. H. Maynard President</unclear>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

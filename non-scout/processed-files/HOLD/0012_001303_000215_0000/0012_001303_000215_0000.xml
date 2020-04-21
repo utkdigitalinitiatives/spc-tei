@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000215_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    overseas, to Ellen Smith in Jackson, Tenn.,<date when="1918-04-12">1918 Apr. 12</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000215_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds overseas, to Ellen Smith in Jackson, Tenn.,1918 Apr. 12</title>
+          <date when="1918-04-12">1918 Apr. 12</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000215_0001.jpg" xml:id="d4e39"/>
+        <p>Pvt JL Dodds</p>
+        <p>Co L 23rd Engrs</p>
+        <p>AEF</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tenn</p>
+        <pb n="2" facs="0012_001303_000215_0002.jpg" xml:id="d4e55"/>
+        <p>On The High Seas</p>
+        <p>April 12 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Will write you a few lines this P.M. I am getting along fine and have been all the way over except I was Sea Sick a few days.</p>
+        <p>But I am most over now and just the thoughts of land once more makes me feel good  I dont like this water though not so murch at a time</p>
+        <p>Say I got your letter after I had got on the boat  But I guess I wont get any more soon</p>
+        <p>But you must write to me as often as you can and tell me all the news  I cant tell you</p>
+        <pb n="3" facs="0012_001303_000215_0003.jpg" xml:id="d4e71"/>
+        <p>where I am or what I am doing so you see I wont have murch to write about  But I will write you as often as I can  I dont know where we will land but I have an idea it will be some where in France</p>
+        <p>Well its not long until Esther wedding day I sure wish I could be there but I will be a long way from home by then  Tell her I wish her a long and happy life and I will see her some day when I come back to the good old U.S.</p>
+        <p>Well I dident get to use the <unclear reason="illegible" resp="PW">fanes</unclear>the I.C. sent me  But I still have them any way</p>
+        <p>Well I know you are good for</p>
+        <pb n="1" facs="0012_001303_000215_0004.jpg" xml:id="d4e84"/>
+        <p>Mis and Mrs Jones to come back to Jaxon so you will have some one to stay with you </p>
+        <p>Well Ellen I dont know any thing else to write but if I was there I could talk for a week  Now dont wait for me to write before you do you write me real often and I will write when I can</p>
+        <p>Say Orr got his watch just before we left Maryland</p>
+        <p>Will close for this time will write you when I land</p>
+        <p>With lots of love</p>
+        <p>address this   James, L. Dodds</p>
+        <p>way              Co.L. 23 Engineers</p>
+        <p>                    A.E.F.</p>
+        <p>                     Via New York</p>
+      </div>
+    </body>
+  </text>
+</TEI>

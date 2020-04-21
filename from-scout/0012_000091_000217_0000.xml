@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000217_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> David L. Jones</name>
+ in Nashville, Tenn., to Anna Jones, Allegheny City, Pa. <date when="1865-05-25">1865 May 25</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L., Union soldier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000217_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa., 1865 May 25</title>
+               <date>1865-05-25</date>
+               <author>
+                  <name>Jones, David L., Union soldier</name>
+               </author>
+               <extent>4 digital images; 4 digital images; 4 pages</extent>
+               <note type="abstract">25 May 1865 David L. Jones in Nashville, Tenn. to his wife, Anna Jones in Allegheny, Pa. Writes that she may receive a flood of unsent letters  soon; now that the river bridge from Nashville has been repaired. Continues by telling her that he prefers to leave the barracks and his regular routine, when writing to her. His reading of both Old and New Testaments is well underway. Discounts something she may have read in the Pittsburgh paper to be untrue. Namely, the majority of the Southern Army are &quot;boys.&quot; Sustained by faith and sending his love to her and kisses to their children, he so looks forward to leaving there; but allows that if he lives, he will surely have the opportunity to write another letter tomorrow.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Nashville -- History -- 19th century -- Personal narratives.</term>
+               <term>Military camps -- Social aspects -- Tennessee -- Nashville -- History -- 19th century.</term>
+               <term>Military camps -- Religious aspects -- Tennessee -- Nashville -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000091_000217_0001.jpg" xml:id="d3e159"/>
+            <p>Nash Tenn May 25</p>
+            <p>My Dear Wife</p>
+            <p>Just after breakfast i went down town to write you a Letter i like to write there better than i do at the Barracks the air is purer too when i am at the barracks after supper i take a wash then i take a walk to a big hill where there is a nice spout of of cool water i drink some of it then i set me down to read till dark then i start back I am about to let you know something that i have forgot to <unclear reason="illegible" resp="NW">do</unclear> several times Last Sabbath morning about 5 o clock i got through reading that Bibl all that is between both <unclear reason="illegible" resp="NW">Lids</unclear> Now i have commenced on the New Test </p>
+            <pb n="2" facs="0012_000091_000217_0002.jpg" xml:id="d3e177"/>
+            <p>When I was at the Commission one day one of the clerks there i heard talk welsh to a fellow So after listning to them for a while i went up and asked him in Welsh for a sheet of paper so he gave some Paper and half dozen small books such as i sent home some <unclear reason="illegible" resp="NW"> Larger</unclear> in a few days after he gave me some more I suppose that you will have a whole lot of letters now right together for the Bridges between Nashville and Louisville was washed away But i heard that they were all right to Day again The weather is right warm here now it Looks a good deal like rain this morning Here is another thing that i read in the Pittsburgh Papers that was not true as far as i can see they allowed that the Southern army was composed</p>
+            <pb n="3" facs="0012_000091_000217_0003.jpg" xml:id="d3e188"/>
+            <p>of Boys Now I have seen Thousands of Boys Now but i have not seen any as young Looking as our own and could not be bigger fools for our fellows cant Pass a Woman on the Street without insulting her i do not include all you mind </p>
+            <p>Mr <unclear reason="illegible" resp="NW">Camel</unclear> was up with John yesterday he is going to start home next Monday <unclear reason="illegible" resp="NW">M</unclear>he thought </p>
+            <p>Some of our Officers had a Spree Last night they had some fidlers Playing for them I guess that we Shant be here long And i hope that we will move for home Now I have nothing Particular to tell you I have Both write and Sent Some Papers to <unclear reason="illegible" resp="NW">Jriny</unclear> And i write a couple of Letters to Sarah</p>
+            <p>This Letter was wrote about 9 o clock in the Morning We do not get the mail till about two or three in the afternoon And every</p>
+            <pb n="4" facs="0012_000091_000217_0004.jpg" xml:id="d3e211"/>
+            <p>Afternoon from four till Six we have a Battalian Drill so i thought that i would write in the cool of the day Tommorrow if i live I guess that i shall be on guard but i suppose that i can find time enough to write I write to Robert some time ago but he has not answered it yet</p>
+            <p>So good bye I hope that this will find you all well as it leaves me through Mercy Kiss the children for me your Husband David</p>
+         </div>
+      </body>
+   </text>
+</TEI>

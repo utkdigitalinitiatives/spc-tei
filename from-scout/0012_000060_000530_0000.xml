@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000530_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Sarah F. Butler</name>
+ in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-05-19">1884 May 19</date>
+            </title>
+            <author>
+               <name type="person">Butler, F. A., Mrs., b. 1830</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000530_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Sarah F. Butler in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 May 19</title>
+               <date>1884-05-19</date>
+               <author>
+                  <name>Butler, F. A., Mrs., b. 1830</name>
+               </author>
+               <extent>4 digital images; 1 envelope, 3 pages.</extent>
+               <note type="abstract">1884 May 19 Sarah F. Butler, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Sympathizes with M.B.C. in the death of her husband and offers spiritual comfort for bereavement. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Bereavement -- Religious aspects. </term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Death and burial.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e148">
+            <pb n="1" facs="0012_000060_000530_0001.jpg" xml:id="d3e149"/>
+            <p>If not called for within Ten Days return to</p>
+            <p>Mrs. F.A. Butler</p>
+            <p>Editor and Agent</p>
+            <p>Woman&apos;s Missionary Advocate,</p>
+            <p>Nashville, Tenn.</p>
+            <p>Mrs. J.G.M Ramsay,</p>
+            <p>E Main Street,</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000530_0002.jpg" xml:id="d3e174"/>
+            <p>Office WM Advocate</p>
+            <p>Nashville, Tenn,</p>
+            <p>May 19/84</p>
+            <p>My dear Mrs Ramsay,</p>
+            <p>I ought not to have been surprised to hear of your dear husband&apos;s departure from this world to his heavenly home, but I was really startled and distressed when I heard the sad news. Sad to us but how glorious the change for him to be relieved from his weak suffering body and clothed upon with one like unto the glorious body of our Lord &amp; Saviour - Jesus Christ.</p>
+            <p>No one but your</p>
+            <pb n="3" facs="0012_000060_000530_0003.jpg" xml:id="d3e192"/>
+            <p>tender Heavenly Father can tell the dreadful loneliness that is now the burden of your waiting life, but He knows just how to support and strengthen you, and I have no doubt it is a glad thought to you that the drive cannot be very long before you too, shall &quot;cross over the river and rest under the shade of the trees.&quot; I have been intending to write to you ever since, but it seemed to me every moment of every day was full of work that was obliged to be done. I told bro Cunnyngham</p>
+            <pb n="4" facs="0012_000060_000530_0004.jpg" xml:id="d3e200"/>
+            <p>the other day when he spoke of writing that I knew it would be a true comfort to you to receive one of his comforting letters.</p>
+            <p>His daughter has not yet been confined, and they are both somewhat anxious, as is natural - but she seems very well indeed.</p>
+            <p>I know you have many dear friends &amp; relations, near to comfort you &amp; I can say but little, but even a few sympathising words sometimes help to lighten the burden on the heart.</p>
+            <p>Yours affectionately</p>
+            <p>Sarah F. Butler</p>
+            <p>Mr Butler sends kind regards with my own to you and family.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000268_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Will,
+					<name>Perkins, Campbell &amp; Co.</name>
+				                    John L. Bradley in Dekalb County, Ga.,<date when="1855-04-03">1855 April 03</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Perkins, Campbell &amp; Co.</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000268_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Will, Perkins, Campbell &amp; Co. John L. Bradley in Dekalb County, Ga.,1855 April 03</title>
+          <date when="1855-04-03">1855 April 03</date>
+          <author>
+            <name type="person">Perkins, Campbell &amp; Co.</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000268_0001.jpg" xml:id="d4e39"/>
+        <p>John L. Bradley</p>
+        <p>Powr Attorney to David Burford</p>
+        <pb n="2" facs="0012_000115_000268_0002.jpg" xml:id="d4e45"/>
+        <p>Know all men by these present that I John L. Bradley of Decalb County and State of Georgia have and by these presents do nominate, constitute and appoint David Burford of Smith County &amp; State of Tennessee my attorney in fact, for me and in my name and stead to receive from the Executer or other properly constituted authority all the balance which is or may be due and coming to me from the estate of my decd father formerly of Smith County &amp; State of Tennessee wheather the same be in land, negroes, money or other property.  And my said attorney is hereby fully authorised and empowered to use all lawful means to recover the same from the proper authorities, and to receipt for the same, and to give full and ample acquitances for the same.  And I hereby agree to ratify and confirm every lawfull act and deed which my said attorney sall or may do.  I also do hereby revoke a power of attorney heretofore made by me to my brother in law Elbert G. Allen for the collection of what is or may be due me from my decd fathers estate George Bradley decd formerly of Smith County, Tennessee.</p>
+        <p>Witness my hand &amp; seal this 3rd day of April 1855</p>
+        <p>Test Allen <unclear reason="illegible" resp="LLW">Worddall</unclear>
+            </p>
+        <p>Test Tho. Barns LP</p>
+        <p>John L. Bradley - seal</p>
+        <pb n="3" facs="0012_000115_000268_0003.jpg" xml:id="d4e59"/>
+        <p>Georgia</p>
+        <p>DeKalb County</p>
+        <p>I <unclear reason="illegible" resp="LLW">Abr</unclear> Johnson Clerk of the Inferior Court in aforesaid county do hereby certify that Thos. Barns Esq before whom the within Power of Attorney was Executed was at the time of Executing the same an acting Justice of the Peace in aforesaid county duly commissioned and sworn and authorized to administer oaths for <unclear reason="illegible" resp="LLW">general</unclear> purposes that his signature thereto is genuine given under my hand and seal of office this 3rd day of April 1855</p>
+        <p><unclear reason="illegible" resp="LLW">Aber</unclear> Johnson CIC</p>
+        <p>Georgia DeKalb County</p>
+        <p>I John Bryce one of the Justices of the Inferior Court in aforesaid county do hereby certify that <unclear reason="illegible" resp="LLW">Aber</unclear> Johnson whose name appears to the above certificate is the Clerk of the Inferior Court of said county duly <unclear reason="illegible" resp="LLW">elected</unclear> &amp; commissioned and that the Seal above attached is the Seal of Said Court given under my hand officially April 3rd 1855</p>
+        <p>John Bryce JIC</p>
+      </div>
+    </body>
+  </text>
+</TEI>

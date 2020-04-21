@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002976_000210_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Oliver Wolcott</name>, <name type="org">Treasury Department</name> to <name type="person">Egbert Benson</name> Esq., 
+               <date when="1792-01-30">1792 January 30</date>
+            </title>
+            <author>
+               <name>Wolcott, Oliver</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Giles, Sheldon</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_002976_000210_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Oliver Wolcott</name>, <name type="org">Treasury Department</name> to <name type="person">Egbert Benson</name> Esq., 
+                  <date when="1792-01-30">1792 January 30</date>
+               </title>
+               <date when="1792-01-30">1792 January 30</date>
+               <author>
+                  <name>Wolcott, Oliver</name>
+               </author>
+               <extent>2 digital images</extent>
+               <note type="collection">Greer and Vinsinger Family Collection of Revolutional War Documents</note>
+               <note type="manuscript">MS.3518</note>
+               <note type="abstract">In this letter to Egbert Benson, Oliver Wolcott notes that he has examined the papers Benson left him regarding Anthony Walton White. Wolcott claims to understand the nature of White's claims and agrees to preserve the papers on file in his office until White calls for a settlement.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Buchanan, James, 1791-1868</term>
+               <term>Gates, Horatio, 1728-1806</term>
+               <term>Hamilton, Alexander, 1757-1804</term>
+               <term>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</term>
+               <term>Legal correspondence.</term>
+               <term>Muhlenberg, John Peter Gabriel, 1746-1807</term>
+               <term>Presidents -- United States -- Correspondence.</term>
+               <term>Rutledge, Edward, 1749-1800</term>
+               <term>Tarleton, Lieutenant-General, (Banastre), 1754-1833</term>
+               <term>United States -- History -- Revolution, 1775-1783.</term>
+               <term>United States -- Politics and government -- 1809-1817.</term>
+               <term>United States. Congress -- History -- 19th century.</term>
+               <term>Washington, George, 1732-1799</term>
+               <term>Wolcott, Oliver, 1760-1833</term>
+            <term>Revolutionary War Letters</term></keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-21" who="nl">Reformatted transcription from its original TEI.2 markup to comply with the TEI-P5 lite schema.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e219">
+            <pb facs="0012_002976_000210_0001.jpg" n="1" xml:id="d2e221"/>
+            <opener>
+               <dateline>Treasury Department<lb/>
+                  Comptroller's Office <date when="1792-01-30">Jany 30th. 1792</date>
+               </dateline>
+               <salute>Sir</salute>
+            </opener>
+            <p>I have examined the papers which you left in my hands relative to the accounts of <name type="person">Anthony Walton White</name>, and find, that his claims have been the subject of a report of the Secretary of War, to the House of Representatives of the United States.</p>
+            <p>If I rightly understand the nature of Mr. White's claims, they can only be
+               adjusted in consequence of explanations to be received from himself. I shall
+               therefore preserve the papers on file in this office, until Mr. White shall call for
+               a settlement.</p>
+            <closer>
+               <salute>I have the honour to be with great respect,<lb/>
+                  Sir,<lb/>
+                  Your obedt. Servt.</salute>
+               <signed>Oliv. Wolcott</signed>
+               <address>
+                  <addrLine>The Honourable <name type="place">Egbert Benson</name> Esquire</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="envelope" xml:id="d2e269">
+            <pb facs="0012_002976_000210_0002.jpg" n="2" xml:id="d2e271"/>
+            <p>O. Wolcott Letter</p>
+            <p>
+               <date when="1792-01-30">January 30th 1792</date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

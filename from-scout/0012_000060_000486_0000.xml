@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000486_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>M.E. Huger</name>
+ in Chattanooga, Tenn., to J.G.M. and M.B.C. Ramsey in Knoxville, Tenn.<date when="1882-03-23">1882 Mar. 23</date>
+            </title>
+            <author>
+               <name type="person">Huger, Mary Esther, 1820-1898</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Rosinski, Wanda</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000486_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, M.E. Huger in Chattanooga, Tenn., to J.G.M. and M.B.C. Ramsey in Knoxville, Tenn. 1882 Mar. 23</title>
+               <date>1882-03-23</date>
+               <author>
+                  <name>Huger, Mary Esther, 1820-1898</name>
+               </author>
+               <extent>2  digital images;  1 envelope, 1 p.</extent>
+               <note type="abstract">1882 Mar. 23 M.E. Huger, Chattanooga, Tenn., to J.G.M. [and M.B.C. Ramsey], Knoxville, Tenn. Recalls a recent visit to the Ramseys. Informs them that her son who lives in Knoxville will visit them.
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Friendly visiting -- Tennessee -- Knoxville.</term>
+               <term>Thank-you notes -- Tennessee -- Knoxville.</term>
+               <term>Knoxville (Tenn.)</term>
+               <term>Huger, Mary Esther, 1820-1898 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 --  Homes and haunts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000060_000486_0001.jpg" xml:id="d3e150"/>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>East Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000486_0002.jpg" xml:id="d3e162"/>
+            <p>My Kind friends --</p>
+            <p>I could not tell you on Sunday last, that probably that was my last visit, though I hoped to be able to see you once again, but have not been able to do so.</p>
+            <p>I am truly sorry to write goodbye -- so much so, I would not say a word so sad, when it means any thing, &amp; when ever I think of Knoxville, I shall recall my visits to your quiet room, as among the pleasantest hours I have spent here. May you have a comfortable &amp; peaceful time, until we meet again --</p>
+            <p>My Son promises to go over to see you when he can, &amp; let me hear of your daughter, &amp; for both of my good friends.</p>
+            <p>Very sincerely yours</p>
+            <p>M E Huger</p>
+            <p>Thursday night 23rd</p>
+         </div>
+      </body>
+   </text>
+</TEI>

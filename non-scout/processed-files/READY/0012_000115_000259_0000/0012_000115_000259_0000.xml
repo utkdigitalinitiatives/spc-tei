@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000259_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1829-10-29">1829 Oct. 29</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000259_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1829 Oct. 29</title>
+          <date when="1829-10-29">1829 Oct. 29</date>
+          <author>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000259_0001.jpg" xml:id="d4e38"/>
+        <p>Paid 10</p>
+        <p>Maj. David Burford</p>
+        <p>post Nashville Tennessee</p>
+        <pb n="2" facs="0012_000115_000259_0002.jpg" xml:id="d4e46"/>
+        <p>Alexandria Octr 29th 1829</p>
+        <p>My Dear Burford</p>
+        <p>I arrived here yesterday with fourteen negroes, eight fellows two boys and four Women &amp; girls all marketable except one women I bought for $75 in a settlement with my friend Roach I have my passage <unclear reason="illegible" resp="EMS">in sased</unclear> and will probably depart tomorrow for N. Orleans. The price of the passage for each slave <unclear reason="illegible" resp="EMS">$17</unclear> and my own $30- fellows have cost me from $400 to $435 boys and girls in proportion all with certificates I have had the misfortune to loose our first rate fellow that ran off on the 13th of September and have never recd any certain account of him until I came here, I am now satisfied that he is still lurking in his former range in one of the adjoining Counties on the Virgina side of the Patomac, and have been informed that I can obtain $350 for him running</p>
+        <pb n="3" facs="0012_000115_000259_0003.jpg" xml:id="d4e60"/>
+        <p>but it is out of my power to do any thing more at present than to constitute an agent to attend to the business which I have accordingly done with directions to ship him to me at N. Orleans as soon as he may be taken - in addition to this, I bought a fellow a few days since at $400, he was confused with another fellow which I purchased about the same time to a <unclear reason="illegible" resp="EMS">truse</unclear> in a gentlemans yard, and in my absence to make some further trades in the same neighbourhood he got possession of an axe, and cut off all of the fingers of his right hand, a circumstance that no human forsight could have guarded against; my object at present is to dispose of the stock I have on hand and direct my attention to the collection of our claims in La. I have abandoned the idea of returning to this Country for the present Winters <unclear reason="illegible" resp="EMS">inttiss</unclear> there should be some some favourable change in the markets - I have laid out all my </p>
+        <pb n="4" facs="0012_000115_000259_0004.jpg" xml:id="d4e70"/>
+        <p>money and sold your man for $80 under the disadvantages of hard luck, I can - not flatter you with the prospect of making any thing on the trip, unless the runaway should be taken, then the purchase would afford a reasonable profit - your friend</p>
+        <p>JM Saunders</p>
+      </div>
+    </body>
+  </text>
+</TEI>

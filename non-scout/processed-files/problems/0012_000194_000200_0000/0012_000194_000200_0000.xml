@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000194_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Thomas A. Walker</name>
+				                    in Memphis, Tenn., to Captain C. H. H. Clark in Memphis, Tenn., <date when="1864-05-02">1864 May 2</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Thomas A. Walker</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000194_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Thomas A. Walker in Memphis, Tenn., to Captain C. H. H. Clark in Memphis, Tenn., 1864 May 2</title>
+               <date when="1864-05-02">1864 May 2</date>
+               <author>
+                  <name type="person">Thomas A. Walker</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Thomas A. Walker Letter, 1864 May 2</note>
+               <note type="manuscript">3106</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States. Bureau of Refugees, Freedmen, and Abandoned Lands.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Participation, African-American.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000194_000200_0001.jpg" xml:id="d4e39"/>
+            <p>Office Supt Freedmen West Tenn</p>
+            <p>Memphis 2nd May 1864</p>
+            <p>Capt C. H. H. Clark</p>
+            <p>Act. Asst Adjt Gen</p>
+            <p>Captain</p>
+            <p>I have the honor to state as a preface to my investigation of The case of alleged brutality and robery by colored troops,
+				       that one of the two companies connected with my department is on President Island, and that it is so improbable that
+				       They could have participated in This outrage, owing to their peculiar situation, that I did not think it necessary to institue 
+					a serch in that camp__ If however no clue can be had to the perpetrators, and it is thought necessary I can do so 
+				       yet, at any time</p>
+            <p>The Company at Camp Holly Springs I have examined, and find no men answering to that of the parties said to have been</p>
+            <pb n="2" facs="0012_000194_000200_0002.jpg" xml:id="d4e55"/>
+            <p>implicated; neither could I find in the houses of the soldiers any property that could possibly be identicle with that men-
+			           tioned in the list recd from the detectiff</p>
+            <p>As many of the families of soldiers from the regiments in and around the city are in the camp last named__ it is not improbable 
+				that the stolen goods may be secreted in the camp</p>
+            <p>I am Captain</p>
+            <p>Very respectfuly</p>
+            <p>Your obt Servt</p>
+            <p>T. A. Walker</p>
+            <p>Capt 63d USI colo</p>
+            <p>Supt Freedmen</p>
+            <p>West Ten</p>
+            <pb n="3" facs="0012_000194_000200_0003.jpg" xml:id="d4e75"/>
+            <p>Retaned Copy of letter</p>
+            <p>to  Capt C. W. Clerk</p>
+         </div>
+      </body>
+   </text>
+</TEI>

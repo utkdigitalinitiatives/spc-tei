@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000202_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Edward Summers</name> in Winchester, Tenn., to Mr. Arthur
+                    Johnson <date when="1863-11-02">1863 November 2</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Rozema, Laurel</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Edward Summers</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000202_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Edward Summers in Winchester, Tenn., to Mr. Arthur Johnson 1863 November 2</title>
+               <date when="1863-11-02">1863 November 2</date>
+               <author>
+                  <name type="person">Edward Summers</name>
+               </author>
+               <title>[Letter] <date when="1863-11-02">November 2nd, 1863</date> Winchester,
+                        Tennessee [to] Mr. Arthur Johnson</title>
+               <date>2006-05-22</date>
+               <author>
+                  <name/>
+               </author>
+               <author>
+                  <name type="person">Summers, Edward</name>
+               </author>
+               <date when="1863-11-02">November 2nd, 1863</date>
+               <extent>4 pages</extent>
+               <note type="abstract">This letter from Union Sgt. Edward Summers, Co. K. Kentucky
+                        Calvary Regiment, is to his cousin Arthur Johnson on November 2, 1863.
+                        Summers gives a detailed account of his unit&apos;s movements following his
+                        enlistment on October 21, 1861 at Louisville, KY, including involvement in
+                        the Battle of Chickamauga.</note>
+               <note type="collection">Edward Summers Letter, 1863</note>
+               <note type="manuscript">MS.2714</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Rozema, Laurel">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e99">
+            <pb n="1" facs="0012_000202_000200_0001.jpg" xml:id="d4e100"/>
+            <p>Winchester, Tennessee</p>
+            <p>November 2nd, 1863</p>
+            <p>Mr. Arthur Johnson,,</p>
+            <p>Dear Cousen after my Very best Love to you, Mrs. Elizabeth Johnson and your
+                    Little Offspring, I again take my pen in hand for the fourth time Without an
+                    Answer to Let you know that I am Still On the Land amongst the Living. I Can
+                    again Say I, am Well and hope those fiew Lines may find you all Enjoying Same
+                    Blessing.. Peter, Mann,, Frank, Trueax,, F. W. Asbury,, Alexander, Curtis,, and
+                    all of Our Bracken Boys, are well and harty.. I have But Little News of Intrust
+                    at this time Every thing appears quiet Except Occasional Skermishes in the front
+                    and a fiew Gurriller Bands through Tennessee We have Bin Expecting. a heavy
+                    Battle for some two Weeks but it seams as if Bragg is incline to fall Back it
+                    may be his Object is to Draw Our troops away from Chatanooga. I,am Not With my
+                    Regiment at this time and I have a bad Chance of Gathering Information. I.am One
+                    of the Guards With the 1st Cav. Divisions, Ordnance train and it is hear at
+                    Winchester Tenn. Whaar it may in all probability Remain for Several Weeks My.
+                    Regiment and in fact My Whole Brigade is Encamped at Jeffers Ferry on the
+                    Tennessee River 2 Miles South of Stevenson Alabamia. I expect to Remain with
+                    this train all Winter it is an Easy position. and my fair are good My quarters
+                    are in a Neat Little Train House Near the Publick Squair I.Can See all that is
+                    going on in town in the Day time and have as many Yellow Girles in my Room at
+                    Night as I Wish but Enough of this</p>
+            <pb n="2" facs="0012_000202_000200_0002.jpg" xml:id="d4e110"/>
+            <p>I.Will Now give you a Short Sketch of my travels Since I was at your house. When
+                    I.left home I went by the Way of Cynthaana and Georgetown to Lexington Ky I Was
+                    then Ordered to Report at Point Pleasant in Virginia. I.left Lexington on the
+                    22nd of Last Oct. one year ago and passed through. Paris Millersburg the Blue
+                    Licks Washington, and On to Maysville Ky. I.their Crossed the Ohio River to
+                    Aberdeen and passed through Decature, Westunion Salem Jackson, Sciotiville
+                    Lucasville Galliopolis, and up the River to the mouth of the Big Kanawey River I
+                    their Crossed the Ohio River into Point Pleasant Virginia Whar I Joined my
+                    Command. We Drove the Enemy through Charlestown and Whiped them at Gawley Bridge
+                    and Drove them through Ashbys Gap in the Blue Ridge Mountains. We then Receivd
+                    Orders to Report at a point Near Vicksburg Misissippi. We Marched Back to Point
+                    Pleasant and their took Steam Boats to Cincinnati Ohio the Infantry went to
+                    Misissippi and Our Cavalry Was Ordered to Report at Lexington Ky We Bid a Due to
+                    the Queen City of the West and passed through Covington Williamstown Georgetown
+                    and On to Lexington Whar We Only Remained two Days to Rest from a Long and
+                    toilsome march of over 700 miles. We left Lexington Ky the Garden spot of the
+                    World with heavy hearts and marched,through Nicholassville Perryville Lebanon
+                    Danville Bloomfield, Springfield and On to Louisville Ky. We Only Remained their
+                    a Day or two to Rest Our Jaded horses We their took the Cars and passed through
+                    many town and Vilages and though the Green River Country to Nashville Tennessee
+                    the Capitol of</p>
+            <pb n="3" facs="0012_000202_000200_0003.jpg" xml:id="d4e114"/>
+            <p>the State. We traversed the State all Over and,Over and Camped for a fiew Days
+                    at. Brentwood Franklen Springhill Shelbyville Tullahoma Triune Murfreesboro
+                    Winchester Fayattsville and many other towns after We had Skerged Tennessee Well
+                    We Then marched all of Our Cavalry forces into Alabamia Our first trip was to
+                    take Huntsville Ala. One of the finest towns I have Seen in Ala. We then took
+                    Stevenson and Bridgeport and many Other Little town the Enemy Still held
+                    Chatanooga. it is Situated on the Tennessee River about 2 1/2 miles from the
+                    Georgia State Line. Our Next moove was to take Chatanooga Which We Done Easily
+                    We then made a.Dashing Rade through Georgia tearing up the Rail Rode track
+                    Burning Bridges and Depoes and Cutting up hell in General. and O, God, O, God,
+                    the Scenes I have Witnessed. I have witnessed Some Dark and horrible Scenes Such
+                    as has made my Blood Run Cold. I, have, Seen men hung Like Dogs in Cool Blood.
+                    I, have Seen men Shot Down Like Broots in Cool Blood. I have Seen the flaming
+                    torch applide to fine Mills Large factories and Stately Mansions I.have Seen
+                    towns Raped in flames Besides innumerable Scenes of Disgust. I.have Seen the
+                    Rich made poor in a fiew Short hours. I have Seen Enough of the Horrors of War
+                    to Satisfy me and to Satisfy my mind that a Civil War Will Ruin any Nation under
+                    the Canopy of Heavan, it will Ruin all Classes of man kind the Whole World is
+                    Demoralized at this time and I.have underwent all the hardships Perils and
+                    privations that Belongs to a Soldiers Life I.have went through frost and Snow,
+                    through Rain and mud as well as the Scorching heat and bore it all. </p>
+            <pb n="4" facs="0012_000202_000200_0004.jpg" xml:id="d4e118"/>
+            <p>as become a soldier I.have Bin in Nine Battles Besides a Number of Skermishes and
+                    by the help of God am yet Spard to tell the memorable tale of this Campaign
+                    I.have also Witnessed thousands and thousands of Most Butiful Sceneries Both
+                    Natural and Strange that was well Calculated to Interest the Weary Soldier as he
+                    passes by But the most Horrible Sight is the Battle field Yet, if you Could of
+                    Bin presant and of Looked Over the Battle field after the Battle of Chickamauga
+                    in Georgia and of Seen the Thousands apon top of thousands of Ded, Dying, and
+                    mangled masses of human Souls weltering in their Blood it would of Chilled Every
+                    Drop of Blood in your Veins wi the Whole face of the Earth appeard to be Covered
+                    with the Ded and Gorged with Blood Many of my Brave Companions fell in that
+                    memorable Battle By the Enemies fatal Ball and their Bones are left to Bleach
+                    apon the Georgia Plains I am Sorry to Inform you that Our Ded was Not Buried the
+                    Enemy took the field and held it Our Loss is Estimated at fifteen thousand and
+                    the Enemies at twenty Eight thousand, a Large Number of Souls to fall in One
+                    Battle and yet the War is Not at a Close Well Arthur I Shall have to Close for
+                    this time Give my Love to all of the friends and Relation and Answer Immediately
+                    Direct your Letter to Winchester Tennessee in the Care of Capt Wilson a.q.m. 1st
+                    Cav. Division and believe me to be Your Ever affectionate Cousen till Deth</p>
+            <p>Ewd. Summers</p>
+            <p>pleas Send me a fiew Postage Stamps I can&apos;t get them hear</p>
+         </div>
+      </body>
+   </text>
+</TEI>

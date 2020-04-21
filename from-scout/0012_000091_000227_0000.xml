@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000227_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>David L. Jones</name>
+ in Nashville, Tenn., to Anna Jones in Allegheny City, Pa<date when="1865-07-31">1865 July 31</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L., Union soldier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000227_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa, 1865 July 31</title>
+               <date>1865-07-31</date>
+               <author>
+                  <name>Jones, David L., Union soldier</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">31 July 1865 David L. Jones in Nashville, Tenn. to his wife, Anna Jones in Allegheny City, Pa. Grateful that both he and his entire family are well. Has spent most of his day cleaning up for a Regimental inspection. Since his unit is not under the Laws of the Regular army, his days are filled with drill, as well as duty, while being expected to remain pristine in appearance. Because his commanding officers can&apos;t even be trusted with the unit&apos;s rations, he refuses to believe anyone or anything they say. Since being away from home, his friends and family seem to be taking advantage of him also. Looking forward to better times, he would rather be on duty anywhere but in the barracks.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Nashville -- 19th century -- Correspondence.</term>
+               <term>Military camps -- Tennessee -- Nashville -- 19th century -- Social aspects.</term>
+               <term>Command of troops -- Moral and ethical aspects.</term>
+               <term>Nashville, Tenn. -- History -- 19th century.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses. </term>
+               <term>Military leadership.</term>
+               <term>Military personnel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000091_000227_0001.jpg" xml:id="d3e164"/>
+            <p>Nashville Tenn July 31st 1865</p>
+            <p>My Dear Wife</p>
+            <p>Yours of the 27th came to hand this Afternoon about one o clock i was glad to hear that you are all well as I am through Mercy We have a busy day of it to day they had a Regimental inspection at <unclear reason="illegible" resp="NW">2</unclear> o clock So it kept me all the morning cleaning up ready for it we are under the Laws of the Regular Army at Present we we drill and do duty both and had to Drill all through the Warm weather we drill now in the morning from five until six that is before Breakfast then from eight until ten and in the evening from six till seven they they expect a fellow to keep his as bright as though we never took it out and often times we get drenching wet, Concerning Crawford i have often talked with him but for him to say that it was not their fault that we have not the Bounty is an untruth for they could have demanded the mony at Harrisburgh if they would the way some Capt done it But there is no use in talking about I dont know anything about Crawford but i would not believe one Capt here on his oath because men that will steal our rations for their own use will do anything they have no right to our Rations but when we get fresh Beef the Best Piece is cut off for them Bread Sugar &amp; Coffee also </p>
+            <pb n="2" facs="0012_000091_000227_0002.jpg" xml:id="d3e179"/>
+            <p>I am afraid to tell you many a thing for fear that you will tell somebody I do not care what anybody thinks of me I am no Liar nor a drunkard Now Robert lies and he knows it i never got a think from <unclear reason="illegible" resp="NW">Kisker</unclear> to show that he had recieved 500 for me but about two or three months ago there was what we call Vouchers from Arnold the Treasurer Acknowledging that he had recieved that much in our favour that is the first and the last of it we never got but fifty five at Pitts and thirty three cnt Now when i told you that Robert wanted to take me up to Mc<unclear reason="illegible" resp="NW">Cance</unclear> to get a Suit of Clothes and that i could pay him as i could you was mad at me for not doing it I would stay away from Church before I would do it all my life time it would have cast up to you before this Also the Same with James he Volunteered to Pay Patterson <unclear reason="illegible" resp="NW"> gir</unclear> rid of them <unclear reason="illegible" resp="NW">lots</unclear> what he could not sell and how many times has that been cast up to us After this i shall not ask any favour off them I hope some day that we shall see better times I have mentioned in several Letters that i have recieved 6$ in all from you Now i must finish i feel tired and we have to drill to night <unclear reason="illegible" resp="NW">yet</unclear> and go to town tomorrow on duty i expect I would rather be there than at the Barracks Yours David
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

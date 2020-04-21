@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Knoxville, Tenn., to Amos Gould in Owosso, Michigan,
+<date when="1865-05-02">
+1865 May 2
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000206_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1865 May 2</title>
+               <date>1865-05-02</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated May 2, 1865, from Henry Cherry in Knoxville, Tenn. to Amos Gould, Cherry talks of Maryville College and Professor Lamar during the war years, saying &quot;the College was broken up, but he remained.&quot; Speaks of a friendship with an unnamed &quot;wealthy planter&quot; who is an elder in a local Presbyterian Church and friends with the Speaker of the House and Governor Brownlow. Asks again for a letter of recommendation, saying &quot;the Universities, Colleges &amp; Academies, &amp; schools have all collapsed, &amp; will have to be reorganized, &amp; I want to assist in doing it.&quot; Also discusses his views of Reconstruction, arguing &quot;the matter of &apos;Reconstruction&apos; will involve a great many very nice points in law &amp; in morals and in practicability also for what will work pretty well in one neighborhood will not reach the peculiarities of another.&quot;</note>
+               <note type="collection">The Henry Cherry Letters, 1865</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000206_0001.jpg" xml:id="d3e142"/>
+            <p>Head qrs 10th Mich Cav</p>
+            <p>Knoxville Tenn</p>
+            <p>May 2d 1865.</p>
+            <p>Honl</p>
+            <p>Amos Gould</p>
+            <p>Dear Sir</p>
+            <p>Your favor of Apl 13th was thankfully received &amp; immediately answered on the 21st, just previous to starting to fulfill an appointment in Blount County, 16 miles distant. Yours of the 24th came to hand yesterday &amp; it gave me great pleasure to know that I have in you so prompt &amp; faithful a correspondent. The weather is so chilly (&amp; having no convenience for fire) it is very difficult to write, but I must try it at the rate of a few lines at a time and after a while I shall have at least half a sheet to send you. I feel it a pleasure to acknowledge your last letter &amp; to know that your views &amp; mine are so similar. The matter of &quot;reconstruction&quot; will involve a great many very nice points in law &amp; in morals and in practicability also for what will work pretty well in one neighborhood will not reach</p>
+            <pb n="2" facs="0012_000071_000206_0002.jpg" xml:id="d3e162"/>
+            <p>the peculiarities of another. It will assume an innumerable set of questions both in state &amp; church. At our last Presbytery the questions which came up &amp; must be acted on, assumed so serious &amp; grave a character, that we concluded to wait for more thought &amp; further developments. I was Moderator, and had a good opportunity to show not only decision, but moderation.</p>
+            <p>Known &amp; acknowledged Rebels, who have in all ways in &amp; out of the Pulpit, aided Lynch law &amp; Rebellion, are yet members, but they will not be served as certain men would like to have served me. They will not be condemned without trials, nor will I ever again be placed where there is no appeal from the action of certain prejudiced &amp; mad individuals. I am almost ashamed of myself for having once been so foolish.</p>
+            <p>On the day I last wrote you, I rode 16 miles &amp; put up with a Wealthy Planter who is an elder in a Presbyterian Ch, &amp; who through fiery trials has stood for the &quot;Union,&quot; during all the fearful days &amp; nights of war, &amp; its desolating concomitants wherever the Armies tread. He has kept the</p>
+            <pb n="3" facs="0012_000071_000206_0003.jpg" xml:id="d3e174"/>
+            <p>Officers of both armies at his house, the Rebel, because he had to, &amp; the Federal because he desired to, whenever they campd near him. Next morning he rode 3 miles with me to see Professor Lamar (who was prof of Languages) of Maryville College, &amp; who has never truckled or wavered since the war began. The College was broken up, but he remained, &amp; the people have fed him, which was all they have been able to do. I talkd with him all day, a steady stream (ie) I askd questions, &amp; he answered, &amp; he ask questions, &amp; I answered, till, I learned the condition of things past &amp; present. The future we knew not, but he is exceedingly desirous that I should stay &amp; help him steer the ship. I told him I had written to you, &amp; if I could have given him what I requested of you, he would then &amp; there have sent it to the Speaker of the House &amp; to Gov Brownlow both of whom are his personal friends.</p>
+            <p>On Sabbath I preached twice for him to large &amp; fine audiences who after services came around me as though they were greeting an old friend. With such a paper as I trust you</p>
+            <pb n="4" facs="0012_000071_000206_0004.jpg" xml:id="d3e184"/>
+            <p>will get up &amp; forward I shall stand a pretty fair chance for a position, which at the present time is as important for the future good of the state as any position can be, &amp; that is, to shape its educational interests.</p>
+            <p>The Universities, Colleges, &amp; Academies, &amp; schools have all collapsed, &amp; will have to be reorganized &amp; I want to assist in doing it. I cannot do it &amp; commence with a broken down church that can pay only $200.00 &amp; all the churches have been broken up. Next Sabbath I am to have Sacrament 3 miles from our Present Camp (which is now 5 miles from Knoxville) which I have visited &amp; preached to several times &amp; now they have a S. School of 50 scholars &amp; feel greatly rejoiced at their prosperity but are not now able to even feed a Pastor.</p>
+            <p>We are all in a quandary. The Regiment is supposed to be in South Carolina. How long or how short the time may be when we shall hear the order to go to Michigan for the purpose of mustering out, is to us unknown.</p>
+            <p>May I hope to hear from you soon again? With kindest regards to all</p>
+            <p>I am as ever</p>
+            <p>Most Truly</p>
+            <p>Yours</p>
+            <p>Henry Cherry</p>
+            <p>I had forgotten to say that we still wait for pay. The money is in Nashville &amp; the Pay Master told our Sutter that he would be here on the 20th of March and he is not yet here.</p>
+            <p>H Cherry May 2 1865</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003320_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Humes House</name> Pamphlet, 
+					<date>undated</date>
+            </title>
+            <author>
+               <name type="person">Powell, Bill</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Jordan, Seth</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+             <idno type="SPC">0012_003320_000204_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Humes House Pamphlet, undated</title>
+               <date>undated</date>
+               <author>
+                  <name type="person">Humes House</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Dr. John Willard Hill Collection</note>
+               <note type="manuscript">MS.0874</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Confederate States of America. Army. Tennessee Infantry Regiment, 5th.</term>
+               <term>Franklin, Battle of, Franklin, Tenn., 1864.</term>
+               <term>Nashville, Battle of, Nashville, Tenn., 1864.</term>
+               <term>Spring Hill, Battle of, Spring Hill, Maury County, Tenn., 1864.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives, Confederate.</term>
+                <term>Civil War Diaries</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-07" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e36">
+            <pb n="1" facs="0012_000244_000204_0001.jpg" xml:id="d3e37"/>
+            <p>HUMES HOUSE</p>
+            <p>1846</p>
+            <pb n="2" facs="0012_000244_000204_0002.jpg" xml:id="d3e43"/>
+            <p>FOR FURTHER INFORMATION:</p>
+            <p>BILL POWELL</p>
+            <p>5600 HOLSTON HILLS ROAD</p>
+            <p>KNOXVILLE, TENNESSEE</p>
+            <p>37914 525-6677 522-5976</p>
+            <p>YOUR INTEREST AND SUPPORT</p>
+            <p>WILL BE GREATLY APPRECIATED</p>
+            <p>YOUR HELP TODAY WILL SAVE A PART</p>
+            <p>OF YESTERDAY FOR TOMORROW</p>
+            <pb n="3" facs="0012_000244_000204_0003.jpg" xml:id="d3e63"/>
+            <p>LOCATION: 413 CUMBERLAND AVENUE ON HISTORIC CUMBERLAND TRAIL THAT CONNECTED WASHINGTON, D. C. TO THE SOUTHWEST TERRITORY IN COLONIAL DAYS.</p>
+            <p>AGE: THE HOUSE WAS BUILT IN 1846 ON PROPERTY ONCE OWNED BY GOV. JOHN SEVIER. IT IS THE 4TH OLDEST HOUSE REMAINING IN THE DOWNTOWN AREA.</p>
+            <p>THE HOUSE WAS SCHEDULED TO BE DEMOLISHED FOR AN EXPANSION OF ST. JOHN&apos;S EPISCOPAL CHURCH. WE ARE RESCUING THIS HISTORIC HOUSE BY REMOVING ALL ARCHITECTURALLY SIGNIFICANT MATERIALS. A FAITHFUL REPRODUCTION, UTILIZING THESE MATERIALS WILL BE CONSTRUCTED IN THE DOWNTOWN AREA.</p>
+            <p>ORIGINAL OWNER: THE HOUSE WAS BUILT BY THOMAS HUMES. DR. HUMES WAS THE FOUNDER OF ST. JOHN&apos;S EPISCOPAL CHURCH AND THE FIRST PRESIDENT OF THE UNIVERSITY OF TENNESSEE.</p>
+            <p>THE DESIGN OF THE HOUSE IS FEDERAL WITH ITALIANATE INFLUENCE. IT HAS BEEN SUGGESTED THAT THE HOUSE WAS DESIGNED BY STRICKLAND, THE DESIGNER OF THE TENN CAPITOL BUILDING. IT IS A WELL KNOWN FACT THAT HE AND DR. HUMES WERE PERSONAL FRIENDS.</p>
+            <p>DR. HUMES WAS RECTOR OF ST. JOHN&apos;S FROM 1846-1861. AS AN UNCOMPROMISING UNION SUPPORTER, HE REFUSED TO OFFER PRAYERS FOR JEFFERSON DAVIS OR ANY CONFEDERATE LEADER.</p>
+            <p>(OVER)</p>
+            <pb n="4" facs="0012_000244_000204_0004.jpg" xml:id="d3e79"/>
+            <p>SIGNIFICANT HISTORY OF THE HOUSE:</p>
+            <p>-BUILT IN 1846</p>
+            <p>-FOURTH OLDEST HOUSE REMIAING IN DOWNTOWN AREA</p>
+            <p>-HOME OF FIRST PRESIDENT OF UNIVERSITY OF TENNESSEE</p>
+            <p>-HOME OF FOUNDER OF ST. JOHN&apos;S EPISCOPAL CHURCH</p>
+            <p>-SITE OF EARLIEST KNOWN SCHOOL FOR BLACK CHILDREN BEFORE CIVIL WAS IN KNOXVILLE</p>
+            <p>-OCCUPIED BY UNION OFFICERS DURING CIVIL WAR</p>
+            <p>-HOME OF DR. OTIS F. HILL, CIVIC LEADER AND FOUNDER OF KNOXVILLE ACADEMY OF MEDICINE</p>
+            <p>-HOME OF THE FIRST LIBRARIAN OF THE LAWSON MCGEE LIBRARY</p>
+            <p>POSSIBLY DESIGNED BY THE DESIGNER OF THE TENNESSEE STATE CAPITOL</p>
+            <p>[Special Collections note: MS. 874</p>
+            <p>In this house, John Willard Hill, son of Dr. Otis F. Hill, grew up and wrote these diaries.]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

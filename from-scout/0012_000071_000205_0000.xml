@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Knoxville, Tenn., to Amos Gould in Owosso, Michigan,
+<date when="1865-04-21">
+1865 April 21
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000205_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1865 April 21</title>
+               <date>1865-04-21</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">In this letter, dated April 21, 1865, from Henry Cherry in Knoxville, Tenn. to Amos Gould, Cherry describes &quot;the destructed state of the churches divided and impoverished by the war.&quot; Discusses a meeting with the &quot;strongly Union&quot; Professor Lamar at Maryville College as well as an upcoming trip to Maryville to preach for &quot;a colony of good industrious Northern men.&quot; Asks Gould to write a letter of support for him for the position of State School Superintendent, as &quot;education in Tennessee has lost four years. The cause needs an Agent, or Leader.&quot;</note>
+               <note type="collection">The Henry Cherry Letters, 1864</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000205_0001.jpg" xml:id="d3e142"/>
+            <p>H Cherry</p>
+            <p>April 21 1865</p>
+            <p>Head quarters 10th Mich Cav</p>
+            <p>Knoxville Tenn. Apl 21st 1865.</p>
+            <p>Hon</p>
+            <p>Amos Gould</p>
+            <p>My Dear Sir</p>
+            <p>Your favor of Apl 13th has just come to hand &amp; suggests just what I have been desiring for some months and what several ministers have expressed to me who are residents of Tennessee but the difficulty to be overcome is a want of support. I suggested to you in my letter that your brother Ebenezer would make a fortune here in Five years as a Lawyer and as a Preacher I could do well but for the destructed state of the Churches divided &amp; impoverished by the War.</p>
+            <p>I am expecting in an hour to start for Maryville where says Prof Lamar is the fairest &amp; finest promise for a Colony of good industrious Northern men. I am invited there to preach &amp; hold sacrament on the sabbath &amp; shall commence service to-morrow.</p>
+            <p>I have already played a large part in the &quot;reconstruction&quot; &amp; this Rebel Presbytery is now</p>
+            <pb n="2" facs="0012_000071_000205_0002.jpg" xml:id="d3e169"/>
+            <p>all right. At its meeting the week before last I was its moderator. I have labored much among the people &amp; have I trust helpd to settle many old feuds &amp; brought about a good state of feeling, &amp; had not War desolated &amp; impoverished the people &amp; country, I would have several chances for a support. I think I see one chance, but it will require your help, the help of Amos &amp; Ebenezer Gould, Ira Merrill Burrell Chipman, &amp; Mr Knill. This can be done quietly, so that no one there need make any talk about it, for if enemies know nothing of it they cannot talk about it. The Point is this, Education in Tennessee has lost Four Years. The cause needs an Agent, a Leader, &amp; I wish to take the same place here which was so long held by Rev Mr Gregory in Michigan, &quot;State School Superintendent.&quot;</p>
+            <p>With your recommendation in my hand I would ask Prof Lamar to work for me, &amp; as Mrs Brownlow has urged me twice to call, I think I could through her, influence the Governor to nominate me for that Office. Prof Lamar who is strongly union, I know will approve the plan, and I expect to talk with him about it to-morrow. Now my Dear Friend I hope you will see fit to assist me in this quiet way which will injure no one &amp; perhaps do me much good.</p>
+            <p>Please answer as soon as you can for the Legislature is now in session. One Day, we were like you, all overwhelmed with joy -- the next day coverered with the great wave of tribulation &amp; sorrow which sirocco like made us bow to the earth. The Lord reigneth.</p>
+            <p>Regards to all your Family</p>
+            <p>From Your True Friend &amp;</p>
+            <p>Brother</p>
+            <p>Henry Cherry</p>
+         </div>
+      </body>
+   </text>
+</TEI>

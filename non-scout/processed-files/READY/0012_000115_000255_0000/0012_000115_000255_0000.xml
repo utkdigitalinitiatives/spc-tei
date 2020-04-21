@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000255_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1828-08-09">1828 Aug. 09</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000255_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1828 Aug. 09</title>
+          <date when="1828-08-09">1828 Aug. 09</date>
+          <author>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000255_0001.jpg" xml:id="d4e38"/>
+        <p>To <unclear reason="illegible" resp="EMS">C Guild</unclear>
+            </p>
+        <p>Articles of</p>
+        <p>Agreement</p>
+        <p/>
+        <p/>
+        <pb n="2" facs="0012_000115_000255_0002.jpg" xml:id="d4e50"/>
+        <p>Articles of agreement made and entered into between <unclear reason="illegible" resp="EMS">Go. C Guild</unclear> of the one post and <unclear reason="illegible" resp="EMS">imortane</unclear> guardian for William and Thomas <unclear reason="illegible" resp="EMS">Askew</unclear> and James <unclear reason="illegible" resp="EMS">Askew</unclear> by his attorney in fact <unclear reason="illegible" resp="EMS">Ino P Williams</unclear> and <unclear reason="illegible" resp="EMS">Phoebe Askew</unclear> alias Phoebe <unclear reason="illegible" resp="EMS">Sicks</unclear> of the other part - <unclear reason="illegible" resp="EMS">Wdnofroth</unclear> that Grace Askew and others have now a note depending in the Circuit Court of Smith County against <unclear reason="illegible" resp="EMS">James Askew</unclear> and William and Thomas Askew and Phoebe Hicks allas Askew and others for about fifteen hundred acres of land the same land whereas <unclear reason="illegible" resp="EMS">Wdk and Ashews drid</unclear> to gether with all the land the said Askews owned at his death <unclear reason="illegible" resp="EMS">Sicd</unclear> Whereas the said Jo C Guild has purchased the in terest of the said Grace Askews and others to said land and has the Control of said suit - None it is agreed between the parties <unclear reason="illegible" resp="EMS">aforeaid that segwcid</unclear> shall go in favour of the persons platiffs in said sure that said Guild has purchased in their interest - And the Corts of said suit shall be paid by the said <unclear reason="illegible" resp="EMS">Ino P. Williams</unclear> who holds Clauses against persons for this <unclear reason="illegible" resp="EMS">square</unclear> suit of said land - and <unclear reason="illegible" resp="EMS">sallance</unclear> it any shall be <unclear reason="illegible" resp="EMS">apphid</unclear> to the payment of debts against siad estate - The said land in the first place shall be subject to the payment of the just debts against said estate to gether with what is deed said estate </p>
+        <p>And it is further agreed that <unclear reason="illegible" resp="EMS">Jo C Guild</unclear>
+            </p>
+        <pb n="3" facs="0012_000115_000255_0003.jpg" xml:id="d4e108"/>
+        <p>shall make a special deed of </p>
+        <p/>
+        <p/>
+        <pb n="4" facs="0012_000115_000255_0004.jpg" xml:id="d4e114"/>
+        <p/>
+        <p>Your friend</p>
+        <p>Robert Allen</p>
+      </div>
+    </body>
+  </text>
+</TEI>

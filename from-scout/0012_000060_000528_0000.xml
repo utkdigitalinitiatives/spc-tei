@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000528_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>W.G.E. Cunnyngham</name>
+ in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-05-13">1884 May 13</date>
+            </title>
+            <author>
+               <name type="person">Cunnyngham, W. G. E. (William George Etler)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000528_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W.G.E. Cunnyngham in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 May 13</title>
+               <date>1884-05-13</date>
+               <author>
+                  <name>Cunnyngham, W. G. E. (William George Etler)</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages.</extent>
+               <note type="abstract">1884 May 13 W.G.E. Cunnyngham, D.D., editor of the Sunday School Dept. of the Southern Methodist Publishing House, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Expression of sympathy in J.G.M. &apos;s death. Praises Dr. Ramsey &apos;s life of Christian goodness and usefulness. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Bereavement -- Religious aspects. </term>
+               <term>Bereavement -- Social aspects.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Death and burial.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Appreciation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000528_0001.jpg" xml:id="d3e153"/>
+            <p>Editorial Rooms,</p>
+            <p>Sunday School Department,</p>
+            <p>Southern Methodist Publishing House,</p>
+            <p>Nashville, Tenn.</p>
+            <p>Mrs. J.G.M. Ramsay</p>
+            <p>East Main St.</p>
+            <p>Knoxville</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000528_0002.jpg" xml:id="d3e176"/>
+            <p>Nashville, Tenn. May 13 1884</p>
+            <p>Mrs. J.G.M. Ramsay.</p>
+            <p>My Dear Friend.</p>
+            <p>Will you permit me to say to you now how much I admired and loved your noble husband; and how deeply I feel the loss, which not only his immediate family have sustained, but our whole state, the cause of religion, virtue, and all our public interests, by his death. For him we not weep. He had lived all his appointed time on earth; had served his generation faithfully by the will of God, and has ascended to the presence of his Redeemer, where he rests from his labor, and where he suffers no more. He has gained all for which good men toil and suffer, for which they pray and hope. But we have lost much, and it becomes his friends and fellow citizen to consider the loss, and how it may be repaired. The death of a good man is a public calamity. Such men as Dr Ramsay are not common in this selfish and time-saving generation. His public spirit made him a useful citizen. His christian urbanity made him a</p>
+            <pb n="3" facs="0012_000060_000528_0003.jpg" xml:id="d3e190"/>
+            <p>good neighbor, and a pleasant friend and companion. His wisdom, and his various experience of men and affairs, made him a safe counselor. He was well fitted for the eminent sphere which he fills with such fidelity.</p>
+            <p>But above all, and over all the qualities which distinguished him among men, was his serene consistent Christian character. All that was manly and noble in him was elevated and purified by his faith in God, and humble trust in the divine merits of his Savior. the church will miss him. But God is not so poor that he cannot fill the vacancies which death makes among his people.</p>
+            <p>You have doubtless found the promises of God all &quot;yea, and Amen,&quot; in Christ. God does not leave his people to suffer without his presence and comfort. He will be with you to the end, and will then crown you with your loved ones on heaven. &quot;All things work together for good to them that love God, who use the called according to his purpose,&quot; and your present affliction is one of the &quot;all things.&quot; May God comfort you as he only can comfort. May his peace dance in your heart, and may he guide you safely to your heavenly home! Mrs C. joins me in much and sympathy.</p>
+            <p>Yours most sincerely</p>
+            <p>W.G.E. Cunnyngham</p>
+         </div>
+      </body>
+   </text>
+</TEI>

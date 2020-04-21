@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000224_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Caroline M. Brown,<date when="1862-02-12">1862 Feb. 12</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000224_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,1862 Feb. 12</title>
+          <date when="1862-02-12">1862 Feb. 12</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000224_0001.jpg" xml:id="d4e39"/>
+        <p>February 12th 1862</p>
+        <p>Dear Companion</p>
+        <p>I seat my self to let you know how i am at this time I am well and i Hope these few lines will Find you and the boys the enjoying the same blessing i will just say that we are on our way Back to lebannon we are 2 miles this side of Crab orchard And we will reach lebannon to Night within 18 miles of Danville we left the camp on the other side of the river last friday And crost the river on saturday and cmpt over sunday and this is the third day we have bin marching 33 miles you</p>
+        <pb n="2" facs="0012_000599_000224_0002.jpg" xml:id="d4e47"/>
+        <p>May guess we do not go verry fast althto we had very bad roads untill we got Crab orchard and we then <unclear reason="illegible" resp="LW">lue</unclear> got on the pike I supose we will go to green River soon and then i exspect we will have A little fight to do when we get there with old Buckner or Breckinridge one or the other down there the health of the reg is tolable good at this time there is but verry few of the boys but what is able to walk by them halling their knapsack the road we have to travel is very good on to lebannon it is a pike clere through</p>
+        <pb n="3" facs="0012_000599_000224_0003.jpg" xml:id="d4e54"/>
+        <p>I will just say that i saw some of the homeliest woman down in whare we have bin that i ever saw i think they are boath dirty and ragged and not verry smart and the poorest houses you ever saw our house is good to what the most of them are down thare they Are boath little and rough you may tell Virgenia Byers that i got a letter G.H. Byers that was dated the 30 of last month stateing that he was well at that time he said that the Health of their regt was not As good as he would like it to be i got a letter from Catharine green stateing that</p>
+        <pb n="4" facs="0012_000599_000224_0004.jpg" xml:id="d4e58"/>
+        <p>she was well But said that Sarah was worse I want you to writ As soon as this come to handn Direct your letter To Lebannon Ky</p>
+        <p>31st regt Co A</p>
+        <p>In care of Capt J.W. Free</p>
+        <p>Good by for this time</p>
+        <p>To C.M. Brown</p>
+        <p>By Henry Brown</p>
+        <p>This pipe stem came from the Cumberland river you keep it till i come home</p>
+      </div>
+    </body>
+  </text>
+</TEI>

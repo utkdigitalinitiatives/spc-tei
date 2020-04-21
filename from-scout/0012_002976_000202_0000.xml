@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002976_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">Sir Banastre Tarleton</name> to <name type="person">Colonel Anthony Walton White</name>, <date when="1779-09-15">1779 September 15</date>
+            </title>
+            <author>
+               <name>Tarleton, Banastre</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Giles, Sheldon</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special
+                     Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_002976_000202_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, <name type="author">Sir Banastre Tarleton</name> to <name type="person">Colonel Anthony Walton White</name>, <date when="1779-09-15">1779 September 15</date>
+               </title>
+               <date when="1779-09-15">1779 September 15</date>
+               <author>
+                  <name>Tarleton, Banastre</name>
+               </author>
+               <extent>2 digital images</extent>
+               <note type="collection">Greer and Vinsinger Family Collection of Revolutional War
+                  Documents</note>
+               <note type="manuscript">MS.3518</note>
+               <note type="abstract">
+                  <p>Sir Banastre Tarleton of the British Army wrote this letter to Lt. Col.
+                     Anthony Walton White of the Continental Army on September 15, 1779 requesting the return of Sergeant Horsefield and other prisoners. He asks
+                     whether "any such man … immediately under my command, yesterday, owning to
+                     the darkness of the preceding light, the badness of the roads, or the fatigue
+                     of their horses, fell into your hands." If so, Tarleton "will exchange for
+                     whomever you think the proper name."</p>
+               </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Buchanan, James, 1791-1868</term>
+               <term>Gates, Horatio, 1728-1806</term>
+               <term>Hamilton, Alexander, 1757-1804</term>
+               <term>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de,
+                  1757-1834</term>
+               <term>Legal correspondence.</term>
+               <term>Muhlenberg, John Peter Gabriel, 1746-1807</term>
+               <term>Presidents -- United States -- Correspondence.</term>
+               <term>Rutledge, Edward, 1749-1800</term>
+               <term>Tarleton, Lieutenant-General, (Banastre), 1754-1833</term>
+               <term>United States -- History -- Revolution, 1775-1783.</term>
+               <term>United States -- Politics and government -- 1809-1817.</term>
+               <term>United States. Congress -- History -- 19th century.</term>
+               <term>Washington, George, 1732-1799</term>
+               <term>Wolcott, Oliver, 1760-1833</term>
+            <term>Revolutionary War Letters</term></keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-21" who="nl">Reformatted transcription from its original TEI.2 markup
+            to comply with the TEI-P5 lite schema.</change>
+         <change when="2013-07-12" who="nl">Added "idno" element, editorial declaration statement,
+            subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes,
+            reference declaration element. Changed the formatting for blank pages. Added resp
+            attributes to editorial changes, and added name tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e216">
+            <pb facs="0012_002976_000202_0001.jpg" n="1" xml:id="d2e218"/>
+            <opener>
+               <dateline>
+                  <date when="1779-09-15">Sep 15 1779</date>
+               </dateline>
+            </opener>
+            <p>If Sir such a man as say: <unclear reason="illegible" resp="SG">Horsefield</unclear>,
+               or any one else, immediately under my command yesterday, swing to the Darkness of the
+               preceding Night, The Badness of the Roads, or the fatigue of their horses, fall into
+               your Hands, I wish exchange for whomever you think proper to <unclear reason="illegible" resp="SG">fame</unclear>.</p>
+            <p>You <unclear reason="illegible" resp="SG">with</unclear> be <unclear reason="illegible" resp="SS">plean</unclear> by the Return of the Flag signify
+               your Design. The men may if you think proper come in upon Parole.</p>
+            <closer>
+               <salute>I have the honor to be Sir your <choice>
+                     <abbr>obedt</abbr> 
+                     <expan resp="smj">obedient</expan>
+                  </choice>
+                  <choice>
+                     <abbr>servt</abbr> 
+                     <expan resp="smj">servant</expan>
+                  </choice>
+               </salute>
+               <signed>
+                  <name type="person">Bannastre Tarleton</name>
+               </signed>
+               <address>
+                  <addrLine>Lt. Col: Brit: <unclear reason="illegible" resp="SG">Lig:</unclear>
+                  </addrLine>
+                  <addrLine>Lt. Col:l White</addrLine>
+                  <addrLine>
+                     <unclear reason="illegible" resp="SG">or Off:r command:g</unclear>
+                  </addrLine>
+                  <addrLine>Enemys Outpost</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="envelope" xml:id="d2e288">
+            <pb facs="0012_002976_000202_0002.jpg" n="2" xml:id="d2e290"/>
+            <p>Col. Tarlton of the<lb/> British army<lb/>
+               <date when="1779-09-15">Sept. 15, 1779</date>
+            </p>
+            <p>no 7.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

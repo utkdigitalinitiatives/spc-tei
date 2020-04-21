@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000187_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Amos Guthrie</name>
+ in Knoxville, Tenn. to his father in New Rumley Township, Ohio <date when="1864-03-30">1864 Mar. 30</date>
+            </title>
+            <author>
+               <name type="person">Guthrie, Amos, ca. 1844-1864</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000187_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Amos Guthrie in Knoxville, Tenn. to his father in New Rumley Township, Ohio, 1864 Mar. 30</title>
+               <date>1864-03-30</date>
+               <author>
+                  <name>Guthrie, Amos, ca. 1844-1864</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">Amos Guthrie sent this letter to his father in New Rumley Township, Ohio on March 30, 1864. Guthrie was stationed in Knoxville, Tennessee. He told his father he and the rest of the boys were well, whereas there had been much sickness and death at first. He told his father about the pay he had received and let his father decide what to do with what he received from it. He mentioned his few clothes and keeping them clean and in good shape. He didn&apos;t think his dept. would have much to do until the fall of Richmond. He spoke of politics. He also told him his dept. was getting smaller due to furloughs and some units had gone to Kentucky. He asked his father to send him a good pen, some addresses and news of another soldier. The weather had been bad, but he thought it would improve soon. He explained the daily drills and that they had not received any horses due to lack of grass for them.</note>
+               <note type="collection">Amos Guthrie Letter</note>
+               <note type="manuscript">MS.2945</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Families of military personnel -- United States.</term>
+               <term>Soldiers -- Health and hygiene.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Ohio -- History --- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Guthrie, Amos, ca. 1844-1864 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000187_000200_0001.jpg" xml:id="d3e157"/>
+            <p>Knoxvill Tenn March 30 164</p>
+            <p>Dear Father</p>
+            <p>I sit down this morning to answer your letter which came to hand yesterday and was glad to hear that you were all well I am well at present and so are all the rest of the boys there is very little sickness in this department at this time when we first came here there was about 8 deaths per day but now it only averages about 2 per day I was sorry to hear of <unclear reason="illegible" resp="JCM">Leiz Fetrair</unclear> committing suicide but it dont make much difference it is only another <unclear reason="illegible" resp="JCM">Shamburg gone</unclear> So Adam has a daughter I suppose he can write another letter to Simon so that George Wert could get to read it We were paid off on the 23rd of this month I drew $29.90. Just 2 months &amp; 9 days I say we were to recieve bounty but the Captain &amp; Paymaster could not agree on the amount to be given the paymaster wanted to give $40 to new recruits and $50 to veterans the captain wanted $50 for all of us I do not know whether he will succed in getting it or not I intended to send $25 to you</p>
+            <pb n="2" facs="0012_000187_000200_0002.jpg" xml:id="d3e175"/>
+            <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+            <p>I must close for the present by remaining your son</p>
+            <p>Amos</p>
+            <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+            <p>but I could not we had to pay $3.00 each for staying at Pittsburg so I had only $1.90 left and i thought I would keep the $5 and send the more home the next time we will get our bounty next pay day I sent $20.00 in Uncke Jake letter as that was the only way I had to send it You can do with my money as you see proper Either put it out on interest or keep it yourself as it dont make any difference to me which you do Well yesterday was washday I had a heavy washing 1 shirt 1 pair of drawers and socks tell mother that I did not get them as clean as she would but got them clean enough for a soldier my socks stand it very well none of them have holes yet I suppose that we will not have any thing to do in this department until after the full of Richmond I suppose Rumley township will stand a draft for the last 200,000 men all that I hope is that every copperhead will be drafted in the township but it would not do any good they would</p>
+            <pb n="3" facs="0012_000187_000200_0003.jpg" xml:id="d3e191"/>
+            <p>Tell Josh Wert that I Address as before wrote him 2 letters since I am here and never receved an answer</p>
+            <p>rebel against the Governement and I think if Rumley township would do that the Union forces might as well quit fighting for Vallandig was Elected Govenor in the township and this township carried the state I want to know how the election goes this spring and who is elected but it will be copperheads of course if that Gold pen has a case to it and is a good pen you may send it and if not a good pen I dont want it I seen old Gen Schofield the other day he looks about like a lager beer suloon with his red nose and cheeks his hair is already tinged with gray although he is only 35 years old the force in this Department is getting smaller and smaller everyday their are <unclear reason="illegible" resp="JCM">regts</unclear> going home on furlough but none have yet returned the 7th and 9th Ohio and 9th Michigan Calvalry have been sent to Lexington KY to <unclear reason="illegible" resp="JCM">remain</unclear> Do you know the address of any of the Rumley boys in the 74th if so give it to me in your next letter if Gen <unclear reason="illegible" resp="JCM">Grant can now</unclear> see the</p>
+            <pb n="4" facs="0012_000187_000200_0004.jpg" xml:id="d3e210"/>
+            <note type="transcription">The following text is continued from the top of the third page of the letter.</note>
+            <p>I recived the paper and pens all right what things you get for me I want you to ake out of my money</p>
+            <note type="transcription">The preceding text is continued from the top of the third page of the letter.</note>
+            <p>end of this rebellion it will be over in a few years but I hope it will play out this summer if anything in the shape of men can do it Has Jacob Graybill got his discharge yet and if so is he at home or not you say <unclear reason="illegible" resp="JCM">Jolley</unclear> is going to <unclear reason="illegible" resp="JCM">Fairviers</unclear> to keep Grocry I do not think he needs any sign as he is sign enough himself so you will get rid of the last Vallandig <unclear reason="illegible" resp="JCM">hammer</unclear> in town I wish every town could say so I almost forgot about the weather it has bene snowy and rainy for the last ten days but I think will be fine weather in a few days But I must stop as the bugler&apos;s sounding for dirll I have just come off drill we have to drill 2 hours everday 1 hour in the <unclear reason="illegible" resp="JCM">foremorn</unclear> and 1 in the afternoon the afternoon drill is the hardest we drill with sabre and revolver we have not recieved any horses yet as there is not enough grass on the mountains for them to live on for my part I do not want a horse while I am here as I was never fond of riding horses and we have just enough to do to make us lazy</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000206_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                   in Convalesent camp near Nashville, Tenn. to Caroline M. Brown, <date when="1862-09-11">1862 Sept. 11</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000206_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Convalesent camp near Nashville, Tenn. to Caroline M. Brown, 1862 Sept. 11</title>
+          <date when="1862-09-11">1862 Sept. 11</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection 
+</note>
+          <note type="manuscript">MS.599</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000206_0001.jpg" xml:id="d4e39"/>
+        <p>September  11th  62</p>
+        <p>Convalesent Camp</p>
+        <p>CAROLINE  M.  BROWN</p>
+        <p>Near Nashville  Tennessee</p>
+        <p>Dear wife it is with regret that I seat myself To inform you whare I am I am in the camp Above mentioned about
+				       One mile from Nashville Waiting my discharge and we that are here are used more like dogs than men  we only
+				       get one third Rashons and that is not a Nought we have to buy Some Bread and potatoes and a little meat to keep
+				       us along i think we will be Sent to Louisville Before Long and then home</p>
+        <pb n="2" facs="0012_000599_000206_0002.jpg" xml:id="d4e51"/>
+        <p>After my respects to you your Father and mother and The boys I will just say That i got a few lines In jim Bones
+				  letter And was truly glad to Hear from you for it Had bin a good before That i had any word From you it was the
+				  26 of last month and Since That I received one dated The 8 of last month  From you and Jimmy Bloomer I was
+				  verry Glad to hear that you All injoyed good health Alltho i am not Blest with the Same at present  I hope i will
+				  be at Home before long to injoy with you all Some of the</p>
+        <pb n="3" facs="0012_000599_000206_0003.jpg" xml:id="d4e55"/>
+        <p>Good thing you have laid up for me you must Not make your Self Unesy about me and you Must Excuse me for
+				       not writing before this because I have bin moved to 3 Difernt places since i rote The last letter to you  And now 
+				       i cant advis you To write to me for i cant Tell what day we may Be moved from this camp To Some other so i
+				       shall Say for you not to write untill i write again to To you if we are moved To Louisville i shall come Home 
+				       Shure my feet and Legs are not sweld so Bad as they ware some time ago but</p>
+        <pb n="4" facs="0012_000599_000206_0004.jpg" xml:id="d4e59"/>
+        <p>So good By to you all  I cant walk to do any Good and dont know As i Ever shall any more N. B. John S. Hemery
+				       Got wounded in the Thigh last mondy they ware going out on a Scout and the out line Of our pickets fired on
+				       Them and wounded Him  now i will just Say that i will be at Home as soon as i can Get there you may bet my
+				       legs achees while writeing these few Lines  there is 6 of co A waiting for their Papers  myself and R Scrivoner and
+				       John McClurg and the other I need not mention</p>
+        <p>HENRY  BROWN.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

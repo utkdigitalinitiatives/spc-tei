@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000444_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John M. Lea</name>
+				                    in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1878-12-25">1878 Dec. 25</date>
+            </title>
+            <author>
+               <name type="person">Lea, John M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000444_0000</idno>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John M. Lea in Nashville, Tenn. to J.G.M. Ramsey in Knoxville, Tenn.</title>
+               <date when="1878-12-25">1878 Dec. 25</date>
+               <author>
+                  <name type="person">Lea, John M.</name>
+               </author>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as "turn page over" have been
+               omitted.</p>   
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey, J.G.M., (James Gettys McGready), 1797-1884</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e37">
+            <pb n="1" facs="0012_000060_000444_0001.jpg" xml:id="d3e38"/>
+            <p>41 North Vine Street</p>
+            <p>Nashville, Tenn., Dec. 25 1878</p>
+            <p>Dr. J. G. M. Ramsey,</p>
+            <p>Prest. of the Tennessee Historical Society,</p>
+            <p>My Dear Sir,</p>
+            <p>I returned home from Memphis a few days ago and found your most acceptable letter interesting as it is long - and we never complain of the length of your letters - of the <unclear reason="illegible" resp="bds">18 &quot;int&quot;</unclear>. The member of the Society will, I am sure, listen with pleasure to the reading of the letter at our next meeting. I will thank you to send us some written communication to lay before the Society at every regular meeting. No other man in Tennessee knows so much of our history, social, political, and military, nor does any man feel an interest greater than you in perpetuating the deeds of our heroic ancestors.</p>
+            <p>&quot;The Annals&quot; contain the first and only full statement I ever read concerning the Franklin Government. The eulogy pronounced by Lord <unclear reason="illegible" resp="bds">Chatham</unclear> upon the members of the Continental Congress <unclear reason="illegible" resp="bds">may</unclear> well have been applied to the hardy pioneers of East Tennessee. These men, the most of them, possessed, we may say, no literary education. <unclear reason="illegible" resp="bds">Questions</unclear> of Government were not at that day the subjects of constant conversation - written constitutions were novelties - the general impression prevailed that government was specially ordained by Providence or came from some unseen power</p>
+            <pb n="2" facs="0012_000060_000444_0002.jpg" xml:id="d3e66"/>
+            <p>higher than or above the people. The <unclear reason="illegible" resp="bds">speculations</unclear> of philosophers were unknown to them, and the only foundation upon which they had to build was strong common sense united with love of justice and liberty, refined and purified by a deep Christian devotion. The <unclear reason="illegible" resp="bds">Confession</unclear> of Faith and the Westminster Catechism did much for East Tennessee. Love God and man was the <unclear reason="illegible" resp="bds">resting</unclear> idea of the Scotch Presbyterians, and if a little too harsh towards those who held contrary doctrines, &quot;<unclear reason="illegible" resp="bds">saw</unclear> their failings leaned towards virtue&apos;s side&quot;. These men established a Government in the wilderness, which, arguably in the conception and administration of law, the preservation of liberty and the protection of property, recalled all the Utopias that were ever written from the days of Plato down to the time of Sir Thomas More. I have often said, that if Massachusetts could boast of such a history, her orators and poets would never have wearied in celebrating the praises of such grand, heroic men.</p>
+            <p>As to the subject of celebrating centinnials, it must have escaped your memory, for the moment that our society has already begun to make preparations for honoring the one hundredth anniversary of the settlement of Nashville. It is in the programme that you shall send us a communication, and it would afford us a sincere pleasure if you could be present on the occasion. We can by a sort <unclear reason="illegible" resp="bds">frantic</unclear> leisure, blend this day with</p>
+            <pb n="3" facs="0012_000060_000444_0003.jpg" xml:id="d3e87"/>
+            <p>the centinnial celebration of the battle of Kings Mountain. We shall do our best to get up a most creditable display. I should be glad if Jonesboro, Greenville, and other towns would also imitate our example. These local assemblies will exert a most beneficial influence upon the prospects of the State Society. Interest to a considerable extent has been awakened and it must now be kept alive.</p>
+            <p>We shall make application to the <unclear reason="illegible" resp="bds">next</unclear> General Assembly for a small appropriation and we do so with almost certain hope of success. If the appropriation is of any magnitude we should buy a lot, and then by subscription, erect a fire-proof building to protect our property. The State Library Room is too small and, if we were to take away our relics, the chief attraction at the Capital, to be sure, would be gone but our building would be a distinctive object and let the people know that we had an existence independent of the State.</p>
+            <p>When Col. Johnson was here, I made a short speech introducing him to the audience and expressed my great surprise and deep <unclear reason="illegible" resp="bds">unirtipiation</unclear>, that prominent characters in the <unclear reason="illegible" resp="bds">circle</unclear> even did not feel a livelier <unclear reason="illegible" resp="bds">solicitude</unclear> in preserving and prepetuating facts, which would not only place them but our State in a proper light before prosterity. Tennessee was the battlefield with &quot;all <unclear reason="illegible" resp="bds">vantage</unclear> ground&quot; for the north, Shiloh, Nashville, Murfreesboro, and Franklin attest defeat, but no lack of bravery. Tennesseans exhibited in that struggle the <unclear reason="illegible" resp="bds">sublimest</unclear>
+            </p>
+            <pb n="4" facs="0012_000060_000444_0004.jpg" xml:id="d3e112"/>
+            <p> devotion to duty. More than once they came within sight of their homes, their wives, and their children, and when defeated by overpowering numbers, they retreated, &quot;sullenly firing,&quot; and no thought of surrendering, even to embrace their <unclear reason="illegible" resp="bds">household</unclear> goods, ever entered their minds. No such trial was ever encountered by the soldiers of Virginia or any other state, and few are the men who would have stood so strong a test of duty and devotion to principle. I was opposed to the war and, I trust, I shall always as the French say, have the courage of my opinions; but I love my State and my people; their honor is my honor and it grieves me, that the representatives of Tennessee in that great struggle do not take a greater interest for their own name if not for the name of the State, in putting on record facts which will give posterity a knowledge of the heroism, endurance, and patriotism which characterized alike citizens and soldiers during that eventful period. On this subject I have often spoken and I shall request the Society to print in the <unclear reason="illegible" resp="bds">newspapers</unclear> an extract from your letter. Dr. Drake to my surprise informs me that he can scarcely get enough subscribers to sustain his periodical. There was excuse for apathy just after the close of the war, but the <unclear reason="illegible" resp="bds">retification</unclear> of our history is or should be of more importance that the holding of all the officers either State or National. The past is of consequence no less than the present.</p>
+            <pb n="5" facs="0012_000060_000444_0005.jpg" xml:id="d3e125"/>
+            <p>While at Memphis I met Col. Charles D. McLean aged eighty-six years, who was for a long time the Editor of a newspaper in Nashville (about 1816-1820) and he promised to send to the Society many old papers and pamphlets. I had him elected an Honorary Member some years ago.</p>
+            <p>I give to you and your family all the good wishes of the season and may your life be long <unclear reason="illegible" resp="bds">shared</unclear> to your family and your country.</p>
+            <p>This day is the sixtieth anniversary of my birth. When I was a youth that length of time or the imagination of it seemed an age. How short the time appears now. Labors accumlate as age increases, and</p>
+            <lg>
+               <l>&quot;When I have lived my life,</l>
+               <l>&quot;May He within himself make all things pure.&quot;</l>
+            </lg>
+            <p>Very truly,</p>
+            <p>Your friend,</p>
+            <p>John M. Lea</p>
+            <p>P.S.</p>
+            <p>I did not go to Lauderdale County, but I saw a statement in some paper or periodical that Gen. Rutherford died in Sumner County. The General had relations in Lauderdale. I do not know of any residing in Middle Tennessee.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

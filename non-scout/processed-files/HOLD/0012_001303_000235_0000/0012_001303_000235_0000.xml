@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000235_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn., <date when="1918-12-19">1918 Dec. 19</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Gibson, Tika</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000235_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn., 1918 Dec. 19</title>
+          <date when="1918-12-19">1918 Dec. 19</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Gibson, Tika">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000235_0001.jpg" xml:id="d4e39"/>
+        <p>J. L. Dodds</p>
+        <p>Truck  Co # 8 = 23 Engrs</p>
+        <p>American Ex Frances</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000235_0002.jpg" xml:id="d4e57"/>
+        <p>Dec 19 1918</p>
+        <p>Dear Ellen -</p>
+        <p>Well try to write you a few lines to night to let you know I am still living and have not married any of those French girls your were talking about. I have written you regular here of late.</p>
+        <p>I have never missed as murch as six weeks yu should have gotten one letter writen about Oct 10 and in about two week I begun to write regular again. As I have told your before I was so buesy I didnt have time to write but once in a month I</p>
+        <p>I am sure you have been</p>
+        <pb n="3" facs="0012_001303_000235_0003.jpg" xml:id="d4e69"/>
+        <p>recieving letters from me. regular here of late your remember I told you in my last letter I was going to move well I did. I have moved twice sence then we moved to Barsur <unclear reason="illegible" resp="tlg">Anhe</unclear>  that is about a hundred miles south west of Vraincaust on the <unclear reason="illegible" resp="tlg">Anhe</unclear> river </p>
+        <p>We were then four days and then we moved near where we first started from <unclear reason="illegible" resp="tlg">at</unclear> Vraincaust we are at a small town called <unclear reason="illegible" resp="tlg">Sowlly</unclear> now about ten miles from Verdun </p>
+        <p>you remember I told you before we moved I was about fifteen miles</p>
+        <pb n="4" facs="0012_001303_000235_0004.jpg" xml:id="d4e89"/>
+        <p>from Verdun I sure would make a good hand to move to move people when I get home I have had enough experance since I have been in the army, we are expecting to stay here for about two months or maybe </p>
+        <p>I dont have the least idea when we will start home I sure hope want be so ong as we thank,  I am sure anxious to see you and talk to you once more as I once upon a time I thank of you often and wonder if you wont to see me</p>
+        <pb n="5" facs="0012_001303_000235_0005.jpg" xml:id="d4e95"/>
+        <p>half as bad as I do you  well has been raining here ever since we got here we had a little snow also  to day but soon quite and began to rain a gain, The wind is blowing hard nad and has turned colder  I had rather see some cold weather and not so murch rain</p>
+        <p>But of course I cant have my way as I would leave this county tomorrow</p>
+        <p>Gee" looks like Esther would be getting over all that a happy child.</p>
+        <p/>
+        <pb n="6" facs="0012_001303_000235_0006.jpg" xml:id="d4e104"/>
+        <p>well six more days and then will be x mas oh how I wish I was at home to eat that christmas dinner with  you  I worte you back in the summer I would be home to be with you. But I am going to run late on that date, well I don't know any thing else to write so will quiet for this time, with just lots of love</p>
+        <p>James L Dodds</p>
+        <p>Truck Co #8 = 23 Enegr</p>
+        <p>American Exch, Force</p>
+        <p>Via N.Y., France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

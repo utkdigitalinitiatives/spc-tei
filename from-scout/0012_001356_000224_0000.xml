@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000224_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">William Smith</name> in <name type="place">MacDonalds Station, Tenn.</name> to to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-04-30">1865 April 30</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>  
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability><idno>0012_001356_000224_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William Smith</name> in <name type="place">MacDonalds Station, Tenn.</name> to to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-04-30">1865 April 30</date>
+               </title>
+               <date when="1865-04-30">1865 April 30</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>         
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-16" who="ty">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e205">
+            <pb facs="0012_001356_000224_0001.jpg" n="1" xml:id="d2e207"/>
+            <opener>
+               <dateline>Sunday afternoon 1856 April 30<lb/>
+                  East Tenn<lb/>
+                  MacDoanalds Station</dateline>
+            </opener>
+            
+            <p>I Just come into camp I have been harde at worke all Day Loadeing up railroadeties and the sun was hot</p>
+            <p>my dear wife I Recieved your kind and wellcome Letter on the 26 day of april and i was glad to here from you that you was all well at that time well my dear Lisey your letter did not finde me very well I had the diarrae for a week and a bad cold with it to I have a bad cough on me now I have cough for two weekes very bad but I to the helpe of the Blessed Lorde in a few days or a weeke I shall feel better my wife you when I was at home I used to have a pain in my left side very often but it is been a good deal worse latley I got such a cold I never had before some nights last weeke when I went to bed insted of going to sleepe</p>
+            
+            <pb facs="0012_001356_000224_0002.jpg" n="2" xml:id="d2e225"/>
+            <note place="top"><p>from your affectionit and loving Husband William Smith plese to send word indeed I have no inke write if</p></note><!-- The preceding paragraph is actually the closer to the letter. -->
+            <p>I have to sit uprigh and some times three or four ours before I wonder can get one wink of sleep so my dear Lesey you must thinke its bad now for me such aflitring at ny what so it keepes me from going to sleepe my dear Lesey it is had worke that dose it I hope I hope I will feel better in a few dayes now if I was at home Docter thayer would give me something for it my dear wife I left <name type="place">Nashville</name> on the 11 day of march I have worked every day since I left theare and every sunday but two and some nights as well as dayes some nights we are in the rain all the night and the next day to and not take off our wet cloths at all my dear Lisey many a night when you are in bed and a sleepe I have been workin on the bridges all the night longe so my Lisey some</p>
+            
+            <pb facs="0012_001356_000224_0003.jpg" n="3" xml:id="d2e239"/>
+            <p>times you will thinke of me But I hope we are got through building now I hope so my dar wife I was in <name type="place">Chattanooga</name> that day I receved your kind letter and was glad to heare that you was all well at that time my dear wife with my kind love to you and a kiss from me with my kind love to austin and my dear little Henry kiss him him for me three times tell austin please to give my kind respects to george how when you see him he was the only friend I had when I come south he lent me five dollars when no other man in Binghamton would not lend one cent Bless the Lord for my Ealth and strength my dear wife I wont have to thank morgain and pratt for what they sent me when I come home again if I live please to give my kind respects to all inquiring friends give my to mr and mrs culey when you see them and also dainel and</p>
+            
+            <pb facs="0012_001356_000224_0004.jpg" n="4" xml:id="d2e247"/>
+            <p>my dear wife we went as far as Blew Spring and theen our gan men whare order to Chattanooga on the 16 day of april to go to a in gearge but we are not had orders to to go yet and I hope we shall not go there now it would be so hot there my dear wife please do send word when you wrie to me again if you got a alone now at these times and seather austen henry work now dear wife I hope you are keeping for something to eate in the house dear wife since the death of <choice><orig><name type="person">abram lincoln</name></orig><corr resp="nl"><name>Abraham Lincoln</name></corr></choice> theare as been thousands of men discharged from the government and my dear wife we expect all to be discharged the firt of June I hope I shall be home and see you all again if I live and have Ealth you asked me in your last letter what my wages was per month the first month I 42 and half dayse the 2 month 39 days and half at 300 dollars day two monthse our 200 dollars my dear Lisey I cannot say much more now our camp is now at mac mac doanalds station 25 miles from Chattanooga my love to you all at time my dear Lisey write to me as you can</p>
+         </div>
+      </body>
+   </text>
+</TEI>

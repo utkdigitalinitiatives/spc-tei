@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000220_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France to Ellen Smith, in Jackson, Tenn., <date when="1918-07-01">1918 July 1</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Giles, Sheldon</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000220_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith, in Jackson, Tenn., 1918 July 1</title>
+          <date when="1918-07-01">1918 July 1</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="Collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Giles, Sheldon">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000220_0001.jpg" xml:id="d4e39"/>
+        <p>Dodds</p>
+        <p>23 Enger</p>
+        <p>Ex Fr</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tennessee</p>
+        <p>U. S. A.</p>
+        <pb n="2" facs="0012_001303_000220_0002.jpg" xml:id="d4e55"/>
+        <p>July 1 1918</p>
+        <p>Some where in France</p>
+        <p>Dear Ellen:</p>
+        <p>At last I got a letter from you and I cant tell you how glad I was I feel a lots better and I read it. I know is is not your fault
+as I have said before I know the reason for not getting any mail in so long a time. But cant tell you I think  everything will be alright
+for a while any way. I dont see why you dont get my letters for I write you every week that comes. I dont do that well to any body else except mother
+I always find time to writ you both once a week when I have had my supper and am feeling fine</p>
+        <p>except I am real tired for I have been driving a big truck all day Mad 74 miles to day hauling big racks to build a road some of
+the roads are</p>
+        <pb n="3" facs="0012_001303_000220_0003.jpg" xml:id="d4e67"/>
+        <p>rough so you know what it is to drive a light car over rough roads and this thing I am driving is awful heavy
+But if that helps to win the war I dont mind it a bit. Yesterday was Sunday so I went to town to look the place over. I drove the truck in with a 
+bunch  of the men. We can go to town every sunday if we want to but I hardly ever go but yesterday was My day to drive so I had to go.
+We take a time about as we have several trucks We are in a little town but the place here is a pretty good size place.
+I saw some real nice looking girls there about the best looking I have seen in France.</p>
+        <p>Good looking girls are scarce in France or at least I think so Well I hope you had a good time in Memphis I know I could if I was there
+I could have a good time</p>
+        <pb n="4" facs="0012_001303_000220_0004.jpg" xml:id="d4e73"/>
+        <p>in Oakfield if I was on there. I thin it is rreal nice for Lynn to be so close to home that preache can go and see him.
+Does he think he will come across on the side or stay there? Well would be real nice to come across but I have been here as long as I want to stay.
+The time passes pretty fast though  we will soon be over there Months dont seem that long. 
+But we have something to think about over here (our work)  and we didnt in the states. I sure hope Uncle Robert dont get in trouble over 
+running in the <gap reason="indecipherable" resp="Giles"/> engine</p>
+        <p>I have got to write mother as I didnt get to write her yes-terday. And we are going to have a picture show as the 
+Y M C A to night  Will close write me real soon and dont for get me</p>
+        <p>With lots of love</p>
+        <p>I also got a letter from aunt Annie today will set some</p>
+        <p>James L  Dodds</p>
+        <p>Co L 23 Enger</p>
+        <p>American Ex fr</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000325_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Richard Willing</name>
+				                   in Philadelphia, Pa. to Joseph Tagart, John Inskeep, and Alexander Henry., <date when="1805-01-08">1805 Jan 8</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Richard Willing</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000325_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Richard Willing in Philadelphia, Pa. to Joseph Tagart, John Inskeep, and Alexander Henry., 1805 Jan 8</title>
+               <date when="1805-01-08">1805 Jan 8</date>
+               <author>
+                  <name type="person">Richard Willing</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">.MS.2414</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000325_0001.jpg" xml:id="d4e39"/>
+            <p>             Jos: Tagert</p>
+            <p>Messrs.  John Inskeep } Committee</p>
+            <p>             Alex Henry</p>
+            <p>Jany  8th. 1805</p>
+            <p>Richd Willing</p>
+            <p>R. Willing</p>
+            <p>8 Jany. 1805</p>
+            <pb n="2" facs="0012_002414_000325_0002.jpg" xml:id="d4e55"/>
+            <p>Philada. Jany 8th. 1805</p>
+            <p>Gentlemen,</p>
+            <p>In lieu of the Philada. Ins: Stock I have deposited in your office, Simon &amp;Hyman Grates&apos;s obligation, (indorsed by Saml. Hays,
+				       myself and Willing&apos;s &amp;Francis,) for the delivery of 20,000$ on the 1st of April next, and for which I request the release of Said
+				       Stock. _</p>
+            <p>I am Gentlemen</p>
+            <p>respectfully</p>
+            <p>your obedt. Servt.</p>
+            <p>RWilling</p>
+            <p>            Jos: Tagart</p>
+            <p>Messrs  John Inskeep  } Com:</p>
+            <p>                    &amp;</p>
+            <p>            Alex: Henry</p>
+         </div>
+      </body>
+   </text>
+</TEI>

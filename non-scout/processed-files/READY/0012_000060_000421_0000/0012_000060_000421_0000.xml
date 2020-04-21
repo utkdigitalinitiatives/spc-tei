@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000421_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Printed circular,
+					<name>J.G.M. Ramsey</name>
+				                   in Knoxville, Tenn., to Henry Ramsey Lenoir in Lenoirs, Tenn. 1874 June 16<date when="1874-06-16">1874 June 16</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Williams, Nancy</name>
+        </respStmt>
+        <author>
+          <name type="person">J.G.M. Ramsey</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000421_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Printed circular, J.G.M. Ramsey in Knoxville, Tenn., to Henry Ramsey Lenoir in Lenoirs, Tenn. 1874 June 161874 June 16</title>
+          <date when="1874-06-16">1874 June 16</date>
+          <author>
+            <name type="person">J.G.M. Ramsey</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Williams, Nancy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000060_000421_0001.jpg" xml:id="d4e39"/>
+        <p>June 16, 1874</p>
+        <p>Circular</p>
+        <p>TO THE PEOPLE OF TENNESSEE</p>
+        <p>At the last meeting of the Historical Society of the State, the undersigned were appointed a Committee to prepare and issue a Circular Address to the people of Tennessee, in behalf of the general objects of this Association. We enter upon the discharge of this duty, impressed with filial veneration and regard for the land of our nativity. From its first discovery, exploration and settlement, it has presented in its history examples of adventure, enterprise, heroism, devotion to liberty and self-government, to order and law, which extort the admiration, the esteem, the veneration and gratitude of posterity. From the dawn of civilization and government in what is now Tennessee, the least attentive student of her progress, growth and maturity, will discover that the pioneers and frontiersmen of our proud State, were a remarkable race of men - peculiarly qualified for the high and novel duties of founding in the wilderness a new political community, and of governing it well - a race of men whose civic, not less their martial achievements, are worthy of commemoration = a race of men whose services and sacrifices for the country have only been equalled by their public and private virtues. These virtues, these services, these achievements, it is the province of history to collect, preserve and perpetuate Laboring in this wide and interesting field of historical research, the Society which we represent has already made some considerable progress; but it is desirous of exciting a still higher interest, and of securing a more general co=operation on the part of our members and friends in every portion of the State, in the laudable design and objects of the Historical Society of Tennessee. </p>
+        <p>In further execution of its duties, this Committee invites the attention of our people to a more specific enumeration of the objects of the State Historical Society, as indicated in its former circulars and reports, as well as from those of similar associations elsewhere. We, therefore, appeal earnestly to our fellow-citizens of our own State, and literary friends everywhere, for contributions to the library and collections of the Society, of -</p>
+        <p>1. All books, pamphlets and manuscripts on the subjects of the discover, exploration and settlement of Tennessee and her co-terminous States; manuscript statements and narratives of our pioneer settlers; old letters and journals referring to the early history and settlement of every part of our State; biographical notes of our pioneers, and of eminent citizens, deceased; facts illustrative of our Indian tribes, their history, characteristics, sketches of their prominent chiefs, orators and warriors, with contributions of Indian implements, dress, ornaments and curiosities. </p>
+        <p>2. Articles and proceedings of the Watauga Association, the Cumberland Association, the Association of the People south of French Broad and Holston, and west of Big Pigeon Rivers; and the conventional and legislative and judicial proceedings of the State of Franklin. Copies of these, or parts of them, may, we hope, still be found among the private files of some of the leaders of the day, stowed away in some antiquated scrutoire, some old-time chest, in some humble cabin, closet or garret, of a frontier man. He regarded these relics of another age as household gods, sacred to virtue, to law, to patriotism. We charge our young men in all our older counties, and the curious students of our early history everywhere, to search for these manuscript records of their ancestors as for a golden treasure. Unseen and hidden for nearly a hundred years, some of them may yet be discovered and preserved for history and for a grateful posterity.</p>
+        <p>3. Files of newspapers, books, pamphlets, college catalogues, minutes of ecclesiastical conventions, and other publications relating to the internal improvements, the educational interests and the public welfare of Tennessee. These, whether bound or unbound, will be considered valuable and important contributions to the library of the Society. Indeed, books of all kinds, and especially such as relate to Western history, travels and biography, in general and Tennessee in particular, family genealogies, old magazines, pamphlets, historical manuscripts, autographs of distinguished persons, coins, medals, paintings, statuary and engravings are respectfully solicited. </p>
+        <p>4. Beside these, we desire to procure, through our members, our correspondents and other friends, the exact locality of the several war-paths of the aboriginal inhabitants of Tennessee, the sites of their towns, villages and battle-grounds, and where practicable, the boundaries of the different tribes, and of their respective hunting-grounds, the Indian names of the mountains and streams and rivers of the State, with significance of each, and the history, traditions, religion, usages and laws of the different tribes. In this same connection, we may here mention that the paths and traces of the early hunters, trappers, herdsmen and traders, who first visited the country, and the channels and roads through which the first immigrants subsequently moved to and occupied and settled our new country, the names of these pioneers, the difficulties they encountered, the stations and forts they erected, the track of the invasion and conquest of the Indians, and the permanent occupancy by whites of the several sections of the State, the commissioners who formed treaties of boundaries, commerce and peace, and the treaties themselves - these will all be interesting contributions to our archives and collections. To these may be added drawings and descriptions of our ancient mounds, fortifications, council houses and cemeteries, their size and exact locality. </p>
+        <p>5. From historical societies, and other learned associations elsewhere, we solicit a reciprocal exchange of books and other articles of which they may have duplicates, pledging our selves to repay, to the extent of our ability, such acts of courtesy and fraternal feeling, in kind if not in degree. From older societies, especially, we hope to receive a copy of their transactions. From authors and publishers we ask the compliment of a contribution to their publications, especially when relating to history and its kindred sciences. These will be carefully preserved for binding.</p>
+        <p>We respectfully request that all to whom this circular is addressed will feel disposed to give our appeal a generous and prompt response. May we hope soon to see our Cabinet of Historical Collections enriched by the gifts of our friends, of articles which while in the hands of private and individual owners, may be lost by accident, or remain forever unknown to science or art?</p>
+        <pb n="2" facs="0012_000060_000421_0002.jpg" xml:id="d4e64"/>
+        <p>In conclusion the Committee hopes not to be considered as presumptuous, when it adds a suggestion or two to our countrymen in behalf of this great work, to which their attention has been invited.</p>
+        <p>1. The area of Tennessee is so large, the field of our labor in the historic researches we have undertaken is so extensive, that no isolated effort of a single association, can cover the whole ground or successfully cultivate the surface over which our investigations must necessarily extend.  We therefore respectfully suggest, the formation, in each county, of a County Lyceum, or auxiliary society, whose general objects shall be the same as those of our Historical Society.  Such an association in our ninety-three counties, all actuated by the same spirit, and animated by the same high impulses, and stimulated by the same noble incentives to prompt action, would soon combine a strength and an efficiency, a potentiality and a success, which no central instrumentality can itself accomplish.</p>
+        <p>2. History--the history of any country, is little more than a truthful and impartial biography of its prominent citizens--a recital of the virtues and achievements of its founders, the enterprise and adventure of its pioneers, the valor and patriotism of its soldiery, the martial spirit and heroism of its commanders, the enlarged and liberal and enlightened views of its statesmen, the unselfish public spirit of its sages, and the public and private virtue of its people.  Such is biography.  What an interesting field is there presented in Tennesee for the biographer and historian in the past of our proud State!  We point to the manly self-reliance, and the daring courage of the Tennesee pioneer, as a theme for biography, etc., etc.</p>
+        <p>The Pulpit, the Forum, the College, the Bar, the Bench, the Clinique, the Press, each furnishes to the biographer a theme of unsurpassing interest.  Some grateful countryman has, indeed, in some of these several departments of biographical literature, occasionally illustrated the character of a deceased cotemporary; but comparatively how few of our great men, and of our public benefactors, have received this tribute of affection and respect!  How many of our worthies still repose in neglected graves, unknown and almost forgotten!  We hear every day of the hidden mineral wealth of Tennessee, and of her undeveloped resources, and appeals are made to our cupidity to utilize and improve them.  This is laudable and proper; but shall the mad passion for money and for the material improvement only, of the country, repress the nobler duty of developing the richer treasures of Tennessee history and Tennessee biography--a wealth of fame and character and distinction--now obscured from the view of posterity, whose apathy or indolence allows it to remain in hopeless oblivion and neglect--gems of the past in our State, which should sparkle and illuminate the pages of biography, and illustrate the virtues of our Ancestors.  Let these mines remain no longer undeveloped, and then Tennessee, like the mother of the Gracchi, when asked for her jewels, may point to her sons.</p>
+        <p>And in this labor of love, let there be no delay.  Whatever belongs or relates to the rapidly receding past of Tennessee, must be collected, preserved and prepared at once for history and biography.  Bis dat qui cilo dat.  He gives twice who gives promptly.  One by one our older citizens are leaving this state of action--one by one some of them every year are leaving their native State, and emigrating further and further into the great Western Interior, and carrying with them abroad the valuable and rich recollections of the settlements and history of their native homes.  May we not hope from the aged citizens, and especially from the students and teachers of all our institutions of learning, that a new impulse shall now be given to the duty of cultivating these fields of research?  And we especially appeal to the enlightened and liberal Press of Tennessee to assist us with its inappreciable strength and effectiveness.  The Press has already become not only a power in the land, but the great leading power in all its efficiency in achieving whatever is good, excellent and desirable in this behalf.  Its potentiality is admitted.  We are powerless without its assistance, and do not hesitate to invoke its genius, its spirit and its influence to come at once to our rescue, and to the support of our efforts.  Tennesseans! we invoke your filial piety.  We appeal to your State preferences, and to your Ancestral pride.</p>
+        <p>J. G. M. RAMSEY, M. D.,</p>
+        <p>R. C. FOSTER, 4th, M. D.</p>
+        <p>JOHN M. LEA,</p>
+        <p>Committee.</p>
+        <p>KNOXVILLE, June 16, 1874.</p>
+        <p>Donations to the Society may be sent to either of the following gentlemen.  If sent to the Recording Secretary, at Nashville, express charges will be paid by him.  All donations will be deposited in the Capitol, where the Society holds its regular meetings:</p>
+        <p>DR. J. G. M. RAMSEY, PRESIDENT, Knoxville</p>
+        <p>ANSON NELSON, RECORDING SECRETARY, Nashville.</p>
+        <p>ALBERT T. McNEAL, Esq., Bolivar.</p>
+        <p>HON. W. H. STEPHENS, Memphis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

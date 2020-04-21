@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000466_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-07-09">1880 July 9</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000466_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 July 9</title>
+               <date>1880-07-09</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 p.</extent>
+               <note type="abstract">1880 July 9 Lyman C. Draper, Corresponding Secretary, Wisconsin State Historica Society, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Makes several inquiries concerning people mentioned in his history. Mentions good commendations made upon his book. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>Generals -- United States --  Biography.</term>
+               <term>South Carolina -- History -- Revolution, 1775-1783.</term>
+               <term>Southern States -- History -- Revolution, 1775-1783 -- Campaigns.</term>
+               <term>Shelby, Isaac, 1750-1826.</term>
+               <term>Sevier, John, 1745-1815.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000466_0001.jpg" xml:id="d3e152"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000466_0002.jpg" xml:id="d3e164"/>
+            <p>Madison, July 9th 1880.</p>
+            <p>My Dear Dr. Ramsey --</p>
+            <p>I am making fair progress. Have got the assembling gather men on Watauga, Sept. 25th. 80. I have been looking for a letter you wrote me a few weeks ago abt. Parson Doak, I think, preaching a discourse to the men in camp -- &amp; for the life of me I can&apos;t lay my hand on it. If I fail, I must put it in afterwards -- so please repeat it as you sent it to me.</p>
+            <p>I wish I knew more of the route of the King&apos;s mtn. men -- it is <unclear reason="illegible" resp="JR">nually,</unclear> when had I thought of it, when I saw <unclear reason="illegible" resp="JR">Jan</unclear> Sevier in 1844, <unclear reason="illegible" resp="JR">Jc.</unclear> have the whole. If you know any thing besides what is</p>
+            <pb n="3" facs="0012_000060_000466_0003.jpg" xml:id="d3e187"/>
+            <p>in print, please let your light shine in this dark place.</p>
+            <p>Of Shelby&apos;s Officers, I am nearly ignorant -- beyond his brothers. Can you tell? Maj. <unclear reason="illegible" resp="JR">Jene</unclear> Walton was along -- I suppose of Sevier&apos;s men, though <unclear reason="illegible" resp="JR">Josnes</unclear> Sevier did not mention him. Have you any knowledge? His remaining from East Tennessee. Early after the war, probably had caused his name to be forgotten in connection with all things <unclear reason="illegible" resp="JR">mtn.</unclear>
+            </p>
+            <p>I have given a very full notice of Ferguson -- &amp; something of Maj. Dunlap (who however, was not with Ferguson at Kings Mtn.) I shall give brief notices of <unclear reason="illegible" resp="JR">De Peyster</unclear> &amp; some others of Ferguson&apos;s officers -- but of the <unclear reason="illegible" resp="JR">Jony</unclear> leaders, save a little of Col. Mills, I am ignorant.</p>
+            <p>We historians have to &quot;go it blind&quot; oftener than we wish.</p>
+            <p>God bless you!</p>
+            <p>Lyman C. Draper</p>
+            <p>I hope my publisher, Mr. Thomson has made an arrangement with Mr. Paulette; <unclear reason="illegible" resp="JR"> Mr.</unclear> Charlotte <unclear reason="illegible" resp="JR">com. vs, </unclear>under Mr. Van Dykes lead gave my work a good commendation -- &amp; so has your Society.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

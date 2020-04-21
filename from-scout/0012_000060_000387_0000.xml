@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000387_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Salisbury, N.C., to Cornick and Crozier <date when="1870-10-31">1870 October 31</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000387_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Salisbury, N.C., to Cornick and Crozier. 1870 Oct. 31</title>
+               <date>1870-10-31</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">Oct. 31 J.G.M. Ramsey, Salisbury, N.C., to Messrs. Cornick and Crozier, Knoxville, Tenn. Discussion of a newly discovered debt owed by Dr. Ramsey and outlines arrangements for paying it. Mentions Breakbill&apos;s promise to buy his land. Requests that they attend at once to his debt and to other business matters.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey family</term>
+               <term>Tennessee, East -- History -- Personal narratives.</term>
+               <term>Ramsey, J.G.M. (James Gettys McReady), 1797-1884 -- Correspondence.</term>
+               <term>Reconstruction (U.S. history, 1865-1877) -- Southern States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e145">
+            <pb n="1" facs="0012_000060_000387_0001.jpg" xml:id="d3e146"/>
+            <p>
+               <unclear reason="illegible" resp="NW">Exihs</unclear> Retreat Oct. 31, 1870.</p>
+            <p>
+               <unclear reason="illegible" resp="NW">Meprs</unclear> Cornick &amp; Crozier</p>
+            <p>In reply to M. Cornicks of Oct. 16 I wrote very promptly to you jointly stating that I knew nothing &amp; had never heard before of the confiscation case in which a bill of costs for nearly $200.00 had been sued out against me &amp; a levy made upon my house &amp; lot But that I requested you both to look into &amp; scrutinise these costs &amp; suggested that if found corect the bill be immediatel paid taking for my protection the necessary reciepts for the same as vouchers against a repayment of them before the next term. I also mentioned that there was a remainder of a claim against Mr. Breakbill of <unclear reason="illegible" resp="NW">proba</unclear> My $800.00 due &amp; unpaid since May 4, 1869 out of which I asked W. J. <unclear reason="illegible" resp="NW">M.</unclear> Crozier who holds my claim to collect <unclear reason="illegible" resp="NW">instanter</unclear> at least the amount of this Bill of costs &amp; apply it to the discharge of the costs. I failed tho in that letter to urge upon you both to have the money <unclear reason="illegible" resp="NW">cutainly</unclear> on hand before the day of sale &amp; thus <unclear reason="illegible" resp="NW">saeve</unclear> the property &amp; the accumulation of another cent of costs &amp; that if the claim I hold on Mr. Breakbill should not be met promptly there were in vault of Peoples Bank</p>
+            <pb n="2" facs="0012_000060_000387_0002.jpg" xml:id="d3e177"/>
+            <p>certain securities which might be temporarily hypothecated to meet the present exigency at least till Breakbill would sell his hogs &amp; meet his liability to me. I onmitted also to say to Mr. Crozier that Mr. Breakbill would be the more prompt to meet his note for the reason that till it is paid in full he has no obligation on me to dismiss the suit I have against him for the land for which the note was given by him I write now for the purpose of reminding both of you of the necessity of promptness The day of sale Nov. 15 will soon be here &amp; provision ought to be made to get the money the day after this is rec&apos;d &amp; pay the Bill of costs the same day I get the thing off our min you cannot believe how these things annoy me. I confide them to your utmost vigilance &amp; attention - Then as to the comprmise heretofore a matter of corespondence. W. A. R. Crozier has given me W Cornicks figures $5,000 he rply to him of this date I say that although that is a large she is out of a small <unclear reason="illegible" resp="NW">loaf</unclear> I am willing to have it <unclear reason="illegible" resp="NW">entirrey</unclear> &amp; that of W. Cornick &amp; Col. J. W.C. I repeat this to you both only with this request to <unclear reason="illegible" resp="NW">protud</unclear> at once with this adjustment &amp; comprimise before A. <unclear reason="illegible" resp="NW">R.</unclear>C. leaves for New Orleans as he contemplates Thank W. Walley for inclosing to me as he did the advertisement of the sale. Such vigilance I admire &amp; appreciate very highly in a stranger. </p>
+            <p>When necessary please write &amp; keep me posted on all matters,</p>
+            <p>Yours Truly</p>
+            <p>J.G.M. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000217_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>John Sevier</name>
+				                    to George Washington Sevier, <date when="1815-01-22">1815 January 22</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">John Sevier</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000217_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Sevier to George Washington Sevier, 1815 January 22</title>
+          <date when="1815-01-22">1815 January 22</date>
+          <author>
+            <name type="person">John Sevier</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">John Sevier Collection </note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000543_000217_0001.jpg" xml:id="d4e39"/>
+        <p>John Sevier  </p>
+        <p>Colonel George Washington Sevier</p>
+        <p>Knoxville</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_000543_000217_0002.jpg" xml:id="d4e49"/>
+        <p>Washington 22 January 1815</p>
+        <p>Dear Sir</p>
+        <p>Your favor of the 8th instant has just come to Hand and am rejoiced to hear from you all, but am sorry 
+				  to find that the Ulcer in your neck seems to continue so obstinate, You will have to be very careful  how
+				  it is managed, and to be in time with it, no time ought to be lost. I am very glad to hear that Major M.Clellan
+				  have arrived, and hope his disorder will leave him now he has got home__ The Major is promoted to the
+				  16 Regiment of Infantry commanded by Col. Pearce, and Now on the lines, was raised in Pensylvania.</p>
+        <p>We have <unclear reason="illegible" resp="PW">pafsed</unclear>The bank bill, but it remains yet to be
+				  afronted to by The President. It is not believed it will be usefull to the Government, it has been modeled
+				  <unclear reason="illegible" resp="PW">intirely</unclear>by the Minority. additional Tax's is pro-
+				   posed by the Secretary of Treasury, probably to make up for the defiency in the bank, which wont 
+				  <unclear reason="illegible" resp="PW">affoarcs</unclear>any <unclear reason="illegible" resp="PW">Telie</unclear>
+				  to the fiscal measures of Government. I need not give you any news from Orleans as you will hear from that 
+				  place before we can.</p>
+        <p>It is thought that there either have or will be, a number of black troops introduced into the Southern States.
+				  I fear we shall be much embarrassed <unclear reason="illegible" resp="PW">Tasfsecting</unclear> money
+				  to Supply the Army, and dont know in which way it can be guaranteed now</p>
+        <pb n="3" facs="0012_000543_000217_0003.jpg" xml:id="d4e76"/>
+        <p>Now the bank have so much failed, us before had calculated very much upon that institution, but the 
+				  hope is blasted___ This supposed We must have Recourse to Treasury notes, and it is to be feared that so
+				  much paper will soon become Much depreciated __ I wish you to write Col. Sparks &amp; Rutha to bring off 
+				  their Negroes &amp; property as Quick as possible, and while they can pass in safety through the Indian
+				  Country. I shall be very uneasy about them till they arrive and shall fear much on their account.</p>
+        <p>I have observed what you say respecting my suit at Moabile, and shall Sense on by this mail a power to 
+				  William making him my attorney in fact. Shall also write General Gains to have an eye to the business, and 
+				  wish you also to do the same___ I dont apprehend there is any danger of your Regiment being transferred,
+				  as to the Col. that wants to be at the head of it, I cant believe any thing like that of a Gentleman___</p>
+        <p>The Secretary of War has been dangerously ill, and yet very much indisposed, so that no business can
+				  be transacted in that department, I shall use all possible means to do something to settle that business with
+				  Kings executon__ I wish M. Rhea could make some sales__ He wrote me some time ago he had made some,
+				  to the amount of four or five hundred dollars, and expected to make more__ If you dont come on until 
+				  First of april, I suppose I shall not have an opportunity of getting My mail __ I am still enjoying good health,
+				  but clearly surround ed with sickness __ Y. affectionate father</p>
+        <p>My affectionate<unclear reason="illegible" resp="PW">illegible</unclear> to all our Friends</p>
+        <p>Col. Sevier     John Sevier</p>
+        <pb n="4" facs="0012_000543_000217_0004.jpg" xml:id="d4e91"/>
+        <p>PS. Major A Sevier have set out for Charleston So. Carolina, and from there to N.Orleans &amp;take
+				  command of the Marines 23. This morning the snow in some <gap reason="indecipherable" resp="White"/>deep,
+				  and in common <gap reason="indecipherable" resp="White"/>half. we have not as much wood for 10 or 12 fire
+				  places as would make one fire for my room at home, nor do the House Keeper know where to get one single
+				  cord. for my own pail I expect perhaps Secured some coal from The Russian Minister, otherways by night
+				  we shall have no fire.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

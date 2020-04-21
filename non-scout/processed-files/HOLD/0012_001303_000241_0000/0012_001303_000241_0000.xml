@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000241_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn.,<date when="1919-02-24">1919 Feb. 24</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000241_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1919 Feb. 24</title>
+          <date when="1919-02-24">1919 Feb. 24</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000241_0001.jpg" xml:id="d4e39"/>
+        <p>J.L.Dodds</p>
+        <p>Co #8-23rd Engrs</p>
+        <p>A.E.F.</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000241_0002.jpg" xml:id="d4e57"/>
+        <p><unclear reason="illegible" resp="PW">Sauilly</unclear>France</p>
+        <p>Feb 24, 1919</p>
+        <p>Dear Ellen:</p>
+        <p>I have received two letters from you in the last week and was awful glad to hear from you once more. Had about decided you had forgotten me.</p>
+        <p>I have been most sick with cold for a week  But feel better now am glad to say  I hope you are fine and dandy</p>
+        <p>I am sure I would feel good if I could get out of this country where it doesnt rain so murch.</p>
+        <p>Well I had a visitor the other day and who do you thank it was Linn. I was working and when I came in for dinner</p>
+        <pb n="3" facs="0012_001303_000241_0003.jpg" xml:id="d4e75"/>
+        <p>he was waiting for me I sure was glad to see the old boy. I dont believe I would have known him if had met he out on the road he is so fat doesnt look like Linn of old times.</p>
+        <p>I will bet you will say the same thing when you see him. He said he had ask everybody that he thought would know where I was and no one seemed to know.</p>
+        <p>I had done the same thing about him. He just happened to ask one of the boys in my Company and they brought him up to my barricks.</p>
+        <p>He is in a small town about 6 miles from here</p>
+        <pb n="4" facs="0012_001303_000241_0004.jpg" xml:id="d4e85"/>
+        <p>I thank he is going to try and get back to this town where I am so we can be together  Part of his Company is here now and he can come back if he wants to.</p>
+        <p>I sure wish he would, you cant amagine how good it makes a fellow feel to see some one he knew back home.</p>
+        <p>I bet Ernest Barnes was glad to get back to the little city once more. But he wont have to bet any for I sure wont to get back</p>
+        <p>I dont have any idea when will be but I hope wont be long. I guess maybe I will be ther by July 4, </p>
+        <p>We had a boxing bout here</p>
+        <pb n="5" facs="0012_001303_000241_0005.jpg" xml:id="d4e97"/>
+        <p>last saturday night. Was 23 Engir against the 79 Div the 23 won to of the bouts and the 79 won one.</p>
+        <p>One of the boys that fought belongs to my Company and he is pretty good.</p>
+        <p>We are going to have a negro minstral show to night  Some time we are having. But I had rather be home.</p>
+        <p>I would have liked to have been there so we could have gone to <unclear reason="illegible" resp="PW">Mul</unclear>OBriens Minstral</p>
+        <p>Have the Elk put on there show this winter? and was it any good?</p>
+        <p>I thank some one wrote me that they were going to have a show or had already</p>
+        <pb n="6" facs="0012_001303_000241_0006.jpg" xml:id="d4e114"/>
+        <p>had it I dont remember which. Well I dont know any more news so will quit for this time.</p>
+        <p>Write me real often for I always enjoy your letters</p>
+        <p>With lots of love</p>
+        <p>James L Dodds</p>
+        <p>Truck Co #8-23 Engir</p>
+        <p>American Exp. Force</p>
+        <p>Via N Y,  France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

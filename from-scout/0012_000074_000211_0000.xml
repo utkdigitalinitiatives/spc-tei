@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000211_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio,
+<date when="1863-11-08">
+1863 November 8
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000211_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to Sarah Probert in Pittsfield, Ohio, 1863 November 8</title>
+               <date>1863-11-08</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>5  digital images;  1 envelope, 4 pages</extent>
+               <note type="abstract">In this letter, dated November 8, 1863, from John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins writes about the current prices for coffee, sugar, tea and other food products in Knoxville. He points out that one can trade coffee for almost any product. He also notes that the 19th Ohio Battery has buried its first soldier, who died of dysentery.</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Farmers -- Economic conditions -- 19th century. </term>
+               <term>Mass burials -- Tennessee -- Knoxville -- History -- 19th century. </term>
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Watkins, John, b. 1839 -- Anecdotes.</term>
+               <term>United States. Army. Ohio Independent Light Artillery Battery, 19th (1862-1865). </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000074_000211_0001.jpg" xml:id="d3e157"/>
+            <p>Nov 8th 1863</p>
+            <p>Mr. George. W. Probert</p>
+            <p>Pittsfield Swain Co</p>
+            <p>Ohio</p>
+            <pb n="2" facs="0012_000074_000211_0002.jpg" xml:id="d3e171"/>
+            <p>Knoxville Tennessee Nov 8th /63</p>
+            <p>My dear Sarah</p>
+            <p>To pass away the time more pleasently than I could otherwise I thought I would try and write to you a few lines to day Sarah. and this day of all others darling that I used to welcome when at home. and how often I think nowadays of the sundays that you and I have passed pleasently away and oh I think sometimes that I would give everything for the privilige of spending a few more in your company before long. but the prospect is not very flattering from my place of observation to me. but that will not prohibit us from thinking of those happy days and if success will only crown our efforts in a few more strifes with the rebels, it is my opinion that they will begin think of a better way of doing business with Old Abe. and then the soldiers will all be allowed to go home to there friends and there dear ones. I once in a while get pretty near discouraged the way things go on down here and think that we will have to stay till our time is up and then again when I look the whole thing over I cant help but think that they have done about all they can and must loose both territory and men every day now</p>
+            <pb n="3" facs="0012_000074_000211_0003.jpg" xml:id="d3e183"/>
+            <p>till they quit for they have undoubtedly got very near the last man that they can get into the field. there money is of no account only at home, and there own resources are not sufficient to clothe and feed there army and inhabitants. and if our force can hold this state the whole of it, I dont see what they are going to do. for this is a great grain producing state, and has been called the grainery of the Confederacy. but I suppose farther south what used to be cotton and tobacco and in a good many cases sugar plantations have been turned to raising grain and perhaps in the same proportion that they have had to give up territory. the people around here have been denied the luxuries of life and in many cases even the necessaries of life. they have had neither coffee sugar and but little tea since the war broke out till we came here. the soldiers trade them a good deal of coffee for potatoes and apples. coffee is worth about $1 1/2 a pound now, sugar 65 cts tea (at the sutlers $3 I dont know wheather it can be had anywhere else or not), you go to a man&apos;s house and ask him if he has got any potatoes to sell (or bacon) and he will tell you no. then ask him if he has got any to trade for coffee and he he will say yes right away if it is the last bushel he has got. a person</p>
+            <pb n="4" facs="0012_000074_000211_0004.jpg" xml:id="d3e191"/>
+            <p>can get anything they have got with a little coffee. they have been so long without it that it is a great luxury with them. they ask about $1 1/2 for irish potatoes and about 2 1/2 for sweet. 40 cts for bacon. sorghum is about the cheapest stuff they have to dispose of. the ask about $1 a gallon for that. there is a good deal of it raised here to. salt here is worth almost its heaft in money. in the market they ask 15 cts a pound for fresh pork. and the farmers ask that for what they call salt pork. that has been in the salt a week. I have not heard lately what they do pretend to ask for butter.</p>
+            <p>the weather is quite changeble lately. to day it is uncomfortable out of doors unless a person is walking around or at work. and yesterday it was very near the other way. it is a cloudy and quite a windy day. the wind blowing out of the north west cold and windy. at present there seems to be a good many dying off in the hospitals in town. last wednesday we burried one of our number. he had been in the hospital about two weeks, was sick about one week in camp. he was about 19, and always had been a tough and healthy fellow while in the Battery. had been sick but very little. he was taken with the dysentery. he is the first one that we</p>
+            <pb n="5" facs="0012_000074_000211_0005.jpg" xml:id="d3e201"/>
+            <p>that the Battery has been called on for such a purpose and I hope it will be the last. the ground that he was burried in is out outside of the burying ground on quite a pretty knoll full of stumps. they are burried in a circle with the head out, and when one is full they start another on the outside and go clear around. the day we burried him there was 7 more burried. oh darling I resolved that day to be more careful of myself than ever. for I never want to be laid away in a strangers grave and especially in this country where there is no chance for a person to be got home. this boys father is in the Potomac army. his mother lives in Cleveland. we have two more men in the hospital but they will get well one of them had poisoned feet, the other the rheumatism. well at last Sarah one of our men has got a furlough for 30 days. he has got a sick wife at home, and yesterday one of our boys got a letter from home that brought him bad news. his father is dead and his mother is not expected to live. he is to have a furlough to. but darling if I cant get a furlough untill such news as that gets one I never want one. but I must stop. write when convenient. and direct as usual.</p>
+            <p>I remain yours as true as ever.</p>
+            <p>John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

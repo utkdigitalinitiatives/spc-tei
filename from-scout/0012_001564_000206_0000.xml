@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001564_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Robert A. Ragan</name> in Camp near Lick Creek Bridge to Emeline Ragan, 
+               <date when="1863-11-12">1863 November 12</date>
+            </title>
+            <author>
+               <name>Ragan, Robert A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_001564_000206_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Robert A. Ragan</name> in Camp near Lick Creek Bridge to Emeline Ragan, 
+                  <date when="1863-11-12">1863 November 12</date>
+               </title>
+               <author>
+                  <name>Ragan, Robert A.</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Robert A. Ragan Letters</note>
+               <note type="manuscript">MS.0743</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Religious aspects.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e165">
+            <pb facs="0012_001564_000206_0001.jpg" n="1" xml:id="d2e167"/>
+            
+            <opener>
+               <dateline>Camp Near 
+                  <name type="place">Lick Creek Bridge</name> 
+                  <date when="1863-11-12">Nov 12 1863</date>
+               </dateline>
+               <salute>Dear Wife</salute>  
+            </opener>
+          
+            <p>I have the pleasure this Eavening of Seating My Self to drop You a few Lins  I heard Something this Morning and I was glad to hear that our forces had got after Bill Nelson  all that I am a frade of is tha they wont get him  Andy Winters come to our camps this morning and Said that they was fighting about <name type="place">Parrotsville</name>  I wish I had bin there So I Could have got to Shoot at that <unclear reason="illegible" resp="PW">hsavlsh</unclear> Black hearted Bill Nelson</p>
+            <p>That Night I left I went to <unclear reason="illegible" resp="PW">Yenipling Lins</unclear> and <unclear reason="illegible" resp="PW">him</unclear> and <unclear reason="illegible" resp="PW">Lincoln sonh merit walk</unclear> me to <unclear reason="illegible" resp="PW">rersbng</unclear> I have bin well Sence <unclear reason="illegible" resp="PW">toea</unclear></p>
+            
+            <pb facs="0012_001564_000206_0002.jpg" n="2" xml:id="d2e210"/>
+            <p>With the Exception of the <unclear reason="illegible" resp="PW">look hnkie</unclear> but I am better If It to days I went to the Other day to worrying with the trains after <unclear reason="illegible" resp="PW">conn</unclear> I made old <unclear reason="illegible" resp="PW">ng Karl &amp; Kill Jc ngs &amp; nall</unclear> I taken live loads of <unclear reason="illegible" resp="PW">Corn Kinser is threads</unclear> and of Office I expect the Col. told Alexander that I Should be Captan, of the Company &amp; Alex Will be first Lt.  I heard to day our forces had taken a Grate Many prisners below and that they had got possession of <name type="place">Look Out Mountain</name>, that is Close to to <choice><orig><name type="place">Chatanooga</name></orig><corr resp="pw"><name type="place">Chattanooga</name></corr></choice>.</p>
+            <p>I heard to day that the pay master was on the road here.  I am afrade the Rebels has taken all I have and all youre father has.  Andy Winters <unclear reason="illegible" resp="PW">Sertha</unclear></p>
+            
+            <pb facs="0012_001564_000206_0003.jpg" n="3" xml:id="d2e245"/>
+            <p>they had not bin up there I am in hope they have not  I have bin reading one of <name type="person">Brownlows</name> papers to day.  I want to send You one to read and you can <unclear reason="illegible" resp="PW">afet</unclear> the histry of the Rebles</p>
+            <p>Emms I am going to Send you Some Coffee &amp; I will Send You some Sugar  Some other time I think I No things happens.  I will be at home before long If I can get <unclear reason="illegible" resp="PW">affs</unclear> I want you to write to me as often as you can and I will do the Same.  It is want You <unclear reason="illegible" resp="PW">in of our part use paper approved</unclear> will buy Bill Winters and when ever you can get the chance tell Your Mother to take Some of that Coffee</p>
+            <p>I Will have bring few Lins to a Close <unclear reason="illegible" resp="PW">Yestry</unclear> R Raga</p>
+         </div>
+      </body>
+   </text>
+</TEI>

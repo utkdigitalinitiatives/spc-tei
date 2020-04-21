@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000201_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Pembroke S. Scott</name> in Camp 18 miles East
+					of Knoxville, Tenn., to his Mother <date when="1863-12-21">1863 December 21</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Rozema, Laurel</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Pembroke S. Scott</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000201_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Pembroke S. Scott in Camp 18 miles East of Knoxville, Tenn., to his Mother 1863 December 21</title>
+               <date when="1863-12-21">1863 December 21</date>
+               <author>
+                  <name type="person">Pembroke S. Scott</name>
+               </author>
+               <title>[Letter] <date when="1863-12-21">Dec. 21st A.D. 1863.</date> Camp 18
+                        miles East of Knoxville E. Tenn. [to] Mother</title>
+               <date>2006-05-17</date>
+               <author>
+                  <name/>
+               </author>
+               <author>
+                  <name type="person">Scott, Private Pembroke S.</name>
+               </author>
+               <date when="1863-12-21"> Dec. 21st A.D. 1863.</date>
+               <extent>3 pages</extent>
+               <note type="abstract">A letter from Private Pembroke S. Scott of the 118th Ohio
+                        Volunteer Infantry, dated December 21, 1863 from &quot;camp 18 miles east of
+                        Knoxville,&quot; to his mother in Ohio about Civil War camplife and the harsh
+                        conditions he faced, as the 118th lacked rations and supplies.</note>
+               <note type="collection">Private Pembroke S. Scott Letter, 1863</note>
+               <note type="manuscript">MS.2712</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Rozema, Laurel">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e97">
+            <pb n="1" facs="0012_000201_000200_0001.jpg" xml:id="d4e98"/>
+            <p>Mrs. Jane Scott</p>
+            <p>Rushsylvania</p>
+            <p>Sogan Co Ohio.</p>
+            <pb n="2" facs="0012_000201_000200_0002.jpg" xml:id="d4e106"/>
+            <p>Camp 18 miles East of Knoxville E. Tenn.</p>
+            <p>Dec. 21st A.D. 1863.</p>
+            <p>Dear Mother:-</p>
+            <p>After several days of real cold winter weather like the birds we are made
+                    cheerful with the return of a warm and pleasant day. My &apos;ink&apos; yesterday was in a
+                    frozen state, &amp; I like the ink was too cold to write. I have several
+                    letters to answer, as we have had but little time, &amp; poor chance to
+                    write frequently. We have been marching, &amp; in &quot;line of battle&quot; sometimes
+                    day, &amp; night. As yet we have not engaged the enemy, though some of our
+                    Brigade did at Kingston 24th Nov. We formed a line of Skirmishess on the extreme
+                    left. I got a letter from Charlie 14th Inst &amp; four more on 16th. One
+                    from C.C. One for Carr-one from C.J. &amp; one from M. Stiles. Morts letter
+                    was dated Folly Island S. C. Nov. 21st. He was well. Cynthia was going to
+                    school. I regret to learn of the death of Wm. Stephenson. We must soon cross the
+                    same stream.</p>
+            <pb n="3" facs="0012_000201_000200_0003.jpg" xml:id="d4e116"/>
+            <p>We received some pay last saturday.</p>
+            <p>We got 4 months wages, &amp; settled last years clothing bill. There was 4.75
+                    coming to me out of the 42 dollars appropriated to that purpose. I got 56.75. I
+                    send 40 dollars to you by State Agent. The receipt I send in this letter. It
+                    explains itself. I lent 20 dollars to a comrade in battle. <unclear reason="illegible" resp="lr">Int. 6 percent.</unclear> I have some 13
+                    dollars yet. I should have sent the twenty but he desired it &amp; is
+                    honest. I have two pair of shoes now &amp; two pair socks. The mittens I
+                    brought from home are as good as new. Id sew another good seat coat - have two
+                    old shirts, &amp; one new one. Many are worce off than I. The prospect of
+                    sending clothing, &amp; c I should think is rather dark. I should not desire
+                    you to think of it. Rations are scarce. I hear them call out &quot;a load of hard
+                    tack.&quot; We have had no bread since yesterday noon. I dined last night on a tuncup
+                    of coffee, &amp; a lump of lard. I slept well over it, &amp; am well
+                    this morning.</p>
+            <p>Yours Affectionately, P.S.S. Scott.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

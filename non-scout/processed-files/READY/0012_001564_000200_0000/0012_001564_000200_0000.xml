@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001564_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Robert A. Ragan</name> in Knoxville, Tenn. to Emeline
+					Ragan <date when="1863-12-03">1863 December 03</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Robert A. Ragan</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001564_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robert A. Ragan in Knoxville, Tenn. to Emeline Ragan 1863 December 03</title>
+          <date when="1863-12-03">1863 December 03</date>
+          <author>
+            <name type="person">Robert A. Ragan</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Robert A. Ragan Letters</note>
+          <note type="manuscript">MS.743</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Tennessee -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Religious aspects.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001564_000200_0001.jpg" xml:id="d4e40"/>
+        <p>Knoxville Dc the 3 1863</p>
+        <p>Dear Wife</p>
+        <p>in a hurry I seat myself this morning to write you a few lines to let you no where I am and what I am doing I am at Knoxville at this time and have ben here for 20 days, and, we have bin fighting the rebles all the time. They have made for or five eferts to tak Knoxville and they cant do it at least they have not done it yet. I expect you have heard that we have bin Captured a dozen times but you will here that from the Rebels evry day we have plenty to Eat at this place at this time and I think we have sixty days Rations on hand yet. We belong to the rite wing of this Army.</p>
+        <pb n="2" facs="0012_001564_000200_0002.jpg" xml:id="d4e48"/>
+        <p>We have not bin ingaged much but some little the rebles have made some for or five charges on our breast works but we repulsed them every time we killed and taken prisoners the last charge one thousand they have got us surrounded on the North Side of the river but we have the South Side of the river we get forage from Sevr. County. we got good news this morning from Grant he has Whiped Brag to <unclear reason="illegible" resp="bds">death</unclear>. I will send you a <unclear reason="illegible" resp="bds">Serkler</unclear> that was published this morning and it will tell you all about it Em I will quit riting about the war. I no when you hear the canons roring it makes <unclear reason="illegible" resp="bds">yor</unclear> heart ache but I hop that I will be fortunate <unclear reason="illegible" resp="bds">anoughf</unclear>
+            </p>
+        <pb n="3" facs="0012_001564_000200_0003.jpg" xml:id="d4e63"/>
+        <p>to get <unclear reason="illegible" resp="bds">threwe</unclear> this fight so I can get home to my beloved little family I think this thing will wind up before long. We have wiped them do death, below and I pray to God we will repulse them here. Em I will have to bring me few lins to a close I have bin well with the exception of my Eys they have bin very <unclear reason="illegible" resp="bds">near</unclear> out If they dont get better I will have to leav the Armey <unclear reason="illegible" resp="bds">Kinses</unclear> has resigned and I am the Capton of the Compay Em Oh that I could be at home in this month the very time that I wanted to be at home I a afrad I cant be there If I cant get home Em do the best you can and I will come</p>
+        <pb n="4" facs="0012_001564_000200_0004.jpg" xml:id="d4e76"/>
+        <p>as times get so I can tell you mothor and all of the family howdy for me I this thing winds up here in 2 weaks from this time will be at home take cear of your self, your affectinal Husband</p>
+        <p>R.A. Ragan</p>
+        <p>tell your father to get that <unclear reason="illegible" resp="bds">cern</unclear> from fresh for you.</p>
+        <p>Em pray for me in this struggle maby I will be fortunat to get thrwe I never have sean <unclear reason="illegible" resp="bds">Father</unclear> or the boys yet they ar at <unclear reason="illegible" resp="bds">Connbler</unclear> Gap</p>
+        <p>If you can send me word how you are</p>
+      </div>
+    </body>
+  </text>
+</TEI>

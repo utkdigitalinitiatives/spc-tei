@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000292_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Ramsey, J.G.M.</name>
+				                  in New York, N.Y., to J. Crozier Ramsey in Knoxville, Tenn., <date when="1850-09-21">1850 September 21</date>
+            </title>
+        <author>
+          <name type="person">Ramsey, J. G. M. (James Gettys McGready)</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000292_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Ramsey, J.G.M. in New York, N.Y., to J. Crozier Ramsey in Knoxville, Tenn., 1850 September 21</title>
+          <date when="1850-09-21">1850 September 21</date>
+          <author>
+            <name type="person">Ramsey, J.G.M.</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1850</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000292_0001.jpg" xml:id="d4e44"/>
+        <p><unclear reason="Illegible" resp="JH">Frm</unclear> J.G.M. Ramsey, P.M.</p>
+        <p>Mecklenburg T.</p>
+        <p>J. Crozier Ramsey Esq.</p>
+        <p>Knoxville</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_000060_000292_0002.jpg" xml:id="d4e58"/>
+        <p>Irving House Sep. 21. 1850.</p>
+        <p>Dear Crozier</p>
+        <p>I wrote to your Ma two days ago &amp; now write you merely to say that I am quite well but extremely impatient under my disappointment of not having received the least intelligence since I got here.  Some of you I must believe have certainly written me.  You may have addressed it to Philadelphia or the mails may have miscarried.  I hope nothing has occured at home that you were unwilling to communicate.  I am impatient too from another consideration.  My bonds will not sell.  I have not a single offer that I can entertain  Stocks are still depressed.  It requires patience &amp; firmness to manage this agency  The brokers form combinations against a seller of these securities &amp; sometimes drive them out of the market.  I must have a few thousand dollars to pay duties with.  After that I will have a breathing spell.  My friends have persuaded me that next week things will be more favorable &amp; I will therefore remain here till Monday when I will go over to Phila</p>
+        <pb n="3" facs="0012_000060_000292_0003.jpg" xml:id="d4e66"/>
+        <p>delphia - try that market a few days &amp; get my face turned south.  I will have to stay a few days in Charleston or Savannah - where you will of course address me  Genl. Greene of St. Francisco is in the house &amp; I have requested an interview with him to enquire something about your brothers.  Should I learn any thing I will immediately communicate it.</p>
+        <p>Tell our ladies that I have called to see Mrs. Greenway (of Abingdon) several times She is here with a diseased son seeking medical aid for him.  She is disconsolate on account of his situation.  Frank &amp; I could cure him.  I also called to see Miss Mary Cowan who is here at school.  She is a pretty &amp; very lady like girl &amp; apologised for not calling to see Margaret Jane.</p>
+        <p>I have also seen Mrs. <unclear reason="Illegible" resp="JH">Pulliam</unclear>.  Tell your Ma that the prescription I sent back to her from Philadelphia for her sick child effected a cure &amp; both parents have told me that it was almost like one raised from the grave.  Mr. Dickinson is here &amp; tho at home we are a little (I dont know for what reason) distant here we are very intimate &amp; confidential.  Susan he bought &amp; gave me a small present for you</p>
+        <pb n="4" facs="0012_000060_000292_0004.jpg" xml:id="d4e77"/>
+        <p>J. S. King called to see me two days ago.  &amp; old Judge Johnson from Tellico - Rice from Rogersville &amp; Jones from Greeneville.  Gates I see every day &amp; he is very kind.  Mr. <unclear reason="Illegible" resp="JH">Ravenel</unclear> of Charleston asked very kindly to day for my family &amp; Claiborne &amp; other West Tennesseans</p>
+        <p>I frequently see.  But I can hear nothing from home - can make no negociations of my bonds &amp; occasionally I wish my agency were over &amp; I quietly at home.  But some body must do it &amp; I may as well as any one else</p>
+        <p>Politics are absorbed  in this city by commerce.  In the streets nothing <gap resp="Hogan"/> said on the subject &amp; in the hotels all parties are a little on their guard.  I see tho' no return of genuine fraternal feeling &amp;  little  ground to hope for a restoration of stable &amp; permanent quiet between the two sections.  Tell Major Swan &amp; Lyon what I have said about the price of the bonds.  I am offered 1 1/2 premium - which is just par &amp; I wont take it till I am sure I can do no better.  Love to all</p>
+        <p>Yours affectionately</p>
+        <p>J.G.M. Ramsey.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

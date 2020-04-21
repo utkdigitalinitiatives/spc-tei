@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000203_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Knoxville, Tenn., to Amos Gould in Owosso, Michigan,
+<date when="1865-03-27">
+1865 March 27
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000203_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1865 March 27</title>
+               <date>1865-03-27</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated March 27, 1865, from Henry Cherry in Knoxville, Tenn. to Amos Gould, Cherry recounts the story of the Battle of Fort Sanders. He also describes Knoxville&apos;s fortifications as well as his current location across the Holston River from Knoxville, saying he has &quot;a fair and beautiful view of the city &amp; the river between us which is somewhat over 1000 feet wide &amp; in low water from 8 to 12 feet deep in the channel.&quot; Further, Cherry tells of a growing uneasiness in the area, as &quot;over 70,000 troops are said to have passed through Knoxville to operate somewhere around Lynchburg.&quot;</note>
+               <note type="collection">The Henry Cherry Letters, 1865</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000203_0001.jpg" xml:id="d3e142"/>
+            <p>Head quarters 10th Mich Cav</p>
+            <p>Knoxville Tenn</p>
+            <p>March 27th 1865</p>
+            <p>Honl Amos Gould,</p>
+            <p>Dear Sir,</p>
+            <p>Since Dec 7th we have been located on the opposite side of the Holstein river from Knoxville. We are so high up the hill that we have a fair &amp; beautiful view of the city &amp; the river between us which is somewhat over 1000 feet wide &amp; in low water from 8 to 12 feet deep in the channel. Directly back of our camp &amp; about 200 feet higher than we are, is a strong fort with 8 Cannon &amp; to the South of us a quarter of a mile distant &amp; about as high as the fort back of us is a another larger &amp; stronger fort with 12 guns. Fort Sanders is in full view from where we are, on the Knoxville side of the river &amp; that</p>
+            <pb n="2" facs="0012_000071_000203_0002.jpg" xml:id="d3e160"/>
+            <p>the Fort which the Rebels attempted to take by storm, &amp; into the dilch of which were piled 597 men in a few minutes, by being tripd up with a telegraph wire, which was wound from stump to stump near the edge of the ditch, which it is said 1000nds lay in a hollow beyond having their charge impeded by wires fastened near the gound &amp; by this strategy the Rebels under Longstreet were defeated, &amp; Burnside held the city, driving Longstreets forces beyond Strawberry Plains &amp; afterward to near the Virginia line. For the last three weeks there has been quite a stir in these parts Over 70,000 troops are said to have passed through Knoxville to operate somewhere around Lynchburg. Genl Stoneman has command of the Cavalry 12,000 strong &amp; if Thomas does not go up he will probably</p>
+            <pb n="3" facs="0012_000071_000203_0003.jpg" xml:id="d3e168"/>
+            <p>command the whole. It is said Genl T will go. The road is finished 67 miles &amp; the construction train are moving on. Our Regiment now numbers over 1200 but we lack horses. Only 700 could be mounted for the raid. They are in the post of honor, that is, they are in advance of all the forces, &amp; it is just what they were wishing for, for they know the country, having raided through it many times during the past year. We are all hopeful &amp; joyous over an anticipated speedy peace. But we are (I mean we who have families at home) all sorrowful &amp; downcast at the fact that no paymaster yet comes, though in another 5 days it will be 7 months that our pay is due, &amp; we want, for ourselves &amp; our families. It is hard to be thus treated &amp; bear it patiently. But we must bear it.</p>
+            <pb n="4" facs="0012_000071_000203_0004.jpg" xml:id="d3e176"/>
+            <p>You will have discovered that my paper is poor, my pen is poor, &amp; my ink will hardly flow, but at present, it is the best we can do &amp; we must use this or none. My best regards to your own family, to the Colonels, &amp; to David&apos;s, &amp; to Mrs Grahams.</p>
+            <p>As ever</p>
+            <p>Most truly</p>
+            <p>Yours</p>
+            <p>Henry Cherry.</p>
+            <p>H Cherry</p>
+            <p>March 27 1865</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000269_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Peter W. Gallandet</name>
+				                      to Charles Pettit.,<date when="1799-12-20">1799 Dec. 20</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Peter W. Gallandet</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000269_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Peter W. Gallandet to Charles Pettit.,1799 Dec. 20</title>
+               <date when="1799-12-20">1799 Dec. 20</date>
+               <author>
+                  <name type="person">Peter W. Gallandet</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000269_0001.jpg" xml:id="d4e39"/>
+            <p>Col. Charles Pettit</p>
+            <p>corner Walnut &amp;front St.</p>
+            <pb n="2" facs="0012_002414_000269_0002.jpg" xml:id="d4e45"/>
+            <p>Col. Charles Pettit</p>
+            <p>Sir</p>
+            <p>Mrs. Copeland the Administrar. to Asa Copelands Estate, Has requested me to propare a Reference for the Settlement of her
+				       Accts. with The Insurance company of North America on your appointing a Referee and mentioning a time &amp;place of
+				       meeting  She will be ready on her part.</p>
+            <p>She Judges this the most proper mode of Settlement to justify her as Adminir,</p>
+            <p>Shall be obliged by your reply And am Respectfully</p>
+            <p>Sir</p>
+            <p>Your Obdt Servt._</p>
+            <p>Peter W. Gallandet</p>
+            <p>20 Decr 1799</p>
+            <pb n="3" facs="0012_002414_000269_0003.jpg" xml:id="d4e65"/>
+            <p>20th  Dec  1799</p>
+            <p>
+               <unclear reason="illegible" resp="pw">Thosrm</unclear>Ewing</p>
+            <p>respecting Case of Asa</p>
+            <p>Copeland  &amp;Sloop Maria</p>
+            <p>See Jon  <unclear reason="illegible" resp="pw">Donnth</unclear>&amp;Co</p>
+         </div>
+      </body>
+   </text>
+</TEI>

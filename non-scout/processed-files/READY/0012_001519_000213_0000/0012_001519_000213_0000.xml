@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000213_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Edward Maynard</name>
+				                    in Hamilton County, Tenn., to Pick <date when="1863-01-17">1863 Nov. 17</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Edward Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000213_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Edward Maynard in Hamilton County, Tenn., to Pick 1863 Nov. 17</title>
+          <date when="1863-01-17">1863 Nov. 17</date>
+          <author>
+            <name type="person">Edward Maynard</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000213_0001.jpg" xml:id="d4e39"/>
+        <p>Camp at <unclear reason="illegible" resp="JCM">Sale</unclear> Creek</p>
+        <p>Hamilton County Tenn-</p>
+        <p>Nov. 17 1863</p>
+        <p>Dear <unclear reason="illegible" resp="JCM">Pick</unclear>
+            </p>
+        <p>Yours of Oct. 17 came duly to hand and your very interesting account of your trial trip <unclear reason="illegible" resp="JCM">cras</unclear> read and reread and each time with more pleasure than the last - It would have been answered some days since but since its reception I have been on a flying trip to Knoxville - I left here Tuesday Nov. 11 about 3 1/2 P.M. and went to Smiths X Roads a distance of about nine miles - The way I got off was that a Mr. <unclear reason="illegible" resp="JCM">Chat</unclear> A. Dana an Asst. Secretary of Mar and a St. Col. Wilson of Genl. Grants' staff came here en route for K. <unclear reason="illegible" resp="JCM">and</unclear> I asked Genl. Spears' permission to accompsany them.  They interceded and I went From Smiths X Roads I went to Raddy's 18 miles and we rested for the night - Next day we roade to Lenoir Station distance 37 miles and reached that point at about 7 1/2 P.M. Then we found a train in waiting for Mr. Dana and col. Wilson and of course got</p>
+        <pb n="2" facs="0012_001519_000213_0002.jpg" xml:id="d4e65"/>
+        <p>about leaving our horses at Head Quarters Ninth Army Corps with St. Col Balecock a friend of Col. Wilson's. We reached Knoxville about 9 1/2 P.M. I at once made my way to Mr. Dickenson's where I found father, mother and Ann mary - You can imagine that I was glad to see them after our long parting. We sat and talked until about half after eleven - and retired for the night.</p>
+        <p>Next day I visited with mother and Ann Mary and the rest of the time was about town - About seven in the evening I called at Burnside's Head Quarters and learned to my joy that we would soon return before Monday the 16 and went back rejoicing - but in the morning before day light an orderly came saying I was wanted at Hd. Qrs. Of course I went as soon as my toilet was made - As soon as I reached there I was told that we would leave immediately - So I bundled up and the evening of the 16 found me at Sale Creek once more at my <unclear reason="illegible" resp="JCM">ferst.</unclear> The sudden departure from K. was caused by the impoliteness of Longstreet who threw a pontoon bridge across the Tennessee at Huff's ferry about one mile below Loudon and commenced sending over his troops a proceedure that</p>
+        <pb n="3" facs="0012_001519_000213_0003.jpg" xml:id="d4e74"/>
+        <p>threatened to cut off communication between Knoxville and Chattanooga and we desired to be at our respective stations before it should be effected - Burnside came to Lenoir with us and as soon as he reached there ordered his troops to attack the enemy and drive them into or across the river - They did so but with what success i am unable as yet to say. While at K. I saw some of our friends. I saw Dr. James Rodgers Dr. <unclear reason="illegible" resp="JCM">Won.</unclear> Rodgers, <unclear reason="illegible" resp="JCM">Squire</unclear> Sam Rodgers, Col. <unclear reason="illegible" resp="JCM">Mon Huskill,</unclear> Mr. Homer and a few others.</p>
+        <p>I saw none of the Cowan's - Passed M.Kinney on the street but did not notice him - did not see Mat Alex ander nor any of the family though they are all there. I met on the street Blannie McClung and Marther Suttred, passed close enough to brush Blannie's dress but did not make any sign of recognition nor did they and you know we were once intimate.</p>
+        <p>I saw the Misses <unclear reason="illegible" resp="JCM">Momow</unclear> Mary and Amelia - They were very glad to see me</p>
+        <p>And now you have my list of citizens whom I saw I saw of course numerous Army friends with whom you are not acquanted - Knoxville did not seem much changed and yet I cannot say I</p>
+        <pb n="4" facs="0012_001519_000213_0004.jpg" xml:id="d4e96"/>
+        <p>was very sorry to leave there - I longed to be back - All our property read and personal had been scattered among different persons but father had gotten together some of it. Your piano was in the possession of A. L. Maxwell who had the impudence still father he had bought it at fair sale. I would have liked to have given his mouth one tender slap and told him he was a liar.  Jo. Martin still remains there, but several of the citizens are gone. the Wallace's, Sneeds, Croziers and several of that strip. Charlie McGhee and Columbus Powell were sent by Genl. Burnside to Gov. Bramlette of Kentucky to answer the charge of robbery and horse stealing - <unclear reason="illegible" resp="JCM">Mayor</unclear> Wallace Ruf. <unclear reason="illegible" resp="JCM">Sterens</unclear> and many more of that stripe are gone to Camp Chase. Daniel H. Cummings walks the streets as impudent as the devel himself - Our place is much abused the fences are destroyed the groun trodden down and things racked generally - Aunt Violet stays there and helps to cook for col. Gilbert who commands the post. Caroline is with mother, Ben at the Bell House and Tom is here. I intended to have brought Ben here also but started started to sud</p>
+        <pb n="5" facs="0012_001519_000213_0005.jpg" xml:id="d4e106"/>
+        <p>denly - Father and Mr. Dickinson came down with us and this morning left for Chattanooga and the North - Both very well. I left mother and Ann Mary in bed but very well and sorry to have me leave -</p>
+        <p>I think the Federal Authorities will hold East Tenn. though I have some doubts on their score. If they do all will be well but if not the people are certainly in a bad condtion.</p>
+        <p>Our information from Knoxville is far from pleas and just now - We hear that Burnside was whipped at Campbell's Station and forced a fall back on Knoxville and is then surrounded by Longstreet. Of course some movement will be made by Grant to counteract such action, but what it is I do not know at present. No more news just now and as I am pressed for time I close -</p>
+        <p>I am your own brother</p>
+        <p>Ed -</p>
+        <p>
+          <unclear reason="illegible" resp="JCM">Sr. Col. Md C</unclear>
+        </p>
+        <p>P.S. Write soon and direct as above</p>
+        <p>Edward</p>
+      </div>
+    </body>
+  </text>
+</TEI>

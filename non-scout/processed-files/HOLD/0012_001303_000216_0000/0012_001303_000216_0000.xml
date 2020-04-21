@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000216_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn.,<date when="1918-04-19">1918 Apr. 19</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000216_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1918 Apr. 19</title>
+          <date when="1918-04-19">1918 Apr. 19</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">SmithFamily Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000216_0001.jpg" xml:id="d4e39"/>
+        <p>J.L.Dodds</p>
+        <p>Co.L. 23 Engirs</p>
+        <p>American Ex. F.</p>
+        <p>France</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton S</p>
+        <p>Jackso</p>
+        <p>Tenn</p>
+        <p>U. S. A.</p>
+        <pb n="2" facs="0012_001303_000216_0002.jpg" xml:id="d4e59"/>
+        <p>Some where in France</p>
+        <p>April 19-1918</p>
+        <p>Dear Ellen:</p>
+        <p>Well how are you? I am fine and dandy, and enjoying My self very murch  This is a real pretty country or I like it better than I thought I would</p>
+        <p>The only thing I dont like is I cant talk to these people here or cant understand what they are trying to say  I have learned a few words and before long I can talk to them some I thank.</p>
+        <p>There is a bunch in the </p>
+        <pb n="3" facs="0012_001303_000216_0003.jpg" xml:id="d4e73"/>
+        <p>2</p>
+        <p>Camp all day  Selling nuts orngs and several other things  So I get to see lots sights</p>
+        <p>I dont thank I will be able to make love to these girls for some time and maybe the war will soon be over any way</p>
+        <p>I wrote you a letter before I landed off the boat  I dont know wheather you will get it or not  </p>
+        <p>But I will tell you about My trip across the pond and I could tell it in a few words I didint like it a bit  I was sea sick a couple of days</p>
+        <p>The Seas were nice and</p>
+        <pb n="4" facs="0012_001303_000216_0004.jpg" xml:id="d4e88"/>
+        <p>3</p>
+        <p>smoothe most all the way but when they got rough was when I got sick and I wasnt by my self either  There was a lot of the boys that were sick</p>
+        <p>I have had a long trip on railroad since I landed  I got to see lots of this country  I will say one thing these people all live in brick or stone house</p>
+        <p>There is not any wood houses at all not even the a dog house of wood  We have wood house in the Camp and that is the only ones I see</p>
+        <p>I think we will soon go to work and I will</p>
+        <pb n="5" facs="0012_001303_000216_0005.jpg" xml:id="d4e100"/>
+        <p>4</p>
+        <p>be real good when we do  I have drilled so murch I am tired of it  I had rather work any duty than to drill</p>
+        <p>Well Ellen I cant tell you any thing More we cant tell murch. I will write you ever chance I have and I want you to write me real often  I will be awful glad to here from the good old U.S.</p>
+        <p>In the letter I wrote you on the boat I gave you my address but it would be better if it was this way</p>
+        <pb n="6" facs="0012_001303_000216_0006.jpg" xml:id="d4e110"/>
+        <p>5</p>
+        <p>James L. Dodds</p>
+        <p>Co. L. 23rd Engineers</p>
+        <p>American Ex. Forces</p>
+        <p>Via New York   France</p>
+        <p>Well I will close for this time</p>
+        <p>Hoping to here from you real soon</p>
+        <p>I am as ever</p>
+        <p>James L. Dodds</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000560_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mrs. A.R. Gordon</name>
+ in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1910-10-10">1910 Oct. 10</date>
+            </title>
+            <author>
+               <name type="person">Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000560_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mrs. A.R. Gordon in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1910 Oct. 10</title>
+               <date>1910-10-10</date>
+               <author>
+                  <name>Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+               </author>
+               <extent>9 digital images; 1 envelope, 8 pages.</extent>
+               <note type="abstract">1910 Oct. 10, Mrs. A.R. Gordon (nee Nellie Alexander), Franklin, Tenn., to Elizabeth Ramsey Breck, Knoxville, Tenn. Request for information about the Alexander family from whom Mrs. Gordon is descended. Includes detailed relationships among both living and dead members of the Alexander family. Offers to send her a copy of the family tree which she is trying to complete. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Genealogy -- Tennessee.</term>
+               <term>Family -- Research.</term>
+               <term>Family -- History.  </term>
+               <term>Tennessee -- Genealogy.</term>
+               <term>East (U.S.) -- Genealogy.</term>
+               <term>Gordon, A. R. (Andrew Ruthven), Mrs. -- Family.</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Family.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000560_0001.jpg" xml:id="d3e155"/>
+            <p>Mrs. Breck</p>
+            <p>Cor. Main &amp; Cumberland Sts.</p>
+            <p>Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000556_0002.jpg" xml:id="d3e169"/>
+            <p>Franklin, Tenn.</p>
+            <p>Oct. 10, 1910</p>
+            <p>Dear Mrs. Breck</p>
+            <p>Your great-grandfather &amp; my great-grandfather were brothers. I am a great-granddaughter of Hezekiah Alexander, a brother of John McKnitt, both of whom were signers of the the Mecklenburg Declaration a few months ago. I read the Alexander family &quot;tree&quot; of which I am very proud. On it there are three crowns, the significance</p>
+            <pb n="3" facs="0012_000060_000560_0003.jpg" xml:id="d3e183"/>
+            <p>of which I do not understand. This tree is a copy of one that is about 75 years old &amp; was gotten from a Mrs. Kilpatrick of Charlotte. James Alexander the founder of the N. C. branch was the father of 15 children, five of whom died young- Jemima Alexander a sister of John McKnitt, married a Sharp &amp; his great grandson lives in Nashville, Mr. A. H. Sharp. He spent the day with me last week, &amp; we had a very enjoyable time talking of the</p>
+            <pb n="4" facs="0012_000060_000560_0004.jpg" xml:id="d3e191"/>
+            <p>Alexander family. Jemima Alexander Sharp was the ancestor of John Sharp Williams Senator from Miss. &amp; of Gen Sterling Price of Mo., of Confederate war fame. Gov. Hall who succeeded Sam Houston, as Gov. of Tenn. married Polly Alexander.</p>
+            <p>I wrote to Lula Alexander Moses some time ago about the family &amp; read a letter from Mr. Moses telling me of the death of Mrs. Finnegan. Lula knew very little of the connection aside from </p>
+            <pb n="5" facs="0012_000060_000560_0005.jpg" xml:id="d3e201"/>
+            <p>her immediate family.</p>
+            <p>Judge Alexander&apos;s father &amp; my great-grandfather were twins.</p>
+            <p>Mr. Moses said a year or two ago, that Prof. Eben Alexander said he had an uncle James Alexander living in Blount Co., then 95 years old. He did not state where in Blount Co., he resided, so of course I do not know where to address a letter.</p>
+            <p>There is a Judge Ramsey Alexander living in Thomasville Ga., who is no doubt a kinsman.</p>
+            <p>How many, &amp; who were the signers</p>
+            <pb n="6" facs="0012_000060_000560_0006.jpg" xml:id="d3e217"/>
+            <p>of the Mecklenburg Declaration? My husbands mother, is a descendent of Ephrian Brenard of N.C.</p>
+            <p>I understand there were 7 brothers that came from Ardmore Scotland &amp; settled in N.C. Va., New York, New Jersey, &amp; Penn.</p>
+            <p>Mrs. Dr. Park of Knoxville is a descendant of the Va., family. If you can learn anything from her family, of course, it is our family history. I think Wm Alexander (Lord Sterling) of New York</p>
+            <pb n="7" facs="0012_000060_000560_0007.jpg" xml:id="d3e229"/>
+            <p>is our New York kinsman.</p>
+            <p>I wish some one would get up a genealogy of the Alexanders in N.C.</p>
+            <p>If you have not the tree &amp; would like to have a copy made of mine, I would be glad to let you have it. Mine is only a blue print copy, drawn by an Architect. All of the branches are not developed. I am writing to different members, so as to fill it out. Abigail Alexander, daughter of John McKnitt, married Rev.</p>
+            <pb n="8" facs="0012_000060_000560_0008.jpg" xml:id="d3e241"/>
+            <p>Samuel Craighead Caldwell, &amp; his son, John Madison McKnitt Caldwell, married my aunt. If you will be so kind as to write me all you know of the family, I will appreciate it so much. I am anxious for the records for my son&amp;s sake.</p>
+            <p>Hoping to have an early response, &amp; thanking you in advance, I am</p>
+            <p>Cordially yours,</p>
+            <p>Mrs. A. R. Gordon Jr.</p>
+            <p>nee Nellie Alexander</p>
+            <pb n="9" facs="0012_000060_000560_0009.jpg" xml:id="d3e257"/>
+            <p>Mrs. Andrew Ruthven Gordon, Jr.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000082_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Edward Lynn</name>
+in Blains Cross Roads, Tenn. to his sister,
+<date when="1863-12-25">
+1863 December 25
+</date>
+            </title>
+            <author>
+               <name type="person">Edward Lynn</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+               <name>Rosinski, Wanda</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000082_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Edward Lynn in Blains Cross Roads, Tenn. to his sister, 1863 December 25-27</title>
+               <date>1863-12-25</date>
+               <author>
+                  <name>Edward Lynn</name>
+               </author>
+               <extent>4 digital images; 0.1 linear feet; 4 p.</extent>
+               <note type="abstract">This letter was written on December 25-27, 1863, in Blains Cross Roads,Tenn., by Assistant Surgeon Edward Lynn of the 65th Illinois Volunteer Infantry, to his sister. In the letter, Lynn relates the movements of hisregiment during the Siege of Knoxville and the events of the Battle of Fort Sanders in late November and early December 1863. Lynn also writes of becoming acquainted with Parson William Brownlow and his family and tells of visiting Brownlow’s home and his plans to again publish his newspaper.</note>
+               <note type="collection">Edward Lynn Letter, 1863</note>
+               <note type="manuscript">MS.2848</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Fort Sanders, Battle of, Knoxville, Tenn., 1863.</term>
+               <term>Tennessee, East. -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+               <term>Lynn, E. E. (Edward E.) --  Correspondence.</term>
+               <term>United States. Army. Surgeons -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000082_000200_0001.jpg" xml:id="d3e152"/>
+            <p>Blains Cross Roads Tenn.</p>
+            <p>Dec 25th 1863</p>
+            <p>My dear Sister</p>
+            <p>Do you see how prompt I am? Your letter was received on the 23d &amp; now on Christmas day I am answering. I was thinking the night before I got yours that it was about time for you to write &amp; it is lucky for you my lady provided you want to hear from me that you wrote for I adopted a rule several months ago to not write the second letter to any person until I had rec&apos;d a letter from the party written to.</p>
+            <p>I do not remember but think I must have been in Concord when I wrote you last. Yes it was the day on which Charley died &amp; just such a day in Tennessee as that on which he died.</p>
+            <p>After I wrote you our Brigade was ordered to Knoxville &amp; took possession of the hights on the south side of the river opposite town. A detachment of our Regt. was then ordered back to Concord &amp; I with them. We remained there ten days or until Longstreet drove us back to Knoxville with his larger army. We fell back on the 16th of Nov. taking all our stores cattle hogs &amp;c. The fighting was continued at intervals for seventeen days during which time</p>
+            <pb n="2" facs="0012_000082_000200_0002.jpg" xml:id="d3e170"/>
+            <p>there was no communication with the world outside except occasionally as a scout or spy came or went. The enemy came up on both sides of the river &amp; attacked simultaneously. Our little Brigade behaved splendidly as usual &amp; drove the Rebs to their holes. On the other side they met with no better success. That was on the 28th. On the 29th they attacked us all around. On our side of the river they were driven into their fortifications &amp; acknowledged that they were badly whipped. On the other side they charged on Fort Sanders &amp; when they got within short range every gun in the fort and every musket in the rifle pit was opened on them -- the cannon charged with grape &amp; canister &amp; the slaughter was fearful. They lay our or five deep on the ground. One Brigade -- the Georgia Legion -- charged into the Fort &amp; was captured entire. A Lt. Col in that is brother to Mrs Brownlow. I met him at the Parsons house since &amp; like him much. He thinks he has been fighting in a bad cause. By this time re-inforcements began to arrive from Chattanooga &amp; the Rebs began to skedaddle shouting as they left &quot;Good by Yanks Vicksburg is played out.&quot; You see they thought they could starve us out. Thus ended the siege of Knoxville. On the 6th we were ordered out in pursuit. We fought them at this place six days ago &amp; took some 1500 prisoners since which time we have heard nothing from them.</p>
+            <p>Frank is teaching school. Good for him. I like that better than going</p>
+            <pb n="3" facs="0012_000082_000200_0003.jpg" xml:id="d3e180"/>
+            <p>to sea. Did he &quot;flare up&quot; at my last letter? Well let him. I expected it. By the way Frank write me again &amp; I will write a very nice letter to you. I wont tell you a word of truth in the whole letter. How glad I should be to see you all -- impulsive Frank, laughing Annie nervous fidgeting Mira who never has time to sit down fairly at the table and the steady magnanimous old &quot;cock of the walk&quot; Harrison. Good, Kind brother &amp; sister it makes the tears start to my eyes now to think of the kind treatment rec&apos;d while I was there. What a barren place this world would be if we had no friends. Since I was there &amp; more particularly since I came into the Army I have learned to appreciate them.</p>
+            <p>Belle Allen I did not know. I know Horace. Is he living? He had a sister I used to think she was quite pretty if I am not mistaken. But I think they called her Rose or Rosalie or some such name.</p>
+            <p>How does Alfred flourish &amp; the others. Susan is not married it seems. Remember me to her in particular. I always liked her mighty well. Ask her if she will let me help wash the dishes again if I will come there. Charlotte was married before I left. How does she get along &amp; Ad too. It was too bad the way I neglected Ad. I promised to send mine &amp; Julias picture &amp; well you know how easy it is to neglect a duty. I presume she dont care now but if you will give me</p>
+            <pb n="4" facs="0012_000082_000200_0004.jpg" xml:id="d3e192"/>
+            <p>her address I will write to her. Remember me kindly to all the family also to Mr &amp; Mrs Spaulding &amp; family. Maria &amp; Jane must young ladies by this time. I cant tell Mira when or how this war will end. Everything seems to indicate a speedy &amp; satisfactory termination but there are so many cursed politicians so many Presidents to be made.</p>
+            <p>Sunday 27th</p>
+            <p>Did you ever see a sentence cut off in the middle before by a call to dinner. I had to carve the turkey. Yesterday I was busy &amp; today we shall no doubt march. I have just recd orders to be ready at a moments warning.</p>
+            <p>I will ask Parson Brownlow when I see him about the paper. He is over the mountains -- went over when the Rebs came -- if they could get hold of him they would make shoe -strings of him. He has a very pleasant family. I am somewhat acquainted with them. When he starts his paper again I will send you a copy &amp; if possible subscribe.</p>
+            <p>You must excuse me now. The orderly has just called out &quot;Your horse is ready Doctor.&quot;</p>
+            <p>I must away to attend to my morning duties. Write often. Yours in love.</p>
+            <p>Ed</p>
+            <p>My address is as before</p>
+            <p>Asst. Surgeon E.E. Lynn</p>
+            <p>68th Ill. Vol. Infty.</p>
+            <p>2d Brig 3d Div 23d AC</p>
+            <p>Knoxville Tenn</p>
+         </div>
+      </body>
+   </text>
+</TEI>

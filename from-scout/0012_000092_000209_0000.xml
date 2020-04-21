@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000209_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Murfreesboro, Tenn., to Crittenden Cregmile, <date when="1863-04-26">1863 April 26</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000209_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Murfreesboro, Tenn. to Crittenden Cregmile, 1863, April 26</title>
+               <date>1863-04-26</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1863 April 26 Southgate Cregmile in Murfreesboro, Tenn., to his brother Crittenden. Updates him on the status of several of the hometown boys and notes that one was discharged while he was on picket. Scouting expeditions are resulting in many captured Rebel soldiers (butternuts), joining the already high number of deserters coming in. Having requested that the Union weekly newspaper be sent to his family, wants Crittenden to write him when they begin receiving it.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Tennessee -- Murfreesboro -- 19th century -- Social aspects.</term>
+               <term>Soldiers -- Tennessee -- Murfreesboro -- 19th century -- Correspondence.</term>
+               <term>Murfreesboro (Tenn.) -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1843- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military police.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000092_000209_0001.jpg" xml:id="d3e157"/>
+            <p>Campe at Murfreesbor</p>
+            <p>Tenn</p>
+            <p>April 26th 63</p>
+            <p>Crit</p>
+            <p>I receved your letter to day and was glad to here from you. Harry Cone hasent got well yet.</p>
+            <p>but all the rest of the Reily boys is well the 18th U.S. Regt has just got back from there scouting exspedition with a String of Butter nuts half a mile longe while we were on picket the other day Ben Stevens got his Discharge and started for home be four we got back. that Miniater that</p>
+            <pb n="2" facs="0012_000092_000209_0002.jpg" xml:id="d3e175"/>
+            <p>Ben took with him I dedend intend to send it home for it wasend a very good <unclear reason="illegible" resp="NW">onre </unclear>
+            </p>
+            <p>I might as well stop riting for there <unclear reason="illegible" resp="NW">isenet </unclear> anyey thing new to rite a bout.</p>
+            <p>I rote to the Editor of the weekley Union to send it home for I think it is about as good a Union paper as you will feneraley come cross if it has went thought I <unclear reason="illegible" resp="NW">wount </unclear> you to rite and tell me </p>
+            <p>No more </p>
+            <p>at presant</p>
+            <p>S.C</p>
+            <p>To</p>
+            <p>C.C</p>
+         </div>
+      </body>
+   </text>
+</TEI>

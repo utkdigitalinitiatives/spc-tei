@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000463_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-04-17">1880 Apr. 17</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000463_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Apr. 17</title>
+               <date>1880-04-17</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 p.</extent>
+               <note type="abstract">1880 Apr. 17 Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Reports that Dr. Ramsey&apos;s valuable papers have arrived safely and assures him that they will be treasured and well cared for by the Tennessee Historical Society. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Archival materials -- Selection for preservation -- Tennessee.</term>
+               <term>Tennessee -- History -- Sources.</term>
+               <term>Lea, John McCormick, 1818-1903.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e146">
+            <pb n="1" facs="0012_000060_000463_0001.jpg" xml:id="d3e147"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>Tenn</p>
+            <p>(Mecklenburg Place)</p>
+            <pb n="2" facs="0012_000060_000463_0002.jpg" xml:id="d3e161"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville, Tenn.</p>
+            <p>Dear Sir:</p>
+            <p>Your box of valuables came safely to hand yesterday and Judge Lea happened to come into my office soon after it was received. I sent the box to his house, and we examined the articles during the afternoon and night, and found them to be what you represent them -- very valuable indeed. The &quot;Franklin&quot; paper, especially, is of the utmost importance, and will be kept with scrupulous care. It is now, with some other papers you sent, in a &quot;combination safe,&quot; which make the articles secure from fire and burglars.</p>
+            <p>I have so much to do, that I can only thank you for the box of articles, and let you know of their safe arrival. We all would be glad</p>
+            <pb n="3" facs="0012_000060_000463_0003.jpg" xml:id="d3e177"/>
+            <p>fatigue of the trip would justify you in coming or not, I can in doubt</p>
+            <p>Very Truly Yours,</p>
+            <p>Anson Nelson</p>
+            <p>Please present my wife&apos;s regards, and mine, to Mrs. Ramsey, and all your household.</p>
+            <p>A.N.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

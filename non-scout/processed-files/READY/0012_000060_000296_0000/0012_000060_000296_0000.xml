@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000296_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Curtis B. Raymond</name>
+				                 in New York, NY, to J.G.M. Ramsey in Mecklenburg, Tenn., <date when="1851-02-22">1851 February 22</date>
+            </title>
+        <author>
+          <name type="person">Raymond, Curtis B.</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000296_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Curtis B. Raymond in New York, NY, to J.G.M. Ramsey in Mecklenburg, Tenn., 1851 February 22</title>
+          <date when="1851-02-22">1851 February 22</date>
+          <author>
+            <name type="person">Curtis B. Raymond</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1851</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000296_0001.jpg" xml:id="d4e44"/>
+        <p>New York Feby 22nd 1851</p>
+        <p>Doctor J.G.M. Ramsey</p>
+        <p>Mecklenburg - Tenn.</p>
+        <p>My Dear Sir,</p>
+        <p>Permit me to express to you my condolence under the severe bereavement which has befallen you and your family in the loss of your beloved son.  Death is ever sad - but never so much so as when it removes from the ties of parents a child - to sleep on the shores of a distant land.  A thousand feelings overwhelm the father with grief as he thinks his son may have wanted his parental skill and consolation - a thousand times he is inclined again to think that son will yet return - for the death of those who are far from</p>
+        <pb n="2" facs="0012_000060_000296_0002.jpg" xml:id="d4e56"/>
+        <p>us cannot be fully realized.  The fond impulses of affection contend with the fact and almost at times discard it - until years have rolled by and sealed the truth on the grief-worn heart of the bereaved mourner - a truth forever</p>
+        <p>It was my misfortune to lose a fond mother while absent from home at school.  The sorrow which weighed upon my heart was beyond expression.  It lay like a heavy dream upon my life.  Home to me was lost forever - still my mother did not seem entirely dead and gone forever.  So it is that our heart in fond affection cherished for long years of hope and love was with the destroyer of death.</p>
+        <p>My Dear Doctor, accept my heart-felt condolence with</p>
+        <pb n="3" facs="0012_000060_000296_0003.jpg" xml:id="d4e64"/>
+        <p>your grief and the sorrow of your afflicted family.  May Heaven, smile upon those who remain, and protect them and you through a long and prosperous life.</p>
+        <p>Your son, just stepping into the fold of life, in the dignity of manly and generous integrity is a loss that no time can replace.  Though others may grow up around you he will ever be missed from the circle.  There is no consolation for the father, except that high faith in Him who guides and directs all for a grander and happier existence where grief, &amp; care shall abide no more.</p>
+        <p>With every wish for  your health and that of your family.</p>
+        <p>I am Dear Doctor</p>
+        <p>Yours Sincerely &amp; Cordially</p>
+        <p>Curtis B. Raymond</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000073_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+David A. Moulton
+</name>
+in Knoxville, Tenn. to his mother Miriam S. Moulton in Hampton, New Hampshire,
+<date when="1864-02-19">
+1864 February 19
+</date>
+            </title>
+            <author>
+               <name type="person">Moulton, David A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000073_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David A. Moulton in Knoxville, Tenn. to his mother Miriam S. Moulton in Hampton, New Hampshire, 1864 February 19</title>
+               <date>1864-02-19</date>
+               <author>
+                  <name>Moulton, David A.</name>
+               </author>
+               <extent>5 digital images; 5 pages</extent>
+               <note type="abstract">This letter dated February 19, 1864, was written by David A. Moulton, a Union solider and a private in the 11th Regiment, New Hampshire Infantry. He was stationed at a camp near Knoxville, Tennessee and writes to his mother Miriam S. Moulton in Hampton, New Hampshire. He expresses to her thanks and gives some information about a scrimmage victory over Confederate Army leader Lieutenant General Longstreet in early February 1864.</note>
+               <note type="collection">David A. Moulton Letter, 1864</note>
+               <note type="manuscript">MS.2795</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e139">
+            <pb n="1" facs="0012_000073_000200_0001.jpg" xml:id="d3e140"/>
+            <p>Mrs. Miriam S. Moulton</p>
+            <p>Hampton</p>
+            <p>N.H.</p>
+            <pb n="2" facs="0012_000073_000200_0002.jpg" xml:id="d3e152"/>
+            <p>Camp Near Knoxville Tenn</p>
+            <p>Feb 19th, 64</p>
+            <p>Dear Mother,</p>
+            <p>I received a letter from you yesterday and was glad to hear from home and that you was well. I my stockings at the same time and was much pleased to get them I have received both pair of stockings and they were just the rite size I have got all that you sent me the diary and the package of paper. I thank you for what you have sent me especially my stockings and you must take your pay for it out of my pay we shall get paid off again soon and when you get I want you to keep enough for yourself when you</p>
+            <pb n="3" facs="0012_000073_000200_0003.jpg" xml:id="d3e166"/>
+            <p>write again let me know if you have received the last payment for last year up to the first of September. I received a letter from <unclear>Tuck</unclear> first of the week he was in camp near warrinton he said that his health was good and he said on the day of christmas they all had either a turkey or a chicking and some a ham I had fresh pork for my thanksgiveing dinner also christmas dinner. I suppose that you remember where I was on that day it did not seem much like thanksgiving day to me but more like the fourth of July to hear the guns and could see plenty of gray backs as we call them out here that is rebels they said that they were gont to eat their thanksgiving dinner in Knoxville but they missed of it that time. Old Longstreet</p>
+            <pb n="4" facs="0012_000073_000200_0004.jpg" xml:id="d3e177"/>
+            <p>hates to leave east tennessee last week our cavalry had a fight with him and whiped him took some prisoners and two pieces of artillery Longstreet might as well leave the state for if he could not take Knoxville before I am sure that he cannot now it is fortified very strong and I was in the city yesterday and are still to work fortifing all the way that the rebels can get it is to starve us out and I dont think they can do that when we get the last call in the field we ought to drive them into the gulff of Mexico. When you get my shirts done you may send one by the male and keep the other one till I send for it when you send it do not seal up the ends and it will come safe and not cost</p>
+            <pb n="5" facs="0012_000073_000200_0005.jpg" xml:id="d3e185"/>
+            <p>so much. Our Chaplain does not have eny meettings only on the sabbath I donot like him so as I did Mr Stratin but he is a pretty good man. We have not started for home yet but the report is that we are to start soon as it is getting late will close my health and courage is very good yet and I hope this will find you the same. I send my best respects to all good night</p>
+            <p>From your respectful son</p>
+            <p>David A. Moulton</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000355_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>V.B.M.</name> in Baltimore, Md., to J.G.M.
+Ramsey, near Knoxville, Tenn. <date when="1824-07-20">1824 July 20</date>
+            </title>
+            <author>
+               <name type="person">V. B. M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000355_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 1824, July 20, V.B.M. in Baltimore, Md., to J.G.M. Ramsey near Knoxville, Tenn. </title>
+               <date>1824-07-20</date>
+               <author>
+                  <name>V. B. M.</name>
+               </author>
+               <extent>4 digital images; 4 pages.</extent>
+               <note type="abstract">1824, July 20, V.B.M., Baltimore, Md., to J.G.M. Ramsey, near Knoxville, Tenn. Expresses the writer&apos;s interest in history of the Mecklenburg Convention and gives advice on how best to record history. Also features a discussion of books. Encloses a sermon by the Rev. Mr. Duncan (missing) and discusses Rev. Duncan&apos;s admirable but controversial methods.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Historians -- Maryland -- Baltimore -- History -- 19th century.</term>
+               <term>Authors, American -- History -- 19th century.</term>
+               <term>Preaching -- Maryland -- Baltimore -- History -- 19th century. </term>
+               <term>Mecklenburg County (N.C.) -- History -- 18th century.</term>
+               <term>North Carolina -- History -- 18th century -- Biography -- Sources.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000355_0001.jpg" xml:id="d3e153"/>
+            <p>Baltimore July 20, 1824</p>
+            <p>Dear Sir,</p>
+            <p>In my last I dwelt pretty largely upon our old theme, &quot;the Presidential Election - And if you thought
+too largely, attribute it to an anxiety that men generally, and you in particular, should have an accurate judgement
+on a Subject of Such immence importance, to our country, to the world at large, to ourselves, and to posterity - That
+my exertions are attended with <unclear reason="illegible" resp="bds">sucess</unclear>, however that may be ardently
+wished, is to me, not the great matter, for the reward is, not as to the efforts, but &quot;according to the
+labour&quot; - one may plant and another may water, but the glory of the increase belongs still to another - Thus
+much for the present, on the old subject - </p>
+            <p>I have not been inattentive to your request touching the Mecklinburg Declaration - but I regret having to inform
+you, that my research, as yet, has been productive of nothing important - Niles&apos; Register from No. 1 to the
+last published No. has been examined, and I am not able to find any thing relation to the Subject - I regret this, not
+solely that it will be a disappointment to you, but also, that I am thusly deprived of the pleasure of contributing
+somewhat, towards elucidating a matter, so interesting to the true patriot - I could wish to be intimately
+conversant with the history of every individual man, concerned in the American Revolution - Not only acquainted
+with their actions but the operation of their hearts during <unclear reason="illegible" resp="bds">those</unclear>
+trying times - And by the way, <unclear reason="illegible" resp="bds">I would</unclear>
+            </p>
+            <pb n="2" facs="0012_000060_000355_0002.jpg" xml:id="d3e175"/>
+            <p>remark that he comes far short of a true historian who, forgetting, or thinking it of little importance, to
+<unclear reason="illegible" resp="bds">record</unclear> the secret springs, and to trace out, with <unclear reason="illegible" resp="bds">discernment</unclear> of a philospher, and the accuracy of an adept, the
+first conception, through the labyrinths and <unclear reason="illegible" resp="bds">anfractuosities</unclear> of
+the human mind, until it becomes <unclear reason="illegible" resp="bds">embodied</unclear> in words, or is made
+tangible by their doings; &amp; only aspires to be a chronicle of events as <unclear reason="illegible" resp="bds">presinted</unclear> to the eye - I know that you in your account of the Mecklinburg Declaration,
+will penetrate deeper than the surface - and present to view as will the intellectual and moral process as the
+event as left upon record - Thence my anxiety to see your production - There is encouragement for you to
+<unclear reason="illegible" resp="bds">proceed</unclear> in the work, in the consideration, that it will show
+to the world, that the opposition to tyranny and oppression, then manifested, was not a spark lit up, entirely,
+by the denunciations of the assembled wisdom &amp; patriotism of the &quot;Continental Congress&quot;, but that it
+was a feeling, principle I would rather say, intuitive in the American bosom, and which shone forth with
+exceeding splendour, at numerous places in the country, without the aid of a <unclear reason="illegible" resp="bds">preconcent</unclear> - And our <unclear reason="illegible" resp="bds">enemies</unclear>, if any
+we have, will learn therefrom, the fact, that if <unclear reason="illegible" resp="bds">it is necessary</unclear>
+for the whole mass to be tainted, before the ship will be given up - That to be shorn of our locks, however much
+they may add to our beauty, is not sufficient, for that our strength is dispersed throughout, and extended to
+every member of the body politic - And that that strength is felt there - </p>
+            <p>Augt 2d Scott&apos;s late novel &quot;Redgauntlett&quot; was published here on Saturday last, - I have not read
+it - but if you can form an idea of the incidents of the work from the title, it is more than many others can - - I
+have said Scotts novel</p>
+            <pb n="3" facs="0012_000060_000355_0003.jpg" xml:id="d3e213"/>
+            <p>for I do not know why we should have any doubt about that matter, when there appears to be no doubt (or
+good information) among his immediate neighbours as to the circumstances - True Sir W. has survived some of the
+Waverly family, but this no doubt was only <unclear reason="illegible" resp="bds">move effectivally</unclear> to
+blind the puclick; besides, I am informed, however improper it may be, that this is not their first instance
+of the kind, that has occured in Edinburg, of an author reviewing his own production - So that fact is no longer
+of any value, as evidence of his not being the author - &quot;The actor of <unclear reason="illegible" resp="bds">Bailie Jarvis</unclear>, one of the characters in Rob Roy, recd. a present of <gap resp="Dyson-Smith"/> guineas
+in a note signed <unclear reason="illegible" resp="bds">Jed. Cleishbottom</unclear>, as a <unclear reason="illegible" resp="bds">mark</unclear>
+               <gap resp="Dyson-Smith"/> his approbation, and it is pretty well known that
+the note came from the <unclear reason="illegible" resp="bds">desk</unclear> of the <unclear reason="illegible" resp="bds">sipious</unclear>&quot;</p>
+            <p>
+               <unclear reason="illegible" resp="bds">Grisom&apos;s Year in Europe</unclear>
+            </p>
+            <p>To the author, be him who he may, my individual thanks are due, not only for the source of amusement his
+works have been to me, but they have had the effect of disgusting me with all other novel writers ancient or
+modern, with a few exceptions - This I consider quite a happy circumstance - There may be some of the
+&quot;blue stocking&quot; <unclear reason="illegible" resp="bds">familys</unclear> who would think me
+more happy were they given up in toto - Inform them, if you know any people who come under that description,
+that I would have no objection to try the experiment, provided they would, first, procure for me some other
+employment, to fill up the time, now devoted to that <unclear reason="illegible" resp="bds">species</unclear>
+of reading, that will be equally innocent and amusing - </p>
+            <p>Griscom&apos;s Year in Europe&quot; - A journal of a tour in Europe occupying the space of a year, by Professor
+Griscom, of New York, a member of the Society of Friends, published the latter part of last year, and which
+I have just read, I found to please me very much - I send you herewith a Sermon by the Revd. Mr. Duncan of
+this place - the title page will inform you on what occasion it was preached - I consider Mr. Duncan - the
+most powerful preacher of the Gospel I ever heard - And my <unclear reason="illegible" resp="bds">over</unclear>
+            </p>
+            <pb n="4" facs="0012_000060_000355_0004.jpg" xml:id="d3e258"/>
+            <p>opportunity of judging has not been very slight for I have been a pretty constant bearer of his, since
+1814 abating the time I was in thhe <unclear reason="illegible" resp="bds">west</unclear> - There <gap resp="Dyson-Smith"/>
+an unhappy controversy between Mr Duncan, and some of the members of his <unclear reason="illegible" resp="bds">sission</unclear> and congregation, going on for some time - It is thought that, Mr D. is
+too liberal in his opposition of the Gospel, and not paying sufficient deference to the <unclear reason="illegible" resp="bds">ascensions</unclear>, of some of the &quot;Fathers&quot; of the
+Presbyterian Church Such as Calvin - and the ministers who composed the famed Westminster Assembly
+&amp;c, Mr D&apos;s course differs somewhat from that of the generality of preaching <unclear reason="illegible" resp="bds">principally</unclear> in this subject - he takes any of the books
+of the N. Testament, and from the beginning goes on with his exposition until the book is gone
+through - <unclear reason="illegible" resp="bds">generall</unclear> establishing his view of the Subject
+from other portions of the Scriptures - always referring to the Bible, as authority, paramount to that
+of confissions or cruds, reason, experience, or the opinions of men, however profound they are, or may
+have been; thinking himself, aided by the Spirit of his office, as capable of a fair and just exposition
+as any of them - Is it not (do you judge), too commonly the case, that ministers of the Gospel, take up
+some of the doctrines found in the system of theology taught them at the Schools, and searching out
+passages of Scripture, through which a coincidence of doctrine is found to run, and taking up such
+passages as their texts, deducing from the whole, the very doctrines, found at the commencement of
+their course, and which is oftentimes the <unclear reason="illegible" resp="bds">caption</unclear>
+itsilf - you will be able to understand Mr Duncan much better from the perusel of his sermon, than
+from any description of mine - You see my paper is full, and the post <unclear reason="illegible" resp="bds">horn&apos;s</unclear> blowing, altho I break off leaving half that I have to say
+unsaid - </p>
+            <p>V.B.M.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

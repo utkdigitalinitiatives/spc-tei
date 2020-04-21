@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000215_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Laura Maynard</name>
+				                    in Knoxville, Tenn., to Washburn Maynard<date when="1864-01-19">1864 Jan. 19</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Laura Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000215_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Laura Maynard in Knoxville, Tenn., to Washburn Maynard1864 Jan. 19</title>
+          <date when="1864-01-19">1864 Jan. 19</date>
+          <author>
+            <name type="person">Laura Maynard</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.0415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000215_0001.jpg" xml:id="d4e39"/>
+        <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+        <p>Try and keep your reports going up - It delights me to know you are <unclear reason="illegible" resp="JCM">rifing</unclear> Gen. Carter asked me a few days ago what rank your report gave you in mathematics, Do your duty, &amp; may God love &amp; bless you. Your Mother, most affec'ly.</p>
+        <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+        <p>Knoxville. Jan. 19th. 1864</p>
+        <p>My dearest Washburn,</p>
+        <p>Three letters from you, have at last arrived here - the last, dated Dec 23. I am truly delighted that you are so well situated &amp; progressing so well. <unclear reason="illegible" resp="JCM">Willie,</unclear> Jimmy &amp; yourself may be thankful that you are not in Tenn. with the balance of us. there is no quiet or peace for us here. There has been a continual succession of skirmishes &amp; rebel threats ever since I returned - just now we are experiencing another scare - Our Cavalry is riding hither &amp; you, &amp; regiments of infantry are about town &amp; rumor says Longstreet is about making a desperate attempt to retake the town whereas I believe he is making an effort to join Bragg, or get out of the state through N. Carolina. There was a rumor this morning, that James Brownlow &amp;a large number of his men</p>
+        <pb n="2" facs="0012_001519_000215_0002.jpg" xml:id="d4e59"/>
+        <p>had been captured. It had not been confirmed, &amp; is <unclear reason="illegible" resp="JCM">doubtedly,</unclear> unfounded. I was getting a little solicitous about Edward's safety. I hear his Brigade has moved in this direction, again, as far as Flat Creek, &amp; that the 6th Reg't is to come here, to do City duty, the remainder of the winter. These military changes are so <unclear reason="illegible" resp="JCM">pid</unclear> I can hardley follow them. Edward with me a week ago, from Buffalo Creek, &amp; spoke of a change in his quarters.</p>
+        <p>Wednesday night - 20th. I had a visit this morning from Tom. He came down with the wagon train of Spears' Brigade, from Flat Creek - they could get nothing for their hourses, up there - they had not been fed in five days. He thinks Edward may be down at anytime. Tom looks in fine health. Ben is waiting upon a <unclear reason="illegible" resp="JCM">Liut</unclear> Ricks, of the 104th Ohio reg't, until we need him at home. I hear but seldom from your father - indeed letters are a long time in coming, from any quarter. I hope he will be home soon.</p>
+        <pb n="3" facs="0012_001519_000215_0003.jpg" xml:id="d4e74"/>
+        <p>You ask how various persons, here received me. Mrs. Alexander called to see me about two weeks after I came - &amp; I have seen no other members of the family. I have not even had a glimpse of Mat on the street. None of the M'Clung's have been to see me, except Mrs. <unclear reason="illegible" resp="JCM">Margaret</unclear> Not a Ramsey have I seen - nor a <unclear reason="illegible" resp="JCM">Hain-</unclear> nor a M'Kinney - nor a Martin - The Cowans, Smileys, Richardsons, Boyds, Baxters, Temples, Whites from Tape Hill, Mrs. Baines, the Craigs, Paxtons, Morrows, &amp; some others, have shown themselves friendly. But of course there is very little visiting at present.  The principal thing with all, is, something to eat. During the siege, our entire army was fed, in town, &amp; twelve thousand were &amp; a great number of hourses can consume a vast quantity of matter in twenty days. Then Longstreet's Army scoured the country, far &amp; near, to feed themselves. Mr. Wil Coughty &amp; John fled to Ky the first day &amp; Mr. W. returned home when the rebels</p>
+        <pb n="4" facs="0012_001519_000215_0004.jpg" xml:id="d4e84"/>
+        <p>left. James &amp; John both enlisted in the 14th Ky Cavalry, for one year. Prof. Strong is an agent for the Sanitary Commision here. He is now North on <unclear reason="illegible" resp="JCM">business</unclear> connected with his agency. Gen. Fosthe, who commanded here, now, is giving some very rigid orders concerning the Rebels, &amp; they have ocasioned a great simmer among them. Our order is that no person came buy dry goods, or rather imported goods, without a certificate of loyalty - consequently, a large number of men &amp; women have taken the Oath of Allegiance in order to get the certificate to enable them to make purchases. Friday morning, dear Washburn, &amp; nothing <unclear reason="illegible" resp="JCM">up</unclear> than an <unclear reason="illegible" resp="JCM">interuption</unclear> by Edward's arrival <unclear reason="illegible" resp="JCM">prevented</unclear> my finishing your letter last night. He came in, very unexpectedly, Edward like at half past eight o'clock accompanied by his clerk Lieut Harris &amp; spent the night. He left at day light, to go back to his Reg't at <unclear reason="illegible" resp="JCM">Lovis</unclear> a few miles above town. He is looking very will &amp; in tolerably good spirits. he says it has been a very long time since he had a letter from you. Write him a good one soon telling him of your last Summer's experiences &amp; all else that will interest him &amp; direct to Knoxville, to follow the 6th E.T. Reg't &amp; he will get it. I am glad you visit our friends in Newport - give my <unclear reason="illegible" resp="JCM">Rivoir</unclear> regards to Mr. &amp; Mrs. Noble &amp; also a remembrance to the Sheffields. Ann Mary sends a good deal of love - she has wonderful dreams about her brothers. I have just had her picture taken at mr. Smiley's it is very good. The servants all send respects - Tom is still in town.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000222_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Request,
+					<name>John L. Bowne</name>
+				                   in New York, N.Y., to Morton Wilson of Philadelphia, Pa., <date when="1808-03-01"> 1808 Mar. 1</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John L. Bowne</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000222_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Request, John L. Bowne in New York, N.Y., to Morton Wilson of Philadelphia, Pa., 1808 Mar. 1</title>
+               <date when="1808-03-01"> 1808 Mar. 1</date>
+               <author>
+                  <name type="person">John L. Bowne</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000222_0001.jpg" xml:id="d4e39"/>
+            <p>Morton Wilson</p>
+            <p>March 1</p>
+            <p>Philadelphia</p>
+            <p>John L Bowne</p>
+            <p>
+               <unclear reason="illegible" resp="pw">Ma</unclear>1 _  1807</p>
+            <p>Reced___</p>
+            <p>Answd___</p>
+            <pb n="2" facs="0012_002414_000222_0002.jpg" xml:id="d4e57"/>
+            <p>Morton Wilson</p>
+            <p>NYork 1 Mar 1st, 1808</p>
+            <p>
+               <unclear reason="illegible" resp="pw">Elseenud<unclear reason="illegible" resp="pw">Fning</unclear>
+               </unclear>
+            </p>
+            <p>Will you do me the favour to make known to the N. A. Insurance Comp. that 10,000 Dols are insured on the Premium 
+				   Mills at the Office of the Phoenix Insurance of N. York? __ The policy of the London Phoenix Co. having expired.</p>
+            <p>
+               <unclear reason="illegible" resp="pw">illegible</unclear>
+               <unclear reason="illegible" resp="pw">pric</unclear>for
+				  <unclear reason="illegible" resp="pw">Tlmn</unclear>.</p>
+            <p>Your <unclear reason="illegible" resp="pw">asund<unclear reason="illegible" resp="pw">Fnind</unclear>
+               </unclear>
+            </p>
+            <p>J L Bowne</p>
+            <p>Noted on the Books of the Insurance Co. of N.A. on the 4th of Jany. 1808 __</p>
+         </div>
+      </body>
+   </text>
+</TEI>

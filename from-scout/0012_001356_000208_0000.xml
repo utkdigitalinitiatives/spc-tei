@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000208_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Alfred Smith</name> in <name type="place">Nashville, Tenn.</name>, to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+               <date when="1865-04-29">1865 April 29</date>
+            </title>
+            <author>
+               <name>Smith, Alfred</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000208_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Alfred Smith</name> in <name type="place">Nashville, Tenn.</name>, to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, 
+                  <date when="1865-04-29">1865 April 29</date>
+               </title>
+               <date when="1865-04-29">1865 April 29</date>
+               <author>
+                  <name>Smith, Alfred</name>
+               </author>
+               <extent>2 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"> 
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-16" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank 
+            pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e209">
+            <pb facs="0012_001356_000208_0001.jpg" n="1" xml:id="d2e211"/>
+            
+            <head>"The U. S. CHRISTIAN COMMISSION sends this sheet as a messenger between the soldier and his home. Let it hasten to those who wait for tidings."</head>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Nashville Tenn.</name> 
+                  <date when="1865-04-29">April 29</date>
+               </dateline>
+            </opener>
+            
+            <p>dear Mother I received your kind letter yesterday which gave me great pleasure to here that you are all in good health as leaves me at present thank god for I rote two letters to you and one to my brother  I am getting along first rate here in the mess house  I have been here two months I have not herd a word from father only what you said in your letter  there was a great turn out here the 19th of this month for the Presidents <choice><orig>funirel</orig><corr resp="nl">funeral</corr></choice> there was the largest <choice><orig>prosession</orig><corr resp="nl">procession</corr></choice> ever was seen in
+               
+            <pb facs="0012_001356_000208_0002.jpg" n="2" xml:id="d2e242"/>
+            Nashvill  all the firemen and <choice><orig>gorenment</orig><corr resp="nl">government</corr></choice> employes turned out in a body it was about 5 miles long  Mr Curtis leaves here for Binghamton on Monday the first of may  Hinsdile has a had time of it here he is going home Just as Soon as he can get  we do not expect to get fard till June  I want you to Send me word how <unclear reason="illegible" resp="PW">lenseness</unclear> is and if Austin is to work for george howe give way Austin and Henry give my respects to all the neighbours and bonys except the same yourself from your</p>
+            <p>affectionate Son</p>
+            
+            <p>
+               <address>
+                  <addrLine>Box 487</addrLine>
+               </address>
+            </p>
+            
+            <signed>Albert Smith</signed>
+         </div>
+      </body>
+   </text>
+</TEI>

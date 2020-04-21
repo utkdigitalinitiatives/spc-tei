@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001564_000207_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Robert A. Ragan</name> near <name type="place">Bulls Gap, Tennessee</name>, to Emeline Ragan, 
+               <date when="1864-04-11">1864 April 11</date>
+            </title>
+            <author>
+               <name>Ragan, Robert A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_001564_000207_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Robert A. Ragan</name> near <name type="place">Bulls Gap, Tennessee</name>, to Emeline Ragan, 
+                  <date when="1864-04-11">1864 April 11</date>
+               </title>
+               <author>
+                  <name>Ragan, Robert A.</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Robert A. Ragan Letters</note>
+               <note type="manuscript">MS.0743</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Religious aspects.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e171">
+            <pb facs="0012_001564_000207_0001.jpg" n="1" xml:id="d2e173"/>
+            <opener>
+               <dateline>Camp Near 
+                  <name type="place">Bulls Gap</name> 
+                  <date when="1864-04-11">April the 11th 1864</date>
+               </dateline>
+               <salute>Dear Wife</salute>
+            </opener>
+            
+            <p>I Seat My Self to Night under the Wings of my little Tent to try to write You a few Lins. &amp; to Let You Know that I had got to my Command Safe. I was very oneasy that day.  I left home but after I got to <name type="place">Parrotsville</name> I found out It was false.  We came on from Parrotsville to Grand Fathers. I had to leave my mare at Joel Easterley the river was up So I Could not get her across.  I left her there and If the Boys gets to come home before Long I will will Send her home there is Some that havent bin home yet I think they will get to Come.  We Stayed all Night at Grand Fathers  the Creek was up So we could not cross that Night  Dan brought me Nearly all the way to Camp on a horse the Next Day.</p>
+            <p>We havent got very many forces here at this place but they Say there is forces coming up the Country but I would rather See them than to here tell of them. They are not repareing this Bridges at this time but I think they will begin on Tomorrough.  From what I have Learned Sence I have bin in Camps there is a Tremendious fight pending at <name type="place">Dalton <choice><orig>Georgy</orig><corr resp="pw">Georgia</corr></choice></name> &amp; at <name type="place">Richmond</name> I have Studyed a great eal &amp; thought is It posible that we belong to the department</p>
+            
+            <pb facs="0012_001564_000207_0002.jpg" n="2" xml:id="d2e210"/>
+            <p>Where there was to be no fighting.  I hop it is So thought we have bin in a great eal of Danger but we have bin fortunate to escape  We have bin taking Depositions of men to day again the white dog  I think he will go to the Penitetiory.  I think It will be a long time before he gets back to <name type="place">Parrotsville</name> again.  Jacob Ottinger Swore that he Shot at him &amp; Marten Eisonburg that will Send him off If No other evidence had bin given.  We are going to have all them Scoundrels in that Country .  We come by <unclear reason="illegible" resp="PW">Rrum</unclear>Fields to talk him but he was in the bed Sick and we had to leave him.  I told Craford how he had treated the Old Man &amp; Said God Dam him Kill him the next time I Saw him.  I think he will be in Side of our Lins and If he does come I pitty him.</p>
+            <p>John Winters is going to Start this Morning home I think I can get him to bring my more home  tell Your Father to go down and get that Mule &amp; take It home he can get Wiley Chapmans mare to ride.  I dont think we will fall back from this place  though I cant tell Em</p>
+            <p>You most write to me ever chance you can get  I Will Send you Some paper in that book Alexander Sends to Narsiry &amp; Some Invelops.  I Will Send You Some Coffee &amp; Sugar by John Winters and I Will Send you things as I can get the Chance  I</p>
+            
+            <pb facs="0012_001564_000207_0003.jpg" n="3" xml:id="d2e228"/>
+            <p>dont Know When I will get to come home  Reaves has a Spite at me and Alex. and I dont no what far.  I hop this ware wont Last Long and then we will all be free Alexander went to Reaves to get to come home he Said that his brother had bin at home and he Could not go.  Alexander is made a vouh to Shoot him.</p>
+            <p>I have Studyed more about home Sence I have bin back.  I thought I had Studyed about home befour but It is Just as bad again  You must Kiss the baby for me four or five times a day  I wish I was with you all this morning in peace, So we could enjoy our Selves together once more for my life is a unhappy one but I am In hops times Will Change be for Long</p>
+            <p>give my Respect to all the family &amp; Inquiring friends  Smith Etherton Died at <name type="place">Knoxville</name> the Other day he belonged to my Company he left a Mother &amp; father to Mourn the loss of a Son but thousands have to meat with the Same faid  Alex Sends his Respect to all.  Write to me Soon as you can</p>
+            <p>I See this morning they have commenced working on the bridge.  I rote part of this letter yeasterday  I Will have to bring my few Lins to a Close You must write to me as often as you can and I will do the Same Your Affectionate husband<lb/> R A Ragan</p>
+            
+            <pb facs="0012_001564_000207_0004.jpg" n="4" xml:id="d2e248"/>
+            <p>I will Send You Some of the New <unclear reason="illegible" resp="PW">shew</unclear>and A little Book</p>
+         </div>
+      </body>
+   </text>
+</TEI>

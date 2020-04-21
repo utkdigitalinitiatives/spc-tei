@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000213_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    in Memphis to his wife, Elizabeth <date when="1869-07-16"> July 16 1869</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000213_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson in Memphis to his wife, Elizabeth July 16 1869</title>
+               <date when="1869-07-16"> July 16 1869</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>1 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000213_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis July 16th 1869</p>
+            <p> Dear Elizabeth</p>
+            <p>I go down to the plantation this evening, and it will depend on the state of affairs there how long I will stay.</p>
+            <p>I rode out to our place here this morning, and gave notice that we wanted the premises as soon as they could be vacated. Miss Moon said that they were looking for other quarters, but would be glad to remain until octr. The administrator Mr Galbreath is not yet prepared to settle her accounts. </p>
+            <p>Eliza is desirous of going with you to the plantation. She says that Sylvia is on her hands and will die from starvation if not relieved.</p>
+            <p>If <unclear reason="illegible" resp="EMS">Elleck</unclear> gets his money tell him to let Marten have the <unclear reason="illegible" resp="EMS">rise</unclear> of it in <unclear reason="illegible" resp="EMS">settling</unclear> with the hands. I will replace it in a week or so.  Memphis is the hottest place in the world. The convention  here for encouraging the importation of Chinese laborers <unclear reason="illegible" resp="EMS">adjourned yesterday.</unclear>
+            </p>
+            <p>when you or any of the children write to me let the letter come to the care of Boyd J Marten Memphis. They will forward to me at the plantation.</p>
+            <p>With prayers for your health &amp; happiness</p>
+            <p>remain Yrs aff </p>
+            <p>AJ Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

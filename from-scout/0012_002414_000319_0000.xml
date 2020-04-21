@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000319_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Vaughan</name>
+				                    to the President &amp; Directors of the Insurance Co. of America., <date when="1799-04-04">1799 Apr. 4</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John Vaughan</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000319_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Vaughan to the President &amp; Directors of the Insurance Co. of America., 1799 Apr. 4</title>
+               <date when="1799-04-04">1799 Apr. 4</date>
+               <author>
+                  <name type="person">John Vaughan</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000319_0001.jpg" xml:id="d4e39"/>
+            <p>To the President &amp;Directors</p>
+            <p>of The Insurance Compy</p>
+            <p>of N. America</p>
+            <p>April 4   1799</p>
+            <p>Jn Vaughan</p>
+            <p>to</p>
+            <p>Presidt &amp;Directs Ins Compy NA</p>
+            <p>to exchange notes <unclear reason="illegible" resp="pw">illegible</unclear>
+            </p>
+            <p>which was agreed to &amp;done</p>
+            <pb n="2" facs="0012_002414_000319_0002.jpg" xml:id="d4e61"/>
+            <p>April 4. 1799</p>
+            <p>To the President &amp;Directors</p>
+            <p>of Insurance Cy. N. Ama</p>
+            <p>Gentn.</p>
+            <p>In Sepr: 1790 I had Insurance made in your office on Francis &amp;Mary from Canton for Mr Charles Vaughan  &amp;not being in a
+				       situation to give my own notes, for the premium of 4500 D. I prevailed upon M Vernbeusen to give his &amp;M Fitzsimmons to endorse
+				       them, upon my Brothers assurances that M Lenox would, out of the Sale of a Vessel provide for 3000. D. &amp;that the ballance would
+				       be guarantied by M Apthorp, under these assurances, which I urged they might Confide in, they took up the Policies for me __ An Attachmt.
+				       in My <unclear reason="illegible" resp="pw">illegible</unclear>or some misunderstanding since with M Lenon, has prevented anything
+				       from that quarter coming forward_  An unfortunate Attachment at Boston on The Ship in the Harbor before arrival in Port, has for some 
+				       time locked up the funds there, &amp;although the premium is ultimately Secure, yet I have not been able to get one Dollar towards is
+				       from my Brother _  I confess Gentlemen I feel myself much distressed, that any accident should have arisen to Cause disappointmt to 
+				       you, or throw the <unclear reason="illegible" resp="pw">Burthen</unclear>, upon those friends who Stepd. forward to serve me, when
+				       that Burthen would be highly injurious, - Under all circumstances, permit me to offer the following arrangement.  The notes of T. Smith &amp;
+				       Buchanan, John Donnel, John Hollins, John Smith Jr. Samuel Smith _ all jointly to Geo. Stiles Payable at         Dolls.     United States Bank for
+				       2300 D. due 10 Sepr.  1696.42.  in Decr. 3996:42 Ballance with the Interest in Cash _  The Transaction has been entirely my own, &amp;
+				       the Insurance Policies could never have been taken up but on my assurances, which have unfortunately proved fallacious _  The Vessel is 
+				       arrived Safe, &amp;your premium will in this way be well Secured.  Your obt. Servt.</p>
+            <p>Jn Vaughan</p>
+            <p>agreed to</p>
+         </div>
+      </body>
+   </text>
+</TEI>

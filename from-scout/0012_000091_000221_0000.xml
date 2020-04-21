@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000221_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anna Jones</name>
+ in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.<date when="1865-06-07">1865 June 7</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000221_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 June 07</title>
+               <date>1865-06-07</date>
+               <author>
+                  <name>Jones, Anna M.</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1865, June 7 Anna M. Jones in Allegheny City, Pa., to her husband David L. Jones in Nashville, Tenn. Greets him and discusses the status of their children. Speculates as to when he should be coming home. Discusses whose fault it might be for him not getting his bounty. Hopes he will be home before long but not to worry about them financially. Speculates as to what work might be most profitable for either one of them when he returns. Assures him that they do not want for anything, but she would prefer being busier and thus contributing more financially.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- United States -- Correspondence.</term>
+               <term>Army spouses -- Pennsylvania -- Allegheny City -- History -- 19th century -- Correspondence.</term>
+               <term>Family life -- Pennsylvania -- Allegheny City -- History -- 19th century -- Personal narratives. </term>
+               <term>Pennsylvania -- History -- 19th century.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000091_000221_0001.jpg" xml:id="d3e157"/>
+            <p>Allegheny City June 7th 1865</p>
+            <p>My Dear Husband</p>
+            <p>I received two letters from you yesterday you mentioned two of my letters that I had written one on the 29th I wrote one the 28 it was <unclear reason="illegible" resp="NW">Labath </unclear> day did you get it I have just written to <unclear reason="illegible" resp="NW">Jimie</unclear> and his Aunt I got one from him this week but he did not make such a pitifull complaint about home in it as he did in yours but I wrote to his Aunt to send him home if he is in such a bad way for it is an awfull feeling to have and I would not torture him in such a way I think you will get home before fall for <unclear reason="illegible" resp="NW">Teseas </unclear> as a state has surrendered to the Government and I think that once the regular army has its quota filled that you will be discharged Mr Campble was at the door last night he brought hom a coppy of the voucher <unclear reason="illegible" resp="NW">thinking </unclear> to get Johns money for him and I think he said he went to Cameron and he told him htat it was the Officers fault that you men could not get your bounty that it was their neglect at Harrisburg <unclear reason="illegible" resp="NW">Bit</unclear> was the company oficers he meant but that it could not now be helpful so II would not say</p>
+            <p>Campbes got a letter from John yesterday dont tell him what I tell you maybe he wont like it</p>
+            <pb n="2" facs="0012_000091_000221_0002.jpg" xml:id="d3e186"/>
+            <p>anything about it to make hard feelings until you get home which I hope will be before long I have some money yet Mr Aplin came back from Franklin yesterday and he paid me all he owed me I wish that you could get to some place like that it would bring something more than defict work he said that he could get 200. a month plastering and if we could get down near Parkersburgh another Oil region you could do so well here you can do no more than make a living and hard work that I think it would be better for us to try some of these places and sell out here I expect you will begin to think my mind has taken a buisness turn but I think of how hard you work and me too for just what keeps us I know that we could do better if we had moral courage to try depending upon God for help I have some serious thoughts about getting a sewing machine I could soon pray for it by <unclear reason="illegible" resp="NW">its use</unclear> I have no boarders and I think I would rather have the machine than men I would not have too work so hard I must try something, my purse wont hold out unless I do I dont want you to think we are in want for that is not the case and you know that I have what will bring money if I need it badly but I feel as though it wont do to sit still and eat and not try to do something </p>
+         </div>
+      </body>
+   </text>
+</TEI>

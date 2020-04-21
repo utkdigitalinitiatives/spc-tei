@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000225_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Caroline M. Brown,<date when="1862-02-23">1862 Feb. 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000225_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown,1862 Feb. 23</title>
+          <date when="1862-02-23">1862 Feb. 23</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000225_0001.jpg" xml:id="d4e39"/>
+        <p>February 23th 1862</p>
+        <p>Dear wife I take this time to in form you that I am well at this time all but a But a bad cold I have had three spells of coffin the 3 last nights I do cincearly wish that these few lines will Find you injoying the same blessing I received your kind letter and was glad to hear from you and here that you wore well at that time and the rest of the family I feel truly glad that you were doingn so well and kept your health so well I was verry glad to hear that your feed held out so well as it does I was glad to hear that the boys helpt you so well I do hope they</p>
+        <pb n="2" facs="0012_000599_000225_0002.jpg" xml:id="d4e45"/>
+        <p>will still continue to help you Now i will tell you whare we are campt at this time we are campt Near Bards Town by 29 miles below Lebannon 39 miles from Louis ville and about the distance from mumfordsvill the place we are now is a verry Nice Country some verry good Houses through here and slaves plenty as for whare we will go from here we do not know and we do not care much some of the as well as myself thinks if they ware foot <unclear reason="illegible" resp="LW">loos</unclear> They would stay so the cause is good anough but it is the way things are caried on in this war by the officers especely in this regment</p>
+        <pb n="3" facs="0012_000599_000225_0003.jpg" xml:id="d4e52"/>
+        <p>This is the 6th letter i have wrote to you since i got back to camp and only one from I want you write once a week As long i remain in the service and i will try to send ONe every week to you uif i can raise the stamps and paper we have got good From others places they say they have Buckner and all his supplise and 50 peices of cannon we here a grate deal of news here we do not know whether it is tru or not the last letter i rote i put you A good pipe stem in it for you to put in your pipe and smoke once every day untill get back if so lucky as to return so good</p>
+        <pb n="4" facs="0012_000599_000225_0004.jpg" xml:id="d4e56"/>
+        <p>By i want you to direct you letters to Bards town <unclear reason="illegible" resp="LW">Was</unclear> Nelson Co Ky</p>
+        <p>No more at present But still remain your tru husband untill Death</p>
+        <p>Henry Brown</p>
+        <p>Now i have to quit and Clean my gun for drill Now boys be good to your mother i was verry glad that Isaiah thought anough of me to say a few words to me by letter now Georg i would lik to see you And have a chat with you Good by Boys write soon</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

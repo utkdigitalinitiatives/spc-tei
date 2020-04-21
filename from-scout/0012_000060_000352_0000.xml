@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000352_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Abigail B. Caldwell</name> in Mecklenburg, Tenn., to Peggy
+A. Ramsey, in Knoxville, Tenn. <date when="1799-09-18">1799 September 18</date>
+            </title>
+            <author>
+               <name type="person">Caldwell, Abigail B. (Abigail Bane), d. 1812</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000352_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter,  Abigail B. Caldwell in Mecklenburg, Tenn., to Peggy A. Ramsey in Knoxville, Tenn. 1799 Sept. 18</title>
+               <date>1799-09-18</date>
+               <author>
+                  <name>Caldwell, Abigail B. (Abigail Bane), d. 1812</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1799 Sept. 18, Abigail B. Caldwell, Mecklenburg, Tenn. to her sister, Peggy A. Ramsey, Knoxville, Tenn. Invites her sister to spend the winter with them, and expresses her concern for her sister&apos;s health and well-being.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family life -- Tennessee, East -- History -- 19th century.</term>
+               <term>Well-being -- Tennessee, East -- History -- 19th century.</term>
+               <term>Tennessee, East -- History -- 19th century.</term>
+               <term>Caldwell, Abigail B. (Abigail Bane), d. 1812 -- Correspondence.</term>
+               <term>Ramsey, Peggy A. (Peggy Alexander), 1766-1805 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000352_0001.jpg" xml:id="d3e152"/>
+            <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+            <p>Our son grows very fast and takes a great deal of nursing - <unclear reason="illegible" resp="bds">Jimsey</unclear>
+is climbing up my chair and says - Send <unclear reason="illegible" resp="bds">Jimseys</unclear> love to
+Auntey Peggy</p>
+            <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+            <p>Mrs. Peggy A. Ramsey</p>
+            <p>Near Knox-Ville</p>
+            <p>By Mr. Mitchel</p>
+            <p>Sepr. 18th 99</p>
+            <pb n="2" facs="0012_000060_000352_0002.jpg" xml:id="d3e178"/>
+            <p>Mecklenberg September 18th 1799</p>
+            <p>My dear Sister,</p>
+            <p>I wrote a letter some time ago to you, but missed the oppotunity of sending it, I will send it along now. There
+was an opportunity of writing by Esquire Harris, but we were over the river on visit to our relations, about that time
+and missed it also - It is a long time since I have received a word or a line from you, My dear Sister would it be
+to much, to expect to see you here this winter we all earnestly desire it and I think sincerely you aught to come
+for your own sake, and the sake of your family. What is property, convenience, or life itself without health and
+happiness, Brother Billy wants very much to go and see you</p>
+            <pb n="3" facs="0012_000060_000352_0003.jpg" xml:id="d3e190"/>
+            <p>and would go if he could get a man to take the charge of the farm, but he has been trying and cannot get
+any - Dady has had publick business to do that has confined him at home all summer and is oblidged to be at Salisbury
+Court this month - I hope you will not wait to see any of your relations, but fix up and start immediately, before
+the cold weather sets in, and stay all winter with us and I hope you will return home in the Spring healthy and
+vigorous as you used to be, both in body and mind, and then I am sure you will do more good for yourself, your
+family, and the world in one year than you can do at present in half a dozzen - Do pray my dear Brother and</p>
+            <pb n="4" facs="0012_000060_000352_0004.jpg" xml:id="d3e198"/>
+            <p>Sister think seriously of these things and do what appears to be your duty - Mr. Wallis was taken sick about
+two weeks ago down at Providence he is removed up to his fathers sister and the children are there now the last
+account Mr. Wallis was getting better - It is very healthy at present in this neighbourhood though in some
+parts of this country it is very sickly - Mr. Caldwell is at a singing school this day I suppose he will write this
+nights to you - I will conclude with repeating my desire that you would seriously think of spending the winter
+in this country I remain your affectionate</p>
+            <p>Sister</p>
+            <p>Abigail B. Caldwell</p>
+            <p>To Mr. and Mrs. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

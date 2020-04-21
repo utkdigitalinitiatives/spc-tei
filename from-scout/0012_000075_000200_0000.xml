@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000075_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+William A. Huddard
+</name>
+in Knoxville, Tenn., to his father in Ohio,
+<date when="1863-12-13">
+1863 December 13
+</date>
+            </title>
+            <author>
+               <name type="person">Huddard, William A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000075_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William A. Huddard in Knoxville, Tenn. to his father in Ohio, 1863 December 13</title>
+               <date>1863-12-13</date>
+               <author>
+                  <name>Huddard, William A.</name>
+               </author>
+               <extent>3  digital images;  3 pages</extent>
+               <note type="abstract">In this letter, dated December 13, 1863, William A. Huddard in Knoxville, Tenn., writes to his father in Ohio, discussing their march from Chattanooga to Knoxville. He also describes Knoxville as being &quot;at one time a splendid place, but now it is pretty well run down.&quot; In addition, he informs his father of the pro-Union disposition of many of the East Tennesseeans: &quot;In some counties we passed through you could not find a single rebel; all were for the Union.&quot;</note>
+               <note type="collection">The William A. Huddard Papers, 1863</note>
+               <note type="manuscript">MS.2119</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Food conservation -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Huddard, William A. -- Correspondence.</term>
+               <term>United States. Army. Ohio Infantry Regiment, 1st (1861-1864). Company D. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000075_000200_0001.jpg" xml:id="d3e155"/>
+            <p>Camp Near Knoxville Dec 13th 1863</p>
+            <p>Dear Father</p>
+            <p>To day for the first time since leaving Chattanooga I find time to write you a few lines. We are now under marching orders and may move at any moment. I suppose we will return to Chattanooga at least that is the talk in camp. Since my last we have seen some pretty hard marching and at one time expected to see some hard fighting but as yet we have not.</p>
+            <p>On the afternoon of the 28th we received marching orders for Knoxville. After nine days of hard marching we went into camp two miles this side of the place, just one day to late, for the game we were after had lit out the day before. Nothing of importance happened us on the march. In the nine days we drew but three days</p>
+            <pb n="2" facs="0012_000075_000200_0002.jpg" xml:id="d3e169"/>
+            <p>rations. for the rest, we were obliged to live on the country. I have always heard of East Tennessee as being a rich country and so it is, for I have never lived better than did I on this march, In some counties we passed though you could not find a single Rebel, all were for the Union. The women would show their interest in the cause by baking our flour, and brining us food of all kinds. Within the last month or so three regiments of Tennessee troops have been recruited in, and around Knoxville and a fourth regiment the (Ninth Tennessee) is now nearly full. I have visited Knoxville and must say that it is one of the strongest positions I have ever seen. The town too, has been at one time a splendid place but now it is pretty well run down. Many of the houses have been burned down and Breast Works have been thrown up along many of the principal streets. I suppose you are better acquainted with the condition, and affairs of the country than we are here, for it has been nearly</p>
+            <pb n="3" facs="0012_000075_000200_0003.jpg" xml:id="d3e177"/>
+            <p>three weeks since we have seen a paper of any discription. Even here it is hard to learn the whereabouts of Longstreet; One of the 103 Ohio was heare to day. They have been with Burnsides Advance. He reports Longstreet&apos;s forces as nearly all captured, what is left of them are now at Strawberry Plains doing ther best to get into Virginia. From Bragg&apos;s army I have not heard a thing, since leaving Chattanooga. I have heard nothing of our wounded, but I suppose Witherup has received a Furlough for I hear that all that were able to ride have been sent North. The health of the Army was never better all are in fine spirits, But I will have to close, we will probably start for Chattanooga tomorrow. direct your letters to that place. Write often Yours Affectionately</p>
+            <p>Will</p>
+         </div>
+      </body>
+   </text>
+</TEI>

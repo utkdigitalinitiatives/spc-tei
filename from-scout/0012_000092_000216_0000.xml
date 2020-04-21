@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000216_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Atlanta, Ga., to William, <date when="1864-09-02">1864 August 2</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1965</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000216_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Atlanta, Ga. to William, 1864, August 23</title>
+               <date>1864-08-23</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1965</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1864 August 23 Southgate Cregmile in Atlanta, Ga., to his friend William. Acknowledges his letter and shares how unsure he was of his condition at first, while mentioning several others who have either been injured or killed. Assures him that presently all the hometown boys in his company are well, but later gives him a list of the hometown boys killed thus far in the siege. Intense and continous, the siege has resulted in many deaths, partly because most of them were so drunk on alcohol. Hope to soon remove every Rebel from Atlanta. Gen. Sherman gave orders for certain of his men to bury the dead; but, many were so drunk on the abundance of Rebel alcohol, the task went unfinished. Two regiments are heading home now, but the 69th Ohio is detached to the 3rd Brigade. Hopes to hear from him again soon and get his pay for him. </note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military personnel -- Georgia -- Atlanta -- 1860-1870.</term>
+               <term>Atlanta Campaign, 1864 -- Social aspects.</term>
+               <term>War casualties -- United States -- History -- 19th century.</term>
+               <term>Atlanta (Ga.) -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Sherman, William T. (William Tecumseh), 1820-1891 -- Military leadership.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Campaigns.</term>
+               <term>Campaigns &amp; battles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000092_000216_0001.jpg" xml:id="d3e159"/>
+            <p>In front of Atlanta</p>
+            <p>Ga</p>
+            <p>August 2<unclear reason="illegible" resp="NW">o</unclear>nd <unclear reason="illegible" resp="NW">n</unclear> 64</p>
+            <p>Friend William</p>
+            <p>I received your most welcolm and kind letter last evening and was pleased to hear that you wound was a getting well. I know you had an awful sevear wound and in a bad place.. we had heard that you were dead but I know better now..Conrad <unclear reason="illegible" resp="NW">Ault</unclear> died with his wound.. Sergent Hill and Carr were both wounded in the right arme. ..All the Boys in our company are well <unclear reason="illegible" resp="NW">fat</unclear> and hearty we draw full rashions of every thing ever sence we started on this campain and whiskey <unclear reason="illegible" resp="NW">throught</unclear> in well Bill we havend got Atlanta </p>
+            <pb n="2" facs="0012_000092_000216_0002.jpg" xml:id="d3e190"/>
+            <p>yet but we intend to have it and every thing that is in it and there army to boot. ..our men have commenced the seage and through a shell in to the city every five minuets day and night so you know that havend much peace in town... thay charged our works all a longe the line but thay coulde not come through. also we killed nearly half of there army be fore thay would stop but thay were so drunk that thay didend no what thay were at. .. Sherman sent a Division out of every corps to burie the dead but your Boys got so drunk on the rebs whiskey that thay <unclear reason="illegible" resp="NW">diderd</unclear> burey eveary rleble some rebles had as high a ten canteens on a carring whiskey to the front</p>
+            <pb n="3" facs="0012_000092_000216_0003.jpg" xml:id="d3e201"/>
+            <p>.. well Bill I will try and get that money a pay day and do as you sed for me to do with it</p>
+            <p>..well Bill I will give you the names of the Boys that has <gap resp="Williams"/> killed on this campain from Reily. they are as follows.</p>
+            <p>David Rees</p>
+            <p>John Bresler</p>
+            <p>David Bresler</p>
+            <p>Conrad Hult</p>
+            <p>Jeff <unclear reason="illegible" resp="NW">Rolls</unclear>
+            </p>
+            <p>..the <unclear reason="illegible" resp="NW">95th </unclear> Ohio and <unclear reason="illegible" resp="NW">97th </unclear> Ind started afor home this morning</p>
+            <p>.. the 69th is detached to the 3rd Brigade</p>
+            <pb n="4" facs="0012_000092_000216_0004.jpg" xml:id="d3e236"/>
+            <p>Well Will I will bring my scribbling to a close by requesting you to rite soon and let me know how you are a gitting a longe with your wound</p>
+            <p>I remane your most obedient Servent Southgate Cregmile</p>
+            <p>Co. E. 69 O. <unclear reason="illegible" resp="NW">Y.</unclear> V. J</p>
+            <p>2ond Brigade</p>
+            <p>1st Division</p>
+            <p>74th A Co</p>
+            <p>Atlanta</p>
+            <p>Ga</p>
+            <p>Rite soon</p>
+            <p>
+               <gap resp="Williams"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+
+<TEI.2 id="0012_000298_000217_0000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Letter,
+					<name>Horace Maynard</name>
+				                    in Knoxville, Tenn., to his F. S. Heiskell in Nashville, Tenn., <date value="1848-01-28">1848 Jan. 28</date>
+				</title>
+							<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Mincey, Jennifer</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+							<date>2008-05-27</date>
+				<idno type="SPCID">0012_000357_000200_0000</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+										<extent>4 pages</extent>
+					<note type="collection">F. S. Heiskell Letters</note>
+					<note type="manuscript">MS 0751</note>
+					<note type="box">1</note>
+					<note type="folder">1</note>
+					<note type="document">0012_000357_000200_0000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+					</teiHeader>
+	<text>
+		<body>
+			<div1>
+				<pb ref="0012_000357_000200_0001" seq="01"/>
+				<p>Federich S. Heiskell Esq</p>
+				<p>Nashville,</p>
+				<p>Tennessee</p>
+			</div1>
+			<div1>
+				<pb ref="0012_000357_000200_0002" seq="02"/>
+			    <p>Knoxville, <unclear reason="illegible" resp="JCM">Jauy</unclear> 28, 1848</p>
+			    <p>F. S. Heiskell Esq.</p>
+			    <p><unclear reason="illegible" resp="JCM">Dapin,</unclear> Several days ago, a letter was addressed to you by <unclear reason="illegible" resp="JCM">Mepis</unclear> Boyd &amp; Rogers <unclear reason="illegible" resp="JCM">&amp; reply</unclear> re questioning you to procure a <unclear reason="illegible" resp="JCM">verdification</unclear> of the <unclear reason="illegible" resp="JCM">6 has tu granted</unclear> four years ago to the Bank of East Tennessee. There was one thing we forgot to add, that is, whatever change you can get <unclear reason="illegible" resp="JCM">recade, have a provision</unclear> inserted that it shall not be obligatory upon the <unclear reason="illegible" resp="JCM">company</unclear> until accepted by vote of the stockholders. Otherwise it might have been often as a <unclear reason="illegible" resp="JCM">precedent for recort eciu our cuduuuts</unclear> We are all anxiety about the <unclear reason="illegible" resp="JCM">Neiwafer Reid = </unclear> road bill. I <unclear reason="illegible" resp="JCM">never</unclear> have seen such a <unclear reason="illegible" resp="JCM">special fulicy</unclear> of interests prevading all clapesof sociity as is <unclear reason="illegible" resp="JCM">reauiforted</unclear> upon this subject - Do something for it - don&apos;t <unclear reason="illegible" resp="JCM">suctor</unclear> &amp; crush our hopes.</p>
+			    <p>I am glad to see the <unclear reason="illegible" resp="JCM">Syistature</unclear>awake to the subject of <unclear reason="illegible" resp="JCM">beriuar</unclear> schools. The bell reported in the papers, contains <unclear reason="illegible" resp="JCM">percisiy the provisions</unclear> suggested by us in an article I write &amp; which was published about one year ago; and of course it <unclear reason="illegible" resp="JCM">reuts every appreciation</unclear> The office of Superior <unclear reason="illegible" resp="JCM">turdiut</unclear> of Public <unclear reason="illegible" resp="JCM">Trustendtien,</unclear> I trust will be restored. It is an important</p>
+			</div1>
+			<div1>
+				<pb ref="0012_000357_000200_0003" seq="03"/>
+				<p>office and one i should perfer holding to any in the state.</p>
+				<p>We are pleased at what you have done for the Deaf &amp; Dumb School. I know of no <unclear reason="illegible" resp="JCM">Fusti tution</unclear> we have that deserves better at the heads of the <unclear reason="illegible" resp="JCM">Legislation</unclear></p>
+				<p>But do not fail to help the <unclear reason="illegible" resp="JCM">Keiwafer</unclear> Rail <unclear reason="illegible" resp="JCM">wade beu</unclear> not the Whips of Middle &amp; West Tennessee be <unclear reason="illegible" resp="JCM">wader</unclear> to see that with a clear majority of twelve in the <unclear reason="illegible" resp="JCM">Ayislar</unclear> turn, the large partier of the democracy in favor of the <unclear reason="illegible" resp="JCM">rueuhir,</unclear> if they fail to <unclear reason="illegible" resp="JCM">reach</unclear> a suitable <unclear reason="illegible" resp="JCM">appropiration it penetrates</unclear> their party in the state <unclear reason="illegible" resp="JCM">proven?</unclear> Already here a large number of Whips <unclear reason="illegible" resp="JCM">lucurn discurturted</unclear> and indifferent to the success of our party, seeing what is the bitter fruits of that success in the present <unclear reason="illegible" resp="JCM">Legislature.</unclear> Much as they love tis party and their principles they love their country still <unclear reason="illegible" resp="JCM">more.</unclear> Many influence but all prominent Whips have said they never will again vote for a candidate for <unclear reason="illegible" resp="JCM">Govenor</unclear> West of the <unclear reason="illegible" resp="JCM">Merutary</unclear> till the <unclear reason="illegible" resp="JCM">huaten</unclear> is restored to East Tennessee.</p>
+				<p>Judge <unclear reason="illegible" resp="JCM">Rusis fruces</unclear> to tother of him as the East Tenn. Electoral Candidate for the state at large. I saw Mr. <unclear reason="illegible" resp="JCM">Matinleur&apos;s uaeur interviewed.</unclear> Flat view will do. He is <unclear reason="illegible" resp="JCM">received</unclear> in the first district to offer Mr.</p>
+			</div1>
+			<div1>
+				<pb ref="0012_000357_000200_0004" seq="04"/>
+				<p>Haynes; and he is the very many I believe who can do it <unclear reason="illegible" resp="JCM">respectfully.</unclear> Mr. Haynes, by his <unclear reason="illegible" resp="JCM">term</unclear> in the present Legislation has added much to his popularity &amp; influence, and unless <unclear reason="illegible" resp="JCM">met</unclear> by an able man he will view over evyerthing in the first district.</p>
+				<p>When I commenced writing I had in mind the first paragraph. But the letter has grown to its present length.</p>
+				<p>Respectfully Yours</p>
+				<p>Horace Maynard</p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

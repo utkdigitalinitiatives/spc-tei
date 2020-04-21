@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000204_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Robert Allen</name>
+				                    in Washington D.C. to David Burford in Carthage, Tenn.,<date when="1822-02-07">1822 Feb. 7</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jordan, Seth</name>
+        </respStmt>
+        <author>
+          <name type="person">Robert Allen</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000204_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robert Allen in Washington D.C. to David Burford in Carthage, Tenn.,1822 Feb. 7</title>
+          <date when="1822-02-07">1822 Feb. 7</date>
+          <author>
+            <name type="person">Robert Allen</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000204_0001.jpg" xml:id="d4e39"/>
+        <p>
+          <unclear reason="illegible" resp="SJ">Frer.</unclear>
+        </p>
+        <p>Robert Allen</p>
+        <p>Major David Burford</p>
+        <p>Carthage</p>
+        <p>Ten</p>
+        <p>on the subject of the business of Allen &amp; Jenkins Tuscaloosa</p>
+        <pb n="2" facs="0012_000117_000204_0002.jpg" xml:id="d4e54"/>
+        <p>Washington City</p>
+        <p>Feby 7th 1822</p>
+        <p>Dear <unclear reason="illegible" resp="SJ">Sir,</unclear>
+            </p>
+        <p>On your return from New Orleans I want you to come by the way Tuscaloosa and spend a day or two there. It is but little <gap reason="indecipherable" resp="Jordan"/>
+               <unclear reason="illegible" resp="SJ">turning</unclear> out at Columbus. and may save me a ride of six hundred miles if there has been any thing saved out of that unfortunate wreck and in the hands of Thos Owen agent it is all important to me that it is got from him to meet debts that will be upon me for payment. I have sent to him Jack Worrels note also say <unclear reason="illegible" resp="SG">thurns</unclear>. whatever he has collected is in preference applicable to the discharge of these claims and he knowing the interest in these is vested in me by payment on my part. for <gap reason="indecipherable" resp="Jordan"/>
+               <unclear reason="illegible" resp="SG">worry</unclear> note I have had to give my own note and to meet it I shall be at great difficulty without some <unclear reason="illegible" resp="SG">thing</unclear> from that establishment and certainly there must be something recieved. I am aware of the way agents in the place of Mr Owen turn every thing to their own advantage regardless who suffers so they can have the use of the money look you fully into that and satisfy yourself whether or not he is favouring the side of Jenkins so thus he has sued him on the notes as he promised to do and if anything can be brought out of Jenkins by giving him</p>
+        <pb n="3" facs="0012_000117_000204_0003.jpg" xml:id="d4e80"/>
+        <p>time to pay with security give him as long as you please drovided the funds in owens hands is left to pay other claims and not applied to extinguish the debt Jenkins is sure for and promises to pay until other debts is first paid Several of which I have ready to place in the agents hands if it was worth while. If Jenkins thinks he can do better with the books and debts himself you may propose to him that the whole shall be given up to him and my interest entirely surrendered together with my capital of $2400 never to be claimed provided he gives satisfactory security for the debts owing at the disolution of partnerships if there is honor or honesty in him or his father I should think this proposal  could not be refused and on the score of interest it ought to have their attention as it will be in their power in that way to be relieved from a business that will be ever hanging over John Jenkins and take his property if ever he pretends to own any however I have no hopes that you will be able to effect any thing you can only make the attempt which will <gap reason="indecipherable" resp="Jordan"/> them and the <unclear reason="illegible" resp="SG">worst</unclear>
+               <unclear reason="illegible" resp="SG">the</unclear>
+               <unclear reason="illegible" resp="SG">usage</unclear> I have secured at their hands, from owen get what you can and know the prospect of any thing here after </p>
+        <p>Your friend</p>
+        <p>Robert Allen</p>
+      </div>
+    </body>
+  </text>
+</TEI>

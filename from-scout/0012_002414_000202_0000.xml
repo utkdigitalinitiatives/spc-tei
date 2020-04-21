@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 1808 Jan. 11
+					<name>Charles Chauncey</name> to John Inskeep <date when="1808-01-11">1808 Jan. 11</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">Charles Chauncey</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000202_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 1808 Jan. 11 Charles Chauncey to John Inskeep 1808 Jan. 11</title>
+               <date when="1808-01-11">1808 Jan. 11</date>
+               <author>
+                  <name type="person">Charles Chauncey</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000202_0001.jpg" xml:id="d4e39"/>
+            <p>John Inskeep Esquire,</p>
+            <p>President of the North America</p>
+            <p>Insurance Company</p>
+            <p>Ch. Chauncey</p>
+            <p>11th Jany 1808</p>
+            <pb n="2" facs="0012_002414_000202_0002.jpg" xml:id="d4e51"/>
+            <p>John Inskeep Esquire,</p>
+            <p>President of the North America Insurance Company,</p>
+            <p>Sir,</p>
+            <p>Mr. Edward Dunant &amp; Mr. Johsua Gilpin have placed in my hands two policies of Insurance, effected at your offfice, upon the Brig Garland Oc, on their several accounts &amp; have desired one to bring suit thereon.</p>
+            <p>Mr. Dunant assured me, that every facility will be given by the office, to bring the causes to a speedy a decision as may be; and I therefore reguest that you will refer me to your attorney, that amicable actions may be entered.</p>
+            <p>I am also requested by Miss Gently&apos;s Banker to call on your office, in the case of the Little Robert, upong which they claim to recover loss, arguably to a statement heretofore handed to the office &amp; I will thank you, sir, to make the like reference to your attorney in this case.</p>
+            <p>I am, sir,</p>
+            <p>very respectfully,</p>
+            <p>Your obedient servent</p>
+            <p>Ch. Chauncey</p>
+            <p>Jany 11. 1808</p>
+            <p>Ch: Chauncey Sigt.</p>
+            <p>Sir,</p>
+            <p>Your letter note of 11th was fild &amp; The Co being were ready to to meet countraded cases in the most amicable way.  I have, agreeable to your request instructed Mr. Holkingan to <unclear reason="illegible" resp="AH">Mem</unclear> to Re two cases mentioned in your note <unclear reason="illegible" resp="AH">can en faiathfully</unclear> J. I. Presdt.  Jany 14. 1808</p>
+         </div>
+      </body>
+   </text>
+</TEI>

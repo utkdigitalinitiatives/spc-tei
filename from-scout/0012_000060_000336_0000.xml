@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000336_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J. Ramsey</name>, <date>undated</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000336_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 1819?,  J. Ramsey (Philadelphia?)</title>
+               <date>1819-01-01</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2 digital images; 2 pages.</extent>
+               <note type="abstract">Letter, 1819?, from J. Ramsey (Philadelphia, Pennsylvania) describing the medical college faculty and lectures he attends. Notes the effect of Dr. Rush&apos;s death on the &quot;fame of this University.&quot; (Written on a &quot;Philadelphia, Nov. 15, 1819 circular&quot; by Jospeh M. Sanderson.)</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Medical colleges -- Pennsylvania -- Philadelphia -- Faculty -- History -- 19th century.</term>
+               <term>College teachers -- Pennsylvania -- Philadelphia -- History -- 19th century. </term>
+               <term>Lectures and lecturing -- Pennsylvania -- Philadelphia -- History -- 19th century. </term>
+               <term>Philadelphia (Pa.) -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Rush, Benjamin, 1746-1813.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000060_000336_0001.jpg" xml:id="d3e150"/>
+            <p>I have hitherto <unclear reason="illegible" resp="bds">deferred from</unclear> writing to you from
+<unclear reason="illegible" resp="bds">the</unclear> expectation that a time would arrive when I
+<unclear reason="illegible" resp="bds">should</unclear> have more leisure than I have yet found - But
+<unclear reason="illegible" resp="bds">such</unclear> a time I believe will not arrive during the <unclear reason="illegible" resp="bds">continuance</unclear> of the Lectures - Indeed I never viewed my time
+as worth more than it now is - The Lectures are becoming daily more interesting because they are becoming
+daily more practical (Doctor Chapman who Lectures on the Theory and Practice of Medicine and Clinical
+Practice having finished physiology &amp; Pathology has just entered on the causes symptoms &amp; treatment
+of diseases) - He has <unclear reason="illegible" resp="bds">adapted</unclear> a nomeclature <unclear reason="illegible" resp="bds">&amp;</unclear> arrangement wholly different from any other
+<unclear reason="illegible" resp="bds">no<gap resp="Dyson-Smith"/>ologist</unclear>
+            </p>
+            <p>Dr <unclear reason="illegible" resp="bds">Gosce</unclear> has got through his speculations on the Modus
+Operandi &amp; the Quo modo of medicine is beginning to <unclear reason="illegible" resp="bds">show</unclear>
+their application to the removal and prevention of diseases. Instead of the theories of inflammation 
+<unclear reason="illegible" resp="bds">lemon</unclear> huge Old with which his first lectures abounded Dr.
+Gibson Prof. <unclear reason="illegible" resp="bds">Lus.</unclear> has begun to exhibit the Principles and
+Practice of Operative Surgery. And even the speculations for which the <unclear reason="illegible" resp="bds">Chair</unclear> Dr. J Jills is distinguished are giving way to the</p>
+            <p>Owing in part to the present pecuniary <unclear reason="illegible" resp="bds">embarrassment</unclear> of
+the Country as well as perhaps to the increasing celebrity of the rival institutions <unclear reason="illegible" resp="bds">there</unclear> is in this University a much smaller class than has been for many years -- The
+<unclear reason="illegible" resp="bds">speculation</unclear> of this school as far as I can learn is fast
+sinking -- The death of Rush and more lately of <unclear reason="illegible" resp="bds">Niston</unclear> &amp;
+the removal of Doctor <unclear reason="illegible" resp="bds">Physia</unclear> from the Surgical to the
+anatomical chair have contributed very much to lessen the fame of this University -- The present
+<unclear reason="illegible" resp="bds">however</unclear> is said to be the best course of lectures that has been
+delivered since the decease of Rush Dr. C. is <unclear reason="illegible" resp="bds">propenent</unclear> of the
+Theory &amp; Practice &amp; Clinical Practice -- he is every way a very superior man but distinguished
+especially for the Industry of his research Theraputics -- source of <unclear reason="illegible" resp="bds">eliscan</unclear> classification -- <unclear reason="illegible" resp="bds">Physick</unclear> is
+the <unclear reason="illegible" resp="bds">idol</unclear> of the City and is indisputablely a very eminent
+operative surgeon. <unclear reason="illegible" resp="bds">Butand</unclear> though his inventions and
+improvements in this branch of the profession manifest a great degree of ingenuity &amp; <unclear reason="illegible" resp="bds">inventi<gap resp="Dyson-Smith"/>
+               </unclear> I cannot think him equal to many of the professors. He is <unclear reason="illegible" resp="bds">escepively raecin</unclear> &amp; austere &amp; supremely self-sufficient
+- and though an accurate &amp; <unclear reason="illegible" resp="bds">correct</unclear> administrator in
+Anatomy he is very far from a ready one - and as might be <unclear reason="illegible" resp="bds">expected</unclear>
+from one who so long taught Surgery he is constantly takes occasion to introduce that subject in his Anatomical
+Lectures - And he never fails to mention any improvement he may have suggested in that branch <unclear reason="illegible" resp="bds">Gore</unclear> is certainly more learned and independent than any in the school and
+is perhaps a man of the deepest research - I have said he is the most independent I might have said intrepid - For
+such</p>
+            <pb n="2" facs="0012_000060_000336_0002.jpg" xml:id="d3e254"/>
+            <p>indeed he is He has <unclear reason="illegible" resp="bds">revived</unclear> the antiquated <unclear reason="illegible" resp="bds">doctoring</unclear> of the humoral pathology. To have intimated such an opinion - 
+opposing as it does the writings of <unclear reason="illegible" resp="bds">Cullen Davison</unclear> and all the
+modern authors and the doctrine that has been taught in this school since its first institution requires no
+ordinary degree of prowess - In justice to Dr. <unclear reason="illegible" resp="bds">Gore</unclear> I must
+add that he does not carry the system to its extreme - I think he has indeed satisfactorily proved that the
+rejection of that theory in toto was unwarranted - A student of the immortal Rush he very tenacious of the 
+peculiarities of that great teacher - And in mentioning the applications of <unclear reason="illegible" resp="bds">remidies</unclear> he always recommends a <unclear reason="illegible" resp="bds">successence</unclear>
+to the Lancet - he often warns us like his preceptor not prescribe for the name but for the symptoms of the
+disease - Dr <unclear reason="illegible" resp="bds">He</unclear> has taken nearly the same arrangement for his
+lectures that <unclear reason="illegible" resp="bds">Chapm</unclear> has in his <unclear reason="illegible" resp="bds">theraputics</unclear> - I say nearly for his first grand division differs - <unclear reason="illegible" resp="bds">He</unclear> divides the Materia Medica into two grand classes
+<unclear reason="illegible" resp="bds">Sedantia &amp; Incitantia</unclear> - according very well with his
+views and definition of health &amp; disease Health is what has been said of disease a unit consisting in
+a harmony of <unclear reason="illegible" resp="bds">action</unclear> of all the parts of the animal
+<unclear reason="illegible" resp="bds">machine</unclear> - disease is but an excess or defect of this action
+This is only a modification of Browns theory Dr. Gibson I hear with a great deal of interest and attention - his
+remarks are always practical and he illucidates them by a selection of cases of which his extended experience gives
+him a full supply - on wounds he is much more full and lengthy as well as in <unclear reason="illegible" resp="bds">absess</unclear> in which you wel know <unclear reason="illegible" resp="bds">Dorsey&apos;s</unclear>
+Surgery which is here called Physicks is very defective. The Students say that Dr <unclear reason="illegible" resp="bds">Ham</unclear> the Lecturer on Chemistry is more proper than one that has preceeded him on that chair - 
+He has given a new edition of <unclear reason="illegible" resp="bds">Hansy</unclear> with notes by himself but I believe
+his improvements are inconsiderable Doctor James lectures excite great attention and are certainly very instructive - Rush
+&amp; Nisten are never mentioned in the Lecture rooms but with the <unclear reason="illegible" resp="bds">brightest</unclear>
+applause and sentiments of the deepest respect - The City was never healthier - the <unclear reason="illegible" resp="bds">Resurrection man</unclear> - My own health - (intensity of the weather) - <unclear reason="illegible" resp="bds">Rather</unclear> be <unclear reason="illegible" resp="bds">Hyh chandrenal</unclear> in <unclear reason="illegible" resp="bds">H.</unclear>
+than in R - <unclear reason="illegible" resp="bds">Formal for segument</unclear> - Dr. Ely - (attend
+six lectures - takes notes <unclear reason="illegible" resp="bds">Studium</unclear> give
+<unclear reason="illegible" resp="bds">coloms sommisum</unclear>) Present my warmest friendship
+to all <unclear reason="illegible" resp="bds">&amp; send not </unclear> of your family &amp; accept
+<unclear reason="illegible" resp="bds">the as.</unclear> of my high respect &amp; esteem</p>
+            <p>J. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000218_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>W.A. Walker</name>
+ in Maryville, Tenn. to O.P. Temple in Knoxville, Tenn. <date when="1865-01-24">1865 January 24</date>
+            </title>
+            <author>
+               <name type="person">Walker, W.A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000218_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, W.A. Walker in Maryville, Tenn. to O.P.Temple in Knoxville, Tenn., 1865 January 24</title>
+               <date>1865-01-24</date>
+               <author>
+                  <name>Walker, W.A.</name>
+               </author>
+               <extent> 4 digital images; 4 pages </extent>
+               <note type="abstract"> In this letter dated January 24, 1865 W.A. Walker, Maryville, Tenn. writes to O.P. Temple in Knoxville, Tenn. Wants advice as administrator of Wallace estate on business with Dr. Pride, Barnes and others. What to do about confederate money </note>
+               <note type="collection">The O.P. Temple Papers, 1865</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+               <term>BLOUNT COUNTY (TENN.) - HISTORY</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000070_000218_0001.jpg" xml:id="d3e152"/>
+            <p>Maryville 24 Jany 1865</p>
+            <p>Col. Temple</p>
+            <p>Dear Sir </p>
+            <p>I expected to have seen you over at our court &amp; being disappointed in that I must confer with you by letter.</p>
+            <p>I was sued a short time ago as ex- of Am Wallace on a note for $500 in gold. Which was executed as secty of W. C. Wallace &amp; as you will remember certain property here was made liable for the payment of all such debts - by the will of Genl Wallace &amp; this debt &amp; the M Ghee debt mentioned in Col Tooles Chancery Bill are all that I have been apprised of that character Are any steps neccessary at present to subject that property to the payment of these debts</p>
+            <p>Dr. Pride &amp; son <unclear reason="illegible" resp="NW"> pro </unclear> as I am advised by Dr Cates practiced as partners for perhaps a year or two and I find on Dr Ps Books a good many acts which are partnership acts &amp; I am somewhat at a loss to know how to proceed especially in cases where the same parties have acts against Dr S. Pride - Whether I should permit their acts to offset more than one half the medical act - that being the interest of Dr. S. Pride in the act the balance being <unclear reason="illegible" resp="NW"> Jnes</unclear> &amp; also where parties have acts against <unclear reason="illegible" resp="NW"> pro </unclear> can I permit them to offset any part of </p>
+            <pb n="2" facs="0012_000070_000218_0002.jpg" xml:id="d3e179"/>
+            <p>their acts with acts against him! </p>
+            <p>Please advise me how to arrange the matter. <unclear reason="illegible" resp="NW"> Jno </unclear> the estate fthr Dr is secty for him &amp; I wish to secure whatever interest he has in these acts to save the estate as far as possible.</p>
+            <p> Also in order to <unclear reason="illegible" resp="NW"> see e </unclear> upon these acts or where they are disputed is it my duty to swear to them in any way?</p>
+            <p>Also concerning that old Barnes Deed of Trust, Barnes says that you told him that he &amp; I ought to go back to the foundation of that thing &amp; make a settlement of that thing &amp; make a settlement of all their transactions &amp; see just how the thing stands &amp; thus avoid a Law suit just <unclear reason="illegible" resp="NW"> Cart </unclear> I wish to know what you advise us on that subject. You know you advised me to go on &amp; sell the property under the Deed of Trust &amp; I was expecting soon to do it, but perhaps you have concluded another course was to be prefered. I think it will be a very difficult matter to make a settlement. But please let me know just what you think I ought to do in the the premises Barnes, I think will annoy &amp; harrass the estate all he can but it dont seem to me that he is in a condition to do much else. But if there is any thing justly due him I aim for him having it. </p>
+            <pb n="3" facs="0012_000070_000218_0003.jpg" xml:id="d3e202"/>
+            <p>Perhaps in the light of recent developments you can now advise me just what will be come of all payments to Guards Adms Exs of confederate money under the mility pressure that may be brought to bear upon the Country.</p>
+            <p>I have some considerable amt which was paid to me as Guardn &amp; as clerk &amp; a good many others in this County in fact almost all acting in that capacty have more or less of it &amp; all are anxious to know just how the matter is to be arranged. Whether parties who paid it will have to take it back &amp; pay it over again. There is a note in the Co. Clerk office now against a man who paid in some Confederate money soon after the money was first issued &amp; the parties interested now wish a judgment taken at next Co. Court for whatever may be due on the note &amp; we desire to know what to do about the payment aforesaid. I presume it would be regarded as no payment at all. </p>
+            <p>I would also state that our co Court made an order directing all Guardians Adm Clks &amp; having Confederate money on hand to vest it in Conf Bonds which was done but of course that order would be simply void.</p>
+            <p>I wish to state also that from what I can learn about Dr P. estate I don&apos;t think it will pay out. Though </p>
+            <pb n="4" facs="0012_000070_000218_0004.jpg" xml:id="d3e216"/>
+            <p>I dont hear of any of any great amount of indebtedness against him but from what I can learn a large amt of money was paid into that Chancery office &amp; was loaned out by him to <unclear reason="illegible" resp="NW"> Figg Pope </unclear> &amp; Miller Col Toole &amp; <gap resp="Williams"/> at all present &amp; of course has stated must make it up &amp; the Execution 
+<unclear reason="illegible" resp="NW"/> for the oldest M <unclear reason="illegible" resp="NW"/>
+               <unclear reason="illegible" resp="NW"/> are gone &amp; I cant tell 
+<unclear reason="illegible" resp="NW"/> who Dr P. securitys are not what amt of money was paid into him &amp; if his estate proves insolvent Mrs. P. I presume ought presently <unclear reason="illegible" resp="NW"/> to dissent from the will. </p>
+            <p>I know of just one note in which Genl W. was <unclear reason="illegible" resp="NW"/> for J G Wallace would it not be well for me to notify the parties to proceed &amp; levy &amp; make the money out of the land devised to J.G.W.? The note is only $100 or thoere about. </p>
+            <p>This is a pretty heavy infliction upon your patience. But I hope you will <gap resp="Williams"/> at your earliest convenience. I would be very glad to get an answer in a few days at all Events before next Co. Court. </p>
+            <p>Respectfully your friend</p>
+            <p>W. A. Walker</p>
+         </div>
+      </body>
+   </text>
+</TEI>

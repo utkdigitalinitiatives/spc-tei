@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001985_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Willie Blount</name>
+				                    in Knoxville, Tenn., to Henry Newman in Boston, Mass., <date when="1811-12-10">1811 December 10</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Willie Blount</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001985_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Willie Blount in Knoxville, Tenn., to Henry Newman in Boston, Mass., 1811 December 10</title>
+          <date when="1811-12-10">1811 December 10</date>
+          <author>
+            <name type="person">Willie Blount</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Willie Blount Letter, 1811 December 10</note>
+          <note type="manuscript">MS.0737</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, Willie, 1768-1835</term>
+          <term>White, Hugh Lawson, 1773-1840</term>
+          <term>Creek Indians.</term>
+          <term>Tennessee -- History.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+          <term>United States -- Politics and government -- 1809-1817.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001985_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Knoxville</p>
+        <p>10 Dec. 1811</p>
+        <p>forw. 25/42</p>
+        <p>Henry Newman Esquire</p>
+        <p>Boston</p>
+        <p>Massachusetts</p>
+        <pb n="2" facs="0012_001985_000200_0002.jpg" xml:id="d4e53"/>
+        <p>Knoxville Dec. 10th 1811</p>
+        <p>Dear Sir:</p>
+        <p>I have been favored with the message of yours of the 3d. Instant and am pleased to hear that you have safely arrived at the <unclear reason="illegible" resp="PW">sint</unclear>
+               <unclear reason="illegible" resp="PW">consultum</unclear> after New trouble on the 
+			           <unclear reason="illegible" resp="PW">burr</unclear>new road__  Americans will be hereafter as May even have been one people notwithstanding the struggles made by foreign nations to disunite us  &amp; the folly of a few who will bend too easy on <unclear reason="illegible" resp="PW">san</unclear>
+                                      to intrigues of foreign growth, and I hope we will teach the savages on The Wabash and their aiding and abetting What now and more only united but determined to be free and independent of all nations, &amp; moreover teach other nations by example, how to do right, &amp;
+                                      then if they should persist in their wrongs and troubles us Hereinwith, we will show them our superiority over them in all other respects likewise _ I love our government &amp; admin New American character more than all other things</p>
+        <p>All the favor I have a right to expect as your hand <unclear reason="illegible" resp="PW">fi</unclear>is to ask a continuance of your friendship &amp; the honor of your correspondance whensoever more may be _ Judge White and family are in health &amp; he is pleased with your<unclear reason="illegible" resp="PW">tandem</unclear> of respects which I have had the pleasure to make him on your behalf  He is a most worthy man And I have this honor, after wishing you a safe &amp; happy interview with your friends, to be very respectfully</p>
+        <p>your ov Servant</p>
+        <p>Willie Blount</p>
+        <p>Henry Newman <unclear reason="illegible" resp="PW">Iuw</unclear>Esquire</p>
+        <p>answered 26 July, 1812</p>
+      </div>
+    </body>
+  </text>
+</TEI>

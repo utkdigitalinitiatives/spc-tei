@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000212_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Camp Dick Robinson, Ky to Caroline M. Brown, <date when="1861-10-03">1861 Oct. 3</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000212_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Camp Dick Robinson, Ky to Caroline M. Brown, 1861 Oct. 3</title>
+          <date when="1861-10-03">1861 Oct. 3</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection 1861-1862</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000212_0001.jpg" xml:id="d4e39"/>
+        <p>October 3th 1861</p>
+        <p>Camp Dick Robinson</p>
+        <p>Kentucky, Gerard County</p>
+        <p>Dear wife &amp; Children i take this time to inform you that i am at this time hopeing these few lins may find you the same we are now in an Enemy land 1.30 miles From Cinnatti out in Kentucky and i exspect we will leave here in a week or sooner for Tennessee wee supose that will Be the point I would like to see you all verry much it may be the Last time that i will have the Chance to write</p>
+        <p>
+          <unclear reason="indecipherable" resp="AH">I nominate aly</unclear>
+        </p>
+        <pb n="2" facs="0012_000599_000212_0002.jpg" xml:id="d4e52"/>
+        <p>To you for some time if Ever i want you to answe This as soon as you get This and lit me know How you all are and the Neighbour in geneal And how you are a getting A long without me But i feel like fighting For my Country live ore Die we have the best Regment that Ever Past Though Cinnatti so they say altho that will not Save our lives if we go to Tenness Tell the Boy that i cant send Them any thing from here no way if i had got some money Before i left the City i</p>
+        <pb n="3" facs="0012_000599_000212_0003.jpg" xml:id="d4e56"/>
+        <p>So Would of sent you all A present we got None and there is no Prosspect of any now so Far from home it is a verry pretty place who we have Campt and all of Kentucky that we have past througt from The River and Seeder Bushes plenty along The road NB the darkeys are neumerous Througt here and white Folks scarse i dont want you to fret about me if you can help it for i shall do the best i Can for my self and our Captain will for us you bet</p>
+        <pb n="4" facs="0012_000599_000212_0004.jpg" xml:id="d4e60"/>
+        <p>we saw about three thousands People in the City on Sunday Before we left some 2 or 3 hundred women the Union men are verry Close to us here them That are union and Right we Campt in An open field tuesday Nigh Seces at that we tore a straw pile all to peces No more At present But Remain yours for ever</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

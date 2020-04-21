@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000246_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in camp near Corinth, Miss., to Caroline M. Brown,<date when="1862-06-13">1862 June 13</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000246_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in camp near Corinth, Miss., to Caroline M. Brown,1862 June 13</title>
+          <date when="1862-06-13">1862 June 13</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000246_0001.jpg" xml:id="d4e39"/>
+        <p>Caroline M. Brown</p>
+        <p>Camp Near Corinth Mississippi 62</p>
+        <p>June 13th</p>
+        <p>Dear and most beloved wife Caroline i received yours of the 3d and was glad to hear from you once more it found me well all but my feet they still keep sweld yet I cant ware my boots atll I am not able for duty on the account of them I cant write much news i gave you the new in the other letter before this i can tell you whare we are at this time we are about one mile from Corinth</p>
+        <pb n="2" facs="0012_000599_000246_0002.jpg" xml:id="d4e49"/>
+        <p>And i exspect we will stay here some time for general Thomas have bin apointed goner of miss as a military man and we have to guard the place for some time and we hope we will be sent home from this point we have our camp in an open field and you had better guess it is hot we still have plenty to eat such as it is Now i will tel you a little more About my self some says that i am getting the dropsy the doctor cant tell what is the matter with me</p>
+        <pb n="3" facs="0012_000599_000246_0003.jpg" xml:id="d4e53"/>
+        <p>I dont know but what I will try to get a discharde if i do not get better soon or a forlough and come home and stay a while with you and see if doctor Holden cant do me some good i think he can beat a field full of our doctors and not half try as <unclear reason="illegible" resp="LW">mach</unclear>
+               <unclear reason="illegible" resp="LW">Noiris</unclear> you said the wheat look pretty well i wished I was thare to see it <unclear reason="illegible" resp="LW">crit</unclear> If i did not do any myself you also said your corn was fit to work and the bees had swarmed twise And that you had sold Wm Law four sheep At two dollars and 25 cts per head i dont know But i had better stay away</p>
+        <pb n="4" facs="0012_000599_000246_0004.jpg" xml:id="d4e65"/>
+        <p>A. D. Hemery is a going to try to get a forlough to come home about the twentieth of this mont And i would like to come along with him If i could but i am afraid neither one of us will get to come that the matter with <unclear reason="illegible" resp="LW">hannas</unclear> I do not want you to bild to strong on this for fear it will not work out rite to please us all so well you said that Mrs Law wanted me to come home in peach time so she could come up and hear me tell some big lies about my travls so good by on thy <gap reason="indecipherable" resp="Wibking"/> Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    in St. Louis, Mo., to his sister <date when="1853-05-14">1853 May 14</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson in St. Louis, Mo., to his sister 1853 May 14</title>
+               <date when="1853-05-14">1853 May 14</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000201_0001.jpg" xml:id="d4e39"/>
+            <p>St. Louis, Mo. May 14th 1853</p>
+            <p>
+               <unclear reason="illegible" resp="EMS">Mns Mary Willcox</unclear>
+            </p>
+            <p>Nashville</p>
+            <p>Tenn.</p>
+            <p>My Dear Sister</p>
+            <p>I received in Washington the very interesting letter you wrote me on hearing that I was going to the Pacific. I have been so hurried since then that I have not had time to send you a reply; and even now I have time to say only a few words, hoping to be able to write you a long letter before I take my final departure. You have no idea how lonely I felt in Wash, contrasting as I did the <unclear reason="illegible" resp="EMS">dullness then prevalence</unclear>with the merry time we had last winter. I stopped at the national, but was several times at Brown&apos;s; new faces met me at every turn; Nash. seemed like another place. I suppose you have heard of <unclear reason="illegible" resp="EMS">Miss Toomb&apos;s</unclear> marriage to a <unclear reason="illegible" resp="EMS">Sen</unclear> Alexander; I was invited but could not go. Mr and Mrs Pendleton are in the same house that I am here: Mrs Pendleton doesnot look very well. Mr. Mrs. &amp; Miss Bass are here. I have seen Mrs B. but have not yet made Miss B&apos;s acquaintance. I leave here about Wednesday next. After then no letters will reach me this side of the Mountains. I do up the</p>
+            <pb n="2" facs="0012_000435_000201_0002.jpg" xml:id="d4e63"/>
+            <p>Missouri River about 2000 miles in a steamer &amp; then by land across the Rocky Mountains to the Columbia River, and then down that River to its mouth, and I shall be disappointed if I do not get back in less than a year.  My address on the other side will be to the care of the Quarter Master U.S.A. Columbia Barrack oregon Territory. Do write me often and fully and freely; tell the Col. to write me; and sister Rachel must write me there; why doesnot she write me now; I wrote her from <unclear reason="illegible" resp="EMS">Mess Pouir</unclear>, and she ought to have answered. Send me newspapers, I shall be greedy for news when I get to the Columbia River. Begin to send me this to the above address about the 1st of July. I am just called off, so must close. Give my love to the Col. and all at home. I have just written to Pa.</p>
+            <p>Your affectionate brother</p>
+            <p>Andrew J Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

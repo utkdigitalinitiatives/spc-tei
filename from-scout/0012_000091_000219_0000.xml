@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000219_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> David L. Jones</name>
+ in Nashville, Tenn., to Anna Jones, Allegheny City, Pa. <date when="1865-05-23">1865 May 23</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L., Union soldier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000219_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa, 1865 May 23</title>
+               <date>1865-05-23</date>
+               <author>
+                  <name>Jones, David L., Union soldier</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">1865, May 23 David L. Jones in Nashville, Tenn., to his wife Anna M. Jones in Allegheny City, Pa. Continues to update her on military extremes he is experiencing. This time it is a skirmish Drill; very long and repetitive, hot, and tiring. New assignments are either made or changed daily. Once more there are rumors about when they might be leaving Nashville. Lets Anna know his plans for mailing some papers. Sends greetings to their friends, acquaintances, and family members.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Nashville -- History -- 19th century -- Personal narratives.</term>
+               <term>Military camps -- Anecdotes -- Tennessee -- Nashville -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Jones, David L., Union soldier</term>
+               <term>Jones, Anna M.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+               <term>Families of military personnel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000091_000219_0001.jpg" xml:id="d3e159"/>
+            <p>Nash May 23/ 65</p>
+            <p>My Dear Wife</p>
+            <p>Tuesday Just after Dinner I went down town to write you a few lines in hope that they may find you all well as they leave me tolerable well at present through Mercy yesterday afternoon we were taken out on what they call a skirmish Drill they can call it whatever they Please But i call it a hard one it is a Sham fight we were drilled out in the hot sun and the Colonel was mad and cursing at a great rate he was mad at Some because they could not do right so he took and Drilled us all for about two or three hourse I tell you we were prety tired then we were Prety mad at him i tell you know</p>
+            <pb n="2" facs="0012_000091_000219_0002.jpg" xml:id="d3e171"/>
+            <p>So last night he issued 2 New Orders the one was not to sit out side of the Barracks and the other to do away with all the <unclear reason="illegible" resp="NW">Citizen </unclear> clothes against the Last <unclear reason="illegible" resp="NW">of</unclear> this month or else he would have them all destroyed. I am on what they call camp guard to day i am guarding the Quartermaster s store I tell you he has not got much in it a cup full of Sugar a Day of coffee some soap and candles is about all he has <unclear reason="illegible" resp="NW">Grubbs</unclear> told me this morning that we would leave here next week if he knowed <unclear reason="illegible" resp="NW">Grubbs</unclear>also told me that <unclear reason="illegible" resp="NW">Wiley</unclear> and the first and Second Lieutenants was going to volunteer to go to Mexico if i was at home i do not care if they go to Purgatory for my Part <unclear reason="illegible" resp="NW">Grubbs</unclear> told me that <unclear reason="illegible" resp="NW">Wiley</unclear>told them that So that Shows that they cant succeed in having to stop here I hope that they cant do anything to hinder us anyhow I want you to keep this to yourself I suppose that</p>
+            <pb n="3" facs="0012_000091_000219_0003.jpg" xml:id="d3e201"/>
+            <p>you will find it out first what time we leave by the Pitts Papers</p>
+            <p>Now Anna I have notiong Particular to let you know I sent Tom some little Papers this morning I shall mail James 2 right through I am going to write to him a few lines right away it is right warm here now So i shall conclude at this time by <unclear reason="illegible" resp="NW">desirernj </unclear> you to give my respects to Mr and Mrs White Mrs Cornelius Kiss the children for Me I </p>
+            <p>am yours as ever</p>
+            <p>David</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002279_000203_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Sergeant Travis</name>
+				                    in the Philippines to Travis Kennerly in Knoxville, Tenn., <date when="1900-07-01">1900 July 1</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">Sergeant Travis</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002279_000203_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Sergeant Travis in the Philippines to Travis Kennerly in Knoxville, Tenn., 1900 July 1</title>
+          <date when="1900-07-01">1900 July 1</date>
+          <author>
+            <name type="person">Sergeant Travis</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.3281</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Travis family</term>
+          <term>Henry County (Tenn.) -- History.</term>
+          <term>Spanish-American War, 1898 -- Personal narratives, American.</term>
+          <term>Spanish-American War, 1898.</term>
+          <term>United States. Army. Infantry Regiment, 4th.</term>
+          <term>Washington (State) -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002279_000203_0001.jpg" xml:id="d4e39"/>
+        <p>If Not Called for Return to</p>
+        <p>Sergeant Robert M. Travis</p>
+        <p>Co B 4 th Infantry</p>
+        <p>Manila, P.I.</p>
+        <p>Mr. W. T. Kennerly</p>
+        <p>Knoxville,</p>
+        <p>Tennessee, U. S. A.</p>
+        <p>P.O.Bx.56.</p>
+        <pb n="2" facs="0012_002279_000203_0002.jpg" xml:id="d4e57"/>
+        <p>I send you in this a picture with three faces that are all ugly enough I assure you. The mark on the Ear was caused by an ant getting on the negatives R.T.</p>
+        <p>Imus P. I. July 1st 1900</p>
+        <p>Mr Travis Kennerly.</p>
+        <p>Dear Nephew</p>
+        <p>I received your letter yesterday together with one from Lelieand May Travis. It is unnecessary that I should tell you that I was glad to hear from you your letters are always a pleasure to me. Well Travis there is nothing going on here of any consequence in the way of campaighning as we are simply lying here doing Garrison duty and Patrolling the country around us. Pio Del Pilar was captured the other day and as usual was kept a few days fed up and turned loose after signing an agreement not to take up arms again. If I had my say with these leaders it wouldn't by necessary for them to sign any paper as I would march the whole of them out and let the boys have target practice on them. Of all the people on earth these are the most treacherous and it is astonishing how our government fails to see their "Cussednest" and continue to treat them as if they were a superior being. If a soldier and a native here have any altercation which frequently occurs no matter what the cause of it was or how much provocation the soldier had, he gets a courtmartial and nothing is done with the native and probably the poor devil of a Soldier goes to the guard house and forfeits half his pay for resenting an insult from one of the copper colored devils. I was on guard at one of our outposts the other day Our orders are to let no native past without he has a "Cedula" or a kind of Descriptive pass issued by the military authorities to all of them. While near the post the Gentry called me and told</p>
+        <pb n="3" facs="0012_002279_000203_0003.jpg" xml:id="d4e69"/>
+        <p>me that there was a native without a pass on Cedula wished to get through. I went out and found a big ugly looking fellow standing there. I asked him for his pass he said he had forgotten it. I told him that would have to get it before he got through. He proceeded to call me an "Americano Ladrone." I put all the strength I had in one good blow and knocked him off his feet and kicked his nether end until he begged me to quit. He went to our commanding officer and told him that I struck him without any provocation and I actually believe if I hadn't have had three men of the guard as witnesses I would have got a court martial. I will bet the next one who calls me such names wont report me. Well Travis I see that they have cut down a soldiers transportation from a days pay and rations for every twenty miles traveled to place of enlistment to four cents per mile on land or in the U. S. and no allowance from here to San Francisco except transportation by a U. S. Transport. Formerly when a Soldier reenlisted here he was paid full transportation to place of enlistment which generally gave him about $600.00 to any eastern place. At present a private with two months service gets just as much as a Sergeant with 20 years service and if a soldier reinlists here he only get transportation from San Francisco to place of enlistment at the rate of four cents per mile and gets nothing from here to Frisco. It makes a difference of over 100.00 dollars in my transportation from Frisco to Sheridan and cuts everything from here to Frisco. I fail to see how they can expect to keep troops here by giving them no inducements to reenlist. I dont know of a single man that will reenlist under this late law except a few old men who only have two or three years to retire in. I dont know of any men except that there is a probability of the 4 th going to China as the 20 th and 9 th Infantry and two batteries of Antillen have gone from here. I don't care if we do go as they will only keep me until December anyway. Yours, Uncle Sergt Travis Co R.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

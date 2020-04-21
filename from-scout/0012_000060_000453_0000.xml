@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000453_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1879-05-07">1879 May 7</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000453_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1879 May 7</title>
+               <date>1879-05-07</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>2 digital images; 2 p.</extent>
+               <note type="abstract">1879 May 7 Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. News that all officers of the Historical Society were re-elected. Discusses finding a publisher for J.G.M. &apos;s new book and introducing it to the Tennessee school system. </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Textbooks -- Tennessee -- History.</term>
+               <term>Tennessee -- History -- 19th century --  Sources -- Manuscripts.</term>
+               <term>Tennessee -- History -- Textbooks.</term>
+               <term>Tennessee Historical Society -- Elections.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000060_000453_0001.jpg" xml:id="d3e150"/>
+            <p>Nashville, Tenn., May 7th, 1879.</p>
+            <p>My Dear Sir:</p>
+            <p>The annual meeting of the Society was held yesterday afternoon, and all the old officers were re-elected, as follows:</p>
+            <p>Dr. J.G.M. Ramsey, Knoxville, President</p>
+            <p>Judge John M. Lea, Nashville, 1st Vice President</p>
+            <p>Ex-Gov. J.D. Porter, Paris, 2nd Vice President</p>
+            <p>Gen. G.P. Thruston, Corresponding Secretary</p>
+            <p>Jos. A. Garels, Treasurer</p>
+            <p>Dr. J.B. Lindsly, Librarian</p>
+            <p>Anson Nelson, Recording Secretary</p>
+            <p>A large number attended, and a more animated spirit prevailed than usual.</p>
+            <p>About your contemplated book: -- I am ashamed to tell you of the slow progress I have made. But I have not been entirely idle. It is a matter of considerable importance to select a good publisher -- one</p>
+            <pb n="2" facs="0012_000060_000453_0002.jpg" xml:id="d3e181"/>
+            <p>that will attend to the sales, and see that all schools in Tennessee can get it. Some one must write out the questions to be placed at the bottom of each page, and that will cost money -- not very much, but yet an expense. Judge Lea promised me some days ago to see Col. Trousdale, the State Superintendent, and talk to him about the matter, so as to enlist him in the work of helping introducing the book, <unclear reason="illegible" resp="JR"> &amp;e &amp;e</unclear> Also, about the best publisher, whether here or elsewhere. He has not yet seen him, I think, becausehe is not here at present.</p>
+            <p>I have the manuscript and the market Annals, all safe and sound. I will pursue my inguinies, and write you again. My sincere regards, and my wife&apos;s to you and yours.</p>
+            <p>Very Truly Your friend, </p>
+            <p>Anson Nelson</p>
+            <p>To Dr. J.G.M. Ramsey</p>
+            <p>Mecklenberg Place</p>
+         </div>
+      </body>
+   </text>
+</TEI>

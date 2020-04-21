@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000514_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Sarah F. Butler</name>
+ in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1883-07-04">1883 July 4</date>
+            </title>
+            <author>
+               <name type="person">Butler, F. A., Mrs., b. 1830</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000514_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Sarah F. Butler in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1883 July 4</title>
+               <date>1883-07-04</date>
+               <author>
+                  <name>Butler, F. A., Mrs., b. 1830</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 p.</extent>
+               <note type="abstract">1883 July 4 Sarah F. Butler, Woman&apos;s Christian Advocate, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Offers spiritual encouragement for the Ramsey&apos;s last years.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Life, Spiritual.</term>
+               <term>Older Christians -- Religious life -- Tennessee.</term>
+               <term>Well-being -- Age factors -- Tennessee -- Knoxville.</term>
+               <term>Tennessee, East -- Biography.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884.</term>
+               <term>Butler, F. A., Mrs., b. 1830 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000514_0001.jpg" xml:id="d3e154"/>
+            <p>If not called for within Ten Days return to</p>
+            <p>Mrs. F.A. Butler,</p>
+            <p>Editor and Agent</p>
+            <p>Woman&apos;s Missionary Advocate,</p>
+            <p>Nashville, Tenn.</p>
+            <p>Mrs. J.G.M. Ramsay,</p>
+            <p>Knoxville,</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000514_0002.jpg" xml:id="d3e177"/>
+            <p>Office of WM Advocate</p>
+            <p>Nashville, Tenn</p>
+            <p>July 4 1883</p>
+            <p>Mrs J.G.M. Ramsay,</p>
+            <p>My dear Friend,</p>
+            <p>I claim to myslef the privelege of replying to your most kind an dinteresting letter, to Mr. Butler, written for your beloved husband.</p>
+            <p>I cannot bring before my minds eye a more sweet &amp; beautiful picture I have you two -- looking out as you do every morning towards the East for the Sun-rising.</p>
+            <p>The weary years are all passed -- so many of them -- and you are waiting, waiting for a more</p>
+            <pb n="3" facs="0012_000060_000514_0003.jpg" xml:id="d3e200"/>
+            <p>glorious dawn than any you have ever beheld yet. -- I pray that our Heavenly Father may keep you in his own &quot;everlasting arms&quot; -- and when the great &quot;Sun of Righteousness&quot; appears it may be to you both, a glorious beholding, and in sweet peace of spirit you may &quot;pass over the river, and rest, under the shade of the trees.&quot;</p>
+            <p>What a blessed thing is our religion? And what a dark world it would be without it!</p>
+            <p>I have spent my 4th of July here quietly at the Publishing House -- writing, writing all the day long. I was about to start home and said no -- I will not until</p>
+            <pb n="4" facs="0012_000060_000514_0004.jpg" xml:id="d3e212"/>
+            <p>I write to those dear old people wo will so soon meet my own blessed father and friends, and I must send one more message by them, to that heavenly land. I am sorry to hear of the Doctor&apos;s feebleness, &amp; yet how unreasonable it is -- where he is only fading by degrees from our sight as he nears the New Jerusalem. May God continue to bless &amp; shelter him in His love and may you be comforted.</p>
+            <p>As I said to him last Oct. when he said there was nothing now for him to do -- Oh! yes -- There is -- you can wait! And learning to wait is a hard lesson but he learned it long ago.</p>
+            <p>The sun is about to sink in th ewest -- and the</p>
+            <pb n="5" facs="0012_000060_000514_0005.jpg" xml:id="d3e224"/>
+            <p>sky is bright -- so may it be with you both --</p>
+            <p>Excuse such a poor hastily written letter -- and remember me affectionately to your daughter.</p>
+            <p>I remain to you and your dear husband --</p>
+            <p>Affectionately &amp;</p>
+            <p>Truly your friend</p>
+            <p>Sarah F. Butler</p>
+         </div>
+      </body>
+   </text>
+</TEI>

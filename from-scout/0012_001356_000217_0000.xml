@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000217_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name> to <name type="person">William Smith</name> in <name type="place">Chattanooga, Tenn.</name>,
+               <date when="1865-05-30">1865 May 30</date>
+            </title>
+            <author>
+               <name>Smith, Eliza</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000217_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name> to <name type="person">William Smith</name> in <name type="place">Chattanooga, Tenn.</name>,
+                  <date when="1865-05-30">1865 May 30</date>
+               </title>
+               <date when="1865-05-30">1865 May 30</date>
+               <author>
+                  <name>Smith, Eliza</name>
+               </author>
+               <extent>5 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>         
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-17" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>         
+         <div type="letter" xml:id="d2e206">
+            <pb facs="0012_001356_000217_0002.jpg" n="1" xml:id="d2e208"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Binghamton</name> 
+                  <date when="1865-05-30">May 30 1865</date>
+               </dateline>
+               <salute>my dear husband</salute>
+            </opener>
+            
+            <p>it is with pleasure i answer your kind and welcome letter that i have just received from you May 30 and i was so glad to here you say you wa so much better as it leaves us al well bless god for so great a blessing i have been very poorely but bless god i am better i have ha the <orig>ereiples</orig> broke out in my face but it is better now we are very pleased to here you say you was coming home i hope you will come safe my dear i long to see you i have not heard from Alfred since i rote your last letter and then he was wes and he said he was coming home the 18 of june and i hope he will come with you i rote to him
+               
+               <pb facs="0012_001356_000217_0003.jpg" n="2" xml:id="d2e230"/>
+               about his money i told him as i do you to send it by Adams express office company it would be the <unclear reason="illegible" resp="NL">sopety</unclear> way Mr Mathers caled the other day to inqure after your health and he wished me to give his best respects to you and tell you to send your money to me by Adams express he says he is read of several bien robered of all they had worked had for but you can please your self rite me a nother letter when you are coming if you can when you know Austin is well he send his kind love to you and little henery is well he send you a thousand kises to you he goes to scholl
+               
+               <pb facs="0012_001356_000217_0004.jpg" n="3" xml:id="d2e235"/>
+               i have not much to rite this time i will tell you the more when you come home there is nothing fresh in binghamton only houses going up all round us i hope you will not stop in Nashvill it is a dreadfull place for roberers i hope you  will look out and dont sit down and goo to sleep there if you do you will be roberded be sure keep your eyes open and take care of Alfred i send you a thousand kises i long to see you i can hardley wait for you both to come so i must conclud with my kindest love from your affection wife Eliza Smith</p>
+            
+            <pb facs="0012_001356_000217_0005.jpg" n="4" xml:id="d2e238"/>
+            <p>Mr Mrs Coley best respects to you</p>
+            <p>Mr Mrs <unclear reason="illegible" resp="NL">sing</unclear>best respects to you</p>
+            <p>George how send his best respects to you</p>
+            <p>Austin wants to know if you can get him some laurel on look our mountin for to make him some rings</p>
+            <p>buy some blankets if you can or solgers coats for over coats dont forget</p>
+         </div>
+      </body>
+      <back>
+         <div type="envelope" xml:id="d2e263">
+         <pb facs="0012_001356_000217_0001.jpg" n="5" xml:id="d2e265"/>
+         <p>BINGHAMTON</p>
+         <p>MAY</p>
+         <p>31</p>
+         <p>N.Y</p>
+         <p><address>
+               <addrLine>Mr William Smith</addrLine>
+               <addrLine>Chattanooga</addrLine>
+               <addrLine>Tenn</addrLine>
+               <addrLine>Care S.C. Mears</addrLine>
+               <addrLine>Box 27</addrLine>
+            </address></p>
+         </div>
+      </back>
+   </text>
+</TEI>

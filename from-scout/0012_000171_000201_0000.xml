@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000171_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>William T. Presley</name>
+ in Camp near Middleton, Tenn., to Henrie, Prattville, Ala. <date when="1863-04-07">1863 April 07</date>
+            </title>
+            <author>
+               <name type="person">Presley, William T.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000171_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title> Letter, William T. Presley in Bedford County, Tenn. to H. A. Presley in Prattville, Ala., 1863 April 7</title>
+               <date>1863-04-07</date>
+               <author>
+                  <name>Presley, William T.</name>
+               </author>
+               <extent>4  digital images;  4 pages</extent>
+               <note type="abstract">William T. Presley wrote to his wife on April 4, 1863 from his camp near Middleton, Tenn. He had heard from her and was glad she and the children were well and had received money he had sent her. He mentioned he was ok. He was on detached duty as courier. He had been there two weeks and life there was better than he had had it since leaving home. He had been eating well. He had had trouble getting paper and envelopes. One of the men had been good to lift his spirits. He and his company were in hopes of getting back to Alabama and getting a furlough to go home. He was very homesick for his family. He hoped his wife didn&apos;t see him as weak. The men wanted the war to end, but there wasn&apos;t much hope. He was glad one of his sons was in school and had hopes the other one could go. He saw it as very important. He mentioned the arrival of spring. He wanted his wife to send him letters. He was going to send her more money, but told her not to talk about it. He sent his love to her and the family and prayed for their guidance and protection.</note>
+               <note type="collection">The William T. Presley Correspondence, 1862-1863</note>
+               <note type="manuscript">MS.2783</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Alabama -- Correspondence.</term>
+               <term>Families of military personnel -- United States.</term>
+               <term>Military spouses -- United States.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Alabama -- History -- Civil War, 1861-1865.</term>
+               <term>Presley, William T. -- Correspondence.</term>
+               <term>Presley, H. A. (Henry A.) -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e162">
+            <pb n="1" facs="0012_000171_000201_0001.jpg" xml:id="d3e163"/>
+            <p>Camp near Middleton</p>
+            <p>Bedford County Tenn</p>
+            <p>April 7th/63</p>
+            <p>Dear Henrie</p>
+            <p>your kind letter of the 27th of march was handed to me a few minutes ago. by bob, I was happy to hear that you were all well and doing well. and am happy to say to you that I am in tolerable good health at this time. I am now on detached duty as Courier and am stationed with five others about four miles from Middleton and about half way between Genrl Martins Head Qts and Genrl WHartons. I have been here twoo weeks and am living better than I ever have since I left home. we dont have a great deal of riding to do and have the privilege of eating at houses in the settlement and can get chickens and eggs and now and then a Baked Turkey or Goose and you know that is a treat after living on Bread not sifted and it cold and old fat Bacon broiled I was glad to hear that you received the money I sent you for I had began to get uneasy about it. I know that what was sent by James <unclear reason="illegible" resp="NW"> Call </unclear> was safe but what I sent by letter I was sorter afraid might come up missing as some did before. I recd </p>
+            <pb n="2" facs="0012_000171_000201_0002.jpg" xml:id="d3e182"/>
+            <p>a letter from you and from Narcissa both in the same Envelope last week and would have answered it before now but had no paper nor Envelopes Bob is out here to day he is well and as mischievious as a rat, at times when I take the blues right bad and get low sprited if it was not for Bob I would get down to low to travail. but he is always joval and full of fun. he sends his love to you all and says kiss <unclear reason="illegible" resp="NW">Nettie</unclear> for him. the boys are all in high spirits about Col <unclear reason="illegible" resp="NW">Clantons</unclear> getting our regt to go back to Ala. I am in high hopes it is so for if we get to ala I am certain to go home. if I knew I would not get a furlough by going to ala I would rather stay in Tennessee, because there is more in Tennessee for men and Horses to eat, but but the thoughts of seeing you and the children would make me willing to go almost any where The great talk of peace has again died away and you can never hear of such a thing only hear men wishing the war was ended and that we could have peace as we once had. then the question arises, will we ever have peace as we have had in gone by days</p>
+            <p>I was glad to hear that Augustus was going to school and wish you could send Lafayette you must send him if you possibly can. for schooling is all we can give them and I want </p>
+            <pb n="3" facs="0012_000171_000201_0003.jpg" xml:id="d3e198"/>
+            <p>them to have as much of that as we can give them tell them to be smart Boys and try to learn as fast as they can so Pa can see how smarty They are when he gets home. God Bless their little souls Pa wants to see them so bad he can hardly content himself to stay away from them any longer. oh that I could be at home this morning that I could fold my arms around your neck and press one more kiss upon your cheeks. my heavy heart would once more feel light while tears of joy would come freely from my eyes Call me not weak for these few tears </p>
+            <p>I am thinking of my happier years</p>
+            <p>Home Home Home Sweet Home</p>
+            <p>Henrie you must excuse me you may think I am weak but the thoughts of dear ones at home and no choice for me to see them it tries the strength of a mans heart and at times is more than I can bear until I get off by myself and shed a few tears which seems to be some relief.</p>
+            <p>Spring is making its appearance at last the Fruit trees are in full Bloom and the Birds are keeping up there merry songs. Farmers in this country are just now beginning to prepare there land for planting. in fact some of them have not run the first furrow to wards a crop while others are just beginning</p>
+            <pb n="4" facs="0012_000171_000201_0004.jpg" xml:id="d3e214"/>
+            <p>Henrie you must write often and write cheerful letters. I have the curls of <unclear reason="illegible" resp="NW">Netties</unclear> hair you sent me I take them out of my Pocket Book often to look at them. I have about one Hundred dollars more money to send to you the first chance, but when you get money dont say to moch about it for if you do people will want to make you pay a big price for every thing you get. I will send you one Hundred dollars the first chance I get give my love to Brother <unclear reason="illegible" resp="NW">uan </unclear> and family and to all inquirings friends and reserve a jug full for your self <unclear reason="illegible" resp="NW">may</unclear> god in his mercies guide and protect you is my daily Prayers for you and <unclear reason="illegible" resp="NW">dear </unclear> Family</p>
+            <p>Farewell for the present dear Henrie</p>
+            <p>Willie </p>
+            <p>
+               <unclear reason="illegible" resp="NW">E</unclear> Henrie</p>
+            <p>Prattville</p>
+            <p>Ala</p>
+         </div>
+      </body>
+   </text>
+</TEI>

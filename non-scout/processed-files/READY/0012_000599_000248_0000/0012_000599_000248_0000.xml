@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000248_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Isaiah and George Brown<date when="1862-04-27">1862 Apr. 27</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Henderson, Ian</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000248_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Isaiah and George Brown1862 Apr. 27</title>
+          <date when="1862-04-27">1862 Apr. 27</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000248_0001.jpg" xml:id="d4e39"/>
+        <p>April 27th</p>
+        <p>This is the <gap reason="indecipherable" resp="Henderson"/> The Braves are drest with the pants legs in There Boots</p>
+        <p>Dear boys to me I would like to be with you and your mother This afternoon For i am alone in my Bunk and do not Feel verry well at I hope i shall feel better the Next letter i write to you i was very glad to hear the news you Sent me about the young stock And the prospect of more you must take the best care if Jule And the colt you can and Not work her to hard i expect you will have to <unclear reason="illegible" resp="IH">pasture</unclear> that Clover field if you do you must Not turn in Till it comes Out in bloom if you can get Along with out it maybe</p>
+        <pb n="2" facs="0012_000599_000248_0002.jpg" xml:id="d4e52"/>
+        <p>That This one Battle may be the The winding up of this war Some of our officers thinks It will but it is a very hard Case for any of us to decide The rebels appear to be very Spunky we have about three hundred cannon ready for them with our force here and some of the best little gun boats on the river They one or two At this last fight that they Throwed Some bum shells four miles out from the River and killed a goodly Number of the rebels i do not want you to think that i am Bosting for men had hard work to gain the day they Fought 2 days Sunday and Monday they worsted our men on Sunday they nearly and</p>
+        <pb n="3" facs="0012_000599_000248_0003.jpg" xml:id="d4e56"/>
+        <p>Hole Brigade the first day and Our men attacked the next morning about 4 o'clock and Gained the day and took all Cannon but one from them And took a good many prisoners a nuff of that you said that Barny would not give but one Third in The Crib you had better Let him have it and give one Half in the field if should not get home in time to tend To it you can get Some boddy Else to do it for you if i should Get killed you would have to Do the best you could at any Rate i got two more letter Stamps in your last one to I was verry glad to get them For i had but one left anymore And we never see any only what we get from home</p>
+        <pb n="4" facs="0012_000599_000248_0004.jpg" xml:id="d4e60"/>
+        <p>no more at present but still Remain Dear Father H. Brown to Isaiah, M. Brown</p>
+        <p>Now george i would like to See you a <unclear reason="illegible" resp="IH">loping</unclear> around the The house like you did when I was at home with if you was here to day you would See more in one minute Than you ever saw before The tents are thick all Around us in the woods There is not a house to be seen Now george be good Boy so i can brag on you When i get home with you I am verry tiried writing you must look over all mistakes</p>
+        <p>So good georgey H. Brown to his son G. W. Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

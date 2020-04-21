@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003423_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+               <name type="author">Joseph Oliver Freeman</name> in <name type="place">Shelbyville, Tennessee</name>, to Indiana Freeman, 
+               <date when="1863-05-05">1863 May 05</date>
+            </title>
+            <author>
+               <name>Freeman, Joseph Oliver</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the Special Collections Library.</p>
+            </availability>
+            <idno>0012_003423_000206_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">Joseph Oliver Freeman</name> in <name type="place">Shelbyville, Tennessee</name>, to Indiana Freeman, 
+                  <date when="1863-05-05">1863 May 05</date>
+               </title>
+               <date when="1863-05-05">1863 May 05</date>
+               <author>
+                  <name>Freeman, Joseph Oliver</name>
+               </author>
+               <extent>3 digital images</extent>
+               <note type="collection">Joseph Oliver Freeman Letters, 1861 December 22 - 1864 June 12, undated</note>
+               <note type="manuscript">MS.0806</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Chickamauga, Battle of, Ga., 1863.</term>
+               <term>United States--History--Civil War, 1861-1865--Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-17" who="nl">Updated earlier transcription from the old TEI.2 system to anticipate and resolve difficulties and issues with re-formatting letters from this collection into TEI-P5 lite.</change>
+         <change when="2013-07-15" who="nl">Added "idno" element, 
+            editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference 
+            declaration element. Changed the formatting for blank pages. 
+            Added resp attributes to editorial changes, and added name 
+            tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e166">
+            <pb facs="0012_003423_000206_0001.jpg" n="1" xml:id="d2e168"/>
+            <opener>
+               <dateline>Camp near 
+                  <name type="place">Shelbyville <choice><orig>Tennse</orig><corr resp="pw">Tennessee</corr></choice></name> 
+                  <date when="1863-05-05">May the 5 D 1863</date>
+               </dateline>
+               <salute>My Dear Wife</salute>
+               </opener>
+            
+            <p>I take the opetuney of riten you a Few lines to let you no that I am well at this time and Were hopen when thes Few lines comes to hand that thay may Find you well  I hav noth new to rite oly times is near gud hear  we haft to Dril <unclear reason="illegible" resp="PW">mbe</unclear>ever Day  after Dril then I go to the <unclear reason="illegible" resp="PW">branddancen</unclear> I dont no we ther thay ar ill be eney.  <unclear reason="illegible" resp="PW">Filen he ar ar not</unclear></p>
+            <p>I reseve you leter From Dr Sharson and I rote won and sente one back by him  I want you to rite to me  Show you ar gitten a long and wher you ar a livinen</p>
+            
+            <pb facs="0012_003423_000206_0002.jpg" n="2" xml:id="d2e204"/>
+            <p>at  I wont rite eney more at this time I had Drother come and bring this letter then to send hit</p>
+            <p>Indiani kiss the baby for me you Dont no how bad I wont to see you and the baby  giv my repeckes to ol the connextion and Frendes  tel laura <unclear reason="illegible" resp="PW">Shunt</unclear>I hav met <unclear reason="illegible" resp="PW">Fergsten</unclear>hear yeat giv hear my love and best Repeckes  tel hear that Tom Dennis is well tel hear that he is al rite  tel hear not to maree a concript  wate and get a rebel  tel hear to rite to us  do noth more at presen but remane your Fxection Husban</p>
+            
+            <closer>
+               <salute>Far you well Dear Indiani</salute>  
+               <signed><name>Joseph Freeman</name></signed>
+            </closer>
+         </div>
+      </body>
+      
+      <back>
+         <div type="envelope" xml:id="d2e233">
+            <pb facs="0012_003423_000206_0003.jpg" n="3" xml:id="d2e235"/>
+            <p><address>
+               <addrLine>Mrs Indand Freeman</addrLine>
+               <addrLine><name type="place">Randolph <choice><orig>Tensee</orig><corr resp="pw">Tennessee</corr></choice></name></addrLine>
+            </address>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

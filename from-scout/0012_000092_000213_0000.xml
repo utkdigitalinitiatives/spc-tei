@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000213_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Stevenson, Ala, to Crittenden Cregmile, <date when="1863-09-05">1863 September 5</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000213_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Stevenson, Ala. to Crittenden Cregmile, 1863, September 5</title>
+               <date>1863-09-05</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1863 September 5 Southgate Cregmile in Stevenson, Ala., to his brother Crittenden. Assures him that he and all their hometown boys are well. Has arrived in Ala. before the rest of the division which has just been ordered up. Gen. Negley has left word for Col. Wilder to make sure eight days of rations are packed in wagons and two days in haversacks, before leaving Cowan. The 2nd Division is near Chattanooga, but the rest of the Army of the Cumberland is in Atlanta, where they must fight or be ravaged. Chattanooga, normally a very busy railroad town, has been brought to a halt with Col. Wilder&apos;s passing through. Urges him to write soon.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Confederate States of America.</term>
+               <term>Combat -- History -- 19th century.</term>
+               <term>Command of troops -- History -- 19th century.</term>
+               <term>Confederate States of America -- History.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military leadership.</term>
+               <term>Military police.</term>
+               <term>Campaigns &amp; battles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000092_000213_0001.jpg" xml:id="d3e164"/>
+            <p>Campe Near Stevenson</p>
+            <p>Alabama</p>
+            <p>Sept 5th 1863</p>
+            <p>Brother Crit</p>
+            <p>I receved your letter yesterday and was glad to here that you were well. </p>
+            <p>all the Reily boys and I are well. I have been at Stevenson for tow weeks a garding napsacks the Regment is still back at <unclear reason="illegible" resp="NW">Cawan</unclear> but is ordered up Gen Negley passed here the other night and sed for us to tell the Col for to have ten days rashions in the wagons and tow in the haversack our Division is in front of Chattanooga and the main army has went round to Atlanta in Georgia. thay will halft to fight now for </p>
+            <pb n="2" facs="0012_000092_000213_0002.jpg" xml:id="d3e185"/>
+            <p>there is no place for them to run to. there were a hundred locomotives in Chattanooga at one time there were ninty trains passed out one day but when old Wilder got a round there he stoped there runing</p>
+            <p>well I must stop now and will rite a longer letter the next time rite soon</p>
+            <p>S. Cregmile</p>
+            <p>Stevenson</p>
+            <p>Ala</p>
+         </div>
+      </body>
+   </text>
+</TEI>

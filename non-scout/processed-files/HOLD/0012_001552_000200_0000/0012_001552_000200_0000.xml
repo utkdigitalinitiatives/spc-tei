@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001552_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>H. G. Wax</name>
+				                    in Mill Bend, to his cousin App<date when="1865-02-25">1865 Feb. 25</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">H. G. Wax</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_001552_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, H. G. Wax in Mill Bend, to his cousin App1865 Feb. 25</title>
+               <date when="1865-02-25">1865 Feb. 25</date>
+               <author>
+                  <name type="person">H. G. Wax</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">H.G. Wax Letter</note>
+               <note type="manuscript">MS.0761</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e37">
+            <pb n="1" facs="0012_001552_000200_0001.jpg" xml:id="d4e38"/>
+            <p>Mill Bend Feby 25th 1865</p>
+            <p>Dear Cousin <unclear reason="illegible" resp="JCM">App</unclear>
+            </p>
+            <p>I have been looking for a letter from you for a long time but it seems that you have forgot that you ever lived in old Hawkins although it is the worst place that I ever lived in for the last twelve months or more. More particular at Mill Bend for I do believe that they are the worst people living in and around here that I ever knew for lyeing stealing &amp; murdering. The 15 of January last there come a raid of <unclear reason="illegible" resp="JCM">Bushwhackers</unclear>from over in Green county &amp; off White horn &amp; Beech Creek. Headed by Ben Bailey Vol <unclear reason="illegible" resp="JCM">Keele</unclear>and our John Webster who has deserted us with 65 of the lowest down trash of the earth at 2 Oclock in the morning &amp; Robbed the Bend of every thing they could carry off took all of my Bed clothes &amp; wearing clothes &amp; plundered the House from top to Bottom &amp; would of killed me it had not of been for John Webster as <unclear reason="illegible" resp="JCM">I afterwards understoods</unclear>. They done Mary Jane Charles Mary Spears &amp; old Jake in the same way. They also caught Lazarous Spears &amp; <unclear reason="illegible" resp="JCM">Lanis Manis</unclear>at Mrs Spears stable where they were Sleeping &amp; after they surrendered they Brought them out to the Big gate &amp; shot-them both down dead. They then went to old Jake &amp; caught Newt &amp; Buck Warren Dyer thee O&apos; <unclear reason="illegible" resp="JCM"> Schrivner</unclear>&amp; Alexander Webster which they took to Knoxville all but Dyer who got away from them 6 miles this side of Knoxville &amp; has come back. They </p>
+            <pb n="2" facs="0012_001552_000200_0002.jpg" xml:id="d4e63"/>
+            <p>also tooke John Spears with them as for Jake Myers this side of the Gap &amp; turned him loose and <unclear reason="illegible" resp="JCM"> Alex</unclear>Webster who are now at home but have to hide out every night - they tooke all of our Horses amounting to 19 head they got from us all they have ruined me I would get back to town if I could get anything to haul me there.  for I have never spent <unclear reason="illegible" resp="JCM">just</unclear>such alife. for I am afraid to stay at at Home for fear of being Killed at any time - I wish I had of Stayed in town Where there would of been some protection to my family against <unclear reason="illegible" resp="JCM">Bushwackers</unclear>if not against the Raids of the Regular <unclear reason="illegible" resp="JCM">Army</unclear>for they have Ruined <unclear reason="illegible" resp="JCM">nearly</unclear>every body along the Road as they went to the Salt <unclear reason="illegible" resp="JCM">works</unclear>. The River now nearly out of Banks &amp; Still Raining hard - it dont look like at present that there will be any thing raised here this year. for theYankees holds here we have now &amp; then a scout here. But have to run out when theYankees get after them I fear that Our <unclear reason="illegible" resp="JCM">independence</unclear>will never be gained &amp; if not we are ruined Time without end. - Kit Spears is at home at present &amp; tells me Henry was Badly wounded at the fight at Franklin. But says he was getting better when he last heard from him I hope he will recover. I get Home If I take a notion to go to town I will get old Mrs Richards to come &amp; stay here for I cant do any good <unclear reason="illegible" resp="JCM">afarming</unclear>with out Horses &amp; no help. for sam has gone to stay with his uncle Jake and </p>
+            <pb n="3" facs="0012_001552_000200_0003.jpg" xml:id="d4e92"/>
+            <p>and Ella has gone to Tom Moores to live because she got in a <unclear reason="illegible" resp="JCM">bet</unclear> at her stepmother influenced by her aunt Sallie Moore. So I have no body with me but my John that is able to do anything I have been so <unclear reason="illegible" resp="JCM">mum</unclear> about <unclear reason="illegible" resp="JCM">since</unclear> I have been living here that I lost nearly every thing that I had ever made. I have made nothing here I have lost four good Horses since I <unclear reason="illegible" resp="JCM">have</unclear> been living at Mill Bend besides what other things the Bush Whackers have took from me four they plunderd every place and cut off nearly every saddle skirt off they could get their hands on they cut Mary Jane Charles&apos; saddle &amp; brought her saddle down to Mary Spears gate where the Boys lay dead. I was the first to find them after they was Killed as I went down as soon as daylight came expecting to find them all dead from the report of the <unclear reason="illegible" resp="JCM">Guns</unclear> fired they shot at John But <unclear reason="illegible" resp="JCM">Jessee Knocked up the Gun</unclear> &amp; the Ball passed through his coat right over his collar Bone - then Jim Hughes then interfered <unclear reason="illegible" resp="JCM">&amp; kept them</unclear> from killing him they would killed Ell Spears if They of caught him But he got out of the House while Lazoraus &amp; Manis was fighting then at the stable</p>
+            <pb n="4" facs="0012_001552_000200_0004.jpg" xml:id="d4e118"/>
+            <p>and made his escape - two of <unclear reason="illegible" resp="JCM">Ishane</unclear> Dykes Boys &amp; West from White horn shot the Boys first - since then the 2 Dykes Boys have been Killed by <unclear reason="illegible" resp="JCM">Lunt</unclear> Jim Webster &amp; Rogers scout who caught them in six or 8 days afterwards in a cover over in Greene county at the same time wandering &amp; catching Capt Bowers a notorious Bushwhacker from about fall Branch the scouts are Raiding backwards and forwards catching &amp; killing each other like Indians. James <unclear reason="illegible" resp="JCM">Bussell</unclear> is still a live but is quite feeble uncle Jim Miller sends you his repects &amp; says he would <unclear reason="illegible" resp="JCM">like to see</unclear> you- I have a little Bacon for you if I can keep it - But the soldiers are going around up all they can. I look for them nearly every day - I meant you to write to me as soon as you get this &amp; give me all the news you have about the army &amp; from Henry - give my love to cousin Peggy &amp; Respect for yourself my best wishes.</p>
+            <p>Very Respectfully</p>
+            <p>H. G. Wax</p>
+         </div>
+      </body>
+   </text>
+</TEI>

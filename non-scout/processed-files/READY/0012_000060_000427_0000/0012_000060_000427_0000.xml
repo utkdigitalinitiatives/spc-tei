@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000427_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J.G.M. Ramsey</name>
+				                    in Knoxville, Tenn., to the Tennessee Historical Society  in Nashville, Tenn.<date when="1875">1875</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Williams, Nancy</name>
+        </respStmt>
+        <author>
+          <name type="person">J.G.M. Ramsey</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000427_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J.G.M. Ramsey in Knoxville, Tenn., to the Tennessee Historical Society in Nashville, Tenn.1875</title>
+          <date when="1875">1875</date>
+          <author>
+            <name type="person">J.G.M. Ramsey</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Williams, Nancy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000060_000427_0001.jpg" xml:id="d4e39"/>
+        <p>Since the last meeting of the H.S. of Tennessee the <unclear reason="illegible" resp="NW">disintombment</unclear> of the remains of Gov. <unclear reason="illegible" resp="NW">Willey</unclear> Blount has taken place. their reinterment at Greenwood County near Clarksville J. <unclear reason="illegible" resp="NW"> corsruatyel</unclear> to his memory &amp; his fame a monument of Knoxville Marble have taken place. The whole ceremonial has been market by good taste a becoming <unclear reason="illegible" resp="NW">propriety </unclear> &amp; due solemnity. <unclear reason="illegible" resp="NW">Larksville </unclear> is already <unclear reason="illegible" resp="NW">historie </unclear> it bears its name from George Rogers Clarke of even anti-Revolutionary memory the intrepid leader who carried his conquests from the mouth of the Ohio to the Lakes &amp; to Detroit arriving thus to the Anglo-American population that <unclear reason="illegible" resp="NW">extensive</unclear> then known as the Great West. Clarksville now becomes historie again as being the last resting place of Willie Blount. The youthful Secretary of his illustrious Brother Wm. Blount Governor of the Territory South of the Ohio = who first opened his Court in the wilds of Watauga &amp; soon after established the seat of the Territorial Govt. at Whites Fort now Knoxville which soon thus became the ancient Capitol of Tennessee. There Willie B, continued for sometime assisting in the <unclear reason="illegible" resp="NW">incipient  measures of</unclear> adopted for the future Government of the new State <unclear reason="illegible" resp="NW">Tradition</unclear>  is that the labouring of our proper Legislation was wisely entrusted to his <unclear reason="illegible" resp="NW">skifful</unclear> &amp; able managment. ' The ship of State was launched in safty &amp; under his cautious <unclear reason="illegible" resp="NW">petolship</unclear> has been carefully &amp; succesfully directed in its progress to the present era. During his<unclear reason="illegible" resp="NW">gobernatones durnurer Raulron </unclear> the war of 1812 or <unclear reason="illegible" resp="NW">cured </unclear> Theretofore his duties had been performed with the entire approbation of a patriotic constituincy. The times were quiet &amp; peaceful but Gov. B. in his boyhood had well learned the lessons of his youth amongst his North Carolina countrymen when in 1771 they formed the first armed resistance against arbitrary power that had  <unclear reason="illegible" resp="NW">hithortes signalised</unclear> any of the British Colonies. The Rebels of <unclear reason="illegible" resp="NW">Mumunu</unclear> were unsuccesful in this resistance - but like the mammoth shook the " Bolt from their brow " - crossed the Mountain &amp; by conquest &amp; posession settled Tennessee &amp; the West Gov. Blount follow them to this wilderness &amp; self-government being now securely established he found the aggressive policy of England had <unclear reason="illegible" resp="NW">involical</unclear> the state of his adoption in a sound war of Independenc &amp; freedom as the Executive of Tennessee he appealed at once to the patriotism &amp; chivalry of the State - This appeal was not in vain. It was followed by the organization of a <unclear reason="illegible" resp="NW">fone</unclear> of Volunteer soldiery whose deeds of daring &amp; martial achievement will be remembered as unsurpassed in the annals of war </p>
+        <p>In this brief <unclear reason="illegible" resp="NW">inumsation</unclear> of incidents in the career of Gov. Blount, it will not be considered inappropriate for this County in a formal manner to express its cordial sympathy &amp; its unanimous concurrence in the honors so recently paid to his memory &amp; so worthy of his high character - his statesmanship &amp; his high souled &amp; enlightened patriotism. Therefore   </p>
+        <p>Resolved 1st. That the H.S. of T. takes this earliest opportunity to commend the Executive &amp; Legislative of Tennessee for the Princely appropriation made for the exhumation &amp; <unclear reason="illegible" resp="NW">re-interment</unclear> of the remain of Gov. Blount at Clarksville &amp; for the erection in Greenwood </p>
+        <pb n="2" facs="0012_000060_000427_0002.jpg" xml:id="d4e106"/>
+        <p>Cemetery of a monument of Knoxville Marble consecrated to his memory &amp; to his early residence in that ancient Capitol of Tennessee Resolved 2 that the thanks of the Society be presented to Governor Porter, the present Executive of Ten. &amp; to <unclear reason="illegible" resp="NW">Ex-governor N.T. Brown </unclear> for their eloquent &amp; appropriate addresses, delivered on the occasion of the Blount <unclear reason="illegible" resp="NW">Obsequies</unclear> at Clarksville </p>
+        <p>Resolved 3rd. Nor can we withold a similar expression of our approbation for the active participation in these memorial ceremonials by Hon. Charles G. Smith &amp; Capt. Polk G. Johnson " leading spirits in this <unclear reason="illegible" resp="NW">reverence</unclear> to our past history ".  </p>
+        <p>Resolved 4th. that we commend to the immitation of our young men of Tennessee, the bright example of Gov. Blount as a model by which to guide their future lives &amp; conduct. Let their motto be like his - many self <unclear reason="illegible" resp="NW">rehaniy</unclear>, Honor, Probity Public Spirit Truth &amp; Public &amp; Private virtue </p>
+      </div>
+    </body>
+  </text>
+</TEI>

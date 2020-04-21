@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000431_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Jas. D. Porter</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1876-03-01">1876 Mar. 1</date>
+            </title>
+            <author>
+               <name type="person">Porter, James D. (James Davis), 1828-1912</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000431_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Jas. D. Porter in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1876 Mar. 1</title>
+               <date>1876-03-01</date>
+               <author>
+                  <name>Porter, James D. (James Davis), 1828-1912</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages.</extent>
+               <note type="abstract">1876 Mar. 1, Jas. D. Porter, Governor of Tennessee, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Informs J.G.M. that, with his permission, his paper on Gov. Blount will be read in Philadelphia at the July second commemorative celebration and will then be published in book form.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Governors -- Tennessee -- History -- 18th century.</term>
+               <term>Character -- Political aspects -- Tennessee -- History -- 19th century.</term>
+               <term>Political culture -- United States -- History -- 19th century.</term>
+               <term>United States -- Centennial celebrations, etc. -- History -- 19th century.</term>
+               <term>Philadelphia (Pa.) -- Centennial celebrations, etc. -- History -- 19th century.</term>
+               <term>Porter, James D. (James Davis), 1828-1912 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000431_0001.jpg" xml:id="d3e155"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000431_0002.jpg" xml:id="d3e167"/>
+            <p>Nashville, Tenn., March 1st 1876</p>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville, Tenn.</p>
+            <p>My dear Sir: I have received your vindication of the character of Govr. Blount from the aspersions of Judge Gayarre; before it reached me, I had received from Mr <unclear reason="illegible" resp="JR">Itting</unclear> Secretary of the Committee on the restoration of Independence Hall, a formal application to me to furnish a sketch of the life of Govr. Blount, to be read at Philadelphia on the 2nd of July next, and with your consent, I propose to furnish in your name, the paper now in my possession; it will then be published in</p>
+            <pb n="3" facs="0012_000060_000431_0003.jpg" xml:id="d3e184"/>
+            <p>book form, with sketches of all the delegates to the Convention that formed The Federal Constitution; its publication now named excluded it from the book referred to, as name but sketches prepared exclusively for it will appear, if this is agreeable to you, I will have the paper carefully copied, and will file the original with the Historical Society.</p>
+            <p>I did not receive the copies of the &quot;Age&quot; referred to in your letter, I would be pleased to see the articles mentioned.</p>
+            <p>Very Truly Yours.</p>
+            <p>Jas. D. Porter.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

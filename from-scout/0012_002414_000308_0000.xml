@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000308_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Power of Attorney,
+					<name>William R. Reed</name>
+				                   to Henry H. Reed., <date when="1826-11-20">1826 Nov 20</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">William R. Reed</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000308_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Power of Attorney, William R. Reed to Henry H. Reed., 1826 Nov 20</title>
+               <date when="1826-11-20">1826 Nov 20</date>
+               <author>
+                  <name type="person">William R. Reed</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000308_0001.jpg" xml:id="d4e39"/>
+            <p>November 20  1826</p>
+            <p>Power of Attorney from</p>
+            <p>William R. Reed  to</p>
+            <p>Henry H. Reed <unclear reason="illegible" resp="pw">LoSallyes</unclear>
+            </p>
+            <pb n="2" facs="0012_002414_000308_0002.jpg" xml:id="d4e51"/>
+            <p>I William B. Reed do hereby constitute and appoint Henry H. Reed my attorney for me and in my name to receive the dividends
+				       due and to become due on the stock standing in my name on the Books of the Insurance Company of North America and to sell
+				       and transfer the said Stock.  Witness my hand and seal this Twentieth day of November.  In the year of our Lord one thousand
+				       eight hundred and twenty six.</p>
+            <p>William B. Reed.</p>
+            <p>City of <unclear reason="illegible" resp="pw">Miclaeulpliass</unclear>
+            </p>
+            <p>Be this ninth day Mar Anne <unclear reason="illegible" resp="pw">Doniue</unclear>1827   Before me <unclear reason="illegible" resp="pw">illegible</unclear>
+               <unclear reason="illegible" resp="pw">illegible</unclear>an <unclear reason="illegible" resp="pw">Aldunce</unclear>of said city
+				       <unclear reason="illegible" resp="pw">Icnth</unclear>Reed who <unclear reason="illegible" resp="pw">Crus</unclear>duly<unclear reason="illegible" resp="pw">Inen</unclear>
+               <unclear reason="illegible" resp="pw">delh</unclear>
+               <unclear reason="illegible" resp="pw">dfcen</unclear>and 2 <unclear reason="illegible" resp="pw">ci</unclear>Mar
+				       the above is now proper<unclear reason="illegible" resp="pw">heard</unclear>
+               <unclear reason="illegible" resp="pw">notnes</unclear>of his son
+				       William B Reed with which he is well acquainted</p>
+            <p>Hy. Reed</p>
+            <p>Swan &amp;Sulnoto  May 9 ? 1829</p>
+            <p>Before me James W <unclear reason="illegible" resp="pw">illegible</unclear>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

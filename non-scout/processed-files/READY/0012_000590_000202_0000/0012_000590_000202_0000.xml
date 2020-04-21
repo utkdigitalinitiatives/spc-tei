@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000590_000202_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>John F. Shumaker</name> in Washington City, to Elbert Herring
+				    <date when="1836-07-04">1836 July 4</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">John F. Shumaker</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000590_000202_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John F. Shumaker in Washington City, to Elbert Herring 1836 July 4</title>
+          <date when="1836-07-04">1836 July 4</date>
+          <author>
+            <name type="person">John F. Shumaker</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">William Holland Thomas and James Robert Thomas Collection</note>
+          <note type="manuscript">MS.2072</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Cherokee Indians -- Biography.</term>
+          <term>Cherokee Indians -- History.</term>
+          <term>Confederate States of America. Army -- Biography.</term>
+          <term>Soldiers -- Confederate States of America -- Biography.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000590_000202_0001.jpg" xml:id="d4e39"/>
+        <p>Copy</p>
+        <p>Washington City July 4th 1836</p>
+        <p>Sir <unclear reason="illegible" resp="AH">Bifise</unclear> I left the Cherokee Country; and after the Cherokee Treaty was concluded.  Knowing the very disturbed condition of the Cherokees and their suffering need of provisions I requested some persons whom I knew were able to do it, to supply the poor and destitute with provisions to keep them from starvation.  I requested particularly <unclear reason="illegible" resp="AH">Col A. R. L.</unclear> Hunter of Huntington Wa &amp; Mr. Rogers the father of Wm Rogers, one of the Cherokee delegation from the Chattahoochee in georgia; and Mr. Wm H Thomas, of Haywood NC to render the Indians in their vicinity every <unclear reason="illegible" resp="AH">repary</unclear> aide assistance; and i assumed then they would be paid by the government a fare price for the same out of the money provided for this purpose by the 18th article of the treaty.  I trust therefor that the government will give the <unclear reason="illegible" resp="AH">necessary</unclear> directions and instructions to their agents entrusted with this <unclear reason="illegible" resp="AH">leurinz</unclear> to allow and pay the accounts of these gentle men for the provisions they have furnished according to my request, and at such a price as the other contracts are made for Cenn.</p>
+        <p>I am with great respect</p>
+        <p>
+          <unclear reason="illegible" resp="AH">Your Abl Seral</unclear>
+        </p>
+        <p>John F. Schummaker</p>
+        <p>(signed)</p>
+        <p>To the Honorable</p>
+        <p>Elbert Herring</p>
+        <p>Commissioner LA</p>
+        <p>I certify that the above is a true copy from the original on file in the Office Indian Affairs</p>
+        <p>22 May 1839</p>
+        <p>L. R. Cruttenden</p>
+        <p>LR</p>
+        <pb n="2" facs="0012_000590_000202_0002.jpg" xml:id="d4e86"/>
+        <p>W2487 J473<unclear reason="illegible" resp="AH">GSU</unclear>
+            </p>
+        <p>Copy of Mr. Schumakers letter</p>
+        <p>In relation to the claim</p>
+        <p>B.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

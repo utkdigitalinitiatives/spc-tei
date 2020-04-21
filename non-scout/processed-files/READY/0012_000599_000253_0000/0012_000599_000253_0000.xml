@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000253_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>	Letter,
+					<name>Henry Brown</name>
+				                     to Caroline M. Brown<date when="1862-04-07">1862 Apr. 7</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Henderson, Ian</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000253_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown1862 Apr. 7</title>
+          <date when="1862-04-07">1862 Apr. 7</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000253_0001.jpg" xml:id="d4e39"/>
+        <p>April 7th 1862</p>
+        <p>April 7th 1862</p>
+        <p><unclear reason="illegible" resp="IH">Ambre</unclear> April May the <unclear reason="illegible" resp="IH">E</unclear>
+            </p>
+        <p><unclear reason="illegible" resp="IH">Mrs</unclear> Caroline M. Brown</p>
+        <p>Dear Wife Sit down this nice morning to Let you know that I am well at this Hopeing these few lines will find you And The Children the same We Still remain in the same camp and we do not know how long we will Stay we may Have to move Soon and we may not we know of no Rebel force any ways close Here Some down in Alabama But i do not think that we will ever See one of them Altho we may before we get home</p>
+        <pb n="2" facs="0012_000599_000253_0002.jpg" xml:id="d4e57"/>
+        <p>we are getting very lonesome we have not any letters For Some Time i got yours Of the 23 with a few lines in It from James Henry i answer Them rite away but you are Behind Several Letters yet His makes fourteen for me Since i got Back to camp And only 4 from you yet i want you to write to me Once a week while i am in The survice i think we will Get home after a while There are a great many diferent opinions about the close of This war with us in camp Some thinks it will Soon Be over and Some says that It will last a good while yet we cannot tell any thing about for we do not <unclear reason="illegible" resp="IH">know</unclear>
+            </p>
+        <pb n="3" facs="0012_000599_000253_0003.jpg" xml:id="d4e63"/>
+        <p>And we dont care as long As we keep well and can Hear from home and while you Keep well Now we cant tell you any news for we cant Get much here I would like If you would Subscribe for The Perry County paper printed At New Lexington for you will get more news that I Can write there is a grate many Letters thave to be publish by The Regment you mite get the mail boy to leave them at Mrs Starshall have them Address to <unclear reason="illegible" resp="IH">millesst</unclear> you could get H. Ketchany to speek To the mail boy to carry Them to marshall for you Take them for Six months we have bin buying Some Types the most of <unclear reason="illegible" resp="IH">Co</unclear> A boys</p>
+        <pb n="4" facs="0012_000599_000253_0004.jpg" xml:id="d4e73"/>
+        <p>I bought your name and As you will See by this Letter the two cost me 75 cts I will send you two invelope with my name on them To send back to me and i want Some more Stamps Sent to me for we cannot Get any here Direct your Letters to Camp Columbia Tennessee I Shall close by Saying i would like to be at Home with you so good by I still remain your true Husband until death Boys i would like to see you very much But i Cant have the privelige yet so no more at present But Still remain your Father until death good by to all</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

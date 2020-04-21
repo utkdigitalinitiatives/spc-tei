@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000228_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1865-06-26">1865 June 26</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000228_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Memphis, Tenn., to his wife 1865 June 26</title>
+               <date when="1865-06-26">1865 June 26</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000228_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis, Tenn., June 26, 1865</p>
+            <p>My Darling</p>
+            <p>Yours of the 18 recd I hope you will be careful about our boy climbing the large trees he is not yet strong enough to trust to his arms and may get a bad fall tell him Pa dont want his boy hurt and as he is little he must only climb the little trees and that he must mind his mama or papa wont <unclear reason="illegible" resp="EMS">love</unclear> him I saw Mrs Taylor this morning she found me out as I could not find her. <unclear reason="illegible" resp="EMS">Ewing</unclear> has been in town but did not call to see me. I think I shall leave this about the middle of July or possibly sooner as I think the Treasury is about played out everyone thinks I can make money by practicing law here but I do not like the climate however I think I shall have to try it next winter as I have a larger acquaintance here than anywhere else and the climate will suit you and the children. I hope</p>
+            <pb n="2" facs="0012_000298_000228_0002.jpg" xml:id="d4e53"/>
+            <p>you got the money I sent you by Genl Orme last week as there was too much to lose my duties are much lighter since the 20 when all trade East of the Miss River was declared free and no proof of the growth of cotton required only Arkansas and a part of Louisiana are now in my district and on some days there is nothing to do so I sit in the office and try to keep cool the weather is near pleasant and as we have had a good deal of rain the dust not so bad I am very well again but since I have less work I think of you more and get restless and fell as if I must go home at once. I wrote to Charlie to day telling her to come down on Thursday as there is no boat on friday and she can stay untill I go up Kiss all for me. </p>
+            <p> Your Aff Husband </p>
+            <p>Mrs Wm. R Hackley  WRHackley</p>
+            <p> Bloomington, Ills</p>
+         </div>
+      </body>
+   </text>
+</TEI>

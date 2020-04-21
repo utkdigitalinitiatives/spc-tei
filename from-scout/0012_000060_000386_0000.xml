@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000386_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Salisbury, N.C., to Col. John H. Crozier in Knoxville, Tenn.<date when="1870-03-30">1870 March 30</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000386_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Salisbury, N.C., to Col. John H. Crozier in Knoxville, Tenn. 1870 Mar. 30</title>
+               <date>1870-03-30</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>6 digital images; 6 pages</extent>
+               <note type="abstract">1870 Mar. 30 J.G.M. Ramsey, Salisbury, N.C., to his lawyer and brother-in-law, Col. John H. Crozier, Knoxville, Tenn. Expressed hope that the case of Ludlow and Ramsey will be favorably decided by the Supreme Court. Long discussion of his debts and how they are to be paid. Instructs Col. Crozier to invest J.G.M.&apos;s money in Knox County bonds. Refers to judgment just made by Supreme Court that confiscated lands will revert to the heirs. Mentions agreement with Breakbill.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey family</term>
+               <term>Tennessee, East -- History -- 1865-</term>
+               <term>North Carolina -- History -- 1865-</term>
+               <term>Ramsey, J.G.M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Reconstruction (U.S. History, 1865-1877) -- Social aspects.</term>
+               <term>Reconstruction (U.S. History, 1865-1877) -- Personal narratives.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000060_000386_0001.jpg" xml:id="d3e150"/>
+            <p>Our Retreat March 30, 1870</p>
+            <p>Dear Sir</p>
+            <p>I wrote you yesterday in full but the one who took it to Salisbury forgot to put a stamp upon it I dropped it into the P.O. Box with several other letters &amp; thus it may never reach you &amp; therefore hasten to repeat what I wrote you yesterday viz that I have already seen <unclear reason="illegible" resp="NW">ymcoon,</unclear> Burton <unclear reason="illegible" resp="NW">Craige</unclear> formerly M.C. from this <unclear reason="illegible" resp="NW">Dist.</unclear>Attorneys at Law Washington that as every day they had access to Dockit of Supreme Court U.S. he requested them to examine &amp; send him word when the case of Ramsey against Ludlow would be taken up to answer him at once. I hope he will hear from them soon &amp; I will immediately forward to you. But you had better write to the Clerk there &amp; find out certain by &amp; at once. Who will represent the case any how? I have left it all in your hands &amp; if you do not go can you deputise &amp; employ another who has all the points &amp; will be faithful? It is a critical point &amp; I know you will be vigilant If the Clerk fails to answer your letter &amp;if Col Craige fails to hear from Pike &amp;(with the former of whom he missed two years in Congress) is there </p>
+            <pb n="2" facs="0012_000060_000386_0002.jpg" xml:id="d3e171"/>
+            <p>not some other lawyer friend of yours (-say from Nashville) now in Washington to whom you can write? It would be unfortunate if after all your trouble &amp; my expense the case comes on abruptly &amp; we suffer a snap judgment</p>
+            <p>If the Com. (Comfort) is unable to make a report at the next <unclear reason="illegible" resp="NW">town</unclear> in the B. &amp; R. case, you say &quot;I will have a breathing spell to dispose of any property I have there. &quot; <unclear reason="illegible" resp="NW">Will</unclear> let us use it at once. I wrote you heretofore &amp; asked you how it would do for me to confess judgment in Mrs. Swans favor &amp; to <unclear reason="illegible" resp="NW">nin</unclear> the levy upon Walleys house &amp; lot 3 I hope to be able to redeem it hereafter. But hers is an honest debt &amp; you must be sure &amp; make it sure to her When Mrs. <unclear reason="illegible" resp="NW"> Breck</unclear> returned to our house a widow I borrowed the money she brought back I had before the war paid her back seven K.C. Bonds on that account I still owe her 6 or 8 hundred dollars. During the war I could not pay her anything &amp; since the surrender my <unclear reason="illegible" resp="NW">impeainiosity </unclear> continued till the arrival of your last remittance when I paid her $100.00. Now this is as just a debt as <unclear reason="illegible" resp="NW">H.</unclear> W.s &amp; I wish you therefore to act as Mrs. W. Attorney &amp; confess judgment for me in both cases &amp; pay them off in full out of my house &amp; lot. That is all the ealty unincumbered that I won &amp; very little personally only so far as my notes from </p>
+            <pb n="3" facs="0012_000060_000386_0003.jpg" xml:id="d3e200"/>
+            <p>Breakbill &amp; Wickle are a lien on the land I sold them last May. Now when this confessing judgment is done I know it will be said that I am putting my property out of my hands to avoid other liabilities. Be it so. It is done to pay my own honest debts let the world say what it may. If you can as safely to me &amp; these two widows, sell the lot at private sale let it go. You can write a Power of Atty to yourself from me - I will acknowledge it &amp; return it <unclear reason="illegible" resp="NW">instantantce </unclear> to Knoxville. Mrs. B. will inclose some of the claims she holds on me. She is just now searching for them If found I will inclose &amp; send by Express. The one she is looking for will be sent hereafter Deliberate decide wisely &amp; then act. you have thething all in your own hands. These are all the debts I owe except lawyers fees &amp; a small debt to W. Gettys &amp; a larger one two or three hundred dollars perhaps to Lenoir &amp; Bros If you chose you may ask for them &amp; confess judgment too. They were advances to me after the surrender. Be circumspect but dont be too careful of my character. Mens conscia recti sustains me. I feel in all I have done <unclear reason="illegible" resp="NW"> or</unclear> now authorise you to do, that I am acting honestly. I know I am honest &amp; wish</p>
+            <pb n="4" facs="0012_000060_000386_0004.jpg" xml:id="d3e214"/>
+            <p>to protect the widow in her rights, I do. </p>
+            <p>I still believe if you &amp; <unclear reason="illegible" resp="NW">Covnick</unclear> will consult the adverse counsel in the B. &amp; A. case the former will comprimise &amp; I can then pay Baxter what he asked last May. Also in the Ludlow case, Van <unclear reason="illegible" resp="NW">Grulder </unclear> &amp; Frank Scott thought he would make a fair compromise. Suppose you try &amp; effect this</p>
+            <p>I wrote you yesterday to invest Mrs Rs money in your hands &amp; also that B.l of Tennessee money at Peoples Bank in K. C. Bonds @ 80. Do it soon as they will appreciate as July approaches when the coupons for 1820 will come due. If Brakbill says the note due 2 months after the time you gave him expires invest that also for my wife unless instructed otherws &amp; keep all these assets of my wifes free from attachments</p>
+            <p>Col. Craige told me to day of a judgment or decree that has just been announced by <unclear reason="illegible" resp="NW">J.C.</unclear> at W. that confiscated lands of any owner whose lands were confiscated will revert to the heirs. In my case will that not be an inducement for the parties to compromise? Watch this <unclear reason="illegible" resp="NW">Deem </unclear> well. I want my heirs to have all I am entitled to. - J.A.M. has acted as I expected <unclear reason="illegible" resp="NW">Cxpt Warlly</unclear>writes me that he will have <unclear reason="illegible" resp="NW">Unnant </unclear> in the office this month. I will pay my honest debts, <unclear reason="illegible" resp="NW">Found rilent</unclear> liabilities I discard &amp; repudiate if I can. If taxes are due on my lot I authorised you or Walley to take out of my wifes <unclear reason="illegible" resp="NW">RR.</unclear> of Tenn, money at the <unclear reason="illegible" resp="NW">Mclelae</unclear> Bank enough to pay them &amp; <unclear reason="illegible" resp="NW">preserve</unclear> or inclose to me the Tax Collectors receipt.. Mrs. <unclear reason="illegible" resp="NW">Brech</unclear> asks you to send her U.S. Marshalls reciept for her costs $54.00 She says J.C.R. paid it once before in her presence &amp; she wants it in her own hands. You did right in giving my favorite neice <unclear reason="illegible" resp="NW">Susy these</unclear>K. C. Bond Dont let Breakbills ? note be attached nor other assets Write me if my <unclear reason="illegible" resp="NW">unmailable </unclear> letter of of the 29th has not arrived Did you take Dr. Doaks picture to your house All <unclear reason="illegible" resp="NW">well</unclear>love to Mr J &amp; your family J. G. M. Ramsey</p>
+            <pb n="5" facs="0012_000060_000386_0005.jpg" xml:id="d3e272"/>
+            <p>Dear Sir</p>
+            <p>Post Scriptum</p>
+            <p>After I had filled the other sheet I thought of two or three other notes or memoranda of monies due Mrs Ramsey which I now inclose. She &amp; Mrs. <unclear reason="illegible" resp="NW">Breck</unclear> have copied them here &amp; I send the originals to you Do all you can with them. Is the one given in Confederate times worth any thing The others are binding on my estate. My assets &amp; valuables were always kept in our vault at Knoxville &amp; on my <unclear reason="illegible" resp="NW">Hegna</unclear> south Sep. or Aug. /6<unclear reason="illegible" resp="NW">8</unclear> &amp; Strong carried them with him &amp; at the surrender at Augusta Arl. 1865 he handed them </p>
+            <pb n="6" facs="0012_000060_000386_0006.jpg" xml:id="d3e293"/>
+            <p>over to me &amp; I walked &amp; carried my money <unclear reason="illegible" resp="NW">bou</unclear> in my hand all the way nearly on foot &amp; brot them thus to Charlotte, <unclear reason="illegible" resp="NW">Howeve</unclear> these transactions may appear to the <unclear reason="illegible" resp="NW">McCual </unclear> &amp; unjust they are all legitimate &amp; legal Send them back to me if you cannot collect them from sahs of lot. My wife or Executors should have them - One word more about the B. &amp; R. case, G.C.R. wrote to me that my lawyers said that as in the Decree of <unclear reason="illegible" resp="NW">Cham. Tropy </unclear> (I believe) all further claims after a certain date were banned &amp; as most holders of the issues were dead or moved away no other suit would be brought &amp; that Lyon &amp; Ramseys costs expenses &amp; <unclear reason="illegible" resp="NW">servieus</unclear> as <unclear reason="illegible" resp="NW">Fosters </unclear> must all be compensated. What do you think? - Again I dont think you ought to dismiss my suits as Breakbill &amp; <unclear reason="illegible" resp="NW">Weyh </unclear> till in the terms of the agreement the consideration be fully paid This will make him prompt to meet his note.</p>
+            <p>Write soon</p>
+            <p>J.G.M.R.</p>
+            <note type="transcription"> The following text is a continuation of the sixth page of the letter. </note>
+            <p>P.S. Perhaps you had not better try to do any thing with Mrs. R.s note for $360.00. If so send it back to me</p>
+            <note type="transcription"> The preceding text is a continuation of the sixth page of the letter. </note>
+         </div>
+      </body>
+   </text>
+</TEI>

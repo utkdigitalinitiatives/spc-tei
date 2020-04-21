@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000357_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William G. Swan</name>
+				                    in Knoxville, Tenn., to Maj. F. S. Heiskell in Nashville, Tenn., <date when="1848-01-12">1848 Jan. 12</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William G. Swan</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000357_000202_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William G. Swan in Knoxville, Tenn., to Maj. F. S. Heiskell in Nashville, Tenn., 1848 Jan. 12</title>
+               <date when="1848-01-12">1848 Jan. 12</date>
+               <author>
+                  <name type="person">William G. Swan</name>
+               </author>
+               <extent>5 pages</extent>
+               <note type="collection">F. S. Heiskell Letters</note>
+               <note type="manuscript">MS.0751</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000357_000202_0001.jpg" xml:id="d4e39"/>
+            <p>Maj. F. S. Heiskell</p>
+            <p>(Senator from Knox)</p>
+            <p>Nashville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000357_000202_0002.jpg" xml:id="d4e49"/>
+            <p>Knoxville January 12th 1848</p>
+            <p>Maj. F. S. Heiskell</p>
+            <p>Dr. Sir,</p>
+            <p>You can scarcely imagine with what satisfaction the intelligence was received here yesterday that the Senate has passed the bill increasing the State&apos;s stock in the Hiwassee Rail Road, As the prospects of the Roads however, have thus brightened there is greater apprehension that the bill may be defeated in the lower house, still whatever may be its fate you may rest assured that you r exertions are remunerated, so far as they can be, by the cordial and sincere approbation of all with whom I have conversed. Your speach was the very thing for the occasion, and I am glad that you had it published in time to be read by the members of the other house before acting upon the bill. We are wholly unapprised of the general features of the bill but presume that it is framed in accordance with the resolutions adopted by the Directory at their meeting in this place last Fall, if so and it should pass the House of Representatives but one thing is their necessary to secure beyond a doubt the <unclear reason="illegible" resp="JCM">shady completion</unclear> of the Road, and that is to confer the power upon incorporated towns and also upon <unclear reason="illegible" resp="JCM">communities</unclear> to take stock in all works of infemal inprovement -</p>
+            <p>You are well aware of the fact that there is very little capital in East Tennessee that holders are willing to vest in stock and although the opinion is prevalent that nothing will conduce so much to the prosperity of the people of E. Tenn. in -</p>
+            <pb n="3" facs="0012_000357_000202_0003.jpg" xml:id="d4e67"/>
+            <p>dividedly and collectively as the completion of the Hiwassee Road still those who have the ability are wunwililng to take stock for the reasons that <unclear reason="illegible" resp="JCM">ctie</unclear> bad fortune which the road has thus far encountered <unclear reason="illegible" resp="JCM">inouces</unclear> the apprehension that it may even be a luckless enterprise and moreover E. Tennesseeans are <unclear reason="illegible" resp="JCM">disposed</unclear> more than any other people with whom I am acquanted to conform to thus habits of life in making money. If a man here starts out in life to make money by Trading horses and he is successful he will die a horse trader and so with all the <unclear reason="illegible" resp="JCM">vacations,</unclear> The consequences of this is that they <unclear reason="illegible" resp="JCM">venture</unclear> reluctantly upon an enterprise which experience has not demonstrated to be profitable, Should the Road bill <unclear reason="illegible" resp="JCM">pass</unclear> it will be necessary to increase the private stock to 350,00 and this can be done easily if the Legislature will but <unclear reason="illegible" resp="JCM">authorise</unclear> countries and towns to become stockholders and with the consent of the people to buy and collect taxes to pay the stock. Take for instance the county of Knox which is more interested than any other in the State in the completion of the Hiwassee Road. This county has taxable property exceeding in value $3,000,000. 2 pr.ct. upon this would be $60,000. If the county had the power to do so she might subscribe this amount of stock &amp; <unclear reason="illegible" resp="JCM">isere</unclear> her bonds leaning 6 p.ct. for annum interest and payable in 8, 10, 12 and fourteen years, and to meet the interest and pay up toe bonds she would have to bear a tax which would not exceed annualy more than one and two thirds pr.ct. while every year <unclear reason="illegible" resp="JCM">from</unclear> the moment of subscribing the stock property would advance in value at a rate exceeding that, &amp; this advance in the value and quantity of property which would be produced by the road would diminish the burden of the taxes. Then too when the raod is in successful operation it will pay a handsome div</p>
+            <pb n="4" facs="0012_000357_000202_0004.jpg" xml:id="d4e99"/>
+            <p>idend perhaps enough to avert the accruing interest on the bonds so that the taxes would be light indeed, after the redemption of the bonds, the stock might yeild a profit which would be sufficient revenue for county exigencies and in this way save the people eventually from paying any county tax whatever -</p>
+            <p>The question arises is it practicable to have the power executed by counties in this manner? Clearly so. Let the act authorise the county court or three or four Justices to direct the Sheriff to open an election in the different civil districts that the property holders, if it is to be a tax upon property alone or every voter, if the poll tax is to be raised to meet the bons (and leave this with the conty court to be determined) may write upon their tickets how much stock they are willing the county should take. One then will vote $100.000, another $75.000, another $50,000, and so on and one may vote &quot;nothing.&quot; Let the Sheriff make his return to the county court showing how may have voted for the different sums. The county court then to ascertain what amount to subscribe, will see how many have voted for $100,000 and if they be a minority, and the number of votes for that sum to the votes for the next lowest (for the man who votes for $100.000 would consent to $75.000) and if they together constitute a majority of all the votes cast (of if they do not, continue that manner of addition until a sum is reached which is authorised by a majority) let that be the amount of the subscription, There the court will authorise its chairman to issue the bons of the county and pay them over to the company to be <unclear reason="illegible" resp="JCM">dispored</unclear> of as they may see proper - I have not gone as fully into details as I might but I think I have said enough to show you that the scheme is not only <unclear reason="illegible" resp="JCM">politic</unclear>
+            </p>
+            <pb n="5" facs="0012_000357_000202_0005.jpg" xml:id="d4e110"/>
+            <p>but judicious and practicable. in the event a general law of <unclear reason="illegible" resp="JCM">etiis</unclear> kind should be passed not only our road but other improvements might divine great advantages from it - Unless counties, in other words the people of a county see proper to take the stock the law cannot in the slightest degree affect them, whereas if they wish to avail themselves of such a means of a drawing a small sum from every man&apos;s pocket and in this manner interesting every man in the work a majority of the people of the county may do so. I hope you will view this matter as I do and introduce a bill whether the bill now before the house passes or not such as I suggest. It can possibly do no harm and may do much good. I have conversed with many persons here upon the subject and there is but one opinion as to the propriety of the matter and I have been requested to wirte to you on the subject-</p>
+            <p>As word or two as to our &quot;indignation meeting&quot; as it has been styled I suppose as a matter of course you have fill some solicitude upon the subject - In all candor you must permit me to say that there was very great dissatisfaction here at the <unclear reason="illegible" resp="JCM">resact</unclear> of the Senatorial election, and that too among those whom you may regard as your warmest friends, they were not so much dissatisfied with the E.T. members as with the act in a general point of view, It has been stated and sub rosa it is true that one of the principal objects of the meeting was to impress the middle Tennesseans with the opinion that so much disaffection was created here by the election of Mr. Bell that it would require some magnanimous act on their part to appease the E.T. Whigs, We thought too that it would give to our Representative the opportunity to <unclear reason="illegible" resp="JCM">demand</unclear> some concessions from Middle Tennessee - I would write more, if I had not already filled up the sheet and it is about time for the mail to close. I hope I shall hear from you soon.</p>
+            <p>Very Respectfully</p>
+            <p>WM G. Swan</p>
+            <p>P.S. Should the Hiwassee Road bill fail what step will you then take? Ask the State to surrender altogether her interest in the Road? Something of the kind should be done.</p>
+            <p>W. G. Swan</p>
+         </div>
+      </body>
+   </text>
+</TEI>

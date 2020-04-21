@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000209_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Holston U.S.A. General Hospital, Knoxville, Tenn.,
+<date when="1864-09-04">
+1864 September 4
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000209_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Holston U.S.A. General Hospital, Knoxville, Tenn. to Jeannie Lockhart, 1864 September 4</title>
+               <date>1864-09-04</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated September 4, 1864 from Holston U.S.A. General Hospital in Knoxville, Tenn., to &quot;My Own Darling,&quot; John Shrady, a regimental surgeon, explains that the unusual gap in his correspondence with the recipient was occasioned by a raid on the railroad between Knoxville and Chattanooga. Additionally, he writes about plans for his regiment to be &quot;mustered out.&quot;</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000209_0001.jpg" xml:id="d3e143"/>
+            <p>Holston U.S.A. Genl Hospitl</p>
+            <p>Knoxville, Tenn:</p>
+            <p>Septr 4th 1864.</p>
+            <p>My Own Darling,</p>
+            <p>You have no doubt been waiting and wondering with no little anxiety -- myself being a prominent object in the picture drawn by your mind -- waiting for your usual postal favors and wondering at their non-arrival. I will explain away all failures by telling you that somewhere about the 17th of last month, the guerillas made a raid upon the rail-road between Knoxville and Chattanooga doing it so much damage as to require two weeks for repairs -- even now, we have to depend partly upon the boat. We received our first mail yesterday and with it came two letters from you bearing date Augt 9th and 17th -- also one of the 18th from Ma, with a Postscript added by Pa. I&apos;m glad that you have received my second draft, but would be</p>
+            <pb n="2" facs="0012_000068_000209_0002.jpg" xml:id="d3e159"/>
+            <p>better pleased if you had in hand its representative value: because should there be any informality about it, I could have the same corrected here. But I suppose that there will be no difficulty, since a draft ought to be just as good six months after as immediately upon its issue.</p>
+            <p>I suppose that this will find you at home on your return from your visit upon Phoebe-Ann. You spoke in one of your letters about a Pic-nic that was to come off there; did you go and did you enjoy yourself there? You need some recreation and I am very glad that you visit around some. You know that confinement within doors never did agree over-well with you. At all events, when I come home -- and I am now counting the days -- you must prepare to make up for lost time, as probably I shall give you no peace in the way of &quot;gadding around.&quot;</p>
+            <p>Did little Maggie-Fanny get her letter and did she let you read it for her? Tell her that since she has promised to keep still, I will</p>
+            <pb n="3" facs="0012_000068_000209_0003.jpg" xml:id="d3e171"/>
+            <p>certainly take her to see the foxes at Barnum&apos;s Museum when I come home. I think that the little toad must have considerable memory and no little affection or she would not have given her Aunt Fan such a cordial greeting upon her return from the country.</p>
+            <p>I will, my darling, heed your advice about being careful to guard against accidents on my return home. The talk is that we are to go to Nashville to be mustered out, and shall probably leave here, about the 20th. Still, there is of course nothing definite as yet, -- we may start earlier or may even be mustered out here. This much is I think reliable that Lt Col: Melton has been notified by the Secretary of War to make the necessary arrangements for the Muster-out against Sept 28th. So far then, the prospects of a joyful and speedy meeting with you are quite bright. May a kind Heaven ward off disappointment from us both.</p>
+            <p>Remember me to Mother &amp; Fan. Kiss our little Pet for me. Tell Ma that I shall</p>
+            <pb n="4" facs="0012_000068_000209_0004.jpg" xml:id="d3e183"/>
+            <p>answer her letter soon although if I remember aright I wrote her somewhere about the 15th ult:. As for your honored self rest assured that you command my heart, reigning over it a perpetual queen.</p>
+            <p>Write soon, addressing as usual.</p>
+            <p>Yours devotedly</p>
+            <p>John:</p>
+         </div>
+      </body>
+   </text>
+</TEI>

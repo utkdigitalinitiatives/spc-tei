@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Anna Jones</name>
+ in Allegheny City, Pa. to David L. Jones in Nashville, Tenn. <date when="1865-04-17">1865 April 17
+ </date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000205_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 April 17</title>
+               <date>1865-04-17</date>
+               <author>
+                  <name>Jones, Anna</name>
+               </author>
+               <extent>4  digital images;  4 pages</extent>
+               <note type="abstract">Letter dated April 17 1865 Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn. Writes that the city is in mourning for Abraham Lincoln, and that his coffin will pass through in a few days on its way to his home state. Describes her exhaustion keeping up with children and boarders in her husband&apos;s absence.
+</note>
+               <note type="collection">David L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+               <note type="item">9</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Army spouses -- Pennsylvania -- Correspondence.</term>
+               <term>Allegheny (Pa.) -- History -- 19th century.</term>
+               <term>Pennsylvania -- History -- Civil War, 1861-1865.</term>
+               <term>Jones, Anna M. -- Correspondence. </term>
+               <term>Lincoln, Abraham, 1809-1865 -- Funeral journey to Springfield.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000091_000205_0001.jpg" xml:id="d3e154"/>
+            <p>Allegheny city April 17th 65</p>
+            <p>My Dear husband</p>
+            <p>I received today tow letters from you dated the 4th &amp; 5th of april I am astonished that it takes so long to receive letters from you at Nashville I was two weeks without any from you and I do tell you they were two long weeks indeed I received yours this morning as I was going to church yesterday was our communion I felt sad the day was peculiarly solemn on account of the death or our President but I thought of you you were home to the one in January and Mrs Patterson sat beside me at the table and she cried so Patterson started away last week they have not had their twins baptized yet - I do not know where they are going to old Berry’s soninlaw went and another I do not mind his name now from the depot I sent the order to Mr <unclear reason="illegible" resp="NW"/> and he sent me 1845 - I do not know whether </p>
+            <p>ANDREW JONES</p>
+            <pb n="2" facs="0012_000091_000205_0002.jpg" xml:id="d3e170"/>
+            <p>It was right or not I have a man and his wife boarding with me they have been married but two weeks I gave them the little room I don’t do any thing for them but cook for she attends to their own room and they are going to pay for their washing and mine together I charge them 8 dollars a week I would have charged more but I thought ten was too much we ought to let live as well as live and she is good to help keep Annie and it helps me Jane has come to stay and then I will able to get some sewing done I don’t get time to sew when I attend to all the children and do all the work I have no time to sew I am busy as I can be all the time Annie’s not walking yet she will walk about three or four feet and then she sits down <unclear reason="illegible" resp="NW"/> I wish she could walk I cant keep her clean Sharon often helps her over the floor and then</p>
+            <pb n="3" facs="0012_000091_000205_0003.jpg" xml:id="d3e180"/>
+            <p>She will laugh so at him it would do you good to see them I hardly know what to write there was 26 in all joined this time about I will tell you about our church well what do you think Kate and Will <unclear reason="illegible" resp="NW"/>both joined our church <unclear reason="illegible" resp="NW"/> time our church was in deep mourning for our Moses that led us through this terrible struggle and as our pastor remarked he had <unclear reason="illegible" resp="NW"/> view of peace but did not enjoy the peace and liberty he fought for our city is draped in mourning his remains will pass through here on their way to his native state there is to be servises at twelve oclock tomorrow in most of the churches I don’t suppose there will be any school <unclear reason="illegible" resp="NW"/> has taken the notion of selling papers he cleared 43 ctn in three evenings I will send you last nights paper with this letter I cannot tell how many I have written but I have answered nearly all that I received and I guess I have received all up to the 7th or April you </p>
+            <pb n="4" facs="0012_000091_000205_0004.jpg" xml:id="d3e196"/>
+            <p>Want that I tell you how we are all well at present I was very poorly for nearly two weeks but I am a great deal better I got me a bottle of Bloodsearcher and I don’t feel weak like I did I have weaned anie and I think I will begin to pick up the children are all well you sent me some flowers I am a thousand times obliged to you they were nice we had quite a time yesterday about water somebody said it was poisoned and nobody would use it but I did not alltogether believe it and I went to cooper he said it was all a lie and to use it so I did so you asked about the old man that was hurt he is dead he was buried the day that father died I have wrote all that I know of but Billy Douglas wife has a new daughter Mary Hood came to see about the clock she is very bad indeed she looks as if she was going into consumption she was vomiting blood she took the inside to the clock maker and the rest of it Martha is going to take I am so awful sleep I was up almost all night last nigh and I baked to day and I am very tired do write often please your own dear wife Anna M Jones </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000558_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>James D. Porter</name>
+ in Nashville, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1905-01-16">1905 Jan. 16</date>
+            </title>
+            <author>
+               <name type="person">Porter, James D. (James Davis), 1828-1912</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Veve, Marielle</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000558_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Jasper D. Porter in Nashville, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1905 Jan. 16</title>
+               <date>1905-01-16</date>
+               <author>
+                  <name>Porter, James D. (James Davis), 1828-1912</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages.</extent>
+               <note type="abstract">1905 Jan. 16, Jasper D. Porter, Nashville, Tenn., to Elizabeth Ramsey Breck, Knoxville, Tenn. Hopes that Lizzie will give the Jackson letters and her copy of the Annals to the historical Society. Recollection of J.G.M., the writer&apos;s part in having Dr. Ramsey&apos;s portrait painted, and his attendance at J.G.M.&apos;s funeral. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Archives -- Acquisitions -- Tennessee.  </term>
+               <term>Archival materials -- Conservation and restoration -- Tennessee.</term>
+               <term>Nashville (Tenn.) -- History -- 20th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 20th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Archives.</term>
+               <term>Jackson, J. W. (Joseph Webber), 1796-1854 -- Correspondence. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000558_0001.jpg" xml:id="d3e155"/>
+            <p>University of Nashville:</p>
+            <p>Peabody College for Teachers,</p>
+            <p>Nashville, Tennessee.</p>
+            <p>Mrs. E.A. Ramsey Breck</p>
+            <p>809. East Main St.</p>
+            <p>Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000558_0002.jpg" xml:id="d3e175"/>
+            <p>Nashville</p>
+            <p>January 16th, 1905</p>
+            <p>Dear Mrs Breck:</p>
+            <p>Your letter was received in due time.</p>
+            <p>I hope you will give the Jackson letters to the Historical Society, and in time give also your copy of Ramsey&amp;s Annals.</p>
+            <p>We will prize the gift and thank you for it.</p>
+            <p>U have delightful recollections of your honored father. I was his friend before I ever saw him, Mrs Porter&apos;s father, and uncles The &quot;<unclear reason="illegible" resp="JR">Dunlop</unclear>boys&quot; as he called them were friends of his from boyhood.</p>
+            <pb n="3" facs="0012_000060_000558_0003.jpg" xml:id="d3e198"/>
+            <p>The splendid portrait of your father, painted by Branson, The Knoxville artist, was executed at my suggestion, and contributed to the Historical Society by Col. <unclear reason="illegible" resp="JR">Chass</unclear>McGhee. When he died, I took about a dozen members of the Society to Knoxville, we attended his funeral and witnessed the interment of his remains at his old home. I am pleased to know that you preserve interest in the Historical Society, and I hope that all of your father&apos;s descendants will maintain interest in a work so greatly honored by him.</p>
+            <p>Sincerely Yours</p>
+            <p>Jas. D. Porter</p>
+            <p>Mrs E.A. Ramsey Breck</p>
+         </div>
+      </body>
+   </text>
+</TEI>

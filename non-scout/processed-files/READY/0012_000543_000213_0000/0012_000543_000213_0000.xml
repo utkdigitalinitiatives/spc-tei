@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000213_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, 
+					<name>John Sevier</name>
+				                    in Knoxville, Tenn., to Col. Return J. Meigs<date when="1809-09-18">1809 September 18</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Caldwell, Chris</name>
+        </respStmt>
+        <author>
+          <name type="person">John Sevier</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000213_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Sevier in Knoxville, Tenn., to Col. Return J. Meigs1809 September 18</title>
+          <date when="1809-09-18">1809 September 18</date>
+          <author>
+            <name type="person">John Sevier</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">John Sevier Collection, 1782-1839</note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Caldwell, Chris">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000543_000213_0001.jpg" xml:id="d4e39"/>
+        <p>Colonel Return J Meigs</p>
+        <p>Highwassee Garrison</p>
+        <p>Govenor Seviers letter</p>
+        <p>18 Sept</p>
+        <p>1809</p>
+        <p>Mail</p>
+        <pb n="2" facs="0012_000543_000213_0002.jpg" xml:id="d4e53"/>
+        <p>Knoxville 18 September 1809</p>
+        <p>Sir</p>
+        <p>Yours of the 15th instant. I have been duly honored with and am extremely happy to find that yourself and General Robertson agree so perfectly in regard to the time of holding the Treaty. In regard to my own ideas on the subject am of opinion from various reasons that about the first of December will be the most proper time as it would not be held on the time first-proposed, on which I have advised you in my letter of the second instant which I presume ere have went to hand We shall not on the new arrangement be pestered with the Rabble part of the nation that at most other seasons would attend. by which means shall save a considerable expense which we wish to avoid as much as possible - any arrangement you may think proper to make with respect to the Kentucky convention with the Chickasaws will be perfectly agreeable to us as to suit your on convenience and not interfere with the meeting here - I most cordially agree with you that to procrastinate will answer very good purposes and will in the end finally ensure success - I hope you will procure some confidential person to attend the meeting at Wills town on the 24th - It will be of great importance to know the result of their confusion - From information recently obtained I hear that the persons that seem most obstinate are those we know to be friendly - no unfavorable circumstance - I shall most certainly attend the Treaty in person.</p>
+        <p>I have the honor to be very respectfully</p>
+        <p>Your most Obedt and Hble Servt</p>
+        <p>John Sevier</p>
+        <p>Colo Meigs</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000245_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1820-01-29">1820 Jan. 29</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000245_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1820 Jan. 29</title>
+          <date when="1820-01-29">1820 Jan. 29</date>
+          <author>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000245_0001.jpg" xml:id="d4e38"/>
+        <p>R. Allen To</p>
+        <p>D. Burford</p>
+        <p>Recd Febry 21st 1820</p>
+        <pb n="2" facs="0012_000115_000245_0002.jpg" xml:id="d4e46"/>
+        <p>Washington</p>
+        <p>29 Jany 1820</p>
+        <p>Dear Sir</p>
+        <p>I recvd yours of the 29th to day from which I see you had not received mine on the subject of <unclear reason="illegible" resp="EMS">Morrel Richardsons</unclear> money to which I refer you I have not made them any other payments nor do I know whether I shall be able to do <unclear reason="illegible" resp="EMS">ct</unclear> as <unclear reason="illegible" resp="EMS">she hold the</unclear> $2000 drafts and must Expect soon to get it they are not to complain too much and as our credit in not<unclear reason="illegible" resp="EMS">muting</unclear> the draft <unclear reason="illegible" resp="EMS">where</unclear> due is with them gone I shall not give my self so much more <unclear reason="illegible" resp="EMS">measuring</unclear> - I have had to pay for Mr Tony some money in <unclear reason="illegible" resp="EMS">Plw</unclear> against a note he was to pay of Mr Allen for me the top of our unfortunate horse Bill has depreived me of all the money</p>
+        <pb n="3" facs="0012_000115_000245_0003.jpg" xml:id="d4e78"/>
+        <p>Expected him and my pay I spend as fast as Earned Enclosed I have sent you list of all the money I have collected here which would be well if you could settle with them there is none other in my hands that I Expect to collect Except a claim sent me by Wm Crenshaw near Hartsville of $500 or 600 he had put it in the hands of <unclear reason="illegible" resp="EMS">Boying Sprence Gallaham</unclear> they sent it to T Jones who could not collect it - I have sent to him for a power of attn and if he does not again give the interest I shall I think get the money you might see him and Venture to give him a note if he would give you time however in none of these claims you will <unclear reason="illegible" resp="EMS">ait</unclear> our away that would give cause to charge me with speculation on the owners you had better take care of the </p>
+        <pb n="4" facs="0012_000115_000245_0004.jpg" xml:id="d4e88"/>
+        <p>Tobacco it has no appearance of rising in the Market here or abroad and may be considered as any <unclear reason="illegible" resp="EMS">imortane</unclear> at $3 as to progit or saving I am sorry you sold old James Allen Note as I have to day heard I thought you would respect my feelings more than give him so much cause to think I purposely intended distressing him in my absence without having canhour Enough to do it in his presence you must buy in the note again and relieve him and me from the Blame - M. <unclear reason="illegible" resp="EMS">King</unclear> still avoids doing any thing on the draft you must look to Nixon for the money if no chance to get it out of your man tell me how my Plantation and Tobacco goes on</p>
+        <p>Your friend</p>
+        <p>Robert Allen</p>
+      </div>
+    </body>
+  </text>
+</TEI>

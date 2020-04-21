@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000192_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Watson B. Smith</name>
+ in Marysville, Tenn., to his father<date when="1863-11-05">1863 Nov. 05</date>
+            </title>
+            <author>
+               <name type="person">Smith, Watson B., d. 1881</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+               <name>Veve, Marielle</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000192_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Watson B. Smith in Marysville E. Tenn. to his father, 1863 Nov. 5</title>
+               <date>1863-11-05</date>
+               <author>
+                  <name>Smith, Watson B., d. 1881</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">Watson B. Smith wrote to his father on Nov. 5, 1863 while serving in the Civil War. He mentioned the evacuation of Soudon (Loudon). Brig. Genl. Sanders offered Smith the position of Asst. Adjt. Genl. on his staff. Smith had been acting in this position, but had not received the rank and pay. He thought his uncle might be able to help him. It had the rank of Captain and was an appointment from the President. He sent his father a copy of the letter where Sanders had requested his appointment. He thought he was well suited for the position. Gen. White had given him a wonderful recommendation and would not release him to Sanders unless he got the rank of Captain/A.A.G. He told of capturing and killing the enemy near the Little Tennessee River. The union men were exposed to a sever fire from the rebels across the river, but nobody was killed or wounded, even though they lost two horses. They captured some officers. He sent his father an autograph of Col. Wolford. He liked Maryville. He apologized for not writing sooner due to trying to learn his new job and being short-staffed. He told his father he was well and in good spirits.</note>
+               <note type="collection">Watson B. Smith Letter</note>
+               <note type="manuscript">MS.3104</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Michigan -- Correspondence. </term>
+               <term>Promotions, Military.</term>
+               <term>War casualties.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865. </term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Smith, Watson B., d. 1881 -- Correspondence.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865). </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e160">
+            <pb n="1" facs="0012_000192_000200_0001.jpg" xml:id="d3e161"/>
+            <p>Hd. Qrs. 1st Div. Cav. Corps</p>
+            <p>Army of the Ohio</p>
+            <p>Marysville e. Tenn. Nov 5, 1863 -</p>
+            <p>Dear Father</p>
+            <p>I have not written you since the 27th <unclear reason="illegible" resp="JCM">ult.,</unclear> I think, the day before our evacuated of Soudon. Soudon was evacuated by orders from Washington in fact it was on the wrong (South) side of the River for us unless we intended to push and hold our lines to Athens, Cleveland &amp; which the force under Burnside would not allow of.</p>
+            <p>On the 28th Brig. Genl. Sauders offered me the position of <unclear reason="illegible" resp="JCM">Ssst.</unclear> Adjt. Genl. on his Staff in which capacity I have been acting since that time. the rank is that of Capt. &amp; the appointment comes from the President. I inclose a copy of Genl. Sauders letter to Adjt. Genl. Thomas requesting my appointment.</p>
+            <p>Senators Howard &amp; Chandler will, before this reaches you, probably be in Washington will not you ask them to see me through. Such applications are apt to stick somewhere before reaching the Pres. &amp; if they will get at the matter it will go. Uncle Howard</p>
+            <pb n="2" facs="0012_000192_000200_0002.jpg" xml:id="d3e187"/>
+            <p>can help me if he will. <unclear reason="illegible" resp="JCM">Ash</unclear> Adjt. Genls. are now appointed &amp; assigned to some Brig. Div. &amp;c &amp; I presume the pressure for them at Nashv is not small. The position is well suited to my tastes is a constant scool for improvement &amp; although I can hold it as &quot;acting&quot; still while acting I want the pay &amp; rank. I have been on detached duty for a long time - Staff duty all the time - &amp; acting as Capt &amp; know I want the rank &amp; pay for my expenses are increasing. Please look at the matter &amp; do what , in your judgment, is advisable. <unclear reason="illegible" resp="JCM">Brig.</unclear> Gen. White did not want me to leave him &amp; told me to inform my <unclear reason="illegible" resp="JCM">freinds</unclear> as much- Genl. Sauders says that White gave me a glorious recommendation to him. This is all very satisfactory to me &amp; must be gratifying to you at home. He told Genl. Sauders that he would not release me unless he would push through my appointment to Capt. &amp; <unclear reason="illegible" resp="JCM">A.A.G.-</unclear>
+            </p>
+            <p> We are now south of Knoxville about 16 miles &amp; have the enemy across the Little Tenn. r. is some considerable force. The river is fordable at certain ferries where the Enemy in small foraging parties</p>
+            <pb n="3" facs="0012_000192_000200_0003.jpg" xml:id="d3e208"/>
+            <p>cross at times. In order to <unclear reason="illegible" resp="JCM">gobble up</unclear> a few prisoners Genl. Sauders sent out, very Early this A.m., a detachment under Lt. Col Adams comdy. 1st Ky. Cav. <unclear reason="illegible" resp="JCM">He</unclear> reached a ford on Little Tenn. R. about 18 miles from here about daylight this morning &amp; secreted his command for the enemy to cross - Soon a regiment came over &amp; he charged them, putting them to fligh back across the river. Now the river is approached here by a narrow cut through the bank &amp; as they were <unclear reason="illegible" resp="JCM">obliged</unclear> to swim part of the way, the <unclear reason="illegible" resp="JCM">got</unclear> crowded <unclear reason="illegible" resp="JCM">up</unclear> in this cut. Col. Adams took some 40 prisoners &amp; killed or drowned at least that number. He said it was the saddest sight he ever saw &amp; does not want to see its like again. our men were right on the bank &amp; in their rear close on them- <unclear reason="illegible" resp="JCM">pouring volley upon volley upon </unclear> the poor fellows struggling in the water upon their horses - their cries were piteous in the extreme - Our men at the same time were exposed to a very sever fire from a force of the enemy across the river but strange as it may seem lost none in killed &amp; wounded &amp; but two horses killed. We captured 3 officeres &amp; 7 non-com.</p>
+            <pb n="4" facs="0012_000192_000200_0004.jpg" xml:id="d3e235"/>
+            <p>officers in the lot of prisoners-</p>
+            <p>There are 3 Brigades in this command Col Wolfords one of them - the 8th Mich is in the 2nd Brig. Wolford is such a noted <unclear reason="illegible" resp="JCM">caracter</unclear> that I cut his signature out of my receipt book to send you. Some time when I have more leisure I must tell you more about him.</p>
+            <p>This is a pleasant little town - the country arouns is very fine.</p>
+            <p>I should have written home before but saw two or three officers who were going through who would give you the news &amp; then I have been &amp; am very busy with my new position, studying into it &amp;c. Col <unclear reason="illegible" resp="JCM">Wormer</unclear> has gone home on leave. Col Stockton looks poorly &amp; is at Knoxville. i saw Capt Buck &amp; Lt. Eastman in Hospital at Knox. <unclear reason="illegible" resp="JCM">they&apos;r</unclear> wounds are doing finely-</p>
+            <p>Excuse this poorly written letter for it is late. I am very well, in excellent spirits - &amp; only hope you are so at home.</p>
+            <p>Love to you all your ever aff son</p>
+            <p>Watson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

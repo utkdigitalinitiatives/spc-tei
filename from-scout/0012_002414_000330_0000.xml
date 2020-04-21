@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000330_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Welsh</name>
+				                   in Christiana Bridge to Ebenezer Howard., <date when="1798-09-01">1798 Sept. 1</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John Welsh</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000330_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Welsh in Christiana Bridge to Ebenezer Howard., 1798 Sept. 1</title>
+               <date when="1798-09-01">1798 Sept. 1</date>
+               <author>
+                  <name type="person">John Welsh</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Collection Title</note>
+               <note type="manuscript">Manuscript.Number.MS.or.AR</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000330_0001.jpg" xml:id="d4e39"/>
+            <p>Ebenezer Hazard Esquire</p>
+            <p>Secretary of Insur Coof North America</p>
+            <p>Philadelphia</p>
+            <p>Letter</p>
+            <p>John Welsh</p>
+            <p>Septr. 1. 1798.</p>
+            <pb n="2" facs="0012_002414_000330_0002.jpg" xml:id="d4e53"/>
+            <p>Christiana Bridge 1 Septr 1798</p>
+            <p>Sir</p>
+            <p>Yours of 30 Ulto. is at hand_  I am directed to make Insurance on 10,000 dollars Goods &amp;Ship Citizen Ezekiel Hubbell Master to Sail Next
+				       Sunday, or Soon after, at &amp;from New York to Havana &amp;at &amp;from there back to New York_   She is armed with 14 Carriage Guns,
+				       Consisting of 4 &amp;6 pounders &amp;12 pound Caronades _ 5 Swivels _ Musquits Pistols &amp;boarding pikes _ high waist boards formidably
+				       fitted_ Nettings ten feet high with a Chain upon the top from Stem to Stern_ 40 hands_  The property is owned by Americans &amp;one of them
+				       goes out with it_  She is an American Ship _ will thank you to inform me at what rate it will be done?  I shall have a Small Claim on your Office for
+				       Some things plundered by the Privateersman &amp;out of Brig Active &amp;the final Statement of the <unclear reason="illegible" resp="pw">Porgas</unclear>
+				       loss, I believe we must leave till we can return home again, but must request you to let me have on the 16th. of this month 3000 dolls. on the
+				       23d.. 2000 dolls &amp;on 28th. 3000 dolls more, or if you please, I will send the Policies of Porgas up, take the whole, or near it, &amp;deduct
+			  	       the Interest for the time <unclear reason="illegible" resp="pw">not-dasrd</unclear>it will be due the 22 ins:_  I wish soon as I can get the money</p>
+            <pb n="3" facs="0012_002414_000330_0003.jpg" xml:id="d4e67"/>
+            <p>to go to the Southward to purchase a Cargo for a vessel I have to Sail tomorrow_  Therefore it will be more agreeable to me to receive it Soon.
+				       I also wish to Know the premium on a good vessel from New Castle to Alexandria &amp;from there to St. Kitts, or from Alexandria to St. Kitts
+				       loaded with Flour, American Cotton &amp;property __</p>
+            <p>I am Sir</p>
+            <p>Your ObedServ.</p>
+            <p>John Welsh</p>
+            <p>NB_ Having had agood deal to attend to in Wilmington, I observed for three days ending the 30th in evening, that 4 to 5 persons died each day &amp;
+				       Mostly Inhabitants of that place_  One woman from Phila died at Christa Bridge, &amp;only one <unclear reason="illegible" resp="pw">Shal</unclear>
+               <unclear reason="illegible" resp="pw">lop</unclear>man in New Castle, tho <unclear reason="illegible" resp="pw">Ccreiural</unclear>are <unclear reason="illegible" resp="pw">Cick</unclear>in
+				       vessels lying in the road_  Itis extremely healthful here, &amp;many places to See had, as very few families have Come So far___ provisions plenty &amp; low.</p>
+            <p>Welsh</p>
+            <p>Ebenezer Hazard Esquire</p>
+            <pb n="4" facs="0012_002414_000330_0004.jpg" xml:id="d4e94"/>
+            <p>Citizen out &amp;home to Havana 20<unclear reason="illegible" resp="pw">pC</unclear>
+            </p>
+            <p>Alexandria to St. Kitts 17<unclear reason="illegible" resp="pw">./2 pC</unclear>
+            </p>
+            <p>from New Castle to Alexa. &amp;St. Kitts 20<unclear reason="illegible" resp="pw">pC</unclear>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

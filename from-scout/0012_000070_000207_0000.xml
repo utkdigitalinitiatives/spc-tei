@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000207_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Gregory, F.H.</name>
+ in Sweetwater, Tenn. to O.P. Temple in Knoxville, Tenn. <date when="1864-08-08">1864 August 08</date>
+            </title>
+            <author>
+               <name type="person">Gregory, F.H.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000207_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, F. H. Gregory in Sweetwater, Tenn., to O. P.Temple in Knoxville Tenn., 1864 August 8</title>
+               <date>1864-08-08</date>
+               <author>
+                  <name>Gregory, F.H.</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract"> Letter dated August 8, 1864, F.H. Gregory in Sweetwater, Tenn. writes to O.P. Temple in Knoxville, Tenn. asking him to act at the trial of Smith&apos;s son, a prisoner in Knoxville.</note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Prisoners -- Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+               <term>Soldiers -- Tennessee, East -- History -- Civil War, 1861-1865</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence</term>
+               <term>Gregory, Francis H., 1789-1866 -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000070_000207_0001.jpg" xml:id="d3e154"/>
+            <p>Sweetwater</p>
+            <p>Aug 8. 1864</p>
+            <p>O.P. Temple Esq.</p>
+            <p>My son is a prisoner in your town and I ask you to please attend to his trial and I will satisfy you</p>
+            <p>Your freind</p>
+            <p>F.H. Gregory</p>
+            <pb n="2" facs="0012_000070_000207_0002.jpg" xml:id="d3e172"/>
+            <p>F H Gregory</p>
+            <p>An Aug 15 / 64</p>
+         </div>
+      </body>
+   </text>
+</TEI>

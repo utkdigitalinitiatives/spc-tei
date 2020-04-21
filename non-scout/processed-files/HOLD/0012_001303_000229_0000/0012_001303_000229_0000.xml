@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000229_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn.,<date when="1918-11-13">1918 Nov. 13</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000229_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1918 Nov. 13</title>
+          <date when="1918-11-13">1918 Nov. 13</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000229_0001.jpg" xml:id="d4e39"/>
+        <p>J.L. Dodds</p>
+        <p>Truck Co# 8= 23th Engs</p>
+        <p>A.E.F.</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000229_0002.jpg" xml:id="d4e55"/>
+        <p>Nov 13 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Will write you a few lines this A.M. I am feeling fine Hope you are fine and dandy  I have not heard from you in several days. I have some trouble getting My Mail since I got transferred it goes to L. Co. and then they send it to me.</p>
+        <p>This is some pretty day of course I have to say some thing about it as we have so few pretty days overhere. I hope will stay this way for a while just to see how I would feel.</p>
+        <p>I know this will be old news when you get this but just got to tell you the war is over and I am some glad  I am not alone either.</p>
+        <p>We got into an argument</p>
+        <pb n="1" facs="0012_001303_000229_0003.jpg" xml:id="d4e69"/>
+        <p>last night as to who wanted to see the war end the most  I believe Orr won the argument of course we let him have his way. </p>
+        <p>The next thing I am looking to of interest now is the boat that brings me back to Dear old America. I am afraid wont be soon enough. I dont expect to get home murch sooner than six months from now and this will be the longest time of it all</p>
+        <p>I guess I will wonder a million times when we will start home  Guess you are expecting a good time Christmas  </p>
+        <p>I sure would like to be there and go to some of those dances I know they will have.</p>
+        <pb n="1" facs="0012_001303_000229_0004.jpg" xml:id="d4e79"/>
+        <p>But any way you can thank how murch I would like to be there with you  I guess I will be having a time all to my self out here some where in the mud with My truck</p>
+        <p>I can stand most any thing tho when I know will soon be home once again. It is most dinner time and I dont know any news only abut the war being over and you have read all about that so will quit for this time  Write me real often</p>
+        <p>With love</p>
+        <p>James, L. Dodds</p>
+        <p>Truck, Co.#,8= 23th Enges</p>
+        <p>American Exp France</p>
+        <p>Via N.Y.   France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

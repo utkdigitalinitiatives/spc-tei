@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000211_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Edward Maynard</name> in camp near Carthage, Tenn. to Washburn
+					Maynard in Newport, R.I. <date when="1863-05-13">1863 May 13</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Edward Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000211_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Edward Maynard in camp near Carthage, Tenn. to Washburn Maynard in Newport, R.I. 1863 May 13</title>
+          <date when="1863-05-13">1863 May 13</date>
+          <author>
+            <name type="person">Edward Maynard</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001519_000211_0001.jpg" xml:id="d4e40"/>
+        <p>Camp near Carthage Tenn.</p>
+        <p>May 13th 1863 - </p>
+        <p>Dear Brother,</p>
+        <p>Many long, weary days have passed since I have had the pleasure of hearing directly from one who is as dear to me as myself. Long, hot toil some days - Days of drill, of duty of watchfulness and anxiety - Each day we watch for news and are anxious for the fate of our Armies at Fredericksburg and Vicksburg - Oh you can have no idea of the agony that ran over us when the news of the eigth came and told us Hooker had fallen back - We then thought that at least 12 months more of laborious war was before us and now when we hear that Hooker is advancing after Lee towards Richmond we feel relieved and in hopes that it is not so bad and that our cause is on the rise - </p>
+        <p>Well I am in hopes that the war is on its last legs and that soon we will relieve our own portion of the State and whip the rebels - The weather is now warm again and all the woods and fields</p>
+        <pb n="2" facs="0012_001519_000211_0002.jpg" xml:id="d4e52"/>
+        <p>are once more clad in robes of green.</p>
+        <p>Summer with its heat its drout &amp; and its labors is again upon us and we are as distant from E. Tenn. as ever. But God grant that when Autumn and harvest time rolls round we can say "my foot is on my native hearth" and have the proud satisfaction of knowing that once again our land is free and our people, no more oppressed are happy and that by our own exertion and bravery - All we ask or hope is that when the <unclear reason="illegible" resp="bds">try</unclear> of war comes for E. Tenn., in the very front we may meet the dangers and drive our enemy back till he no longer dare put the print of his foot on Tennessee soil or breathe Tenn. air - </p>
+        <p>Day before yesterday Joseph Smith, formerly a citizen of this county and a rebel soldier, was hanged as a spy by order Maj. Genl. Rosecrans - He was condemned by his own admissions to some our scouts, whom he supposed were Morgans men - The river is now well up and boats run quite freely - 'Tis well they do so in as much as this is the last high water we will</p>
+        <pb n="3" facs="0012_001519_000211_0003.jpg" xml:id="d4e63"/>
+        <p>have before late in the Fall and the supplies they fail to bring now will remain below - From information from Ky. I suppose Burnside is pushing on slowly yet steadily toward E. Tenn. and, by by the grace of God, he will go in there this time - And I do not think it will be very long until the roar of Rosecrans cannon is again heard by Bragg at Tullahoma - If we suffer no reverse this Summer I think by next winter we can close out the war in a desireable manner and bring on an honorable peace - I should like to get a furlough and go North to see all the family and should by no means forget my sailor brother but this, the time for active operation and I could not be content to be away when the  order comes to <unclear reason="illegible" resp="bds">shirk visits</unclear> and be off to the front. So I shall endure to the end like a good soldier and do my duty. Yes I never shall feel otherwise than as if I should be with you in the Navy. But I must close - I am in good health and hope you are - My men are in as good health as they have enjoyed for a</p>
+        <pb n="4" facs="0012_001519_000211_0004.jpg" xml:id="d4e70"/>
+        <p>long time and are in good spirits. Please write soon and write it all, "tell all you know and <unclear reason="illegible" resp="bds">quick</unclear> at the balance" as Col. Cooper says - </p>
+        <p>With much love and kind wishes for your success I am</p>
+        <p>Your afftc. Brother</p>
+        <p>Edward Maynard</p>
+        <p>Lieut. Col. 6th E. Tenn. Infy.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

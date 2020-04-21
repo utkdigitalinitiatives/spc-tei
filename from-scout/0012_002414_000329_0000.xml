@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000329_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Marimus Willet</name>
+				                   in Philadelphia, Pa to Ebenezer Hazard., <date when="1796-10-23">1796 Oct. 23</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Marimus Willet</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000329_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Marimus Willet in Philadelphia, Pa to Ebenezer Hazard., 1796 Oct. 23</title>
+               <date when="1796-10-23">1796 Oct. 23</date>
+               <author>
+                  <name type="person">Marimus Willet</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">.MS.2414</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000329_0001.jpg" xml:id="d4e39"/>
+            <p>Ebenezer Hazard Esquire</p>
+            <p>No 165</p>
+            <p>
+               <unclear reason="illegible" resp="pw">illegible</unclear>Street</p>
+            <p>Letter</p>
+            <p>Marimus Willet</p>
+            <p>Octr. 23d. 1796</p>
+            <pb n="2" facs="0012_002414_000329_0002.jpg" xml:id="d4e55"/>
+            <p>Dear Sir.</p>
+            <p>As I had not the pleasure of receiving the report of the Committee yesterday and expect to set out for Lancaster early tomorrow in the Stage
+				       from whence, I shall not return until the end of the week.  I have forwarded the printed proposals you furnished me with to <unclear reason="illegible" resp="pw">Mriss</unclear>
+				       Gilbert Smith &amp;Co: No 136 Water Street and mentioned to them that I would request you to forward the reports of the Committee respecting
+				       the terms on which they could have the Insurance done, Ill esteem it a favour in you to forward those terms to them, And on my return from
+				       Lancaster Ill do myself the pleasure to call on you.</p>
+            <p>I am</p>
+            <p>Sir</p>
+            <p>
+               <unclear reason="illegible" resp="pw">illegible</unclear>
+            </p>
+            <p>Your very</p>
+            <p>Philadelphia 23d Octr 96                      humble Servt</p>
+            <p>M. Willett</p>
+            <p>Ebenezer Hazard Esqr</p>
+         </div>
+      </body>
+   </text>
+</TEI>

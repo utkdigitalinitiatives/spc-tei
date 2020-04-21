@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000223_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Power of Attorney,
+					<name>Walter Bowne</name>
+				                    in New york, N.Y., to Thomas McEuen,<date when="1804-01-25">1804 Jan. 25.</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Walter Bowne</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000223_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Power of Attorney, Walter Bowne in New york, N.Y., to Thomas McEuen,1804 Jan. 25.</title>
+               <date when="1804-01-25">1804 Jan. 25.</date>
+               <author>
+                  <name type="person">Walter Bowne</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18 </note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000223_0001.jpg" xml:id="d4e39"/>
+            <p>Walter Bowne</p>
+            <p>Power to</p>
+            <p>Thomas Mc Euen</p>
+            <pb n="2" facs="0012_002414_000223_0002.jpg" xml:id="d4e47"/>
+            <p>KNOW all Men by these Presents, That I Walter Bowne of New York do make, constitute and appoint Thomas Mc Euen
+				      of Philadelphia my true and lawful Attorney irrevocable, for me and in my Name to sell assign and transfer to any
+				      Person or Persons Two hundred and thirty two shares of </p>
+            <p>Stock standing in my Name in the Books of the Insurance Company of North America  with Power also an Attorney or
+				      Attornies under him for that Purpose to make and substitute ; and to do all lawful Acts requisite for effecting the
+				      Premises ; hereby ratifying and confirming all that my said Attorney or his Substitute or Substitutes shall do therein by
+				      Virtue hereof. IN WITNESS whereof I have hereunto set my Hand and Seal the Twenty Fifth Day of January in the Year
+				      of our Lord one thousand eight hundred and four</p>
+            <p>Sealed and delivered in the Presence of</p>
+            <p>Jno Keese</p>
+            <p>Chas Reese</p>
+            <p>Walter Bowne</p>
+            <p>State of New York, sso</p>
+            <p>BE IT KNOWN, That on the twenty fifth Day of January one thousand eight hundred and four before me, JOHN KEESE,
+				       Notary Public in and for the State of New-York, duly commissioned and sworn, came and appeared Walter Bowne</p>
+            <p>within named, and acknowledged the above Letter of Attorney to be his Act and Deed. IN TESTIMONY whereof I have
+				       hereunto set my Hand, and affixed my Seal of Office, the Day and Year last aforesaid.</p>
+            <p>Jno Keese</p>
+            <p>Public Notary</p>
+         </div>
+      </body>
+   </text>
+</TEI>

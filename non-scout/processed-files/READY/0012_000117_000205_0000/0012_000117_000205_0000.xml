@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000205_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Robert Allen</name>
+				                    in Washington D.C. to David Burford in New Orleans, La.,<date when="1822-04-06">1822 Apr. 6</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jordan, Seth</name>
+        </respStmt>
+        <author>
+          <name type="person">Robert Allen</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000205_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robert Allen in Washington D.C. to David Burford in New Orleans, La.,1822 Apr. 6</title>
+          <date when="1822-04-06">1822 Apr. 6</date>
+          <author>
+            <name type="person">Robert Allen</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000205_0001.jpg" xml:id="d4e39"/>
+        <p>
+          <unclear reason="illegible" resp="SJ">Frer.</unclear>
+        </p>
+        <p>Robert Allen</p>
+        <p>Major David Burford</p>
+        <p><unclear reason="illegible" resp="SJ">????????? of Morgan Dorby</unclear> New Orleans</p>
+        <pb n="2" facs="0012_000117_000205_0002.jpg" xml:id="d4e52"/>
+        <p>Washington City</p>
+        <p>April the 6th 1822</p>
+        <p>Dear Sir</p>
+        <p>I have just received your letter from Nashvilleand am putting up my prayers for your safe passage to New Orleans.  I have written two letters ??? to that place with my views to which I have to offer you but as you will have the best means of deciding??? what is best to be done of your fund??? after making sales that your friends??? will pay our debts I want you to understand yourself left to exercise your own discretion completely as to going round from New Orleans and making the attempt to purchase goods and further your fund??? that my ??? ??? with Mt Chisters??? business unsettled is an abstacle ot my name a disadvatage you are at full liberty to say you are making purchases for yourself and may with my consent do so and use all the funds belonging to the ??? in away that can</p>
+      </div>
+    </body>
+  </text>
+</TEI>

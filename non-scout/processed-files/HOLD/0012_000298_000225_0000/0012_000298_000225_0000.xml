@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000225_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1865-05-14">1865 May 14</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000225_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Memphis, Tenn., to his wife 1865 May 14</title>
+               <date when="1865-05-14">1865 May 14</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000225_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis May 14th 1865</p>
+            <p>My Darling</p>
+            <p>I wrote you a note on my arrival the day after I left you.  I was but 34 hours on my passage.  The Boat was waiting at Cairo when the train arrived and as soon as the passengers could get on board shoved off so I had no time to see the Hubbards.  I found business brisk and Athearn had worked but he had nicely kept up and very glad to see me.  I am glad to say my cold is very much better I got a bottle of Iceynis Expectorant and it has nearly cured me the last two nights I have slept without coughing and only a bad spell early in the morning to clear my throat</p>
+            <pb n="2" facs="0012_000298_000225_0002.jpg" xml:id="d4e47"/>
+            <p>and head. I think in a couple of days I shall be well The expectorant has morphine in it and of course keeps me scrating and sleepless. I got down in time to have my room at the office fixed up and slept in it and eat at a Restaurant. I have not yet been to see the Holmans as the work has been hard and tires me much so that I lie down as soon as it is over but expect to go today - Strawberrys are ripe but I have eaten none as yet as I have not got my taste back everything tastes alike. I have no idea as yet how long the Treasury regulations will last there are to be some changes but whether they will affect me or not I can not say. if I could get something to do where you could be with me I would not wait but resign </p>
+            <pb n="3" facs="0012_000298_000225_0003.jpg" xml:id="d4e51"/>
+            <p>but I think I had better hold on for the present hoping you are all well I send much love</p>
+            <p>Your aff husband</p>
+            <p>WRHackley</p>
+            <p>Mrs W R Hackley</p>
+            <p>Bloomington Ills,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

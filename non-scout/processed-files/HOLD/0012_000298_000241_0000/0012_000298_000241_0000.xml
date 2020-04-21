@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000241_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Memphis, Tenn., to his wife <date when="1865-03-12">1865 Mar. 12</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000241_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Memphis, Tenn., to his wife 1865 Mar. 12</title>
+               <date when="1865-03-12">1865 Mar. 12</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000241_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis Mch 12th 1865</p>
+            <p>My Darling</p>
+            <p>I find it will be impossible for me to leave here for some months the <unclear reason="illegible" resp="EMS">Sims</unclear> being opened and trade brisk so that you had better pay me a visit as soon as convenient I have the promise of a free passage on the Atlantic line of <unclear reason="illegible" resp="EMS">Stramins</unclear> which I expect to get in the morning and enclose in this but you had better start with $50, for fear of accidents. Cold Allis is expected down soon and he will be glad to escort you. The pass will be from St Louis but if you go to Cairo and wait for one of the Line Boats it will <unclear reason="illegible" resp="EMS">serve</unclear> from thence should you not find an escort to Cairo you can probably find some one going to St Louis and by seeing from the papers when one of the Boats is starting you can get on board at once this I think will be your best route as the ride to Cairo is very fatiguing should you come by Cairo without an escort leave by the morning train and Telegraph Mr Hubbard who will attend </p>
+            <pb n="2" facs="0012_000298_000241_0002.jpg" xml:id="d4e56"/>
+            <p> to you there. My office 23 Jefferson St corner of Main up stairs where I am from 9 AM to 3 PM My Bedroom 179 Mn St where I am after dark as I am not in the street more than I can help after night, should the Boat get in after dark you remain on board and get a porter to come for me you will .....write me what day you will start and I will try and meet you but as the Boats are not very regular as to the hours of their arrival I may not be on hand and there for write these directions. I hope to clasp you in my arms before very long - I am making money and think I see my way clear to a Homestead when we can assist <unclear reason="illegible" resp="EMS">Bev and Sue</unclear> I hope you may have them with you by winter. I have two of your letters recd since my last. I am sorry about your servant but you did right in discharging her Dr Beloat who is here says that she lived with him and that she is in the habit of drinking he says that one of his women is in Memphis and that he will by and find her and that she is a good servant cooks and washes will and that she will be glad to go to you do try and see the <unclear reason="illegible" resp="EMS">Wills, ed. Mrs Beloat and Allis,</unclear> I like  </p>
+            <pb n="3" facs="0012_000298_000241_0003.jpg" xml:id="d4e66"/>
+            <p>their husbands and expect you will like their wives. I will try and get a room for you at Mrs Cox at any rate in some private boarding house where you can be from 9 to 3 when I am in the office I am again eating at a Restaurant and shall have to do so as long as I am at my present business which I do not care at present to leave. I have now on hand about $500 and expect to make from 3 to 600- per week for a month or two - and when business gets brisk expect a number of Presents this winter the merchants have been doing nothing and could not give - My health is very good and the presence of my dear ones only is wanting to make me perfectly happy - The county around us is clean of Confederate troops there are a few scattering robbers (called Guerillas) deserters from both sides who rob and murder on the Highway but they will soon be cleaned out. The county people are tired of the war and want <unclear reason="illegible" resp="EMS">rest</unclear> and the opportunity to cultivate their fields I will send you <unclear reason="illegible" resp="EMS">Genl Washburns</unclear> speech on taking command of the Memphis District last week - Tell my Boy he must mind his mother and stay close to her on the</p>
+            <pb n="4" facs="0012_000298_000241_0004.jpg" xml:id="d4e76"/>
+            <p>steamboat and cars or he will get hurt, and that would kill his Mama and papa - I fear he will trouble you not a little. you had better bring me the new shirts as tho I can get some here I do not like them as well as those you make. if you can make up some dresses while here you had better not bring many as the material for them will come cheaper here than at home Love to the children and tell them to get along as well as they can you had better get a servant if you can before you leave if you can get a good one</p>
+            <p>Your aff Husband</p>
+            <p>Mrs WR Hackley       WRHackley</p>
+            <p>Bloomington, Ills.</p>
+            <p>will send the Pass in a day or two</p>
+         </div>
+      </body>
+   </text>
+</TEI>

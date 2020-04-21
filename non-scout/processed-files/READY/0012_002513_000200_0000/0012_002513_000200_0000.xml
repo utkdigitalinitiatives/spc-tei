@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002513_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Watson B. Smith</name>
+				                    in Jamestown, Tenn. to Mary Amanda (Birchard) Smith <date when="1863-08-26">1863 Aug. 26</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Watson B. Smith</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002513_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Watson B. Smith in Jamestown, Tenn. to Mary Amanda (Birchard) Smith 1863 Aug. 26</title>
+          <date when="1863-08-26">1863 Aug. 26</date>
+          <author>
+            <name type="person">Watson B. Smith</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Watson B. Smith Papers, June 1863 - Sept. 1863</note>
+          <note type="manuscript">3324</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Siege, 1863.</term>
+          <term>Soldiers -- Michigan -- Correspondence.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States. Army. Corps, 23rd (1863-1865).</term>
+          <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002513_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Hd. Qrs. 2d Div. 23d Army Corps</p>
+        <p>Jamestown, Tenn. Aug. 26th 1863</p>
+        <p>Dear Mother</p>
+        <p>I wrote to Father night before last and still carry the letter in my pocket waiting for an opportunity to mail it.</p>
+        <p>We are now at Jamestown which you will find in Fentress Co.N. W. from Noxville--it is 26 miles from Albany which distance we made yesterday, that is, a small portion of our Div. &amp; a brigade of Cav. under Col. Crittenden which is temporarily under Gel White. The balance of the troops and train are coming in now.</p>
+        <p>Yesterday found me in Tenn. for the first time. I have marched through Ky. from A. to S. &amp; may go through this State before this expedition ends.</p>
+        <p>Jamestown (called by the people Jimtown) is situated on the top of the Cumberland Mountains &amp; was once a pleasant little place of 25 or 30 dwellings, but now all is desolation &amp; ruin-but 3 or 4</p>
+        <pb n="2" facs="0012_002513_000200_0002.jpg" xml:id="d4e55"/>
+        <p>families here &amp; no able bodied men. Guerillas and rebel troops have robbed the people of all they had in provision line and in most cases, their clothing also-the men are hiding around in the woods or off in Ky. waiting until they can return in safety. Yesterday I pushed on ahead, with a squad of men, to make provision for headquarters-drove off to the best looking inhabited house &amp; stated my wants to an old lady standing upon the stoop-she stated that we were welcome to quarters but she had scarcely nothing to eat--no meal coffee or sugar. &amp; this to be as well as we could do I told her we would come. This old lady &amp; I are good friends she says the rebs took her bed clothes, dresses-pulled off her potatoes &amp; corn before ripe-has a son in the Union army &amp; a son in law hiding a few miles off-says she, "thank God you have come, we have looked for you long!" I gave her some coffee to make for as last night the first she had seen since last Jany. "Lincoln Coffee"-as she called it-she thought she never could do without but had found that people could</p>
+        <pb n="3" facs="0012_002513_000200_0003.jpg" xml:id="d4e59"/>
+        <p>live on "mighty little"if obliged to. She has two daughters living with here-one married &amp; one single</p>
+        <p>There is no rebel force about here now, nothing but Bushwhackers some of whom fired on our pickets last night</p>
+        <p>I wish that you might see the road we came up in order to reach this place, it would surprise you to be told that but 200 &amp; 300 wagons well loaded had passed up it. It is going to be hard to find forage for our mules &amp; horses-we are obliged to send out several miles scouring the country all around for hay &amp; grain. We could not find a particle of grain here. We must subsist, thereafter "I reckon,"on what we bring with us viz. Hard Bread, Bacon, Coffee (field rations) &amp; sugar&amp; must look out for our train or it may go hard with some. I really enjoy myself-we are going to relieve a people who have been oppressed a long time &amp; looked long &amp; anxiously for our troops, we are in camp but little, and every thing is new to me. This part of the State is wild &amp; rugged, thinly settled &amp; probably the poorest part of Tenn.</p>
+        <p>It costs me 75 c per day for meals-we have a mess kit but have not yet used it the Genl</p>
+        <pb n="4" facs="0012_002513_000200_0004.jpg" xml:id="d4e70"/>
+        <p>preferring to stop at some private house for meals. This must cease soon if provisions grow much scarcer-there is one advantage in it however, we have an opportunity to see the people, how they live, feel &amp;c. The other day we took dinner with some old people-while at table our troops came up, lauds playing &amp; drums beating. The old lady had not seen any thing of the kind &amp; went off in this strain-"oh dear! God bless those poor boys. I always feel bad when I think of so many being killed &amp; so many suffering, away from home &amp; friends, oh my poor boys! where are they now-they have been in the union army two years &amp; I have not seen them in that time. oh dear, my prayer to God has always been that the Union Army might be successful"&amp;c. &amp;c. crying bitterly all the time. If I had not been hungry my sympathy for the old lady would have prevented my finishing the meal.</p>
+        <p>Hurrah for E. Tenn. &amp; those suffering Patriots-may we push down without delay &amp; may God bless our arms.</p>
+        <p>With much love for you dear mother &amp; for all the family I remain.</p>
+        <p>Your aff son</p>
+        <p>Watson</p>
+      </div>
+    </body>
+  </text>
+</TEI>

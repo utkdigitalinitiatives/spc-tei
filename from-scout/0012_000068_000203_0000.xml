@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000203_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Asylum U.S.A. General Hospital, Knoxville, Tenn.
+<date when="1864-07-11">
+1864 July 11
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000203_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Asylum U.S.A. General Hospital, Knoxville, Tenn. to Jeannie Lockhart, 1864 July 11</title>
+               <date>1864-07-11</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated July 11, 1864 from Asylum U.S.A. General Hospital in Knoxville, Tenn., to &quot;My Own Darling,&quot; John Shrady, a regimental surgeon, discusses the approaching end of his service, the shabbiness of his uniform, the arrival of &quot;a few Paymasters&quot; and the possibility of taking charge of the &quot;Officers&apos; Hospital&quot; in Knoxville. Additionally, he describes a visit to the Cumberland Gap, jokes that he has become as &quot;sun-browned as a dragoon&quot; and talks about voting for Lincoln.</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000203_0001.jpg" xml:id="d3e143"/>
+            <p>Address -- Dr John Shrady</p>
+            <p>Asylum U.S.A. General Hospital</p>
+            <p>Knoxville, Tenn</p>
+            <p>Knoxville, Tenn,</p>
+            <p>July 11th 1864.</p>
+            <p>My Own Darling,</p>
+            <p>Much to my gratification I have found those photographs. I unconsciously must have put them in my valise for there I discovered them all safe &amp; sound. I was very much annoyed by their supposed loss and when my eyes lit upon them, it seemed as though it was a species of family re-union. I would that they were flesh &amp; blood instead of &quot;counterfeit presentments.&quot; But, dearest Jeannie, the time for our meeting once more is drawing rapidly near. It will soon be here. The regiment is to be mustered out Sept 28th.</p>
+            <p>My uniform is beginning to look somewhat shabby, but a new coat alone will cost $45.00 and as I am to become a citizen once more, it will look very much like</p>
+            <pb n="2" facs="0012_000068_000203_0002.jpg" xml:id="d3e166"/>
+            <p>throwing money away. That much put upon the wardrobe of our little family might contribute somewhat to the making of a respectable show. So, Darling, dont you think that I can afford sacrificing a little brilliancy of appearance upon my arrival home for the sake of more lasting advantages? I really think that after awhile I shall become economical -- but you smile and think that it will be something like the judgments of the ancient gods. Something that I cannot help.</p>
+            <p>I understand that a few Paymasters have arrived -- if so, nothing would please me more. I feel that you have been neglected in that particular, but, Darling, it has been both unfortunate &amp; unavoidable.</p>
+            <p>I have been promised the</p>
+            <pb n="3" facs="0012_000068_000203_0003.jpg" xml:id="d3e178"/>
+            <p>charge of the Officers&apos; Hospital here -- I don&apos;t care about having it -- there will be a deal of trouble and probably delay when the settlement comes. I might have to stay some weeks after the Muster-Out. Then again, my egotism sets down all these favors to the credit of tardy justice.</p>
+            <p>I wrote you about my having been to Cumberland Gap, where I was first initiated into the mysteries of Camp-life. It is a two-days&apos; ride by one road and 2-1/2 by another from Knoxville. I was by no means sorry when the duty was done -- a broiling sun &amp; hard-riding horse are not to be set down among the comforts of life. I became as sun-browned as a dragoon -- perhaps when I present myself at the Polls to vote for Lincoln &amp; Johnson some old Copperhead may challenge my</p>
+            <pb n="4" facs="0012_000068_000203_0004.jpg" xml:id="d3e188"/>
+            <p>vote on the score of not having sufficient property to allow a &quot;Nigger&apos;s&quot; voting.</p>
+            <p>I presume that this will find you at Reeder&apos;s -- if so give them all my respects. Rest and change of scene will do you good, so Darling don&apos;t be in a hurry about returning. Kiss our little Pink for her Pa. May a Kind Heaven keep you &amp; yours in health is my sincere prayer. Kind rememberances to Mother, Fran, Albert &amp; family. Tell Anna that her letter has come to hand and will be answered soon. The same to Ma.</p>
+            <p>I have written you in haste &amp; somewhat disjointedly. If anything remains unsaid that should have been written, you good nature will supply, for one assurance may always comfort you &amp; that is you have my undivided heart.</p>
+            <p>Yours Devotedly</p>
+            <p>John.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

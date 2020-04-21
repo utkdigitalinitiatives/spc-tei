@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000251_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France to Ellen Smith, in Jackson, Tenn., <date when="1919-06-07">1919 June 7</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Giles, Sheldon</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000251_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith, in Jackson, Tenn., 1919 June 7</title>
+          <date when="1919-06-07">1919 June 7</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Giles, Sheldon">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000251_0001.jpg" xml:id="d4e39"/>
+        <p>James L. Dodds</p>
+        <p>Truck Co #8 - 23rd Engers</p>
+        <p>Am Ex. Force</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U. S. A.</p>
+        <pb n="2" facs="0012_001303_000251_0002.jpg" xml:id="d4e57"/>
+        <p>June 7 1919</p>
+        <p>Le Mans- France</p>
+        <p>Dear Ellen:</p>
+        <p>Will write you a few lines this afternoon even if I am so busy. I have had enough inspections
+for the last three days to get ten men out of the army. I am glad to say I have about finished them here though.
+We are expecting to leave here tomorow for Brest I guess we will have some more 2. Lieut. to deal with when we get there.
+But the worst of it is over and I am not at all sorry</p>
+        <pb n="3" facs="0012_001303_000251_0003.jpg" xml:id="d4e67"/>
+        <p>I dont know just how long we will be at Brest I dont think will be long I am going to try to get home by the 4th of July
+If we dont have to stay in Brest to long I think well make it OK</p>
+        <p>Now if I do get there by that time you will have to take me out and show me the sights for I am sure I wont know how to act
+I wont try to tell you much about this place until I get home But will say it is an awful place, ask Lynn</p>
+        <pb n="4" facs="0012_001303_000251_0004.jpg" xml:id="d4e73"/>
+        <p>We thought we were going to leave here to day but something happened I dont know what. 
+We'll quit for this time will write you from Brest if we stay there very long. If not we'll let you know when I get in the U. S. 
+Hopeing to see you real soon with lots of love. </p>
+        <p>James L.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

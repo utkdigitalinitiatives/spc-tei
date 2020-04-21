@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000214_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Chattanooga, Tenn., to Crittenden Cregmile, <date when="1864-01-07">1864 January 7</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000214_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Chattanooga, Tenn. to Crittenden Cregmile, 1864, January 7</title>
+               <date>1864-01-07</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1864 January 7 Southgate Cregmile in Chattanooga, Tenn., to his brother Crittenden. Assures him that he and all the hometown boys are presently well kept and well fed. Received his gift of warm winter gloves, but the weather is so warm there now he may have to put off wearing them. Describes how, if he were on picket right now, would see hundreds of deserting Rebels, officers and enlisted men, pouring in since the Battle of Missionary Ridge. Predicts, if this keeps up, in ten months there will not be any men  left. Urges him to write soon and not to make it a short one just because his is.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Tennessee -- Chattanooga -- History -- 19th century -- Social aspects.</term>
+               <term>Soldiers -- Tennessee -- Chattanooga -- 19th century -- Correspondence.</term>
+               <term>Desertion, Military -- Tennessee -- History -- 19th century.</term>
+               <term>Chattanooga (Tenn.) -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military police.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000092_000214_0001.jpg" xml:id="d3e159"/>
+            <p>Chattanooga Tenn </p>
+            <p>Jan 7th 1864</p>
+            <p>Brother Critten</p>
+            <p>I have just receivd your letter from home was glad to here that you were well. all the Reily Boys are well and plenty of rashions to eat now.</p>
+            <p>the weather is very warme here all most warme enufe to run baar footed.</p>
+            <p>I have received that package from home and was very glad to get it. them gloves woulde have come in very good play if I would have had them tow or three months ago but we may have a good deal of colde weather yet.</p>
+            <p>well Crit if you were here</p>
+            <pb n="2" facs="0012_000092_000214_0002.jpg" xml:id="d3e179"/>
+            <p>and go on picket one day you woulde think the war coulden last longe to see the way Ragg army comes rolling in by the hundred every day Oficers and all from a Col down if thay keep on coming in like thay hav been sence the Battle of <unclear reason="illegible" resp="NW">Meisseion</unclear> ridge thay wount have <unclear reason="illegible" resp="NW">mary </unclear> man left from ten months from now. </p>
+            <p>well Crit I have told you most all the news for this time so rite soon but you <unclear reason="illegible" resp="NW">ansisend rito </unclear>a short letter just because I have</p>
+            <p>S. Cregmile</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000436_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Isham G. Harris</name>
+ in Memphis, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1877-01-28">1877 Jan. 28</date>
+            </title>
+            <author>
+               <name type="person">Harris, Isham G. (Isham Green), 1818-1897</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000436_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Isham G. Harris in Memphis, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1877 Jan. 28</title>
+               <date>1877-01-28</date>
+               <author>
+                  <name>Harris, Isham G. (Isham Green), 1818-1897</name>
+               </author>
+               <extent>2 digital images; 1 envelope, 1 page</extent>
+               <note type="abstract">1877 Jan. 28, Isham G. Harris, Memphis, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Agrees to aid Dr. Ramsey&apos;s friend, Dr. Cornick. Requests that J.G.M. advise him as to East Tennessee appointments. Declares his intention to permit no injustice to East Tennessee.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Senators -- Tennessee -- History -- 19th century.</term>
+               <term>Political culture -- Tennessee, East -- History -- 19th century.</term>
+               <term>Appointment to office -- History -- 19th century.</term>
+               <term>Tennessee -- Officials and employees -- Selection and appointment -- History -- 19th century.</term>
+               <term>Tennessee, East -- Politics and government -- 19th century.</term>
+               <term>Harris, Isham G. (Isham Green), 1818-1897 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000060_000436_0001.jpg" xml:id="d3e156"/>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000436_0002.jpg" xml:id="d3e168"/>
+            <p>Memphis, Jany 28th 1877</p>
+            <p>Dr J.G.M. Ramsey</p>
+            <p>My Dear Sir</p>
+            <p>Your letter of the 22nd just was forwarded to me by your young friend Dr Cornick. In response to which I can only say that it will afford me pleasure to aid him in his application to the extent of my ability -- and I desire to say further that I shall be obliged to you and other democratic friends in East Tennessee to keep me advised as to what is right and proper to be done from time to time in the matter of East Tennessee appointments, and with regard to East Tennessee affairs generally -- as I am <unclear reason="illegible" resp="JR">resolved</unclear> that no injustice shall be done to that section of the state --</p>
+            <p>I hope to be able to do full and strict justice to all sections, but if I err at all in this respect, the error shall be in aid of our friends in East Tennessee. Pardon brevity, I write in great haste</p>
+            <p>Very Truly your friend</p>
+            <p>Isham G. Harris</p>
+         </div>
+      </body>
+   </text>
+</TEI>

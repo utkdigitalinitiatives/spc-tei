@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000527_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-05-03">1884 May 3</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000527_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to M.B.C. Ramsey in Knoxville, Tenn. 1884 May 3</title>
+               <date>1884-05-03</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages.</extent>
+               <note type="abstract">1884 May 3 Lyman C. Draper, Corresponding Secretary, Wisconsin State Historical Society, Madison, Wis., to M.B.C. Ramsey, Knoxville. Expression of sympathy in the loss of Dr. Ramsey. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Bereavement -- Religious aspects. </term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Death and burial.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e147">
+            <pb n="1" facs="0012_000060_000527_0001.jpg" xml:id="d3e148"/>
+            <p>Mrs. J.G.M. Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000527_0002.jpg" xml:id="d3e160"/>
+            <p>Madison May 3rd 1884.</p>
+            <p>Mrs. J.G.M. Ramsey - </p>
+            <p>My Respected Lady:</p>
+            <p>I cannot resist sending you my sincere sympathy in the death or your lamented husband, &amp; my lamented friend. The separation is a bereavement to you &amp; his children - &amp; yet it is but the fulfillment of one of our father&apos;s laws, &amp; we have no right to complain. When our faith warmly &amp; heartily grasps the grand idea of mortality our doubt &amp; fear give way to rejoicing that our temporary deprivation is his undying gain.</p>
+            <p>I trust &amp; pray that in your affliction you may</p>
+            <pb n="3" facs="0012_000060_000527_0003.jpg" xml:id="d3e176"/>
+            <p>not be without comfort - always remembering that God&apos;s ways are not as our ways - that</p>
+            <p>&quot;Behind a frowning Providence,</p>
+            <p>He hides a guiding face.&quot;</p>
+            <p>May the blessing of Him who dwelt in the bush rest on the crown of thy head!</p>
+            <p>Ever your friend,</p>
+            <p>Lyman C. Draper</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Jones, David L.</name>
+ in Nashville, Tenn. to Anna Jones in Alleghany City, Pa. <date when="1865-03-13">1865 March 13
+ </date>
+            </title>
+            <author>
+               <name type="person">Jones, David L..</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa., 1865 March 13</title>
+               <date>1865-03-13</date>
+               <author>
+                  <name>Jones, David L..</name>
+               </author>
+               <extent>4  digital images;  0.3 linear feet;  4 p.</extent>
+               <note type="abstract">Letter dated March 13 1865 David L. Jones in Nashville, Tenn. to Anna Jones in Alleghany City, Pa. Describes the meagre rations during march from Louisville to Nashville and the barracks in Nashville. 
+</note>
+               <note type="collection">David L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Pennsylvania -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Social aspects</term>
+               <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Regimental histories.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>United States. Army -- Military life -- History -- 19th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e148">
+            <pb n="1" facs="0012_000091_000200_0001.jpg" xml:id="d3e149"/>
+            <p>March 13th / 65 Tennessee</p>
+            <p>My Dear Wife</p>
+            <p>I sit me down again at Nashville to write I have written you at Indianapolis and Louisville I state this in order to know whether you have recieved these or not I described you the scenes which I wittnessed at Indianapo As for Louisville I cant tell you much about it I was taken so sick in the ears about two o clock in the morning I was warm enough sitting near the stove but i took a cramp in the stomach it must have been something like the cholera <unclear reason="illegible" resp="NW">Morbus </unclear> by what I was told others what had it I never felt anything like it in my life I could not straightened myself i felt as though there was a great pressure on my stomach I could hardly breathe I thought indeed that my time was up David of Old never Prayed more fervently than I did then I begged not to be </p>
+            <pb n="2" facs="0012_000091_000200_0002.jpg" xml:id="d3e164"/>
+            <p>cut down in<unclear reason="illegible" resp="NW"> snu </unclear> time of my life I took the half of the Paregoric at it did me good at all there was a man there what had good whisky he told me to take a mouthful of it I found relief shortly after Sabbath I felt stupid the best part of the day I ate no Breakfast but our Sargeant got me a cup of Coffee which i drank But i blame it to the drinking of coffee at Louisville it looked black and not with strength but with drugs i suppose it was some extract or other But Sabba dinner time i ate a little soup then we left at about 1 or 2 in the afternoon Sunday night i ate that sweet cake or a part of it i gave more than the half of it away that is the way that some has so much less to carry than others some wont provide bread nor water and here they will go around a begging all the time i will shut</p>
+            <pb n="3" facs="0012_000091_000200_0003.jpg" xml:id="d3e175"/>
+            <p>down on them after this ill bet We arrived at Nashville at one o clock in the morning that was Monday morning after walking about a copule of miles we arrived at the Head Quarters and laid there on the Portch until day light I slept about as sound as i did that night that i was at home they were too poor to give us some Breakfast there they brought out some coffee so I ate the last of the cakes with the coffee one fellow of our <unclear reason="illegible" resp="NW"> mess</unclear> said it was not coffee but that a fly took a grain of coffee in her mouth and flew through the water I will state now here I am now for fear i may forget to do so before i am through I feel first rate to day I can eat first rate to day but i am afraid to eat too much we had some good coffee to day of our own make and some Bean soup to but i dont care for it</p>
+            <pb n="4" facs="0012_000091_000200_0004.jpg" xml:id="d3e186"/>
+            <p>Dear Anna we were marched out to day about 9. o clock to a new Barracks which is at the out skirts of Nashe there is several forts handy here what our men took from the Rebels Kentucky also is all cut up with Forts and Fortification most of Kentucky that we passed through was wild and swampy there was some country around Louisville though I would seldom see a nice farm house it was generally a log house some time a frame house I saw great many Niggers and Nigger-hutts Those fellows that was left behind is not come on yet they are the worst that belongs to the <unclear reason="illegible" resp="NW"> burnyr</unclear> I dont care if they should never come here either there is some more of the same stamp have left</p>
+            <p>Direct as follows David. J. Jones</p>
+            <p>Nashville Tennessee</p>
+            <p>Care of Cap Wiley. 78 Penna Vol</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000354_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Francis A. Ramsey</name> in Swan-pond, Tenn., to Mr. and Mrs. Reynolds
+Ramsey, in Gettys Town, Penn. <date when="1799-03-26">1799 March 26</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+               <name>Veve, Marielle</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000354_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Francis A. Ramsey in Swan Pond, Tenn., to Mr. and Mrs. Reynolds Ramsey in Gettys Town, Penn. 1799 Mar. 26</title>
+               <date>1799-03-26</date>
+               <author>
+                  <name>Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </author>
+               <extent>4 digital images; 4 pages.</extent>
+               <note type="abstract">1799 Mar. 26, Francis A. Ramsey, Swan Pond, Tenn., to his parents, Mr. and Mrs. Reynolds Ramsey, Gettys Town, York County, Penn. Description of the illness and death of his oldest son, Billy Baine Alexander. Account of the baptizing of a newborn son at Billy Baine&apos;s funeral as the namesake of the dead brother.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Helminths -- Health aspects -- Tennessee, East -- History -- 18th century. </term>
+               <term>Death notices -- Tennessee, East -- History -- 18th century. </term>
+               <term>Hymns, English -- Tennessee, East -- History -- 18th century.</term>
+               <term>Gettysburg (Pa.) -- History -- 18th century.</term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Correspondence.</term>
+               <term>Ramsey, Reynolds, 1736-1816 or 17 -- Correspondence. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000354_0001.jpg" xml:id="d3e157"/>
+            <p>Knoxvile 15th May 1799</p>
+            <p>Mr Reynolds Ramsey</p>
+            <p>in Gettys Town</p>
+            <p>York County</p>
+            <p>Pennsylvania</p>
+            <p>To be left in the post office Gettys Town</p>
+            <pb n="2" facs="0012_000060_000354_0002.jpg" xml:id="d3e175"/>
+            <p>Swan-pond 26th of March 1799</p>
+            <p>Hond Parents</p>
+            <p>I now lift my pen, to shew you by writing the various ways of dealing God has with his Creatures
+particularly to me and my Family - On the 4th day of February last past God was pleased to let us see our
+Fifth son - &quot;The Lord maketh the barren to keep house, and to be a joyful Mother of Children - we from
+this time went on trying to rejoice in God as the giver of all our <unclear reason="illegible" resp="bds">Merries</unclear> untill Saturday the Ninth instant when it pleased God to lay his afflicting
+hand upon Our Dear first born son Billy Baine Alexander - he was seized with a violent <unclear reason="illegible" resp="bds">case</unclear> which shewed symptoms of a Bloody Flux which the next day
+proved to be so - we applied and had medical aid, but all to no purpose he continued to get worse; about the
+tenth day his Flux appeared to abate but he was all but choaked with worms and was attacked most excrutiating
+pain about the region of his navell, which continued with but short intervals untill Thursday the thirteenth
+day about 12 oclock half an hour after which time he resigned up his breath, and closed his eyes in death! And
+his active spirit I humbly trust took his seat at the throne of God - there to praise his name thro-out the
+boundless ages of Eternity - On Friday the Twenty Second instant Mr Garrick preached his Funeral Sermon to a very
+tender audience from Acts 16th Chap &amp; 31st verse - at which time my Brother baptized our Fifth son, whom
+we called Billy Baine Alexander - for his Brother who</p>
+            <pb n="3" facs="0012_000060_000354_0003.jpg" xml:id="d3e193"/>
+            <p>who was yet there lying a breathless <unclear reason="illegible" resp="bds">corp</unclear> before our
+eyes - My Brother with his most affectionate wife came here on the Wednesday before my sone died and tarryed
+with us untill Saturday, Sister had began to wean her daughter two or three days before she came here, left
+her daughter at home, and had plenty of milk to give our youngest son whilst she was with us, which was a
+singular kind providence in our circumstance - I have related to you now the most particular occurrences that
+have taken place with respect to us - When I take a review of all those circumstances - and call into view also
+the supports afforded to us in affliction, I must <unclear reason="illegible" resp="bds">Let</unclear> to my
+<unclear reason="illegible" resp="bds">Seal</unclear> and say &quot;the Lord is good, I charge my soul to be
+silent and not suffer one <unclear reason="illegible" resp="bds">murmuring</unclear> that to arise - I
+<unclear reason="illegible" resp="bds">discover</unclear> the great goodness of God in having all thro
+his word such a rich variety of Consolatory <unclear reason="illegible" resp="bds">Trusts</unclear> for us to
+be supported with, and on which we may feed if God is pleased with them to give us the light of his Holy
+Spirit to apply them - which he in his own good time is sure to do - </p>
+            <lg>
+               <l>&quot;<unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="bds">Dea</unclear> may the hands of life unloose</l>
+               <l>&quot;<gap resp="Dyson-Smith"/>
+                  <unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="bds">dissolve</unclear> my love</l>
+               <l>&quot; Millions of infant souls compose</l>
+               <l>&quot; The family above</l>
+               <l>&quot; Their feeble frames my power shall raise</l>
+               <l>&quot; And mould with heavenly skill:</l>
+               <l>&quot; I&apos;ll give them tounges to sing my praise</l>
+               <l>&quot; And hands to do my will - </l>
+               <l>&quot; His words the happy Parents hear</l>
+               <l>&quot; And shout with Joys divine</l>
+               <l>&quot; Dear Saviour, all we have and are</l>
+               <l>&quot; Shall be fore ever thine</l>
+               <l>Rippon Hymn 556</l>
+            </lg>
+            <pb n="4" facs="0012_000060_000354_0004.jpg" xml:id="d3e255"/>
+            <p>I have often pleased my imagination in fancying my Brother John (who was acquainted with my Son) was
+engaged in introducing my Son to my Brother William - a thousand such pleasing imaginations have entertained
+my mind since the death of my Son - </p>
+            <p>I feel considerably agitated since I began to write, Therefore break off abruptly and <unclear reason="illegible" resp="bds">subscribe</unclear> my <gap resp="Dyson-Smith"/> in Duty and Affection your Son FA Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

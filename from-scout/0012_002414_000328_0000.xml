@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000328_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>John Wethered</name>
+				                    in Wilmington, Del. to Charles Pettit in Philadelphia, Pa., <date when="1804-05-09">1804 May 9</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">John Wethered</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000328_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Wethered in Wilmington, Del. to Charles Pettit in Philadelphia, Pa., 1804 May 9</title>
+               <date when="1804-05-09">1804 May 9</date>
+               <author>
+                  <name type="person">John Wethered</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">.MS.2414</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000328_0001.jpg" xml:id="d4e39"/>
+            <p>Charles Pettit, Esquire</p>
+            <p>Agent or Commissioner</p>
+            <p>for the Insurance of</p>
+            <p>Houses against Fire &amp;a</p>
+            <p>Philadelphia</p>
+            <p>John Wethered</p>
+            <p>9th May 1804</p>
+            <p>Insurance on buildings at Trinidad</p>
+            <pb n="2" facs="0012_002414_000328_0002.jpg" xml:id="d4e57"/>
+            <p>Wilmington, Delaware  9th. May 1804__</p>
+            <p>Sir</p>
+            <p>I this day Recd. a Letter from my Son Lewin, who is in the Mercantile line in Baltimore, informing me that my Kinsman Mr. Thomas Wethered,
+				       who is in the Customs of Trinidad, also Paymaster to the Army &amp;ce. had Requested him to have insured at Baltimore all his Dwellings,
+				       Offices &amp;a. Rather near than in the Town, all Wood &amp;Nearly New for Which he Receives a Very high Rent from the Commissary, I
+				       have also Reced. a Letter from Mr. T. Wethered dated 15th. April 1804. Requesting that I yod. Refresh the Memory of Lewin Respecting the 
+				       Insurance this I find unnecessary, as Lewin in his Letter informs me that it cannot be effected in the Office at Baltimore as the Charter Prevents
+				       them extending the insurance beyond Ten Miles from Town, he then Mentions the Office in Philada. extending the Policies. Which I find is
+				       Correct.   Mr. Thomas Wethered is a Prudent Young Man has made his property by Attention &amp;Prudence, &amp;Wishes to insure his
+				       House in this Peaceable happy Country,  he desires Fifteen hundred pounds Sterling may be insured for one Year, in Order to give You Every
+				       Satisfaction, I Recommend it to You to make Enquiry of any Gentleman who traded to Martinique while it was in possesion of the British
+				       Government.  Mr. T. Wethered, being a Custom House Officer there must be well Known.  Since the Evacuation he has Acted at Trinidad in
+				       the Same Character as he had done at Martinique_ he has Made Money, Built handsomely &amp;wishes Insurance.  After You Make Every 
+				       Necessary Enquiry, Please to Write to me &amp;Let me Know on What Terms fifteen hundd. pound. <unclear reason="illegible" resp="pw">S?</unclear>
+				       Insurance can be had for one Year_ Which Will Oblige Your</p>
+            <p>Most Obed. Servt.</p>
+            <p>John Wethered.</p>
+            <p>P.S</p>
+            <p>Any Gentleman from Trinidad can give You a full Acct. of both Thos. Wethered, Esquire, and his Large New Buildings.  J.W.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

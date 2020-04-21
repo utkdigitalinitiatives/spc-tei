@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001155_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Eunice Susan (E.S.) Merrill</name>
+				                    in Knoxville, Tenn., to Theodore Merrill Esq in Sidney, M.E., <date>Mar. 10</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Eunice Susan (E.S.) Merrill</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001155_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Eunice Susan (E.S.) Merrill in Knoxville, Tenn., to Theodore Merrill Esq in Sidney, M.E., Mar. 10</title>
+          <date>Mar. 10</date>
+          <author>
+            <name type="person">Eunice Susan (E.S.) Merrill</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Eunice Susan (E.S.) Merrill Letters</note>
+          <note type="manuscript">MS.2752</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>East Tennessee Female Institute.</term>
+          <term>Merrill, E. S.,  (Eunice Susan), 1821-1891</term>
+          <term>Merrill, Theodore,  (Theodore Dean), 1823-1887</term>
+          <term>Education -- Tennessee -- Knoxville.</term>
+          <term>Women -- Education -- Tennessee -- Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001155_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Theodore Merrill Esq</p>
+        <p>Sidney</p>
+        <p>Via Charleston    Maine</p>
+        <pb n="2" facs="0012_001155_000200_0002.jpg" xml:id="d4e47"/>
+        <p>Knoxville March 10th</p>
+        <p>When I last wrote you I expected to send my next <unclear reason="illegible" resp="JCM">Epistte</unclear> by Harriet but her leaving this city is now as far in the future as it then was for aught I know She now thinks of leaving here in one week from tomorrow or in <unclear reason="illegible" resp="JCM">terms parlance</unclear> tomorrow - week in company with a Mr. Moppett of New Market an acquantance of ours. But there is a Yankee friend of mine who l eaves here the first of may whom she would prefer going with and she is half decided to stop and go with him. I think I shall persuade her to stop as if will he far from pleasant for her to leave the Sunny South in this beautiful weather which we are having and go to the regions of ice and snow She could not go out at all now there and would have to <unclear reason="illegible" resp="JCM">crouch</unclear> over some bodys stover from morning until night to keep from freezing after spending three winters here. I she goes next week she will stop with her Aunt <unclear reason="illegible" resp="JCM">Lydia Patten at Wheater</unclear> Mass a short time then go to Norway and Weld before Sidney so that anyone will not be at Sidney before May-</p>
+        <p>The weather here for the last few weeks is just as fine as it well can be. may flowers</p>
+        <pb n="3" facs="0012_001155_000200_0003.jpg" xml:id="d4e67"/>
+        <p>and fruit trees are now in full bloom.</p>
+        <p>We commenced apr Friday last the Summer is slow at the Institute with encouraging <unclear reason="illegible" resp="JCM">prospects</unclear> A good number of pupils and bright looking ones too the same teachers will continue through this session which will close in July - The Institute is delightfully situated <unclear reason="illegible" resp="JCM">fronting</unclear> Main Street on one side the river on the opposite and being very high the breezes are very fine - Knoxville is all excitement just now in <unclear reason="illegible" resp="JCM">talking</unclear> of making the telegraphic <unclear reason="illegible" resp="JCM">mirs</unclear> come on up here wich stop now in North Georgia where the railroad does - through that now does cross the <unclear reason="illegible" resp="JCM">Yeml</unclear> line and comes to the river and would have come to this place ere now if they had a letter now than Duff Green at the head of the railroad company - He comes up here and spouts to the people occasionally on the advantages of the railroads in general and this one in particular but he is a bombastic, visionary man always building castles in the air instead of railroads on the ground -</p>
+        <p>I heard by the by that the Moores of Waterville were coming out here this winter to put some of their boats on this river. There are a great many boats on the river but still the trade is great and would probably support more -</p>
+        <pb n="4" facs="0012_001155_000200_0004.jpg" xml:id="d4e90"/>
+        <p>I weigh now 15 pounds more than I did when I cam here then 126 now 141 and really find it quite burdensome to carry about such a heavy body - received a letter from Edward and Mother abotu two weeks ago -</p>
+        <p>I have been writing a long letter this evening and am very tired of writing besides Miss Me is reading about and talking all the time so that my ideas are getting confused and I will make this a short <unclear reason="illegible" resp="JCM">Epistte-</unclear>
+            </p>
+        <p>I have not yet concluded who to direct this <unclear reason="illegible" resp="JCM">Epistte</unclear> too thought you would be expecting something as it now nearly four weeks since I wrote home and guess that I will direct it to the head of the family E S Merrill</p>
+        <p>You some of you said in your letters that Marie had not written home for a long time I do not see why I had a letter from her last week She the Dr and Patty are all well I do not think she was glad to see <unclear reason="illegible" resp="JCM">Olgi</unclear> she only mentions occasionally that he is there and that he is at work at his trade and I sincerely hope that he will stay there at least that his next move will not be here. If he does come here I fear I should go into one of Jack Downing <unclear reason="illegible" resp="JCM">comppion</unclear> fits <unclear reason="illegible" resp="JCM">Nahby</unclear> is a wonderfully precious child according to her parents account of her</p>
+      </div>
+    </body>
+  </text>
+</TEI>

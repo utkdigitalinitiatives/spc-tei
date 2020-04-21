@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000211_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Murfreesboro, Tenn., to Crittenden Cregmile, <date when="1863-06-05">1863 June 5</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000211_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Murfreesboro, Tenn. to Crittenden Cregmile, 1863, June 5</title>
+               <date>1863-06-05</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1863 June 5 Southgate Cregmile in Murfreesboro, Tenn., to his brother Crittenden. Assures him that everyone there is presently well. Packing an eight day supply of rations after marching orders issued. Tells of a hanging today in their camp, witnessed by about twenty thousand men, and that another has been scheduled for tomorrow. Needs to go for roll call. Asks that he and everyone else write soon.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Tennessee -- Murfreesboro -- 19th century -- Social conditions.</term>
+               <term>Soldiers -- Tennessee -- Murfreesboro -- 19th century -- Correspondence.</term>
+               <term>Prisoners of war -- Tennessee -- History -- 19th century.</term>
+               <term>Murfreesboro (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>Cregmile, Souhtgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military police.</term>
+               <term>War casualties.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e160">
+            <pb n="1" facs="0012_000092_000211_0001.jpg" xml:id="d3e161"/>
+            <p>Camp at Murfreesb</p>
+            <p>Tenn</p>
+            <p>June 5th 1863</p>
+            <p>Brother Crit</p>
+            <p>I sent my seat my self this evening to rite you a few lines to let you know that we are all well at presant.</p>
+            <p>the weather is very warm and rainey. we have marching orders now for some place I doent know where we have Eight days rashions packed now. we have five in our napsack and three in our haversack.</p>
+            <p>There were <unclear reason="illegible" resp="NW">an</unclear> man</p>
+            <pb n="2" facs="0012_000092_000211_0002.jpg" xml:id="d3e184"/>
+            <p>hunge close to our Camp to day and a nother one to be hunge tomorrow. there were a bout twenty thousand of us there to see him hung. </p>
+            <p>I havent time to rite any more to night for it is nearly roll call now.</p>
+            <p>no more at presant </p>
+            <p>rite soon</p>
+            <p>Southgate</p>
+            <p>to</p>
+            <p>Crittenden</p>
+            <p>and all the rest of the familey</p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

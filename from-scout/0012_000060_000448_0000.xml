@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000448_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Circular,
+<name>State Historical Society of Wisconsin</name>
+ to J.G. M. Ramsey in Knoxville, Tenn.<date when="1879-03-01">1879 Mar. 1</date>
+            </title>
+            <author>
+               <name type="person">State Historical Society of Wisconsin</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Rosinski, Wanda</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000448_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Circular, State Historical Society of Wisconsin to J.G. M. Ramsey, 1879 Mar. 1</title>
+               <date>1879-03-01</date>
+               <author>
+                  <name>State Historical Society of Wisconsin</name>
+               </author>
+               <extent>2  digital images;  1 envelope, 1 p.</extent>
+               <note type="abstract">1879 Mar. 1, State Historical Society of Wisconsin, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Printed circular explaining the importance of old pamphlets and books and requesting donations of any that can be spared.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Special libraries -- Collection development -- Wisconsin.</term>
+               <term>Pamphlets -- United States.</term>
+               <term>Book collecting -- Wisconsin.</term>
+               <term>United States -- History -- 19th century -- Sources.</term>
+               <term>Wisconsin -- History -- Sources.</term>
+               <term>State Historical Society of Wisconsin. Library.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000448_0001.jpg" xml:id="d3e155"/>
+            <p>Dr. J.G.M. Ramsay</p>
+            <p>Knoxville</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000448_0002.jpg" xml:id="d3e167"/>
+            <p>CIRCULAR.</p>
+            <p>One of the most important objects of the State Historical Society of Wisconsin, as set forth in its constitution, is the collecting and preserving a library of books and pamphlets; and, to this latter object, its officers would respectfully make an earnest appeal to its friends for their co-operation.</p>
+            <p>It has been justly said of pamphlets. &quot;that though they often require more time and labor to collect than the same number of volumes, and cost more than they are worth, yet they contain information not elsewhere to be found. They reflect the spirit and sentiments of the age better than elaborate treatises, and are indispensable treasures in a good library, where eminent historians, biographers, statisticians, and men of letters in general, are likely to be torn in pieces, and every copy of entire editions to disappear.</p>
+            <p>&quot;The correctness of these statements is confirmed by the action of the Bodleian library, which is paying fabulous prices for pamphlets and books that its founder did not think worth preserving, and of the British Museum, which is doing the same for what could have been procured a century ago for little more than the asking -- the rubbish of one generation being the treasure of another.</p>
+            <p>When a single paper mill, in a single year, has been known to grind up ninety-eight tons of books and pamphlets, with about the same quantity of newspapers, we may well be admonished of the danger of the utter loss of many important pamphlet publications, and to plead for their contribution to our collection.</p>
+            <p>It is, therefore, desirable at once, so far as practicable, to secure at least for a few public libraries, copies of everything which is printed, for in the mysterious diversity of human investigations, there is nothing which may not at some time be important.&quot;</p>
+            <p>We send you this circular with the hope that you will favor the Society by sending such portion of your accumulations in the way of books and pamphlets as you can conveniently spare, which can be sent, by express, addressed to the Historical Society. All pamphlets received will be properly classified and arranged, bound and indexed, for the convenient use of all who desire to use them.</p>
+            <p>L.C. Draper,</p>
+            <p>Corresponding Secretary.</p>
+            <p>D.S. Durrie,</p>
+            <p>Librarian.</p>
+            <p>Madison, Wis., March 1, 1879.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

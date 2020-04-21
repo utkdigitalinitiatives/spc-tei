@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Holston U.S.A. General Hospital, Knoxville, Tenn.
+<date when="1864-07-20">
+1864 July 20
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000205_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Holston U.S.A. General Hospital in Knoxville, Tenn. to Jeannie Lockhart, 1864 July 20</title>
+               <date>1864-07-20</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated July 20, 1864 from Holston U.S.A. General Hospital in Knoxville, Tenn., to &quot;My Own Darling,&quot; John Shrady, a regimental surgeon, informs the recipient of the enclosed draft for $850.00 and provides instructions for its redemption. Additionally, he complains that the recipient&apos;s hosts on her recent travels should have given her &quot;more consideration.&quot;</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000205_0001.jpg" xml:id="d3e143"/>
+            <p>Holston U.S.A. Genl Hospital</p>
+            <p>near Knoxville, Tenn.</p>
+            <p>July 20th 1864.</p>
+            <p>My Own Darling,</p>
+            <p>I received your letter of the 8th instant, just ten days after you had mailed it. I am quite sorry that you were deprived of the opportunity of availing yourself of the advantages of a change of scene to its fullest extent: they should have treated you with more consideration: they might certainly have taken you around somewhat. Indeed, what boots the pleasures of a little country life, if you must remain in-doors during your visit. Depend upon it, my precious, I could never find it in my heart to treat you so -- on the contrary, I&apos;m looking forward to the time when you may be free from all these annoyances -- to the time when I may be the happy instrument of repaying you for your self-denials. That time I will remind you is a little better than two months off -- my health has been mercifully spared so far, and my Jeannie I know prays and hopes for its continuance until I may with joy once more be re-united to her.</p>
+            <p>Tell little Maggie Fanny that she wrote me a very sensible little letter and that I expect to see her before a great while.</p>
+            <p>Well, my Darling, I have succeeded in drawing my Eight-months pay; less near 30 dollars tax. I enclose</p>
+            <pb n="2" facs="0012_000068_000205_0002.jpg" xml:id="d3e163"/>
+            <p>you a draft for Eight-hundred and fifty dollars, drawn to Pa&apos;s order. There&apos;s an Adams Express Office here, but, I hardly deemed the Company safe, for the reason that Guerillas every once in a while make a dash upon the road. The bank here is pronounced to be the best means of transmitting money home. Yesterday it send off Twenty-two thousand dollars in drafts for officers and soldiers. So I concluded that I would risk this much to your account. Then again if the draft miscarries or is lost, nobody can draw the money without being identified.</p>
+            <p>I first thought of making it payable to you, but the Cashier of the Bank suggested that you might have some trouble in hunting up some one to prove that you were the person and that some one acquainted at the Banks could get it cashed without any trouble. Then I thought of Albert but reflected that possibly you did not care about his knowing your business and that he might think it strange that I called upon him and that I had very little confidence in my own folks. Hoping that you will give me credit for acting on the grounds, that, in my judgment, were the best and least calculated to give you trouble, I will give you some instructions. In the first-place the Draft is at a premium, or in other words, worth some dollars more than its face -- it cost me Twelve Dollars -- perhaps</p>
+            <pb n="3" facs="0012_000068_000205_0003.jpg" xml:id="d3e173"/>
+            <p>that will constitute the premium. Anybody -- as I take it after Pa has endorsed it at the Bank -- will take it for its face. But as I am not over familiar with Banking business, I may be mistaken. At all events, the Cashier here says that the Draft will be at a premium in New York. You may either go with Pa to the Bank -- some National Bank -- or give it to him to collect for you, just as your judgment may dictate. These National Banks have sprung up during the war. I don&apos;t know whether or not the ordinary City Banks are in existence and if so if they will answer the purpose; probably Pa can tell you. He keeps an account at the Butchers &amp; Drovers Bank corner of Bowery &amp; Grand and if that bank can transact the necessary business you will not have far to go.</p>
+            <p>I have reserved some few hundred dollars in case of emergency, out of which there have to be deducted some expenses that have been accruing since my return to the regiment. Then, too, I require some money to get home in case the Paymaster happens not to pay for July and August, for some say that the officers are not paid when they are mustered out -- not until they get certificates from Washington that all their accounts, reports, &amp;c. are correct. Depend upon it that I have been quite a strict economist of late -- that is since I last saw you and that I have spent nothing ex-</p>
+            <pb n="4" facs="0012_000068_000205_0004.jpg" xml:id="d3e183"/>
+            <p>cept as absolute necessity required since I left home in December last.
+Write me as soon as the draft comes to hand -- I will write you by another mail acquainting you of the fact that I have enclosed the draft in this letter, so that if does not come to hand, I may take steps accordingly.</p>
+            <p>Remember me to Mother &amp; Fran -- also to all enquiring relatives or friends. Give Pinky a kiss for her Pa and I know that she understands now what is meant by her returning it to you for me. My heart you both fill and command and shall ever as long as I live.</p>
+            <p>Direct to Holston U.S.A. Genl Hospital</p>
+            <p>Knoxville, Tenn.</p>
+            <p>Yours Devotedly</p>
+            <p>John.</p>
+            <p>P.S. The money represented by the draft is of course at your disposal. I will also write to Pa about the draft so that I may hear whether or not it comes to hand.</p>
+            <p>J.S.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

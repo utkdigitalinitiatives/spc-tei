@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000350_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Francis A. Ramsey</name> in Swan-pond, Tenn., to Mr. and Mrs. Reynolds
+Ramsey, in Gettys Town, Penn. <date when="1803-04-06">1803 April 6</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000350_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Francis A. Ramsey in Swan Pond, Tenn., to Mr. and Mrs. Reynolds Ramsey in Gettys Town, Penn. 1803 Apr. 6</title>
+               <date>1803-04-06</date>
+               <author>
+                  <name>Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </author>
+               <extent>4 digital images; 1 envelope, 3 pages</extent>
+               <note type="abstract">1803 Apr. 6, Francis A. Ramsey, Swan Pond, Tenn., to his parents, Mr. and Mrs. Reynolds Ramsey, Gettys Town, Adams County, Penn. Fears that his children, who are now well, will contract measles. Discusses plans for a visit to his parents at which time he would like to attend a court session.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family life -- Tennessee, East -- History -- 19th century.</term>
+               <term>Children -- Diseases -- Tennessee, East -- History -- 19th century. </term>
+               <term>Actions and defenses -- Tennessee, East -- History --19th century. </term>
+               <term>Adams County (Pa.) </term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Correspondence.</term>
+               <term>Ramsey, Reynolds, 1736-1816 or 17 -- Correspondence. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000060_000350_0001.jpg" xml:id="d3e156"/>
+            <p>Mr Reynolds Ramsey</p>
+            <p>Gettys Town</p>
+            <p>Adams County</p>
+            <p>Pennsylvania.</p>
+            <p>By the kindness of Mr M. Fisk</p>
+            <note type="transcription">The following text, along with a list of figures, appears on the first page of the letter. It
+does not appear to be related to the content of the letter.</note>
+            <p>
+               <unclear reason="illegible" resp="bds">Wast</unclear> unto him that can keep you from falling and <unclear reason="illegible" resp="bds">present</unclear> you <unclear reason="illegible" resp="bds">blamless</unclear>
+before the Thron of his glorey is the Constant prayer of yr loving parents</p>
+            <note type="transcription">This preceding text appears on the first page of the letter. It does not appear to be related
+to the content of the letter.</note>
+            <pb n="2" facs="0012_000060_000350_0002.jpg" xml:id="d3e187"/>
+            <p>Swan-pond April 6th 1803</p>
+            <p>Hond Parents</p>
+            <p>By Mr Fisk I undertake to tell you that by the Goodness of Our God we now are all in good health, The children have
+had the hooping Cough Thro, the Winter but since the weather began to alter the all appear to mend - Brothers Family were
+well last Saturday - Sister and the children have very well recovered of the measles, this complaint has been very
+generally thro this Country, and have been all thro my neighborhood, but have not yet come into my Family; we have been
+in daily expectation, and have tryed to prepare for them coming - I have been now almost two weeks at Court, a few
+minutes ago I arrived at home, and have to go back in the morning to Court If I am alive and <unclear reason="illegible" resp="bds">well</unclear> - We have a backward Spring - tho very comfortable at present - </p>
+            <p>I know not what more to write you at present - I cannot say any thing positive about my going to see
+you - but this, that whenever Providence intends to let me go, he will open a Door for my going, and then in his
+Strength, and with his assistance</p>
+            <pb n="3" facs="0012_000060_000350_0003.jpg" xml:id="d3e204"/>
+            <p>assistance I will go - </p>
+            <p>I have a curiosity to know when your Courts sit in Gettys Town, that is at any future time I can go there,
+I may fix it so as to be at one of your Courts - please to write more frequently by post than you have formerly
+done as that is a good channel of communication - </p>
+            <p>I received your letter by Colo <unclear reason="illegible" resp="bds">McClellan</unclear> - </p>
+            <p>I expect the bearer will call upon you, he has a long Journey before him after he gets to you
+perhaps a few days <unclear reason="illegible" resp="bds">ust</unclear> will be <unclear reason="illegible" resp="bds">serviceable</unclear> to him and hope</p>
+            <p>Mrs Ramsey would have wrote to Ma, or Sis, but she was prevented by her eyes being sore, occasioned by
+a slight cold she has contracted since I went to Court - But she wishes me to present to you all, her most
+affectionate and dutiful regard - May the best blessings of Heaven <unclear reason="illegible" resp="bds">rest</unclear>
+upon you my much esteemed Parents My Dear Sister and her dear children Oh! that my eyes could now be blessed
+with the Seeing all of you.</p>
+            <p>Pray for us - I trust we have a Disposition in all things to live as becometh the professed followers
+of a One crucified, but now exalted Redeemer</p>
+            <p>Farewell F.A. Ramsey</p>
+            <p>N.B. Please to remember us to Aunt Gettys and if there is any body else amongst you that cares any
+thing about us - mention us affectionately to them also - </p>
+            <p>I will try the ensuing summer or fall to go and see you if you will agree all to accompany me home - </p>
+            <p>Colo McClellan this day requested me to remember him to you all - </p>
+         </div>
+      </body>
+   </text>
+</TEI>

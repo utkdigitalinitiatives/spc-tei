@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000353_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Peggy A. Ramsey</name> in Gettysburg, Penn., to Major Francis
+A. Ramsey, in Green County, N.C. <date when="1790-02-23">1790 February 23</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Peggy A. (Peggy Alexander), 1766-1805</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000353_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Peggy A. Ramsey in Gettysburg, Penn., to Major Francis A. Ramsey in Green County, N. C. 1790, Feb 23-24.</title>
+               <date>1790-02-23</date>
+               <author>
+                  <name>Ramsey, Peggy A. (Peggy Alexander), 1766-1805</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1790 Feb 23-24, Peggy A. Ramsey, Gettysburg, Penn., to her husband, Major Francis A. Ramsey, Green County, N.C. Probable explanations as to why her letters have not reached him. Writes of the business that keeps him from home. Post script from his sister.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Letters -- Tennessee, East -- History -- 18th century.</term>
+               <term>Letter carriers -- Pennsylvania -- Gettysburg -- History -- 18th century. </term>
+               <term>Homecoming -- Pennsylvania -- Gettysburg -- History -- 18th century.</term>
+               <term>Gettysburg (Pa.) -- History -- 18th century.</term>
+               <term>Ramsey, Peggy A. (Peggy Alexander), 1766-1805 -- Correspondence. </term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000353_0001.jpg" xml:id="d3e154"/>
+            <p>Major Francis A Ramsey</p>
+            <p>Green County</p>
+            <p>N. Carolina</p>
+            <p>To <unclear reason="illegible" resp="bds">the</unclear> particular care of Cor. Arthur Campbell Washington County Virginia</p>
+            <pb n="2" facs="0012_000060_000353_0002.jpg" xml:id="d3e171"/>
+            <p>Pennsylvania February 23rd 1790</p>
+            <p>Kindest of Men</p>
+            <p>
+               <unclear reason="illegible" resp="bds">Ms. Rowan</unclear> has very obligingly called this evening to give me an
+opportunity of writing to you by Mr. <unclear reason="illegible" resp="bds">Ewen</unclear>, and with pleasure I
+have left our sweet family below, and come upstairs to converse with you in this manner - This day <unclear reason="illegible" resp="bds">five</unclear> weeks you left me, and after our Fathers return I received
+no intelligence from you untill the 19th of this month, when I received a letter by the hand of Mr. <unclear reason="illegible" resp="bds">McGinley</unclear> wrote at Mr. Campbells: The letters you mention probably have
+been miscarried between <unclear reason="illegible" resp="bds">Stanton</unclear> and Winchester, as they were at
+neither of the places as McGinley came in; I had an opportunity of sending a letter as far as Winchester some weeks
+ago; and if it has not yet reached you, it probably will be conveyed with this, as I have requested Mr. Ewen to
+enquire for it. - My Dear Husband I expect you will receive this on your way home. Oh the enrapturing thought to hope
+you are returning to your dearest friends whose arms are open to receive you, never I hope to be so long, or so
+distantly separated in this world. - Your letters are both near me, it would be a fruitless attempt to pretend to
+describe my feelings when I received your last. I am quite reconciled, and as cheerfull as I possible can be.</p>
+            <pb n="3" facs="0012_000060_000353_0003.jpg" xml:id="d3e197"/>
+            <p>I would do injustice to your character to suppose you were not verry happy in the instructive company of Mr.
+Campbell. I received your congratulations about our new Brother, we had heard of the connection from our friends
+below. - <unclear reason="illegible" resp="bds">We report</unclear> of your competitors Death I do not rejoice in,
+altho it may prevent disputes, by character I am afraid he was ill prepared for his important <unclear reason="illegible" resp="bds">charge</unclear> - I hope I am gratefull for the restoration of your health, and
+promise my self to have mine confirmed when I shall have the pleasure of living with you in that Western World
+<unclear reason="illegible" resp="bds">Ms Manstons</unclear> compliments were verry acceptable, and with you to
+return them if you have an opportunity.</p>
+            <p>Last week and this have been important to you, you have been surrounded with temptations, every where courting
+your attentions; but I trust Providence will gaurd you, and enable you to resist them all. Oh Mr. Ramsey this is
+a gloomy season, all nature dead, not the smallest appearance of vegative life, the Birds have forsaken us, nothing
+but the melancholy murmur of the creek to salute our Ears when we walk out for recreation</p>
+            <note type="transcription">The following text is from the post script on the fourth page of the letter.</note>
+            <p>M<unclear reason="illegible" resp="bds">J</unclear> Alexander to the Hon. Major Ramsey</p>
+            <note type="transcription">The preceding text is from the post script on the fourth page of the letter.</note>
+            <pb n="4" facs="0012_000060_000353_0004.jpg" xml:id="d3e225"/>
+            <p>My dear companion what more shall I say to you? <unclear reason="illegible" resp="bds">or</unclear> how
+break at talking with you, Oh cruel necessity you have obliged me often to yield when I otherwise would not,
+and <unclear reason="illegible" resp="bds">then</unclear> still art arbitrary. I must leave you in the hands
+of Providence, and compose myself for sleep Adieu my dearest Self - </p>
+            <p>24th Good morning Sir I hope you have arose in good Health, and had you as direct an opportunity of writing
+to me, as I have to you, I know you would be happy. I scarcely expect to hear from you untill I see you, anxious
+as I am for your return, I do not wish you to <unclear reason="illegible" resp="bds">fatague</unclear> yourself
+too much in returning. - Our Honored Parents wishes you to receive their paternal <unclear reason="gap" resp="bds">affection hope</unclear> would have wrote but complains of a headache <gap resp="Dyson-Smith"/> we have enjoyed
+good health since you left us living chiefly at home nothing unremarkable I believe has happened since you
+left us. My Dear Husband we must <unclear reason="illegible" resp="bds">finish</unclear> this <unclear reason="illegible" resp="bds">conversation</unclear>, and conclude. May Providence <unclear reason="illegible" resp="bds">hover</unclear> arround you guard, guide and protect you from accidents and
+<gap resp="Dyson-Smith"/> you to the arms and <gap resp="Dyson-Smith"/> of your loving companion</p>
+            <p>Peggy A. Ramsey</p>
+            <p>My Dear Brother, Sister has given me the liberty of of writing a Post-cript in her letter do not blame me
+for not writing a letter myself it was not for want of inclination I assure you the time that you expected to
+be abscent is now half gone and the other half will soon <unclear reason="illegible" resp="bds">unround</unclear>
+We please our selves with the prospect of an early Spring to return you to us &amp; then to carry us all home
+to Carolina - My paper you see is limited I have much to say but will conclude with wishing you a happy
+return your truly affectionate <unclear reason="illegible" resp="bds"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

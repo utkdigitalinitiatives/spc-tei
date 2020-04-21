@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000253_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James Dodds</name>
+				                    in France to Ellen Smith in Jackson, Tenn.,<date when="1919-05-29">1919 May 29</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000253_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James Dodds in France to Ellen Smith in Jackson, Tenn.,1919 May 29</title>
+          <date when="1919-05-29">1919 May 29</date>
+          <author>
+            <name type="person">James Dodds</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000253_0001.jpg" xml:id="d4e39"/>
+        <p>JL Dodds</p>
+        <p>T.Co#8= 23rd Engr's</p>
+        <p>Amer Exp Forces</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000253_0002.jpg" xml:id="d4e57"/>
+        <p>Langres France</p>
+        <p>May 29-19</p>
+        <p>Dear Ellen:</p>
+        <p>Will write you a few lines this evening. I am feeling fine and dandy  They told us to day we were going home some time in June and of course that made me feel better than I have for some time</p>
+        <p>Will be at least 3 weeks before we can get out of here and maybe longer. I think I will be in the U.S. by July 1st but wont be home. I am sure will be at least two weeks after we land before I get home.</p>
+        <p>I will be discharged at Fort Oglethorp Ga. Will stop off in Nashville one day and night I think to see my Grandma and Uncle I have thair.</p>
+        <p>I will write you later and tell you how my moving is getting along for takes so long to go thro with all this stuff  May be longer than I think before we get started.</p>
+        <p>with love</p>
+        <p>James L.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

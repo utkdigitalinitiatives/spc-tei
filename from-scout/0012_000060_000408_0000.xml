@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000408_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Riverside, Tenn., to his children in Charlotte, N.C.<date when="1872-03-03">1872 Mar. 3</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Valine, Debbie</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000408_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Riverside, Tenn., to his children in Charlotte, N.C. 1872 Mar. 3</title>
+               <date>1872-03-03</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2  digital images; 2 pages</extent>
+               <note type="abstract">J.G.M. Ramsey wrote this letter on March 3, 1872 and addressed it to his children. He mentioned his daughter Sue&apos;s improvement from her recent illness. He mentioned that he and his wife would be moving and asked his daughter, Liddy, to advise them where they should move. He told his children about the recent bad winter weather in Knoxville. He mentioned the family should sell some of the household goods to get cash for travel money. He sent instructions for packing and sending their belongings to Knoxville by rail. He told the children that he and their mother were not as well as they had been.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family life.</term>
+               <term>Moving, Household -- Tennessee -- Knoxville.</term>
+               <term>Knoxville (Tenn.) -- Social life and customs.</term>
+               <term>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884 -- Correspondence.</term>
+               <term>Ramsey family -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000060_000408_0001.jpg" xml:id="d3e156"/>
+            <p>River-Side March 3, 1872,</p>
+            <p>My Dear Children</p>
+            <p>We recd. late last night Liddys letter of the 27.th. Feb. &amp; are very glad to hear that all in town &amp; country are well- &amp; especially that Sue is again up &amp; very well with the little folks. It is very fortunate that she has had such good nurses. Against this reaches you, you will have received your Mas letter telling you that it had been decided on that we would go to town &amp; occupy either the house in East Knoxville or one of four we have been looking at over on the other end of town. In some respects Liddys house &amp; <unclear reason="illegible" resp="DV"> garden </unclear> Vineyard Orchard stable &amp; cow-house suit us better than some of the others without any or few of these appendages It is almost as near to the Church &amp; as accessible to my customers but the others are in better neighborhoods &amp; the rents comparatively higher. I &amp; the rest wish Liddy was here to help us choose the location. Where we are there is too few rooms &amp; the social advantages as to society are not so good as town. Tho the weather has been too inclement even in Knoxville to allow of much society. Which do you think Liddy will be best-this side of the Creek or West of Gay street? <unclear reason="illegible" resp="DV"> Dr. Frank </unclear> talks of leaving &amp; his house will be for rent. But it is under the <unclear reason="illegible" resp="DV"> hill</unclear> &amp; badly <unclear reason="illegible" resp="DV"> arranged </unclear> for every thing but contiguity to the spring. <unclear reason="illegible" resp="DV"> MKnitt </unclear> went to look through your house last week &amp; describes it as more convenient &amp; fashionable than I thought it. I wish you were here to form an opinion</p>
+            <pb n="2" facs="0012_000060_000408_0002.jpg" xml:id="d3e183"/>
+            <p>about the <unclear reason="illegible" resp="DV"> selection </unclear> . Your Ma wrote you to have every thing of ours that is portable &amp; that is worth its freight, carefully packed &amp; <unclear reason="illegible" resp="DV"> boxed </unclear> up &amp; marked carefully J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tennessee</p>
+            <p>Care of J. <unclear reason="illegible" resp="DV"> M. </unclear> Walley</p>
+            <p>Gay Street</p>
+            <p>Take R.R. receipts &amp; <unclear reason="illegible" resp="DV"> say </unclear> on the boxes Via Augusta Atlanta &amp; Dalton. Tell Robt. &amp; W. Alexander to sell off for cash such things as are unsold &amp; will not bear <unclear reason="illegible" resp="DV"> carriage </unclear> . The stove is one of these &amp; it ought to bring nearly cost. Let them give you the <unclear reason="illegible" resp="DV"> pro ceeds </unclear> of the articles sold. If that is not enough to bring you home in April write to me &amp; I will send you more. If the things can be packed up, <unclear reason="illegible" resp="DV"> boxed </unclear> &amp; properly directed it may be as well done at once. We cant move till they arrive. After the 20th. of March will be as soon as the weather will be warm enough for us to change our bed rooms Neither of us is quite as well as we have been We had Friday night another very heavy snow storm-7 or 8 inches deep &amp; the roads are terrible Last night your Ma had a very bad spell but has been up all day tho she is now in bed a little earlier than usual. All winter she seemed quite well &amp; I hope will continue so I was called to Lenoirs last week to see <unclear reason="illegible" resp="DV"> Louise </unclear> Ramsey - I left her a little better. Every thing down there is greatly improved - every thing clean <unclear reason="illegible" resp="DV"> , </unclear> quiet &amp; orderly. No noise wrangling - children well <unclear reason="illegible" resp="DV"> dressd </unclear> &amp; well behaved &amp; the gentlemen all friendly &amp; even respectful &amp; deferential. I never saw such a change. A.R.C. has returned from Texas &amp; perhaps will <unclear reason="illegible" resp="DV"> reman </unclear> in Tenn. Mrs. Keller is said to be worse. We want to go down there before long. J. <unclear reason="illegible" resp="DV"> W</unclear> .C. &amp; family &amp; all other friends are well. This will reach you in Charlotte I expect &amp; is directed there. Kiss <unclear reason="illegible" resp="DV"> Ardie </unclear> for us &amp; when you go out to <unclear reason="illegible" resp="DV"> Alexandriana </unclear> Kiss Bartie Ramsey &amp; the babe for your Ma &amp; me. When the things are sold write how much money you have &amp; how much you will need. Affectionately</p>
+            <p>J.G.M. Ramsey. </p>
+            <note type="transcription">The following text is a continuation of the second page of the letter.</note>
+            <p> Remember us to <unclear reason="illegible" resp="DV"> Rev. </unclear> Dr. Miller &amp; family &amp; such other friends in town as recollect or inquire for us &amp; Dr. Henderson &amp; <unclear reason="illegible" resp="DV"> Rev. Mr. Williams </unclear> both of whom have written to me. Also Dr. <unclear reason="illegible" resp="DV"> Wilson</unclear> &amp; <unclear reason="illegible" resp="DV"> Squire </unclear> Kearns &amp; other friends.</p>
+            <note type="transcription">The preceding text is a continuation of the second page of the letter.</note>
+         </div>
+      </body>
+   </text>
+</TEI>

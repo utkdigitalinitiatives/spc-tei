@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000207_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>warrant,
+					<name>William, Blount</name>
+				                    in Knoxville, Tenn.,<date when="1795-07-20">1795 July 20</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Caldwell, Chris</name>
+        </respStmt>
+        <author>
+          <name type="person">William, Blount</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000207_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>warrant, William, Blount in Knoxville, Tenn.,1795 July 20</title>
+          <date when="1795-07-20">1795 July 20</date>
+          <author>
+            <name type="person">William, Blount</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">John Sevier Collection, 1782-1839</note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Caldwell, Chris">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000543_000207_0001.jpg" xml:id="d4e39"/>
+        <p>Warrant</p>
+        <p>No 333</p>
+        <p>Received One Hundred and eighty four dollars and Fifty cents in part of the within</p>
+        <p>Wm Rickard</p>
+        <p>Knoxville</p>
+        <pb n="2" facs="0012_000543_000207_0002.jpg" xml:id="d4e51"/>
+        <p>No 333 Dollars 198</p>
+        <p>William Blount Governer in and over the Territory of the United States south of the river Ohio</p>
+        <p>To David Henley Esquire Agent for the Department of war</p>
+        <p>Pay to Willian Rickard Pay-Master pro tem to the Troops in the Territory aforesaid one hundred and ninety eight dollars out of the money in your hands appropriated for the defensive protection of the frontiers for the pay of a Detachment of Mounted Infantry of Miro District Col James Ford's Regiment under the command of Sargeant William Johnston from the eighteenth November to the fith December 1794, agreeably to payroll and your report thereon of this date, for which this shall be your warrant</p>
+        <p>Given at Knoxville under my hand and seal this 20th day of July 1795</p>
+        <p>Wm Blount&gt;</p>
+        <p>By the Governor</p>
+        <p>Chas McClung</p>
+        <p>Pro Secretary</p>
+        <p>Recorded in the Secretary's Office</p>
+        <p>July 20th 1795. Chas McClung Pro Secretary</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

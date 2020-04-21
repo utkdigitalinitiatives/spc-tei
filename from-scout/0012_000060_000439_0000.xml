@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000439_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1877-07-04">1877 July 04</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000439_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1877 July 4</title>
+               <date>1877-07-04</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>5  digital images;  1 envelope, 4 pages</extent>
+               <note type="abstract">1877 July 4 Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Account of the Historical Society meeting the previous day. Discussion of his friendship with Mrs. James K. Polk, his weekly visits to her and a description of a recent memento lost. Reference to a portrait of J.G.M. belonging to the state. Asks about J.G.M.&apos;s new book and gives news of a convention to be held there. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Associations, institutions, etc -- Tennessee -- Nashville -- History -- 19th century.</term>
+               <term>Governor&apos;s spouses -- Tennessee.</term>
+               <term>Presidents&apos; spouses -- United States.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 1865-1898.</term>
+               <term>Nelson, Anson, 1821-1892 -- Correspondence.</term>
+               <term>Polk, Sarah Childress, 1803-1891.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000060_000439_0001.jpg" xml:id="d3e157"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville,</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000439_0002.jpg" xml:id="d3e169"/>
+            <p>Nashville,</p>
+            <p>July 4th, 1877</p>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>My Dear Sir:</p>
+            <p>Our Society meeting yesterday was tolerably well attended, and the proceedings were interesting.</p>
+            <p>I enclose you several items, cut from the Daily American, of this morning which will give you some information of our meeting. A number of contributions have been heretofore announced in that paper, and several are omitted entirely. A number of bound volumes of School Reports, &amp;c &amp;c relating to public works in the City of New York, were received, and announced yesterday -- all</p>
+            <pb n="3" facs="0012_000060_000439_0003.jpg" xml:id="d3e187"/>
+            <p>sent through the influence of E.G. Pearl, broker, Wall Street, who was raised in Nashville.</p>
+            <p>We were all delighted to see your picture hanging under that of Ex-President Polk, whose likeness was presented to us by Mrs. Polk, who still lives at Polk Place, and whom I visit once a week. This practice I have kept up for a quarter of a century, and if I fail to make my visit, at the regular time, she sends next morning to know if I am sick. Of course, if I am out of the city, I inform her of the contemplated absence before leaving, and pay my respects to her as soon as I return. She was exceedingly kind to me and mine in the early days of the war, but I had made my weekly</p>
+            <pb n="4" facs="0012_000060_000439_0004.jpg" xml:id="d3e197"/>
+            <p>visits for years before. Excuse this digression, and this reference to myself. It sounds vain, and is vain. But Mrs. Polk is one of the noblest and best Christian women in the land, and I feel honored in having her friendship -- a friendship attested by several little mementoes, one of which was unfortunately destroyed by fire in 1867 -- (a fine gold-headed cane, with her name, &amp;c, all fixed up at her own expense.)</p>
+            <p>Your picture is a good one and we all feel proud of it. We all feel proud of it. We do not know whether it belongs to the State or the Society -- to the former we suppose.</p>
+            <p>I am gratified to say that my health has improved recently, owing</p>
+            <pb n="5" facs="0012_000060_000439_0005.jpg" xml:id="d3e209"/>
+            <p>in part, at least, to your sound, sensible advice.</p>
+            <p>Dr. Lindsley could not attend our meeting yesterday. (And this reminds me of the question: when is your book to be published?) Dr. L. set me the resolution published, raising an Anthropological committee for the coming meeting of the American Association for the Advancement of Science, to be held here Aug. 29, to be is session one week.</p>
+            <p>Mrs. Nelson joins me in very sincere regards to yourself and family.</p>
+            <p>Very respectfully yours,</p>
+            <p>Anson Nelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

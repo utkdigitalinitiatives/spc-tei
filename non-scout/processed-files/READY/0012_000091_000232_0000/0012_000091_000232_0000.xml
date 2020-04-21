@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000232_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Sallie Slack</name>
+				                    in [Cicero], Ind., to Albert Slack, <date when="1865-07-16">1865 July 16</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">Sallie Slack</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000232_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Sallie Slack in [Cicero], Ind., to Albert Slack, 1865 July 16</title>
+          <date when="1865-07-16">1865 July 16</date>
+          <author>
+            <name type="person">Sallie Slack</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David L. Jones Letters, 1865</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000091_000232_0001.jpg" xml:id="d4e39"/>
+        <p><unclear reason="illegible" resp="bds">Cicero</unclear>, Ind July the 16th/65</p>
+        <p>Dear brother</p>
+        <p>I again take my pen in hand to write you a few lines to let you know that I have not forgot you yet we are all well as common and I cincereley hope if this reaches your kind hand it will find you blessed with good health, we received you letter of the ninth we was glad to hear from you once more but we was sorrow to hear that you did not get enuf to eat if you was at home I could get you something to ear if i had a bin you boys I would a shot that officer the fourth of July</p>
+        <pb n="2" facs="0012_000091_000232_0002.jpg" xml:id="d4e49"/>
+        <p>why dont you all write a letter and send it to President Johnson and tell him how they starve you. I hope you will get to come home soon </p>
+        <p>now I must tell you who is coming here to day Aunt <unclear reason="illegible" resp="bds">Alanda</unclear> and <unclear reason="illegible" resp="bds">David Gasber</unclear> John Stokes and John Whisler I wish you could be at home we would have a good time</p>
+        <p>Some of our apples is getting good pap has not got our wheat all stacked yet him and <unclear reason="illegible" resp="bds">Nervill</unclear> made one rich a friday Green us up here ever day nearly now I hardley know what to write that will interest you if you was at home I would tell you more than I can write it is only 4 weeks till conference</p>
+        <pb n="3" facs="0012_000091_000232_0003.jpg" xml:id="d4e66"/>
+        <p>I must bring my letter to a close you must excuse bad writing and spelling for this was wrote in a hurry <unclear reason="illegible" resp="ems">Sanks</unclear> folks is well and all the rest of the folks a for as I know write soon as you can yours until death</p>
+        <p>Sallie Slack</p>
+        <p>To</p>
+        <p>Albert Slack</p>
+        <p>give my best respects to all of the boys</p>
+      </div>
+    </body>
+  </text>
+</TEI>

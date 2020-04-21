@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000205_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Indenture,
+					<name>John, Sevier</name>
+				                    in Washington County, North Carolina<date when="1794-11-18">1794 November 18</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Caldwell, Chris</name>
+        </respStmt>
+        <author>
+          <name type="person">John, Sevier</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000205_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Indenture, John, Sevier in Washington County, North Carolina1794 November 18</title>
+          <date when="1794-11-18">1794 November 18</date>
+          <author>
+            <name type="person">John, Sevier</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">John Sevier Collection, 1782-1839</note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Caldwell, Chris">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000543_000205_0001.jpg" xml:id="d4e39"/>
+        <p>George Stouts</p>
+        <p>Indenture</p>
+        <pb n="2" facs="0012_000543_000205_0002.jpg" xml:id="d4e45"/>
+        <p>United States of America.</p>
+        <p>This Indenture, made the 18 day of November in the year of our Lord 1794 between John Sevier chairman of the county court, of the county of Washington and Territory aforesaid, on behalf of the justices of the said county, and their successors, of the one part, and Andrew Carson of the other part, Witnesseth, That the said John Sevier in pursuance to an order of said county court, made the 18 day of November and acording to the directions of the Act of Assembly in the case made and provided, doth put, place and bind unto the said Andrew Carson George Stout an Orphan, now of the age of 9 years with the said Andre Carson to live after the manner of an apprentice and servant, until the said apprentice shall attain the age of 21 years: During all which time the said apprentice his master shall faithfully serve, his lawful commands every where gladly obey; he shall not at any time absent himself from his said masters service without  leave, but in all things as a good and faithful servant shall behave towards his said master and the said Andrew Carson doth covenant, promise, and agree, to and with the said George Stout to learn the art of making whels and that will constantly find and provide for said apprentice during the term aforesaid, sufficient diet, washing, lodging, and apparel, fiting for an apprentice; and also all other things necessary, both in sickness and in health. In witness whereof, the parties to these presents, have interchangeably set their hands and seals, the day and year first written above.</p>
+        <p>John Sevier CW Sea </p>
+        <p>Test</p>
+        <p>John Sevier CC Andrew Carson Sea</p>
+        <p>also to learn the said apprentice to read write and cypher as far as the Single rule of three and a full set of whell rights tools and five dollars in cash</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

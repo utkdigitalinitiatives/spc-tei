@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001445_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Sophema</name>
+				                    in Nashville, Tenn., to her sister<date when="1874-03-20">1874 Mar. 20</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Sophema</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001445_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Sophema in Nashville, Tenn., to her sister1874 Mar. 20</title>
+          <date when="1874-03-20">1874 Mar. 20</date>
+          <author>
+            <name type="person">Sophema</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Nashville Cholera Letter</note>
+          <note type="manuscript">MS.3135</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Cholera -- Tennessee -- Nashville.</term>
+          <term>Christianity -- Southern States.</term>
+          <term>Nashville (Tenn.) -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001445_000200_0001.jpg" xml:id="d4e40"/>
+        <p>Nashville March the 20 1874</p>
+        <p>My ever Dear Sister <unclear reason="illegible" resp="JCM">Electa</unclear>
+            </p>
+        <p><unclear reason="illegible" resp="JCM">I no</unclear> you cannot think me very Dear in not writing, to you, but alass I cannot frame no excuse only negligence I cannot rember the last letter I rec from you but I believe it was about the time Uncle Ben David Died I do not remember wheather I have answered it or not, with me time flies fast that Is bearing me to my long home, but I do not wish to complain, nor wish my time long or short but hope to be <unclear reason="illegible" resp="JCM">resined</unclear> to the will of God in all things, the Lord is &amp; has been very good unto me all the days of my life, therefore would I desire to be thanful myhealth is &amp; has been very good through the Summer &amp; fall during the <unclear reason="illegible" resp="JCM">Chollory</unclear> times I went up in the country on the Farm &amp; stayed some 3 or 4 weeks it was a very distressing &amp; alarming time all that could &amp; was able to get a way left for the country &amp; wattering places I cannot paint the seen to you but as I live close by 2 <unclear reason="illegible" resp="JCM">underlakes</unclear> I had a great chance to see of its awafull <unclear reason="illegible" resp="JCM">havoc</unclear> one day it was published that there was 1,27 died in one day &amp; doubtless that was not all every one felt the efect more or less some took provisions &amp; went to the woods as they could not find accomodations buisness of all kinds was suspeneded, it is called now healthy as is common, but times are called very hard &amp; dull in the Months of May I was more the <unclear reason="illegible" resp="JCM">Buisey</unclear> from Sept to Christmas</p>
+        <pb n="2" facs="0012_001445_000200_0002.jpg" xml:id="d4e67"/>
+        <note type="transcription">The following text is a continuation of the second page of the letter.</note>
+        <p>nothing in comparision to the joy in meeting you once more I often think of you &amp; wonder if you <unclear reason="illegible" resp="JCM">gea</unclear> old like me my hair is quite gray &amp; I can see my facultys &amp; memory are failing me but still my health is good write to me &amp; let me hear from you your Sister <unclear reason="illegible" resp="JCM">Sophema</unclear>
+            </p>
+        <note type="transcription">The preceding text is a continuation of the second page of the letter.</note>
+        <p>I have kept 2 girls have one with me now a going to school we have had very interesting meetings this Winter I have enjoyed them the best I ever have since I have been hear Prayer Meetings hear are not conducted as they are where I used to be few are called onto Pray no one says anything but the Preacher, my past life more more then <unclear reason="illegible" resp="JCM">surpriseth</unclear> me, I have no desire to live my life over again sometimes <unclear reason="illegible" resp="JCM">I rejoice</unclear> that my days are so fast number my up then a gain I fear that I like Moses may never be permitted to enter <unclear reason="illegible" resp="JCM">Canaan</unclear> the Promised land but God hat sed come unto me &amp; be ye saved Dear Sister how is it with you are you ready waiting &amp; prepared for the coming of the Son of Man we according to the corse of nature have not many years longer to live let us try &amp; live so we may meat each other in a better wourld - we have had a very pleasant winter no snow but once some got out these steds for sport but you could hear the grit &amp; gridn so they did not want not <unclear reason="illegible" resp="JCM">maney</unclear> Bells the Peach trees are now in Bloom but I fear they may be frosts &amp; <unclear reason="illegible" resp="JCM">inguse</unclear> them we are now having much rain I dont think this is much of a Farming country or it is subject to eather wet or dry but still the country is kept up still flourishes &amp; populates both with white &amp; Black, I wish you could come &amp; see me I would take all the pains I could in trying to show you the Southern Stile, but that would</p>
+      </div>
+    </body>
+  </text>
+</TEI>

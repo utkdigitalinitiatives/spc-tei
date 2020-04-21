@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000214_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Perkins, Campbell &amp; Co.</name>
+				                    in New Orleans, La., to David Burford in Dixons Springs, Smith Co., Tenn., <date when="1853-04-15">1854 April 15</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">Perkins, Campbell &amp; Co.</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000214_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Perkins, Campbell &amp; Co. in New Orleans, La., to David Burford in Dixons Springs, Smith Co., Tenn., 1854 April 15</title>
+          <date when="1853-04-15">1854 April 15</date>
+          <author>
+            <name type="person">Perkins, Campbell &amp; Co.</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000214_0001.jpg" xml:id="d4e39"/>
+        <p>Major David Burford</p>
+        <p>Dixon's Springs, Smith Co.</p>
+        <p>Tennessee</p>
+        <p>From Perkins, Campbell &amp; Co</p>
+        <p>dated 15 April &amp; red'd 23 April 1854</p>
+        <p>ack receipt from Wharton of $1376 22/100</p>
+        <pb n="2" facs="0012_000117_000214_0002.jpg" xml:id="d4e53"/>
+        <p>Mail</p>
+        <p>New Orleans, 15th April 1854</p>
+        <p>Major David Burford</p>
+        <p>Dixons Springs Smith Co Tennessee</p>
+        <p>Dear Sir,</p>
+        <p>we have received from Messrs J. &amp; F.D.R. Wharton of Jackson Miss for your account (in their letter of 10th past) three checks ammounting to  $1,376.22</p>
+      </div>
+    </body>
+  </text>
+</TEI>

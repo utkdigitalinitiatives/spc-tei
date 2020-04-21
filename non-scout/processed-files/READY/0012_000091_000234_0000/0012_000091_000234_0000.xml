@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000234_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>David Jones</name>
+				                    to his children and wife <date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">David Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000234_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, David Jones to his children and wife</title>
+          <date>undated</date>
+          <author>
+            <name type="person">David Jones</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000091_000234_0001.jpg" xml:id="d4e38"/>
+        <p>My Dear Children James Andrew and Thomas you all like to have some Papers with Pictures in now i have gone to some trouble to get you them Papers And now i want you to take the time to read them and try and mind some of what you read there is some nice pieces in them James Send your Cousin Rosa Dailey one if you choose I hope that you are good Boys all of you i have promised you all a nice present if you mind and obey your Mother keep out of Mischief dont be climbing the fences nor the grape vine rack you may get hurt yourselves and when you do it you <unclear reason="illegible" resp="EMS">learn Sharon</unclear> to do it as well Now i must quit and trust that that you will try and be good Boys Your Father</p>
+        <pb n="2" facs="0012_000091_000234_0002.jpg" xml:id="d4e45"/>
+        <p>I think that we will be paid and <unclear reason="illegible" resp="EMS">muster</unclear> out at the same time that is Just my own opinion and i hope it may be so this morning i get off duty at six o clock i went through the market for to <unclear reason="illegible" resp="EMS">prise</unclear> things Potatoes 75 cents a Peck common ham 27 cents a pound <unclear reason="illegible" resp="EMS">Lard</unclear> 3 lb for a Dol Molasses 25 cents 1 Pint common Sugar 25 I went and weighed a loaf of our Bread too day to see if it was the right weight or not it was full weight which was 18 oz what is allowed for a days ration Cap Wylie is going to <unclear reason="illegible" resp="EMS">Duan</unclear> in town so he told me too day I have nothing else to write that i know of no more than i feel tired and i want to finish this to night it may be that i shall be on guard tomorrow again after i came back from town this morning i cleaned my gun it took me till dinner time we have to keep them so Bright for the are examined every day So i went and washed myself the <unclear reason="illegible" resp="EMS">Towell</unclear> and Hankerchief and then I mailed some Papers i took them down to the Post office myself then i came Back and commenced to get the Supper ready for the cooks was away </p>
+      </div>
+    </body>
+  </text>
+</TEI>

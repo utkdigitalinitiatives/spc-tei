@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Andrew Jackson Donelson</name>
+				                    in Louisville, to his wife, Elizabeth <date>Apr. 8</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Andrew Jackson Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000206_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Andrew Jackson Donelson in Louisville, to his wife, Elizabeth Apr. 8</title>
+               <date>Apr. 8</date>
+               <author>
+                  <name type="person">Andrew Jackson Donelson</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000206_0001.jpg" xml:id="d4e39"/>
+            <p>Louisville</p>
+            <p>Sunday night April 8</p>
+            <p>D. Elizabeth</p>
+            <p>I am here after 2 days <unclear reason="illegible" resp="EMS">hard colley</unclear> in the stage and will be off in the morning to <unclear reason="illegible" resp="EMS">Cincinnilte</unclear>; by Cleaveland &amp;New <unclear reason="illegible" resp="EMS">York</unclear> &amp; Washington</p>
+            <p>I asked John Martin to help me get <unclear reason="illegible" resp="EMS">lead</unclear> of line, who is a <unclear reason="illegible" resp="EMS">disavantage</unclear> to our children. The had better stay in Nashville looking out for a place, during what time you can <unclear reason="illegible" resp="EMS">have a  as to her</unclear>, until you hear from me, after I hear <unclear reason="illegible" resp="EMS">lear Gersodt. Pcihefs</unclear> he can find a place for her or will <unclear reason="illegible" resp="EMS">ossest</unclear> her to Germany.</p>
+            <p>It is a great <unclear reason="illegible" resp="EMS">afflection</unclear> to me to <unclear reason="illegible" resp="EMS">expecate</unclear> from you other children, and leave so heavy a <unclear reason="illegible" resp="EMS">wfd ability</unclear> as the management of the farm in your hands, but I is my duty to bear it for the sake of the ultimate advantage which may come from my <unclear reason="illegible" resp="EMS">success</unclear>. You must meet your share of the difficulty with your whole fortitude. In a short time I shall <unclear reason="illegible" resp="EMS">understand</unclear> my ground, and the moment I see that the profits of the enterprise will <unclear reason="illegible" resp="EMS">authorize</unclear> me to take a house at Washington, I shall come on for you. Let my letters be sent on to Washington and particularly the quarterly of the French reviews forwarded to me <unclear reason="illegible" resp="EMS">by my con Jackson. If Otter</unclear> come from</p>
+            <pb n="2" facs="0012_000435_000206_0002.jpg" xml:id="d4e99"/>
+            <p>the <unclear reason="illegible" resp="EMS">winter</unclear> in Mississippi send them to me.</p>
+            <p>Should you get sick it the children telegraph me</p>
+            <p>With my prayer for your health &amp; happiness and that of our dear children I remain always</p>
+            <p>V. dutiful husband</p>
+            <p>A J Donelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

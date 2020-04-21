@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000696_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Edmund Dillahunter</name>
+				                    at his home, to Genl. George W. Gordon, <date when="1849-07-21">1849 Jul. 21</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Edmund Dillahunter</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000696_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Edmund Dillahunter at his home, to Genl. George W. Gordon, 1849 Jul. 21</title>
+          <date when="1849-07-21">1849 Jul. 21</date>
+          <author>
+            <name type="person">Edmund Dillahunter</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">William Randolf Hackley Letter</note>
+          <note type="manuscript">MS.2239</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Cholera -- United States -- History -- 19th century.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000696_000200_0001.jpg" xml:id="d4e39"/>
+        <p>At Home July 21st 1849</p>
+        <p>Dear Sir</p>
+        <p>A short time since, I received a letter from E. B. Smith Esqr; Cashier of the Panters Bank at Pulaski, asking you for a letter to the Secretary at <unclear reason="illegible" resp="JCM">Nan</unclear> in relation to the appointment of <unclear reason="illegible" resp="JCM">nay</unclear> agent at Memphis. We stated that he had written to you sometime ago but received no answr from you and <unclear reason="illegible" resp="JCM">suppasis</unclear> you had not received his letter; and not knowing that you had left here, requested me to see you on the subject.</p>
+        <p>I have known Mr. Smith for several years. He is a man of great integrity and much devoted to <unclear reason="illegible" resp="JCM">business.</unclear> He is getting somewhat advanced in life and is anxious to <unclear reason="illegible" resp="JCM">viteon</unclear> to memphis, where he has lived longest in the west and where his kindred mostly are. He has been unfortunate and is still dependent on his personal <unclear reason="illegible" resp="JCM">hertion</unclear> for support. I have every confidence that he would make a faithful and efficient public agent; and if you think so too, give him such a letter as he desires and enclose it to him at Pulaski. </p>
+        <p>The cholera has left Middle Tennessee pretty much. There is an accasional case at Nashville and the neighbourhood, but it no longer prevails as an epidemic. It is <unclear reason="illegible" resp="JCM">intenly</unclear> healthy here - perhaps never more so. there are no symptoms of Cholera and</p>
+        <pb n="2" facs="0012_000696_000200_0002.jpg" xml:id="d4e72"/>
+        <p>fewer cases of fever than usual at this season of the year. Myself and wife returned evening before last from Beaver-Dam very much improved. I know of no care of sickness among your acquaintances except A, Loony's youngest chld. It is suffering from <unclear reason="illegible" resp="JCM">tuthing</unclear> and may not get well.</p>
+        <p>There is no political excitement here. the friends of Trousdale think it a good sign for them; but they are mistaken. Brown will get just about the same vote that Genl Taylor did - not five hundred <unclear reason="illegible" resp="JCM">less</unclear> I am sure. The slavery question, as presented by the democratic party, connects itself with dangers much more terible than abolitionism. No man should ever be tolerated as a public leader who can <unclear reason="illegible" resp="JCM">seriously</unclear> talk about the dissolution of our union as a remidy for existing evils - for eveils that exist on paper and the lively imagination of fanatics and <unclear reason="illegible" resp="JCM">heratic</unclear> partisans. The questions involved may, at any time, be made a legal one and when decided should be conformed to by the people, unless practical <unclear reason="illegible" resp="JCM">appression</unclear> shoul dbe the consequence; in that event, in the exercise of the inherent right of revolution, resistence might become a duty. But we have not yet reached that point and the bluster of some of the would-be leaders of the democratic party is rediculos, or outragus just as they are impatient an powerful. The people of Tennessee are not prepared either for anarchy or civil war. They will mantain the constitution and laws in</p>
+        <pb n="3" facs="0012_000696_000200_0003.jpg" xml:id="d4e93"/>
+        <p>this integrity; and while they laugh at those small <unclear reason="illegible" resp="JCM">witlings</unclear> who raise a timpest in a tea pot, they will look with scorn and indignation when others who really know the danger that they are aiding to create and yet laborer to swell and increase them to advance their own personal interest.</p>
+        <p>Our county candidates are leaving a pretty animated struggle. It is generally understood that <unclear reason="illegible" resp="JCM">Gratt</unclear> and Strayhorne will be elected by a considerable majority.</p>
+        <p>The <unclear reason="illegible" resp="JCM">brave</unclear> suffered a little for rain in the last three weeks, though crops that are well worked are very good; wheat crop very light, oat crop very heavy.</p>
+        <p>give my best respects to your wive &amp; children - Our College and the community generally have suffered a heavy loss in the death of Mr. <unclear reason="illegible" resp="JCM">Shorucan-</unclear> It will be difficult to supply his place; but we will imploy no man whose qualifications will not fairly inlittle him to public confidence.</p>
+        <p>Very Truly, Your friend</p>
+        <p>Edmund Dillahunter</p>
+        <p>Genl. George W. Gordon</p>
+      </div>
+    </body>
+  </text>
+</TEI>

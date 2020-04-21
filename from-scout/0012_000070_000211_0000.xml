@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000211_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Brownlow, John B.</name>
+ in Bulls Gap, Tenn. to O.P. Temple in Knoxville, Tenn. <date when="1864-09-07">1864 September 07</date>
+            </title>
+            <author>
+               <name type="person">Brownlow, John B.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000211_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John B. Brownlow in Bulls Gap, Tenn. to O. P. Temple in Knoxville, Tenn., 1864 September 07</title>
+               <date>1864-09-07</date>
+               <author>
+                  <name>Brownlow, John B.</name>
+               </author>
+               <extent>11 digital images; 11 pages</extent>
+               <note type="abstract"> Letter dated September 7, 1864, John B. Brownlow, Bulls Gap, Tenn., to O.P. Temple. Has been only field officer on duty for 12 companies, (600 men); account of fights at Blue Springs and at Greeneville; behavior of men of 9th exceptionally good; death of John Morgan; visit to Mrs. Williams and to Nancy Scott to see his body; kept him pipe; got his baggage and private and official documents; saw Temple&apos;s brothers and offers services in any way. 
+ </note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Blue Springs, Battle of, Mosheim, Tenn., 1864 </term>
+               <term>Tennessee -- History -- Civil War, 1861-1865 -- Campaigns</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Campaigns</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence</term>
+               <term>Brownlow, John Bell, 1839-1922 -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000070_000211_0001.jpg" xml:id="d3e156"/>
+            <p>Head-Quarters 9th Tenn. Cavalry.</p>
+            <p>Bull&apos;s Gap, Tenn:</p>
+            <p>September 7th 1864.</p>
+            <p>My dear Col:-</p>
+            <p>I have been intending to write you for two weeks past, but have been so busy as to defer ti to this time.</p>
+            <p>Since I left Knoxville I have been the only field officer with twelve companies. </p>
+            <p>Maj. Armstrong of Knox. Co; has been along but he amounts to little in fact, I could do as well without him as with him. As he has no capacity and seems to take no interest in the service. Maj. Hunt, the only other field officer, returned to camp last evening. He has been absent from the regt. since we left </p>
+            <pb n="2" facs="0012_000070_000211_0002.jpg" xml:id="d3e176"/>
+            <p>Gallatin, sick at his home in Cleveland. Beside this, I have had, on this campaign, but one company with more than one commissioned officer.</p>
+            <p>The others sick and on detached service. From this you will see I have had my hands full. </p>
+            <p>I have 600 men present for duty. Of this number, more than one half live on the different road. I have travelled since I left Knoxville. </p>
+            <p>There are but 28 men absent without leave from my command This I regard as remarkable. Gen Gillem told me a few days ago that he was surprised there were not at least 70 of this clop. considering the men are so near home.</p>
+            <pb n="3" facs="0012_000070_000211_0003.jpg" xml:id="d3e190"/>
+            <p>I have reason to be proud of my regt.</p>
+            <p>Braver men, I don&apos;t think, ever fired a shot. </p>
+            <p>I have fought them two days since I left Knoxville. They were never under fire before. In the fight at Blue Srpings and Greeneville there was no flinching. They fought like men who had been in many engagements.</p>
+            <p>We have whipped and routed the enemy in both engagements. Since killing John Morgan the Tennessee Cavalry Brigade think they can accomplish almost anything.</p>
+            <p>In the fight at Blue Springs I had five (5) men wounded, in the Greeneville fight six (6), In the latter I fear one is </p>
+            <pb n="4" facs="0012_000070_000211_0004.jpg" xml:id="d3e206"/>
+            <p>mortally wounded, his thigh bone being shattered.</p>
+            <p>The morale of the 9th is splendid. Col. Miller, <unclear reason="illegible" resp="NW"> Comd&apos;g</unclear> Brig. told me to day he scarcely ever heard a complaint of theft or disorderly conduct on the part of the men of the 9th. </p>
+            <p>Since Burnside entered East Tenn. no regiment has behaved as well.</p>
+            <p>At Greenville, Morgan&apos;s force was at least 1600. I think more. Our force was less. Notwithstanding this we routed them completely, and I had the pleasure of seeing the lifeless carcacass of their fallen chief. </p>
+            <p>In ten minutes after he was killed, I met a seargeant with his body thrown on the neck of his horse, his head and face covered with blood. I pointed the men of the 9th to the corpse, assuring them it</p>
+            <pb n="5" facs="0012_000070_000211_0005.jpg" xml:id="d3e225"/>
+            <p>it was the veritable John Morgan They made the <unclear reason="illegible" resp="NW"> welkin </unclear> ring with shouts of applause. </p>
+            <p>After the fight was over, I went to Mrs. Williams to see the features of the great raider. Mrs. Williams received me very cordially, calling me John and remarked she was glad to see me.</p>
+            <p>During this time Old Nancy Scott was by.</p>
+            <p>She looked daggers at me. Neither of us spoke. Mrs. Williams introduced us. Old Nancy said, when Mrs. Williams introduced me as Col. Brownlow &quot; good evening Mr. Brownlow.&quot; I then asked to see the corpse of Gen. Morgan.</p>
+            <p>Mrs. Jo. Williams at once accompanied me to the room</p>
+            <pb n="6" facs="0012_000070_000211_0006.jpg" xml:id="d3e244"/>
+            <p>where they were.</p>
+            <p>Old Nancy looked furious. Morgan was handsomely laid out. He was a very fine looking man. Tall, weighting 190 or 200 lbs, with no surplus flesh but splendid muscle. He had a splendid head.</p>
+            <p>Capt. Withers, his chief of staff said here yesterday that Morgan told him , the night before he was killed, while he was pulling his boots off to go to bed, that he would be &quot;d-d if he didn&apos;t whip the force at Bulls Gap the next day or get whipped.&quot;</p>
+            <p>He was shot about six inches below the chin, the ball striking the pulmonary artery.</p>
+            <p>&quot;Oh God!&quot; were his only </p>
+            <pb n="7" facs="0012_000070_000211_0007.jpg" xml:id="d3e260"/>
+            <p>words after he was shot. The fatal shot was fired by Andrew Campbell of Carter County, a private of Co. &quot;G.&quot; 13th Tennessee Calvalry. </p>
+            <p>Just after he was killed Lieut. Mort. Co. &quot;J&quot; 9th Cav. searched Mrs. Williams house. for his clothing or baggage. He got his coat, vest &amp; pipe.</p>
+            <p>Capt. Clay, Mrs Byrnum&apos;s husband, of Morgan&apos;s staff &amp; two other rebels he got in Mrs. W&apos;s cellar. </p>
+            <p>On application of Capt. C. I have him Morgan&apos;s coat &amp; vest, to bury him in. The pipe I have. It is a large wooden pipe with a splendid plaster of paris picture of Morgan in it. </p>
+            <pb n="8" facs="0012_000070_000211_0008.jpg" xml:id="d3e274"/>
+            <p>The pipe with the coat &amp; vest was found in the room in which Morgan slept. He got into Greenville the night before he was killed. </p>
+            <p>Mrs. William&apos;s cook says she saw Morgan smoking with the pipe I have. </p>
+            <p>Gen. Sherman told Judge Gant at Cleveland (on his way to re-inforce Burnside) that he didn&apos;t know there were any East Tennesseans in the Federal Army. I suppose he will find it out now. My object in writing you was to speak of your brothers. What I have written is foreign to the purpose I had in view. </p>
+            <p>In a short time after arriving in Greenville two weeks ago I met your brother on the street. Had a few minutes </p>
+            <pb n="9" facs="0012_000070_000211_0009.jpg" xml:id="d3e288"/>
+            <p>conversation, where several persons were by. That evening I mounted my horse and started to his residence but met him on the verge of my camp, coming to see me.</p>
+            <p>I told him to call on me without hesitation, when he thought I could serve him. I mentioned to him the matters about which we spoke. He thanked me, gratefully, and seemed anxious to arrange the matter in question. </p>
+            <p>I will see him again in a few days. The policy now is to hold all the territory we take. </p>
+            <p>The cars will be running to Greenville in a week or ten days. </p>
+            <pb n="10" facs="0012_000070_000211_0010.jpg" xml:id="d3e302"/>
+            <p>If there is anything I can do for you, you have only to command my services. </p>
+            <p>Truly Your Friend,</p>
+            <p>John B. Brownlow </p>
+            <p>L.A. Col. Com&apos;d,g 9 Tenn. Cav. </p>
+            <p>P.S.</p>
+            <p>Morgan was so thorougly surprised, he didn&apos;t have time to put on his socks, coat or vest. We got all his baggage and private papers &amp; official documents.</p>
+            <p>J.B.B.</p>
+            <pb n="11" facs="0012_000070_000211_0011.jpg" xml:id="d3e322"/>
+            <p>Col J B Brownlow </p>
+            <p>Sept. 1864</p>
+            <p>Death of John Morgan</p>
+         </div>
+      </body>
+   </text>
+</TEI>

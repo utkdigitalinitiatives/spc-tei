@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001976_000203_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>"Committee of Lady Students Protest"</name>
+				                    in Philadelphia, Pa. to John C. Smith,<date when="1894-06">1894 June</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Henderson, Ian</name>
+        </respStmt>
+        <author>
+          <name type="person">"Committee of Lady Students Protest"</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001976_000203_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, "Committee of Lady Students Protest" in Philadelphia, Pa. to John C. Smith,1894 June</title>
+          <date when="1894-06">1894 June</date>
+          <author>
+            <name type="person">"Committee of Lady Students Protest"</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Thomas W. Humes and Charles W. Dabney Papers, 1872-1904</note>
+          <note type="manuscript">0144</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>College presidents -- Tennessee.</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001976_000203_0001.jpg" xml:id="d4e39"/>
+        <p>Committee of Lady Students Protest, June 1894</p>
+        <pb n="2" facs="0012_001976_000203_0002.jpg" xml:id="d4e43"/>
+        <p>[June 1894]		Since we have heard from various sources that we the women students of the University are represented as desiring a motion to be placed in charge of our building we submit the following as an expression of our opinion:-		1. Such supervision is not necessary where there is no boarding department for women.		2. Women are not admitted to the University until they have attained an age when they are capable of conducting themselves properly.		3. We should consider it a reflection on our past behaviour should it be thought necessary to place a motion over us.		4. We think that the past year has shown that we are capable of governing ourselves without further help than that kindly given by the faculty and we think that body is of the same opinion.		5. We consider self reliance in matters of conduct as well as in study one of the chief advantages gained by a</p>
+        <pb n="3" facs="0012_001976_000203_0003.jpg" xml:id="d4e47"/>
+        <p>university education and we believe that this benefit is best secured by the Woman's league and would be seriously impaired by the proposed form of government.</p>
+        <pb n="4" facs="0012_001976_000203_0004.jpg" xml:id="d4e51"/>
+        <p>Elma E.R. Ellis	.President		E.S. Ogden Secty.	Helen Mary Thornburn.	Executor's Committes of the Woman's League.		Ruth M. Gray	Lucie A. Luttrell.		Elma E.R. Ellis</p>
+      </div>
+    </body>
+  </text>
+</TEI>

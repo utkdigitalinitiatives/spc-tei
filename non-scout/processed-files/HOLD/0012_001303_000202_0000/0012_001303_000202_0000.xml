@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000202_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Postcard,
+					<name>James L. Dodds</name>
+				                   in Camp Meade, MD., to Ellen Smith in Jackson, Tenn., <date when="1917-12-31">1917 Dec. 31</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jordan, Seth</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000202_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Postcard, James L. Dodds in Camp Meade, MD., to Ellen Smith in Jackson, Tenn., 1917 Dec. 31</title>
+          <date when="1917-12-31">1917 Dec. 31</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Smith Family Papers </note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000202_0001.jpg" xml:id="d4e39"/>
+        <p>CAR STATION AT ADMIRAL AT CAMP MEADE, MD.</p>
+        <pb n="2" facs="0012_001303_000202_0002.jpg" xml:id="d4e43"/>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton St.</p>
+        <p>Jackson</p>
+        <p>Tenn</p>
+        <p>Hello Ellen</p>
+        <p>I may get quaranteened any day and if I do I cannt write until it is raised so if I dont write any more you write just the same I havent heard from any one I cant amagine what is the matter</p>
+        <p>James L.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

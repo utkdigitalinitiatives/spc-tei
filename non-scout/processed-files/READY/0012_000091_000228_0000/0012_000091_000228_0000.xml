@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000228_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>David Jones</name>
+				                    in Nashville, Tenn., to his wife <date when="1865-02-20">1865 Feb. 20</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">David Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000228_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, David Jones in Nashville, Tenn., to his wife 1865 Feb. 20</title>
+          <date when="1865-02-20">1865 Feb. 20</date>
+          <author>
+            <name type="person">David Jones</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000091_000228_0001.jpg" xml:id="d4e39"/>
+        <p>Camp Curtin Feb 20 th / 65 </p>
+        <p>Dear Anna</p>
+        <p>Monday after dinner i sit down in my tent to write you a few lines in hope that they may receive them enjoying your usual health as i do through the mercy of God. I shall give you a little account of our journey and the kind of company I had There was 2 guards on each car there was about 28 men in each car and they were the roughest and the vulgarest set i ever saw in my life when we would stop at a station they would even insult women that were <unclear reason="illegible" resp="EMS">paying</unclear> by nothing but cursing swearing and Blaspheming all the time i never was with such an ungodly crew before in my life one of the guards told me that he seen great many squads within the last three years but he never saw the like of them fellows as soon as they got to Harrisburg they got drunk and had to be put in the Guard Room so they were robbed there of all the money they had pretty much all their</p>
+        <pb/>
+        <p>clothes so it was good for them that they did not get all of their money <unclear reason="illegible" resp="EMS">Next</unclear> the soldiers rest or rather the Soldiers home there is a very large Receiving room Stores and benches to sleeping on then there is a very large eating room with seven tables about a hundred ft long it reminded me of ............................................................... on our way to Camp we <unclear reason="illegible" resp="EMS">Passed</unclear> the Capitol which is a very nice Brick Building a Dome in the center with a wing at each end it stands in a large square Camp Curtin Stands out of the city on a level ground the fence is too high to see the surrounding county I have not been out of the camp yet some of our fellow is away all day Sabbath day is spent reading i <unclear reason="illegible" resp="EMS">heartily </unclear> want out side the tent some of our fellows went <unclear reason="illegible" resp="EMS">drover Slroes Tin's Blanket CC</unclear> but i did not draw them till Monday it was Monday Morning that I drawed </p>
+        <pb n="3" facs="0012_000091_000228_0003.jpg" xml:id="d4e66"/>
+        <p>the first rations to we draw a loaf in morning about the size of your 5 cent loaf also a tin of Coffee dinner we get some bean soup and a Piece of Meat to might it will be a cup of hot coffee then to beds at 8 o clock Camp Curtin has 200 tents besides the officers tents and other Buildings each tent is calculated to accommodate 6 men we are but 5 in ours though I dont know of anything else to write just now</p>
+        <p>Yesterday was my birthday Tell Mr Holmes that i took some of his snuff while i was wanting I have a Piece of that cake yet and 3 of the apples I have got the carpet sack here some of the fellows lost their knapsack and all they have but I took care of all mine where I wont i took all along with me I did not know that you had put the 45$ in my pocket book till yesterday when I was hunting after the Letter stamps i happen to see them but i suppose that you was confused and did not do it intentionally I have not spent a single cent yet </p>
+      </div>
+    </body>
+  </text>
+</TEI>

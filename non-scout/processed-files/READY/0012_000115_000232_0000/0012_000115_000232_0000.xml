@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000232_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J. M. Saunders</name>
+				                    in Warrenton., to Maj. David Burford in Nashville, Tenn., <date when="1831-09-22">1831 Sept. 22</date>
+            </title>
+        <author>
+          <name type="person">Saunders, J. M.</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000232_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J. M. Saunders in Warrenton., to Maj. David Burford in Nashville, Tenn., 1831 Sept. 22</title>
+          <date when="1831-09-22">1831 Sept. 22</date>
+          <author>
+            <name type="person">J. M. Saunders</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000115_000232_0001.jpg" xml:id="d4e44"/>
+        <p>Warrenton Va  25</p>
+        <p>Sept 23 to</p>
+        <p>Maj. David Burford</p>
+        <p>Nashville</p>
+        <p>Tennessee</p>
+        <p>From J. M. Saunders</p>
+        <p>recd, 5 October 1831</p>
+        <p>Statment to 1st</p>
+        <p>April 1831</p>
+        <pb n="2" facs="0012_000115_000232_0002.jpg" xml:id="d4e64"/>
+        <p>Warrenton Sept 22nd 1831</p>
+        <p>Dear Burford</p>
+        <p>Having closed the business of last year with <unclear reason="illegible" resp="JCM">mess - </unclear> Franklin &amp; <unclear reason="illegible" resp="JCM">armprets - </unclear> I have it in power to furnish you a spicific account of our matter up to the 1st of Aprl last - The concern of Mr. Saunders &amp; Co made $4258,84 the half of which being $2129,42 is our part of the profits, this sum added to our former capital makes $12389 - I have delivered 17 negros to my friend in the distrist which will <unclear reason="illegible" resp="JCM">lr</unclear> ship about the 1st of Oct.</p>
+        <pb n="3" facs="0012_000115_000232_0003.jpg" xml:id="d4e81"/>
+        <p>Times are dull and slaves difficult to procure, I think however my prospect is sufficient to warrant the belief that I shall be able to do as well as I did last season which is about a fair specimen of the trade in this <unclear reason="illegible" resp="JCM">quarter -</unclear>
+            </p>
+        <p>I must call your attention over now to the suit in the Federal Court I have been informed that you are elected to the Legislation, and during the session it will be convenient for you to see that the cause is put in a proper <unclear reason="illegible" resp="JCM">subation</unclear> for trial, which I hope may take place at the next term - The Branch of the <unclear reason="illegible" resp="JCM">ato</unclear> state Bank of Tenn. at Clarksville, owes me $125 with several years interest, I will thank you to apply to the cashier Joel c. <unclear reason="illegible" resp="JCM">Rier</unclear> Esq. for the money, you will be certain to see</p>
+        <pb n="4" facs="0012_000115_000232_0004.jpg" xml:id="d4e98"/>
+        <p>him at Nashville, let me hear from you on your receipt of this and let me know whether or not you will be disposed to continue your funds in trade longer than this year my engagemetn with Franklin &amp; Co being at the will of the parties, the firm of Fr. &amp; A will expire in the spring of 1833 and I think it <gap resp="Mincey"/> they will calculate up my continuance until that time which as <unclear reason="illegible" resp="JCM">concerns</unclear> myself I shall certainly do, if nothing turns up to change my prsent notion -</p>
+        <p>Yr Friend</p>
+        <p>J. M. Saunders</p>
+        <p>my capital this year</p>
+        <p>is $25,000</p>
+      </div>
+    </body>
+  </text>
+</TEI>

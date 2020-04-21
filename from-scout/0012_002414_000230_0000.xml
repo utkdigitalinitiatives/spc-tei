@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000230_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Sarah Butler</name>
+				                   in Charleston, S.C. to Messrs. Ross &amp; Simpson in Philadelphia, Pa.,<date when="1797-05-12">1797 May 12</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">Sarah Butler</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000230_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Sarah Butler in Charleston, S.C. to Messrs. Ross &amp; Simpson in Philadelphia, Pa.,1797 May 12</title>
+               <date when="1797-05-12">1797 May 12</date>
+               <author>
+                  <name type="person">Sarah Butler</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18 </note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000230_0001.jpg" xml:id="d4e39"/>
+            <p>Messrs. Ross &amp; Simpson</p>
+            <p>Merchants</p>
+            <p>Philadelphia</p>
+            <pb n="2" facs="0012_002414_000230_0002.jpg" xml:id="d4e47"/>
+            <p>4743-4744   Charleston, May the 12th 1797</p>
+            <p>Messrs  Ross &amp; Simpson</p>
+            <p>Gentlemen.</p>
+            <p>My Father being obliged to leave town suddenly this morning directed me to write to You requesting you to make 
+				      insurance on six hundred pounds sterlg in Rice shipped from St Simons, Georgia in the two sloops Jenny Cap Barker,
+				      and Cap Briggs sloop Mary bound to Boston and about to sail: and on seven hund &amp; fifty pounds in Rice shipped
+				      from the same place in the Brigg Sally, Cap Chisholm for Philadelphia to sale in all this month.</p>
+            <p>I am,</p>
+            <p>Gentlemen,</p>
+            <p>Your most Obedt. Servt.</p>
+            <p>Sarah Butler.</p>
+            <p>at what premium can the preceding orders be effected Ross &amp;Simpson May 22nd 97</p>
+            <p>please effect the above Insurances - R &amp;S</p>
+            <note type="transcription">The following text is along the left side of the second page of the letter.</note>
+            <p>$3214.28     $2571.43</p>
+         </div>
+      </body>
+   </text>
+</TEI>

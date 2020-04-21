@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000235_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Eames, C.A.
+</name>
+in Millwood, Tenn. to O.P. Temple in Knoxville, Tenn.,
+<date when="1861-12-12">
+1861 December 12
+</date>
+            </title>
+            <author>
+               <name type="person">C.A. Eames</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000235_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, C.A. Eames in Millwood, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 December 12</title>
+               <date>1861-12-12</date>
+               <author>
+                  <name>C.A. Eames</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">In this letter, dated December 12, 1861, C.A. Eames in Millwood, Tenn. writes to O.P. Temple in Knoxville, Tenn. about the case of John McMackin, for which Eames is to be a witness. He inquires whether he might send his &quot;contracts&quot; instead of coming in person as he fears that, &quot;being a Northern Man,&quot; he will be arrested.</note>
+               <note type="collection">The O.P. Temple Papers, 1861</note>
+               <note type="manuscript">MS.21</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Actions and defenses -- Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>Witnesses -- Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee, East -- Politics and government -- 19th century.</term>
+               <term>Eames, E. A. -- Correspondence.</term>
+               <term>Temple, Oliver Perry -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000070_000235_0001.jpg" xml:id="d3e153"/>
+            <p>Office of C.A. Eames&apos; Boot and Shoe Manufactory,</p>
+            <p>Millwood, East Tennessee.</p>
+            <p>Millwood, Washington County, East Tenn., Dec 12 1861</p>
+            <p>Mr OP Temple</p>
+            <p>Dear Sir</p>
+            <p>Mr John McMackin tells me that you are to assist him in his case &amp; desire me to appear as a Witness in his behalf I only wish to inquire if I send you my contracts between myself &amp; the parties I bot hoggs for if it will not do as well as for me to come in person as I am a man that they have had a great desire to arrist being a Northern Man &amp; I wish to conduct myself in such a ways as not to give them a cause to malest me at all as my presents in my Business at home call so Strong. McMackin was Buying hogs for me &amp; the Bonds I have will prove that the hogs was Bot for the Southern Government so I think McMackin clear of the charge made against him.</p>
+            <p>C.A. Eames</p>
+            <p>Write me at once at Millwood PO/ I dont want to come to Knox</p>
+            <pb n="2" facs="0012_000070_000235_0002.jpg" xml:id="d3e176"/>
+            <p>CA Eames</p>
+            <p>A Dec 14/61</p>
+         </div>
+      </body>
+   </text>
+</TEI>

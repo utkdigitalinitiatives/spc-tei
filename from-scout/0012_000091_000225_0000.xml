@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000225_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anna Jones</name>
+ in Allegheny City, Pa., to David L. Jones in Nashville, Tenn.<date when="1865-07-22">1865 July 22</date>
+            </title>
+            <author>
+               <name type="person">Jones, Anna M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000225_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anna Jones in Allegheny City, Pa. to David L. Jones in Nashville, Tenn., 1865 July 22</title>
+               <date>1865-07-22</date>
+               <author>
+                  <name>Jones, Anna M.</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">22 July 1865 Anna M. Jones in Allegheny City, Pa. to her husband, David L. Jones in Nashville, Tenn. With knowledge of his poor health, she writes to cheer him up and to make sure he received the money she sent. Laments his not having come home by now. Considering her knowledge of recent departures, she supposes the mustering of the western army to be in the near future. Encourages him to remain strong. Has told others of his being sick and they advise him to go to a hospital for better care, but not by rail, and to let others know about this.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- United States -- Correspondence.</term>
+               <term>Army spouses -- Pennsylvania -- Allegheny City -- History -- 19th century -- Correspondence.</term>
+               <term>Family life -- Pennsylvania --  Allegheny City -- History -- 19th century -- Personal narratives.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Medical care.</term>
+               <term>Pennsylvania -- Allegheny City -- History -- 19th century.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>Jones, David L., Union Soldier -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses.</term>
+               <term>Military discharge.</term>
+               <term>Military medicine.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000091_000225_0001.jpg" xml:id="d3e164"/>
+            <p>Allegheny City July 22d</p>
+            <p>My Dear Husband</p>
+            <p>I set me down to pen a few lines hoping they may find you in good health as they leaves us through the mercy of God I acant say that I have much news to tell just now but I thought a word from home would be wellcome to you even if it did not contain much news I sent you a letter on the 20th with two dollars in it I will send you more again do you not have any <unclear reason="illegible" resp="NW">idec that</unclear> you will get home soon it seems so <unclear reason="illegible" resp="NW"> range</unclear> that you are kept so long but the last of the army of the Potomac was mustered out last Teusday so I supose they will commence on the western army next I hope so at least for I know that you are tired out but be of good heart for it wont be long I am so</p>
+            <pb n="2" facs="0012_000091_000225_0002.jpg" xml:id="d3e182"/>
+            <p>much obliged for that book for scraps I want you to help me make it what you did you send me the peice about the rennet for did you think I would ever use it I am afraid we wont have the cow without the calf but you mentioned about the watch I got it but I dont know how to undertake it to get it sold but I will see what can be done I cannot write much to night it is now 12 oclock and I am sleepy I went down to see cooper to day he asked me about you I told him he advises you to <gap resp="Williams"/> the hospital if you are so sick for you will then be nursed and cared for and he says that if you ar sick to not <unclear reason="illegible" resp="NW">s </unclear> come by rail but to come by the <unclear reason="illegible" resp="NW">rdie</unclear>for it takes all the strength to traveveel by rairl I mention this that you may tell others as well as <unclear reason="illegible" resp="NW"> avery</unclear> day</p>
+         </div>
+      </body>
+   </text>
+</TEI>

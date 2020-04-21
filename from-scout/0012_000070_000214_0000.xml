@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000214_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Watkins, A.G.</name>
+ in Military Prison to O.P. Temple and Baxter in Knoxville, Tenn. <date when="1864-10-22">1864 October 22</date>
+            </title>
+            <author>
+               <name type="person">Watkins, A.G.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000214_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, A. G. Watkins in Military Prison to O. P. Temple and John Baxter in Knoxville, Tenn., 1864 October 22</title>
+               <date>1864-10-22</date>
+               <author>
+                  <name>Watkins, A.G.</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract"> 1864 October 22, A.G. Watkins in Military Prison writes to O.P. Temple and Baxter in Knoxville, Tenn. Requests either or both of them to act as counsel and arrange bond for him in defense of charge of treason. 
+ </note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Trials (Treason) -- Tennessee -- Knoxville </term>
+               <term>Prisoners of War --  Tennessee -- Knoxville </term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865 </term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence</term>
+               <term>Baxter, John, 1819-1886 -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000070_000214_0001.jpg" xml:id="d3e155"/>
+            <p>Military Prison</p>
+            <p>Octr 22nd 1864</p>
+            <p>Dear Sirs</p>
+            <p>I am held in prison on a charge of Treason It is my desire to give bond &amp; security for my appearance at Court, and to prepare for my defence. Coonsent is given by Lt. Shaw for prisoners to consult Counsel at the Marshals office upon application of Counsel to see prisoner. You will confer a favour that will be duly appreciated if either or both of you will see me at the office designated on this day or at your earliest convenience. </p>
+            <p>Your Obl Servant</p>
+            <p>A G Watkins</p>
+            <p>
+               <unclear reason="illegible" resp="NW"> Mipis</unclear>
+            </p>
+            <p>O.P. Temple &amp;</p>
+            <p> John Baxter</p>
+            <pb n="2" facs="0012_000070_000214_0002.jpg" xml:id="d3e181"/>
+            <p>A G Watkins. </p>
+            <p>Oct 22/64 </p>
+            <p>Letter retaining Temple &amp; Baxter to defend him.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

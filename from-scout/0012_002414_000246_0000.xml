@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000246_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>David Stewart</name>
+				                    to Charles Pettit., <date when="1804-06-25">1804 June 25</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">David Stewart</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000246_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David Stewart to Charles Pettit., 1804 June 25</title>
+               <date when="1804-06-25">1804 June 25</date>
+               <author>
+                  <name type="person">David Stewart</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000246_0001.jpg" xml:id="d4e39"/>
+            <p>Charles Pettit Esqr</p>
+            <p>President of the Insurance Company</p>
+            <p>North America</p>
+            <p>Mail</p>
+            <p>Philadelphia</p>
+            <p>David Stewart, Baltre</p>
+            <p>25 June 1804</p>
+            <pb n="2" facs="0012_002414_000246_0002.jpg" xml:id="d4e55"/>
+            <p>Charles Pettit Esqr</p>
+            <p>Baltimore June 25th 1804</p>
+            <p>Sir</p>
+            <p>I have lately Received two letters, Addressed to me as Secretary of the Marine Insurance Office, from Mr James Johnston of New york, on the Subject of an Insurance, Effected on Cargo of Ship Sally, from Charleston to Havana, taken and Condemd in New providence, in the first he States, a desire to become the Agent of the Underwriters, to Endeavor by Compromise, to Get Something from the Captors, or to purchase the Claim, and Attempt A Recovery on account of his House. _  In Answer to this, I was Instructed to Inform him, that the Marine Office would Abandon their Right to him, for $3000, having Insured On Said Cargo to Ammount of $1000_0 and if this proposition was Not Acceded to by him, I Requested to know, the terms on which he Would Undertake the Agency, in behalf of the <unclear reason="illegible" resp="pw">Assuner</unclear>, his Reply was Received the 23d, in which he States that the only terms, on which he will purchase, is to pay the Expenses that has, Arrisen or may Arrise, in pursueing the Appeal, when if he Succeeds the ammount is for his Use, or he will Agree to become the Agent of the <unclear reason="illegible" resp="pw">Assuner</unclear>, Charging a Commission of five perCent on the Ammount he may Recover_ this last proposition Appears most Agreeable to the Marine Office, as the Expense of the Appeal Cannot be very Considerable, and from the favourable</p>
+            <pb n="3" facs="0012_002414_000246_0003.jpg" xml:id="d4e71"/>
+            <p>Disposition, Aparent in many late decisions, by the Lords, there is Good Reason to hope, Something handsome may be Recoverd by a Decree of the Court, but what I promise myself most Success from, is A Settlement by Compromise, with the Captors, who I fancy have made Overtures for that purpose_ it appears from Mr Johnstons letter, that 10,000 was Insured here by the Office I Represent, $10,000 by your Office 10,000 by the Pennsylvania Office, $10000 by private Writers in New york, and $10,000 in Boston, the whole to Ammount of $50,000.  A Heavy Sum, and an Object Worth Attention, and I hope those Concerned Will Cordially Unite, in Some Immediate Measures, to put the business In a train for Settlement, the Marine Office Strongly Recommend, the Acceptance of Mr Johnstons Offer, as Agent on the terms proposed,  And I hope you may Concur with them in Opinion, however I am Instructed to Say, that Whatever may be Concluded on, by your Company And that of the Pensylvania Co. will be Satisfactory to Ours, and I beg leave to Authorize you, to Act for them as you Conclude to do for yourselves, promising to Sanction by Every Necessary act any Agreement you think proper to make With Mr Johnston _ the Nature Of the Business Requires a prompt decision And I Request your Attention to it, as Soon as Circumstances will permit.</p>
+            <p>Very Respectfully I am Sir</p>
+            <p>Your Obedt hum Servant</p>
+            <p>David Stewart Secretary</p>
+            <p>to Marine Insur Office</p>
+            <pb/>
+         </div>
+      </body>
+   </text>
+</TEI>

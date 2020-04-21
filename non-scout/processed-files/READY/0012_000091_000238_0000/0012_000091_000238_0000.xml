@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000238_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Anna Jones</name>
+				                    to her husband <date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">Anna Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000238_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Anna Jones to her husband</title>
+          <date>undated</date>
+          <author>
+            <name type="person">Anna Jones</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000091_000238_0001.jpg" xml:id="d4e38"/>
+        <p>David I expect you think hard of me not writing oftener but I would have written you several letters more than I did but I was two weeks that I did not get a letter from you at all and I did not in that time for I thought you had moved to some other place for some one told me that your regiment was going to join Thomas with Sherman I do humbly pray God to protect you and keep your health good until you return for it is a sad thing to be sick from home if you take the diarhea if you can get some <unclear reason="illegible" resp="EMS">Jeressy</unclear> good brandy and stir some flour in it and drink it it will stop the diarhea in a short time Mrs White and Mr send their respect to you as also Mr <unclear reason="illegible" resp="EMS">Kerk</unclear> and Mrs Cornelious and Jane, Jane obliged to you for those <unclear reason="illegible" resp="EMS">flours</unclear> and the evergreen I have some Cornelious sent home in a letter he pulled them up by the root I planted them they are growing nicely flour is now 10 dollars a barrell here sugar that was 30 is</p>
+        <pb n="2" facs="0012_000091_000238_0002.jpg" xml:id="d4e51"/>
+        <p><unclear reason="illegible" resp="EMS">80</unclear> some have it for less some are selling the white crushea at 23 cts Charlie <unclear reason="illegible" resp="EMS">Mowry</unclear> is doing well Mrs William Douglas has a young daughter she is about again I think that I will send Jimie out to Sarahs when school stops but I dont know what to do he has got to be so impudent with the tounge that I dont know how to do with him it vexes me so to have to whip them but still I have it to do I dont know that I have anything to say just now but I will try to write soon again if I can between this and sabath I still want you to write often for we like to hear from you I must now close this for it is time it was in the office to get in the 12 o clock Mail Mary and her grandmother went to cincinnatti they started yesterday I dont know whether they are coming back or not I believe now I have given you most all the news except that I have not had a visit from any of bob family since they went home but I dont care do write soon again yours as ever Anna M Jones </p>
+      </div>
+    </body>
+  </text>
+</TEI>

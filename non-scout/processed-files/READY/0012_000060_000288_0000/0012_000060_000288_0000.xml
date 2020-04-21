@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000288_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Ramsey, J.G.M.</name> in Washington, D.C., to J. Crozier Ramsey
+					in Knoxville, Tenn., <date when="1850-07-27">1850 July 27</date>
+            </title>
+        <author>
+          <name type="person">Ramsey, J. G. M. (James Gettys McGready)</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000288_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Ramsey, J.G.M. in Washington, D.C., to J. Crozier Ramsey in Knoxville, Tenn., 1850 July 27</title>
+          <date when="1850-07-27">1850 July 27</date>
+          <author>
+            <name type="person">Ramsey, J.G.M.</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1850</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000288_0001.jpg" xml:id="d4e44"/>
+        <p>Washington July 27. 1850.</p>
+        <p>Dear Crozier</p>
+        <p>Since I wrote you at Dalton my
+					movements have been so telegraphic that I have not often had a minute of leisure
+					to devote to any thing but eating a hurried dinner or other meal along the road.
+					Think of the speed - you eat breakfast at Chattanooga on the bank of the
+					Tennessee river this morning to morrow morning you take breakfest at Aiken S.C.
+					several miles east of the Savannah. At 2 O'clock of the same day you are in
+					Charleston. Thus passing from the western base of the Apalachian chain to the
+					coast of the Atlantic in about thirty two hours. I leave you to compute through
+					these data the time which will be consumed in a trip from Knoxville to
+					Charleston, when the R. Road shall be completed from Dalton to your city. The
+					time is so short - the transportation so rapid - that when you pass over the
+					route the first time you can scarcely realise where you are &amp; how you got
+					there. I have passed over most of the route often but every time I am impressed
+					more &amp; more with the grandeur &amp; magnificence of the public works of
+					Georgia &amp; South Carolina - &amp; equally so with the inappreciable
+					importance of an extension of these works to Tennessee. To say not one word
+					about the results that must follow a commercial identity between the South
+					Atlantic &amp; the West or the reciprocal social improvement that will accompany
+					it I ask you to look for a moment only at its effects upon our own people &amp;
+					our own interests. In my last if I recollect right I said or began to say
+					something on the subject but the whistle of the locomotive admonished me that I
+					could not then enlarge upon the idea &amp; it was therefore given to you
+					incomplete. I say then here briefly that earlier in the growth of Tennessee no
+					one of her citizens - especially no young man dared</p>
+        <pb n="2" facs="0012_000060_000288_0002.jpg" xml:id="d4e52"/>
+        <p>ever to feel that his life was purposeless or that it must remain necessarily
+					uneventful. At that day every one hewed out his own fortune by his sword - his
+					manly energies or his noble self reliance. In every department of life a field
+					was opened up for the display of abilities - &amp; a theatre presented to the
+					aspiring - the ambitious &amp; the energetic for the manifestation of those
+					virtues &amp; excellencies that signalized so immently the lives of our older
+					citizens. A wilderness was to be subdued - defences were to be erected &amp; the
+					savage had to yield to civilized man. The foundations of government were to be
+					laid - the structure of society to be formed - &amp; the <unclear reason="Illegible" resp="JH">beneficent</unclear> institutions of learning
+					and religion were to be established. The Anglo-American &amp; especially the
+					South Western pioneer was competent to the full discharge of all these lofty
+					functions. To their adequacy for all these duties let the part of Tennessee be
+					the evidence &amp; the proud memorial.</p>
+        <p>But I beg to enquire, is the field
+					any where unocupied? - is the theatre still open on which the younger men of the
+					country may still be employed with credit to themselves &amp; usefulness to
+					Tennessee? Or are all channels of enterprise &amp; distinction so filled up or
+					obstructed as to drive much of the virtue, intelligence, capacity &amp; public
+					spirit of our people into involuntary exile &amp; expatriation? You know I never
+					despond - but the time has been when an unwelcome answer would have been given
+					to these questions. Candor would not have allowed a different one. The insulated
+					position of our country - the obstructions to its common with world - the value
+					of our products entirely sunk in the exportation of them to a market - had
+					paralized the energies &amp; weighs like a heavy incubus upon the vitals of our
+					people. The heart of the farmer sunk at the</p>
+      </div>
+    </body>
+  </text>
+</TEI>

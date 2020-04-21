@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Nashville, Tenn., to Mother, <date when="1862-09-16">1862 September 16</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000202_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Nashville, Tenn. to Mother, 1862, September 16</title>
+               <date>1862-09-16</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1862 September 16 Southgate Cregmile in Nashville, Tenn. to his Mother (Eleanor Griffin). Tells his mother that presently all is well, only after, having means of communication cut off and/or burned, thus having to forage for food, and supporting the batteries from the most dangerous position in town, while being shelled for hours by Rebel forces commandeered by Generals Morgan and Bragg. Practically out of ammunition, the battle finally comes to an end with the return of Maj. Gen. Rosencrans. Closes with news of their currently being under marching orders, and, being led by Rosencrans, will soon start through the South driving any Rebels in their path into the Gulf to drown.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Nashville -- 19th century -- Correspondence.</term>
+               <term>Command of troops -- History -- 19th century.</term>
+               <term>Generals -- United States -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Cregmille, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Griffin, Eleanor, 1819- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Campaigns.</term>
+               <term>Military camps.</term>
+               <term>Military police.</term>
+               <term>Military leadership.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000092_000202_0001.jpg" xml:id="d3e164"/>
+            <p>Campe Near Nashville Tenn</p>
+            <p>Sept 16th</p>
+            <p>1862</p>
+            <p>Dear Mother</p>
+            <p>
+               <gap resp="Williams"/> set down <gap resp="Williams"/> now to rite you a few lines to let you know how we are a getting a longe at Nashville we are all well at presant the <unclear reason="illegible" resp="NW">comnication</unclear> has been cut be tween Nashville and Louisville. but General Rosecrance has opend the roade throught we have had better Morgan has burnt the bridges than we had be four</p>
+            <pb n="2" facs="0012_000092_000202_0002.jpg" xml:id="d3e186"/>
+            <p>we go a <unclear reason="illegible" resp="NW">forag</unclear>
+               <gap resp="Williams"/> or three da <gap resp="Williams"/> or nine hun <gap resp="Williams"/> and take <gap resp="Williams"/> that we <gap resp="Williams"/> lived on <gap resp="Williams"/> honey and <gap resp="Williams"/>
+               <unclear reason="illegible" resp="NW">elee </unclear> that <gap resp="Williams"/> think Morgan and Bragg diden make <unclear reason="illegible" resp="NW">muteh </unclear> by it. the rebles tride to take the town but dident quite get it thay commence to shelling the town at day light and fought till three oclock P.M the 69 was in the dangerst place we were saporting the <unclear reason="illegible" resp="NW">batries</unclear>. it was a good thing that General </p>
+            <pb n="3" facs="0012_000092_000202_0003.jpg" xml:id="d3e221"/>
+            <p>Rosecrance came throught when he did for we had only five boxes of catridges left in town but we have plenty now some body got in to forte Neglay last night and spiked tou of the sege guns and one pece of artlery </p>
+            <p>Col Stevens has got a discharge and is coming home in a few days and he will tell you all the news we are onder marching orders at any moment Gen Rosecrance is a going to start throught the south and drive them</p>
+            <pb n="4" facs="0012_000092_000202_0004.jpg" xml:id="d3e231"/>
+            <p>in to the gulf and drownd them all then we will come home I receved tow letters to day and it was the first I had for four months one was ritten in august and the other in september</p>
+            <p>Rite often and let us know how you are a getting at home and how has gone to war from Reily</p>
+            <p>no more at prisant</p>
+            <p>Southgate Cregmile</p>
+            <p>Nashville Tenn</p>
+            <p>Sept 16th</p>
+            <p>1862</p>
+            <p>we havent been pade for seven months but will be pade in a few days</p>
+         </div>
+      </body>
+   </text>
+</TEI>

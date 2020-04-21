@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000071_000207_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Henry Cherry
+</name>
+in Knoxville, Tenn., to Amos Gould in Owosso, Michigan,
+<date when="1865-06-24">
+1865 June 24
+</date>
+            </title>
+            <author>
+               <name type="person">Cherry, Henry</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000071_000207_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1865 June 24</title>
+               <date>1865-06-24</date>
+               <author>
+                  <name>Cherry, Henry</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated May 2, 1865, from Henry Cherry in Knoxville, Tenn. to Amos Gould, Cherry outlines the command of the regiment, which has just made camp at Lenoir&apos;s Station. Also notes that they are still unpaid. Describes many sick soldiers and says that &quot;Red Tape-ism has closed up the avenue to Hospitals at Knoxville.&quot;</note>
+               <note type="collection">The Henry Cherry Letters, 1865</note>
+               <note type="manuscript">MS.2214</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e141">
+            <pb n="1" facs="0012_000071_000207_0001.jpg" xml:id="d3e142"/>
+            <p>Knoxville Tenn</p>
+            <p>June 24 1865</p>
+            <p>Honl</p>
+            <p>Amos Gould,</p>
+            <p>My Dear Sir,</p>
+            <p>Many thanks for your letter enclosing the notes &amp; amount of my indebtedness to you. How glad my heart was to know that the money had got home safely. I had already informed you that I had sent the drafts to Mrs C, &amp; not as requested to you, for the Regiment had gone, &amp; my trunk &amp; papers were on the &quot;Baggage train&quot; &amp; I had no way of getting at the amount unless I made you wait an uncertain period, &amp; I thought you had waited long enough. So I concluded to do the next best thing.</p>
+            <pb n="2" facs="0012_000071_000207_0002.jpg" xml:id="d3e160"/>
+            <p>We are now 23 miles from Knoxville at Lenoir&apos;s Station; mostly dismounted, &amp; without arms, and are in camp in an oak forrest about one mile from the Rail Road. Col Trowbridge is in command of our Brigade, &amp; Genl Gillam of the encampment, while Genl Stoneman at Knoxville has command of the Department. Our 10th Mich Cav is under the command of Maj Standish, but I had forgotten that Capt Byerly was there, &amp; could tell you the form &amp; colour of things as they are.</p>
+            <p>The Regiment is yet unpaid and very man of our men are suffering from sickness, mostly (Typho-malarial) and Red Tape-ism has closed up the avenue to Hospitals at Knoxville, and my heart is sick of seeing men suffering &amp; dying when there seems to be no necessity for it.</p>
+            <pb n="3" facs="0012_000071_000207_0003.jpg" xml:id="d3e170"/>
+            <p>True, men die every where, but when it is not necessary, it seems to me morally wrong to detain &amp; keep them where they can have no hospital comforts, no bedding, &amp; no watchful care such as is absolutely necessary in cases of even ordinary illness. No garden vegetables can be bought for them, simply for the want of money, and were it in my power to day, I would for the sake of those who are ill, &amp; for their families &amp; friends at home, command that the Regiment be immediately removed to Mich, to be mustered out, when Government desired. There is blame somewhere.</p>
+            <p>There has not been a month within the last Ten, but that money was in the Treasury, &amp; yet the men here &amp; their wives and children at home have suffered from want of pay,</p>
+            <pb n="4" facs="0012_000071_000207_0004.jpg" xml:id="d3e180"/>
+            <p>&amp; it has thus been not only with the men, but with many of the Officers. I can stand it to be in the army, I can &amp; will face as many cannon in the hour of my country&apos;s need, as any other man, but I cannot bear to see them suffering from unecessary illness.</p>
+            <p>I have just finished a petition to Gov Crapo, hoping to get it signed by the Officers, praying his influence for our speedy return to Michigan. I cant help it -- I came to do a Chaplains duty, &amp; I will do it.</p>
+            <p>With many thanks for your kindnesses I remain as ever with affectionat regards to your own &amp; your Brothers family</p>
+            <p>Truly Yours</p>
+            <p>H Cherry</p>
+            <p>After enclosing this an order came to the Eleventh Mich (a part of our Brigade) to march for Nashville. Is it ominous?</p>
+            <p>H Cherry</p>
+            <p>June 24 1865</p>
+         </div>
+      </body>
+   </text>
+</TEI>

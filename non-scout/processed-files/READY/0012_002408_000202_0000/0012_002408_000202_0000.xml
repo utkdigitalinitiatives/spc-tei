@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002408_000202_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Article, <name>'Death Claims Capt. E. F. Wiley'</name>,
+				    <date when="1919-06-06">1919 June 6</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">'Death Claims Capt. E. F. Wiley'</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002408_000202_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Article, 'Death Claims Capt. E. F. Wiley', 1919 June 6</title>
+          <date when="1919-06-06">1919 June 6</date>
+          <author>
+            <name type="person">'Death Claims Capt. E. F. Wiley'</name>
+          </author>
+          <extent>1 page</extent>
+          <note type="collection">Edwin Floyd Wiley Memoir and Photograph, 1861-1865</note>
+          <note type="manuscript">0433</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_002408_000202_0001.jpg" xml:id="d4e38"/>
+        <p>June 6, 1919</p>
+        <p>DEATH CLAIMS CAPT. E. F. WILEY</p>
+        <p>Dies Early Thursday Morning at Residence.</p>
+        <p>Funeral Services Will Be Conducted This Afternoon at 3:30 O'clock.</p>
+        <p> Capt. Edwin Floyd Wiley, influential citizen and for many years prominent in the coal mining developments of this section, died Thursday morning at 5:30 o'clock at his residence, 1317 White avenue, West Knoxville, at the age of 80 years.</p>
+        <p>Funeral services over the body will be conducted from the late residence this (Friday) afternoon a 3:30 o'clock.  Interment will be in Old Gray cemetery, Rev. Roy E. Vale, pastor of Second Presbyterian church, will officiate.</p>
+        <p>The active pall-bearers will be J. T. Garrett, John K. Gillespie, T. D. Morris, L. M. G. Baker, J. K. Griffin and W. B. Henderson.  They honorary pall-bearers will be Capt. William Rule, S. B. Dow, James C. Crumbliss, Charles F. Eager, Charles Hayes Brown and Edward Maynard.</p>
+        <p>Among the expressions of sympathy received by the members of the family yesterday was a telegram from William G. McAdoo, in New York, former secretary of the U. S. treasury, in which he expressed regret that he was unable to reach here for the funeral.</p>
+        <p>Sketch of Life.</p>
+        <p>Capt. Wiley was born at Kingston, Tenn., January 13, 1839.  Early in life he engaged in the coal business.  His father, the late Col. Henry Howard Wiley, was a pioneer coal land owner and operator of this section.  It is said that Col. Wiley probably owned more coal land at the time of his death than any other individual in East Tennessee.</p>
+        <p>Among the holdings, and of which sections he had inaugurated coal developments, were mines in the Oliver Springs, Coal Creek and Kentucky coal fields.  The sons of Col. Wiley were trained in the coal developments of the section.</p>
+        <p>Capt. Wiley began his career as a coal operator in 1869 and devoted almost 50 years of his life to that industry.  Associated with his father, he opened the Knoxville <gap reason="indecipherable" resp="Hutson"/>
+               <unclear reason="illegible" resp="AH"> comp im mines near Cree 869 and in later yea I oped aer valuable properties a </unclear>was one of the large dealers in the out<unclear reason="illegible" resp="AH">sat</unclear> of mines in East Tennessee.  He maintained offices in Knoxville and remained in active business until his health was impaired and he retired from <unclear reason="illegible" resp="AH">do eares</unclear> of an active business life.</p>
+        <p>For 18 months past Capt. Wiley had been in declining health and about two weeks ago his physical condition became critical, after a stroke of apoplexy or paralysis.  His condition grew more serious until teh end.</p>
+        <p>Was Union Veteran.</p>
+        <p>During his business career Capt. Wiley was a progressive and constructive business leader.  He was successful in the development of the mining industries in which he was interested.  At the outbreak of the civil war Capt. Wiley enlisted in the Union army and became caption of Company F. Fifth Tennessee volunteer infantry.  He served with distinction throughout the war, and after the conclusion of the hostilities he returned to Tennessee and became a citizen of Knoxville, remaining <gap reason="indecipherable" resp="Hutson"/> rest of his life.  He was united <gap reason="indecipherable" resp="Hutson"/>
+               <unclear reason="illegible" resp="AH">ge</unclear> to Miss Mary Catherine <gap reason="indecipherable" resp="Hutson"/>
+               <unclear reason="illegible" resp="AH">sister in e</unclear> U. S. treasury, W. G. McAdoo <gap reason="indecipherable" resp="Hutson"/> They and her four daughters survive.  They are Misses May, Eleanor and Catherine Wiley and Mrs. Octavo Letorey, all of Knoxville; four sons also survive, as follows: Dr. Edwin Wiley, of Newport, R. I.; Ernest, Robert and Noel Wiley, all of Nashville.</p>
+        <p>Capt. Wiley was for many years a member of the Second Presbyterian church and he took an active interest in the affairs of the church and community during the years when he was in robust health and active business life.  He also was a member of the Grand Army of the Republic and always enjoyed meeting the comrades of that organization.  He was a loyal and upright citizen, thorough business man and consistent Christian, and was widely known for the good works he accomplished during his residence in Knoxville.  He was popular with the masses of citizens and his death removed a man who has been a factor in the greatest development of this city and section through his connection with the coal mining enterprises.</p>
+        <p>The bereaved widow and members of the family received many expressions of sympathy following the announcement of the death of Capt. Wiley</p>
+      </div>
+    </body>
+  </text>
+</TEI>

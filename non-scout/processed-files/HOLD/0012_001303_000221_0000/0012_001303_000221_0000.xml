@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000221_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France to Ellen Smith, in Jackson Tenn., <date when="1918-05-23">1918 May 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Giles, Sheldon</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000221_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith, in Jackson Tenn., 1918 May 23</title>
+          <date when="1918-05-23">1918 May 23</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Giles, Sheldon">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000221_0001.jpg" xml:id="d4e39"/>
+        <p>James L. Dodds</p>
+        <p>Co L 23 Engers</p>
+        <p>American Ex Fr</p>
+        <p>Miss Ellen Smith </p>
+        <p>111 Hatton Street</p>
+        <p>Jackson </p>
+        <p>Tennessee</p>
+        <p>U. S. A.</p>
+        <pb n="2" facs="0012_001303_000221_0002.jpg" xml:id="d4e57"/>
+        <p>May 23 1918</p>
+        <p>Some where in france</p>
+        <p>Dear Ellen -</p>
+        <p>Well I will write you again this P. M. I am feeling fine and hope you are also I havent heard from any one at home yet But guess the time seems longer
+to me than it really is Will soon be two months since i left the states Say how did every body in Jackson hear we had</p>
+        <pb n="3" facs="0012_001303_000221_0003.jpg" xml:id="d4e67"/>
+        <p>left the states. Carl had a letter from Lena Schwab and she said they heard we had left the states long before
+the cards got there we are still having lots of fun loading the German big shells They have been falling in sight all day and real close to where 
+some of the boys are working But listen I want to tell you something that will make you laugh I know. 
+I am a cook can you believe such a thing. Well I didnt either but I am a cook just the same Well ever body has to learn so here goes I am trying any way
+I am in a little town so the Germans dont shoot the town up. But they come real close some times The aeroplances fly over us ever day they are getting
+so common I dont notice them much They have battles in the air here and the other day when we were eating dinner</p>
+        <pb n="4" facs="0012_001303_000221_0004.jpg" xml:id="d4e71"/>
+        <p>They brought a German plane down. Lots of fun. We are between the <unclear reason="illegible" resp="SG">us and them</unclear>
+            
+            and when the Americans get to shelling the Germans we have some noise believe me</p>
+        <p>There was one night didnt any body sleep any I dont think, we shelled the Germans all night we are going to mop up with 
+these Germans in time for me to get home and eat Christmas dinner with you and I will be awful hungry to</p>
+        <pb n="5" facs="0012_001303_000221_0005.jpg" xml:id="d4e80"/>
+        <p>So you will have to cook lots of Turkey Well what is going on in the city. Now much of any thing. I would guess But I wouldnt know how to act if I was to be 
+turned aloose again and told to do as I wanted to. </p>
+        <p> But some day I will and I can have a good time to. A lot easier than I could before I joined the army Do you ever hear from Ester
+since she got married</p>
+        <pb n="6" facs="0012_001303_000221_0006.jpg" xml:id="d4e86"/>
+        <p>and left the city. Who do you get to go to town with you now? I cant think of any body that was as close as she was
+what has become of Lynn? Is he still at Millington or has he moved a long  ways from home. 
+They always get a fellow as far away from home as possible. Well write me a long letter and tell me all the news
+I cant think of any thing else I can tell now so will quit. answer real soon </p>
+        <p> a true friend</p>
+        <p> James L. Dodds</p>
+        <p>Co l 23 Engr</p>
+        <p>American Ex Force</p>
+        <p>Via New York France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

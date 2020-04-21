@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000246_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn.,<date when="1919-03-14">1919 Mar. 14</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000246_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1919 Mar. 14</title>
+          <date when="1919-03-14">1919 Mar. 14</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>7 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000246_0001.jpg" xml:id="d4e39"/>
+        <p>J L Dodds</p>
+        <p>T.Co#8=23 Engrs</p>
+        <p>Amer Exp Force</p>
+        <p>Miss Ellen Smith </p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennesse</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000246_0002.jpg" xml:id="d4e57"/>
+        <p><unclear reason="illegible" resp="PW">Sauilly</unclear>France</p>
+        <p>March 14-1919</p>
+        <p>Dear Ellen:</p>
+        <p>Will write you again to night. I have started several times this week to write you  But something happened every time.</p>
+        <p>I got one wrote a few nights ago and one of the boys came in and turned a bottle of ink over all over it so I had to burn it up.</p>
+        <p>Last night Lin came down to see me and of course we had to talk over old times. I am always so glad to</p>
+        <pb n="3" facs="0012_001303_000246_0003.jpg" xml:id="d4e73"/>
+        <p>have Lin come around  We talk of all the good times we have had and wonder when we can get back to have some more good times.</p>
+        <p>I believe Lin will beat me home. That is the way things look now. I have give up all hopes of getting home before August or sept.</p>
+        <p>They wont even tell us when they think</p>
+        <pb n="4" facs="0012_001303_000246_0004.jpg" xml:id="d4e81"/>
+        <p>wwe will get home. You ask me what Div. I am in here. We dont belong to any Div at all.</p>
+        <p>We are just over here and I thank they have forgot we are here. </p>
+        <p>We never have been in a Div just plain old 23 Engrs</p>
+        <p>Say let me tell you something funny it has not rained</p>
+        <pb n="5" facs="0012_001303_000246_0005.jpg" xml:id="d4e91"/>
+        <p>here in four days  now can you amagine such a thing  And the sun has been shining those four days.</p>
+        <p>We are having real spring weather and I am sure glad to see it.</p>
+        <p>Say Lin was telling me last night about some one driving the car off from the dance and all of you being left in the rain Some joke</p>
+        <pb n="6" facs="0012_001303_000246_0006.jpg" xml:id="d4e99"/>
+        <p>I will bet I can guess what you said about the fellow that done that</p>
+        <p>We are having a dance here in Sauelly to night but I wouldnt go if I never got to go to another dance in my life</p>
+        <p>There is about ten men to ever girl  Well I dont like to be around a place like that.</p>
+        <p>I can tell you all about these dances over here when I get home</p>
+        <pb n="7" facs="0012_001303_000246_0007.jpg" xml:id="d4e109"/>
+        <p>Well I hope to here from you again real soon. I have received one letter from you in three week</p>
+        <p>Of course if you was sick I can excuse  But write me real often</p>
+        <p>With lots of love</p>
+        <p>James L Dodds</p>
+        <p>Truck Co #8 = 23 Engrs</p>
+        <p>Amex Exp Forces</p>
+      </div>
+    </body>
+  </text>
+</TEI>

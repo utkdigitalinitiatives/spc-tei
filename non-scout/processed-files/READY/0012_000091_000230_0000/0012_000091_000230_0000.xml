@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000230_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>David Jones</name>
+				                    in Nashville, Tenn., to his wife <date when="1865-03-11">1865 March 11</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">David Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000230_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, David Jones in Nashville, Tenn., to his wife 1865 March 11</title>
+          <date when="1865-03-11">1865 March 11</date>
+          <author>
+            <name type="person">David Jones</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000091_000230_0001.jpg" xml:id="d4e39"/>
+        <p>Indianapolis Indiana March 11/65</p>
+        <p>My Dear Wife We left the Allegheny Station about 1/2 after 2 i was there Just in time I met one of our fellows pretty Drunk he was left behind one 5 or 6 more As I was going Past your Mothers Place i saw the old path up the hill where i use to go and see you and at <unclear reason="illegible" resp="EMS">Enon</unclear> Valley I saw the room where you and I slept long ago After that I had no interest in what i seen except the taking a look at theCountry it has a wild appearence a few houses scattered here and there with the fences down and that <unclear reason="illegible" resp="EMS">dirty</unclear>that it was too had to go to the house the might was beautiful we could see all along the road it was a kind of a special train it stopped at every Station along the Road and it ran very slow </p>
+        <p/>
+        <pb n="2" facs="0012_000091_000230_0002.jpg" xml:id="d4e52"/>
+        <p>Our men would Jump off at every Station we would come to for something to eat or whisky so there was 5 men left behind at different Stations they may catch up to us yet though - before we leave here We all came out of the cars at Crestline thinking we had to change cars But we had to go back to the Fort Wayne cars and they Brought us all the way to Indianapolis the trip first rate I got some sleep them noisy Drinker fellows were left behind I hope i may never see them again I found three of my <unclear reason="illegible" resp="EMS">Miss</unclear> Grubbs, McKain, and John Little I served that cake with them we ate it all up before we came to Indianapolis they said it was the nisest cake they ever ate That Little fellow of ours was <unclear reason="illegible" resp="EMS">Robber of 22 Vol</unclear> in coming  from Harrisburgh he was awful drunk then and the Same way last night too </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000274_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Petition
+					<name/>
+				                    for Tennessee Road from Sparta to Liberty <date when="1832-10-05">1832 Oct. 05</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000274_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Petition for Tennessee Road from Sparta to Liberty 1832 Oct. 05</title>
+          <date when="1832-10-05">1832 Oct. 05</date>
+          <author>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000274_0001.jpg" xml:id="d4e38"/>
+        <p>Petition for Tennessee</p>
+        <p>road from Sparta</p>
+        <p>to Liberty</p>
+        <p>Petition for a Turnpike</p>
+        <p>from Sparta to Liberty</p>
+        <pb n="2" facs="0012_000115_000274_0002.jpg" xml:id="d4e50"/>
+        <p>To the Honerable the General assembly of the State of Tennessee now in Session</p>
+        <p>We whose names are here unto Subscribed represent to your Honerable body that we are informed, that Col. William <unclear reason="illegible" resp="JCM">Usney,</unclear> Pepe Lincoln and Anthony <unclear reason="illegible" resp="JCM">Dibrell,</unclear> have applied to the present General assembly for a charter to open a turnpike road from Sparta to Liberty and having further understood, that Said application does not meet the views of many inteligent and respectable citizens, who are interested in said road and that the same is <unclear reason="illegible" resp="JCM">deamed</unclear> objectionable; and having also understood, that these objections have been clearly pointed out to said Lincoln, <unclear reason="illegible" resp="JCM">Usney and Dibrell,</unclear> and that they have concluded not to prep the application non before the <unclear reason="illegible" resp="JCM">Legislature</unclear>
+            </p>
+        <p>We therefore, on behalf of the said <unclear reason="illegible" resp="JCM">Usney</unclear> and Lincoln, petion your Honerable body to grant them a charter to open a road leaving the present road at a point known by the name of the Knotty Oake, about three miles from Allens ferry and on the side <unclear reason="illegible" resp="JCM">neset</unclear> to Sparta - to crop the <unclear reason="illegible" resp="JCM">cany</unclear> fork at Lockhurts, ann intersect the present road at Some convenient point on the South west line of the River - this would embrace a distance of about twelve miles</p>
+        <pb n="3" facs="0012_000115_000274_0003.jpg" xml:id="d4e81"/>
+        <p>posibly a little  more and possibly a little less and would pass over a country <unclear reason="illegible" resp="JCM">susceptible</unclear> of higher improvement and would <unclear reason="illegible" resp="JCM">admil of</unclear> a better road then the present <unclear reason="illegible" resp="JCM">roul</unclear> it would also shorten the distance verry considerably from Sparta to Liberty, something like from two to three miles, the sid <unclear reason="illegible" resp="JCM">Usney</unclear> and Lincoln are willing to make a good road and to open it in such manner as shall be required by the Legislature. They are also willing and intend (if the Legislature will give them a charter)  to provide a safe substantial ferry boat to be used as such when eer it may be necessary - and charge no more for passing through there gate and also for corssing in the their ferry boat - than is now paid for ferrage at Allen ferry or in other <unclear reason="illegible" resp="JCM">words</unclear> that the expences of travling the new road and passing through the gate and crossing the ferry, both shall not exceede, but shall be precisely equal to the sum now paid at Allen ferry, we ask this charter because we believe that the proposed change would be one of public utility, we also believe that the terms of the charter would be faithfully and honestly complied with by said <unclear reason="illegible" resp="JCM">Usney</unclear> and Lincoln</p>
+        <pb n="4" facs="0012_000115_000274_0004.jpg" xml:id="d4e104"/>
+        <p>Liberty <unclear reason="illegible" resp="JCM">etabur</unclear> the 5th 1832 this is A <unclear reason="illegible" resp="JCM">tres Cappy of Apatesean</unclear> that will be <unclear reason="illegible" resp="JCM">Latte</unclear> before your honerable Body the present <unclear reason="illegible" resp="JCM">desian</unclear> and it meets the <unclear reason="illegible" resp="JCM">Aprecatian</unclear> of all that is <unclear reason="illegible" resp="JCM">canserned</unclear> or has an intrest in the Road <unclear reason="illegible" resp="JCM">Leanard Lambersan</unclear>
+            </p>
+        <lg>
+          <l>James Pendleton 1</l>
+          <l>Richard Arnold 2</l>
+          <l>David <unclear reason="illegible" resp="JCM">Thamasan</unclear> 3</l>
+          <l><unclear reason="illegible" resp="JCM">Lhas Bratheau</unclear> 4</l>
+          <l><unclear reason="illegible" resp="JCM">Ebeuh</unclear> Wright</l>
+          <l>T W Fite</l>
+          <l>William <unclear reason="illegible" resp="JCM">Foliett</unclear> 7</l>
+          <l>E T <unclear reason="illegible" resp="JCM">Goggin</unclear> 8</l>
+          <l>David H Burton 9</l>
+          <l>
+            <unclear reason="illegible" resp="JCM">Samuel C Pontenfiel</unclear>
+          </l>
+          <l>William Gogin</l>
+          <l>Robert <unclear reason="illegible" resp="JCM">finley</unclear>
+               </l>
+          <l>Jesse B <unclear reason="illegible" resp="JCM">Jones</unclear>
+               </l>
+          <l>Tho. W. Duncan</l>
+          <l>
+            <unclear reason="illegible" resp="JCM">Thomas Whaley</unclear>
+          </l>
+          <l>Wm C. Garrison</l>
+          <l>Elijah Whaley</l>
+          <l>B F Wood</l>
+          <l>
+            <unclear reason="illegible" resp="JCM">Michael Free</unclear>
+          </l>
+          <l>Wm T <unclear reason="illegible" resp="JCM">Leo H</unclear>
+               </l>
+          <l>George W Gray</l>
+          <l>Meases Allen</l>
+          <l>T R Dougherty</l>
+          <l>Davis Fricks</l>
+          <l><unclear reason="illegible" resp="JCM">Hustin</unclear> Fricks</l>
+          <l>Henry Fricks</l>
+          <l>
+            <unclear reason="illegible" resp="JCM">Gea R Givan</unclear>
+          </l>
+          <l>
+            <unclear reason="illegible" resp="JCM">Levis Y Davy</unclear>
+          </l>
+          <l>D. L. Ray</l>
+          <l>Benja <unclear reason="illegible" resp="JCM">Arenet</unclear>
+               </l>
+          <l>S. B. Ray</l>
+          <l>
+            <unclear reason="illegible" resp="JCM">Ruben Evens</unclear>
+          </l>
+          <l>Johnson Pack</l>
+          <l>Joseph Pack</l>
+          <l>William <unclear reason="illegible" resp="JCM">Gratten</unclear>
+               </l>
+          <l>E A Fisher</l>
+          <l>John Dougherty</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

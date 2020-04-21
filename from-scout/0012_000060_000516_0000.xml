@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000516_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Abraham Stagg</name>
+ in Louisville, Ky., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1883-08-25">1883 Aug. 25</date>
+            </title>
+            <author>
+               <name type="person">Stagg, Abraham</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000516_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Abraham Stagg in Louisville, Ky., to J.G.M. Ramsey in Knoxville, Tenn. 1883 Aug. 25</title>
+               <date>1883-08-25</date>
+               <author>
+                  <name>Stagg, Abraham</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1883 Aug. 25 Abraham Stagg, Louisville, Ky., to J.G.M. Ramsey, Knoxville, Tenn. Requests any possible aid from J.G.M. in the writer&apos;s compilation of biographies of governors of the United States. Encloses copy of a letter being sent to all secretaries of state which explains the specific information desired.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Governors -- United States -- History -- 19th century.</term>
+               <term>Governors -- United States -- Biography.</term>
+               <term>Tennessee, East -- History -- Personal narratives.</term>
+               <term>Stagg, Abraham -- Correspondence.</term>
+               <term>Ramsey, J.G.M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Southern States -- History -- 1865-1951.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000516_0001.jpg" xml:id="d3e151"/>
+            <p>Dr. J.G.M. Ramsay,</p>
+            <p>Knoxville,</p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000516_0002.jpg" xml:id="d3e163"/>
+            <p>Louisville, Ky.</p>
+            <p>Aug. 25/83.</p>
+            <p>Dr. J.G.M. Ramsay,</p>
+            <p>Knoxville, Tenn:</p>
+            <p>Dear Sir:</p>
+            <p>I have just read of your being prostrated twelve years, your being aged and infirm, a relic of the past, and the most valued historian of the State.</p>
+            <p>You can render me great service, and doubtless will take pleasure in doing so, by a letter or two. The copy of my letter to each Sec. of State enclosed, explains itself. Nearly all the Secretaries have responded. Your Sec. referred me to your State Librarian, but I have not yet written him. I shall send out my circular letters, with questions; and, there by reference to Lamman&apos;s Dictionary of Congress, I shall find that most Governors were in Congress, and from said book I can compile much of their history.</p>
+            <p>I will add that I am classed with</p>
+            <pb n="3" facs="0012_000060_000516_0003.jpg" xml:id="d3e186"/>
+            <p>the aged, have written much and still contribute to the press.</p>
+            <p>Any aid from your pen will be thankfully received.</p>
+            <p>Yours with much respect.</p>
+            <p>Abraham Stagg</p>
+            <p>949 West Walnut Street</p>
+            <pb n="4" facs="0012_000060_000516_0004.jpg" xml:id="d3e202"/>
+            <p>Louisville, Ky.</p>
+            <p>Sec. State:</p>
+            <p>Dear Sir:</p>
+            <p>Please give me the names of the Governors of your State -- and acting ones -- from the first one to the present, giving the name, if you can, of the party that elected each. Please give me the name and address of a lineal descendant of each Gov. who is dead, and the address of each Ex-Gov. I am writing to all the Secretaries; intend to compile a Biographical Dictionary of the Governors of the States, giving a brief sketch of each. Have had some experience; hope to, in a couple of year,s produce a useful volume. Please give me the names of two men, old citizens, who are posted in the history of your State, with whom to correspond.</p>
+            <p>Yours truly</p>
+            <p>A.S.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

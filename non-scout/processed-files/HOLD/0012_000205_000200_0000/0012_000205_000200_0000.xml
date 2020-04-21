@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000205_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>E. Waldo Stacy</name> in Camp near Mossy Creek, Tenn. to Mother
+                <date when="1862-03-09">1864 March 9</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Rozema, Laurel</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">E. Waldo Stacy</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000205_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, E. Waldo Stacy in Camp near Mossy Creek, Tenn. to Mother 1864 March 9</title>
+               <date when="1862-03-09">1864 March 9</date>
+               <author>
+                  <name type="person">E. Waldo Stacy</name>
+               </author>
+               <title>[Letter] <date when="1864-03-09">Mar 9th [1864]</date> Camp near Mossy
+                        Creek Tenn [to] Mother</title>
+               <date>2006-05-22</date>
+               <author>
+                  <name/>
+               </author>
+               <author>
+                  <name type="person">Stacy, E. Waldo</name>
+               </author>
+               <date when="1864-03-09">Mar 9th [1864]</date>
+               <extent>4p</extent>
+               <note type="abstract">This letter, dated March 9th, 1864 from camp at Mossy
+                        Creek, TN, is from E. Waldo Stacy of the 36th Massachusetts Infantry. The
+                        letter details the events of February 23-March 9, 1864. Stacy and his
+                        regiment advanced to Strawberry Plains before withdrawing to Mossy Creek
+                        (now Jefferson City). He describes an encounter with a &quot;drunken rebel
+                        lieutenant.&quot;</note>
+               <note type="collection">Civil War Letter of E. Waldo Stacy, 1864</note>
+               <note type="manuscript">MS-2743</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Rozema, Laurel">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e97">
+            <pb n="1" facs="0012_000205_000200_0001.jpg" xml:id="d4e98"/>
+            <p>Camp near Mossy Creek Tenn Mar 9th</p>
+            <p>Dear Mother</p>
+            <p>I suppose that before this letter reaches you, you will begin to wonder why I do
+                    not write. But I will explain it to you. My last letter was written when we were
+                    at Knoxville on the 23d of Febuary. On the 24th we received orders to take four
+                    dats rations and be ready to march in light marching order. So we left our
+                    knapsacks behind and I left all my writing materials in mine but last night
+                    Nohum Farmer had a bunch of envelopes sent to him and he lent me one so with the
+                    paper you sent I can now write. We expect our knapsacks will come up to us in a
+                    few days. Well at eight o clock on the morning of the 24th we left our</p>
+            <pb n="2" facs="0012_000205_000200_0002.jpg" xml:id="d4e106"/>
+            <p>camp near Knoxville and marched that day to Strawberry Plains 16 miles. The
+                    rebels left the day before so we had no trouble with them. We remained at the
+                    Plains during the next day waiting for pontoons and rations to come up. On the
+                    26th the boats having come up we crossed the river and went into camp. Our
+                    regiment was on picket that day and over 20 deserters from Longstreets army come
+                    in and gave themselves up. On the 27th we marched to Mossy Creek 14 miles. On
+                    the 28th We marched to Morristown 11 miles. The day we marched to Morristown was
+                    rainy and so was the next and we remained in camp during the 29th. The rain
+                    carried away the railroad bridge over Flat Creek between Strawberry Plains and
+                    Knoxville but they have got it <unclear reason="illegible" resp="lr">returned</unclear> now I believe. On the first of March we received orders to
+                    fall back to Mossy Creek and accordingly we did so and we have been in camp here
+                    since. I do not know what the reason</p>
+            <pb n="3" facs="0012_000205_000200_0003.jpg" xml:id="d4e113"/>
+            <p>for falling back was but it is said that Gen Schefield had orders from Gen. Grant
+                    not to advance further than five miles beyond Strawbery Plains but I do not know
+                    how true it is. Longstreet and his army are reported to be all the other side of
+                    Bulls Gap all but a few cavalry. Some of their cavalry came down as far as this
+                    place the other day scouting round and drove in our cavalry pickets and attacked
+                    our infantry pickets but they found out we were here which was probably all they
+                    wanted and then retreated. We had one man belonging to the 17th Michigan
+                    wounded. Part of our regiment was sent out to support the pickets at the time of
+                    the attack. Col. Morrison went out with us. Col M. is a brave soldier he went
+                    ahead of us to find out what he could about the enemy he did call on some
+                    private to go. He wen out to a cornfield ahead of us and there he saw a rebel
+                    riding along a little ahead of him. The rebel drew his pistol or attempted to
+                    but Col. M. got</p>
+            <pb n="4" facs="0012_000205_000200_0004.jpg" xml:id="d4e117"/>
+            <p>his out first and told the rebel to surrender which he did. He proved to be a
+                    drunken rebel lieutenant. He was so drunk he could not walk straight when he got
+                    off his horse. He had on one of our overcoats and Gen. <unclear reason="illegible" resp="lr">Feners</unclear> who was out also told our boys
+                    if any of them wanted it to take it so one of them went and got it. The bridge
+                    at Strawberry Plains is about half done I understand. We do not hear so much
+                    talk about going north to recruit now as we did though it is still said we shall
+                    go with Barnside when he goes which will not be till the middle of May. I do not
+                    place to much dependace on going at all however for I should not be surprised if
+                    we had to stay here. I am glad to hear that father is getting along so well give
+                    my love to him. I have received your letters of the 7th and 20th and Mary of the
+                    18th of Feb. I have also received some papers. I get a good many papers from you
+                    and am very glad to get them but presume I do not get all you send. But I have
+                    got most to the end of my sheet and I must close. </p>
+            <p>My love to Mary and yourself.</p>
+            <p>from your son</p>
+            <p>E.W. Stacy.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

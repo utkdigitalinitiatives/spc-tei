@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000500_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Knoxville, Tenn., to E.A.R. Breck in Mecklenburg, Tenn.<date when="1882-07-03">1882 July 3</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000500_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Knoxville, Tenn., to E.A.R. Breck in Mecklenburg, Tenn. 1882 July 3</title>
+               <date>1882-07-03</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>4 digital images; 1 envelope, 3 p.</extent>
+               <note type="abstract">1882 July 3 J.G.M. Ramsey, Knoxville, Tenn., to his daughter, Mrs. E.A.R. Breck, Knoxville, Tenn. Informs her that he has left her his autobiography, manuscripts and all correspondence. Advice on having his papers published in the future.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Power of attorney -- Tennessee -- Knoxville.</term>
+               <term>Manuscripts, American -- Tennessee -- Knoxville.</term>
+               <term>Tennessee -- History -- 19th century -- Sources.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Will.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e147">
+            <pb n="1" facs="0012_000060_000500_0001.jpg" xml:id="d3e148"/>
+            <p>Mrs. E.A.R. Breck</p>
+            <p>Mecklenburg Place</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000500_0002.jpg" xml:id="d3e160"/>
+            <p>To Mrs. E.A.R. Breck</p>
+            <p>My Dear Daughter</p>
+            <p>In my Will I have given to you amongst other things my Author&apos;s <unclear reason="illegible" resp="JR">biography</unclear> 1, 2, 3, included all my my manuscripts my letters -- private or public or official They <unclear reason="illegible" resp="JR"> constitute</unclear> a great charge of great importance I know you will so appreciate the duty I impose on you. It will require also the advice &amp; assistance &amp; wisdom of your Ma, your Brother McKnitt &amp; others you may choose to consult.</p>
+            <p>I do not advise the publication of any of them &amp; certain</p>
+            <pb n="3" facs="0012_000060_000500_0003.jpg" xml:id="d3e180"/>
+            <p>not that you or any of the family should become the publisher. The friends whose names are mentioned in the Will as proper as <unclear reason="illegible" resp="JR">noberus</unclear> on this matter may accept or not the duty there assigned or may decline it as they choose should They think any of the papers deserve to be published &amp; should you receive an offer worthy of your consideration. I do not object that you agree to accept the offer but only on this conditioning that nothing personally offensive or <unclear reason="illegible" resp="JR">impervious</unclear> to the character of the living or the dead be inserted but erased or suppressed. I remember of no such instance but if such is found, draw your own pen through the sentence before you hand the manuscript to any publisher</p>
+            <pb n="4" facs="0012_000060_000500_0004.jpg" xml:id="d3e194"/>
+            <p>As to the amount you should ask for the manuscripts I make no limit. It is your own I am not vain in saying there is money in it. dont part with them for a trifel or a song. I know you will preserve the whole of them <unclear reason="illegible" resp="JR">confidently</unclear> &amp; leave them to those of our family who will appreciate them.</p>
+            <p>Very affectionately</p>
+            <p>My Dear Liddy</p>
+            <p>Your devoted Father</p>
+            <p>J.G.M. Ramsey</p>
+            <p>Mecklenburg Place</p>
+            <p>July 3, 1882.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

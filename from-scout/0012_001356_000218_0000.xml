@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000218_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">William Smith</name> in <name type="place">Nashville, Tenn.</name>, to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, <date when="1865-02-22">1865 February 22</date>
+            </title>
+            <author>
+               <name>Smith, William</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000218_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, <name type="author">William Smith</name> in <name type="place">Nashville, Tenn.</name>, to <name type="person">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, <date when="1865-02-22">1865 February 22</date>
+               </title>
+               <date when="1865-02-22">1865 February 22</date>
+               <author>
+                  <name>Smith, William</name>
+               </author>
+               <extent>5 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">               
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-07-17" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>         
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+     </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>         
+         <div type="letter" xml:id="d2e206">
+            <pb facs="0012_001356_000218_0002.jpg" n="1" xml:id="d2e208"/>
+            
+            <opener>
+               <dateline>
+                  <date when="1865-02-22">febuary 22 <orig>8165</orig><corr>1865</corr></date>
+                  <name type="place"><orig>Nashvill</orig><corr>Nashville</corr><lb/>
+                     <unclear reason="illegible" resp="NL">Campinin</unclear> tennsee</name>
+               </dateline>
+            </opener>
+            
+            <p>my dear wife i now take the oppertuiny in writing to you these few lines hopeing to find you all well at this time as it leaves me and Alfred at the time Alfreds cold is better he dont <choice><orig>chough</orig><corr resp="nl">cough</corr></choice> but little now but I have got a cold on me now my dear wife you need not wonder that we takeing bad colds we have not sleeped in a bed since we left home we had to steep at the soldiers home on the rout without any bed or <gap reason="indecipherable"/> only what we had taken with us we reached the place on tuesday night the 22 theare to 36 of us in the gan and we all <gap reason="indecipherable"/> together we all slpp in one building i sall take the cooking place ill can hope my cold will b better</p>
+            
+            <pb facs="0012_001356_000218_0003.jpg" n="2" xml:id="d2e247"/>
+            <p>hands to seek not cold get any straw to fill our tack but me and alfred will try and get some hay if we can and then we will be wormer I the warmth wormer bfore long Mr Spencer gone to Nashvill to fetch some blankets and tins and knives and forkes when we erived at nashvill on the depot I met Mr. curts and he asked me about Binghamton he was the first man i seen from Binghamton he saw his wife was in <name type="place">Louisville</name> so she must start soon after us when i walked down Lounsvill street last Sunday I looked into the garden and the tulips weare springing out of the ground alfred and me send our kind love to you all and two kisses for you and my dear little Henry and Austin I hope he is well and will try and do as well as he can</p>
+            
+            <pb facs="0012_001356_000218_0004.jpg" n="3" xml:id="d2e256"/>
+            <p>in a few dayes it it very wet here it is been raing heare all the day we are not worked one day yet since we came from home but we are all going to worke tomorow thirity 36 of us in the gang we 14 miles from Nashvill on the Johnsonvill Johnsavill turnpike rad wich leades to Alabma the reblas as ben round heare this week an captered some mules and a we are got lookeout fr them Mr Spencer is well is supeterd on over us I han glad he with us my dear wife I shall be glad when the three months up to come home I dont like this place here it is noting but a wililian in a wood it is a bad lookeeing pace heare the carpenters are building a new house to live and it will b a good place when don we have wooden</p>
+            
+            <pb facs="0012_001356_000218_0005.jpg" n="4" xml:id="d2e261"/>
+            <p>my dear wife i hope i will hold my health as long as i stay please to give my kind love to mister and mrs King and I hop they are well all when you wite to me send me work if mr king did come tell him <gap reason="indecipherable"/> have sixty dollers a month for choping wood I have sixty a month and alfred as the same as me amonth sixty my wife ihave not moch more to say plase me all the peticklers you all please to write me as soon as you can I conlclude with our kind love</p>
+            <closer>
+               <salute>from your afectionate husbd</salute>
+               <signed>William Smith</signed>
+            </closer>
+            <postscript>
+               <p>write as soon as you can campinin</p>
+            </postscript>
+         </div>
+      </body>
+      
+      <back>
+         <div type="envelope" xml:id="d2e287">
+         <pb facs="0012_001356_000218_0001.jpg" n="5" xml:id="d2e289"/>
+         <p>NASHVILLE</p>
+         <p>MAR</p>
+         <p>TENN</p>
+         <p><address>
+               <addrLine>Austin H Smith</addrLine>
+               <addrLine>Binghamton</addrLine>
+               <addrLine>Broomecounty NY</addrLine>
+            </address></p>
+      </div>
+      </back>
+   </text>
+</TEI>

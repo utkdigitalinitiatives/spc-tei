@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000697_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>G. W. Young</name>
+				                    in Clarksville, Tenn., to Mr. W. C. Young in Chaplin, Conn., <date when="1856-03-05">1856 Mar. 05</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">G. W. Young</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000697_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, G. W. Young in Clarksville, Tenn., to Mr. W. C. Young in Chaplin, Conn., 1856 Mar. 05</title>
+          <date when="1856-03-05">1856 Mar. 05</date>
+          <author>
+            <name type="person">G. W. Young</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">G. W. Young Letter</note>
+          <note type="manuscript">MS.2240</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Agriculture -- Tennessee -- History -- 19th century.</term>
+          <term>Coal mines and mining -- Tennessee.</term>
+          <term>Railroads -- Tennessee.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000697_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Mr Wm C Young</p>
+        <p>Chaplin</p>
+        <p>Connecticut</p>
+        <pb n="2" facs="0012_000697_000200_0002.jpg" xml:id="d4e47"/>
+        <p>Clarksville Tenn March 5th 1856</p>
+        <p>Dear Father</p>
+        <p>Yours of the 18th &amp; mailer 20th <unclear reason="illegible" resp="JCM">Ulr</unclear> is just read and I am now waiting for a Memphis boat to arrive &amp; bring Mr. Hovey he is returning from N. Orleans has been <unclear reason="illegible" resp="JCM">Canvafsive</unclear> in that City but is coming now to deliver books in Tenn as I must see him will occupy the spare time in writing I think now you have written me two <unclear reason="illegible" resp="JCM">since Pavs</unclear> hope you will excuse the delay - Ans to Feb 3d first Spoke of Mr <unclear reason="illegible" resp="JCM">Fisks</unclear> being there &amp; finding dull rule of House &amp; Land, hope he may succeed - The people subscribed to help Mr Hooker build up again - am glad to hear it, for he has helped the Farmers much in buying timber and they can &amp; ought to help him - I am a friend to the unfortunate - Sorry to learn of the fate of Mr Breasten wheel - hope he may have it in shape by this time that sister Julia may work for him, as you say she is now at work at Atwoodville - tell her I say she must be a good girl &amp; mind her mamma Hope Olive will like her new place at the <unclear reason="illegible" resp="JCM">Das</unclear> as I am a great friend to Chaplin &amp; its folks - As for Cold they say no such long steady cold spell has been with <unclear reason="illegible" resp="JCM">withefall hew</unclear> since 1808, It is very pleasant now &amp; the Buds begin to swell, the mud is dry on top but frost still in so they cant start the plough yet, are busy burning Brush heaps on Tobacco beds &amp; sowing the seed for plants, They call it making (over)</p>
+        <pb n="3" facs="0012_000697_000200_0003.jpg" xml:id="d4e74"/>
+        <p>"Plant Beds, " &amp; Burning " Plant Beds, &amp; Sowing " Plant Beds", They think that the ice staying on Roofs of Buildings one month is wonderful, I think myself, I have done well to shirk out of that cold place but I have not laid aside my overcoat as yet, hope to eve long through. How do people get along with their <unclear reason="illegible" resp="JCM">stock</unclear> &amp; Hay all this while &amp; I have a letter from <unclear reason="illegible" resp="JCM">Caleb Neff</unclear> of nearly the same import as he stated to you &amp; stating that my Potatoes in his cellar were frozen so that he was feeding them out to save them (32 bush) about <unclear reason="illegible" resp="JCM">Hirams</unclear> receiving my letter I think it is time he ans it, Tell MDan Ruf I sent him a New paper, I will write him a letter when I get time to write a long one, Tell Mr Tenner not to worry about Wm Earl, I will see that he is cared for, he is in good hands &amp; justice will be done him, is doing well when he works, is some homesick, two I hope to get him out of that soon, Give respect to John Wentworth am glad he is better. Please write how Cornelia Church gets along the particulars &amp; c, <unclear reason="illegible" resp="JCM">Nane</unclear> re cu Mr Woods of Feb 13th Tell him his books are dull sale, but have a trade in view with a Book Peddler, will write him the results, &amp; finish up the affair as soon as practible - Tell Uncl Evastus will write to him if I can get time. If he changes his residence hope it will be for the better. What are Frank Bill &amp; George going to do in Ill &amp; what is M Hunt &amp; C Moulton going at in Inda, Tell Henry Squier not to give it up so but keep on till he settles in the west, you say Andrea has got back to Ill, how did he do with his silk, mine goes well, Harriet Swift you say is married &amp; moved to Auburn (N York I suppose) Sorry to learn of the ill health of Uncle &amp; Aunt Lilly give respects to them &amp; family</p>
+        <pb n="4" facs="0012_000697_000200_0004.jpg" xml:id="d4e90"/>
+        <p>Tell Alfred I would like to take stock in his Bank if it is "Specia Paying" and provided further that there be a branch extended to this state including wild Turkeys wild Geese &amp; Possums &amp; de Coon, my respects to all at home</p>
+        <p>Letter 2on Feb 18th</p>
+        <p>I have recd a Letter from H. Bill to the same import as yo ustate, &amp; drafts of 20 dollars for expenses of Wm Earl &amp; myself, glad that you feel releived us I do myself I have 104 <unclear reason="illegible" resp="JCM">subs</unclear> has would certain and 19 conditional 34 <unclear reason="illegible" resp="JCM">Web Cer</unclear> &amp; 2 con If all taken will make about &amp; 8or, worth dont know certain what time I shall be there again but think about first July, maybe last June, Dont worry about my Politicks as they are of a peculiar kind &amp; have not fully come to light to any one but myself, I have got the runn of things here &amp; dont fear any thing in that way at all, About Mr Hooker &amp; the Handle business I will write to him &amp; you will see it <unclear reason="illegible" resp="JCM">imdiatedly. Tnon</unclear> is made here from the ore &amp; is of the best &amp; toughest quality Prices to Blacksmiths 5 1/2 Bar, 1 1/4 do, Shoe Shape &amp;c, 6 1/2 cts, Casteel 25 cts Greman 17 &amp; Spring 8 1/3 I think you are mistaken about burning Cumberland River coal as it is worth 30 cts per bush at Nashville &amp; it would not pay transportation, although 12 dollars per ton is to high for 6 M Neff, pays only about 7$ for Penn coal delivered in Millwaukee I did see him pay 11 dols per ton one load when it was scares Regret that the cold stays with you so long &amp; keeps you from getting wood. Oh about Blacksmithing, the price is not as high as in North West, but is less finished, mule &amp; horese shoing $1,00 but 3 nails on a side no toe coaks, soft as can be, they soon wear through &amp; <unclear reason="illegible" resp="JCM">bease</unclear>off half,</p>
+        <pb n="5" facs="0012_000697_000200_0005.jpg" xml:id="d4e110"/>
+        <p>way on work is high especialy fine Buggies Thre is a Rail Road in Construction from Henderson to Hopkinsville thence via Springfield to Nashville that passes through on extensive coal mine just along Hopkinsville By which is said to be of superior quality &amp; according to the state <unclear reason="illegible" resp="JCM">Gologist</unclear> cannot be exhausted in a million of years. it covers a vast space &amp; in many places comes to the top of the surface. They say in digging for the R.R. they will have to throw it out oeach way on the bank. Many Blacksmiths go there &amp; get it &amp; the greatest expense is cartage. The <unclear reason="illegible" resp="JCM">Gologist</unclear> says that when that R R is completed coal can be afforded in Nasvhille at 8 cents per bush &amp; yield a proffit at that  But I must draw to close as I am getting tired, one thing a Nigger by name Ben is to be hung Friday at Clarksville for killing an old Lady</p>
+        <p>Good bye for now write often</p>
+        <p>From your abb son</p>
+        <p>GWYoung</p>
+        <p>Clarksville</p>
+        <p>Tenn</p>
+        <p>Mr Wm C Young</p>
+        <p>Chaplin</p>
+        <p>Conn</p>
+        <p>Tell Mr Hooker</p>
+        <p>To expect a letter</p>
+        <p>soon, I am collecting</p>
+        <p>facts &amp; will report</p>
+        <p>soon GWYoung</p>
+        <p>The Death of Mr B gave me</p>
+        <p>surprise</p>
+        <p>Yes, death will soon disrobe us all</p>
+        <p>
+          <unclear reason="illegible" resp="JCM">Oh what we have propess</unclear>
+        </p>
+        <p>And oft as the bell doth toll</p>
+        <p>Makes one the number less</p>
+        <p>The friend that first embarks</p>
+        <p>With me the world to roam</p>
+        <p>Twas left the frail bark</p>
+        <p>For me to follow all alone</p>
+        <p>No, not alone but without</p>
+        <p><unclear reason="illegible" resp="JCM">Wirn</unclear> in whom I once confided</p>
+        <p>But no one can tell when Ill fall out</p>
+        <p>The Bar &amp; leave my place vacated</p>
+        <p>I feel the call comes close to me</p>
+        <p>My stay at longest is but short</p>
+        <p>But all the threads of eternity</p>
+        <p>Are <unclear reason="illegible" resp="JCM">brittle</unclear> and leading into port</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

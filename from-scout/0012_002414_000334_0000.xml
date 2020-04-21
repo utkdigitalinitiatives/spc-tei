@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000334_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>George Paine</name> in Boston, Mass. to Ebenezer Hazard in Philadelphia, Pa.,
+					<date when="1796-12-12"> 1796 Dec. 12</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">George Paine</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000334_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, George Paine in Boston, Mass. to Ebenezer Hazard in Philadelphia, Pa., 1796 Dec. 12</title>
+               <date when="1796-12-12"> 1796 Dec. 12</date>
+               <author>
+                  <name type="person">George Paine</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000334_0001.jpg" xml:id="d4e39"/>
+            <p>Letter</p>
+            <p>George Paine</p>
+            <p>Dec 29. 1796</p>
+            <p>Ebenezer Hazard Esq</p>
+            <p>at Office of Insurance Company of North American</p>
+            <p>Philadelphia</p>
+            <p>Gal.9215.25</p>
+            <pb n="2" facs="0012_002414_000334_0002.jpg" xml:id="d4e55"/>
+            <p>Ebenezer Hazard Esq</p>
+            <p>Boston, December 29th 1795</p>
+            <p>Sir,</p>
+            <p>Inclosed is a power of attorney from my Brother Thomas Paine to me to sell Six hundred &amp; fifty Shares in the North America Insurance Company.  Consequently I have taken the Liberty to extend a power of Substituion to you to Sell the shares or part as we may advise.</p>
+            <p>I wish you to sell all the above 650 shares as soon as You can for as much as they will fetch in Cash and as you sell Remit to me in Bank Notes on the Branch Bank in Boston or in Notes of some Bank in Boston.  (We prefer Post Notes) deducting your usualy Comm. for doing such Business.  - My Brother wrote to me the 7th Ins. informing that he had sent the Certificates to you (I believe by Capt. German from Charleston So. Carlonia)- the</p>
+            <pb n="3" facs="0012_002414_000334_0003.jpg" xml:id="d4e67"/>
+            <p>last <unclear reason="indecipherable" resp="AH">prices</unclear> of N. A. Ins. Co. I have .  that I have heard <unclear reason="illegible" resp="AH">quoted</unclear> was - 37. or 40. <unclear reason="indecipherable" resp="AH">WmCt</unclear> advance if you can sell at or very near these prices to sell as I want the money to pay Drafts of T. Paine.</p>
+            <p>I am very Respectfully</p>
+            <p>Sir, Your Most Obt. Servt.</p>
+            <p>George Paine</p>
+            <p>of firm of</p>
+            <p>Thos. &amp; Geo. Paine</p>
+            <pb/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000087_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+William J. Helsley
+</name>
+in Chattanooga, Tenn., to Mary Helsley in Southington, Ohio,
+<date when="1864-09-07">
+1864 September 7
+</date>
+            </title>
+            <author>
+               <name type="person">Helsley, William J.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000087_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William J. Helsley in Chattanooga, Tenn. to Mary Helsley in Southington, Ohio, 1864 September 7</title>
+               <date>1864-09-07</date>
+               <author>
+                  <name>Helsley, William J.</name>
+               </author>
+               <extent>4 digital images; 0.1 linear feet; 1 envelope, 3 p.</extent>
+               <note type="abstract">In this letter, dated September 7, 1864, William J. Helsley in Chattanooga, Tenn. writes to his wife, Mary Helsley, in Southington, Ohio, reporting that General Sherman has &quot;about used up the Rebel Army.&quot; He also informs Mary that General John Morgan has been killed near Bulls Gap, Tenn. He speculates that the war will &quot;soon be over.&quot;</note>
+               <note type="collection">William J. Helsley Letters, 1864</note>
+               <note type="manuscript">MS.1439</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Atlanta Campaign, 1864 -- Personal narratives.</term>
+               <term>Georgia -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>Morgan, John Hunt, 1825-1864.</term>
+               <term>Confederate States of America. Army. Morgan&apos;s Cavalry Division.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000087_000201_0001.jpg" xml:id="d3e152"/>
+            <p>Mrs Mary Helsley</p>
+            <p>Southington</p>
+            <p>Trumbull Co</p>
+            <p>Ohio</p>
+            <pb n="2" facs="0012_000087_000201_0002.jpg" xml:id="d3e166"/>
+            <p>Chattanooga, Tenn. Sept the 7th/4</p>
+            <p>Beloved Mary</p>
+            <p>It is greate pleasure to me to write to you and to day I have nothing to do and I will write you a letter and hope that it will find you well. as it leaves me well and in good spirits I was on duty yesterday and last night I have this day to myself and I am going to spend it in writing letters and the first one is to you. and I hope they give you as much pleasure reading them as it is for me to write them I am haveing very easy times here. and I am going to stay here as long as I can. I wrote for my Descriptive Roll a few days ago and if I can git it I will get my pay. but may be a good while before they send it me, as the army is on the</p>
+            <pb n="3" facs="0012_000087_000201_0003.jpg" xml:id="d3e178"/>
+            <p>move. you have heard of the Battle at Atlanta before this time and the defeat of the Rebel Army and they are now Retreating and our Army is after them and it may be some time before they come to a halt. and by the latest reports old General Sermen has about used up the Rebel Army he has taken large numbers of Prisoneers and a good deal of their Artillery and I hpe he will disstroy the whole of the Rebbel Army and then we can send about half of this army to Virginia and then Richmond will have to come down I do not believe that Richmond will be taken untill this Westren army goes there and takes it. Thare was one of our scouts came in to day and Reported that John Morgan was killed and all of his staff taken Prisoneers he was suppriesed by some of our cavelry at Bulls Gap up in Eeast Tenn and all of his forces was <unclear>scattered</unclear> and I guess that it all true</p>
+            <pb n="4" facs="0012_000087_000201_0004.jpg" xml:id="d3e189"/>
+            <p>for it was confirmed in this morning paper. I hope that it is so our men are going for the rebs and I hope that it will soon <unclear>filery</unclear> out Things look to me more now as if the war would soon be over then it has for some time. I think a few more months will tell the story.</p>
+            <p>We are haveing a greate deal of rain down here and very hot weather but it will not be long till it will begin to git cool but I must close and hope you will soon git this.</p>
+            <p>My love to all of you</p>
+            <p>Goobye</p>
+            <p>Good Bye</p>
+            <p>William J Helsley</p>
+         </div>
+      </body>
+   </text>
+</TEI>

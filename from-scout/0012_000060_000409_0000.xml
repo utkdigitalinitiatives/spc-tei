@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000409_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wisc., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1872-04-15">1872 Apr. 15</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000409_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1872 Apr. 15</title>
+               <date>1872-04-15</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>5  digital images; 4 pages, 1 envelope</extent>
+               <note type="abstract">Lyman C. Draper wrote to J. G. M. Ramsey on April 15, 1872. He told of having been in the Southwestern and Southern states collecting historical information and missed seeing Ramsey. He was pleased with the amount of history he had discovered. He also mentioned going to England to collect some historical information. Ramsey had told Draper he would see a Capt. Jack Anderson in Knoxville. Anderson&apos;s wife was a member of the Sumter family. He asked Ramsey to ask the Andersons for family history about the Sumters.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Generals -- United States -- Genealogy.</term>
+               <term>Historians -- Tennessee.</term>
+               <term>Historians -- Wisconsin.</term>
+               <term>Southern states -- Genealogy.</term>
+               <term>United States -- History, Military.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000060_000409_0001.jpg" xml:id="d3e164"/>
+            <p>Ans? L.C. Draper, Ewq.</p>
+            <p>May 6./72 &amp; enclosed</p>
+            <p>the recollections of </p>
+            <p>Capt. Jack Anderson</p>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000409_0002.jpg" xml:id="d3e184"/>
+            <p>Wis. Apl. 15th 1872. </p>
+            <p>My Dear Dr. Ramsey - </p>
+            <p>I lingered so long in the South Westn. &amp; Southn. States, in gathering historical matter that I did not reach Salisbury &amp; Charlotte till long after your <unclear reason="illegible" resp="NW">hegia.</unclear> I very much regret I cd. not have seen you once more on the <unclear reason="illegible" resp="NW">shores </unclear> of time - &amp; may not yet , deo volente if that cinc. rail-road sh.d reach yr. region within a reasonable period. </p>
+            <p>I made a good haul of historical matter - at Charleston Dr. <unclear reason="illegible" resp="NW">Fogan&apos;s</unclear> collection &amp; very much besides - altogether more than I had dared hoped possible at this late day: And </p>
+            <pb n="3" facs="0012_000060_000409_0003.jpg" xml:id="d3e207"/>
+            <p>since my return home <unclear reason="illegible" resp="NW">in</unclear> Septr I have been studying up my materials, &amp; seeing where to supply gaps &amp; complete sofar as it can be done, my collection - &amp; am succeeding very well - though not yet done: Got <unclear reason="illegible" resp="NW">home </unclear> docs. from Record Offices at Loundon &amp; went <unclear reason="illegible" resp="NW">back</unclear> to England for still more. </p>
+            <p> You said when you <unclear reason="illegible" resp="NW">returned</unclear> to Knoxville, you would see Capt. Jack Anderson &amp; <unclear reason="illegible" resp="NW">Lady</unclear> for me. <unclear reason="illegible" resp="NW">Mr. </unclear> Geo. M. White <unclear reason="illegible" resp="NW">&amp;aw </unclear> Capt. Anderson - whose wife is a daughter of Ths. <unclear reason="illegible" resp="NW">Sumter</unclear> who was a nephew of the general - <unclear reason="illegible" resp="NW">laid Nis. </unclear> having been a son of Wm. <unclear reason="illegible" resp="NW">Sumter</unclear>, of N.C.a </p>
+            <p>I wish you cd - if able &amp; convenient - see both Capt Anderson &amp; his wife together, </p>
+            <pb n="4" facs="0012_000060_000409_0004.jpg" xml:id="d3e250"/>
+            <p>&amp; on the spot note down their best information on the following points:</p>
+            <p>1st. The names if known, of Gen Ths. &amp; Wm. Wumpter&apos;s father &amp; mother - the latter&apos;s maiden name - the places of their nativity - where married - their ages at the time, if preserved in tradition - when &amp; where they settled in Va </p>
+            <p>Where Wm. &amp; Gen. Ths. Sumter were born - which was the elder - anything of their boyhood days recollected - </p>
+            <p>When Gen. Sumter&apos;s father &amp; mother died &amp; where - or how old Wm. Sumter was when the father died; &amp; when &amp; where Wm. Sumter died &amp; age?</p>
+            <pb n="5" facs="0012_000060_000409_0005.jpg" xml:id="d3e264"/>
+            <p>Any traditions of Wm. Sumter&apos;s services in the Revolution -</p>
+            <p>Also what services, if any, Wm. Anderson&apos;s father Ths. Sumter performed - &amp; in what part of Virginia he was born - getting the locality or nearby as they can tell it?</p>
+            <p>Let me hope you will not weary of all this. </p>
+            <p>Tell me how you are prospering in mind - &amp; intemporal things - I hope reasonably well. </p>
+            <p>God bless you &amp; yours!</p>
+            <p>Yours most Sincerely</p>
+            <p>Lyman C. Draper</p>
+         </div>
+      </body>
+   </text>
+</TEI>

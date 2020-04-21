@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000241_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Burnside, Ambrose E.</name>
+ in Knoxville, Tenn. to E.M. Stanton, Secretary of War, Washington D.C.<date when="1863-10-08">1863 October 08</date>
+            </title>
+            <author>
+               <name type="person">Burnside, Ambrose E.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000241_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Major General A. E. Burnside in Knoxville, Tenn., to E. M. Stanton, Secretary of War, Washington, D. C. 1863 October 8</title>
+               <date>1863-10-08</date>
+               <author>
+                  <name>Burnside, Ambrose E.</name>
+               </author>
+               <extent>1 digital image; 1 page</extent>
+               <note type="abstract"> In this letter dated October 8, 1863 Major General Ambrose Burnside in Knoxville, Tenn. Writes to E. M. Stanton, Secretary of War in Washington D.C. that O.P. Temple is a &quot; man whose integrity of charactir &amp; purpose&quot; and a true friend of the Union.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.21</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Virtues -- Political aspects -- History -- 19th century.</term>
+               <term>Character -- Political aspects -- History -- 19th century.</term>
+               <term>Respect of persons -- Political aspects -- History -- 19th century.</term>
+               <term>Tennessee, East -- Politics and government -- 19th century.</term>
+               <term>Burnside, Ambrose Everett, 1824-1881 -- Correspondence. </term>
+               <term>Stanton, Edwin  McMasters, 1814-1869 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000070_000241_0001.jpg" xml:id="d3e156"/>
+            <p>Knoxville Oct 8 1863</p>
+            <p>Hon E. M. Stanton</p>
+            <p>Secretary of War</p>
+            <p>Washington, D.C.</p>
+            <p>Sir</p>
+            <p>I have the honor to introduce to you Col O.P. Temple a resident of East Tennessee and a man thoroughly identified with the people of this portion of the state - He is a gentle man in whom I have the utmost confidens as to integrity of charactir &amp; purpose, and his statements you may fuly rely upon. He is a strong friend of the Union, and will be able to give you much valuable information as to the condition of this people their loyalty, the raising of troops etc. </p>
+            <p>I command him to your very kind attention</p>
+            <p>I have the honor to be</p>
+            <p>Very Respectfuly </p>
+            <p>Your Obt Svt</p>
+            <p>A E Burnside</p>
+            <p>Maj Genl</p>
+         </div>
+      </body>
+   </text>
+</TEI>

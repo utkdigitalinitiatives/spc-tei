@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000212_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>J. B. Nickoll</name> in Alexandria, Va. to Charles Petit, 1802 <date when="1804-07-29">1802 July 29</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">J. B. Nickoll</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000212_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. B. Nickoll in Alexandria, Va. to Charles Petit, 1802 1802 July 29</title>
+               <date when="1804-07-29">1802 July 29</date>
+               <author>
+                  <name type="person">J. B. Nickoll</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000212_0001.jpg" xml:id="d4e39"/>
+            <p>Charles Pettit Esq.</p>
+            <p>President of Ins. Comp No America</p>
+            <p>Philadelphia</p>
+            <p>Alexandria</p>
+            <p>July 29 1802</p>
+            <p>J. B. Nickoll, Sec</p>
+            <p>of Marine Ins. Co of Alexdr</p>
+            <p>
+               <unclear reason="illegible" resp="AH">Stature in Clause in Pubr</unclear>
+            </p>
+            <p>Ans by C. Pettit</p>
+            <pb n="2" facs="0012_002414_000212_0002.jpg" xml:id="d4e60"/>
+            <p>Alexandria July 29 1802</p>
+            <p>Sir,</p>
+            <p>The clause impolicies of his would, by which it is agreed to referr any dispute to arbitration, has unquestionably a very unequal operation; for while the insurers are bound to adhere to it, the insured is at liberty to close, or not, as the court cannot be ousted of its jurisdiction, any thing in this Contract to the contrary notwithstanding&quot;.</p>
+            <p>Nor is this clause more exceptionable in principle, than injurious <unclear reason="illegible" resp="AH">fracations</unclear> in practice.</p>
+            <p>The insured, who perfer a claim, which he knows is not forounded on Law, or usage, - with demand in arbitration, because, it costs nothing, &amp; he may gain, but cannot loose.  This tribunal, (seldom composed of men learned in the Law, but often of those who</p>
+            <pb n="3" facs="0012_002414_000212_0003.jpg" xml:id="d4e76"/>
+            <p>however upright, connot discard a bias infavor of an individual apposed to many ) - determine, in too many instances, a greeably to their own crude notions of what they call the equity of the <unclear reason="illegible" resp="AH">case</unclear>, contrary to Law &amp; the most settled practice and usage of trade..</p>
+            <p>It is therefore our wish to expunge this clause from the policy, but as it should be generally done, if done at all, we salut the consideration of your board to the subject-, &amp; that you be good enough to advise us of the result - .</p>
+            <p>For &amp; by order of the President &amp; direction of the Maine Insurance Company of Alexandria.</p>
+            <p>I am very respectfully</p>
+            <p>Love Yr mst Obedt Friend</p>
+            <p>J B. Nickoll Ebllz, Levy.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

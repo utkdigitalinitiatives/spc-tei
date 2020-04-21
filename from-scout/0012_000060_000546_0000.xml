@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000546_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lizzie Jarnagin</name>
+ in Neosho, Mo., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1889-10-29">1889 Oct. 29</date>
+            </title>
+            <author>
+               <name type="person">Jarnagin, Lizzie R. (Ramsey)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000546_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lizzie Jarnagin in Neosho, Mo., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1889 Oct. 29</title>
+               <date>1889-10-29</date>
+               <author>
+                  <name>Jarnagin, Lizzie R. (Ramsey)</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 pages.</extent>
+               <note type="abstract">1889 Oct. 29, Lizzie Jarnagin, Neosho, Mo., to her aunt, Elizabeth Ramsey Breck, Knoxville, Tenn. Sympathizes with her in the death of M.B.C. and recalls childhood memories of her. Mentions letters from M.B.C. and J.G.M. now in her possession. Discussion of the writer&apos;s children and the offer of a relative to raise one. Talks of her plans for the future including a possible move to Knoxville. 
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Grandparents -- Death.</term>
+               <term>Grandparents -- Correspondence.</term>
+               <term>Children -- Health and hygiene -- Missouri -- Neosho -- History -- 19th century.</term>
+               <term>Neosho (Mo.) -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, M. B. C. (Margaret Barton Crozier), 1802-1889 -- Death and burial.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000546_0001.jpg" xml:id="d3e153"/>
+            <p>Mrs E.A.R. Breck</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000546_0002.jpg" xml:id="d3e165"/>
+            <p>Neosho, Mo</p>
+            <p>Oct 29th</p>
+            <p>Dear Aunt</p>
+            <p>I received a card from <unclear reason="illegible" resp="JR">Nimma</unclear> about a week ago with the news of Grandmas death it was a shock to me I can only think of Grandma as she looked when I saw her last (when we lived in N.C.) pleasant &amp; cheerful and ever ready to help me with my lesson I remember well the first letter I wrote to Grandma I was just nine years old, I kept a copy of it among my keepsakes a long time, I have all of the long good letters to me, I will miss them now since she is not here to write any more I have some letters from Grandpa that I prize very highly, I enjoyed talking with <unclear reason="illegible" resp="JR"> &quot;the Soneir&quot;</unclear> about his</p>
+            <pb n="3" facs="0012_000060_000546_0003.jpg" xml:id="d3e185"/>
+            <p>visit to your house last simmer he as been here three times the past week to see if I had the Knoxville papers containing an account of Grandma&apos;s death, he put a short notice in his paper which I enclose, I hope my mental facilities may ne as active as hers, through the last hears of my life, you will miss Dear Grandma so sadly</p>
+            <p>The children have been having chills this fall <unclear reason="illegible" resp="JR">Eula&apos;s</unclear>health is not good, they are all going to school have a chill one day &amp; go to School the next, I give them <unclear reason="illegible" resp="JR">quinin</unclear> and break them up for a few days then they return, my own health is fine. I never have time to feel sick, you &amp; uncle Mack come out here and spend awhile and I will</p>
+            <pb n="4" facs="0012_000060_000546_0004.jpg" xml:id="d3e201"/>
+            <p>go home with you, I am in <unclear reason="illegible" resp="JR">earnest</unclear>, I will go to Knoxville if you think I could get along there Sister Ellen has wanted <unclear reason="illegible" resp="JR">Eula</unclear> for a year or two but I never could quite make up my mind to let her go so far from me, but that will be a nice distance, I think the change of climate would do her good also,</p>
+            <p>I have a great many kind friend here, but I think I would like to live near some of my relatives, <unclear reason="illegible" resp="JR">Nimma</unclear> wants me to go to <unclear reason="illegible" resp="JR"> Waco</unclear> but I never liked any part of Texas and was not strong &amp; well there as I am here, and Mr Jarnagins</p>
+            <pb n="5" facs="0012_000060_000546_0005.jpg" xml:id="d3e223"/>
+            <p>family will help me educate the children <unclear reason="illegible" resp="JR">Eula my very</unclear> so I would rather be nearer them than farther away.</p>
+            <p>it is time for the mail to go, write soon again you have my warmest sympathy in this Great Trial I too know what it is to part with loved ones,</p>
+            <p>Love to Uncle Mack and <unclear reason="illegible" resp="JR">Aunt May</unclear>.</p>
+            <p>Your Aff Niece</p>
+            <p>Lizzie Jarnagin</p>
+         </div>
+      </body>
+   </text>
+</TEI>

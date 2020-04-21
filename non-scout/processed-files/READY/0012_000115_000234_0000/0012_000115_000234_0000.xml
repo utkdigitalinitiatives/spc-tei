@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000234_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J. M. Saunders</name>
+				                    in Warrenton, Va., to Maj. David Burford in Dixon Spring, Tenn., <date when="1832-03-04">1832 Apr. 04</date>
+            </title>
+        <author>
+          <name type="person">Saunders, J.M.</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000234_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J. M. Saunders in Warrenton, Va., to Maj. David Burford in Dixon Spring, Tenn., 1832 Apr. 04</title>
+          <date when="1832-03-04">1832 Apr. 04</date>
+          <author>
+            <name type="person">J. M. Saunders</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000115_000234_0001.jpg" xml:id="d4e44"/>
+        <p>Warrenton Va   25</p>
+        <p>April 4th</p>
+        <p>Maj. David Burford</p>
+        <p>Dixon Spring</p>
+        <p>Tennessee</p>
+        <p>From J. M. Saunders</p>
+        <p>Rec,d 20 April 1832</p>
+        <pb n="2" facs="0012_000115_000234_0002.jpg" xml:id="d4e60"/>
+        <p>Warrenton Apr. 3rd 1832</p>
+        <p>Dear Burford</p>
+        <p>Having for some time expected to see or hear from you, I have neglected writing - Our last shipment was made about the 20th of March, in which I have thirteen, making in all I sent to market on account of the last years business sixty eight - your last letter having left me in doubt as to your longer continuance, it is now also <unclear reason="illegible" resp="JCM">lately</unclear> necessary for you to advise me positively upon the subject -</p>
+        <p>I have commenced upon a new years work, and am purchasing negros much faster than usual at fair prices, I think from the present prospect, that I shall be able to use all the capital without much difficulty, I have no opposition as yet, but am daily looking for it to come</p>
+        <pb n="3" facs="0012_000115_000234_0003.jpg" xml:id="d4e73"/>
+        <p>I am unable at this time to furnish you any specific account of our profits on the last years business, the most of the negroes that I sent out were likely, &amp; If latter myself brought a fair profit - &amp; have heard of no less or my for time happening to any of them <unclear reason="illegible" resp="JCM">of</unclear> yet - The first year I was engaged with Franklin <unclear reason="illegible" resp="JCM">Jamfield,</unclear> I had the Mrs for time to loose two, after they had been sold, they were taken sick, returned as unsound property, &amp; finally died. I do not mention this however as a d<gap resp="Mincey"/> - back, on our last years profits, but merely to show you that such was the <unclear reason="illegible" resp="JCM">pact,</unclear> of which I have no recollection at this time, of acqainting you with before - By judicious management the business is worth following, and I flatter myself that my hard earned experience, has made me competent to perform</p>
+        <pb n="4" facs="0012_000115_000234_0004.jpg" xml:id="d4e88"/>
+        <p>the duties of my branch of the concern - If this should find you at home, let me hear from you</p>
+        <p>Your friend</p>
+        <p>JMSaunder</p>
+        <p>Tell me if my <unclear reason="illegible" resp="JCM">answer</unclear> went to hand, also what has becom of my Clarksville Bank Stack, whether ornot you have made the money on <unclear reason="illegible" resp="JCM">Tennessee &amp;Saunders notes-</unclear>
+            </p>
+        <p>JMS</p>
+      </div>
+    </body>
+  </text>
+</TEI>

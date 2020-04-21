@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000304_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Bank of the State of New York</name>
+				               in New York, N.Y., to J.G.M. Ramsey in Mecklenburg, Tenn., <date when="1852-05-01">1852 May 1</date>
+            </title>
+        <author>
+          <name type="person">Bank of the State of New York</name>
+          <name type="person">Lawrence, C.W.</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000304_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Bank of the State of New York in New York, N.Y., to J.G.M. Ramsey in Mecklenburg, Tenn., 1852 May 1</title>
+          <date when="1852-05-01">1852 May 1</date>
+          <author>
+            <name type="person">Bank of the State of New York</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1852</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e45">
+        <pb n="1" facs="0012_000060_000304_0001.jpg" xml:id="d4e46"/>
+        <p>J.G.M. Ramsey</p>
+        <p>Mecklenburg</p>
+        <p>near Knoxville</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_000060_000304_0002.jpg" xml:id="d4e56"/>
+        <p>Bank of the State of New-York.</p>
+        <p>New-York, 1 May 1852</p>
+        <p>AG Rose Esq President</p>
+        <p>Dear Sir,</p>
+        <p><unclear reason="Illegible" resp="JH">Annexed</unclear> you have Certificates of deposit of this Bank for $2,814 19/100 which amount you will please deposit in the South Western Rail Road &amp; Banks of Charleston to the credit of J.G.M. Ramsey &amp; request the Bank to advise Mr. Ramsey of the same."</p>
+        <p>JGM Ramsey Esqr</p>
+        <p>My Dear Sir</p>
+        <p>I this morning recd your two letter - one dated 24 &amp; the other the 26 ult and as we could not obtain a Bank Draft we wrote to the Bank of Charleston to place the amt in the South Western Rail Road Bank to your credit.  above is an extract from the letter to the Bank of Charleston.  There remains to your <unclear reason="Illegible" resp="JH">Cr</unclear> $464 09/100  The Great Abundance of Money</p>
+        <pb n="3" facs="0012_000060_000304_0003.jpg" xml:id="d4e79"/>
+        <p>here and in Europe has causes very important advances in Stocks.  I suppose the Stocks you sold last year would now command <unclear reason="Illegible" resp="JH">of one fourth</unclear> premium.  This great supply of Gold has been &amp; will be felt</p>
+        <p>With the highest respect</p>
+        <p>I am truly your friend</p>
+        <p>CW Lawrence</p>
+        <p>New York 1 May 1852</p>
+      </div>
+    </body>
+  </text>
+</TEI>

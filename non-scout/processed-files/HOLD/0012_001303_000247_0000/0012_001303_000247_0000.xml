@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000247_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds (first, last)</name>
+				                    in France to Ellen Smith in Jackson, Tenn., <date when="1919-01-05">1919 Jan. 5</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Giles, Sheldon</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds (first, last)</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000247_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds (first, last) in France to Ellen Smith in Jackson, Tenn., 1919 Jan. 5</title>
+          <date when="1919-01-05">1919 Jan. 5</date>
+          <author>
+            <name type="person">James L. Dodds (first, last)</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Giles, Sheldon">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000247_0001.jpg" xml:id="d4e39"/>
+        <p>J. L. Dodds</p>
+        <p>T. Co #8 = 23 Eng.</p>
+        <p>A. E. F.</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U. S. A.</p>
+        <pb n="2" facs="0012_001303_000247_0002.jpg" xml:id="d4e57"/>
+        <p>Nice France</p>
+        <p>Jan 5 1919</p>
+        <p>Dear Ellen</p>
+        <p>Just to tell you I am still living and having a dandy time. This is Sunday Night and has been a wonderful day
+I have been walking around the city most all day there are lots of pretty places to go around here I am going out for a trip tomorrow will start a  six a. m. and retrun about 5 pm
+The weather is real warm here someting Florida or Cal. Beasutiful palm trees.</p>
+        <p>I am at the Y. M. C. A. now it is at teh beach building sets out in the warter about two hundred feet. I will say it is some beauty in an old club house
+I think this place is a winter resort resort in France. I have a nice palace to stay at and Uncle Sam pays the bill.  
+Pretty nice of the old boy I will be here for seven days and <unclear reason="illegible" resp="SG"> believe since</unclear>  I will hate for the last day to come around when I will have to leave for the land of rain and mud. 
+ You remember I told you what I would do for the man that called this sunny France. Well I have found out where he was (he was in nice) Marsilles is a pretty city also I was there three days.</p>
+        <p/>
+        <pb n="3" facs="0012_001303_000247_0003.jpg" xml:id="d4e73"/>
+        <p>We have a dance here at Y. M. C. A. every night except Sunday There is good many Red Cross Nurses here on leave also so we have a real time. 
+Makes a fellow feel like he is human any way. I have been in most all the lager cities in France in the last ten days.</p>
+        <p>I may send you some post cards I have for souviners you can keep them for me until I get home. 
+I dont know yet whether they will let me or not.</p>
+        <p>Well I must try to tell you all about this they would take to much paper and we have much to write I hope you had a good time x mas. I had a good diner X mas day and then left
+ <unclear reason="illegible" resp="SG">out</unclear>
+             on 27 for may try . 
+             expect to get back about 15 Jan will write you agin in few days and tell you little more. So good night and lots of love from</p>
+        <p>James L. Dodds</p>
+        <p>T. Co #8 = 23 Eng</p>
+        <p>American Exp Force</p>
+        <p>In Nice France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

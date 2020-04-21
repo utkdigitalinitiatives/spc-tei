@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000214_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Edward Maynard</name>
+				                    near Knoxville, Tenn., to his brother <date when="1864-02-07">1864 Feb. 07</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Edward Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000214_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Edward Maynard near Knoxville, Tenn., to his brother 1864 Feb. 07</title>
+          <date when="1864-02-07">1864 Feb. 07</date>
+          <author>
+            <name type="person">Edward Maynard</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.1519</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000214_0001.jpg" xml:id="d4e39"/>
+        <p>Camp "Joe Cooper"</p>
+        <p>Near Knoxville Feby. 7 1864</p>
+        <p>Dr. Brother,</p>
+        <p>I recieved your letter on the 4 <unclear reason="illegible" resp="JCM">Ins'r</unclear> as I returned from town where I had been to spend my twenty first birth day with mother - Col. <unclear reason="illegible" resp="JCM">Joe</unclear> and I walked to town on the 3rd in time to be there for dinner - Mother gave me a much better dinner than I supposed could be procured in the land of Poverty and Patriotism, at this particular stage of the game - We had roast Turkey, Oyster soup, chicken pie, Tomatoes, potatoes bread, butter, pickles, Jelly, cake, pie and blanc mange- So you see that to one used to hard tack and <unclear reason="illegible" resp="JCM">sombilly</unclear> it certainly was a feast of good things - While in town I called on Mrs. Alexander but found them "not at home" I also called on Mr. and Mrs. O.P. Temple and finding <unclear reason="illegible" resp="JCM">Sue and Era</unclear> Boyd there remained until about the we small hour of twelve - Sue is a splended girl, not beau</p>
+        <pb n="2" facs="0012_001519_000214_0002.jpg" xml:id="d4e61"/>
+        <p>tiful, but a very fine companion, and Er is not far behind her -</p>
+        <p>Sue Boyd <unclear reason="illegible" resp="JCM">bids</unclear> fair to become the best musician in Knoxville as she now is by long odds the finest singer. They were both glad to seeme and of course I had a fine time. I have not yet seen Rose Trigg nor will I as she is gone North to live - she is said to be a beautiful gir. I met Bill Rogers as she was riding out the other day but she did not recognize this - I shall go and call and tease her about it - <unclear reason="illegible" resp="JCM">Katie</unclear> Baxter is a very pleasant girl I have been with her some, Debra Baxter will be the finest looking woman in town when she is grown. Mary <unclear reason="illegible" resp="JCM">Caig</unclear> will be a very find looking girl too - I have not seen Bella Cowan tho I have called at their house - I saw only Miss Mary and Mr. Cowan - </p>
+        <p>I have seen none of the Alexanders not even on the street - In fact I have seen none of the she Rebels of under age except Blannie McClung and Martha <unclear reason="illegible" resp="JCM">Siltrell -</unclear> We did not recognize each other then and I am sure</p>
+        <pb n="3" facs="0012_001519_000214_0003.jpg" xml:id="d4e81"/>
+        <p>not to do so now - I understand that Blannie says if I should call on her she should certainly receive me and be glad to see me -</p>
+        <p>I saw Joseph H. <unclear reason="illegible" resp="JCM">Martin</unclear> once as he passed on the street but in such as <unclear reason="illegible" resp="JCM">circmstances</unclear> I could do nothing, Father was with me and if he did not choose to take up his own quarret I certainly would not do so in his presence - Old hypocriticus has been sent many down in Dixie now however - As mean a man as <unclear reason="illegible" resp="JCM">Martin</unclear> is old McKinney father of the immortal Grinner and if they do not send him South or pen him up in some way I'll shoot him if I hang for it - And there is no danger of that under the present Rule -</p>
+        <p>I can give you few facts of interest - We are camped on the road to Armstrong's Ferry about 4 miles above town - We have built log cabins and are in winter Quarters - Our hourses are all sent to Kentucky to be fed until the Summer campaign <unclear reason="illegible" resp="JCM">opens - </unclear> the Rebels run in pretty close every few days but not close enough to disturb our repose, in</p>
+        <pb n="4" facs="0012_001519_000214_0004.jpg" xml:id="d4e101"/>
+        <p>fact men who can sleep in cannister range of an enemy's battery while a fight is going on care little for a few scouting Cavalry - Ben is now with me while Tom is in Darry. Scaggs barter shop in town - I made this change because Ben answers me as well as Tom while we are so near town and Tom can make more in town than he can here - Jerry my other boy is with my horese - He is a bully boy and I don't see how I could do without him - Ben is a good boy - a little on the religious style - but faithful and all right <unclear reason="illegible" resp="JCM">you</unclear> understand I know - Ben gives some funny tales of your fishing in Powell after I went to Ky and tells of a piece of <unclear reason="illegible" resp="JCM">tobacco</unclear> being found in your pocket etc. etc. Well if I can make a raise I'll send you twenty Dollars but still I am not sure I can git it as the Pay master has not been seen for nearly four months - If you need a little sum every little while I could <unclear reason="illegible" resp="JCM">rewit</unclear> a trifle of twenty five or thrity dollars or perhaps Fifty every payday - <unclear reason="illegible" resp="JCM">Ace</unclear> our folks are well - My Regt is in good health and spirits - Our Brigadier has got his foot in it or rather charges and <unclear reason="illegible" resp="JCM">Spicis</unclear>
+            </p>
+        <pb n="5" facs="0012_001519_000214_0005.jpg" xml:id="d4e119"/>
+        <p>fixations are preferred and his Court Martial commences Tuesday - Sr. Col. Keith Provost Marshal General of East Tennessee is sending squads of Rebels south every  few days Mrs. Kain, Miss Nancy Scott, Mrs. Hamilton, Mrs. Eckle, A.S. Maxwell, J. H. Martin &amp; fam Harrison and fam - Rev. <unclear reason="illegible" resp="JCM">Imean, Red - </unclear> charlie McClung and wife and others are already gone (Dr. Doak &amp;c) while many more are under marching and are ordered to be ready at a moments warning - Many a D-d rascal comes up whining and begging to be allowed to take the oath who ought to be in H-l but I pity them they look so deject mean and <unclear reason="illegible" resp="JCM">wilt - </unclear> While a man who has weathered the storm and stood firm looks seven feet across the breast at least. Our church is a hospital they only have preaching at the Episcopal now - I have not heard a sermon in fifteen months and can't tell when Ill get to hear another</p>
+        <p>Feby 14 i am at home and it</p>
+        <pb n="6" facs="0012_001519_000214_0006.jpg" xml:id="d4e131"/>
+        <p>is Sunday morning so of course to church I go - And Mary is well and in high spirits as she has just passed her 9 Birthday - Mother is well and <unclear reason="illegible" resp="JCM">she still</unclear> thinks that you are quite slow in answering her letters - the will of of th God's are grinding here and are grinding <unclear reason="illegible" resp="JCM">toleralely</unclear> fine - Many are one has <unclear reason="illegible" resp="JCM">minged</unclear> his way to the sunny south and after to a warmer <unclear reason="illegible" resp="JCM">glive</unclear> than sunshine can give -</p>
+        <p>Brig Gen. Spears is now being tried by Court Martial and I guess he will be dismissed to all which say "God be praised and the Congregation will join in saying Amen" -</p>
+        <p>But I must close -</p>
+        <p>Write and write it as soon as possible -</p>
+        <p>Your brother</p>
+        <p>Ed.</p>
+        <p>Sr col. &amp;c</p>
+      </div>
+    </body>
+  </text>
+</TEI>

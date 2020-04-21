@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000209_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Small, J.K.</name>
+ in New York City, N.Y. to O.P. Temple in Knoxville, Tenn. <date when="1864-08-22">1864 August 22</date>
+            </title>
+            <author>
+               <name type="person">Small, J.K.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000209_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J. K. Small in New York City, N.Y.  to O. P.Temple in Knoxville, Tenn., 1864 August 22</title>
+               <date>1864-08-22</date>
+               <author>
+                  <name>Small, J.K.</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract"> Letter dated August 22, 1864, J.K. Small, New York City, N.Y. to O.P. Temple in Knoxville, Tenn.
+What about &quot;Whig&apos;s&quot; advertisement of J.H. Fessendon &amp; Co. successors to O.P. Temple &amp; Co.? Insure &quot;;our stock.&quot; 
+ </note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Business enterprises -- Knoxville (Tenn.) -- History -- 19th Century</term>
+               <term>Knoxville (Tenn.) -- History -- 19th Century </term>
+               <term>Tennessee, East -- History -- 19th Century</term>
+               <term>Temple, Oliver Perry , 1820-1907 -- Correspondence</term>
+               <term>Small, J. K. -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000070_000209_0001.jpg" xml:id="d3e152"/>
+            <p>New York Aug 22nd/64</p>
+            <p>Col OP. Temple</p>
+            <p>Aug 10th 1864</p>
+            <p>Knoxville</p>
+            <p>Dear Sir</p>
+            <p>Today I rec&apos;d the &amp;Knoxville Whig&amp; with J.H. Fessendon &amp;Co.&apos;s advertisment inserted as successors of O.P.T &amp;Co. as I have written you in regard w same I now wait anxiously your reply. If Mr F wishes to stick w the business and will pay all the debts of O.P.T &amp;Co. and pay back my capital with - 6% interest and the -$3000 - he borrowed with the share of his profits stipulated. I might be in </p>
+            <pb n="2" facs="0012_000070_000209_0002.jpg" xml:id="d3e170"/>
+            <p>duced to sell out. I think if he or anyone else will stick to it and use good judgment they will make a good some of money in a short time. I see there is an Insurance Co. in your city - is our stock insured? if now I would advise having it insured at once. </p>
+            <p>Your Friend</p>
+            <p>J.K. Small</p>
+            <pb n="3" facs="0012_000070_000209_0003.jpg" xml:id="d3e182"/>
+            <p>J K Small</p>
+            <p>A Sept 5/64</p>
+         </div>
+      </body>
+   </text>
+</TEI>

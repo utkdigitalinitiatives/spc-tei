@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000217_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Camp Dick Robinson, Ky., to Caroline M. Brown,<date when="1861-11-07">1861 Nov. 7</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000217_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Camp Dick Robinson, Ky., to Caroline M. Brown,1861 Nov. 7</title>
+          <date when="1861-11-07">1861 Nov. 7</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000217_0001.jpg" xml:id="d4e39"/>
+        <p>12</p>
+        <p>Camp Dick Robison Ky Nov 7th 1861</p>
+        <p>Dear wife and children and a <unclear reason="illegible" resp="LW">Phene</unclear> i sit down this Evening To inform you that is am Well at this time all to A little cold i have bin working at my trade more or less for three weeks i  I will get 40 cts a day extra Above my wages I have gained 17 Pounds since I left home I weighed 1.74 this day</p>
+        <pb n="2" facs="0012_000599_000217_0002.jpg" xml:id="d4e50"/>
+        <p>we heard to day that you heard that the 31 Reg had been cut all to pieces And that Company was All killed but 6 of us I will inform you that It is all a lie there is A good many sick at this the most of them with measles there is some of them Has got the reumate Mr Strate has them so that he has not bin on Duty for three weeks and Mr <unclear reason="illegible" resp="LW">Lathan</unclear> has <unclear reason="illegible" resp="LW">theme</unclear> too we heard that they caught old Zolacffer yesterday in Cincinnati it was some big officer at any rate he Had 4 swords and a Number of revolvers in</p>
+        <pb n="3" facs="0012_000599_000217_0003.jpg" xml:id="d4e60"/>
+        <p>A box and the Jews said he was from Tennessee he was in uniform of Caverly Farm we hope it may be him or some other great man from there that they will keep for some time any way Now respecting the old people comeing to live with you I have not one word to say Only i dont want you to Turn <unclear reason="illegible" resp="LW">likene</unclear> off for nobody But as for me <unclear reason="illegible" resp="LW">agiting</unclear> home To stay is uncertain at this Time if we stay here i shall come home to see you All after a while if go to Tennessee it will be some time Before i will come back I want you to injoy your</p>
+        <pb n="4" facs="0012_000599_000217_0004.jpg" xml:id="d4e70"/>
+        <p>selvies as well as you can until I see you N. B. we have not got any money yet but we will get it son i think And Doctor Primrose will Be at home as soon as <unclear reason="illegible" resp="LW">wel</unclear> Are paid off and i intend to send my money by HIm to you i want you to have me a good pair of socks and send to me by him A little ball of yarn to darn them with now use your pleasure about getting the Old People to live with if I should it would be all Right with me i want you to writ as soon as you get this if you get this <unclear reason="illegible" resp="LW">a</unclear> Tuesday write the same Nnight if possible and let no How you are good by H. Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

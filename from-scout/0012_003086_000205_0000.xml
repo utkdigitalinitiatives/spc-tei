@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003086_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Robert G. Tatum</name> Diary, <date when="1923-01-01">1923 January 1 - October 2</date>
+            </title>
+            <author>
+               <name type="person">Tatum, Robert G.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Stone, Sarah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date>2013</date>
+            <idno type="SPC">0012_003086_000205_0000</idno>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <extent>30 pages</extent>
+               <note type="collection">Robert G. Tatum Papers</note>
+               <note type="manuscript">MS.0774</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Episcopal Church -- Clergy.</term>
+               <term>Tatum, Robert G.</term>
+               <term>Cruikshank, Moses, 1904-1996.</term>
+               <term>Nenana (Alaska).</term>
+               <term>Fairbanks (Alaska).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d3e111">
+            <pb n="1" facs="0012_003086_000205_0001.jpg" xml:id="d3e112"/>
+            <p>STANDARD</p>
+            <p>No. 307</p>
+            <p>DIARY</p>
+            <p>1923</p>
+            <pb n="2" facs="0012_003086_000205_0002.jpg" xml:id="d3e124"/>
+            <p>Counting-House Calendar.</p>
+            <p>1923.</p>
+            <pb n="3" facs="0012_003086_000205_0003.jpg" xml:id="d3e132"/>
+            <p>THE</p>
+            <p>STANDARD DIARY</p>
+            <p>FOR SALE BY ALL STATIONERS</p>
+            <p>Published by</p>
+            <p>THE STANDARD DIARY COMPANY</p>
+            <pb/>
+            <pb n="5" facs="0012_003086_000205_0005.jpg" xml:id="d3e152"/>
+            <p>2 MONDAY, JANUARY 1, 1923 1</p>
+            <p>Nenana</p>
+            <p>A Happy New Year to all the world. God Grant Thy Blessings on thy work here through this coming
+year. Here is much I am eager to do. Grant that I may be able to accopmlish it for thee Through
+Jesus Christ Our Lord.</p>
+            <p>I have written a few letters today and attended to some work about the palce. This morning I had
+an early celebration with Miss Wright present. Please God I shall be able to have a celebration more
+often through the work this year. I am going to have an office of installation for time of the boys
+on Sunday <unclear reason="illegible" resp="SS">week</unclear> and have them for servers. When Scott
+comes he can act as LayReader. We must have some vestments.</p>
+            <p>This evening we had a dance which lasted until 2:00 a.m. They all seemed to have a good time.
+These children do enjoy dancing.</p>
+            <p>God I pray thy tender Blessings on those loved ones at home on those of my friends and my enemies
+and especially for Thy God of Grace and wisdom on me that I may do thy works through Jesus Christ
+Our Lord Amen.</p>
+            <pb n="6" facs="0012_003086_000205_0006.jpg" xml:id="d3e171"/>
+            <p>2 TUESDAY, JANUARY 2, 1923</p>
+            <p>Nenana -8 at 10:40</p>
+            <p>This has been a busy and short day. We had breakfast at 10:30 and then I wrote a bit and attended
+to some business.</p>
+            <p>This afternoon I have looked over the school supplies and tried to figure out what the children
+will have for it is time before Scott comes. It will be a difficult matter.</p>
+            <p>This evening I talked with John Oulette about the new Mission and Some boys for it. I hope I
+shall be able to get them out and down here for a reasonable sum. It may be possible to get them
+done for six or seven hundred dollars. I hope so and I hope the Bishop may see fit to have it done.
+I wish I could. There are so many things I want to do and there is so much to be done. God Grant thy
+Blessings and Thy hep I beseech Thee Through Jesus Christ Our Lord.</p>
+            <p>A big mail came in tonight. In it a check for fifty dollars from M<emph>rs</emph> Vaughan.
+Selma, Ala. I appreciate the response.</p>
+            <note type="transcription"> The following text is written sideways on the left side of the
+page.</note>
+            <p>It was distressing to hear of a <unclear reason="illegible" resp="SS">ruadu</unclear> on the Bp.
+today the Conductor killed.</p>
+            <note type="transcription">The preceding text is written sideways on the left side of the
+page.</note>
+            <pb n="7" facs="0012_003086_000205_0007.jpg" xml:id="d3e199"/>
+            <p>See pg 20.</p>
+            <p>WEDNESDAY, JANUARY 3, 1923 3</p>
+            <p>Just what we can ask George for in a question I hope it will be amicable with out a lawsuit.</p>
+            <p>M<emph>r</emph> More the game warden said he wants to help illiminate the liquor among the
+natives. He was very kind and interested.</p>
+            <p>Miss Warren of the Regusters Office wants to see Bp. Rowe. I hardly understand her attitude. I
+suppose she is sincere enough.</p>
+            <p>I ordered 10 boxes of #4 Shells for Arthur and <unclear reason="illegible" resp="SS">Kestsler</unclear> is going to to take them up for him with the guns.</p>
+            <p>I left some fish and a fur robe with Mr Bean and will take down 10 boxes of #6&apos;s which the
+N.C. was kind enough to exchange for #2&apos;s for me.</p>
+            <pb/>
+            <p>4 THURSDAY, JANUARY 4, 1923</p>
+            <pb/>
+            <p>FRIDAY, JANUARY 5, 1923</p>
+            <pb/>
+            <p>SATURDAY, JANUARY 6, 1923</p>
+            <pb n="11" facs="0012_003086_000205_0011.jpg" xml:id="d3e247"/>
+            <p>SUNDAY, JANUARY 7, 1923 7</p>
+            <p>Nenana</p>
+            <note type="transcription"> The following text has three slashes on top of a portion of the
+paragraph.</note>
+            <p>This morning I was up early for the Celebration at 7:30. There were several out. <del type="overstrike" hand="rgt">
+                  <unclear xmlns="http://www.tei-c.org/ns/1.0" reason="illegible" resp="SS">Solar</unclear> served</del>.
+I am very happy to have the boys for servers, and I am happy to be able to have the celebration on
+Wednesdays now.</p>
+            <note type="transcription">The preceding text has three slashes on top of a portion of the
+paragraph.</note>
+            <p>I had a service for &quot;admitting a Server&quot; and admitted Joe, Silas, and Paul at the 11:00
+service today. The Coghills were up for the service. The school house was so cold I was not able to
+preach and I am sorry.</p>
+            <p>This afternoon I spent most of the afternoon with the Coghills It is very pleasant to have them
+up. I am going to try to visit more down town this winter. I should like to do something for those
+people. It is rather different teaching all days. I visited in the village tonight. I wish too I
+could do something for these poor people.</p>
+            <pb/>
+            <p>8 MONDAY, JANUARY 8, 1923</p>
+            <pb/>
+            <p>TUESDAY, JANUARY 9, 1923 9</p>
+            <pb/>
+            <p>10 WEDNESDAY, JANUARY 10, 1923</p>
+            <pb/>
+            <p>THURSDAY, JANUARY 11, 1923 11</p>
+            <pb/>
+            <p>12 FRIDAY, JANUARY 12, 1923</p>
+            <pb n="17" facs="0012_003086_000205_0017.jpg" xml:id="d3e311"/>
+            <p>SATURDAY, JANUARY 13, 1923 13</p>
+            <p>Nenana -1 snowing</p>
+            <p>I am sorry I have neglected my diary for so many days. These days have been full since I have
+been teaching school and I have found it a bit hard and almost impossible Sometimes to write it.
+Even thought it takes but a few minutes I shall try not to neglect it again.</p>
+            <p>The sad word came today of the death of Dear Mildreds son. The first death in our family it is
+hard to believe that the <unclear reason="illegible" resp="SS">week</unclear> has come. It was a
+disappoint ment hard for any precious sister to <unclear reason="illegible" resp="SS">have</unclear>
+Dear Mildred I know she has greatly suffered. God be with her and bless the soul of that dear infant
+in paradise. My heart goes out to Mildred and Bob in their dis-appointment and sorrow. How pleasant
+would have been that family of two boys and two girls. God bless and help them through all the days
+of their lives.</p>
+            <pb n="18" facs="0012_003086_000205_0018.jpg" xml:id="d3e329"/>
+            <p>14 SUNDAY, JANUARY 14, 1923</p>
+            <p>Nenana. -10</p>
+            <p>This morning the first month anniversary of the death of Mildreds Infant child she bore in pain
+and sorrow I had a requiem mass. God bless them in their sorrow and today the soul of that Infant
+child, through the mercy of God rest in peace.</p>
+            <p>I had service this morning and there were quit a few there. This Evenig after hearing a
+confession I had service in Indian. There were several there and It was a very nice service save
+that the church was cold.</p>
+            <p>God I pray for all for whom I ought to pray and beseech thy love and mercy on those at home
+especially. <unclear reason="illegible" resp="SS">I each once</unclear> what things I ought to do in
+regard to thy work. I want to do thy will not my own. Bless Arthur and his wife in their <unclear reason="illegible" resp="SS">work</unclear> Help me to do thy will through Jesus Christ Our
+Lord.</p>
+            <p>Amen</p>
+            <pb n="19" facs="0012_003086_000205_0019.jpg" xml:id="d3e351"/>
+            <p>MONDAY, JANUARY 15, 1923 15</p>
+            <p>Nenana</p>
+            <p>I find it very difficult to accomplish much in the after-noons and evenings when there are so
+many interruptions. There is much to be done, much I want to do and much I <unclear reason="illegible" resp="SS">must</unclear> do. God help me to do these things.</p>
+            <p>Miss Cotchettt is ill with a sore throat and I have to take all the children at the school
+house.</p>
+            <pb n="20" facs="0012_003086_000205_0020.jpg" xml:id="d3e366"/>
+            <p>16 TUESDAY, JANUARY 16, 1923</p>
+            <p>Nenana</p>
+            <p>Miss Blacknall took the younger children at the school <del type="overstrike" hand="rgt">this</del> today. When I return from Salchaket whoever takes the school with the small children
+must take Scorge and Nellie and I will have all the classes in the morning so I shall have time for
+my letters and for some study for myself. I must do it.</p>
+            <p>Then too I am going to try to get some wood cut and the logs. God Grant I beseech thee that I may
+be able to do the work that lies before me. I want to do it.</p>
+            <pb n="21" facs="0012_003086_000205_0021.jpg" xml:id="d3e381"/>
+            <p>3 WEDNESDAY, JANUARY 17, 1923 17</p>
+            <p>Nenana. +2</p>
+            <p>School went fairly well today. I find the children are somewhat behind in their tables in
+arith.</p>
+            <p>More interruptions this afternoon so I got no letters written. I went down to see Dick Hearne and
+it was a pleasure to see him. He in-quired after Moses</p>
+            <p>This Evenig after prayers I had Miss Wright and the children over for waffles. They seemed to
+Enjoy them. Miss Blacknalls waffle iron seems to work very well.</p>
+            <p>I have dicided it will not be possible to go to the Crowning this week. The wood is about gone
+and I have no way to get more in save to buy it and have it hauled at <unclear reason="illegible" resp="SS">rice</unclear>.</p>
+            <p>I shall probably just have to walk from Fairbanks to Salchaket. That is all I see. I cannot spend
+much money How I shall walk it in a day I do not know.</p>
+            <pb n="22" facs="0012_003086_000205_0022.jpg" xml:id="d3e402"/>
+            <p>18 THURSDAY, JANUARY 18, 1923</p>
+            <p>Nenana +25 today a rise of 45 degrees</p>
+            <p>This is most remarkable weather for this time of year. I should not mind if we had no more cold
+weather at all.</p>
+            <p>I bought 11 cords of wood today at $10<emph>00</emph> per cord. I hate to pay so much, but
+see no help for it. I hope I shall be able to buy a horse but I hate to call on the Bishop for the
+money. It will take about $250<emph>00</emph> I am afraid. I am also having John Martin cut 50
+cords of green-wood at 3<emph>50</emph> per cord.</p>
+            <p>I am now having classes in the morning. I hope I shall be able to finsh up my correspon-dence
+very soon and get on to the dogs for the New Mission.</p>
+            <p>God grant thy blessings on my loved ones at home. My dear Moses and Johnnie, and on my work here
+through Jesus Christ our Lord.</p>
+            <p>Amen.</p>
+            <pb n="23" facs="0012_003086_000205_0023.jpg" xml:id="d3e430"/>
+            <p>FRIDAY, JANUARY 19, 1923 19</p>
+            <p>Fairbanks Highest wind I have ever seen +31</p>
+            <p>The train came in at 7:00 o&apos;clock but left Nenana at 3:45 a quick trip Joe went to the
+picture show and I tried to find M<emph>r</emph> Clark but was unable to.</p>
+            <p>It was a pleasure to see M<emph>rs</emph>
+               <unclear reason="illegible" resp="SS">Bearmook</unclear> and M<emph>rs</emph> McNear. Joe came
+in <unclear reason="illegible" resp="SS">later</unclear>. When we got to bed it was late.</p>
+            <p>I wrote to Mother in Earl Fosters room I wish I could write lots of letters. I shall do so before
+very long.</p>
+            <p>We are stopping at the Alaska Hotel. The Old &quot;Shaw House&quot; I think of Howard meeting
+Margaret here such romances as have occured I suppose the walls could tell many a tale.</p>
+            <p>Joe is going to <unclear reason="illegible" resp="SS">fine</unclear> on The Trail I think God be
+with us.</p>
+            <pb n="24" facs="0012_003086_000205_0024.jpg" xml:id="d3e465"/>
+            <p>See pg.</p>
+            <p>20 SATURDAY, JANUARY 20, 1923</p>
+            <p>18 Mile House.</p>
+            <p>My heart and mind goes back to a year ago when I was here with Moses. God bless him I beseech
+thee.</p>
+            <p>This a.m. we were up at 4:<unclear reason="illegible" resp="SS">20</unclear> to et ready to come
+up here. The wind was so high that we decided not to come until later in the day. I settled up a
+good deal of business. Had a long talk with M<emph>r</emph> Watson about the Mission grounds.
+He says that it is impossible for us to do any thing with the Comission as there was no claim made
+for it with in 90 days after 18<emph>th</emph> July 1918 when the notice was published by the
+Comission I am sorry for we have no standing at all.</p>
+            <p>I will write the land office in Fbk&apos;s asking what <unclear reason="illegible" resp="SS">wanned</unclear> of proceedure must be taking for securing the location of the Missi-on Watson will
+take it up with the Sec. of the Interior. I hope this is the right thing to do. We must have some
+settlement. before we build. I hope in doing it I can get more ground for we need it.</p>
+            <p>I saw M<emph>r</emph> Clark and he is going <unclear reason="illegible" resp="SS">thon-sult
+Gury Irevew and Hogan</unclear> to arrange a reasonable settlement on Maggie.</p>
+            <pb n="25" facs="0012_003086_000205_0025.jpg" xml:id="d3e501"/>
+            <p>SUNDAY, JANUARY, 21, 1923 21</p>
+            <p>Salchaket</p>
+            <p>Joe and I arrived here about 2:30 this P.M. after a rather hard trip up from the 18 mi house.
+After the potlatch we had service which in some ways was <unclear reason="illegible" resp="SS">msatrip</unclear> factory. Joe could not seem to interpret and was rather stubborn about it. I
+allowed <del type="overstrike" hand="rgt">John &amp;</del> Titus John and Laura receive because I
+felt it would help them. God grant it may.</p>
+            <p>I am very much disappointed in the way in which the people have acted and when they do as they
+have I do not feel like helping them very much. I hope Bp. Rowe comes this way, from the
+Crossing.</p>
+            <p>Titus John has made himself chief without speaking to me. I am sorry they are trying to take
+things in their own hands.</p>
+            <pb n="26" facs="0012_003086_000205_0026.jpg" xml:id="d3e521"/>
+            <p>SUNDAY, FEBRUARY 4, 1923 35</p>
+            <p>Nenana +33 windy.</p>
+            <p>This is most remarkable weather for this time. I am thankful to almighty God for his goodness to
+me. If it were cold I do not know how we should live for I have had such a time getting wood. Dry
+wood is next to impossible at $10 per cord. I have a chance of selling my dogs tomorrow morning for
+$20 a piece. Five of them will give me $100<emph>00</emph> with wich I hope it will be
+possible to get a team of muels. Please God I shall be able to get them.</p>
+            <p>Capt. &amp; M<emph>rs</emph> Jones were up for dinner today. Their attitude has changed
+toward us I am glad to say and I am thankful. He is going to try to get the muels for me I hope I
+can get them tomorrow. God I am thankful that there is the hope of getting them.</p>
+            <p>I had service this morning and in Indian this Evenig. God grant thy Blessings on all that I do
+and help me to fill up my time as I should.</p>
+            <pb n="27" facs="0012_003086_000205_0027.jpg" xml:id="d3e541"/>
+            <p>WEDNESDAY, APRIL 25, 1923 115</p>
+            <p>Betty Lowe</p>
+            <pb n="28" facs="0012_003086_000205_0028.jpg" xml:id="d3e549"/>
+            <p>272 SATURDAY, SEPTEMBER 29, 1923</p>
+            <p>Betty Love</p>
+            <p>&amp;</p>
+            <p>Sonny Beasely</p>
+            <p>
+               <del type="overstrike" hand="rgt">Sonny Beasely</del>
+            </p>
+            <p>
+               <del type="overstrike" hand="rgt">Betty Love</del>
+            </p>
+            <p>
+               <del type="overstrike" hand="rgt">Sonny</del>
+            </p>
+            <p>
+               <del type="overstrike" hand="rgt">Beasely</del>
+            </p>
+            <p>
+               <del type="overstrike" hand="rgt">Betty Love</del>
+            </p>
+            <p>
+               <del type="overstrike" hand="rgt">Betty</del>
+            </p>
+            <pb n="29" facs="0012_003086_000205_0029.jpg" xml:id="d3e580"/>
+            <p>Cloudy &amp; cold - grate fires 3 for Mass 7:00</p>
+            <p>276 WEDNESDAY, OCTOBER <del type="overstrike" hand="rgt">3</del> 2 192<del type="overstrike" hand="rgt">3</del> 4</p>
+            <p>Mass this morning was especially helpful But the temperature of the chapel made me realize it
+would not be long until heat would be needed and I know not from where it will come. The morning
+mail brought a letter from M<emph>rs</emph> Hagerty saying she thought they might soon return
+south from <unclear reason="illegible" resp="SS">Ninnpy</unclear> so I look for her in a week or so.
+She wants the appartment upstairs and I offered it for $40<emph>00</emph> dollars and rather
+hope she may take it. Not to Gladstone Roger a letter of encouragement also accepted an invitation
+to speak to the service Leagues of <unclear reason="illegible" resp="SS">Macons</unclear> on the
+subject of Alaska on the 20<emph>th</emph> October.</p>
+            <p>A week ago tonight was one of the happiest of my life. But today and tonight ahve been very
+discouraging and most of this evening I have spent in tears. It is so much easier to doubt than to
+believe. But believing brings infinite joy and peace to the soul. No letter or word from Robert
+disappointed me more than I ever anticipated I could be diappointed. I have read his last letters
+several times over. Drove Bertha over to Atlanta today - but did not Enjoy the trip as I felt so
+very miserable. Feel that the day has gone by with nothing accomplished. Save perhaps a work of
+<unclear reason="illegible" resp="SS">Forth</unclear>.</p>
+            <pb n="30" facs="0012_003086_000205_0030.jpg" xml:id="d3e616"/>
+            <p>368 MEMORANDA</p>
+            <p>Dan for work $150<emph>00</emph> 10<emph>th</emph> Dec.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

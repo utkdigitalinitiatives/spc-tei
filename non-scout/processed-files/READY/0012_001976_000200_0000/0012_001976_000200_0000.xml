@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001976_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Price Thomas</name>
+				                    in Union City, Tenn., to Charles W. Dabney in Knoxville, Tenn.,<date when="1889-07-31">1889 July 31</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Price Thomas</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001976_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Price Thomas in Union City, Tenn., to Charles W. Dabney in Knoxville, Tenn.,1889 July 31</title>
+          <date when="1889-07-31">1889 July 31</date>
+          <author>
+            <name type="person">Price Thomas</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Thomas W. Humes and Charles W. Dabney Papers, 1872-1904</note>
+          <note type="manuscript">AR.0144</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>College presidents -- Tennessee.</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001976_000200_0001.jpg" xml:id="d4e39"/>
+        <p>3919.</p>
+        <p>T. J. EDWARDS, PRESIDENT.	J. E. BECK, VICE-PRESIDENT.		F. O. WATTS, CASHIER.</p>
+        <p>CAPITAL, $50,000.00</p>
+        <p>First National Bank of Union City.</p>
+        <p>Union City, Tenn. July 31 1889.</p>
+        <p>Dr. C. W. Dabney,</p>
+        <p>University of Tenn.,</p>
+        <p>Dear Sir:</p>
+        <p>We find a good deal of opposition to the University in this county, on account of the fact that the people can count five young men right around here who are habitual drunkards or have died drunk, and who learned to drink while at the University.  They were there eight or ten years ago, and no boy has been sent from this county since.</p>
+        <p>You and I know how this was the result of allowing boys to run off to town at night.  We want some assurance from you that such will not be the case now so that we can meet</p>
+        <pb n="2" facs="0012_001976_000200_0002.jpg" xml:id="d4e61"/>
+        <p>3919.</p>
+        <p>T. J. EDWARDS, PRESIDENT.	J. E. BECK, VICE-PRESIDENT.		F. O. WATTS, CASHIER.</p>
+        <p>CAPITAL, $50,000.00</p>
+        <p>First National Bank of Union City.</p>
+        <p>Union City, Tenn. 		188.</p>
+        <p>this opposition.  Dr Edwards has mentioned it to me and asks me to write you on the subject.  He does not want his boy to be allowed to run over town or be thrown into temptation to drink, gamble, &amp;c.</p>
+        <p>I am sure you will appreciate my motive in writing you this.</p>
+        <p>With best wishes for you and the university</p>
+        <p>Yours very truly</p>
+        <p>Price Thomas.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000209_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in Camp Meade, Md., to Ellen Smith in Jackson, Tenn.,<date when="1918-01-11">1918  Jan. 11</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000209_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in Camp Meade, Md., to Ellen Smith in Jackson, Tenn.,1918 Jan. 11</title>
+          <date when="1918-01-11">1918  Jan. 11</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000209_0001.jpg" xml:id="d4e39"/>
+        <p>Mrs Ellen Smith,</p>
+        <p>111 Hatton Street,</p>
+        <p>Jackson,</p>
+        <p>Tenn,</p>
+        <pb n="2" facs="0012_001303_000209_0002.jpg" xml:id="d4e49"/>
+        <p>Camp Meade Maryland</p>
+        <p>Jan 11 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Well I will try an answer your letter which I received yesterday  And there is no use telling you how murch I enjoyed it, for you can amagine how murch I do enjoy them for I always answer the first chance I get and hope you will do the same</p>
+        <p>Well it is snowing here to night and I guess when I get up in the A.M. there will be about 6" of Snow and I do hate to see it we have had so murch bad weather here. There has been snow on the ground ever since I got to this place. And looks like there will be all Winter.</p>
+        <p>I will be glad when spring comes. It is colder here than it is at home but I am getting use to it now  </p>
+        <p>It rained here last Sunday Night and it froze on the ground so that left about 2" of Ice on the ground</p>
+        <p>I tell you it was so slick I couldnt stand up  The ground flew up and hit</p>
+        <pb n="1" facs="0012_001303_000209_0003.jpg" xml:id="d4e67"/>
+        <p>me to day and I fell so hard liked to have jared my teeth loose. But I have had the pleasure of laughing at the other boys so they get even on me.</p>
+        <p>Well you dont wish any more than I do that some one would get Kaiser Bill so I could come home and stay and quit Kaiser hunting.</p>
+        <p>Say some one wrote me that Cecie had got his papers back from war department and he was in the first class  I know she will hate to see him go and I dont blame her a bit</p>
+        <p>But we all have to do things we dont want to do. I didnt want to come My self but I am here just the same  And I am glad I am here for I wouldnt want to wait and be drafted I had rather Volunteere  I dont think it any disgrace but I just rather enlist</p>
+        <p>Part of the 23 Engineers will leave for France about the first of Feb. And the rest will follow as soon as they can get ready.</p>
+        <p>I am thinking of transfering to another Regt. I dont know yet whether I will or not</p>
+        <pb n="2" facs="0012_001303_000209_0004.jpg" xml:id="d4e81"/>
+        <p>3</p>
+        <p>But I gave in My Name last night they say that there is too many men in this regt. and they are going to transfer some out to another regt. So if I am one of the bunch I dont know where I will go. I am not sure I will just give my name.</p>
+        <p>I sure hope Sue Mae husban get well for I thank I had rather die any where else on earth than in the army  We have some to die most ever day and no body seems to care. They do a little for a fellow they blow the bugle when one dies.</p>
+        <p>Well tell Bob I am foolish about my dishes  All I have is a tin pan knife fork spoon and little old tin cup some out fit I will tell you  And what I have to put in them is just as bad as the dishes</p>
+        <p>I have beans 3 times a day and for a change we have beef stew and soup  I have eat that stuff untill I dream about it at night</p>
+        <pb n="3" facs="0012_001303_000209_0005.jpg" xml:id="d4e95"/>
+        <p>4</p>
+        <p>If I ever get a chance to go to town I am going to have a good meal once more just to see how I will feel. My Mother sent me a Christmas box. she put a fruit jar in with some Country Sausage in it and of course the jar had to get broke and lliked to have ruined the hole box</p>
+        <p>Everett wife sent me a box of Candy and the box bursted open and lost about half of it I say I have hard luck  Well I am use to it I have had hard luck all my life so I guess I just as well have it in the army as any where else</p>
+        <p>I know Everett and Floy are some sweet to each other, but I guess they will get over that some day  I would like to be there I sure would have some fun out of them</p>
+        <p>I dont see why you thank I would get tired of reading your letters I will tell you I dont and want you to write me all you can and as often as you can find the time</p>
+        <p>From a real true friend</p>
+        <p>Fayette</p>
+        <p>23 Engineers Recruiting Detachment Camp Meade Md.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

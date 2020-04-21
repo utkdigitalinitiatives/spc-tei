@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000208_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+		         in Camp Meade, Md., to Ellen Smith, in Jackson, Tenn.,<date when="1918-01-05">1918 Jan. 5</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000208_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in Camp Meade, Md., to Ellen Smith, in Jackson, Tenn.,1918 Jan. 5</title>
+          <date when="1918-01-05">1918 Jan. 5</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000208_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tenn,</p>
+        <pb n="2" facs="0012_001303_000208_0002.jpg" xml:id="d4e49"/>
+        <p>Camp Meade Md.</p>
+        <p>Jan5 1918</p>
+        <p>Dear Ellen:</p>
+        <p>I received two letters from to day. So I will answer them to night.</p>
+        <p>I dont know why you havent heard from me more than you have I have written you ever week  But some time I have a hard time finding time to write</p>
+        <p>I am working most day and night and dont have time to even wash my face some days</p>
+        <p>We get up at 5-15 ever Morning and dont have time to get our close on hardly until we are out in line for Mess(or breakfast) and then back and go to work or drill</p>
+        <p>Well I have been out for most</p>
+        <pb n="3" facs="0012_001303_000208_0003.jpg" xml:id="d4e67"/>
+        <p>an hour getting some equipment It looks just like harness for a horse. We carry all of our blankets dishes and some clean cloths</p>
+        <p>Oh I wouldnt put that load on a horse, but I have got to put it on my back and walk about 22 miles tomorrow we are going to move again</p>
+        <p>Are going to Glenburnie Md. about 6 Miles from Baltimore. So we will have to get up early in the morning and walk all the way. Ah some job I have got</p>
+        <p>If you dont care what you say  We are going down there to get rifle practis</p>
+        <p>I dont know wheather we will get to come back here</p>
+        <pb n="4" facs="0012_001303_000208_0004.jpg" xml:id="d4e79"/>
+        <p>or not. Will I dont care  I take ever thing easy.</p>
+        <p>I was talking to the Captin of our Company about getting a pass to come home and he told me there was nothing doing  That he thought we would be in France by the 15 of March</p>
+        <p>I ask him for a pass from the first of March I ask him if I could go now and he said no So I wont get to come home until I go over and get the Kiser</p>
+        <p>I sure would like to come home and see ever body and especialy you but guess I cant.</p>
+        <p>I was over in Baltimore Sat night and Sunday I had</p>
+        <pb n="5" facs="0012_001303_000208_0005.jpg" xml:id="d4e91"/>
+        <p>some pictures made I will send you one as soon as I get them I had some post cards made but I will wait and send you a good one I sent Esther one of the post cards guess she will show it to you</p>
+        <p>I am tickled to death to know you are sending Me some cake and candy I will eat it and thank of you all the time  I am afraid I will loose it though as I am going to leave here tomorrow</p>
+        <p>I sure do hate to make that trip but will have to  I have the tent all fixed up and have got to go off and leave it</p>
+        <pb n="6" facs="0012_001303_000208_0006.jpg" xml:id="d4e99"/>
+        <p>I wont have time to write Aunt Annie to night you tell her I am getting along fine and will write her just as soon as I get a chance  I have written her two letters in the last ten days  I dont see why she hasnt heard from Me</p>
+        <p>Well I have just got 15 minutes to get in bed guess I will have to close  Add My mail as you have been all the time  I guess I will get it  I will write you ever time I can find time</p>
+        <p>With lots of love</p>
+        <p>James L Dodds</p>
+        <p>Co. L. 23 Engineers</p>
+        <p>Camp Meade Md.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

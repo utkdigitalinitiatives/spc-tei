@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000221_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in a Camp Near Somerset, Ky., to Caroline M. Brown,<date when="1862-01-28">1862 Jan. 28</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000221_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in a Camp Near Somerset, Ky., to Caroline M. Brown,1862 Jan. 28</title>
+          <date when="1862-01-28">1862 Jan. 28</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000221_0001.jpg" xml:id="d4e39"/>
+        <p>Camp Near Somerset</p>
+        <p>January 28th 1862</p>
+        <p>Dear Companion I seat my self in our tent to inform you that I feel very well at this time I was out on garde last night round the camp we moved yesterday 3 miles Below Somerset I was out to see if i could get some <unclear reason="illegible" resp="LW">apple</unclear> And i could not find any I forgot to tell you that Conner has got Back to camp again He was taken down to tennessee And he croled out from the Guards after night and maid his way back to camp withi much joy to the Boys of Company D I tell you we exspect to go down South after a while but we dont know how soon we will wait here till we get our pay</p>
+        <pb n="2" facs="0012_000599_000221_0002.jpg" xml:id="d4e50"/>
+        <p>The boys have bin <unclear reason="illegible" resp="LW">lmg</unclear> about the pay they have not received one cent yet They will all lie swear and play cards to boot I hope I shall never learn to play for i cant see any sport in it i would rather lay down and sleep</p>
+        <p>Now i will state to you that i do not want you to be uneasy about me while we are here there is no danger Here know there is no rebels closer than Bolingreen as we know of now we have a bout 29 regments within 8 or 10 miles of us now I wrote Tom and McClurg last sunday tell the neighbor that I send my best respect to them general tell Mr Strait that Henry is well</p>
+        <pb n="3" facs="0012_000599_000221_0003.jpg" xml:id="d4e59"/>
+        <p>He is out teaming we have But one or two boys in the Hospittle S. Shilling and the Drumer B. Curry Cap is not verry well at this time David Condon is so fat that he cant see the way i sit is very tiresome and I shall soon close we have Drawed New tents and they are much beter than the others they will hold twenty very comfortable they are very high I will hafter to quit I want you to keep enough money when i sent it home to do you <unclear reason="illegible" resp="LW">untill</unclear> no more at present but still remain your husband</p>
+        <p>Henry Brown</p>
+        <p>Direct to Somerset yet</p>
+        <pb n="4" facs="0012_000599_000221_0004.jpg" xml:id="d4e70"/>
+        <p>To my dear boys I want you to obey your mother and I will like you the Better we have to go and drill</p>
+        <p>Good by Boys</p>
+      </div>
+    </body>
+  </text>
+</TEI>

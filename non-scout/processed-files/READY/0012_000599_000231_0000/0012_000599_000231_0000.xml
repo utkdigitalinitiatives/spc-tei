@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000231_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    to Caroline M. Brown, <date when="1862-04-02">1862 Apr. 2</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Henderson, Ian</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000231_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown to Caroline M. Brown, 1862 Apr. 2</title>
+          <date when="1862-04-02">1862 Apr. 2</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Henderson, Ian">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000231_0001.jpg" xml:id="d4e39"/>
+        <p>April 2<unclear reason="illegible" resp="IH">cd</unclear>
+            </p>
+        <p>Caroline, M. Brown</p>
+        <p>With much pleasurs that I seat my self to respond to yours of the 23 I received it yesterday it found me well after washing some shirts for myself and some of the rest of the boys in my bunk and was truly glad to hear that you and the boys was so well i will tell you <unclear reason="illegible" resp="IH">whase</unclear> we are at this time we have left the Camp that we wore at when I last wrote to you we left Saturday and march About 1 &amp;5 miles and</p>
+        <pb n="2" facs="0012_000599_000231_0002.jpg" xml:id="d4e52"/>
+        <p>pitched our tents and staid thare until this morning Then we struch our tents again and march about 4 miles and pitch our tents again <unclear reason="illegible" resp="IH">the</unclear> how long we will stay here is unknown to us it may be tomorrow for what i know we are about 2 miles below Columbia it is a very nice town there is some of the best dwelling houses i ever saw they Have Every thing fixt so nice that make them look nice flowers and Seeder in the yard that Sets Them of but the buildings Are nice by themselves</p>
+        <pb n="3" facs="0012_000599_000231_0003.jpg" xml:id="d4e59"/>
+        <p>There was Eighty Cannon Past our Camp yesterday And 16 <unclear reason="illegible" resp="IH">regt</unclear> of infientry And Some Caverly that is Ahead of i Supose there is 50 or 60 thousand head of us on this road the road is full of men horses and wagons all The time i have give up The idea of geting home so <unclear reason="illegible" resp="IH">Soanso</unclear> as i exspected if i am So luckey as to get home i will tell you more than I could write in my life Now Shall I close by saying That the officers took us down To duck river yesterday to wash our Selves I want you to write to me as long as you Can get a letter from me So good by for this time From Henry Brown to Carolina Brown</p>
+        <pb n="4" facs="0012_000599_000231_0004.jpg" xml:id="d4e69"/>
+        <p><unclear reason="illegible" resp="IH">g</unclear> to thes boys Isaiah And george it is getting warm and you will want to go to the creek to Fish and swim i beg you to be carefull about the water for i saw one yesterday that would have drowned if He had not got helpt out I was Jack <unclear reason="illegible" resp="IH">gordane</unclear> Two of the boys swam to him or he would of bin gone In less than two minutes And you must be carefull about fire if you have It out for you have not got pap to call wish you Had I expect your dear mothe will let you play A good deal</p>
+        <p>I Shall close By wishing you all the luck good by Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

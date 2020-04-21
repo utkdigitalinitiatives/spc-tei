@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000361_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>J.M. Knitt</name> in Alexandriana, N.C., to J.G.M.
+Ramsey, in Charleston, S.C. <date when="1828-12-29">1828 December 29</date>
+            </title>
+            <author>
+               <name type="person">Knitt, J.M. (fl.1828)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000361_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.M. Knitt in Alexandriana, N.C., to J.G.M. Ramsey in Charleston, S.C. 1828 Dec. 29</title>
+               <date>1828-12-29</date>
+               <author>
+                  <name>Knitt, J.M. (fl.1828)</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1828 Dec. 29, J.M. Knitt, Alexandriana, N.C., to J.G.M. Ramsey, Charleston, S.C. Tariff on imported goods cited as a suitable source of revenue and criticism of South Carolinians for opposing it.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Revenue -- South Carolina -- History -- 19th century.</term>
+               <term>Tariff -- South Carolina -- History -- 19th century.</term>
+               <term>Imports -- South Carolina -- History -- 19th century.</term>
+               <term>Charleston (S.C.) -- Politics and government -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+               <term>Knitt, J. M. (fl. 1828) -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000361_0001.jpg" xml:id="d3e154"/>
+            <p>Alexandriana N.C.</p>
+            <p>Dec 29, 1828</p>
+            <p>Doctr James G.M. Ramsey</p>
+            <p>Charleston</p>
+            <p>So Carolina</p>
+            <pb n="2" facs="0012_000060_000361_0002.jpg" xml:id="d3e170"/>
+            <p>Alexandriana</p>
+            <p>Dec 29 1828</p>
+            <p>
+               <unclear reason="illegible" resp="bds">Dr Sir</unclear>
+            </p>
+            <p>Having nothing particular to communicate, I write to reciprocate that friendship manifested by your letter from
+Charleston, - no occurences worthy of notice since you left us - have received no letter from Tennessee - We hope to
+hear from you frequently - &amp; always of your increasing health &amp; enjoyments - in your present situation you
+perhaps owe a duty to your Country which your talents enables you to <unclear reason="illegible" resp="bds">perform</unclear>, - in a cool dispationate way, to allay the unreasonable &amp; unpatriotic fervour
+in So. C. - <unclear reason="illegible" resp="bds">a,</unclear> - arriving from misconception as to the nature &amp;
+opperation of the tariff - </p>
+            <p>A tariff is operative as a source of revenue to a certain entent - every tariff laid by Congress has opperated
+as a <gap resp="Dyson-Smith"/> of productive revenue without <unclear reason="illegible" resp="bds">intranein<gap resp="Dyson-Smith"/>
+               </unclear> price of
+fabricks or <gap resp="Dyson-Smith"/> &amp;c prices of agricultural products - a <unclear reason="illegible" resp="bds">less</unclear>
+importation of one article - leading to a more extensive importation of others will ever be the result of mercantile
+speculation &amp; policy, the tariff is thus clearly a revenue law so far as yet developed, not in the least effecting
+the <unclear reason="illegible" resp="bds">shippers</unclear> or farmer, &amp; if its operation thus continues, it
+must be constitutional, - according to their own principles - a modification in thus only proper. In commercial
+regulations as in philosophy facts often prove things correct - which reason would prove absurb - e.g. -
+<unclear reason="illegible" resp="bds">hydrostatic pasad &amp;c</unclear> - circular card - or - tax on molasses,
+glass, nails or - importing <unclear reason="illegible" resp="bds">foreigner</unclear> - must &amp; does bear the
+loss - Should you have been to Colombia - please note your sucess as to your Tennessee road - I fear you will find
+So. C.a. as it has ever been - always on the highest extremes - apathy or irritability prodigality - penury -
+wisdom - folly - perfect despondency as in a Revolution. - or the morbid vigour &amp; energy of a Maniac, as
+now - May health - prosperity, &amp; happiness accompany you</p>
+            <p>J.M. Knitt</p>
+         </div>
+      </body>
+   </text>
+</TEI>

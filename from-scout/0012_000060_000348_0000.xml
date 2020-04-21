@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000348_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Francis A. Ramsey</name> in Gettysburg, Penn., to Rev. Samuel G.
+Ramsey, in Knox County, Tenn. <date when="1806-08-18">1806 August 18</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000348_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Francis A. Ramsey in Gettysburg, Penn., to Rev. Samuel G. Ramsey in Knox County, Tenn. 1806 Aug. 18</title>
+               <date>1806-08-18</date>
+               <author>
+                  <name>Ramsey, Francis A. (Francis Alexander), 1764-1820</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1806 Aug. 18, Francis A. Ramsey, Gettysburg, Penn., to his brother, Rev. Samuel G. Ramsey, Knox County, Tenn. Discloses his marriage five days earlier to Mrs. Anne Fleming. Gives instructions for publishing this news in the Knoxville paper. Relates that their father&apos;s plans to sell his home were interrupted by illness.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Marriage -- Pennsylvania -- Gettysburg -- Social aspects -- History -- 19th century. </term>
+               <term>Family life -- Pennsylvania -- Gettysburg -- History -- 19th century.</term>
+               <term>Gettysburg (Pa.)</term>
+               <term>Ramsey, Francis A. (Francis Alexander), 1764-1820 -- Marriage.</term>
+               <term>Ramsey, Ann A. (Ann Agnes), d. 1817 -- Marriage.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e149">
+            <pb n="1" facs="0012_000060_000348_0001.jpg" xml:id="d3e150"/>
+            <p>Gettysburg Pa Aug 18th</p>
+            <p>Reverend Samuel G. Ramsey</p>
+            <p>Knox County</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000348_0002.jpg" xml:id="d3e164"/>
+            <p>Gettys-burg August 18th 1806</p>
+            <p>Dear Brother, I suppose you will be surprized to receive from me a letter written at this place
+<unclear reason="illegible" resp="bds">on</unclear> this date - but since I wrote last to you I
+undertook and have accomplished a very important piece of business - which was to get married to
+Mrs Anne Fleming - this event took place the 7th Instant - whether this information will
+surprize or displease you I cannot tell - had it been practicable I doubtless would have consulted
+you about it - I feel very happy in this <unclear reason="illegible" resp="bds">connection</unclear>;
+and we all appear pleased - </p>
+            <p>Dada had come to a conclusion to <unclear reason="illegible" resp="bds">remove</unclear> out this
+fall and has advertised a <unclear reason="illegible" resp="bds">vendue</unclear> to sell his property
+the 20th Instant - but last Thursday he was taken with a chill and</p>
+            <pb n="3" facs="0012_000060_000348_0003.jpg" xml:id="d3e188"/>
+            <p>Fever was better on Friday - had a bad spell on Saturday - was better yesterday - and from present
+appearances this morning I suppose he is to have a pretty severe spell this day - From these
+circumstances I suppose Dada will conclude Divine Providence is saying he shall not remove - as the day
+after tomorrow is the day appointed for his sale and that the day on which he probably will be Sick
+I suppose the vendue will not go on</p>
+            <p>I have appointed to take my Journey on Thursday first - I expect to be home in four weeks from my
+setting out - perhaps I may be longer on the road but will try hard to be home by Court - I have cut
+a piece out of a Gettys Town newspaper that contains a piece of information that you may get Hood to
+put in his paper if you choose, and this will give my Friends</p>
+            <pb n="4" facs="0012_000060_000348_0004.jpg" xml:id="d3e198"/>
+            <p>and acquaintance notice what I have been doing that kept me so long here and prevent my being under
+the <unclear reason="illegible" resp="bds">necessity of</unclear> telling them, If I should live to
+see them - I know not any thing more of importance to relate to you - It appears as if it would be
+Sickly here this Fall - it has been and is yet a very dry season corn will not pay for the working - Dysentery
+has appeared in some Families in the neighborhood of this Town - </p>
+            <p>By your New Sister and all Dadas &amp; my own Family I am joined in presenting sincere affections to
+Sister yourself and Children - your brother affectionately</p>
+            <p>F.A. Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

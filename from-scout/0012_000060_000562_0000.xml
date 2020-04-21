@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000562_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Nellie Alexander Gordon</name>
+ in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1910-11-24">1910 Nov. 24</date>
+            </title>
+            <author>
+               <name type="person">Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000562_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Nellie Alexander Gordon in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1910 Nov. 24</title>
+               <date>1910-11-24</date>
+               <author>
+                  <name>Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+               </author>
+               <extent>6 digital images; 1 envelope, 5 pages.</extent>
+               <note type="abstract">1910 Nov. 24, Nellie Alexander Gordon, Franklin, Tenn., to Elizabeth Ramsey Breck, Knoxville, Tenn. Further information on their Alexander family ancestors of North Carolina. Encloses a tissue tracing of the Alexander family tree. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Genealogy -- North Carolina.</term>
+               <term>Genealogy -- Georgia.</term>
+               <term>Genealogy -- Tennessee.</term>
+               <term>North Carolina -- History.</term>
+               <term>Georgia -- History.</term>
+               <term>Alexander, James, 1691-1756 -- Family.     </term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Family.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000562_0001.jpg" xml:id="d3e155"/>
+            <p>Mrs. E.A.R. Breck</p>
+            <p>809 East Main Ave.,</p>
+            <p>Knoxville, Tenn.</p>
+            <pb n="2" facs="0012_000060_000562_0002.jpg" xml:id="d3e167"/>
+            <p>Franklin, Tenn.</p>
+            <p>Nov. 24, 1910</p>
+            <p>My dear Mrs. Breck:-</p>
+            <p>I loaned my &quot;tree&quot; to Mr. Sharpe of Nashville &amp; have just gotten it home. I have made a rough sketch of your branch of the family, which I am sending you, hoping it will give you pleasure. The next time I go to Nashville, will see if I can get some paper, such as the Architects use, &amp; sketch the whole tree for you. James Alexander is the founder of the N.C. branch</p>
+            <pb n="3" facs="0012_000060_000562_0003.jpg" xml:id="d3e181"/>
+            <p>the tree does not give the date of his birth - or the name of his wife. I wrote to Bessie Caldwell, (now Mrs. Archibald Young) of Charlotte, N.C. She is a grand daughter of Rev. Samuel Chraighead Caldwell - She was just moving into a new home &amp; said as soon as she was settled would write to me. Said Charlotte was the place to find out all about the Alexanders - </p>
+            <p>When I hear from her will write you what she says -</p>
+            <p>The following is a list of the children of James Alexander</p>
+            <pb n="4" facs="0012_000060_000562_0004.jpg" xml:id="d3e193"/>
+            <p>1 Theophilus b. Mar 1714</p>
+            <p>2 Jemima b Nov 1716 died early</p>
+            <p>3 Edith b July 1718 &quot; &quot;</p>
+            <p>4 Kiziah b. May 1720 &quot; &quot;</p>
+            <p>5 Ezekiel b. Jan 1725 &quot; &quot;</p>
+            <p>6 Hezekiah b Jan 1728 died 1800 Twin</p>
+            <p>7 Amos b Jan 1728 Twin</p>
+            <p>8 Jemima &quot; &quot; 1729 married John Sharp</p>
+            <p>9 John McKnitt b 1733 died 1718</p>
+            <p>10 Margaret b June 1736 died early.</p>
+            <p>11 Elizabeth b Nov. 1746 married Sample.</p>
+            <p>12 Abigail &quot; 1748 &quot; Bradley</p>
+            <p>13 Margaret &quot; 1750 &quot; McCoy</p>
+            <p>14 Josiah &quot; Aug 1752</p>
+            <p>15 Ezekiel &quot; Oct 1754</p>
+            <p>They did not believe in <unclear reason="illegible" resp="JR">name</unclear> suicide in those days - </p>
+            <p>I wrote to Mrs. Minnis, the great</p>
+            <pb n="5" facs="0012_000060_000562_0005.jpg" xml:id="d3e237"/>
+            <p>grand daughter of Adam Alexander who settled in Washington Ga. She says he had no brothers or sisters, &amp; left only one son Adam L. Alexander. He came to this country as the Revolution broke out - had just graduated at the University of Edinburg Scotland. Her grandfather went to Yale, &amp; married a Miss Glibert there.</p>
+            <p>Adam seems to have been a family name - &amp; I think her father must be a descendent of the same <unclear reason="illegible" resp="JR">strock</unclear>.</p>
+            <pb n="6" facs="0012_000060_000562_0006.jpg" xml:id="d3e250"/>
+            <p>All I find out in regard to the family, will let you know.</p>
+            <p>If you will place the sketch of the tree I send over white paper, you can see it more plainly.</p>
+            <p>With love, &amp; best wishes</p>
+            <p>Nellie A. Gordon</p>
+         </div>
+      </body>
+   </text>
+</TEI>

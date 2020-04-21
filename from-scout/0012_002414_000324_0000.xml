@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000324_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>James H. Walmough</name>
+				          in Philadelphia, Pa. to the President &amp; Directors of the Insurance Company of North America., <date when="1801-06-09">1801 June 9</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+            </respStmt>
+            <author>
+               <name type="person">James H. Walmough</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000324_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, James H. Walmough in Philadelphia, Pa. to the President &amp; Directors of the Insurance Company of North America., 1801 June 9</title>
+               <date when="1801-06-09">1801 June 9</date>
+               <author>
+                  <name type="person">James H. Walmough</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1-1843 February 18</note>
+               <note type="manuscript">MS.2414</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="White, Park">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000324_0001.jpg" xml:id="d4e39"/>
+            <p>The President &amp;Directors of</p>
+            <p>The Insurance Company of</p>
+            <p>North America</p>
+            <pb n="2" facs="0012_002414_000324_0002.jpg" xml:id="d4e47"/>
+            <p>The President &amp;Directors of the Insurance Co. of North America</p>
+            <p>Gentlemen!</p>
+            <p>Inclosed I have the honor to transmit you my accot. respecting the Dist. sh. on Brig Pamela &amp;Cargo amounting to $1708.88._</p>
+            <p>The accot. of Ship Four American &amp;cargo, are all made out <unclear reason="illegible" resp="pw">illegible</unclear>also the 
+				       average on each policy, I have delivered them to Mr.<unclear reason="illegible" resp="pw">Deeleth</unclear>who has also the papers
+				       in due order to sustantiate the claim the concerned have against the Government of Guadaloupe._  I shall be happy in continuing my 
+				       services to be servicable to your goodselves in procuring payment from where it is justly due &amp;believe me to be with sentiments
+				       of the highest consideration</p>
+            <p>Gentlemen!</p>
+            <p>YourM. Obed. Servt.</p>
+            <p>Philad. 9. June 1801.</p>
+            <p>J. H. Walmough</p>
+            <pb n="3" facs="0012_002414_000324_0003.jpg" xml:id="d4e71"/>
+            <p>June 9th 1801</p>
+            <p>James H  Walmough</p>
+         </div>
+      </body>
+   </text>
+</TEI>

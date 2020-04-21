@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000235_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>J.M.Saunders</name>
+				                    in Warrenton Va., to Maj. David Burford in Dixon Springs, Tenn., <date when="1832-12-08">1832 Dec. 08</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">J.M.Saunders</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000235_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, J.M.Saunders in Warrenton Va., to Maj. David Burford in Dixon Springs, Tenn., 1832 Dec. 08</title>
+          <date when="1832-12-08">1832 Dec. 08</date>
+          <author>
+            <name type="person">J.M.Saunders</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000235_0001.jpg" xml:id="d4e39"/>
+        <p>From J. M. Saunders</p>
+        <p>Dec. 8 1832</p>
+        <p>Warrenton Va</p>
+        <p>Dec 7th      25</p>
+        <p>Maj. David Burford</p>
+        <p>Dixon Spring</p>
+        <p>Smith County</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_000115_000235_0002.jpg" xml:id="d4e57"/>
+        <p>Warrenton Dec 8th 32</p>
+        <p>Dear Burford</p>
+        <p>Pervis passed here by last night's stage on his return from Missippi, he brings us advise from W Franklin to suspend our purchases until further orders - Suppose you send on your agent immediately for the negros you want as it will be convenant for me to render him such assistance as he may stand in <unclear reason="illegible" resp="JCM">red</unclear> of making the <unclear reason="illegible" resp="JCM">hunchase - </unclear> I think it would be best at this season of the year to send but one horse, so that he could take water at some convenent point on the Ohio river, and return home by by the way of Louisville Ky -</p>
+        <p>We have had our full share of <unclear reason="illegible" resp="JCM">uneasen of</unclear> for the fate of our last shipment - Pervis told me however</p>
+        <pb n="3" facs="0012_000115_000235_0003.jpg" xml:id="d4e76"/>
+        <p>that his uncle intended to intercept the passage of the vessel somewhere below New Orleans and take the negroes across the lake to the high lands in Missippi to avoid the pestilence which has been more fatal in the south than any other section of the continent. - tho I am gratiful to see by this mornings paper that the disease had on the 19th of Nov entirely subsided in New Orleans - the Vets and the Cholera will pay the dues with the negro traders this year - you will <unclear reason="illegible" resp="JCM">vubtly</unclear> be compelled to listen to a great many (and among them no small portion) exagerated accounts of the <unclear reason="illegible" resp="JCM">maligrity</unclear> and fatality of this awful <unclear reason="illegible" resp="JCM">epedinie;</unclear> which is to be sure at best bad enough; but with W. Franklins experiences prudence and management, together with</p>
+        <pb n="4" facs="0012_000115_000235_0004.jpg" xml:id="d4e89"/>
+        <p>an equal portion of the favours of Divine providence, I flatter myself that we may in a great measure if not altogether escape the evil -</p>
+        <p>Your friend</p>
+        <p>JMSaunders</p>
+      </div>
+    </body>
+  </text>
+</TEI>

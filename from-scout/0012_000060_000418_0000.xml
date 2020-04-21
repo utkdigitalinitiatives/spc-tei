@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000418_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>John M. Lea</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. <date when="1874-05-06">1874 May 6</date>
+            </title>
+            <author>
+               <name type="person">Lea, John M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000418_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John M. Lea in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1874 May 6</title>
+               <date>1874-05-06</date>
+               <author>
+                  <name>Lea, John M.</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">John M. Lea wrote to J.G.M. Ramsey on May 6, 1874. He asks that J.G.M. prepare a circular for the Tennessee Historical Society requesting donation of historical relics from the people of the state. He expresses confidence in success of the organization and hopes that Dr. Ramsey will preside at some of their meetings.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Historians -- Correspondence.</term>
+               <term>History publishing.</term>
+               <term>Relics -- Tennessee.</term>
+               <term>Tennessee -- History -- Congresses.</term>
+               <term>Lea, John M. -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000418_0001.jpg" xml:id="d3e154"/>
+            <p>41 North Vine St.</p>
+            <p>Nashville, May 6 1874</p>
+            <p>Dr. J. G. M. Ramsey,</p>
+            <p>Dear Sir,</p>
+            <p>I send to you by this mail the Republican Banner, containing a copy of the proceedings of the last Meeting of the Tenn essee Historical Society. </p>
+            <p>Dr. Foster and myself request you to prepare the circular to be addressed to the people of the State soliciting the contribution of historic relics.</p>
+            <pb n="2" facs="0012_000060_000418_0002.jpg" xml:id="d3e172"/>
+            <p>The Address may and, perhaps, should be brief, and, as you could so much better express the objects in view, we trust it is not asking too much of you to discharge the duty. </p>
+            <p>We all hope it may suit your convenience to provide at some of our regular meetings. Considerable interest on the subject is being awakened, and it is anticipated, that good results will follow from the re- organization of our society. </p>
+            <p>Very respectfully,</p>
+            <p>John M. Lea.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

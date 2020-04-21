@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000253_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name/>
+				                    in  <date when="1814-06-30">1814 June 30</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000253_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, in 1814 June 30</title>
+          <date when="1814-06-30">1814 June 30</date>
+          <author>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Letters</note>
+          <note type="manuscript">MS.0935</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000253_0001.jpg" xml:id="d4e38"/>
+        <p>Copy</p>
+        <p>Letter of advice to the</p>
+        <p>Secretary of war No. 2</p>
+        <p>Vouchers forwarded</p>
+        <p>To the Treasury</p>
+        <p>Department 16th May</p>
+        <p>1818 D.B.</p>
+        <pb n="2" facs="0012_000115_000253_0002.jpg" xml:id="d4e54"/>
+        <p>Fort Pickering 30th June 1814</p>
+        <p>Sir- I have this day had the honor to draw on you my Bill of Exchange No. 2 for <unclear reason="illegible" resp="EMS">$25b - 3b</unclear>payable at Ten days sight to Joshua Fletcher on order, in discharge for 2473 Rations of Meat, 2473 Rations of Vinegar, 2473 Rations, Salt, 2473 Rations Soap, 2473 Rations candles, 2473 Rations whiskey, and Eight pounds of candles, extra for use of guard and Two hundred &amp; fifty four <unclear reason="illegible" resp="EMS">gills</unclear>of whiskey extra agreeable to within Abstract which Bill you will be pleased to honor, Sir, on its first appearance and charge to the provision account of the army.</p>
+        <p>Respectfully, Sir.</p>
+        <p>Your Mo Obt Servant</p>
+        <p>David Burford</p>
+        <p>
+          <unclear reason="illegible" resp="EMS">3 Lieut 7 Infantry</unclear>
+        </p>
+        <p>Act. Qr. Master F.P.</p>
+        <p>The Honourable John Armstrong</p>
+        <p>Secretary of war</p>
+        <p>Bill of Exchange for <unclear reason="illegible" resp="EMS">$25b - 3b</unclear>
+            </p>
+        <p>Exchange for<unclear reason="illegible" resp="EMS">$25b - 3b</unclear> Exchange for Fort Pickering 30th June 1814</p>
+        <p>No. 2</p>
+        <p>At Ten days sight of this my first of exchange, the second and third of the same date and tenor not paid, pay to Joshua Fletcher <gap resp="Smither"/>order the sum of Two hundred and fifty Six Dollars, thirty six cents for value received and charge the same as pr. advice of this date</p>
+        <p>Respectfully Sir</p>
+        <p>Your Mo Obt Servant</p>
+        <p>David Burford</p>
+        <p>Lieut <unclear reason="illegible" resp="EMS">7 Infy Ctct</unclear>
+            </p>
+        <p>Qr. Master F.P.</p>
+        <p>The Honourable John Armstrong</p>
+        <p>Secretary of war</p>
+      </div>
+    </body>
+  </text>
+</TEI>

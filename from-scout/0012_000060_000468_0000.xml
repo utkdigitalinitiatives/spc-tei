@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000468_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-07-16">1880 July 16</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000468_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 July 16</title>
+               <date>1880-07-16</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 p.</extent>
+               <note type="abstract">1880 July 16 Lyman C. Draper, Corresponding Secretary, Wisconsin State Historical Society, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Questions location of three places mentioned in Dr. Ramsey &apos;s Annals of Tennessee. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>Generals -- United States --  Biography.</term>
+               <term>South Carolina -- History -- Revolution, 1775-1783.</term>
+               <term>Southern States -- History -- Revolution, 1775-1783 -- Campaigns.</term>
+               <term>Campbell, William, 1745-1781.</term>
+               <term>Shelby, Isaac, 1750-1826.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000468_0001.jpg" xml:id="d3e152"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville --</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000468_0002.jpg" xml:id="d3e164"/>
+            <p>Madison, July 16th, 1880.</p>
+            <p>My Dear Dr. Ramsey --</p>
+            <p>I wrote you yesterday -- &amp; last evening I recd. your favor of the 12th.</p>
+            <p>One thing I neglected yesterday to ask about -- page 230 of yr. History you say Campbell, Shelby, passed along the valley of Gap Creek: Is this stream one of the head waters of Watauga -- or is it a water course heading on the Eastern <unclear reason="illegible" resp="JR">declivity of Yellow Mountain?</unclear>
+            </p>
+            <p>You speak of Bright&apos;s <unclear reason="illegible" resp="JR">Trace</unclear> -- no doubt truly; but do &quot;Bright&apos;s Place&quot; -- where? I sometimes think it was a clearer spot of perhaps 100 acres -- on the very top of Yellow Mtn., where <unclear reason="illegible" resp="JR">Gene.</unclear> D. Campbell</p>
+            <pb n="3" facs="0012_000060_000468_0003.jpg" xml:id="d3e188"/>
+            <p>of Abingdon told me the men <unclear reason="illegible" resp="JR">paraded</unclear> -- but gave no specific name to any locality. But Bright&apos;s may have been beyond.</p>
+            <p>I hardly expect to settle these matters -- I could have done it 20 years ago; but those who knew are gone.</p>
+            <p>
+               <unclear reason="illegible" resp="JR">Mr.</unclear> Sildin (or Filden?) Ridge I have not heard of before.</p>
+            <p>In haste -- Truly Yours,</p>
+            <p>Lyman C. Draper.</p>
+            <p/>
+            <p/>
+            <p>Very Truly Yours,</p>
+            <p>Lyman C. Draper.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

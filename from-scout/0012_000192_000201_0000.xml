@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000192_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>General Order,
+<name>Watson B. Smith</name>
+ in Marysville, Tenn.,<date when="1863-11-06">1863 Nov. 06</date>
+            </title>
+            <author>
+               <name type="person">Smith, Watson B., d. 1881</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000192_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>General Orders, Watson B. Smith in Marysville, Tenn. 1863 Nov. 6</title>
+               <date>1863-11-06</date>
+               <author>
+                  <name>Smith, Watson B., d. 1881</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">By command of Brig. Gen. Sanders, Watson B. Smith wrote to Lt. Col. Adams and his regiment (1st Ky Cav.) extending the thanks of Maj. General Burnside for the daring attack they made against the enemy at Motley Island Ford, Little Tennessee River in which they captured thirty-five prisoners and killed many more without loss to themselves. Smith asked that Adams make out a statement and send to the Tribune and to forward the inclosure to Harper.</note>
+               <note type="collection">Watson B. Smith Letters</note>
+               <note type="manuscript">MS.3104</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Armed Forces -- Officers -- Correspondence. </term>
+               <term>Soldiers -- Little Tennessee River (Ga.-Tenn.)</term>
+               <term>Courage.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865. </term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Smith, Watson B., d. 1881 -- Correspondence.</term>
+               <term>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865). </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000192_000201_0001.jpg" xml:id="d3e156"/>
+            <p>Marysville Tenn.</p>
+            <p>Nov. 5/63.</p>
+            <pb n="2" facs="0012_000192_000201_0002.jpg" xml:id="d3e166"/>
+            <p>Hd Qrs 1st Div Cav Corps</p>
+            <p>Near Marysville Tenn Nov 6th 1863</p>
+            <p>General Orders</p>
+            <p>No 3</p>
+            <p>With pleasure the General Commanding the 1st Div hereby extends the thanks of Maj Genl Burnside, comdg Army of the Ohio, by his direction, to Lt Col Adams and his Regiment (1st Ky Cav.) for the daring attack of the enemy, in far superior numbers, at Motley Island Ford, Little Tenn River, in which they captured thirty five (35) prisoners and killed and drowned large numbers without loss to themselves.</p>
+            <p>By Command of Brig Genl Sauders</p>
+            <p>Watson B. Smith</p>
+            <p>
+               <unclear reason="illegible" resp="JCM">A.A.A.G.</unclear>
+            </p>
+            <p>If you please you might make out a little statement of the above mention affair &amp;give it to the A &amp; Tribune</p>
+            <p>Please forward the <unclear reason="illegible" resp="JCM">inclosure</unclear> to &quot;Harpers&amp;</p>
+            <p>Watson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

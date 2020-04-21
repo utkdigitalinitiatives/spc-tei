@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000218_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>General Orders</name>
+				                    Orders for Publication<date when="1865-03-30">1865 Mar. 30</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">General Orders</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000218_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, General Orders Orders for Publication1865 Mar. 30</title>
+          <date when="1865-03-30">1865 Mar. 30</date>
+          <author>
+            <name type="person">General Orders</name>
+          </author>
+          <extent>12 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.0415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000218_0001.jpg" xml:id="d4e39"/>
+        <p>Orders for Publication</p>
+        <p>on the 6th Tenn. Vol. Inftry</p>
+        <pb n="2" facs="0012_001519_000218_0002.jpg" xml:id="d4e45"/>
+        <p>1</p>
+        <p>For the Knoxville Whig</p>
+        <p>Mr. Editor:</p>
+        <p>Believing you are ever willing to give "honor to whome honor is due," I send you the following testimonials of regard and respect for the officers and men of the 6th Tenn. Inftry., all of whom, except one company and some recruits, have been recently mustered out of the service. These orders and circular, coming from high authority will be read with interest by the numerous friends of the 6th, and will show to the world that East Tennessee soldiers have so conducted themselves in the great struggle just ended, as to gain in a high degree the confidence and esteem of their Commanders and associates - Having returned to their homes, may they so conduct themselves in the capacity of citizens, as to prove a great auxiliary in restoring civil power in our state</p>
+        <p>R.</p>
+        <pb n="3" facs="0012_001519_000218_0003.jpg" xml:id="d4e57"/>
+        <p>2</p>
+        <p>Headquarters Department of North Carolina</p>
+        <p>(Army of the Ohio)</p>
+        <p>Goldsboro N.C. March 31st 1865</p>
+        <p>Special Field Orders</p>
+        <p>No. 17</p>
+        <p>The 6th Tenn. Infty. being about to return to Tennessee after three years continuous service, the Major General Commanding desires to express his Thanks to the Officers and men remaining with the Regiment, and who have made so many sacrifices for the principles which induced them to leave their homes, for Their faithful service, enduring fidelity to the causes of freedom, and gallantry on the field of battle; and he trusts that on their return to their own state, they will be permitted to enjoy that freedom, peace and security which they have so nobly earned.</p>
+        <p>(Signed) J.M.Schofield</p>
+        <p>Major General</p>
+        <pb n="4" facs="0012_001519_000218_0004.jpg" xml:id="d4e77"/>
+        <p>3</p>
+        <p>Headquarters 1st Brigade 2nd Div. 23d A.C.</p>
+        <p>In the field N.C. March 30th 1865</p>
+        <p>General Orders</p>
+        <p>No 15</p>
+        <p>The 6th Tennessee Vol. Infty., which has for so long and eventful a period been associated with the first Brigade, is now relieved and the Col. Commanding deems this a fitting time to tender to the Officers and men of that gallant Regiment his thanks, and the thanks of the brigade for the prompt and efficient manner in which they have ever performed their duties, both on the march and on the battelfield. Their heroic conduct on many a well fought field, and their self-sacrificing devotion to our country in this great struggle, has won for them the unbounded confidence and esteem of those gallant soldiers, who have stood shoulder to shoulder with them in the field, and have learned to love them as brothers for everything which is ennobling, and sheds a luster upon the patrioic brow.  The history of the 6th Tennessee will make a bright page in the annals of this country</p>
+        <p>Many of these brave men have already served beyond the period of their enlistment and their services are gratefully</p>
+        <pb n="5" facs="0012_001519_000218_0005.jpg" xml:id="d4e93"/>
+        <p>4</p>
+        <p>appreciated. We can but bid them a kind farewell with feelings of gratitude, and a deep solicitude for their future welfare - May they return in safety to their homes, to enjoy the liberties of the Govenment they have so nobly defended</p>
+        <p>By order of Col. O.H. Moore</p>
+        <p>T. C. Honnell Capt. and A.A.A.G.</p>
+        <pb n="6" facs="0012_001519_000218_0006.jpg" xml:id="d4e103"/>
+        <p>5</p>
+        <p>Headquarters 25th Mich. Vol. Inftry.</p>
+        <p>Near Mosely Hall N.C. March 31st 1865</p>
+        <p>Colonel:</p>
+        <p>The 6th East Tennessee volunteer Infantry having been relieved from duty with the 1st Brig. 2nd Div. 23rd A.C., and ordered to report to Nashville Tenn. to be mustered out of the service, the period of their enlistment having experied, we deem this a proper time to express our respect and admiration for the Officers and men of that command, who have so faithfull performed obligations to the government as patriotic men and gallant soldiers, entering the service as they did, in the darkest hours of the rebellion. They have been our "Companions in arms" in the hardest campaigns, some of the most stirring scenes of the war, marched with us shoulder to shoulder, and been exposed to all the dangers and perils of many a hard fought battle field. They retire from the theatre of war with a record untarnished, a name and reputation non by heroic duds. We part with them with feelings of sorrow and sadness - As brothers who have been educated in the same faith, worshipped</p>
+        <pb n="7" facs="0012_001519_000218_0007.jpg" xml:id="d4e115"/>
+        <p>at the same alter, and knelt at the same shrine. We bid them God speed to their loved ones at home, and when they return to the avocations of private live, may their future be as peaceful and happy as their military career has been brilliant and glorious.</p>
+        <p>For the Officers and men of the 6th we shall ever retain a lively interest, and refer with a soldiers pride to the exciting scenes of former associations.</p>
+        <p>In behalf of the Officers and men of the 25th Mich. Vol. Inftry.</p>
+        <p>I remain</p>
+        <p>Very truly Yours</p>
+        <p>B. F. Orcutt</p>
+        <p>St. col. Comdg. 25th Mich. Vol Inftry.</p>
+        <p>Previous to breaking up camps near Mosely Hall N.C. and starting for their own state, the 6th issues through their Commanding Officer, St. Col. Edward Maynard, the following farewell address to their comrades in the 1st Brig 2nd Div. 23rd A.C. which but faintly expresses their feelings on that occasion</p>
+        <pb n="8" facs="0012_001519_000218_0008.jpg" xml:id="d4e133"/>
+        <p>7</p>
+        <p>Headquarters 6th East Tenn. Vol Infty.</p>
+        <p>Near Mosely Hall N.C. March 30th 1865</p>
+        <p>Officers and Men of the 1st Brig. 2nd div 23rd A.C.:</p>
+        <p>This Regiment being relieved from duty in the field with orders to report to the chief mustering Officer at Nashville Tenn., for the purpose of being mustered out on account of the expiration of their term of service, deem this a proper time to express their feelings towards their "Comrades in arms" in the 1st Brig. 2nd Div. 23rd. A.C. - It is with feelings of sadness that we part with all the officers and men of the 1st Brigade. We have formed attachments for them in the face of danger which are as lasting as life, and must ever be proud that we were associated with them in this struggle for our Country's honor.  But now we part; We go to our homes, they in a short time will probably engage in another campaign. May the Great Ruler of the Universe protect and defend them, and may this unhappy strife soon be brought to an end, when they can return to loved ones at home and enjoy that freedom for which they have sacrificed so much</p>
+        <pb n="9" facs="0012_001519_000218_0009.jpg" xml:id="d4e145"/>
+        <p>Although Col. O. H. Moore has been associated with us but a short time as Brigade Commander, he has his dignified, courteous and soldierly learning toward us won our profound esteem, and deserves all the praise and admiration which is possible for soldiers to express or entertain toward a superior Officer. May his future history be a bright one without a blemish, and long may he live to defend our common country.  And to all our comrades in army we say, May God guide, guard and direct you.</p>
+        <p>In behalf of the Officers and men of the 6th Regt. E. Tenn. Vols.</p>
+        <p>I remain</p>
+        <p>Very truly yours</p>
+        <p>Edward Maynard</p>
+        <p>St. Col Comdg 6th Regt. E. Tenn. Vols</p>
+        <pb n="10" facs="0012_001519_000218_0010.jpg" xml:id="d4e159"/>
+        <p>Head Quarters 1st Brig 2d Div. 23d AC</p>
+        <p>In the Field N.C. March 30th 1865</p>
+        <p>General Orders</p>
+        <p>No 15</p>
+        <p>The 6th Tenn Vol Infty. which has for so long and eventful a period been associated with the first Brigade, is now relieved and the Col Commanding deems this a fitting time to tender to the Officers and men of that gallant Regiment his tanks and the thanks of the Brigade for the prompt and efficient manner in which they have ever performed their duties both on the march and on the battlefield.  Their heroic conduct on many a well fought field, and their self sacrificing devotion to our Country in this great struggle has won for them the unbounded confidence and esteem of those gallant soldiers who have stood shoulder to shoulder with them in the field - and have learned to love them as brothers for everything which is ennobling and sheds a luster upon the patriots brow. The history of the 6th Tenn will make a bright page in the future annals of the Country. Many of these brave men have already served beyond the term of their enlistment.</p>
+        <p>Over,</p>
+        <pb n="11" facs="0012_001519_000218_0011.jpg" xml:id="d4e173"/>
+        <p>and their services are greatly appreciated. We can but bid them a kind farewell, with feelings of gratitude and deep solicitude solicitude for their future welfare. May they return in safity to their homes to enjoy the liberties of the Govenment they have so nobly defended.</p>
+        <p>by Order of</p>
+        <p>Col O.H. Moore,</p>
+        <p>T.C. Honnell</p>
+        <p>Capt and A.A.A.Gen'l</p>
+        <pb n="12" facs="0012_001519_000218_0012.jpg" xml:id="d4e186"/>
+        <p>Head Quarters 1st Brig 2nd Div 23rd A.C.</p>
+        <p>In the field N.C. Marcy 31st 1865</p>
+        <p>Special Orders</p>
+        <p>No 41.</p>
+        <p>Capt T. D. Edington Co "A" 6th Tenn Vol Infty is hereby relieved from duty as A.A.T.G. of this Brigade and will report to the Comdg Officer of his Regiment at Nashville Tenn as soon as practicable to be mustered out of service.</p>
+        <p>The Col Comdg takes this opportunity to tender to Capt Edington his tanks for the prompt and efficient manner in which he has ever performed his duties. His gallant conduct on many a battlefield, and his untiring energy on the march and in camp has won for him the confidence and esteem of the entire command.</p>
+        <p>By Command of</p>
+        <p>Col O.H. Moore</p>
+        <p>(Signed) T.C. Honnell</p>
+        <p>Capt and A.A.A.G.</p>
+        <p>To</p>
+        <p>Capt Edington</p>
+        <p>6th Tenn Infty.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

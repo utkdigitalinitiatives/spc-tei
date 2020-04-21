@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000205_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to John Probert in Pittsfield, Ohio,
+<date when="1864-04-24">
+1864 April 24
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000205_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to John Probert in Pittsfield, Ohio, 1864 April 24</title>
+               <date>1864-04-24</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>3 digital images; 3 pages</extent>
+               <note type="abstract">In this letter, dated April 24, 1864, from John Watkins in Knoxville, Tenn., to John Probert in Pittsfield, Ohio, Watkins describes the measures taken to &quot;strengthen&quot; Knoxville against future Confederate assaults. He says, &quot;by and by it will bother the rebels some to get it if they even try.&quot; He also discusses the poor weather during the spring and says &quot;we have been here long enough.&quot;</note>
+               <note type="collection">The John Watkins Papers, 1864</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e139">
+            <pb n="1" facs="0012_000074_000205_0001.jpg" xml:id="d3e140"/>
+            <p>Knoxville Tennessee April 24th</p>
+            <p>64</p>
+            <p>Friend John</p>
+            <p>Yours of the 10th I received last wednesday morning the 20th at Mossy Creek Station a little while before we left there. we started from there about noon of the same day on the train for this place. our horses came by the wagon road and did not get ehre till the next day. I understand we have been ordered here to get a new outfit or partly new. yesterday the officers turned over the Battery and part of our horses and drew some new horses and were to draw new harness this morning but it has not got up from the cars yet. where will go to next is a mystery to us but most all are willing to go anywhere else than up the railroad. there is some talk of our going towards Chattanooga but I guess that has not been decided upon yet. they keep strengthening this place gradually putting up earthworks</p>
+            <pb n="2" facs="0012_000074_000205_0002.jpg" xml:id="d3e154"/>
+            <p>so that by and by it will bother the rebels some to get if they should even try. and now they are beginning to ship some siege guns here and provisions. they are jest more than fetching them here by the river and railroad depos are filled up and warehouses after warehouses are being filled with all kind of supplies. there is piles of mess pork down on the platform piled up here or there. and any amount of amunition also being stored here, so that we will never be as short of amunition again as we were during the siege. Thursday there was 10-20 pounds parrots rifled pieces. new ones came up on that train from Chattanooga. and there to larger ones coming. well I have about come to the conclusion that I dont care much were we to to we have been here long enough. we have had a very backward spring here. but for the last few days it has been quite warm and I am in hopes it will hold so now for while we were up at the front it was nothing but wind rain and snow</p>
+            <pb n="3" facs="0012_000074_000205_0003.jpg" xml:id="d3e162"/>
+            <p>our Capt got back last night. he made out to recruit 9 men but there has only one got here yet. and I&apos;ll bet he will wish himself out of it before long. I am well and so are Jim and Reid.</p>
+            <p>my respects to all the folks and yourself and family</p>
+            <p>John Watkins</p>
+            <p>direct as usual</p>
+         </div>
+      </body>
+   </text>
+</TEI>

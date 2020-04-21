@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000236_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France to Ellen Smith in Jackson, Tenn., <date when="1918-11-06">1918 Nov. 6</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Gibson, Tika</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000236_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn., 1918 Nov. 6</title>
+          <date when="1918-11-06">1918 Nov. 6</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">Smith Family Papers </note>
+          <note type="manuscript">1303.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Gibson, Tika">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000236_0001.jpg" xml:id="d4e39"/>
+        <p>J.L.Dodds</p>
+        <p>Truck Co # 8-23 Engrs</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000236_0002.jpg" xml:id="d4e53"/>
+        <p>Nov 6 1918</p>
+        <p>Dear Ellen</p>
+        <p>Just recieved a bunch of mail last night with four letters from some old and some new altho I enjoyed them all. This leaves me o.k. and hope you are</p>
+        <p>fine and dondy </p>
+        <p>Well it is trying to rain here to day of course that is nothing unusual for this country.</p>
+        <p>But if this mud get murch deeper I dont know how - I will ever get any where with my truck I was out yesterday and of course I was stuck twice and felt like was lucky them to get by so easy</p>
+        <p>They are still driving the Germans back and I hope they were continues to do so I thank this war is all over but the shouting</p>
+        <pb n="3" facs="0012_001303_000236_0003.jpg" xml:id="d4e69"/>
+        <p>Every body has quit but German and we will make hur quit soon   Say the letter that you and Esther wrote just arrived.</p>
+        <p>I can tell from the way she writes she thank therre is no one like Cecil   Well cant blame hur.</p>
+        <p>I know your was glad to see hur come back. Only wish I could have been there  to take in some of the dances with you.</p>
+        <p>I guess i will have to learn how to dance for has been so long sence I dance any.</p>
+        <p>I will soon be gone a year and seems like at least five</p>
+        <p>How about you?</p>
+        <p>Well I thank will soon come back to U.S.</p>
+        <p>You should be over here with me. I would let you sit in</p>
+        <pb n="4" facs="0012_001303_000236_0004.jpg" xml:id="d4e87"/>
+        <p>a German chair Orr brought them in last night from the front we have chairs table abig mirror and some other things that just a few days ago belong to the Germans</p>
+        <p>If they will just let us tary here long enough we will be fixed up like home. This is some bunch want take a thing that weighs more than a tone I would have liked to been at the fair even if it wasnt good</p>
+        <p>Some say it was good and others say it wasnt, well it doesnt matter I wasnt there I want know the difference long</p>
+        <p>Say I sure was glad to get the picture. make me real hom sick though</p>
+        <p>The boys are all laughing at me about that friend of your</p>
+        <p>they tell me he will have you and gone before I can get back. Well I hope not,</p>
+        <pb n="5" facs="0012_001303_000236_0005.jpg" xml:id="d4e101"/>
+        <p>4</p>
+        <p>Now what do you say about it you know I will have to leave that to you. I am going to believe you will be there when I get back any way.</p>
+        <p>I tell them that Mr Bamon is not the fellow I fear the most.</p>
+        <p>Well you know who the other one is. Far I know how he use to be when I was home.</p>
+        <p>Well I say I will be on the look out for Harold and him sure would like to see them both.</p>
+        <p>But a fellow is lucky when he finds some on like that for their are so many of us soliders over here I would like to tell you where I am but that is out of the question. so can tell you all about it when I get home.</p>
+        <pb n="6" facs="0012_001303_000236_0006.jpg" xml:id="d4e115"/>
+        <p>5</p>
+        <p>So Aunt Annie got married at last. Well I hate to here of that cause I cant keep a check on you so easy.</p>
+        <p>So you are a country girl now will I remember how I use to hate to see you go to the county</p>
+        <p>Well Orr has got the broom and going to sweep out the leave so will have to quit for this time</p>
+        <p>write me real often and tell me all the news you can thank of</p>
+        <p>with love</p>
+        <p>James. L. Dodds</p>
+        <p>Truck company #8 - 23th Enger</p>
+        <p>American Exp Force</p>
+        <p>Via NY.   France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

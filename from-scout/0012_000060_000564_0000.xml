@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000564_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Nellie Alexander Gordon</name>
+ in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1911-01-07">1911 Jan. 7</date>
+            </title>
+            <author>
+               <name type="person">Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000564_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Nellie Alexander Gordon in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1911 Jan. 7</title>
+               <date>1911-01-07</date>
+               <author>
+                  <name>Gordon, A. R. (Andrew Ruthven), Mrs.</name>
+               </author>
+               <extent>10  digital images;  1 envelope, 9 pages.</extent>
+               <note type="abstract">1911 Jan. 7, Nellie Alexander Gordon, Franklin, Tenn., to Elizabeth Ramsey Breck, Knoxville, Tenn. Throws more light upon the Alexander family in early days of the country. Discussion of several books pertaining to Alexander family history and genealogy, with the prices and instructions for ordering them. Offers to send copies of letters concerning their Alexander ancestors. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Genealogy -- Tennessee.</term>
+               <term>Genealogy -- Maryland -- Cecil County.</term>
+               <term>Family -- Research -- History -- Sources.</term>
+               <term>Tennessee -- History.</term>
+               <term>Cecil County (Md.) -- History.</term>
+               <term>Gordon, A. R. (Andrew Ruthven), Mrs. -- Family.</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Family.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000564_0001.jpg" xml:id="d3e155"/>
+            <p>Mrs. E.A.R. Breck</p>
+            <p>Cor. Main &amp; Cumberland Sts.</p>
+            <p>Knoxville</p>
+            <p>Tenn</p>
+            <pb n="2" facs="0012_000060_000564_0002.jpg" xml:id="d3e169"/>
+            <p>Franklin, Tenn.</p>
+            <p>Jan. 7, 1911</p>
+            <p>My dear friend &amp; relative:-</p>
+            <p>I was so much pleased to receive your Christmas card, &amp; that you gave me a thought during the Christmas festivities. Since I last wrote to you, have learned a great deal about our ancestors. It seems that our great-great-grandfather, James Alexander, lived in Cecil Co, Md. &amp; I dont think even went to N.C. His sins John McKnitt, &amp; Hezekiah, &amp; daughter Jemima Sharp were all born in Md. or Penn. &amp; they emigrated to N.C.</p>
+            <pb n="3" facs="0012_000060_000564_0003.jpg" xml:id="d3e183"/>
+            <p>James Alexander was twice married, his first-wife was Margaret McKnitt, a daughter of John McKnitt an attorney in Md. His second wife I think was named Abigail. By his first-wife he had Theophilus, Jemima, Edith, Kiziah, Ezekiel, Hezekiah, Amos, John McKnitt &amp; Margaret. It seems that James Alexander&apos;s people settled first in Del - then went to Md. &amp; Penn. James Alexanders will is recorded at the Court House, in Elkton, Cecil Co. Md. A Mrs. Francis Alexander Butterworth of Chicago, has gotten out</p>
+            <pb n="4" facs="0012_000060_000564_0004.jpg" xml:id="d3e191"/>
+            <p>a book called &quot;A family of the House of Alexander&quot;. In the preparation of this book she visited Md. Va., Penn. N.C. &amp; other places - looked up all the old court records &amp; c. Gen. Alexander Evans of Baltimore, retired army officer, lately deceased, &amp; a decendant of A,os Alexander, gave her the clues to work upon. She says the similarity of names running all through the Alexander family could not be accidental. Her great uncle was James Alexander, &amp; his brothers Amos, Hezekiah &amp; c. <unclear reason="illegible" resp="JR">Man</unclear> our James Alexander must have</p>
+            <pb n="5" facs="0012_000060_000564_0005.jpg" xml:id="d3e202"/>
+            <p>been her great uncle, for he had sons named Amos, &amp; Hezekiah. In the back of her book she has James Alexanders will.</p>
+            <p>A large colony of Alexanders settled in Md. Penn. &amp; Va - In Md. they owned vast estates. She says we are descendants of the Earls of Stirling, so that must account for the crowns upon my tree. A Mrs. Thomas Polk of Jackson a descendant of Jemima Alexander Sharp - sent me a number of letters she had rec&apos;d from Mrs. Butterworth, which I copied, &amp; will send to you for perusal, as soon as they are</p>
+            <pb n="6" facs="0012_000060_000564_0006.jpg" xml:id="d3e212"/>
+            <p>returned to me. Mr. Sharp of Nashville has them now. The finest genealogical library in this country is in Chicago, &amp; one of the letters of Mrs. Butterworth contains data copied from this library about James Alexander our ancestor. I have just purchased one of Mrs. Butterworths books. It contains the Alexander Coat of Arms, pictures of some of the manor houses in Md. old wills &amp; c. I paid $2.00 for it. I have also gotten the History of</p>
+            <p/>
+            <pb n="7" facs="0012_000060_000564_0007.jpg" xml:id="d3e221"/>
+            <p>Mecklenburg Co. N.C. &amp; &quot;Biographical Sketches of the Hopewell Section&quot; written by Dr. John Brenard Alexander. You should have these, for there is so much in them about John McKnitt Alexander.</p>
+            <p>This John Brenard Alexander&apos;s mother was Abbie Caldwell, &amp; his fathers a grandson of John McKnitt Alexander. He is very feeble &amp; blind. His daughter Annie <unclear reason="illegible" resp="JR">Lourie</unclear>Alexander is an M.D. Should you wish these books, write to Dr. J.B. Alexander Charlotte N.C. The History of</p>
+            <pb n="8" facs="0012_000060_000564_0008.jpg" xml:id="d3e234"/>
+            <p>Mecklenburg Co., is $2.25, &amp; the Biographical Sketches of the Hopewell Section is 50 cents. this includes postage on the books.</p>
+            <p>The House of Alexander is 2.00 &amp; is obtained from Mrs. Frances Butterworth 5517 Cornell Avenue, Chicago, Ills.</p>
+            <p>Mrs. Hester Darsey Richardson is getting out some books entitled &quot;Americans of Aristocratic Birth&quot; &amp; is anxious to include the Alexanders if the heirs are sufficiently interested to pay for it. Says she has the</p>
+            <pb n="9" facs="0012_000060_000564_0009.jpg" xml:id="d3e246"/>
+            <p>data of the family back in Scotland &amp; Ireland.</p>
+            <p>Mrs. Butterworths uncle was named Adam Rankin Alexander, &amp; Judge Alexander&apos;s father was also named Adam Rankin Alexander. Isnt it singular how similar the names are.</p>
+            <p>I sent one of Mrs. Butterworths letters to Mr. McClung, last week, &amp; told him to show it to you. I doubt if either of you can read it. Her penmanship is horrible. After many efforts I have at last been able to decipher her writing. If you can not read it, I will copy it for you. Just as soon as Mr. Sharp returns my</p>
+            <pb n="10" facs="0012_000060_000564_0010.jpg" xml:id="d3e258"/>
+            <p>letters will send them to you - for I know they will interest you.</p>
+            <p>Wishing you much happiness, &amp; prosperity for the year 1911.</p>
+            <p>I am</p>
+            <p>Sincerely</p>
+            <p>Nellie Alexander Gordon.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

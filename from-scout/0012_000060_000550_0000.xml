@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000550_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>M.C. Kuretes, M.D.</name>
+ in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1890-06-05">1890 June 5</date>
+            </title>
+            <author>
+               <name type="person">Kuretes, M. C.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000550_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, M.C. Kuretes, M.D. in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1890 June 5</title>
+               <date>1890-06-05</date>
+               <author>
+                  <name>Kuretes, M. C.</name>
+               </author>
+               <extent>3 digital images; 1 envelope, 2 pages.</extent>
+               <note type="abstract">1890 June 5, M.C. Kuretes, M.D., Robert Ramsey&apos;s physician, Huntersville, N.C., to Elizabeth Ramsey Breck, Knoxville, Tenn. At Robert&apos;s request, informs Lizzie that he is near death. Expresses Robert&apos;s appreciation for her financial aid which helped especially with his medical expenses. Assures her that everything possible was done for Robert. States his concern for Robert&apos;s large family which will be left without support. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Terminal care -- Costs.</term>
+               <term>Family size -- Economic aspects.</term>
+               <term>Decedents&apos; family maintenance.</term>
+               <term>Huntersville (N.C.) -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, Robert McGready, 1832-1890 -- Death and burial.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000550_0001.jpg" xml:id="d3e151"/>
+            <p>Mrs E.A.R. Breck</p>
+            <p>Knoxville Tenn</p>
+            <pb n="2" facs="0012_000060_000550_0002.jpg" xml:id="d3e161"/>
+            <p>Huntersville NC</p>
+            <p>June 5th 1890</p>
+            <p>Mrs E.A.R Breck</p>
+            <p>Knoxville Tenn</p>
+            <p>Dear Madam:</p>
+            <p>At the request of your Brother Mr R M Ramsey I write you this note. I am pained to state that he will not remain long with us as I think he is near his last. I have attended him faithfully for the past 12 weeks, and he has asked me to write you and thank you for your favors, as it has added so much to his comfort and assisted me very much in treating his case skillfully. I do not see how I could have kept him up for so long without your assistance</p>
+            <pb n="3" facs="0012_000060_000550_0003.jpg" xml:id="d3e179"/>
+            <p>as I would have had the whole burden to carry which you know would have entailed a heavy expense upon me on account of this circumstance. But Mrs Breck there has not been any thing madam that could have been done and any comfort has been at his hand.</p>
+            <p>I have never attended a patient that I felt such a deep interest in, as he had a large family almost helpless and which was dependent upon him for a support.</p>
+            <p>I will close</p>
+            <p>Yours truly</p>
+            <p>M.C. Kuretes, M.D.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000543_000202_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Writ,
+					<name>John Sevier</name>
+				                    to Sheriff of Washington County, North Carolina <date when="1784">1784</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Caldwell, Chris</name>
+        </respStmt>
+        <author>
+          <name type="person">John Sevier</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000543_000202_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Writ, John Sevier to Sheriff of Washington County, North Carolina 1784</title>
+          <date when="1784">1784</date>
+          <author>
+            <name type="person">John Sevier</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">John Sevier Collection, 1782-1839</note>
+          <note type="manuscript">MS.1941</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Blount, William, 1749-1800</term>
+          <term>Dearborn, Henry, 1751-1829</term>
+          <term>Henley, David, 1749-1823</term>
+          <term>Meigs, Return Jonathan, 1740-1823</term>
+          <term>Overton, John, 1766-1833</term>
+          <term>Governors -- Tennessee.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Caldwell, Chris">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000543_000202_0001.jpg" xml:id="d4e39"/>
+        <p>William Trimble</p>
+        <p>Vs</p>
+        <p>William Hall</p>
+        <p>Writ in Debt</p>
+        <p>To August 1784</p>
+        <p>Fr. 16th July 1784</p>
+        <p>Executed by me to <unclear reason="illegible" resp="CC">jepe</unclear>
+            </p>
+        <p>LeeroyTaylor Bail</p>
+        <pb n="2" facs="0012_000543_000202_0002.jpg" xml:id="d4e59"/>
+        <p>State of North Carolina</p>
+        <p>To the Sheriff of Washington Co</p>
+        <p>We command you to take William Hall planter if in your Bailwick and him Safely keep so that you have him before the Justices of our County Court of pleas and quarter Sessions to be Held on the first Monday in August next then and there to answer William Trimble in a plea of debt damage fifty pounds Specie</p>
+        <p> Herein fail not and Have you there this Writ. Witness John Sevier Clerke of our Said Court at office the first monday in May Anno Domini 1784</p>
+        <p>John Sevier C.C.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

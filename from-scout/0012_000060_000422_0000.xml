@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000422_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> Mamie Ramsey McIver</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. <date when="1874-07-20">1874 July 20</date>
+            </title>
+            <author>
+               <name type="person">McIver, Mamie Ramsey</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000422_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mamie Ramsey McIver in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1874 July 20</title>
+               <date>1874-07-20</date>
+               <author>
+                  <name>McIver, Mamie Ramsey</name>
+               </author>
+               <extent>7  digital images;  7 pages</extent>
+               <note type="abstract">Mamie Ramsey McIver wrote to her uncle, J.G.M. Ramsey, on July 20, 1874. She had seen in the newspaper that her uncle had been injured in an accident. She wished him well. She had originally intended to go to him to care for him, but was unable to because she needed to care for her three children and her husband&apos;s aged aunt. Mamie made reference to historical material to be sent to J.G.M. by the aunt. Mamie also sentimentally mentioned her deceased father, William Baine Alexander Ramsey, and her own and her family&apos;s bereavement at his death. She sent J.G.M. news of family and regards from Mrs. Polk. She sent him a picture of her son and love from her family.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Accidents.</term>
+               <term>Caregivers.</term>
+               <term>Bereavement.</term>
+               <term>Southern States -- History -- Sources.</term>
+               <term>McIver, Mamie Ramsey -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000060_000422_0001.jpg" xml:id="d3e159"/>
+            <p>July 20th 1874</p>
+            <p>My dear Uncle</p>
+            <p>I learned, through this morning &apos;s paper, of the sad accident, which has befallen you, &amp; I hasten to express our deep sympathy for you, &amp; an ernest desire for you speedy recovery. My first impulse was to hasten to see you &amp; with willing hands &amp; loving heart, help nurse you, but such could not be conveniently be the case, for Home duties confine me in the City, during the entire summer, Mrs Graham has been</p>
+            <pb n="2" facs="0012_000060_000422_0002.jpg" xml:id="d3e171"/>
+            <p>quite feeble, for several months, so much so, that a disinclination to attend any Watering Place &quot; for the season, has c aused us to give up our usual move to the Country, My husband feels that his Aunt was left to his care, by her late bus band, May Graham &amp; his first care is for her comfort &amp; pleasure, so we try to while away her tedious hours, by reading &amp; talking to her. The dear old Lady cannot see to read at all, which is a great deprivation but bears up wonderfully, &amp; is </p>
+            <pb n="3" facs="0012_000060_000422_0003.jpg" xml:id="d3e179"/>
+            <p>generally cheerful, says &quot; She is only waiting &apos; Till the shadows, Are a little longer grown, &quot; </p>
+            <p>She received your letter, requesting date &amp; items of interest concerning Maj. G &apos;s life, &amp; was gratified, wrote immediately to Mr. Malcolm Graham, a nephew &amp; will have every-thing ready to hand over to Mr. Nelson before long. Ma left Monday for Winchester, to spend several weeks with a niece of hers, she looks thin, pale &amp; lonely beyond expression, but seems resigned &amp; without one murmuring word goes on with Life &apos; s duties</p>
+            <pb n="4" facs="0012_000060_000422_0004.jpg" xml:id="d3e189"/>
+            <p>as they occur. <unclear reason="illegible" resp="NW">Lis</unclear> Maggie &amp; family are well, I see them every few days, you old friend Mrs. Polk was here last week, inquired very kindly for you &amp; sent her &quot; kindest remembrances. &quot; I would love so dearly to visit Knoxville again, &amp; see you in your own home, but I do not know when such a trip can be taken, as my three children require most of my time, but I do want to show you my boy &amp; let you see that he is deserving the name he bears, </p>
+            <pb n="5" facs="0012_000060_000422_0005.jpg" xml:id="d3e200"/>
+            <p>He already has &quot; Grand-pa &quot; for his <unclear reason="illegible" resp="NW">model</unclear> &amp; brings tears to my eyes by questions, which are hard to answer, Every night as he says his prayer, he asks &quot; must I leave Grand-pa out now Mama, he is where God is &amp; can get every-thing he needs &quot; is nt this sweet comfort. Then my other little Prattler, <unclear reason="illegible" resp="NW">Libera</unclear> will correct any-thing her brother does or says which is wrong by saying &quot; <unclear reason="illegible" resp="NW">Buddu</unclear> don&apos;t you know Grand-pa can hear &amp; see us, &amp; if we do naughty he &apos;ll think we don &apos;t want to come to him. &quot; Thus </p>
+            <pb n="6" facs="0012_000060_000422_0006.jpg" xml:id="d3e217"/>
+            <p>these little ones keep up daily remembrance on one, who loved them while living &amp; I trust watches over them now that he has gone before. But my own heart &quot; still mourns it&apos;s dead idol &quot; &amp; the vacant seat in church, the Eldership with one missing, the vacant chair at the Hearth-stone are each &amp; all painful sights, &amp; on which I try not to look. Well I will stop, my heart gets in my throat &amp; any eyes get blinded so that I am unable to see. All send love, Remember us affectionately to Aunt M &amp; <unclear reason="illegible" resp="NW">coz. </unclear> L. &amp; for your own dear seef recive the deep sympathy, warm love, </p>
+            <pb n="7" facs="0012_000060_000422_0007.jpg" xml:id="d3e228"/>
+            <p>&amp; fervent prayers for your recovery from us all. Good-bye my dear Uncle. God bless you &amp; strengthen you to bear what He has sent upon you prays your devoted niece.</p>
+            <p>Mamie Mc Iver.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

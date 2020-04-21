@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000209_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Perkins, Campbell, and Co.</name>
+				                    in New Orleans, La. to David Burford in Austin, Tex.,<date when="1853-10-25">1853 Oct. 25</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Herbert</name>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Perkins, Campbell, and Co.</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000209_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Perkins, Campbell, and Co. in New Orleans, La. to David Burford in Austin, Tex.,1853 Oct. 25</title>
+          <date when="1853-10-25">1853 Oct. 25</date>
+          <author>
+            <name type="person">Perkins, Campbell, and Co.</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Herbert">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e40">
+        <pb n="1" facs="0012_000117_000209_0001.jpg" xml:id="d4e41"/>
+        <p>David Burford.</p>
+        <p>Austin.</p>
+        <p>Texas.</p>
+        <p>Jenkins, Campbell &amp; Co</p>
+        <p>Acpt. <unclear reason="illegible" resp="JCM">Ceuant</unclear>in full</p>
+        <p>up to 30th Oct 1853</p>
+        <pb n="2" facs="0012_000117_000209_0002.jpg" xml:id="d4e58"/>
+        <p>Mail</p>
+        <p>
+          <unclear reason="illegible" resp="JCM">1 Eve</unclear>
+        </p>
+        <p>New Orleans, Octover 25th 1853.</p>
+        <p>Col. David Burford</p>
+        <p>Austin Texas</p>
+        <p>Dear Sir,</p>
+        <p>We received  yesterday yours of 17th sent from Nashville accompanied by one from W.G. <unclear reason="illegible" resp="PW">Shepard</unclear>Co. Covering this check on Canal Bank for $1500.00 Fifteen hundred Dollars for your credit as shown in the enclosed statement of your account Current which we send at your request.</p>
+        <p>It is made up with interest to 16th November 1853 exhibiting a balance due you as that date of $6,836.60 (Six thousand eight hundred thirty six  60/100 Dollars, which, with accruing interest after that time) is subject  to your drafts at one day after sight divided in sum to suit your convenience in  selling as in One. The prevalance of an epidemic at the time the $5,000. was sent &amp; for a month after prevented us from making an investment satisfactory to ourselves, but had your letter been a day or two later it would have been invested as we were yesterday called upon with  a note we had agreed to buy for you @ 8% some ten days ago for the even sum of 5000.00.</p>
+        <p>We held on <unclear reason="illegible" resp="PW">ys ofc</unclear>the note of Littlejohn <unclear reason="illegible" resp="PW">M</unclear>due 19 June 1834  amounting with interest to that date $1512.00. <unclear reason="illegible" resp="PW">Cjm</unclear>Jenkins, Campbell&amp; Co.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

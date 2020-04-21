@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002414_000338_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>Letter, Pettit &amp; Bayard</name> in Trenton, N.J. to Joseph Ball, Germantown, Pa.,
+					<date when="1798-09-04"> 1798 Sept. 4</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hutson, Aaron</name>
+            </respStmt>
+            <author>
+               <name type="person">Letter, Pettit &amp; Bayard</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_002414_000338_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Letter, Pettit &amp; Bayard in Trenton, N.J. to Joseph Ball, Germantown, Pa., 1798 Sept. 4</title>
+               <date when="1798-09-04"> 1798 Sept. 4</date>
+               <author>
+                  <name type="person">Letter, Pettit &amp; Bayard</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">Insurance Company of North America Records, 1792 December 1 - 1843 February 18</note>
+               <note type="manuscript">MS.1184</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Adams, John Quincy, 1767-1848</term>
+               <term>Insurance Company of North America.</term>
+               <term>Madison, James, 1751-1836</term>
+               <term>Morris, Robert, 1734-1806</term>
+               <term>Webster, Daniel, 1782-1852</term>
+               <term>Insurance companies -- United States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="0012_002414_000338_0001.jpg" xml:id="d4e39"/>
+            <p>Joseph Ball Esquire</p>
+            <p>President of the Ins. Company of North America</p>
+            <p>Germantown</p>
+            <p>Trenton Sept 4, 1798</p>
+            <p>Pettit &amp; Bayard</p>
+            <p> requesting Renewal</p>
+            <p>of note for 1001..50</p>
+            <pb n="2" facs="0012_002414_000338_0002.jpg" xml:id="d4e55"/>
+            <p>Trenton Sept. 4th 1798</p>
+            <p>Joseph Ball Esq - </p>
+            <p>Sir</p>
+            <p>We have just received a Notice from the Bank of Pennsa. for 1001 50/100 Doll. which we presume must be for a note given to your office - as we have no memorandum of it with us, not having our Note Book at hand- As our A P expects to be at Germantown on Saturday or Monday we must beg the favor of you to withdraw it from the Bank &amp; accomodate us with a removal of it fro the present as it will not be in our power at so short a notice to meet the payment at this juncture</p>
+            <p>We are Sir</p>
+            <p>Your most hu. Servt.</p>
+            <p>Pettit &amp; Bayard</p>
+            <p>1001.50</p>
+            <p>67</p>
+            <p>10.67</p>
+            <p>1012:17</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000460_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1880-03-18">1880 March 18</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Veve, Marielle</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000460_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Aug. 12</title>
+               <date>1880-08-12</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>3  digital images;  1 envelope, 2 p.</extent>
+               <note type="abstract">1880 Aug. 12 Lyman C. Draper, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Presents evidence showing that very few Tennesseans were at the Cowpens. Believes that only four Tennesseans took part and these were volunteers. Mentions that a sketch of the writer&apos;s life has just been written. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Cowpens, Battle of, Cowpens, S.C., 1781.</term>
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>Tennessee -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>United States -- History -- Revolution, 1775-1783 -- Sources.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</term>
+               <term>Graham, James. Life of General Daniel Morgan.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000060_000460_0001.jpg" xml:id="d3e153"/>
+            <p>City Treasurer&apos;s Office,</p>
+            <p>Anson Nelson,</p>
+            <p>City Treasurer.</p>
+            <p>Nashville, March 18, 1880</p>
+            <p>Dear Dr. Ramsey:</p>
+            <p>I forgot to state, in my late letters, that I would see Judge Guild and urge him to invite Hon. Lyman C. Draper, of Madison, Wisconsin, to come to our Centennial. Further, that I will answer any letter written me by Mr. Draper.</p>
+            <p>Two, three or four years ago, Mr. Draper wrote to me for some information on regard to some one in Maury County. I handed the letter to Dr. W.A. Smith, of Columbia, a member of the Society, with</p>
+            <pb n="2" facs="0012_000060_000460_0002.jpg" xml:id="d3e173"/>
+            <p>a regard to him to reply. He said he would, and I suppose did, but I never knew.</p>
+            <p>So I did not answer, and not having the letter, could not do so, for I could not remember what he wrote about.</p>
+            <p>I find it difficult to see Judge Guild, as I was unfortunate in not finding him in his office when I call.</p>
+            <p>With very high regard, and with the love of Mrs. Nelson and myself, </p>
+            <p>I remain yours,</p>
+            <p>Very Truly,</p>
+            <p>Anson Nelson.</p>
+            <pb n="3" facs="0012_000060_000460_0003.jpg" xml:id="d3e193"/>
+            <p>City Treasurer&apos;s Office,</p>
+            <p>Anson Nelson,</p>
+            <p>City Treasurer.</p>
+            <p>Nashville, March 18, 1880</p>
+            <p>(Private).</p>
+            <p>Dr. E.L. Drake, now of this city, formerly of Fayetteville is disposed to work on your School History if necessary, and supervise its publication. He ca do any additional writing necessary. He has no money to advance towards its publication, and it may be that capital will be necessary.</p>
+            <p>But I have talked with him about it once or twice, and he seems disposed to go to work on it, if he can be remunerated for his labor</p>
+            <pb n="4" facs="0012_000060_000460_0004.jpg" xml:id="d3e213"/>
+            <p>and at the same time see you remunerated. He has talked to Col. Trousdale, the Superintendent of Public Instruction, and he says he will do all he can to have it introduced into all public schools of the State, if it is printed.</p>
+            <p>I would be glad for you to write to Dr. Drake or to me in relation to the matter.</p>
+            <p>Very Respectfully</p>
+            <p>Anson Nelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

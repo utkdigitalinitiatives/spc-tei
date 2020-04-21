@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000250_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James Dodds</name>
+				                    in France to Ellen Smith in Jackson, Tenn.,<date when="1919-06-02">1919 June 2</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000250_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James Dodds in France to Ellen Smith in Jackson, Tenn.,1919 June 2</title>
+          <date when="1919-06-02">1919 June 2</date>
+          <author>
+            <name type="person">James Dodds</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000250_0001.jpg" xml:id="d4e39"/>
+        <p>James L. Dodds</p>
+        <p>T. Co # 8=23rd Engis</p>
+        <p>Amex Exp Forces</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000250_0002.jpg" xml:id="d4e57"/>
+        <p>IS-Sun-Tille</p>
+        <p>France</p>
+        <p>Juen 2-1919</p>
+        <p>Dear Ellen:</p>
+        <p>I received a letter from you last week and as usual was glad to here from you  I have moved from Langres to this place since I wrote you last</p>
+        <p>Have been here three days expect to leave tomorrow for Le Mans. We are at last getting ready to start home.</p>
+        <p>Have turned in all of our trucks. So I guess the next thing I will be drilling  Well I sure will hate to see</p>
+        <pb n="1" facs="0012_001303_000250_0003.jpg" xml:id="d4e73"/>
+        <p>that for I do hate drill  But if I have to do it to get home here goes.</p>
+        <p>I guess we will be over here at least three weeks yet. I dont know how long will be in Le Mans but when we leave thair will go to Brest, for boat will have to stay in Brest a week or ten days waiting for boat</p>
+        <p>Well it is to hard for me to figure so will stop  I will be discharged at Fort Oglethorp Ga.</p>
+        <p>Think will stay of in Nashville a day to see some of may peoples Then will head for Jaxon in a hurry.</p>
+        <pb n="2" facs="0012_001303_000250_0004.jpg" xml:id="d4e83"/>
+        <p>I will tell you the French that is in that letter as soon as get home</p>
+        <p>No thair isnt a Chance of me bringing a French bride back with me. Ask Linn he will tell you what most of the Amex boys think of the French Girls</p>
+        <p>Well I have run out of news for this time  Hope to See you Soon</p>
+        <p>with lots of love</p>
+        <p>James L.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

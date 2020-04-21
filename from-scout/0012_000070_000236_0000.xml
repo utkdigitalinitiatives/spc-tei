@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000236_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Scruggs, William L. </name>
+in Chattanooga, Tenn. to O.P. Temple in Knoxville, Tenn.,
+<date when="1862-01-11">
+1862 January 11
+</date>
+            </title>
+            <author>
+               <name type="person">Scruggs, William L.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000236_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William L. Scruggs in Chattanooga, Tenn. to O.P. Temple in Knoxville, Tenn., 1862 January 11</title>
+               <date>1862-01-11</date>
+               <author>
+                  <name>Scruggs, William L.</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">In this letter, dated January 11, 1862, William L. Scruggs in Chattanooga, Tenn. writes to O.P. Temple in Knoxville, Tenn., asking for Temple&apos;s influence with Colonel Baxter. Scruggs wishes to &quot;build up&quot; a newspaper in Knoxville, which he sees as a &quot;favorable&quot; location. He states that &quot;Chattanooga will never be able to sustain a first class Daily Press.&quot;</note>
+               <note type="collection">The O.P. Temple Papers, 1862</note>
+               <note type="manuscript">MS.21</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Newspaper editors -- Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+               <term>Newspapers -- Ownership -- History -- Civil War, 1861-1865.</term>
+               <term>American newspapers -- Political aspects -- Tennessee -- Knoxville -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>Scruggs, William L. -- Correspondence.</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e156">
+            <pb n="1" facs="0012_000070_000236_0001.jpg" xml:id="d3e157"/>
+            <p>(Private)</p>
+            <p>Chattanooga, Tenn</p>
+            <p>Jan 11th &apos;62</p>
+            <p>Col O.P. Temple:</p>
+            <p>Dear Sir,</p>
+            <p>I will pass through Knoxville one day next week, probably Tuesday or Wednesday, &amp; would be pleased to hear from Col Baxter by that time in relation to his Printing Office. I address you because I understand him to be an intimate friend of yours, &amp; because my personal acquaintance with Col B is more limited than with yourself. I am anxious to locate in Knoxville, because, in the first place, it is near my mothers family, now rendered lonely by the volunteering of my younger brother, &amp; because it is in a vicinity where I am extensively acquainted. In the next place, I have chosen the editorial profession for life, &amp; consider Knoxville a favorable point to build up a good newspaper. May I, therefore, ask your influence on my behalf with Col Baxter? Two other positions of a similar character have been offered me: one in this state, the other in Augusta Ga: I prefer Knoxville to either, &amp; am only waiting on Col B. for a specific answer. Convinced as I am that Chattanooga will never be able to sustain a first class Daily Press, I have fully determined to sever my connection with the business in this place. Mr Hill has joined the army, &amp; should I come to Knoxville, think it more than probable there would be no paper published here, or I would bring most of the G &amp; A patronage with me -- owing to my indisposition during the present week, Mr Hill has been writing for the paper, which is his first labor in our columns for months past. In the hope of hearing from you soon</p>
+            <p>I remain <unclear reason="Illegible word." resp="J.H.">ys truly</unclear> &amp;c.</p>
+            <p>Wm L. Scruggs</p>
+            <pb n="2" facs="0012_000070_000236_0002.jpg" xml:id="d3e183"/>
+            <p>Wm L Scruggs</p>
+            <p>A Jan&apos;y 11/62</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000218_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Camp Dick Robinson, Ky., to Caroline M. Brown<date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000218_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Camp Dick Robinson, Ky., to Caroline M. Brown</title>
+          <date>undated</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000599_000218_0001.jpg" xml:id="d4e38"/>
+        <p>14</p>
+        <p>Camp Dick Robison Kentuckey</p>
+        <p>I just thought about a little <unclear reason="illegible" resp="LW">Tolly</unclear>
+               <unclear reason="illegible" resp="LW">forcation</unclear> that the officers Had last tuesday night they Had A supper that cost them From 50 to a 100 dollars they Had what the calld a ball in camp they built A shanty about 30 feet long and they coverd it with tenting and had a nice dance among them selves I tell you</p>
+        <pb n="2" facs="0012_000599_000218_0002.jpg" xml:id="d4e51"/>
+        <p>And the Chaplain Held meeting at his tent the same night to keep Peace in camp they had About 24 ladys i heard At the dance there was several kentuckeans here I was not out of the guards lines that night i was laing in my tent reading A news very quiet i was verry fraid that it will be a bad mark on the 31 Regment i hope that it will not be the case but still i am afraid it will for <unclear reason="illegible" resp="LW">Re</unclear>
+            </p>
+        <pb n="3" facs="0012_000599_000218_0003.jpg" xml:id="d4e57"/>
+        <p>my candle is agetting very short i will have to bring my letter to a close by saying I still remain your Affectionate so good By to night Write soon</p>
+        <p>Remember me when this you see tho many miles we separate be Direct your letter to Camp Dick Robinson Ky</p>
+        <pb n="4" facs="0012_000599_000218_0004.jpg" xml:id="d4e63"/>
+        <p>31 Regt Company A</p>
+        <p>In care of M. B. Walker</p>
+        <p>O.V.M</p>
+      </div>
+    </body>
+  </text>
+</TEI>

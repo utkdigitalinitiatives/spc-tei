@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000222_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Laura Maynard</name>
+				                    in Knoxville, Tenn, to Hon. George S. Hillard <date when="1860-11-16">1860 Nov. 16</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">Laura Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000222_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Laura Maynard in Knoxville, Tenn, to Hon. George S. Hillard 1860 Nov. 16</title>
+          <date when="1860-11-16">1860 Nov. 16</date>
+          <author>
+            <name type="person">Laura Maynard</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.0415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001519_000222_0001.jpg" xml:id="d4e39"/>
+        <p>Knoxville. Nov. 16. 1860.</p>
+        <p>Hon. George S. Hillard</p>
+        <p>Dear Sir,</p>
+        <p>I wrote, the other day, to Mr. Laut giving my apprehensions of the present state of public affairs. Returning home, last night from a court in an adjoining county I found a pile of Northern papers, which I have read with a painful interest, &amp; none of them with  more, than the last two <unclear reason="illegible" resp="JCM">Nos.</unclear> of the Courier.</p>
+        <p>It is manifest that you in the North, have no <unclear reason="illegible" resp="JCM">jest</unclear> of conception of the state of things in the South. Possibly you may recollect that when I was with you, I urged you to give every possible vote against Lincoln, so that if he were not defeated, if (the vote) would be an arguement against the disunionists, who, I was satisfied would rally in that event. My worst fears are more than realized.</p>
+        <p>You ought to know that in the gulf or cotton states, there has been for years a large number of educated &amp; pretty influential men who have been laboring to effect a dispolution of the union as a result in their opinion, <unclear reason="illegible" resp="JCM">evivently desirable</unclear> to those states. Their great</p>
+        <pb n="2" facs="0012_001519_000222_0002.jpg" xml:id="d4e62"/>
+        <p>difficulty has been to bring the people to their way of thinking. To accomplish this result, they have been most diligent using every means, in the language of Mr. Gauley's Slaughter Letters "To fire the Sourthern heart &amp; instruct the Southern mind." the Republican Party was a God send to them. John Brown &amp; Helper most efficient co-workers. by their efforts the Democratic Party was disrupted, as the Whig Party was, &amp; as the American Party was crushed out. All summer long, they have proclaimed the election of Lincoln, sufficient cause for disunion, &amp; have labored, indirectly, to effect that object, believing that they would be able to make it in the popular estimation the <unclear reason="illegible" resp="JCM">casus</unclear> of the catastrophe.</p>
+        <p>They are now most busily at work, to accomplish their long desired purpose. At the North you say "how are they going to set about it"? Easily enough, with a majority of the people on their side. A Resolution, in the nature of a Declaration of Independence - a <unclear reason="illegible" resp="JCM">Conceation</unclear> to form a Constitution the election of Officers under it - &amp; it is done. And once done, always done. there will be no re-union.</p>
+        <p>Any attempt at coercion will be madleys</p>
+        <pb n="3" facs="0012_001519_000222_0003.jpg" xml:id="d4e76"/>
+        <p>&amp; wickidays. Every man in the South is a soldier &amp; even the negros would fight as they did in the Revolutionary  I see it suggested that the government might blockade the Southern ports. The South would be a government de facto &amp; as such, would be recognized by the other Powers, who would hail the strife with joy. Of course, their <unclear reason="illegible" resp="JCM">befsels</unclear> being neutral would not be excluded, &amp; if attempted, you have war with England &amp; France. It is, also, asked where she would get her revenue? An export duty on cotton would supply it; &amp; a discrimiation in favor of foreign <unclear reason="illegible" resp="JCM">bottoms,</unclear> would be a hard blow to our Northern commerce &amp; manufactures. Imports free, would require a <unclear reason="illegible" resp="JCM">cordon</unclear> of custom Houses from ocean to ocean, to prevent the whole Northern &amp; Northwestern protion of the government being supplied with foreign merchandise from the South.</p>
+        <p>In the event of recession, I feel certain that Tennessee would join the South, also N. Carolina, Missouri, Kentucky, &amp; Virginia probably would not at present. But <unclear reason="illegible" resp="JCM">unlys petted as the eufaus gatis</unclear> of the government, &amp; all their humors gratified they would at any moment leave &amp; join the South.</p>
+        <pb n="4" facs="0012_001519_000222_0004.jpg" xml:id="d4e94"/>
+        <p>Now, this is the fight that the Union men of the South have on hand. And what are our Northern friends doing for us? Why, trying to persuade us that Republicanism, in the person of Mr. Lincoln is not so bad a thing, after all, &amp; in the same breath, speaking of the recession movements as mere temporary ebullitions of disappointment as a political defeat. If we ever had any sympathizers among your readers, this sort of writing would seem quiet likely to abate their interest in our struggles. It is, also, intimated that some of our men will have places in the new <unclear reason="illegible" resp="JCM">Cabinet</unclear> God forbid! Do you suppose we could fight disunion, with our leaders held as hostages in the camp of the common enemy? The charge that we are in sympathy with that party, has already cost us thousands of votes, all over the South. With Mr. Bill or Mr. Ribes in Lincoln's Cabinet, we should, at once, be <unclear reason="illegible" resp="JCM">assimilated</unclear> to the tories of the Revolution, &amp; crushed out without mercy.</p>
+        <p>I <unclear reason="illegible" resp="JCM">coufys</unclear> to a most grievous disappointment at the Northern vote. True, you have beaten Burlingame, the pet monkey of the Abolitionism, but you have also beaten Thayer, because he would not go all lengths of his party; &amp; have elected a Govenor of the Garrison-</p>
+        <pb n="5" facs="0012_001519_000222_0005.jpg" xml:id="d4e109"/>
+        <p>Phillips - Parker school of Abolitionists - while the state is hopelessly going to the Republicans. New York has done even worse. New Jersey has defeated Gov. Pennington, but he was the least obnoxious of his party. This is a very poor showing of conservatism North, for us to appeal to, when we beg our people to pause before final action.</p>
+        <p>There, the defiant, juring town of the Republican press, in keeping with the spirit of taunt &amp; insult that has characterized a portion of the Northern parpers, for many years, whenever they have spoken of the South &amp; her people, is a perpetual annoyance to us. These paragraphs thrown into our faces, as we appeal to our people to wait for the action of the new administration before we take ground, till against us, tremendously. Now they have conquired us, why, in Heaven's name, can they not be discreet, if not magnanimous?</p>
+        <p>The truit is, that there is one very prominent element of Southern character, which Northern people generally can neither appreciate nor understand, simply because they do not have it themselves - I mean the sense of honor, I have no better word for it, &amp; yet</p>
+        <pb n="6" facs="0012_001519_000222_0006.jpg" xml:id="d4e117"/>
+        <p>it will hardly convey the exact idea - perhaps sensibility to insult will do better. This is unfortunate in two respects - it leads them to submit to insults to the disparagement of their own character in the estimation of Southern people, &amp; it does not restrain them from giving gross &amp; wanton insults, which, without doing any good, are more offensive than positive injuries.</p>
+        <p>but I  must beg your pardon for this long letter. I have almost lost the use of the pen &amp; have written it with infinite difficulty - &amp; only because I am greatly troubled at the gloomy prospect before us. As a nation, I fear our days are numbered.</p>
+        <p>Dii prohibite minas -</p>
+        <p>I am truly Yours,</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000203_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in LaGrange, Tenn. to Mrs. W. R. Hackley in ILL, <date when="1864-01-22">1864 Jan. 22</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000203_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in LaGrange, Tenn. to Mrs. W. R. Hackley in ILL, 1864 Jan. 22</title>
+               <date when="1864-01-22">1864 Jan. 22</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>2 pages</extent>
+               <note type="collection">William Randolf Hackley Letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000203_0001.jpg" xml:id="d4e39"/>
+            <p>LaGrange Jany 22 1864</p>
+            <p>My dear wife</p>
+            <p>Yesterday I sent by express a box containing two Photographic albums one for Hattie and the other for Charlie they must determine which one each is to have there being only a slight difference in the colour - I sent several Photographs, in them of myself one for each ofthe girls. today I wrote Sister Maria and sent her one and also to Martha and sent one to her I will send you some more by <unclear reason="illegible" resp="JCM">degrees.</unclear> I have had 12 taken for $5,00 you may send one to Key <unclear reason="illegible" resp="JCM">Unit</unclear> if you please. There is considerable talk of giving up this place as a trading Port which will be back for <unclear reason="illegible" resp="JCM">Mr as I in</unclear> that care wil lhave to lookout for some thing else to do I hope however that it will not be abandoned as I want to remain here but the state of affairs is so unsettled that one cannot tell what a day may bring forth - so let us hope for the best, the 150. dollars I sent you was for a <unclear reason="illegible" resp="JCM">few</unclear> I have not drawn any of my salary as yet not having been to Memphis since the <unclear reason="illegible" resp="JCM">bid was done</unclear> nor do I expect to go untill</p>
+            <pb n="2" facs="0012_000298_000203_0002.jpg" xml:id="d4e62"/>
+            <p>first of February. The last few days we have had pleasant weather for the <unclear reason="illegible" resp="JCM">frost is undo</unclear> of the ground and the sun is like a <unclear reason="illegible" resp="JCM">fiery</unclear> I hope I may be able to have you here before another winter The Mocking birds are flying about but not singing there are numbers that <unclear reason="illegible" resp="JCM">head</unclear> here every summer and I will try and get some next spring you may give Bill the Boots. Mack <unclear reason="illegible" resp="JCM">repaired</unclear> as I had had two pair given me - give him all my corduroy pants and any other you may think fit. I have got another Muffler <unclear reason="illegible" resp="JCM">so</unclear> that you can make a muff out of the one I left my darling I hope the <unclear reason="illegible" resp="JCM">dancing there</unclear> was a good one and <unclear reason="illegible" resp="JCM">thaned</unclear> you all out you dont know how much I thought of you in the cold weather and fear that you suffered more than you tell me. I will make this short and send another picture - kiss all my children for me - Tell Perigo that I will unto for him as soon as things are settled</p>
+            <p>Your aff husband</p>
+            <p>W R Hackley</p>
+            <p>Mrs. W. R. Hackely</p>
+            <p>
+               <unclear reason="illegible" resp="JCM">Iuhut</unclear> Ills.</p>
+            <p>Get Bill a pair of shoes in <unclear reason="illegible" resp="JCM">lieu</unclear> of the Boots</p>
+         </div>
+      </body>
+   </text>
+</TEI>

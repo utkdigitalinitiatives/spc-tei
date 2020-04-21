@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000502_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deed of Conveyance,
+<name>M.J. McKnitt</name>
+ to M.B.L. Ramsey.<date when="1882-10-02">1882 October 2</date>
+            </title>
+            <author>
+               <name type="person">Knitt, J.M. (fl.1828)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000502_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Deed of Conveyance, M.J. McKnitt to M.B.C. Ramsey. 1882 October 2</title>
+               <date>1882-10-02</date>
+               <author>
+                  <name>Knitt, J.M. (fl.1828)</name>
+               </author>
+               <extent>4 digital images; 4 p.</extent>
+               <note type="abstract">1882 October 2 Deed of Conveyance from M. J. McKnitt to M. B. C. Ramsey.
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Conveyancing -- Tennessee -- Knoxville.</term>
+               <term>Land titles -- Registration and transfer -- Tennessee -- Knoxville.</term>
+               <term>Real property -- Boundaries -- Tennessee -- Knoxville.</term>
+               <term> Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, M. J. C. (Margaret Jane Crozier), 1827-1885.</term>
+               <term>Ramsey, M. B. C. (Margaret Barton Crozier), 1802-1889.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000502_0001.jpg" xml:id="d3e152"/>
+            <p>Deed of Conveyance</p>
+            <p>M.J. McKnitt</p>
+            <p>To</p>
+            <p>M.B.C. Ramsey</p>
+            <p>Register&apos;s Office</p>
+            <p>State of Tennessee,</p>
+            <p>Knox County.</p>
+            <p>Received for Record the 2d day</p>
+            <p>of October A.D. 1882</p>
+            <p>at 11 1/2 o&apos;clock A.M. and recorded in</p>
+            <p>Book X Vol 3d Page 192 &amp; 3</p>
+            <p>Noted in Note Book &quot;B&quot; Page 198</p>
+            <p>Fee $1.25 Paid</p>
+            <p>A.R. Carter</p>
+            <p>Register.</p>
+            <pb n="2" facs="0012_000060_000502_0002.jpg" xml:id="d3e189"/>
+            <p>This Indenture made this 2nd day of October 1882 by &amp; between M.J. McKnitt the party of the first part and her mother, M.B.C. Ramsey, the party of the second part witnesseth:</p>
+            <p>That the said first party, in consideration of the matters herein of the mentioned, hath this day bargained and sold, conveyed &amp; confirmed unto the said second party, her heirs &amp; assigns, <unclear reason="illegible" resp="JR">foreon</unclear>, that certain lot or parcel of land situate, lying &amp; being in the City of Knoxville Tennessee, in the Eastern part thereof on the West Side of the continuation of Main &amp; Cumberland Streets, &amp; just opposite the residence of Mel. H. Dickson, lately purchased by him of Maj. T. S. Webb, <unclear reason="illegible" resp="JR">&amp; bounder</unclear> as follows: On the East by said Main (or Cumberland) Street, on the West by the continuation of Pine Street, on the North by the Meek property &amp; on the South by the Anderson property, being the house lot where said first party now resides.</p>
+            <p>to have &amp; to hold said premises to the said second party her heirs &amp; assigns forever in <unclear reason="illegible" resp="JR">for scriple --</unclear>
+            </p>
+            <p>And the first party <unclear reason="illegible" resp="JR">covents</unclear> with said second party that she is well &amp; Truly <unclear reason="illegible" resp="JR"> signed</unclear> of said premises <unclear reason="illegible" resp="JR">infer</unclear>, &amp; has a good right</p>
+            <pb n="3" facs="0012_000060_000502_0003.jpg" xml:id="d3e220"/>
+            <p>to convey the same; that the <unclear reason="illegible" resp="JR">someone was</unclear>encumbered &amp; that the title of the same she will forever warrant &amp; defend against the lawful claims of all persons whomsoever.</p>
+            <p>But this conveyance is on condition only as follows:</p>
+            <p>The said first party is indebted to the said second party in the sum of Three Hundred Dollars ($300.) &amp; interest thereon, evidenced by a note, the exact date of which is not now remembered, the note not being present at the drafting of this deed, which was given for borrowed money about four years ago, &amp; the said first party is desirous of securing the payment of said note &amp; interest.</p>
+            <p>Now then if at the end of Twelve months from this date, she shall well &amp; truly pay said note &amp; redeemed interest thereon, then this deed is to be void &amp; of no effect &amp; is to be delivered up &amp; cancelled: Otherwise it is to remain a full force &amp; effect as security for said debt.</p>
+            <p>Witness the hand &amp; seal of the said first party this day &amp; year above written --</p>
+            <p>M.J. McKnitt seal</p>
+            <pb n="4" facs="0012_000060_000502_0004.jpg" xml:id="d3e241"/>
+            <p>State of Tennessee, Knox County.</p>
+            <p>Personally Appeared before me, J.F.J. Lewis Clerk of the County Court of said County Mrs M.J. McKnitt the within named Bargainor with whom I am personally acquainted and who acknowledged that she executed the within instrument for the purposes therein contained.</p>
+            <p>Witness, my hand at office in Knoxville, this 2nd day of Oct 1882</p>
+            <p>J.F.J. Lewis</p>
+         </div>
+      </body>
+   </text>
+</TEI>

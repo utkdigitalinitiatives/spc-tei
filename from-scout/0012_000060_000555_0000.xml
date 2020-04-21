@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000555_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mrs. Oscar Barthold</name>
+ in Weatherford, Texas, to Elizabeth Ramsey Breck in Knoxville, Tenn.<date when="1902-11-17">1902 Nov. 17</date>
+            </title>
+            <author>
+               <name type="person">Barthold, Oscar, Mrs.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000555_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mrs. Oscar Barthold in Weatherford, Texas, to Elizabeth Ramsey Breck in Knoxville, Tenn. 1902 Nov. 17</title>
+               <date>1902-11-17</date>
+               <author>
+                  <name>Barthold, Oscar, Mrs.</name>
+               </author>
+               <extent>3 digital images; 3 pages.</extent>
+               <note type="abstract">1902 Nov. 17, Mrs. Oscar Barthold, Weatherford, Texas, to Elizabeth Ramsey Breck, Knoxville, Tenn. Requests a copy of the family Bible record. Speaks of her growing interest in her Alexander ancestors and in Dr. Ramsey. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Bible records -- Tennessee -- Knoxville.</term>
+               <term>Knoxville (Tenn.) -- History -- 20th century.</term>
+               <term>Tennessee -- History -- 20th century.</term>
+               <term>Alexander, John McKnitt, 1733-1817 -- Family.   </term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000555_0001.jpg" xml:id="d3e151"/>
+            <p>Weatherford, Texas</p>
+            <p>Nov. 17th 1902</p>
+            <p>Mrs. Lizzie Breck</p>
+            <p>Knoxville Tenn</p>
+            <p>Dear Madam -</p>
+            <p>I hope you will not think me presumptuous in troubling you again about my questions along the Alexander line. You will doubtless remember my visit to you</p>
+            <pb n="2" facs="0012_000060_000555_0002.jpg" xml:id="d3e169"/>
+
+<p>in regard to John McKnitt Alexander; - You spoke of the family bible record I am very desirous of a copy of said record remembering how smart and kind you were to me I make bold my request for a copy as it will be of great value to me the man I </p>
+<pb n="3" facs="0012_000060_000555_0003.jpg" xml:id="d3e176"/>
+            <p>read and know of your illustrious father the man I wish to know.</p>
+            <p>Hoping you are enjoying excellent health, and thanking you in advance for said information</p>
+            <p>I am Very Truly Yours</p>
+            <p>Mrs. Oscar Barthold</p>
+            <p>#802 Waco St</p>
+            <p>Weatherford, Texas</p>
+         </div>
+      </body>
+   </text>
+</TEI>

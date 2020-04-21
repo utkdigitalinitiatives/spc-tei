@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000092_000215_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Southgate Cregmile</name>
+ in Chattanooga, Tenn., to Crittenden Cregmile, <date when="1864-01-17">1864 January 17</date>
+            </title>
+            <author>
+               <name type="person">Cregmile, Southgate, 1843-1865</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000092_000215_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Southgate Cregmile in Chattanooga, Tenn. to Crittenden Cregmile, 1864, January 17</title>
+               <date>1864-01-17</date>
+               <author>
+                  <name>Cregmile, Southgate, 1843-1865</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1864 January 17 Southgate Cregmile in Chattanooga, Tenn., to his brother Crittenden. Acknowledges receipt of his letter and assures him that he and all the hometown boys are doing well. Even though it is very cold, railroad cars are running well and often; thus, rations are plentiful and his newspaper is arriving. Mentions that many soldiers there are enrolling in veterans services and going on furlough. Smaller Companies have less impact and are not leaving. Tells of one of the Regiment commanders getting married while on furlough. Asks him to write soon.</note>
+               <note type="collection">The Southgate Cregmile Letters, 1862-1865</note>
+               <note type="manuscript">MS.1497</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Military camps -- Tennessee -- Chattanooga -- History -- 19th century -- Social aspects.</term>
+               <term>Soldiers -- Tennessee -- Chattanooga -- 19th century -- Correspondence.</term>
+               <term>Veterans -- Services for -- United States -- History -- 19th century.</term>
+               <term>Chattanooga (Tenn.) -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Cregmile, Southgate, 1843-1865 -- Correspondence.</term>
+               <term>Cregmile, Crittenden, 1845- -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e158">
+            <pb n="1" facs="0012_000092_000215_0001.jpg" xml:id="d3e159"/>
+            <p>Chattanooga Tenn</p>
+            <p>Jan 17th 1864</p>
+            <p>Brother crit</p>
+            <p>I received your letter longe a go and so I thought I woulde rite you a few lines to let you know how things are going on at Chattanooga.</p>
+            <p>all the Reily Boys <unclear reason="illegible" resp="NW">are</unclear>well at presant.</p>
+            <p>the weather has been very cold here this winter but no snow of any a count. </p>
+            <p>the best thing that has happened herefar</p>
+            <pb n="2" facs="0012_000092_000215_0002.jpg" xml:id="d3e182"/>
+            <p>for a longe time was the cars runing in to town the 14th of this month so we look for full rashions now and a nother think is I will get the Daily Gazette more regular than it has been coming. there are a good many of the regt here reenlisting in the veterans sirves. and going home on furluo but our regt <unclear reason="illegible" resp="NW">doent pitch</unclear>in vary stronge there are ten in Co E ten in Co B and the rest of the Company is under ten. </p>
+            <p>Capt Moor has got <unclear reason="illegible" resp="NW">merries</unclear> sence he has been home on furlow. no more this time rite soon </p>
+            <p>S. Cregmile</p>
+         </div>
+      </body>
+   </text>
+</TEI>

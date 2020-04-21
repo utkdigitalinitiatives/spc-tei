@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000566_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Edith Scott</name>
+ in Morristown, Tenn., to Bessie Lenoir in Knoxville, Tenn.<date when="1912-02-19">1912 Feb. 19</date>
+            </title>
+            <author>
+               <name type="person">Scott, Edith</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000566_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Edith Scott in Morristown, Tenn., to Bessie Lenoir in Knoxville, Tenn. 1912 Feb. 19</title>
+               <date>1912-02-19</date>
+               <author>
+                  <name>Scott, Edith</name>
+               </author>
+               <extent>7 digital images; 1 envelope, 6 pages.</extent>
+               <note type="abstract">1912 Feb. 19, Edith Scott, Morristown, Tenn., to Bessie Lenoir, wife of Henry Lenoir, Knoxville, Tenn. Encloses typewritten copy of John McKnitt Alexander&apos;s will made July 2, 1807. Regrets that Elizabeth did not live to see the will. Reports that her work as a violin teacher prevents her from studying family papers in Bessie&apos;s possession. Discusses her work on five wills of the Alexander ancestors and the cost of typing them. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Wills -- Tennessee -- 19th century.</term>
+               <term>Wills -- North Carolina -- 19th century. </term>
+               <term>Inheritance and succession -- Tennessee -- 20th century.</term>
+               <term>Tennessee -- Genealogy.</term>
+               <term>Alexander, John McKnitt, 1733-1817 -- Will.</term>
+               <term>Alexander, John McKnitt, 1733-1817 -- Family.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000566_0001.jpg" xml:id="d3e151"/>
+            <p>After.........days, return to</p>
+            <p>Miss Edith Scott</p>
+            <p>430 W. Main St.,</p>
+            <p>Morristown, Tenn.</p>
+            <p>Feb. 19, 1912</p>
+            <p>This copy of the will of John McKnitt Alexander must have been typed in the early 1900s.</p>
+            <p>Mrs. Henry Lenoir</p>
+            <p>East Main Street,</p>
+            <p>Knoxville,</p>
+            <p>Tennessee</p>
+            <p>The original must be one fill in Mecklenburg County, N.C.</p>
+            <pb n="2" facs="0012_000060_000566_0002.jpg" xml:id="d3e180"/>
+            <p>Morristown, Tenn.</p>
+            <p>Feb. 19th 1912.</p>
+            <p>My dear Cousin Bessie</p>
+            <p>I am sending you a copy of John McKnitt Alexander&apos;s will. I know you would love to have it for your children. I wish we could have had it in Cousin Lizzie&amp;s life time - she would have been so interested and would have been so glad to come into its possession. Cousin Nellie Gordon and</p>
+            <pb n="3" facs="0012_000060_000566_0003.jpg" xml:id="d3e194"/>
+            <p>I certainly would love to see the papers you speak of - nothing would give me greater pleasure than to look over them - but I don&apos;t know when I shall be in Knoxville, - I am a busy <unclear reason="illegible" resp="JR">nihie</unclear> teacher now &amp; like that even better than I do genealogy. I have no day of the week I can call my own, so I don&apos;t get a chance to run down home even for a day. I finished Uncle Doctor&apos;s &quot;Autobiography,&quot; several weeks ago - I am certainly glad to have it, - it is very interesting - you remember we were very much astonished at the prices of type writing. After my experience I think the prices are none to high. Type writing is not hard but so very confusing - I am type writing these old wills, &amp; make the five for $1.25. Cousin Nellie Gardner paid the price on three - I hope you all have kept well through this trying winter. I wish very much I could see you - you have been so sweet to help me out &amp; I certainly do appreciate it - </p>
+            <p>With every good wish, I am</p>
+            <p>Sincerely your cousin,</p>
+            <p>Edith Scott</p>
+            <pb n="4" facs="0012_000060_000566_0004.jpg" xml:id="d3e211"/>
+            <p>I have been working on these old wills for some time,- we have John McKnitt&apos;s, his father&apos;s, his grand father&apos;s, &amp; two of his brothers - We found them all except John McKnitt&apos;s in Elkton, Md. Court House. We are on the track of some more - we are never satisfied.</p>
+            <p>the letter you sent me addressed to Cousin Lizzie - I sent to Cousin Nellie Gordon, as I was unable to give any information. If any body can help the man out, the can -</p>
+            <pb n="5" facs="0012_000060_000566_0005.jpg" xml:id="d3e221"/>
+            <p>North Carolina,</p>
+            <p>Mecklenburg County,</p>
+            <p>Clerk&apos;s Office.</p>
+            <p>Book &quot;A&quot;</p>
+            <p>Page 54.</p>
+            <p>In the name of God /men. I John McKnitt Alexander being in good healt &amp; of sound mind &amp; memory, thanks be to God for his mercies &amp; provisions confirmed unto me for more than 74 years, that at such an advanced period I must soon die. Do therefore make this my last will &amp; testament viz: I c commend my soul to Almighty God who gave it &amp; my body to the earth, dust to dust. And as touching as my worldly estate such as I am bless with in this life, I will, give &amp; bequeath enfeoff &amp; convey as follows viz:-</p>
+            <p>I will, give &amp; bequeath, enfeoff &amp; convey to my beloved son William Bain Alexander seven tracts of land all joining together on one of which he now lives, the whole of which is more fully described by a schedule of deed of 1053 acres from under my hand &amp; seal dated April 3d 1801 yet to go on record etc. to him the said William B. Alexander his heirs &amp; assigns forever.</p>
+            <p>I will, give &amp; bequeath enfeoff &amp; convey to my beloved son Joseph McKnitt Alexander four tracts of land on one of which he now lives, which tracts join each other, all which is more fully described by a schedule or deed of 524 acres from under my hand &amp; seal dated April 3d 1801 to him the said Joseph McKnitt Alexander his heirs &amp; assigns forever also to go on record.</p>
+            <p>I will, give &amp; bequeath to my nine grand children, the children of said William Bain &amp; Violet Alexander Viz: Joseph, Jane Bane, Robert, Peggy, William, John, Rebecca, Benjamin, &amp; Sally Davidson, &amp; to any other child or children the said William B. Alexander may yet have born in wedlock to them or to the survivors of them the sum of $2500 current money, to be divided among them equally share &amp; share alike, to be paid to them by executors when they severally attain to the age of 21 years old together with the interest growing due them after my demise.</p>
+            <p>I will, give &amp; bequeath my four grandchildren the children of Francis A. Ramsey &amp; Peggy Ramsey (now deceased) viz: John McKnitt Alexander Ramsey, James Gettis McGrady Ramsey, William Bane Alexander Ramsey, &amp; Eliza Naomi Jane Bane Ramsey to them or the survivors of them, the sum of $2400 current money, to be divided among them equally share &amp; share alike to be paid to them equally by my executors when they severally arrive to 21 years of age together with the interest growing thereon after my demise.</p>
+            <p>I give &amp; bequeath to my six grandchildren, the children of James, Wallis &amp; Polly Wallis viz: John McKnitt Alexander Wallis, William, James,</p>
+            <pb n="6" facs="0012_000060_000566_0006.jpg" xml:id="d3e250"/>
+            <p>Joseph, Ezekiel, Edmond Newton Wallis, &amp; to any other child or children the said Polly Wallis may yet have born in wedlock, to them &amp; to the survivors of them the sum of $2400 current money to be divided among them equally share &amp; share alike to be paid to them by my executors when they severally arrive at 21 Years old together with the interest thereon growing after my demise.</p>
+            <p>I give &amp; bequeath to my two grandchildren viz: the two children of Samuel C. Caldwell, to them the sum of $2400 current money which sum shall be equally divided between &amp; paid to them severally when they arrive to 21 years of age by my executors together with the interest thereon growing after my demise - &amp; in case that either of said children should die before the age of 21 years leaving no legal heirs of his or her body that then &amp; in that case, the sirvivors shall inherit &amp; receive from my executors the whole of said bequeathment - But in case both of said children should die before they severally arrive to the age of 21 years &amp; have no legal heirs of his or her body that then &amp; in that case the whole of said bequeathment of $2400 &amp; the interest thereon shall revert into the common stock &amp; then shall be delivered to my executors &amp; by them shall be paid out cut &amp; divided as hereafter directed by this my will with the residue &amp; remainder of my estate. And I hereby will &amp; order all my lands ( not herein bequeathed nor before sold) to be sold by my executors when they may judge proper, giving credit by instalments to enhance the price for the benefit of the legatees - My executors making deeds for the same when sold - &amp; also to make for all the lands I have sold &amp; made no deeds for &amp; then receiving payments for the monies due thereon etc- for which purposes I hereby enfeoff, transfer &amp; convey to my executors William Bane Alexander, Joseph McKnitt Alexander, Amos Alexander (son of Hezikiah &amp; Richard Barry Esq. or the survivors of them to them &amp; to their executors &amp; assigns forever, all lands that I am possessed or whether held by patents, deeds, grants, or entry, not herein before devised, - Avouded nevertheless that the monies thereform arrising &amp; all other monies on hand &amp; monies due &amp; growing due to me be laid into a common stock &amp; out of the same my said executors with advantage to my said grandchildren can make sale of said lands, collect all the monies due etc. as prepared for a final settlement etc. that then the residue of my whole estate remaining in the common stock whether increased by the death of my said two</p>
+            <pb n="7" facs="0012_000060_000566_0007.jpg" xml:id="d3e260"/>
+            <p>grandchildren or otherwise, that then the whole estate of said residue or remainder shall by my said executors be divided into four equal parts or divisions &amp; by them paid out as follows viz:-</p>
+            <p>One of which parts or divisions shall be my said executors then be paid to all the children then alive of my said son William Bane Alexander share &amp; share alike when they are severally 21 years of age.</p>
+            <p>One other part or division by them be paid to all the children then all alive of my said daughter Peggy Ramsey share &amp; share alike when 21 years old or to their legal guardian. And one part or division the said executors shall pay to all the children then alive of my said daughter Polly Wallis share &amp; share alike when they arrive at 21 years or to their legal guardian.</p>
+            <p>And the 4th &amp; last division they my said executors shall pay &amp; deliver to my said son Joseph McKnitt Alexander for the use of his son Moses Winslow Alexander as he judge proper.</p>
+            <p>And in order to prevent any sale I hereby direct my said executors to value my horse &amp; saddle, bridle, my surveying instruments, etc. &amp; any other thing not intended in this will etc. &amp; the third part of which valuation shall be paid to my said daughter Polly Wallis, the remaining 2/3 be retained equally by my sons William Bane &amp; Joseph McKnitt Alexander I also divid to my two sons my clothing.</p>
+            <p>And lastly, I hereby nominate, constitute &amp; appoint William Bane Alexander &amp; Joseph McKnitt Alexander &amp; Amos Alexander (son of Hezikiah) &amp; Richard Barry Esq. to be my whole &amp; sole executors of this my last will &amp; testament, hereby revoking all other wills, gifts &amp; bequests either by hand or writing, radifying this &amp; no other to be my last will &amp; testament.</p>
+            <p>In witness whereof I have hereunto set my hand &amp; seal the 2d day of July Anno Domini 1807 Amen. Signed, published &amp; declared by the said John McKnitt Alexander as his last will &amp; testament who in his presence &amp; in the presence of each other subscribe our names as witnesses.</p>
+            <p>J. McK. Alexander.</p>
+            <p>Gebb Limonton.</p>
+            <p>IIsaac Alexander.</p>
+            <p>Hugh Torrence.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

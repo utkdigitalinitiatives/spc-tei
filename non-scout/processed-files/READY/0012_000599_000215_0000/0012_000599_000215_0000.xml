@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000215_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Camp Dick Robinson, Ky to Caroline M. Brown, <date when="1861-10-24">1861 Oct. 24</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hutson, Aaron</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000215_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Camp Dick Robinson, Ky to Caroline M. Brown, 1861 Oct. 24</title>
+          <date when="1861-10-24">1861 Oct. 24</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection 1861-1862</note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hutson, Aaron">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000215_0001.jpg" xml:id="d4e39"/>
+        <p>October 24 1861</p>
+        <p>Camp Dick Robinson</p>
+        <p>Dear wife and Children i take Time to inform you that I am well at This time and I hope these few lines may find you all the same ive received your Kind letter last night And was verry glad to hear from you and more I have bin Looking for one for some time I was all most out of heart but I was lifted up last Night I tell you The 17 ohio and the 33 Indiana and the 14 Ohio Regments</p>
+        <pb n="2" facs="0012_000599_000215_0002.jpg" xml:id="d4e47"/>
+        <p>Had quite A fight last Tuesday and Wednesday Our Troops maid old Zolocafa get up and Howl they ware about Forty Miles below where A we are they saw that our lose ware 4 men and twenty wounded the <unclear reason="indecipherable" resp="AH">spectors</unclear> said the rebels had Roads maid through them they came together three times And at last they backed out and run they fought at what they call Camp Wildcat we Exspect to stay here this witner we are bilding a <unclear reason="indecipherable" resp="AH">hospital</unclear>
+            </p>
+        <pb n="3" facs="0012_000599_000215_0003.jpg" xml:id="d4e56"/>
+        <p>Eighty feet long and intent to put up Boards tent on a nice Peace of ground in a nice groves of black walnut on a verry nice sod you said you had sold due and i say joy be with and all the rest of the same kind i can see some of the prettiest Cows here that ever I saw and the blackest Nigroes to milk them I want you to send me a letter as soon as you can and let me know how you all are and the Neighbour Boyd in particular</p>
+        <pb n="4" facs="0012_000599_000215_0004.jpg" xml:id="d4e60"/>
+        <p>Tell the Boys that I would like for them to say something About me in your letters and phene to I will not tell any Body about it just tell her she mite write a few times in your letter so good by to you all to Nigh i would like to see you all</p>
+        <p>Write soon</p>
+        <p>Henry Brown</p>
+        <p>To C. M. Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

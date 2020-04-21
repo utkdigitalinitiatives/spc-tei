@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000074_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Watkins
+</name>
+in Knoxville, Tenn., to John Probert in Pittsfield, Ohio,
+<date when="1863-12-15">
+1863 December 15
+</date>
+            </title>
+            <author>
+               <name type="person">Watkins, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000074_000202_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Watkins in Knoxville, Tenn. to John Probert in Pittsfield, Ohio, 1863 December 15</title>
+               <date>1863-12-15</date>
+               <author>
+                  <name>Watkins, John</name>
+               </author>
+               <extent>7 digital images; 7 pages</extent>
+               <note type="abstract">In this letter, dated December 15, 1863, from John Watkins in Knoxville, Tenn. to John Probert in Pittsfield, Ohio, Watkins describes the Confederate siege of Knoxville and the assault on Fort Sanders, which he refers to as &quot;the fort on the west side of town.&quot; The death of General William P. Sanders is mentioned: &quot;Gen&apos;l Sanders was mortally wounded while leading a charge on the rebel rifle pits, died the next night.&quot;</note>
+               <note type="collection">The John Watkins Papers, 1863</note>
+               <note type="manuscript">MS.1161</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e139">
+            <pb n="1" facs="0012_000074_000202_0001.jpg" xml:id="d3e140"/>
+            <p>Mr John Probert</p>
+            <p>Pittsfield Swain</p>
+            <p>Co Ohio</p>
+            <pb n="2" facs="0012_000074_000202_0002.jpg" xml:id="d3e152"/>
+            <p>Knoxville Tennessee Dec 15th/63</p>
+            <p>Well John I imagine you will think by the time this reaches you that something extraordinary has happened to us down here, me any how from the silence I keep. your letter of the 15th of last month I received yesterday, the first letter that I have got from home in a month. this is the first mail that has come here in that time. we have been having rather a billious kind of a time down here as you have know doubt heard before this. but perhaps it wont all be old if I tell some of it over again.</p>
+            <p>in the afternoon of the 14th of last month our Battery was ordered out of camp to take position on a hill on the east side of the town. the rebels were there in force on the south side of the river and had driven our forces to within 6 miles of town. there they checked them and kept them. at that time we thought that all the rebels that were anywhere near us were on that side of the river. there was considerable fighting on that side of the river for 3 or 4 days. and the first thing we knew a report came into town that Burnside</p>
+            <pb n="3" facs="0012_000074_000202_0003.jpg" xml:id="d3e164"/>
+            <p>was fighting a force of them down at Loudon that they attempted to cross the river. but he had driven them back. about that time it was reported that Grant had ordered him back to Knoxville but no farther. on the 17th we moved our Battery again, two sections of it further around to the east side of the town and our section was moved down on to the bank of the river. and the rebels had by this time got up to within 5 miles of town on the north side of the river. and we had found out that Longstreet was coming sure with the flower of Braggs army. the most of our forces had got inside of the fortifications and a large force was employed night and day throwing up rifle pits and earthworks to put the artillery in. on the 18th there was a very heavy fog in the morning which did not rise till about 9 oclock. then the skirmishers began firing on one another pretty lively. and towards noon our forces threw some shell at them from the fort on the west side of town from 20 pounders.</p>
+            <p>on the 19th there was some firing on our side from artillery. and about 1 oclock the rebels got a Battery in position and threw 3 shell into town. but two of our Batteries opening on them they had to light out. </p>
+            <p>the day before Gen&apos;l Sanders was mortally wounded while leading a charge on the rebel rifle pits, died the next night.</p>
+            <pb n="4" facs="0012_000074_000202_0004.jpg" xml:id="d3e176"/>
+            <p>on the 20th there was hardly any firing till dark then the rebs got another Battery in position fired 4 or 5 times throwing shell clear over the town and bursting 200 feet high. on the 21st it rained most all day and no fighting. the rebels had got clear round us from the river on the west side of the town to the river on the east side of town. on the 22nd it was a fine day but no fighting. we could see the rebels at work all day. in the evening they opened a Battery on us again firing but a few times. on the 23d our section was moved after dark over into the fort on the west side of town and that night our forces burned a lot of houses outside of our lines to keep the rebel sharpshooters out of them. in the morning of the 24th the 2nd Michigan about 150 strong made a sortie out of the fort and charged on the rebels rifle pits to drive them out but were repulsed with the loss of 80 killed wounded and prisoners. I saw that charge the pits that they charged were about 600 yards from us down on a flat and they had to run about 500 yards. I could see them drop all along till they got to the pits, and after they got away they yelled out cease firing and they stopped on both sides to get the wounded off the field. then you had ought to have seen the rebel brutes rush out of the pits and strip the dead. oh, if I ever felt like taking a mans hearts blood it was them devils. and right in plain sight to. on the 25th there was</p>
+            <pb n="5" facs="0012_000074_000202_0005.jpg" xml:id="d3e184"/>
+            <p>nothing but skirmish firing on our side of the river but quite a fight on the other side of the river. but there was 6 or 8 men mostly officers killed in the fort by rebel sharpshooters, in the redoubt where we were we could stand and see somebody drop any time. the bullets were flying all the time. if any of us put our heads up would over the breastwork in less than no time the bullets would come thick and fast. on the 26th there was some artillery firing but hardly anything else. on the 27th we fired 3 shot from our piece at a work that the rebles had thrown up and how the rebs did throw there bullets at us when we unmasked the embrasure to run the gun out, but none of us got hit. on the 28th it rained most all day but along in the afternoon we went for them again, every gun in the fort was ordered to fire 4 or 5 rounds at them in the woods about 1000 yards off. saturday night we went to bed soon after dark but about 11 oclock we were called up. the rebels had commenced on our left and drove our pickets in clear round. we at once opened on them with our piece and also the rest of the guns in the far end kept a firing all night. as soon as they drove our pickets in they went to work digging pits within 300 yards of the fort. we learned afterwards that they lost 3 Colonels that night and a good many man, but the next morning was the music for us. Sunday the 29th soon after daylight they opened on us from all their Batteries or at least 5 pass turns and if the shell didnt fly around us I am no judge. the air was full of bursting shell but the most of them to high. I dont think that there was a man killed in the 3/4 of an hour that they shelled us and but one wounded and he was right be side us in a tent. they had dug a hole in the ground and kept the tent over it and there was 5 men in it. the shell struck the ground outside of the tent and went down under them and burst in the ground spilling the ten mean and blankets around promiscuously. a piece of the shell cut one of them in the back of the head bleeding him pretty freely. I was standing up against the breast-work and saw the shell</p>
+            <pb n="6" facs="0012_000074_000202_0006.jpg" xml:id="d3e192"/>
+            <p>coming just as plain as day. we could hear them coming before they got anywhere near us and what a noise they make. while this shelling was going on the rebels were forming for a charge on the fort and the first thing our folks new of them they were within 20 yards of the picket line and less than 300 from the point of the fort. and on they came with a yell 3 columns deep and on in reserve a Brigade in each column. and as soon as they began the charge they began to fire so that our men could not use the artillery on them and the Infantry that was stationed along in the pits between the guns had to go for them. just raise up over the breastwork and fire and then step back and load, but they were enough for them. but the rebels came up over logs, wire and stumps and planted there colors right in the outer slope of the fort. the slope there is on an angle of 45 degrees and above 20 feet from the top of the work down to the top of the ditch. then the ditch is about 7 feet wide and 6 deep. they jest piled in there on top of one another dead wounded and dying and living to get away from the fire of our troops. one of them got up to one of the embrasures with some 4 or 5 behind him in front of a piece that had 3 charges of cannister in it, and he ha, hawed right out and says surrender you Yankee sons</p>
+            <pb n="7" facs="0012_000074_000202_0007.jpg" xml:id="d3e200"/>
+            <p>of bitches. the words were hardly out of his mouth before the piece was pulled off and away went Mr reb and companions blown into ribons. but all of this did not last more than half an hour, for those that were alive in the ditches began to call for quarters and the order was given to cease firing. a flag of truce was put up and prisoners began to to flock in those that were not hurt. there was about 400 of them came in right away. there was arrangements made right off to cease hostilities till 7 oclock in the evening.</p>
+            <p>as soon as the firing was topped I went up and got on the parapet to look at them. and such a sight I never saw before nor else I care abbout seeing again. the ditch in places was almost full of them piled one on top of the other. and such groaning I never heard. the dead were lying in all imaginable shapes the wounded on top of them and dead on top of them again. and the ground was strewn with them all along there write up to the fort. it took all day to gather up the arms. the wounded they exchanged with them for our wounded. the first thing it put me in mind of was a lot of maggots around a dead carcass. they were crawling all around some of them all over blood. I pittied them. they were brave men. most all of them Georgians. I would give one of there wounded a drink as quick as anybody if I had it. that is about the only thing they ask for when first wounded. but at the same time I wished the whole southern confederacy were in that ditch in the same predicament. on the 30 they showed another line of Battle but a few shell drove them to cover. for the first 5 days in this month we were at our piece most all night - every night expecting a night attack but it did not come and on the morning of the <unclear reason="Looks like a 5, but the letter says they expected an attack for the first five days. May be a 6."
+                        resp="JH">6th</unclear> they were gone. there were none of our men hurt and I am as well as ever. if I ever get home I can give you a better account of this than I have here.</p>
+            <p>write soon and direct as usual</p>
+            <p>Yours truly</p>
+            <p>John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

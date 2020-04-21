@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000227_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in Nashville, Tenn., to Caroline M. Brown,<date when="1862-03-08">1862 Mar. 8</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000227_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in Nashville, Tenn., to Caroline M. Brown,1862 Mar. 8</title>
+          <date when="1862-03-08">1862 Mar. 8</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000227_0001.jpg" xml:id="d4e39"/>
+        <p>Nashville Tennessee</p>
+        <p>March 8th 1862 Dear wife I sit down to let you know Now i feel i am in good health at this time and hope these few lines will find you and the children we are in Tennessee near the city of Nash ville about 4 miles west of town there is about 150 thousand men with in five miles round in camp here and more a comeing the road is full of soldiers all the time going to and fro all the time we left Bards town the 10th of last month and reacht this place last monday we saw the fort at Smith land it was worth seeing you had better think</p>
+        <pb n="2" facs="0012_000599_000227_0002.jpg" xml:id="d4e45"/>
+        <p>And allso fort Mcdonaldson it was after night when we past the latter place we did not get to see it they fought 3 days at that place and our men gaind the vitory and it was one they got 15 thousand prisend and 2 thousand stands of arms and any Amount of cannon and we saw Another place that they had in their possion and Burnd and throwed about 30 cannon in the river over A verry high bank we took one of the cannon on board of the boat the boys got a lots of <unclear reason="illegible" resp="LW">bunch</unclear> and Balls and three whels and some other things</p>
+        <pb n="3" facs="0012_000599_000227_0003.jpg" xml:id="d4e52"/>
+        <p>Our men got about one hundred thousand Dollars wroth of cotton and other things with it the city is deserted and left old floyd when he left this place he run the railroad Bridge full of cannon and set it Afire and left the place And i gess he is running yet i gess anuff of that now i will tell you How things rate flour is worth $12 Dollars a barrel And coffee 75 cents per pound And butter 50 cts eggs 25 cts Potatoes 2 Dollars per Bushel shugar 25 cts chees 40 cts things are <unclear reason="illegible" resp="LW">generdl</unclear> high the scrife they have for money is a hard money</p>
+        <pb n="4" facs="0012_000599_000227_0004.jpg" xml:id="d4e59"/>
+        <p>Now if i was at home I could tell you more than I can write at this place we do not know how long we will stay here or whare we will go from this place I shall bring this to A close I want now if you got that big ring that i sent in the last letter i bought a package of better paper and got that ring in it and i had no use for it here you must Direct you letters to Nashville Tennessee i have a board of a caffe mill to write on setting flat on the ground in my tent</p>
+        <p>Henry Brown</p>
+      </div>
+    </body>
+  </text>
+</TEI>

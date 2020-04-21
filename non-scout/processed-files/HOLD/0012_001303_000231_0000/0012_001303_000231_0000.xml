@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000231_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn.,<date when="1918-10-20">1918 Oct. 20</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000231_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1918 Oct. 20</title>
+          <date when="1918-10-20">1918 Oct. 20</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000231_0001.jpg" xml:id="d4e39"/>
+        <p>JL Dodds</p>
+        <p>Co. L.23 Engrs</p>
+        <p>A.E.F.</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000231_0002.jpg" xml:id="d4e55"/>
+        <p>Oct 20 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Will try and write you a few lines this rainy after noon. I am feeling fine and hope this will find you the same  Out goes the ink the first thing with no more around, So will just use the pencil.</p>
+        <p>I received 2 letters from you last week but they were most two months old. I enjoyed them very murch even if they had been a long time getting to me. I havent written you but once in a month have been awful bursy. Working ost day and night until a few days ago. </p>
+        <p>I have left the p;aced I stayed so long and believe me I made a bad move  There isnt a house left in this county with a roof on it in some of the houses there is a small part of a roof.</p>
+        <p>I have been sleeping in we call pup tents there just about large enough for a pup to sleep in  And has raining ever sence we got here so you can guess how I have been getting along.</p>
+        <pb n="1" facs="0012_001303_000231_0003.jpg" xml:id="d4e69"/>
+        <p>I would like to see the fellow that gave this country the name of Sunny France. I would shoot him on firts sight. The mud is about a foot deep every where and some more. I have an awful time with my truck when I come in most of the time you would thank my cloths were made of mud.Maybe I have been stuck in the mud for about a half day.</p>
+        <p>On I say this is a great life if a fellow don't weaken. But we sure are giving the Huns a good whipping driving them back all the time. We moved real close to the front and now they have driven them so far back dont hardly know there is a war around. I guess we will move up again pretty soon. </p>
+        <p>They sure did do some wonderful fighting here. Was a hard place to take. But the American boys said do or die and went after them. I think this thing will be over before long. I sure hope so any way, I would give any thing to be at home with you x mas but know there is no chance  But I sure will be home before another year rolls around </p>
+        <p>I tell every body I am going to be home by the 4 of July and realy believe I will</p>
+        <pb n="2" facs="0012_001303_000231_0004.jpg" xml:id="d4e79"/>
+        <p>I sure have had a lot of expernce sence I moved up here where a big drive has been going on. We had to hall rock up to repair the roads where the shells would make big holes in them  Well to tell the truth I am not very gun shy now have been all around the art when they were shelling the Huns and have been there when the Huns have been shelling back at us. But we have to keep going use the time good or bad  Will when I get back wll have a lots to talk about. </p>
+        <p>Had a letter from My kid Uncle (Robert) last night  He said most all of the boys had gone to Camp from Jaxon Guess can miss them alright. Say I saw Rufus Gregory the other day looks the same old way Jno Cortmell and My self were halling rock and he past by us so he stop his truck and looked to me until we had to go. He said we were the only ones he had saw from Jaxon sence he had been over Said thought Dan <unclear reason="illegible" resp="PW">Mcdade</unclear>was over some where but didnt know where he was  </p>
+        <p>we have found Trumm Hays again he is one of the boys that enlisted as we did. But he got seperated from us at Camp Mide.</p>
+        <pb n="3" facs="0012_001303_000231_0005.jpg" xml:id="d4e90"/>
+        <p>I watch every <unclear reason="illegible" resp="PW">avatation</unclear>field I pass trying to see Lynn  But so far havent seen him Sure wish could find him.  Well has Esther <unclear reason="illegible" resp="PW">ecer</unclear>visited Jaxan yet I bet she has cause she couldnt stay away so long as that And believe me I wouldnt stay away so long if I didnt have too.  Sure is a good place to be. I didnt thank so murch about it until I got so far away. </p>
+        <p>Well guess they will soon be having dances at the Moose Hall again will when they do and you go have a good time for as both and thank of how I would like to be there with you. How is Aunite and little Coz and his wife getting along have they moved yet. Till then I will soon be back and dont want to live any where but 307 Johnson St  So guess they had better stay there. </p>
+        <p>Will I thank will have a chance to write more often from now on. So write me real often and all the news you can thank of  Must close with lots of love</p>
+        <p>James L Dodds</p>
+        <p>C. L 23 Engers</p>
+        <p>American Exp Force</p>
+        <p>Via NY, France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003086_000206_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Robert G. Tatum</name> Diary, <date when="1919">1919 January 19 - February 2</date>
+            </title>
+            <author>
+               <name type="person">Tatum, Robert G.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Ruffin, Ingrid</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date>2013</date>
+            <idno type="SPC">0012_003086_000206_0000</idno>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <extent>22 pages</extent>
+               <note type="collection">Robert G. Tatum Papers</note>
+               <note type="manuscript">MS.0774</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Episcopal Church -- Clergy.</term>
+               <term>Tatum, Robert G.</term>
+               <term>Cruikshank, Moses, 1904-1996.</term>
+               <term>Wartburg (Tenn.)</term>
+               <term>Oakdale (Tenn.)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d3e111">
+            <pb n="1" facs="0012_003086_000206_0001.jpg" xml:id="d3e112"/>
+            <p>Daily</p>
+            <p>Reminder</p>
+            <p>1919</p>
+            <p>385</p>
+            <pb n="2" facs="0012_003086_000206_0002.jpg" xml:id="d3e124"/>
+            <p>Calendar</p>
+            <p>1919</p>
+            <pb n="3" facs="0012_003086_000206_0003.jpg" xml:id="d3e132"/>
+            <p>The Standard</p>
+            <p>Daily Reminder</p>
+            <p>1919</p>
+            <p>For Sale by all Stationers.</p>
+            <p>The Office Outfitters Fielder &amp; Allen Co. Atlanta, U.S.A.</p>
+            <pb/>
+            <p>18</p>
+            <p>Saturday, Jan. 18, 1919</p>
+            <p>
+               <note type="transcription">[The dairy pages for Jan. 1 through Jan. 18 are blank and therefore
+not included.]</note>
+            </p>
+            <pb n="5" facs="0012_003086_000206_0005.jpg" xml:id="d3e159"/>
+            <p>19</p>
+            <p>Sunday, Jan. 19, 1919</p>
+            <p>Up at 6:00 AM.built fires; started breakfast; had morning prayers as usual.Glanced at morning
+paper only to find that Bolshirvikes are seeking Wilsons life. attended the Epiphany at 10:30
+Communion Chiefly becuase Mr. Kruteh officially invited me. Dr. Boyd preached good sermon on
+&quot;Purity&quot; Virtue of ancients was courage present day it is &quot;Purity&quot; all nature seeks it.
+not satisfied with out it. Mrs Miller out for dinner. Called on Roy. Epiphany at 730. Read the
+service, Was asked to talk on &quot;My observation of Religious life among soliders.&quot; Walked home with
+Dr. Boyd. Told me of his son Miles preculiar actions I am convinced that Miles it crazy. I have
+decided to go to Walters tommorrow</p>
+            <pb n="6" facs="0012_003086_000206_0006.jpg" xml:id="d3e169"/>
+            <p>20</p>
+            <p>Monday, Jan. 20, 1919</p>
+            <p>Up at 5:30 started fires had usual morning prayer. Filled coalhouses, baskets, and buckets to
+save mamma trouble while away Met Hood and Karl, School <unclear reason="illegible" resp="IR">chess</unclear> while in town. Left for Oakdale at 10:30 a.m. Reached there 12:30 walked to
+Dearmount 3 mi and up the mountain to Walters 2 mi with heavy basket and suit case thought of
+<unclear reason="illegible" resp="IR">crelideacon</unclear> ; How he would enjoy ascending &quot;High
+Top&quot; with me <unclear reason="illegible" resp="IR">Lena</unclear> was starting down Mt. with mule
+and wagon after Wlater. He comes down every afternoon on #5 from <unclear reason="illegible" resp="IR">Katresi</unclear> . in talking with <unclear reason="illegible" resp="IR">misssm</unclear>
+I told especially of God&apos;s mercy time - urged them to be baptized we had prayers and retired P. </p>
+            <pb n="7" facs="0012_003086_000206_0007.jpg" xml:id="d3e194"/>
+            <p>21</p>
+            <p>Tuesday, Jan. 21, 1919</p>
+            <p>&quot;Hi U plenty talk&quot; until we went to work in the field Hauling manure to field and returned with
+fodder (I tumbled off of wagon head first) We Killed and cleaned a hog. Talked of Lena&apos;s education
+at dinner time. Now that they have a saddlehorse Lena and Walter can ride to <unclear reason="illegible" resp="IR">wallthung</unclear> to school. It seems that Lena is almost contented
+to stay at home. She likes out of door life, but badly needs school and all a city offers. Walters
+work in the coal mine is very streneous, dangerous, and hard for him to stand up everyday. Can not
+last long at it. Maybe a full days rest will help him a bit. Prayers and to bed at 10:00 of the
+clock.</p>
+            <pb n="8" facs="0012_003086_000206_0008.jpg" xml:id="d3e207"/>
+            <p>22</p>
+            <p>Wednesday, Jan. 22, 1919</p>
+            <p>Went to Wastburg immediately after breakfast. Saw Aunt Lee and her son John. Julia <unclear reason="illegible" resp="IR">we</unclear> did not to see to talk with Aunt Lee very much resembles
+mamma Passed by the Old &quot;Winton Mill&quot; or the Love Mount. <unclear reason="illegible" resp="IR">Luusker is</unclear> about the most beautiful place I ever saw. Should love for the <unclear reason="illegible" resp="IR">archdeacon</unclear> to see it. Find that Mrs. Duncan&apos;s stepdaughter is
+a school teacher of 4 years. <unclear reason="illegible" resp="IR">effescen</unclear> Hope Lena
+&amp; walter can reap advantage for they are worthy of the best. This after noon Lena went to
+Dearmount for mail &amp; Walter &amp; I hauled wood. after brought in rest of fodder. No prospect
+for coal. Good supper; prayer and to bed.</p>
+            <pb n="9" facs="0012_003086_000206_0009.jpg" xml:id="d3e229"/>
+            <p>23</p>
+            <p>Thursday, Jan. 23, 1919</p>
+            <p>A dark dreary day, a sick calf; &amp; sick horse with nothing especially accomplished. we put
+shoes on horse and raised the gate in the cow shed along with a few other little things. Mrs. Duncan
+Lidia, &amp; all the little Duncans&apos; and Blacks came up. Played cards for a while. I believe my
+brother doesn&apos;t like callers. Lena went for the mail and brought me a letter from <unclear reason="illegible" resp="IR">Bra.a happy and the </unclear> we marked the calf today Rt ear <unclear reason="illegible" resp="IR">smooth</unclear> to crop. 1 under slit. left ear smooth crop; 2 slits.
+Tonight the ears near still bleeding. Calf had intestinal or bowel trouble sort of hemmorage. We
+gave it first coffee &amp; castor oil. Then tonight coffee &amp; 2 eggs. Prayers with Walter Jr. and
+then with family and to bed.</p>
+            <p/>
+            <pb n="10" facs="0012_003086_000206_0010.jpg" xml:id="d3e246"/>
+            <p>24</p>
+            <p>Friday, Jan. 24, 1919</p>
+            <p>Up late for farmers, but after a good breakfast we cares for the stock and hauled some wood. Made
+some Kodak pictures of Walters family &amp; myself. This afternoon a happy thought struck us why
+shouldn&apos;t we save Pulling &amp; hauling anymore wood. The mountains all around us us have coal why
+shouldn&apos;t this one one have some. Walters &amp; I gathered up the tools &amp; went out to prospect
+for prospectives when we got tired digging one hole in the ground we started another. Finally we
+began to doubt our minds instead if the ground and at Pearls advice we quit &amp; fed the stock.
+after a good supper &amp; prayeres we went to bed.</p>
+            <p/>
+            <pb n="11" facs="0012_003086_000206_0011.jpg" xml:id="d3e257"/>
+            <p>25</p>
+            <p>Saturday, Jan. 25, 1919</p>
+            <p>Hauled in big load of rich pine. Walter made a handle for his coal axe. Worked from inside of
+hickory stick. Spoke to Mrs. Layman and Albert as they drove by. My last morning passed hurridly.
+Harder to leave the children and all. Such utter proverty I have never seen. a stream of sympathy
+pours out of my heart for my loving brother and <emph>his</emph> family. How I wish I could
+help them. I rode down to theedge of the mountains. Then Walter &amp; I walked down to Dearmount. We
+looked into a coal mine in which Walter had worked and found own prospects in his place more
+hopeful. We kissed each other good by and again I told him of God&apos;s mercies to me and how that
+my success in life was through my trust in God. He turned away in tears, then turned back &amp;
+cried &quot;Robert come back again.&apos; I told him I would. I have never spent as sad an hour nor was one
+ever as full of sorrow at that hour that followed this incident. I heard and saw many things that
+moment. I know something of his feeling &amp; the sorrow of his heart. He has laboured so hard and
+earnestly &amp; success does not come. I am sure God saw his tears &amp; knows the secrets of his
+heart. &quot;a broken and contrite heart he will not despise.&quot; I shall spend every effort to help him
+&amp; God is with me. <unclear reason="illegible" resp="IR">work hard</unclear> tonight. Reached
+home to find several letters. annoucement of Ralph Milkins engagement; Elizabeth Strickins marriage;
+Frank <unclear reason="illegible" resp="IR">Flakendeship</unclear>return to college MIT; and the
+archdeacons some interest in one whom he loves or who loves him. Bp. Gailor preaches tomorrow</p>
+            <p/>
+            <pb n="12" facs="0012_003086_000206_0012.jpg" xml:id="d3e278"/>
+            <p>26</p>
+            <p>Sunday, Jan. 26, 1919</p>
+            <p>Up at 5:30, Morning Prayer. 7:30 Service at St Johns. Bp. Gailor there. asked me if I was
+returning to <unclear reason="illegible" resp="IR">service</unclear> &amp; said he would be glad to
+help me. Walked home for breakfast. Returning to Church met Sister Hellen. There came to my mind
+&quot;Compassion <unclear reason="illegible" resp="IR">mmr</unclear> devout &amp; pure. <unclear reason="illegible" resp="IR">sd her</unclear> steadfast &amp; demure. Bp. G. preached on &quot;Wist ye
+not that I must be about my father&apos;s business.&quot; Every vocation in life a work for the father. &amp;
+our <unclear reason="illegible" resp="IR">mwm to</unclear> &amp; seek diligently to perform our
+duty. He spoke affectionatly of Pres. Roosevelt this afternoon I sent my insurance $6.20 payment to
+Bureau of War Risk Insurance. I was Dpt. awash DL for 3 mo. amt $2010. Took mamma to <unclear reason="illegible" resp="IR">Yephihany</unclear> to hear Bp. G Preached on war, Democracy &amp;
+religion, missionary Spirit <unclear reason="illegible" resp="IR">Chineneise war on</unclear> God&apos;s
+&amp; did not He <unclear reason="illegible" resp="IR">he for in door</unclear>
+            </p>
+            <p/>
+            <pb n="13" facs="0012_003086_000206_0013.jpg" xml:id="d3e310"/>
+            <p>27</p>
+            <p>Monday, Jan. 27, 1919</p>
+            <p>Up at 4:30 prayers, bath &amp; breakfast. Practiced 5 hours on typewritter during the day. In
+town for a couple of hours and to Mildred&apos;s for dinner. Miss Pearl <unclear reason="illegible" resp="IR">Moncum</unclear> finally decided to stay. Had for <unclear reason="illegible" resp="IR">Brs&apos;</unclear> sake her own <unclear reason="illegible" resp="IR">Rose &amp; mammas</unclear> She
+is a congenial and pleasant girl. Returned from Mildred&apos;s to find letter from Albert Sherman written
+at <unclear reason="illegible" resp="IR">lauerrville</unclear> France Dec 26th. Had just returned
+from hospital in Bordeaux. Spoke of Bp. Perries service in near by Trou. Read first copy of <unclear reason="illegible" resp="IR">Good be CO75</unclear> alumni association &quot;Lest We Forget&quot; am working
+out pretty well with typewritter. Hope to accomplish it while at home. Think after many tries.
+Prayers &amp; to bed early.</p>
+            <pb n="14" facs="0012_003086_000206_0014.jpg" xml:id="d3e335"/>
+            <p>28</p>
+            <p>Tuesday, Jan. 28 1919</p>
+            <p>Up at 4:30 and after breakfast 3 hours practice on the typewritter 6 hours all day. More working
+on the 3rd lesson. Believe I am goign to accomplish (DV) in the 2 weeks time. Cannot obtain great
+speed but can get the principles of it. Mamma and I called on Ms. Nessler. She not at home. We went
+to Mrs. <unclear reason="illegible" resp="IR">Forotes</unclear>. Found her house on 3rd st rented
+for $18 per mo. &amp; will sell for rent for $2200. Cheap enough and a very nice home. She has a
+stove for which she paid $1200. May sell it when she breaks up house keeping. Prayers and to
+bed.</p>
+            <pb n="15" facs="0012_003086_000206_0015.jpg" xml:id="d3e348"/>
+            <p>29</p>
+            <p>Wednesday, Jan. 29, 1919</p>
+            <p>Up at 4:30, prayers and after breakfast practiced on typewritter. Went down to Mildreds and
+helped her in the yard. Had dinner there Mildreds home seems like home to me. I am home about 3:00
+O&apos;clock (met Mrs Comfort on the way) and practiced for a couple hours. Mildred drove me to town
+about 5:00 o&apos;clock. Bought me an officers cap for $3.00 a $.50 <unclear reason="illegible" resp="IR">cay</unclear> Also bought 1 ream typewritter paper to use for correspondence from So. School Supply
+Co. for $1.50. 500 sheets. after supper practiced an hour. Prayers in preparation for communion.</p>
+            <pb n="16" facs="0012_003086_000206_0016.jpg" xml:id="d3e361"/>
+            <p>30</p>
+            <p>Thursday, Jan. 30, 1919</p>
+            <p>Up at 4:30, built fires and started breakfast. 5:00 to 5:30 prayers 5:30 to 6:00 wrote diary of
+previous day. 6:00 to 6:30 helped with breakfast. 6:30 to 7:00 got coal etc. 7:00 to 10:00 practice
+on typewritter. 10:00 to 12:00 fixed wire on shed for chickens. <unclear reason="illegible" resp="IR">Drove</unclear> went to town. Sought to find Mr. NH Hillard about the house. Went to
+church for quiet hour of prayer. Met Edith Honeyman &amp; Elizabeth Walnut two very lovely girl
+friends, Went to the movies. Purchased some wire &amp; staples 5 yds of 2 in mesh poultry line @ 15
+cts per yd! Came home &amp; after supper (and a good one) Mother &amp; I went to Roy &amp; Ruth&apos;s.
+Prayers &amp; to bed ar 9:30.</p>
+            <p/>
+            <pb n="17" facs="0012_003086_000206_0017.jpg" xml:id="d3e375"/>
+            <p>31</p>
+            <p>Friday, Jan. 31, 1919</p>
+            <p>Usual morning prayer at usual time. Practiced four hours this morning then trotted off down to
+Mildreds. Borrowed a 700th. roller from Mr. Morgan. at Golf Course to roll down M&apos;s driver. Also
+planted sod. Practiced more and got up the coal after I returned. This evening we all went to the
+show at the Byou very good 3 chaps there good singers Mr. Haskell <unclear reason="illegible" resp="IR">not.</unclear> man also good. The Russians situation looks serious American may have take
+apart. The Evening Sentinal Records 39,155 Americans dead in war. 14,648 missing and 2,825
+Prisoners, Sad to think of. Prayers &amp; bed.</p>
+            <pb n="18" facs="0012_003086_000206_0018.jpg" xml:id="d3e388"/>
+            <p>32</p>
+            <p>Saturday, Feb. 1, 1919</p>
+            <p>After prayers I had an hours practice before breakfast. This done I cleaned the house, swept,
+dusted and oiled the floors. Then worked on the wire fence. Have been quite successful with it.
+worked on this most all day. The paper tonight had a picture of the <unclear reason="illegible" resp="IR">Ep</unclear> Kaiser in it. Total death written over it. It also mentions that a bounus of
+$200 will be given to officers &amp; $50 to enlisted men. Don&apos;t know just how this will effect me.
+Hope I get soemthing for I need it. The work before me is a busy one. Much to do here at home and at
+Mildreds much I must do in preparation for College which opens Feb. 17th</p>
+            <pb n="19" facs="0012_003086_000206_0019.jpg" xml:id="d3e401"/>
+            <p>33</p>
+            <p>Sunday, Feb. 2, 1919</p>
+            <p>Up at 5:30 prayers and after breakfast made ready for church. Mamma, Papa and, Rosa went with me
+to Communion since at St John&apos;s. One of special thanksgiving for God&apos;s Blessing to me. For granting
+merry hearts desire in giving me a Commission and Prayers for His loving mercies through the comming
+years of work for Him. Gone over during the afternoon; I wrote several letters; Rosa quite ill.
+Mamma &amp; I went to Presbyterian Church with Mildred <unclear reason="illegible" resp="IR">something wrong</unclear> Mamma defended the Episcopal Church in a very <unclear reason="illegible" resp="IR">sevirt</unclear> &amp; beautiful way. May God grant <unclear reason="illegible" resp="IR">that</unclear> may <unclear reason="illegible" resp="IR">fannnty</unclear> may come back to the
+true Church.</p>
+            <pb n="20" facs="0012_003086_000206_0020.jpg" xml:id="d3e423"/>
+            <p>RATES OF POSTAGE.</p>
+            <p>Official at time of printing. As changes are expeted inquire at P.O.</p>
+            <p>United States and Possessions, Canada, Mexico, Cuba, and Shanghai, China.</p>
+            <p>First Class (letters, etc.) . . . . . . per ounce 3c</p>
+            <p>Second &quot; (newspapers, periodicals) . . . 4 &quot; 1c</p>
+            <p>Third &quot; (all circulars and miscellaneous printed matter. Miscellaneous printed matter over 4lbs.
+sub-ject to 4th class rates) . . . . . . 2 &quot; 1c</p>
+            <p>Fourth &quot; (merchandise, books, etc.) see Parcel Post</p>
+            <p>Registration Fee(extra postage) . . . . . . . . . 10c</p>
+            <p>Special Delivery (&quot; &quot;) . . . . . . . . . . . . . . 10c</p>
+            <p>Postal Cards(reply cards 4c).. . . . . . . . . . . 2c </p>
+            <p>Local or Drop Letters (where no free delivery) . . &quot; 2c</p>
+            <p>Postal Savings Bank (inquire at P.O.)</p>
+            <p>MONEY ORDERS.--For sums not exceeding $2.50, 3 cents; over $2.50 to $5, 5 cents; over $5 to $10,
+8 cents; over $10 to $20, 10 cents; over $20 to $30, 12 cents; over $30 to $40, 15 cents; over $40
+to $50, 18 cnets; over $50 to $60, 20 cents; over $60 to $75, 25 cents; over $75 to $100, 30
+cents.</p>
+            <p>REFORWARDING.--Letters will be fowarded from one post office to another upon the written request
+of the <emph>person addressed,</emph> without additional charge; but unclaimed packages <emph>cannot be
+returned to the sender</emph> until stamps are furnished to pay the return postage.</p>
+            <p>PARCEL POST, the United States and Possessions. </p>
+            <p>(Inquire at Post Office)</p>
+            <p>Owing to frequent changes in rates , weights, etc., we deem it impracticable to attemt to give
+accurate information.</p>
+            <p>Postage to Foreign Countries.</p>
+            <p>Letters for Canada, Cuba, Mexico, British Isles, Newfoundland, Republic of Panama; U.S. Postal
+Agency of Shanghai, China; Leeward Islands; Bahamas; British Honduras; Dutch West Indies, Dutch St.
+Martins; Barbadoes, Dutch Guiana and New Zealand . . per ounce 3c </p>
+            <p>&quot; for other countries . . . . . . &quot; 5c</p>
+            <p>each additional ounce or fraction 3c</p>
+            <p>Postal cards (reply cards, 6c) . . . 3c</p>
+            <p>Newspapers and printed matter . . . 2 ounces 1c</p>
+            <p>Samples merchandise . . . . first 4 &quot; 2c</p>
+            <p>every additional 2 &quot; 1c</p>
+            <p>Commercial papers . . . .first 10 ounces or fraction 5c</p>
+            <p>every additional 2 ounces 1c</p>
+            <p>Resgistration Fee (extra postage) . . . . . .10c</p>
+            <p>Reply Coupons (to prepay return letter) inquire at P.O. </p>
+            <p>Parcel Post (inquire at P.O.) . . . . . . per lb. 12c</p>
+            <p>Money Orders (inquire at P.O.)</p>
+            <pb n="21" facs="0012_003086_000206_0021.jpg" xml:id="d3e497"/>
+            <p>Calendar</p>
+            <p>1920</p>
+            <pb n="22" facs="0012_003086_000206_0022.jpg" xml:id="d3e505"/>
+            <p>[Back Cover]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000228_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Huffins, B.</name>
+ in Loudon, Tenn. to S. A. Rogers in Knoxville, Tenn. <date when="1865-06-20">1865 June 20
+ </date>
+            </title>
+            <author>
+               <name type="person">Huffins, B.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000228_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, B. Huffins in Loudon, Tenn. to S. A. Rogers in Knoxville, Tenn., 1865 June 20</title>
+               <date>1865-06-20</date>
+               <author>
+                  <name>Huffins, B.</name>
+               </author>
+               <extent>4  digital images;  4 pages</extent>
+               <note type="abstract">Letter dated 1865 June 20 B. Huffins in Loudon, Tenn. to S. A. Rogers. Timber taken from his land in 1864 and sold to government without his consent.
+</note>
+               <note type="collection">The O.P. Temple Papers, 1865</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Forest landowners -- Tennessee -- Loudon County -- History -- 19th century.</term>
+               <term>Logging -- Political aspects -- Tennessee -- Loudon County -- History -- 19th century.</term>
+               <term>Timber -- Political aspects -- Tennessee -- Loudon County -- History -- 19th century.</term>
+               <term>Loudon (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>Huffins, B. -- Correspondence.</term>
+               <term>Rogers, S. A. (Samuel Andrew), b. 1830 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000070_000228_0001.jpg" xml:id="d3e156"/>
+            <p>Loudon June 20th 1865</p>
+            <p>Mr S. A. Rogers</p>
+            <p>Dear sir I want to get you to attend to a little bisness in Capt Whitmons ofice for me that is Il go on to state the hole matter </p>
+            <p>Last fall tha came a Mr Davidson and Cuting a set of timber logg taken the peoples timber and selling it to the goverment and Paing them nothing for it These men came to our Lower place last fall with out saing a word to Bill or me about our timber and comenced cutting and hauling to the river the goverment doing the hauling I thought it was the goverment Pressing the timber and tha was no remady for it after while I lernd it was these men above stated taking the timber and selling it to the goverment for $3.00 per log</p>
+            <pb n="2" facs="0012_000070_000228_0002.jpg" xml:id="d3e170"/>
+            <p>I then went to Capt Whitmon and he told me that tha was a contract of that sort with Mr <unclear reason="illegible" resp="NW">fry </unclear> G. M at Kingston and for me to go thar and have the matter seen in to about that time Mr Frey and Davidson &amp; Catering all left and Mr <unclear reason="illegible" resp="NW"> Trosedell </unclear> or something near that name a G M of the Kingston Post at that time he then told me that tha was something coming to this Log <unclear reason="illegible" resp="NW"> countary</unclear> and I should be paid for my timber when Davidson &amp; Catering run away R. W. Boyd taken charge of the hole thing in their sted </p>
+            <p>these men Borded with Boyd while tha was taking our timber I spose tha taken som twelve or 14.00 logs Before running away and then give the contract over to R. W. Boyd eny way Boyd went in to it and did cut and have hauled to the river som 8 or 9 hundred Logs of our Land against our will</p>
+            <pb n="3" facs="0012_000070_000228_0003.jpg" xml:id="d3e189"/>
+            <p>and now Mr Rodgers I do believe Boyd got the money or the bigest Part of it that this Lot of Logs <unclear reason="illegible" resp="NW"> Rong</unclear> I am told he Boyd drawed som twenty seven hundrd Dollars out of the Bank Last weeak and I wand to get you to see capt Whitmon if he will lit you examon the vouchers Boyd drawed on and see if tha ant som for timber or Logs and also try to get to see Mr Freys Books and Mr <unclear reason="illegible" resp="NW"> Troxdell </unclear> Books Both G. M of the Kingston Post at the time of taking our Timber if tha is eny chance to get at this man Boyd I will want to get you and Mr Baxter to attend to it</p>
+            <p>Boyd got a little on easy at the close of his dogery and got the J M. to make out a voucher for 70.00 to pay for the timber an <unclear reason="illegible" resp="NW"> nown </unclear> to us and sent it up to <unclear reason="illegible" resp="NW">Bill </unclear>
+            </p>
+            <pb n="4" facs="0012_000070_000228_0004.jpg" xml:id="d3e210"/>
+            <p>and bill a ginst my orders<unclear reason="illegible" resp="NW"> cap </unclear> it I rite the hole thing as it is Boyd did this thing thinking it would <unclear reason="illegible" resp="NW"> Clar</unclear> him</p>
+            <p>You will look in to the matter for me and I will sadisfy you for the same Remain Yours</p>
+            <p>in hast</p>
+            <p>B. Huffins</p>
+            <p>Ben Huffins</p>
+            <p>Ans June 23, 1865</p>
+            <p>Claim on Boyd for taking timber</p>
+         </div>
+      </body>
+   </text>
+</TEI>

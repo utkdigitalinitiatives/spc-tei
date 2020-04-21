@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000215_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>David L. Jones</name>
+ in Nashville, Tenn., to Anna Jones in Allegheny City, Pa.<date when="1865-05-19">1865 May 19</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000215_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa., 1865 May 19</title>
+               <date>1865-05-19</date>
+               <author>
+                  <name>Jones, David L.</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract"> In this letter dated May 19, 1865, David L. Jones in Nashville, Tenn. writes to Anna Jones in Allegheny City, Pa. about his life at camp, the annoyance of dealing with drunk soldiers. He also comments that the officers dread being dismissed because they &quot;have had easy times of it&quot; and the Rebel soldiers under Johnson&apos;s command coming through the camp. </note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Nashville -- History -- 19th century.</term>
+               <term>Military camps --  Social aspects -- Tennessee -- Nashville -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000091_000215_0001.jpg" xml:id="d3e151"/>
+            <p>Nash May 19th/65</p>
+            <p>My Dear Wife</p>
+            <p>Just after i got my dinner i sat me down to write you a few lines in hope that you are all well as they leave me through mercy This morning at a half after eight as i was coming home from duty I met Doctor Pressley on the Street I should be glad to see some of the Preachers compelled to go into camp and Barraks and undergo the same treatment and having to eat the same grub that we had for a while I think they would do like Job of old curse the day of their Birth if not their Maker too. We do not know anything yet what they are going to do with us I heard that the Colonel is doing his best to <unclear reason="illegible" resp="NW">have</unclear>stay the</p>
+            <pb n="2" facs="0012_000091_000215_0002.jpg" xml:id="d3e166"/>
+            <p>time out so i have been told dont let any one see my letters till i come home he is from Pittsburgh and i think he is nothing but a regular blackguard he will curse us like <unclear reason="illegible" resp="NW">fury</unclear> when we drill if we do wrong I was told that he has been to Chattanoga and Louisville both do try and get us to do guard duty then but did not succeed I hope that they will not succeed in getting us any Place that they will have to send us home Indeed i have not seen but one an Adjutant that is a nice man he is a Pittsburgher too All the Officers is sorry that they have to be dismissd because they could have had easy times of it - i should like to see them all discharged There was nine hundred Rebels here yesterday</p>
+            <pb n="3" facs="0012_000091_000215_0003.jpg" xml:id="d3e177"/>
+            <p>All had taken the Oath and on their way home they were mostly Johnson s men There is hundreds here every day - i dont know where they all come from I heard a little Joke on George <unclear reason="illegible" resp="NW">Grubbs</unclear> this morning he went down town yesterday and met some fellows and got a Drinking he got that drunk that he had to get another man And the fun of it was they could not tell which was the Drunkest again they got up to the Barracks He got 50 cents in a Letter Last week from Myers the Storekeeper ill bet that he did not keep it Long they sell wanted to Borrow But i did not lend it any of any consequence for i did not let them know that i had any <unclear reason="illegible" resp="NW">Grubbs</unclear> one day had sent his Pants out to get it washed and when it was brought in he had not the mony to pay </p>
+            <pb n="4" facs="0012_000091_000215_0004.jpg" xml:id="d3e191"/>
+            <p>for it he said that he would Like to get his Pants but he had the money to pay for it so i gave him a quarter several times Since he has been wanting this and that but i turn the deaf ear to him he had all his money spent before he came came here and he was laying out a plan for to spend mine to he wanted a wash tub wash Board and a skillet well says i ill go for half if you go for the other half well he said he had no money Another time he would say when i get Pay i will get Myers of Allegheny to send me a <unclear reason="illegible" resp="NW">box</unclear> of things well i told him that it only was for a year and i would make their grub do me and send all that i could to my wife and children Mind and do not tell this to any one these little books I want to send each of the children one i send this to Andrew see that they read them Please David</p>
+         </div>
+      </body>
+   </text>
+</TEI>

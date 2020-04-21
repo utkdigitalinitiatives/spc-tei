@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001519_000208_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Laura Maynard</name> in Westborough, Mass., to Washburn
+					Maynard in Newport, R.I. <date when="1863-03-22">1863 March 22</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+        <author>
+          <name type="person">Laura Maynard</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001519_000208_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Laura Maynard in Westborough, Mass., to Washburn Maynard in Newport, R.I. 1863 March 22</title>
+          <date when="1863-03-22">1863 March 22</date>
+          <author>
+            <name type="person">Laura Maynard</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Maynard Family Letters</note>
+          <note type="manuscript">MS.415</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Amherst College.</term>
+          <term>East Tennessee College.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- Politics and government.</term>
+          <term>United States -- Foreign relations -- 1865-1898.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- Politics and government -- 19th century.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dyson-Smith, Bridger">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e39">
+        <pb n="1" facs="0012_001519_000208_0001.jpg" xml:id="d4e40"/>
+        <p>Westboro', Mar. 22, 1863</p>
+        <p>My dearest Washburn,</p>
+        <p>You see by my date that I am back at the old place again. I left Washington Friday was a week ago - Your father &amp; Gov. Johnson were along, &amp; as they had an engagement to speak in Newark, N.J. we all spent Friday night there. Saturday we came to N.Y. &amp; Saturday night Gov. Johnson addressed an immense crowd, in the Academy of Music - Sunday morning I attended church at the Tabernacle - Gov. Johnson dined with us at your cousin John's - Monday morning your father went back to Washington. Gov. Johnson &amp; he are helping to get something done for E. Tenn. You see by the papers that those bridges that were destroyed by Gen. <unclear reason="illegible" resp="bds">Carter</unclear> &amp; his men, have been re-built, &amp; the R.Road put in running order, again, so that</p>
+        <pb n="2" facs="0012_001519_000208_0002.jpg" xml:id="d4e51"/>
+        <p>all that hazardous <unclear reason="illegible" resp="bds">caterpside</unclear> is lost, because of the failure of the Gov't. to follow it up with troops enough to hold it. We hear nothing more from your cousin William, &amp; I greatly fear we shall never see him again. I believe I wrote you that Mr. Geo. W. Bridges succeeded in getting to Washington in time to hold his seat in Congress, just one week. He brought us news of your cousin Wm. but confirmed what we had heard before, <unclear reason="illegible" resp="bds">son;</unclear> that he had been conscripted - had been taken to the rebel camp, had made his escape &amp; was <unclear reason="illegible" resp="bds">adbictifed</unclear> in the Register, as a desertee. All this occured so long ago, that our hearts sicken at the thought that he has perished. I have told your cousin John all about it, but I have written nothing of it to his mother.</p>
+        <p>I have written <unclear reason="illegible" resp="bds">Millie</unclear> to come here &amp; spend her vacation - I think I will take the "little thing", &amp; go &amp; see</p>
+        <pb n="3" facs="0012_001519_000208_0003.jpg" xml:id="d4e69"/>
+        <p>you, some day. I saw Mrs. Noble in N. York - Your father &amp; I were delighted with her, &amp; I thought if you could have her for a friend, you would be fortunate, indeed. I do not know, yet, how soon I will go to Newport - I find it so very cold, &amp; so much snow here, that I dare not go to Grafton next week, for a few days - but when it is rather warmer, &amp; the snow gone, I will go &amp; see you. Is there anything you would like to have me bring you? I have not seen John, yet, but I have sent him word to come &amp; see me. I hope he will succeed in getting to your Academy. Your father has one more to send, from one State - He had not fully determined upon the person.</p>
+        <p>Your father wrote me that he had received a letter from Edward, last week - he has not sent it to me, yet; When he does, I will tell you what he writes. It has been three or four weeks</p>
+        <pb n="4" facs="0012_001519_000208_0004.jpg" xml:id="d4e75"/>
+        <note type="transcription">The following text is a continuation from the fourth page of the letter.</note>
+        <p>I send you Gov. Johnson's speech at N.Y.</p>
+        <note type="transcription">The preceding text is a continuation from the fourth page of the letter.</note>
+        <p>since I have had a letter. Gov. Johnson says he saw him frequently, at Nashville Those E. Tenn. boys, especially Spears' Brigade, were employed a great deal, to guard supply-trains to &amp; from Nashville for the Army. After I get you all well settled, in this part of the world, I believe I will go &amp; see Edward. I can go to Nashville, &amp; if things are peaceable &amp; comfortable, I will stay there, &amp; Edward can come &amp; see me, often.</p>
+        <p>It has been a long time since you have written to me, darling - Your monthly report came last week, &amp; is very much, if not exactly, as you gave it. Write me here, as soon as you get this, for I am impatient to hear from you - Have you any more of your pictures? Your cousin Jane wants one, for her Album, so if you have any, keep them till I see you.</p>
+        <p>Ann Mary sends love &amp; the sweetest kiss - All send love - The snow is so wet, that I have not been up to your grandfather's - Jimmy is wide awake - he has been down to see me - God bless my child - Your affec'tc Mother - </p>
+      </div>
+    </body>
+  </text>
+</TEI>

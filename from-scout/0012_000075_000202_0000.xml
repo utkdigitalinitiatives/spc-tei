@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000075_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+William A. Huddard
+</name>
+in Knoxville, Tenn., to his father in Ohio,
+<date when="1864-04-08">
+1864 April 8
+</date>
+            </title>
+            <author>
+               <name type="person">Huddard, William A.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000075_000202_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William A. Huddard in Knoxville, Tenn. to his father in Ohio, 1864 April 8</title>
+               <date>1864-04-08</date>
+               <author>
+                  <name>Huddard, William A.</name>
+               </author>
+               <extent>4  digital images;  4 pages</extent>
+               <note type="abstract">In this letter, dated April 8, 1864, William A. Huddard writes to his father in Ohio, giving him the news of his Division and discussing rumors that it will be moved from its current department to the &quot;Department of the Cumberland.&quot; Also, he mentions that &quot; there is to be but little done here in the way of a fight.&quot; He further informs his father that his regiment and the entire division are in good health and that he has &quot;never seen the boys in better spirits.&quot;</note>
+               <note type="collection">The William A. Huddard Papers, 1864</note>
+               <note type="manuscript">MS.2119</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865. </term>
+               <term>Huddard, William A. -- Correspondence.</term>
+               <term>United States. Army. Ohio Infantry Regiment, 1st (1861-1864). Company D. -- Drill and tactics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000075_000202_0001.jpg" xml:id="d3e152"/>
+            <p>Camp near Knoxville April 8th 1864</p>
+            <p>Dear Father</p>
+            <p>I received yours of March the 17th at least a week ago but untill now I have had no opportunity to answer it. even now we may move before this is finished. Since my last hardly a day has passed without we were on the move. Yet at any one time we were not over <unclear reason="Number is unclear; could be either 10 or 18." resp="Josh Hogan">10</unclear> miles from our old camp. Advance one day, turn back the next, and so on -- But I beleive now that I can say with some safety that we are soon to get rid of all Counter-Marching at least, for we are about to leave the Department. I hear that our Division has been ordered back to the Department of the Cumberland. We left our old camp above the Plains on the Sixth and we are now encamped three</p>
+            <pb n="2" facs="0012_000075_000202_0002.jpg" xml:id="d3e167"/>
+            <p>miles this side of Knoxville. At present we are still under marching orders Last night I was guarding at Division Head Quarters. They say there that our Division is to be stationed along the Railroad. Commencing at Cleavland. Our leaving this Department will make none of us mad, for all are glad enough to get back to the old Department. I heare that the 11th and 12th Corps have been ordered to the Department of the Potomac. It wouldent surprise me a bit if our Corps was taken there. All ready you can heare a good deal of talk to that effect. By our leaving this Department I would think that there is to be but little done here in the way of a fight or an advance. There are but two Divisions now in the Department. The 23 Corps has advanced twenty miles beyond Bull&apos;s Gap. They report no enemy as yet. It is the general impression that the greater portion of Longstreet&apos;s forces have gone to reinforce</p>
+            <pb n="3" facs="0012_000075_000202_0003.jpg" xml:id="d3e175"/>
+            <p>General Lee. It has been so long since I have seen a paper that I hardly know what is going on in the Department of the Cumberland. As we are sending so many troops from there, it would seem that we intended to do but little there for some time, at least, untill the fate of Richmond is decided. We are now getting, and have been drawing full Rations for some time I never seen the boys in better spirits. I do not know of but one case of sickness in the regiment, and it is the same way all through the Division. I am just getting over a very severe cold. Of late I have suffered a good deal that way. But now, warm weather is curing me. A great many of our sick and wounded boys who have been home on Furlough have rejoined our company. We have also received some seventeen new Recruits, So that now we have quite a respectable company. But I will have to close</p>
+            <pb n="4" facs="0012_000075_000202_0004.jpg" xml:id="d3e183"/>
+            <p>Give my love to Ma and all the children and write soon. Yours Affectionately</p>
+            <p>Will.</p>
+            <p>Simon Fabry. Evansville Indiana. is the adress of Mr <unclear reason="Name not clearly written." resp="Josh Hogan">Lemmerman</unclear>. I think you had better direct your letters to Chattanooga. I have not yet received the thirty dollars which Mr Young sent for through me. Yours &amp;c.</p>
+            <p>Will</p>
+         </div>
+      </body>
+   </text>
+</TEI>

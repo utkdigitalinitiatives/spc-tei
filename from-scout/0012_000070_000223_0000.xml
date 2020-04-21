@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000223_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Hickman, James M.</name>
+ in Monroe Co., Tenn. to O.P. Temple in Knoxville, Tenn. <date when="1865-04-24">1865 April 24
+ </date>
+            </title>
+            <author>
+               <name type="person">Hickman, James M.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000223_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, James M. Hickman in Monroe Co., Tenn. to O.P.Temple in Knoxville, Tenn., 1865 April 24</title>
+               <date>1865-04-24</date>
+               <author>
+                  <name>Hickman, James M.</name>
+               </author>
+               <extent>4 digital images;  4 pages</extent>
+               <note type="abstract">1865 April 24 James M. Hickman, Monroe Co., Tenn., to O.P. Temple. Can he get damages from Confederate officer who pressed him into Rebel army, kept him 3 months and threatened him.
+</note>
+               <note type="collection">The O.P. Temple Papers, 1865</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Land tenure -- Tennessee -- Monroe County -- History -- 19th century.</term>
+               <term>Draft resisters -- Tennessee -- Monroe County -- History -- 19th century.</term>
+               <term>Monroe County (Tenn.) -- Politics and government -- 19th century.</term>
+               <term>United States -- History -- Civil War, 1861-1865 --Draft resisters.</term>
+               <term>Hickman, James M. -- Correspondence.</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000070_000223_0001.jpg" xml:id="d3e158"/>
+            <p>State of Tennessee Monroe County</p>
+            <p>Aprile the 24th 1865</p>
+            <p>Mr O.P. Temple Esq</p>
+            <p>Dear Sir After my best respects to you I can inform you that after I becom 18 yers old I was laying out to keep from being pressed into the rebbel Army and waiting for an Oppertunity to go to KY I happened to go in to the house one night and P. A. Heartsill the enrolling officer for this district Braught a band of rebbels and and surrounded the house and Taken me prisoner and taken Me to knoxville and kep me in the guard house for a long time And pressed me into the army And kept me about three Months threatening to hang me </p>
+            <pb n="2" facs="0012_000070_000223_0002.jpg" xml:id="d3e172"/>
+            <p>Because I refuseed to take the Oath or to fight for them I at length got an oppertunity Of running away from them And I have a notion of trying to gain damages of of them Heartsill left with the rebs He left a piece of land here tho I think he sorter shamd it Off to a man by the name of Coffin Near Loudon and I want to know if you will Attend to it for me and if You will pleas write me a letter and inform me how to proceed and whether it can be done at our county Seat at this time or not And if you will wait for Your fee Untel it is gaind Or not as I am nerly without</p>
+            <pb n="3" facs="0012_000070_000223_0003.jpg" xml:id="d3e180"/>
+            <p>Means by this cruel rebelion To all the afore so statements I can prove and also my loyalty the U.S.A. and I joind the Federal Army and was dischargd for disability</p>
+            <p>Respectably Yours</p>
+            <p>James M. Hickman</p>
+            <p>Hon O. P. Temple Esq</p>
+            <p>R B direct your letter </p>
+            <p>To Loudon Tenn</p>
+            <pb n="4" facs="0012_000070_000223_0004.jpg" xml:id="d3e198"/>
+            <p>James M. Hickman</p>
+            <p>Ans. Apr 28, 1865.</p>
+            <p>(Reeve.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

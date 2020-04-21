@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000297_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Fullerton &amp; Raymond</name>
+				                 in Boston, Mass., to W.P. Tifft, Esq., <date when="1851-03-31">1851 March 31</date>
+            </title>
+        <author>
+          <name type="person">Fullerton &amp; Raymond</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000297_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Fullerton &amp; Raymond in Boston, Mass., to W.P. Tifft, Esq., 1851 March 31</title>
+          <date when="1851-03-31">1851 March 31</date>
+          <author>
+            <name type="person">Fullerton &amp; Raymond</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1851</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000297_0001.jpg" xml:id="d4e44"/>
+        <p>Boston.</p>
+        <p>March 31. 1851.</p>
+        <p>W.P. Tifft Esq</p>
+        <p>Dear Sir</p>
+        <p>We have you Inv. and Bill Lading of two passenger cars and fixtures shipped to your care for a/c East Tennesse &amp; Georgia Railway Co. c/o Bryit Dunbar.  They are insured.</p>
+        <p>We were obliged to agree to put the Cars on and take them off the vessels deck at the expense of the road, or lose the opportunity of sending them.  With jacksaws, and such apparatus as any rigger can provide the cards can be easily handled.  They are in fine order now and well stowed.</p>
+        <p>It is important for us that you should write to Miss AD Keyes &amp; MB Pritchard &amp; Dr. Ramsay that the cars are landed &amp; according to Invoice and Bill Lading, as soon as the same are landed and found to conform to Inv.  We shall probably ship a Locomotive tomorrow 1st April we have not yet the name of the vessel engaged to convey it.</p>
+        <p>We are dear<gap resp="Hogan"/>
+            </p>
+        <p>Yours truly</p>
+        <p>Fullerton &amp; Raymond</p>
+        <pb n="2" facs="0012_000060_000297_0002.jpg" xml:id="d4e67"/>
+        <p>1.85</p>
+        <p>Fullerton &amp; Raymond</p>
+        <p>Boston. March 31</p>
+        <p>Recd - April 5</p>
+        <p>Ansd - May 3d</p>
+      </div>
+    </body>
+  </text>
+</TEI>

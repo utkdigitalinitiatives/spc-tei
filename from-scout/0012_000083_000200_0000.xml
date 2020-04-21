@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000083_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Howard Hopkins</name>
+in LaGrange, Tenn. to Abbie Watson in Clyde, Wayne County, N.Y.,
+<date when="1864-01-17">
+1864 January 17
+</date>
+            </title>
+            <author>
+               <name type="person">Hopkins, Howard</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000083_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Howard Hopkins in LaGrange, Tenn. to Abbie Watson in Clyde, Wayne County, N.Y., 1864 January 17</title>
+               <date>1864-01-17</date>
+               <author>
+                  <name>Hopkins, Howard</name>
+               </author>
+               <extent>5 digital images; 0.1 linear feet; 1 envelope, 4 p.</extent>
+               <note type="abstract">In this letter, dated January 17, 1864 at LaGrange, Tenn., Howard Hopkins of the 3rd Regiment Michigan Calvary writes to his cousin Abbie Watson in Clyde, Wayne County, N.Y. He discusses general news, hopes for returning home, a possible move with his Division to Texas and whether he will re-enlist or not. He says, &quot;...untill those men in the North does do sompthing I shall not enlist again.&quot;</note>
+               <note type="collection">Howard Hopkins Letter, 1864</note>
+               <note type="manuscript">MS.2799</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Correspondence</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Hopkins, Howard -- Correspondence.</term>
+               <term>United States. Michigan Cavalry Regiment, 3rd (1861-1865)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e147">
+            <pb n="1" facs="0012_000083_000200_0001.jpg" xml:id="d3e148"/>
+            <p>Miss Abbie Watson</p>
+            <p>Clyde Wayne Co</p>
+            <p>New York</p>
+            <pb n="2" facs="0012_000083_000200_0002.jpg" xml:id="d3e160"/>
+            <p>Sunday Morning Jan. 17th/64</p>
+            <p>Dear Cousin</p>
+            <p>Your kind favor of January 4th came safe to hand last eavning and as is ever the case I was verry verry glad to here from you yes Abbie I am ever glad to here from you and to know I am not forgotten by those at home who are near and dear</p>
+            <p>[This section appears upside down at the top of the page]: Abbie when you write me agan send me your photograph wont you I shall look for it. I hav not had a letter from Blanchard since I came back I think it to bad they seam to think so much of me and then not eaven write me a letter. they are good souls for I love them and may God Bless them and ther labors.</p>
+            <p>[This section appear on the left hand side of the paper]: Abbie write to me soon give my love to all <unclear/> friends and except this por scrible from your very affectionate Cous Howard Good Bye, Abbie</p>
+            <pb n="3" facs="0012_000083_000200_0003.jpg" xml:id="d3e178"/>
+            <p>to me what a blessed gift letters are espesially when written to the lonley Soldier who is far far from kind friends and home. Home what a sweet word how I love it. one noble writer has said that the three sweetest words were Mother Home and Heaven how true. I wonder if I shall ever see my dear good Mother and Home agan. I trust and hope I may and that soon. You will say at once that I had better be asking myself the question wil I ever reach Heven. I hav asked myself that question meany times and my daily prayr is that I may so live that I can reach Heaven and meet those gone</p>
+            <pb n="4" facs="0012_000083_000200_0004.jpg" xml:id="d3e186"/>
+            <p>before. Oh is it not a pleasing thought to think if we are onley faithfull that God will never leav nor forsake us.</p>
+            <p>Since I last wrote you we hav moved camp we are not camped at LaGrange, Tenn where we were last summer. how long we shal stay here is more than I can say some say we are going to start for Texas in a few days. there is one Division of this Armey going and we may be among the number. I hope so I should realy like to visit Texas before I return home.</p>
+            <p>A great many of the men are reenlisting as veterans and if they get 3/4 of the</p>
+            <p>[This section is written across the top of the page]: P.S. Direct to LaGrange Tennessee Co E 3rd Mich Cavalry</p>
+            <pb n="5" facs="0012_000083_000200_0005.jpg" xml:id="d3e200"/>
+            <p>Regiment they will go home on furlow in a few weeks there has quite a number enlisted all ready and I think they will get 3/4 of the men. I do not know as I shall enlist. I think that I will not untill some of those men in the North come out and then if they need more men I am willing to go agan and untill those men in the North does do sompthing I shall not enlist again. I think if I stay three years that I hav nobley preformed my duty.</p>
+            <p>You say you think your Cousin Dill is not in the Armey. You do not seam to know as much about him as you use to what is the trouble I fear you hav had som dificulty. write and tell me wont you. You wished to know where Jack <unclear>Bond</unclear> was. he is with us yet -- is well and feeling well. Jack is a fine fillow.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

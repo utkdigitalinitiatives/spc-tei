@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000541_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Mary E. Huger</name>
+ in Philadelphia, Penn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1888-04-06">1888 Apr. 6</date>
+            </title>
+            <author>
+               <name type="person">Huger, Mary Esther, 1820-1898</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000541_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Mary E. Huger in Philadelphia, Penn., to M.B.C. Ramsey in Knoxville, Tenn. 1888 Apr. 6</title>
+               <date>1888-04-06</date>
+               <author>
+                  <name>Huger, Mary Esther, 1820-1898</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 pages</extent>
+               <note type="abstract">1888 Apr. 6, Mary E. Huger, Philadelphia, Penn., to M.B.C. Ramsey, Knoxville, Tenn. Account of her granddaughter&apos;s progress at a school for the deaf and her daughter&apos;s progress at art school. Describes Philadelphia and mentions their relatives there. Gives their plans for returning to Sewanee and her married daughter &apos;s plans for joining them. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>City and town life -- Pennsylvania -- Philadelphia -- History -- 19th century.</term>
+               <term>Church buildings -- Pennsylvania -- Philadelphia -- History -- 19th century.</term>
+               <term>Education -- Pennsylvania -- Philadelphia -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Sewanee (Tenn.) -- History -- 19th century.</term>
+               <term>Huger, Mary Esther, 1820-1898 -- Family.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000541_0001.jpg" xml:id="d3e155"/>
+            <p>Mrs Ramsay</p>
+            <p>care Dr J G M Ramsay</p>
+            <p>Knoxville</p>
+            <p>Tennessee</p>
+            <pb n="2" facs="0012_000060_000541_0002.jpg" xml:id="d3e169"/>
+            <p>Easter Sunday</p>
+            <p>1030 Spruce St</p>
+            <p>Philadelphia</p>
+            <p>I have thought of you this Easter Sunday Dear Mrs Ramsay - &amp; as I do not go out this afternoon, shall send a few lines of greeting, thinking you will like to hear from me.</p>
+            <p>We are all pretty well &amp; hope the trials of a severe winter are over, but all have colds &amp; coughs still, &amp; my daughter has just recovered from an acute attack of rheumatism, which kept her in bed a week. Spring is coming soon, they say, &amp; occasionally we have a summer day, &amp; again cold, &amp; windy.</p>
+            <pb n="3" facs="0012_000060_000541_0003.jpg" xml:id="d3e185"/>
+            <p>My little Esther is doing very well at school, &amp; learning as well as we can expect -- I have no doubt now that she will use speech, &amp; perhaps not be recognized as a mute.</p>
+            <p>My daughter is much interested in her Art studies, &amp; hopes to complete her course here, this spring -- her school closes the last day of May, &amp; we hope to leave the first day of June -- probably shall spend a few days in Knoxville -- when I shall certainly see you.</p>
+            <p>I have never lived in so large a City before -- there are nearly a million of inhabitants -- &amp; many beautiful things to see -- but I</p>
+            <pb n="4" facs="0012_000060_000541_0004.jpg" xml:id="d3e197"/>
+            <p>am sure much wickedness &amp; suffering. I think the South is better for not having large Cities. There are numberless Churches, in every direction, some very high, so that you would fancy yourself in a Roman Catholic Church -- most of them fashionable -- where I find it difficult to feel it is a church -- but many where I have been much interested --</p>
+            <p>My children have relations here, who are very kind to us -- a first cousin of their fathers, older than I am, married a Philadelphian, long ago, &amp; her children settled here, so that we do not feel altogether as in a strange land.</p>
+            <pb n="5" facs="0012_000060_000541_0005.jpg" xml:id="d3e207"/>
+            <p>My married daughter, Mrs Elliott, has returned to her summer home in Sewanee, &amp; we shall be very happy when the time comes for us to join her -- indeed I fear we shall all be home sick as soon as warm weather commences, but we came here for a special object, &amp; I hope will be able to remain the allotted time -- Hoping to see you before very long, &amp; with kind love to your daughter, believe me affectionately your friend</p>
+            <p>Mary E Huger</p>
+            <p>1030 Spruce Street,</p>
+            <p>Philadelphia Penn</p>
+            <p>April 6th</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000273_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>List of Acts,
+					<name>David Burford</name>
+               <date when="1832">1832</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">David Burford</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000273_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>List of Acts, David Burford1832</title>
+          <date when="1832">1832</date>
+          <author>
+            <name type="person">David Burford</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000115_000273_0001.jpg" xml:id="d4e38"/>
+        <p>Penitentiary</p>
+        <p>This act provides for every states case, defined the offence and annexed the penaltys building &amp; managing said penitentiary - 25000$ is appropriate. p 5.</p>
+        <p>An act to reform and amend the penal laws of the state</p>
+        <p>This act contains 82 sections and defined every kind of offence and is annexed the penaltys p 27</p>
+        <p>An act to establish a system of common schools.</p>
+        <p>This act makes provision for the appointment by the county courts of common school commissioners who are to have charge of the funds at <unclear reason="illegible" resp="LLW">agencies</unclear> but the handing over suspends interest, <unclear reason="illegible" resp="LLW">to</unclear> our school lands <unclear reason="illegible" resp="LLW">&amp; be to be over</unclear> by school comm</p>
+        <p>An act to prevent <unclear reason="illegible" resp="LLW">vexations</unclear> law suits</p>
+        <p>This act provides that in all civil prosecutions founded upon assaults, assaults &amp; batterys &amp; malicious prosecutions &amp; false imprisonment the plfs shall not recover more cost than damages unless the damages given him exceed $5</p>
+        <p>An act concerning bills of exchange</p>
+        <p>This act defines the damages on foreign &amp; inland bills of exchange and on inland bills 3 prct and cost foreign Bills adjoining the U.S. including the W. India Islands 10 prct on all other countrys 20 prct damages in place of interest up to time of notice of protect <unclear reason="illegible" resp="LLW">$</unclear> and 6 prcent <unclear reason="illegible" resp="LLW">Ind</unclear>  thereafter. p 15</p>
+        <p>An act regulating costs in civil cases</p>
+        <p>This act provides that where suits are commenced in the county or circuit county courts are compromised, the case shall be</p>
+        <pb n="2" facs="0012_000115_000273_0002.jpg" xml:id="d4e83"/>
+        <p>stricken from theh docket on the payment of the costs which have acrued to the clerk &amp; Sheriff - also where appeals are taken from the decision of <unclear reason="illegible" resp="LLW">J, F, </unclear>and afterwards compromised, papers not to be taken up, but execution to issue as tho no appeal had been taken.  Also partys ruled to new securetys or to justify. p 52</p>
+        <p>An act to releive the countys in this state from the payment of costs in certain cases.</p>
+        <p>This act provides that in all state prosecutions either in the county or circuit courts under the grade of petit larceny where the Deft may be acquited, the cost shall not be paid out of the county treasury nor shall the county court allow any claim except tailors fees, stated witnesses &amp; shff for <unclear reason="illegible" resp="LLW">sumonsing</unclear> witnesses in behalf of the state officers of court to have no pay unless ordered to be paid by prosescutor nor shall prosescutor in stated cases for misdeameanor receive any pay as pros. or states witnessses - <unclear reason="illegible" resp="LLW">alls</unclear> bills of indictment returned, not a true bill by the grand jury, atty Genl not to receive any tax fee as heretofore, and in no case of misdemeanor where the county pays the cost shall the atty Genl tax fee exceed $2.50 p 31</p>
+        <p>An act to authorise debtors to confess judgment</p>
+        <p>This act authorises debtors to confess judgment by paying to the clerk one dollar for entering up judgment and directs the note to be filed with the clerk p 84</p>
+        <p>An act for the <unclear reason="illegible" resp="LLW">releif</unclear> of Exr <unclear reason="illegible" resp="LLW">S Admrs</unclear>
+            </p>
+        <p>Hereafter Exr <unclear reason="illegible" resp="LLW">S Admrs</unclear> are allowed six months to assertain and settle the estate of the decd without being liable to the payment of cost. p 89</p>
+        <p>State Bank - new directory Pres. Directory &amp; cashier - special act - court organized - bond for performance &amp; no tax fee allowed Prs. Bank on judgment - p132 &amp; 94</p>
+        <pb n="3" facs="0012_000115_000273_0003.jpg" xml:id="d4e118"/>
+        <p>An act for the benefit of Sherrifs &amp; clerks</p>
+        <p>This act gives to Shffs &amp; clerks a right to take judgment by motion against their deputys by giving them 10 days notice - also plfs a right to judgment on same terms by giving 10 days notice, either in the county or circuit court page 75</p>
+        <p>An act taxing clock pedlars</p>
+        <p>This act requires that they should obtain lisence for which they are to pay 25$ to the state &amp; 75 cts clerks fee. page 92</p>
+        <p>An act appropriating one half state tax for county purposes heretofore the Sheriffs, county Trustees &amp; Treasures charged commissions for receiving &amp; disbursing these funds the Treasurers now receive no com. page 100. Jrnl 109 - 504</p>
+        <p>An act to punish negroes for selling spirits - page 102</p>
+        <p>An act repealing the law requiring county drills</p>
+        <p>This act also directs commandants of Drill <unclear reason="illegible" resp="LLW">Regimentat</unclear>, Battalion &amp; company musters to receive excused, and where they are satisfactory not to require their attendance at court martial. p 19 Journal 255</p>
+        <p>An act increasing the jurisdiction of justices of the peace in all civil actions to 50$ - page 40 Jn 473</p>
+        <p>An act to establish a board of internal improvement and appropriate 150 thousand dollars from the sales of <unclear reason="illegible" resp="LLW">Kiwassee</unclear> lands. p 103</p>
+        <p>Resolution to cirt clks 543</p>
+        <p>adjournment 591</p>
+        <p>Mchts tax 625</p>
+        <pb n="4" facs="0012_000115_000273_0004.jpg" xml:id="d4e153"/>
+        <p>An act to establish a quorum court in Smith county - p 11</p>
+        <p>An act concerning <unclear reason="illegible" resp="LLW">fersiage</unclear> of Jurymen - p4</p>
+        <p>Smith County Agency</p>
+        <p>Trial of Judge Williams</p>
+        <p>Bill increasing jurisdiction of Justices of the Peace</p>
+        <p>A bill to equalize tax on merchants</p>
+        <p>Three new judges appointed</p>
+      </div>
+    </body>
+  </text>
+</TEI>

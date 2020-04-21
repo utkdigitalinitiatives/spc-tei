@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000547_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> Annette Ramsey</name>
+ in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn. <date when="1890-03-27">1890 Mar. 27</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, Annette</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000547_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Annette Ramsey in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1890 Mar. 27</title>
+               <date>1890-03-27</date>
+               <author>
+                  <name>Ramsey, Annette</name>
+               </author>
+               <extent>2 digital images; 2 pages.</extent>
+               <note type="abstract">1890 Mar. 27, Annette Ramsey, daughter of Robert Ramsey, Huntersville, N.C., to her aunt, Elizabeth Ramsey Breck, Knoxville, Tenn. Expresses appreciation for money sent by Lizzie and Mack. Reveals that the family has had a difficult time since her father became too ill to work. Discusses her studies and her plans to leave school and help her family financially. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family -- Health and hygiene -- North Carolina -- Huntersville -- History -- 19th century.</term>
+               <term>Family -- Economic aspects -- North Carolina -- Huntersville -- History -- 19th century.</term>
+               <term>Huntersville (N.C.) -- History -- 19th century.</term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Ramsey, Robert McGready, 1832-1890 -- Health.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e148">
+            <pb n="1" facs="0012_000060_000547_0001.jpg" xml:id="d3e149"/>
+            <p>Mar. 27 1890</p>
+            <p>Huntersville</p>
+            <p>N.C.</p>
+            <p>Dear Aunt Lizzie</p>
+            <p>We received a note from Uncle Mack last night which says for me to acknowledge the thankful receipt of in his name. He is not able to write any at all or even to sit up.</p>
+            <p>The money certainly came in a time when it was much needed as the support of the whole family since xmas has fallen an Bud and you know he is small yet and can not get a mans wager working.</p>
+            <p>This year is the last I expect to attend school for some time, I must now see if I cannot turn what I have learned into something to help Pa with.</p>
+            <p>Grace A__ was taken home yesterday very sick, she has had the chills this week.</p>
+            <p>The teachers gave their monthly lecture monday night</p>
+            <pb n="2" facs="0012_000060_000547_0002.jpg" xml:id="d3e174"/>
+            <p>in the hall and it was rather cool, Grace was there and probably that was what made her sick, as she had a chill the next morning.</p>
+            <p>Grandma Atwells have been sick, Andie stayed up there a good while, until Pa got sick.</p>
+            <p>I do not know what is the matter with him, the <unclear reason="illegible" resp="JR">&quot;afr&quot;</unclear>does not say but I think it is fever.</p>
+            <p>You must excuse this short letter for I am very tired, have written four pages of foolscap. You know we always have compositions friday and Thursday is my day to write mine. Andie is copying hers now and using the best pen so I am writing with a scratchy one.</p>
+            <p>We all, not only Pa, thank you for sending the money and it way be in our power someday to pay you but if not you will have your reward in heaven.</p>
+            <p>I will close now as it is near train time and I wish to mail it tonight.</p>
+            <p>Your loving niece,</p>
+            <p>Annette Ramsey</p>
+         </div>
+      </body>
+   </text>
+</TEI>

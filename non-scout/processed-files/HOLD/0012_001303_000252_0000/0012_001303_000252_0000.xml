@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000252_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in France to Ellen Smith in Jackson, Tenn.,<date when="1919-05-18">1919 May 18</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000252_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1919 May 18</title>
+          <date when="1919-05-18">1919 May 18</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>6 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000252_0001.jpg" xml:id="d4e39"/>
+        <p>James L Dodds</p>
+        <p>Co# 8=23rd Engir</p>
+        <p>mex Exp Forces</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000252_0002.jpg" xml:id="d4e57"/>
+        <p>Montigny France</p>
+        <p>May 18 1919</p>
+        <p>Dear Ellen:</p>
+        <p>I received your letter of April 15 thirsday and of course you know I was glad to hear from you   You remember I told you last Sunday I was away from my Company.</p>
+        <p>Well I am still out here did not go in to day as, had to work this morning   I will help to move this outfit tomorrow and then will go back to My Co. at Langres</p>
+        <p>This bunch I am with now are going back home and they have only been over here about 7 months I have been over 14 and I have to stay at let</p>
+        <pb n="3" facs="0012_001303_000252_0003.jpg" xml:id="d4e71"/>
+        <p>them go back. Well I wont say what I think about it   They might put me in Jail.</p>
+        <p>They have had a band concert there this afernoon and had to play Home Ward bound. Now I know you can imagine about how I feel. </p>
+        <p>I guess when every body else get out from over here I will get to come home then. Thair isnt a soul over here that seems to know any thing about when we will get home</p>
+        <p>I think Linn Div will leave soon if they havent already. I have never heard a</p>
+        <pb n="4" facs="0012_001303_000252_0004.jpg" xml:id="d4e81"/>
+        <p>word from him since he left Souelly. I wrote him almost two months ago. I guess he never received My letter thar</p>
+        <p>We are having some real Nice weather Now   Has not rained in over two week I dont think   But the roads are so dusty Cant hardly<unclear reason="illegible" resp="PW">buse</unclear>
+               <unclear reason="illegible" resp="PW">whiie</unclear>out an truck</p>
+        <p>But I believe will take dust rather than rain. I have got a long trip to make tomorrow Morning this bunch</p>
+        <p>But I will be glad to get rid of them so can be with my Company.</p>
+        <pb n="5" facs="0012_001303_000252_0005.jpg" xml:id="d4e96"/>
+        <p>Well say I am surprised My self about Fanny liking Me better than she did Everett. I never knew anything about it    Will I will find out some of these day just how slow I have been.</p>
+        <p>I thank will speed up when I get home so wont get left all the time. Think will study law making the rest of my time over here and maiybe when I get home can get some one to listen to me.</p>
+        <p>The bad part I havent any one to practis with over here. Cause I cant talk to</p>
+        <pb n="6" facs="0012_001303_000252_0006.jpg" xml:id="d4e104"/>
+        <p>these French Girls.</p>
+        <p>Well thair is very little news flying around over here so will quit for this time  Write me real often for I am always so glad to get your letters</p>
+        <p>With lots of love</p>
+        <p>James. L.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

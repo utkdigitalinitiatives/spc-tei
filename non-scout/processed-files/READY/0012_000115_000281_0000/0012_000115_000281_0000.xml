@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000281_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>W.H. Hall</name>
+				                    to David Burford in Dixons Springs, Tenn., <date when="1864-03-01">1864 March 1</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+          <name type="person">W.H. Hall</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000281_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, W.H. Hall to David Burford in Dixons Springs, Tenn., 1864 March 1</title>
+          <date when="1864-03-01">1864 March 1</date>
+          <author>
+            <name type="person">W.H. Hall</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000281_0001.jpg" xml:id="d4e39"/>
+        <p>Major David Burford</p>
+        <p>Dixon's Springs</p>
+        <pb n="2" facs="0012_000115_000281_0002.jpg" xml:id="d4e45"/>
+        <p>March 1st 1864</p>
+        <p>Major Burford</p>
+        <p>Dr sir</p>
+        <p>Mothers health is verry feeble she is confined to the bed the most of the time she is verry low spirited and thinks she will not live verry long.  I hope she is mistaken she is very anxious to see you she wishes to make a will.  She has more confidence in you than any body else.  She wishes you to come down as soon as you can.  She wishes to talk and advise with you about the matter I hope you will come down if possible as it will afford her great satisfaction to see and talk to you she says if she had her wordly matters settled with your advice and counsil her mind would be verry much relieved.  I have been suffering verry much with tooth ache &amp; neuralgia for the last ten days I feel better this evening</p>
+        <p>Your friend truly</p>
+        <p>W.H. Hall</p>
+      </div>
+    </body>
+  </text>
+</TEI>

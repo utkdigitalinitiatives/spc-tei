@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000218_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolf Hackley</name>
+				                    in Memphis, Tenn., to his wife, <date when="1864-12-25">1864 Dec. 25</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolf Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000218_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolf Hackley in Memphis, Tenn., to his wife, 1864 Dec. 25</title>
+               <date when="1864-12-25">1864 Dec. 25</date>
+               <author>
+                  <name type="person">William Randolf Hackley</name>
+               </author>
+               <extent>3 pages</extent>
+               <note type="collection">William Randolf Hackley Letter</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000218_0001.jpg" xml:id="d4e39"/>
+            <p>Memphis Dec 25 1864</p>
+            <p>My Darling</p>
+            <p>Merry XMas and happy New Year to you all yours of the 18th, recd yesteday the Box has not come but I suppose it will be here tomorrow many thanks for the contents which are just what I want, and which I will use daily, setting by the fire at night My commission has not come and I have written Mr Cutts to try and get it with the assistance of <unclear reason="illegible" resp="JCM">I red gehorton</unclear> the agent StLouis has resigned and if I get the appointment I shall probably be ordered there which will be very conveneint Genl Arme says that he does not wish to press the matter. that my name is before the Secretary and</p>
+            <pb n="2" facs="0012_000298_000218_0002.jpg" xml:id="d4e50"/>
+            <p>he does not think he ought to write again but I think that Mr. cutts may be able to do all that is wanting I fear that Hattie is <unclear reason="illegible" resp="JCM">improvident in nurturing on the Icu</unclear> as a fall night injure her back I am glad to be am that she does not suffer as much as she did before she left school I am not able to do what she wanted me to do money is too scares and busines uncertain. she wanted to make you a present and it would have rejoiced me to enable her to do it, you will have to take the will for the deed. I hope that Charlotte was able to take her part in the examination as I know she will do herself credit I am to dine today with Mr. <unclear reason="illegible" resp="JCM">Buna</unclear> and Mr. Yeatman is also going he will walk out with me I do not feel very merry thinking</p>
+            <pb n="3" facs="0012_000298_000218_0003.jpg" xml:id="d4e60"/>
+            <p>so much of my dear ones at home. Monday Dec 26. Mr. Yeatman came in for me when I had written this much and we walked out to Mr. <unclear reason="illegible" resp="JCM">Buna</unclear> through a light rain which had been falling all day we had a good dinner and a cup of coffee which suited me well and a pleasant time the weather all day very disagreable tho not cold to day the sun is out and weather pleasant streets very muddy.</p>
+            <p>When you pay the rent deduct the amt paid for the cellar windows #13.50 - I do not know where the receipt is but Randolph the carpenter will give you another if it is necessary. I do want to see you so mcuh that I can scarcely contain myself and this season particularly makes me think more of you than usual Love &amp; kisses to all Your aff Husband</p>
+            <p>WRHackley</p>
+         </div>
+      </body>
+   </text>
+</TEI>

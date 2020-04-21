@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000238_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,  
+					<name>James L. Dodds</name>
+				                    in France, to Ellen Smith, in Jackson, Tenn., <date when="1919-03-03">1919 March 3</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000238_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France, to Ellen Smith, in Jackson, Tenn., 1919 March 3</title>
+          <date when="1919-03-03">1919 March 3</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.2918</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000238_0001.jpg" xml:id="d4e39"/>
+        <p>AM.EX.F.</p>
+        <p>Knights of Columbus</p>
+        <p>OVERSEAS SERVICE</p>
+        <p>FROM J.L. Dodds</p>
+        <p>T.Co # 8 = 23rd Engir</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000238_0002.jpg" xml:id="d4e61"/>
+        <p>Souilly France</p>
+        <p>March 3 1919</p>
+        <p>Dear Ellen,</p>
+        <p>Will write you a few lines this morning as I am dodging the boss and not at work, we have two drivers on a truck now and if we can keep out of sight of the boss one of us will drive in the morning and the other in the afternoon</p>
+        <p>But if the top kicker comes around and finds one of the fellows around the barracks he get a balling out.</p>
+        <p>But they dont mind that any more</p>
+        <p>The boys are tired of this work and want to get out home and they wont take any intrest in there work</p>
+        <pb n="3" facs="0012_001303_000238_0003.jpg" xml:id="d4e77"/>
+        <p>Can you blame em,?</p>
+        <p>We are haveing some real spring weather here now The only thing that is bad is the rain.</p>
+        <p>It is raining hard now Jno Cartemell is telling some one in the barracks now would be a nice day for ducks.</p>
+        <p>Lim hasnt been around any more.</p>
+        <p>I thought maybe he would come over yesterday as <unclear reason="illegible" resp="SLJ">was</unclear> sunday </p>
+        <p>But I guess he was working I believe we will leave this place (Souilly) some time this month. I dont know when will go but I hope will be</p>
+        <pb n="4" facs="0012_001303_000238_0004.jpg" xml:id="d4e94"/>
+        <p>to good old U.S.A.</p>
+        <p>I thank we'll get home some time between May 15 and July 4 Although I am just guessing at that.</p>
+        <p>They never let a fellow know much while he is in the Army. When we get ready to go they will say pack up we are going to move and wont say where we are going So we have to guess every thing</p>
+        <p>Now please dont stop writing me because I thank we are coming home. I could be wrong, you know.</p>
+        <p>And is a long time until May or July, you know</p>
+        <pb n="5" facs="0012_001303_000238_0005.jpg" xml:id="d4e106"/>
+        <p>Will how is every thing in Jaxon?</p>
+        <p>Has the flu killed every body every time I hear from any one they tell me of deaths.</p>
+        <p>Well I dont know any more to write this time so will quit</p>
+        <p>Write me again soon</p>
+        <p>with lots of love</p>
+        <p>James L Dodds</p>
+        <p>Truck, Co # 8 = 23 Engir</p>
+        <p>American Exp Forces</p>
+        <p>Vianay France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

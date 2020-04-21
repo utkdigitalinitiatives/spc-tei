@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000081_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+Jacob Rowland
+</name>
+in Knoxville, Tenn., to Olive M. Rowland in Willoughby, Ohio,
+<date when="1865-01-26">
+1865 January 26
+</date>
+            </title>
+            <author>
+               <name type="person">Rowland, Jacob</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000081_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Jacob Rowland in Knoxville, Tenn. to Miss Olive M. Rowland in Willoughby, Ohio, 1865 January 26</title>
+               <date>1865-01-26</date>
+               <author>
+                  <name>Rowland, Jacob</name>
+               </author>
+               <extent>5 digital images; 0.1 linear feet; 1 envelope, 4 p.</extent>
+               <note type="abstract">This letter, dated January 26, 1865, from Union soldier Jacob Rowland to his sister, Olive in Willoughby, Ohio, is sent from Knoxville, Tenn., where Rowland reports of &quot;...quiet times here in Knoxville just now occasionally review as inspection we moved our camp last Tuesday. We were on the south side of the river about 1 1/2 miles from the city. Now we are quartered inside of the breast works right in the suburbs...&quot;</note>
+               <note type="collection">Jacob Rowland Letters, 1865</note>
+               <note type="manuscript">MS.2776</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Biobraphy.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Regimental histories.</term>
+               <term>Tennessee, East -- History -- Civil War, 1861-1865 -- Regimental histories.</term>
+               <term>Rowland, Jacob -- Correspondence.</term>
+               <term>United United States. Army. Ohio Cavalry Regiment, 2nd (1861-1865). Company M.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000081_000200_0001.jpg" xml:id="d3e151"/>
+            <p>[Includes postmark from Knoxville, Tenn., dated Jan 29 &apos;65, and a postage stamp with a face value of 3 cents]</p>
+            <p>Miss Olive M. Rowland</p>
+            <p>Willoughby</p>
+            <p>Lake Co</p>
+            <p>Ohi</p>
+            <pb n="2" facs="0012_000081_000200_0002.jpg" xml:id="d3e167"/>
+            <p>/65</p>
+            <p>Knoxville Tenn Jan 26th</p>
+            <p>Dear Sister Olive</p>
+            <p>I recd your kind favor of the 18th this morning. I have been looking for it sometime and now I am going to tell you just what I think of the way you &amp; Father do business ever since I have been from Home whenever either of you have taken the pains to write to me I have invariably answered within 48 hours and then I have had to wait from six, to eight weeks for an ans. Now do you not think that I have just cause for complaint and I think some of adopting Dans plan that is not answerg soon after getting a letter and then maybe I will get another dunning for an ans to the 1st one I wrote to Father the 23rd of Nov and he has not answered yet</p>
+            <pb n="3" facs="0012_000081_000200_0003.jpg" xml:id="d3e181"/>
+            <p>it is poor encouragement for promptness but a hint to the wise is sufficient and as you now have abroad one I will drop the subject. I have no news of interest to write we are haveing quite cold weather now. The earth is frozen very hard otherwise it is pleasant we are haveing quiet times here in Knoxville just now occasionally review or inspection. We moved our camp last Tuesday we were on the south side of the river about 1 1/2 miles from the city. Now we are quartered inside of the breast works right in the suburbs of the town. We are quarted in log huts 7 x 9 four men in each. Shepard Newton Dan &amp;, myself occupy one. I do not know what our duty will be we have not been called upon since we moved, but we will probably have enough to do after a little as there is but</p>
+            <pb n="4" facs="0012_000081_000200_0004.jpg" xml:id="d3e189"/>
+            <p>few troops left here a good many have been sent to Sherman. The Corps that we belong to have all gone but our division. There has been some talk that we might go but I hardly think that we will I think that Sherman &amp; Grant will soon clean them out down there and when Lee&apos;s army is used up we may begin to look for the end of this cruel war. Parson Brownlow says it will be at an end by the first of March but I think that not so soon but I am in hopes another summer will see the end. I begin to want to come home and see the folks pretty bad but do not expect to until I come to stay it does seem like a long time since I left Home &amp; friends but I will not complain as long as my family and myself are well I have great reason to</p>
+            <pb n="5" facs="0012_000081_000200_0005.jpg" xml:id="d3e197"/>
+            <p>to be thankful that it is as well with me &amp; mine as it is, we have seen some rather rough times since we left Athens last Nov but we have come through all right it took us some time to recruit up after we got back to Knoxville but we have been feeling very well for the last week as within that time we have recd two boxes from Home and Dan &amp; I have now each of us a new pair of boots and two pair of socks and shirts &amp; lots of things from home. We had all the nice chance that we all wanted at three meals that Emma sent us and the cheese was good all but a little on the outside that was moldy so we have been liveing high for 4 or 5 days. I am very glad that Wilber is better. I was afraid I never would see him again. If you see him tell him that I want him to write to me, but my paper is nearly used up and I must soon close. I would like very much to be in Ohio and take a good sleigh ride or two on the nice sleighing. Well, if I stay my three years I have only one winter after this to serve the 15th of next month my time will be one half out but there is but very few that think that we will have to stay another year I hope not at any rate but my paper is used up and it is near roll call so I will close. Write soon</p>
+            <p>Jacob Rowland</p>
+            <p>Dan recd a letter from Jane &amp; Father to day<gap resp="Hogan"/> tomorrow</p>
+         </div>
+      </body>
+   </text>
+</TEI>

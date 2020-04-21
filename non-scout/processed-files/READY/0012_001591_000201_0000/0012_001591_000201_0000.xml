@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001591_000201_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>Andrew Jackson Donelson</name> to Andrew Jackson at the Hermitage, Tenn. <date when="1844-01-02">1844 January 2</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Dunham, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">Andrew Jackson Donelson</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001591_000201_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Andrew Jackson Donelson to Andrew Jackson at the Hermitage, Tenn. 1844 January 2</title>
+          <date when="1844-01-02">1844 January 2</date>
+          <author>
+            <name type="person">Andrew Jackson Donelson</name>
+          </author>
+          <extent>3</extent>
+          <note type="collection">Andrew Jackson Papers, 1840 April, 1844 January 2-October 7</note>
+          <note type="manuscript">3228</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Donelson, Andrew Jackson, 1799-1871</term>
+          <term>Davidson County (Tenn.) -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Dunham, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001591_000201_0001.jpg" xml:id="d4e39"/>
+        <p>Dr Uncle,</p>
+        <p>I told Andrew that I would see Wm on the subject of the road this evening, but it was an hour in the night before I could get through the delivery of my pork to Mr. Smith + others.  So that I must put it off till tomorrow.</p>
+        <p>Mr Fletcher would have risked the trial of the road case, but Mr Ward thru Mr. Washington asked + obtained a continuance.  Mr Fletcher acquiesced under a hope that it could be compromised, and believing that almost any compromise would be preferable to the failure of the application for damages, a result which was almost certin had the trial been had yesterday.</p>
+        <p>I discover that the copy referred to by Mr. Fletcher corresponds with the original agreement respecting the route for the road: and, although it may not be a valid paper in law for the want of the signiature of all the parties, still it strengthens the opposition made to a claim for damage by the party agreeing to it.  The road can be stopped, possibly, by Mrs Ward because she did not sign the agreement, but I trust the agreement suggested by Andrew + William Donelson will be adopted by all the parties and thus all controversy be amicably settled before the meeting of the next court.</p>
+        <p>I will come over as soon as I get</p>
+        <pb n="2" facs="0012_001591_000201_0002.jpg" xml:id="d4e51"/>
+        <p>my breakfast and make out as nearly as I can the statement you desire.  I do not see however of what avail my statement may be in the explanation of the agreement.  I acted on first the Jury of damage and voted to allow Mrs Ward damage to the amount of $200.  I was not with the other jury.</p>
+        <p>Yrs affectionately</p>
+        <p>A J Donelson.</p>
+        <p>Jany 2d 1844</p>
+        <p>Genl Andrew Jackson</p>
+        <pb n="3" facs="0012_001591_000201_0003.jpg" xml:id="d4e63"/>
+        <p>Genl Andrew Jackson</p>
+        <p>Hermitage</p>
+        <p>Maj. A J Donelson to Gen. Jackson on the road</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001560_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Henry R. Pippitt </name>Diary, <date from="1864-04-01" to="1864-12-20">1864 April 1-December 20</date>
+            </title>
+            <author>
+               <name type="person">Pippitt, Henry R.</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <date>2013</date>
+            <idno type="SPC">0012_001560_000201_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Henry R. Pippitt Diary, 1864 April 1-December 20</title>
+                  <date>1864 April 1-December 20</date>
+                  <author>
+                      <name>Pippitt, Henry R.</name>
+                  </author>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Civil War Diaries</term>
+               <term>Pippitt, Henry, 1842-1927 -- Diaries</term>
+               <term>United States. Army. Ohio Infantry Regiment, 104th (1862-1865)
+              Company G.</term>
+               <term>United States. Army. Ohio Infantry Regiment, 104th (1862-1865) --
+              Personal narratives.</term>
+               <term>United States -- History--Civil War, 1861-1865 -- Regimental
+              histories.</term>
+               <term>Ohio -- History -- Civil War, 1861-1865 -- Regimental
+              histories.</term>
+               <term>Horton, Marcus C.</term>
+               <term>Polk, Leonidas, 1806-1864.</term>
+               <term>Hood, John Bell, 1831-1879.</term>
+               <term>Knoxville (Tenn.)</term>
+               <term>Nashville (Tenn.)</term>
+               <term>Pulaski (Tenn.)</term>
+               <term>Columbia (Tenn.)</term>
+               <term>Spring Hill (Tenn.)</term>
+               <term>Franklin (Tenn.)</term>
+               <term>Franklin (Tenn.), Battle of, 1864.</term>
+               <term>Atlanta (Ga.)</term>
+               <term>Atlanta Campaign, 1864.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Prisoners and
+              prisons.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Military
+              life.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Campaigns &amp;
+              battles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-03" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d4e145">
+            <pb n="1" facs="0012_001560_000201_0001.jpg" xml:id="d4e149"/>
+            
+            <pb n="2" facs="0012_001560_000201_0002.jpg" xml:id="d4e154"/>
+            <pb n="3" facs="0012_001560_000201_0003.jpg" xml:id="d4e158"/>
+            <pb n="4" facs="0012_001560_000201_0004.jpg" xml:id="d4e162"/>
+            
+            <pb n="5" facs="0012_001560_000201_0005.jpg" xml:id="d4e168"/>
+            
+            <pb n="6" facs="0012_001560_000201_0006.jpg" xml:id="d4e174"/>
+            <p>September 7th 1864. We marched back to the rear
+          of the Decator road marched about ten mile &amp; Camped for the night</p>
+            <p>Wednesday 8.
+          Reached Deeden at nine oclock and took position on the line for a rest. So here ends the
+          Campaign commencing May 7th 1864 &amp; ending Sept 8th 1864</p>
+            <p>Thursday 9. Lay in Camp.
+          Our Band come up which effords <unclear reason="illegible" resp="R.M.">myoh</unclear>
+          company in camp; had our first <unclear reason="illegible" resp="R.M.">Inesparad</unclear>
+            </p>
+            <pb n="7" facs="0012_001560_000201_0007.jpg" xml:id="d4e194"/>
+            <p>September 10, 1864. All quiet in camp and it
+          seems almost like home.</p>
+            <p>September 11, 1864. In camp nothing of interest
+          transpired.</p>
+            <p>September 12, 1864. To day some of the boys went <unclear reason="illegible" resp="R.M.">a<gap />
+               </unclear>forageing. Frank Baugh of Col H Col Cook
+          &amp; was captured.</p>
+            
+            <pb n="8" facs="0012_001560_000201_0008.jpg" xml:id="d4e213"/>
+            
+            <p>May 13, 1864. Marched to Snake Gap which is
+          completely blockaded with troops and supply trains. Marched to the front &amp;took our
+          position; no fighting on our lines, but heavy cannonading on our right.</p>
+            <p>May 14,
+          1864. Heavy skirmishing all the fore part of the day and at one oclock the fighting began;
+          fought hard until dark. Our Reg. was in the second line of battle. Drove them out of their
+          second line of breastworks.</p>
+            <p>Sunday, May 15, 1864. Skirmishing commenced this
+          morning; heavy firing during the day. Took a <unclear reason="illegible" resp="R.M.">beiltsy</unclear> of five peaces. Our members red two hundred and eighty six Dead
+          Rebles.</p>
+            
+            <pb n="9" facs="0012_001560_000201_0009.jpg" xml:id="d4e231"/>
+            
+            <p>May 16, 1864. Could not find Jo Johnson. He
+            <unclear reason="illegible" resp="R.M.">setsealed</unclear>towards Atlanta. Our Divi
+          crossed the Cursaw river and are in hot pursuit.</p>
+            <p>May 17, 1864. Marched to River;
+          drew rations and at dark started on the march; marched until three Oclock in the morning
+          &amp; camped</p>
+            <p>May 18, 1864. Started at seven Oclock A.m. &amp; marched until four
+          Oclock P.m. camped for the night distance forteen miles</p>
+            <p>May 19, 1864. Marched to
+          Cassville and camped for the night</p>
+            <p>May 20, 1864. Marched from Cassville to to
+          Carters Station camped for the night. The Rebles destroyed a good but of property before
+          leaving</p>
+            <p>May 21, 1864. Camped at Carters Station. Slight skirmishing going at the
+          front</p>
+            
+            <pb n="10" facs="0012_001560_000201_0010.jpg" xml:id="d4e256"/>
+            
+            <p>May 22, 1864. Still at Carters Station doing
+          washing &amp; cleaning up generally</p>
+            <p>May 23, 1864. Left Carters Station and marche to
+          the fight until we reached High Tower river &amp; camped for the night</p>
+            <p>May 24, 1864.
+          Took up the line of march in the morning and crossed the river on Pontoons, marched also 8
+          miles skirmishing with the Enemy as we went</p>
+            <p>May 25, 1864. Lay in camp until dark and
+          then marched about six miles and then stoped (it rained all the time) until twelve Oclock
+          &amp; then marched on</p>
+            <p>May 26, 1864. marched until daylight and then stoped for
+          breakfast. The 20the Corps on the 25th lost about 1000 men by charging a masked battesy.
+          Took our position on the left</p>
+            <p>May 27, 1864. Lay in line of battle all night heavy
+          skirmishing all day. Two <unclear reason="illegible" resp="R.M.">men</unclear>of Company A
+          of the 104th wounded.</p>
+            
+            <pb n="11" facs="0012_001560_000201_0011.jpg" xml:id="d4e281"/>
+            
+            <p>May 28, 1864. Heavy skirmishing all day and
+          night. Capt. Horton of Co. D. killed instantly.</p>
+            <p>Sunday May 29, 1864. Heavy firing
+          day and night. The Rebs made several changes but repulsed every time</p>
+            <p>Monday May 30,
+          1864. Heavy skirmishing all night Rebs made three charges wer repulsed every time heavy
+          loss of the Rebs</p>
+            <p>Tuesday May 31, 1864. Still behind our breastworks. An attack made
+          by the Rebles; considerable canonading all day</p>
+            <p>Wednesday June 1, 1864. Laying behind
+          the breastworks; heavy skirmishing and canonading all day. Was relieved by the 14th corps
+          at 12 oclock that night. Went to the rear and lay till morning.</p>
+            <p>Thursday June 2,
+          1864. Took breakfast and marched to the left of our line. Commenced skirmishing with the
+          enemy in the afternoon. Our Brig charged &amp; took their first line of rifle
+        pits</p>
+            
+            <pb n="12" facs="0012_001560_000201_0012.jpg" xml:id="d4e303"/>
+            
+            <p>Friday June 3, 1864. Laying behind our
+          breastworks. Supported by the 20th Corps no attack by the Reble <unclear reason="illegible" resp="R.M.">Hooys Divi</unclear>come the flank movement on <unclear reason="illegible" resp="R.M."/> wer compelled to fall back &amp; evacuate their forts
+          and rifle pits</p>
+            <p>Saturday June 4. Our forces moved up and took possession of their
+          Breastworks</p>
+            <p>Sunday June 5. Still behind the Reble breastworks. Our Brigade went on a
+          reconoitering expedition. Went some two miles and found nothing but evacuated forts and
+          rifle pits</p>
+            <p>Monday June 6. All Quiet in Camp. The troops from the right are all
+          moving to the left. Heavy musketry in that direction.</p>
+            <p>Tuesday June 7. Drew one days
+          ration on the 6th &amp; it had to last three. We wer hungry Boys still behind the Reble
+          Breastworks</p>
+            <p>June 8. No movement as yet. Still hold our old
+        position</p>
+            
+            <pb n="13" facs="0012_001560_000201_0013.jpg" xml:id="d4e330"/>
+            
+            <p>June 9. Laying still behind the breastworks
+          drew one days ration to last one (that is if we can get rations)</p>
+            <p>June 10. Picked up
+          our traps and moved to the left some three miles and commenced skirmishing</p>
+            <p>June 11.
+          Held our position and built breastworks. No movements of notice heavy canonading on our
+          left</p>
+            <p>June 12, 1864. Laying behind the breastworks all quiet except
+          skirmishing</p>
+            <p>June 13. Still in our rifle pits. Heavy canonading on the left with
+          thirty two pounders</p>
+            <p>June 14. Shelled the Rebles off of a strong position. Gen. Polk
+          was killed.</p>
+            
+            <pb n="14" facs="0012_001560_000201_0014.jpg" xml:id="d4e352"/>
+            
+            <p>June 15, 1864. Shelled the Rebs out of another
+          line of breastworks &amp; the 23rd &amp; 20th corps advanced and took posession of their
+          evacuated works.</p>
+            <p>June 16. Took position to the front about two hundred yards from
+          the Reble works and fortified the right swung around and the Rebs evacuated at three
+          oclock of the 16th</p>
+            <p>June 17. Skirmish line advanced the Rebs done some shelling at
+          which time our forces charged them drove them two mile into another line of rifle pits.
+          Here they shelled us but killed one man.</p>
+            <p>June 18. The Rebs still hold their works
+          but it is under ganling fire of artilery</p>
+            <p>June 19. Early in the morning they
+          evacuated their line of works and we pushed forward</p>
+            <p>June 20. Our Brigade was in the
+          front but the 104 was on the reserve skirmishing continualy</p>
+            
+            <pb n="15" facs="0012_001560_000201_0015.jpg" xml:id="d4e375"/>
+            
+            <p>June 21. Holding the second line of works.
+          Heavy firing on our left &amp; slight skirmishing in front We ar on the extreme
+          right</p>
+            <p>June 22. Took the front and drove the Rebles one mile and put up a heavy line
+          of works</p>
+            <p>June 23. Laying behing our breastworks all quiet in front except a little
+          skirmishing Heavy fighting on the left.</p>
+            <p>June 24. No movement on the right but heavy
+          fighting on the left at Kenasaw Mountain</p>
+            <p>Saturday June 25. All quiet in front save a
+          little skirmishing. Hard fighting at Kenasaw Mountain</p>
+            <p>Sunday June 26. Left our
+          fortifications and advanced on the enemy drove them one mile &amp; run on their works
+          &amp; was obliged to stop</p>
+            
+            <pb n="16" facs="0012_001560_000201_0016.jpg" xml:id="d4e397"/>
+            
+            <p>June 27. The 23 2nd battery &amp; the 15th 2nd
+          battery got into position and routed the enemy out of their works. We advanced one mile
+          and built breastworks. The Rebs had a masked ball in front</p>
+            <p>June 28. Built
+          breastworks and nothing of interest transacted</p>
+            <p>June 29. Laying behind our works.
+          Slight skirmishing on the front. Issued some Blouses shirts Drawers &amp; socks</p>
+            <p>June
+          30. All quiet on our front. Regular muster day.</p>
+            <p>July 1. Behind our works. Haskels
+          Div. moved &amp; took position to our right &amp; Cox filled up the gap between Bird and
+          Haskell</p>
+            <p>July 2. Still behind our works. The 15th Corps moved to our right. no
+          fighting.</p>
+            
+            <pb n="17" facs="0012_001560_000201_0017.jpg" xml:id="d4e419"/>
+            
+            <p>July 3. Lay behind our works. The Rebs are fast
+          on the retreat for Atlanta &amp; our ford at their heels</p>
+            <p>July 4. A long dreary day,
+          nothing of interest during the day</p>
+            <p>July 5. The 15th &amp; 16th Corps post moving
+          toward the river. Our Div moved 2 mile to the front and halted for the night</p>
+            <p>July 6.
+          Revalee at four Oclock and marched to the railroad, here there are strong Reble Earth
+          works and presents a spat of ground which has been heartily contested</p>
+            <p>July 7.
+          Marched 5 mile toward the river and went into Camp. Policed the ground all clear &amp;
+          left next morning for the river</p>
+            <p>July 8. Marched within 1 1/2 miles of the river
+          &amp; here lay while the 2nd Div forded &amp; then we lay the Pontrans &amp; crossed the
+          river. The 2nd Div charged &amp; took one Pace of <unclear reason="illegible" resp="R.M.">antiters</unclear>
+            </p>
+            
+            <pb n="18" facs="0012_001560_000201_0018.jpg" xml:id="d4e443"/>
+            
+            <p>July 9. moved one mile to the front and took a
+          position &amp; fortified. Worked about half the night</p>
+            <p>July 10. Company G went on
+          skirmish, and the rest of the Reg lay behind the works</p>
+            <p>July 11. Co. G Came off
+          skirmish in the morning and Reg got orders at four oclock to pack up &amp; be ready to
+          move. Moved across on another ridge</p>
+            <p>July 12. Cleared up Camp and put up tents
+          &amp;stayed for the day</p>
+            <p>July 13. Laying in Camp</p>
+            <p>July 14. Still in Camp a very
+          heavy rain and wind Blew down a tree &amp; killed the Adjutant of <gap />and one pretty
+          near killed one of Co Ks Boys &amp; wounded another</p>
+            
+            <pb n="19" facs="0012_001560_000201_0019.jpg" xml:id="d4e467"/>
+            
+            <p>July 15. All quiet laying in camp on the
+          River</p>
+            <p>July 16. Lay in Camp marched at seven oclock marched some six mile driving the
+          Enemy before us. Camped for the night Sarg Jackson of Co H shot himself accidental in
+          crossing a creek</p>
+            <p>July 17. Advanced some two mile to cross Keys Where we intersected
+          the newly laid out railroad running to Richmond</p>
+            <p>July 19. We advanced upon the Enemy
+          Coming in from a different direction from that they wer expecting</p>
+            <p>July 20. Advanced
+          &amp; skirmished with the Enemy &amp; at night got into position three mile from Atlanta
+          and built breast works Company G went on skirmish line which was a
+        <gap />
+            </p>
+            
+            <pb n="20" facs="0012_001560_000201_0020.jpg" xml:id="d4e487"/>
+            
+            <p>July 21, 1864. Heavy skirmishing all along the
+          lines Occasional shots are being <unclear reason="illegible" resp="R.M">throwen</unclear>
+          into Atlanta. Co G releaved at dark. M Jinnyerman was shot through the left shoulder
+          &amp;died in a few hours</p>
+            <p>July 22. The first Brig. moved within three quarters of a
+          mile of Atlanta &amp;was soon ordered two miles to the rear to guard a train. There was
+          hard fighting on our left. Gen McPherson was killed</p>
+            <p>Saturday 28. The first Brigade
+          are laying two miles to the rear of Atlanta a guarding the train. There is some canonading
+          going on at the front</p>
+            <p>Sunday 24. Laying behind our works guarding the
+          train</p>
+            <p>July 25. Nothing of interest. Still guarding the train</p>
+            <p> Tuesday July 26.
+          Moved within half mile of the front line &amp;took posession of the Reble works &amp;are
+          now fronting both ways &amp;have the train &amp;Hosfertals
+        between</p>
+            
+            <pb n="21" facs="0012_001560_000201_0021.jpg" xml:id="d4e512"/>
+            
+            <p>July 27. Strengthened the works. Heavy
+          canonading on the front line</p>
+            <p>July 28. Occasional canonading Throwing shell into the
+          Oily Strengthening the works</p>
+            <p>July 29. The 1st Brigade went around the south side of
+          Atlanta on a rcoinoiter and a few Reble Cavalry returned in the Evening</p>
+            <p>July 30. Lay
+          in Camp Considerable of canonading on the right of the line</p>
+            <p>Sunday July 31. Sunday
+          inspection All quiet in front Col. J.W. Reilly Promoted to Brigadar General</p>
+            <p>August
+          1. Lay in Camp until Evening. Struck tents and marched around toward the right. traveled
+          until one oclock at night and camped</p><pb n="22" facs="0012_001560_000201_0022.jpg" xml:id="d4e532"/>
+            
+            <p>August 2. Marched five mile on the right and
+          took position building strong works </p>
+            <p>August 3. Completed the works and rested the
+          balance of the day. In the afternoon the Rebs shelled but done no damage</p>
+            <p>August 4.
+          Moved to the front to support the 14th Corps where we lay during the day Four of our Reg
+          was wounded by stray balls</p>
+            <p>August 5. Ten Oclock moved to the right one mile and lay
+          on the supporting line. The 14th Corps took the Reble skirmish line three times to over a
+          hundred in all</p>
+            <p>August 6. Moved on the Reble works The skirmish line changed twice
+          and the ballance of the Brig. charged but did not carry the works. The Brig loss 330
+          killed &amp;wounded; retired at night</p>
+            <p>August 7. lay to the rear of our front line
+          until afternoon and then moved to the right &amp;took postion built fortifications all
+          night </p>
+            
+            <pb n="23" facs="0012_001560_000201_0023.jpg" xml:id="d4e554"/>
+            
+            <p>August 8. Completed the work. Wm Siple was
+          wounded through both legs braking his left. The same ball went through my
+          tent</p>
+            <p>August 9. Moved our position to the right to give room for the 15th 2nd Battery
+          The Rebs works &amp;ours are close enough to shoot across It makes it unhealthy to the
+          rear of our works</p>
+            <p>August 10. In our old position skirmishing continualy William
+          Siple died a few minutes before twelve to day his death was caused by the amputation of
+          his leg</p>
+            <p>August 11. Nothing of interest transpired to day Continual
+          skirmishing</p>
+            <p>August 12. Wer relieved by the 2nd Div of the 14th Corps. The 3rd Div
+          went to the right to effect a cuting of the East Point road. Did not sucseede and come
+          back and camped to the rear of our old position</p>
+            <p>August 13. Laying in Camp on the Sam
+          town road. Some of the Boys went a forageing for Corn. The Rebs fired on them Killed one
+          and wounded two</p>  <pb n="24" facs="0012_001560_000201_0024.jpg" xml:id="d4e574"/>
+            
+            <p>August 14. In Camp to the rear of 3rd Div of
+          23rd Corps</p>
+            <p>August 15. Laying in Camp as above stated</p>
+            <p>August 16. Moved about
+          two miles to the right and commenced to fortify Built the works twelve feet thick. Cap
+          Saulhworth was killed by a tree falling him</p>
+            <p>August 17. Finished the works I went a
+          foraging about three mile found Apples, Corn &amp;potatoes Returned to Camp at noon well
+          loaded</p>
+            <p>August 18. Started at half past twelve Oclock and went</p>
+            <p>August 19. The
+          3rd Div advanced to the right moved about one mile took posession of a ridge and built
+          works</p>
+            
+            <pb n="25" facs="0012_001560_000201_0025.jpg" xml:id="d4e596"/>
+            
+            <p>August 20. The Reg went on a reconoiter
+          returned after dark. Wer supporting the skirmish line</p>
+            <p>August 21. No movement. All is
+          quiet Laying behind our works. D. C Boutrrell come up had been back sick since the siege
+          at Knoxville</p>
+            <p>August 22. In Camp Behind our works nothing worth notice passed during
+          the day</p>
+            <p>August 23. In Camp all quiet frequent skirmishing nothing worth
+          notice</p>
+            <p>August 24. Behind our breastworks No movement to day</p>
+            <p>August 25. All
+          quiet to day</p>  <pb n="26" facs="0012_001560_000201_0026.jpg" xml:id="d4e617"/>
+            
+            <p>August 26. Laying in Camp All quiet in
+          front</p>
+            <p>August 27. All quiet until noon at which time we received orders to pack up
+          &amp; be ready to move Did not move for Post was at work on the works how I pity him the
+          blistered his left hand. Poor thing</p>
+            <p>August 28. Received orders to be ready to march
+          at day light did not move until three Oclock. Moved about two miles &amp; a half put up
+          temporary works for the night</p>
+            <p>August 29. Moved to the right of the 14th Corps halted
+          deployed skirmishers lay two hours then withdrew the skirmishers and advanced about three
+          mile from where we started in the morning. Fortifyed for the night</p>
+            <p>August 30.
+          Marched about three mile and fortifyed across the Montgomery railroad lay for the
+          night</p>
+            <p>August 31. Got up at two Oclock got breckfast and struck for the Macon road
+          reached it about five Oclock in the Eve. Commenced destroying the track Marched about
+          eight mile</p>
+            
+            <pb n="27" facs="0012_001560_000201_0027.jpg" xml:id="d4e639"/>
+            
+            <p>September 1. This morning we commenced
+          destroying the track both ways. After completing the work we moved down the real road
+          &amp; are now some fifteen mile south of Atlanta</p>
+            <p>September 2. Moved out and lay near
+          the train until one Oclock and then followed the retreating enemy until nine Oclock at
+          night then camped having come about 8 mile Passed a great many wounded
+          Rebles</p>
+            <p>September 3. The first Brigade lay in the rear guarding train etc. I went a
+          forageing got two bushel of sweet potatoes. In the Eve our train left for Atlanta loaded
+          with sick &amp; wounded to bring up rations</p>
+            <p>Sunday September 4. The first Brigade
+          occupy the same positions as here to fore stated Nothing of note transpired during the
+          day. An order for full rations was issued to day</p>
+            <p>September 5. In the Evening got
+          orders to fall back. The trains all moved out &amp; our Brig did not get started until
+          eleven Oclock at night. Marched alll night it raining most of the time and halted for
+          breakfast at 8 Oclock</p>
+            <p>September 6. Here we lay all day the 28th A.C. wer in the
+          rear</p>
+            
+            <pb n="28" facs="0012_001560_000201_0028.jpg" xml:id="d4e661"/>
+            
+            <p>September 7. Left Knoxville at four Oclock A.M.
+          for Cumberlan Gap. Marched twenty one miles and Camped for the night. Burnside and Staff
+          accompanied the Brigade consisting of the 44th 4th Ohio Battery and the 104th
+          O.V.</p>
+            <p>September 8. Revalie at three Oclock marched thirty miles and Camped at
+          Tazwell; twelve mile from the Gap at this time we have marched fifty two miles; doing it
+          in forty hour including time for sleep and meals</p>
+            <p>September 9. Left Tazwell after
+          daylight and reached Camp at noon being two mile from the gap Burnside sent in a flag of
+          truce; at first they would not surrender to the second flag they did surrender There was
+          four Reg &amp; peaces of artilery </p>
+            <p>September 10. Our Company was posted at the Gap;
+          and wer busy Confiscating property all day There was three thousand prisners in all that
+          surrendered</p>
+            <p>September 11. Started back to Knoxville marched eighteen miles and
+          camped for the night. On the south we passed through Tazwell a small town which had been
+          partly burned in the year 1862</p>
+            <p>September 12. Revalie at half past four; crossed the
+          Clinch river and took dinner Marched to Maynardsville and Camped for the
+        night</p>  <pb n="29" facs="0012_001560_000201_0029.jpg" xml:id="d4e681"/>
+            
+            <p>September 13. Nothing going on worth notice
+          There was a large mail to day &amp; among it was one in which I got the awful coming down
+          I ever want to get</p>
+            <p>September 14. Nothing going on policeing of a new
+          Camp</p>
+            <p>September 15. To day we moved Camp It is a nice position for
+          Encamping</p>
+            <p>September 16. Policeing and cleaning up of Camp building of Bunks
+          etc.</p>
+            <p>Sep. Saturday 17. This Evening Lt Gen Humasan took command of Company g 104
+          <gap />. Pv Ray come up being back since spring last</p>
+            <p>September 18. Nothing of
+          interest transpired. Building breast works</p> <pb n="30" facs="0012_001560_000201_0030.jpg" xml:id="d4e703"/>
+            
+            <p>September 19. To day the draft comes off.
+          Another victory in the Shanondoa valey by Sheridon completely routing the enemy driving
+          them 12 mile</p>
+            <p>September 20. All quiet today. This Evening we signed the Payroll for
+          six months pay</p>
+            <p>Wednesday September 21. Nothing of interest To day I received a
+          letter from Tid Kelly</p>
+            <p>September 22. To day it is wet and rainy still working on the
+          Breast works</p>
+            <p>September 23. It rained very hard at diferent showers during the day I
+          have been writing off a copy of a Board of <unclear reason="illegible" resp="R.M.">Su</unclear>held over the property of Cap AJ Saulhworth Diseased</p>
+            <p>Saturday
+          September 24. At work on the Breastworks They are heavy works Forteen feet at the base
+          &amp; a ditch eight feet wide &amp; four feet deep in front</p>
+            <pb n="31" facs="0012_001560_000201_0031.jpg" xml:id="d4e728"/>
+            
+            <p>Sunday September 25, 1864. Brigade Inspection
+          and Brigade Dress parade which was attended by Generals Cox Rielly &amp; Paymaster
+          Janes</p>
+            <p>Monday September 26. Nothing of Interest transacted to day Boys all on the
+          works</p>
+            <p>Tuesday September 27. To day we wer payed for six months. I sent $(100) one
+          hundred dollars home</p>
+            <p>Wednesday September 28. to day the Rebs attacted a forage train
+          surrendered it. The Boys cut out lost one man out of 60 2nd. The Rebs lost 12
+          killed</p>
+            <p>Thursday September 29. At work on the works</p>
+            <p>September 30. All quiet in
+          Camp Still at work on the works</p>  <pb n="32" facs="0012_001560_000201_0032.jpg" xml:id="d4e748"/>
+            
+            <p>October 1. Nothing going on</p>
+            <p>Sunday
+          October 2. Sunday inspection nothing of interest</p>
+            <p>October 3. Received orders to move
+          at one Oclock Just finished the works at twelve The order was countermanded</p>
+            <p>Tuesday
+          October 4. Marched at six Oclock Marched all day and camped about one hour after dark. One
+          mile from the North Side of the Chattahoochee R</p>
+            <p>Wednesday October 5. Continued our
+          march until dark &amp; camped 3 mile North of Maryetta</p>
+            <p>Thursday October 6. Continued
+          the march to Big Shanty It reained most part of the day The roads are very
+        bad</p>  <pb n="33" facs="0012_001560_000201_0033.jpg" xml:id="d4e768"/>
+            
+            <p>Friday October 7. The Reg went on some
+          <gap />four mile in the Direction of <gap />Returned<gap />three Oclock <gap />attacted the
+          Enemy &amp; whiped them</p>
+            <p>Saturday October 8. Ordered to leave <gap />&amp; was
+          <gap />Left at four Oclock <gap />through <gap />which was plundered &amp;Destroyed. Camped
+          at Altona</p>
+            <p>October 9. I was <gap />wounded Rebles &amp; one which is a female wounded
+          in the flesh part of her leg They fought hard and <gap />whiped</p>
+            <p>Monday October 10.
+          Left Altona in the morning went to Cartersville &amp; took dinner Distance 7 mile went on
+          to Cosville 6 mile &amp; camped for the night</p>
+            <p>Tuesday October 11. Left Cassville
+          Early in the morning marched to Kingston Dis 6 mile and camped one mile <gap />Kingston
+          Where we voted for the State Election</p>
+            <p>Wednesday October 12. Left for Rome Dis
+          1<gap />mile reached there at four Oclock &amp; camped for the night The Rebled are only
+          one mile from the town; Strength 30 <gap />
+            </p> <pb n="34" facs="0012_001560_000201_0034.jpg" xml:id="d4e813"/>
+            
+            <p>Thursday October 13. To day our Div went out on
+          a <gap />left the train to the rear. They returned in the Eve the 4th U.S. &amp; wilders
+          Brig of <unclear reason="illegible" resp="R.M.">Cov. Cap <gap /> &amp; the
+          <gap />
+               </unclear>Rebs have left &amp; going North</p>
+            <p>Friday October 14. Started for
+          Calhoon the 4 &amp; 14th Corps &amp; train are in the advance Marched 11 mile &amp; Camped
+          for the night Rebs reported to be at Resacca 11 mile</p>
+            <p>Saturday October 15. To day we
+          marched to Resacca and Camped for the night the Rebs are Reported to have taken Dalton
+          &amp; 2 Reg of Inf.</p>
+            <p>Sunday October 16. To day we left Resacca passed through snake
+          creek gap five mile through &amp; camped &amp; camped 1/2 miles on this side</p>
+            <p>October
+          17. To day we lay and rest. the Baggage of the 4 &amp; 14th Corps are passing; Just came
+          up from Atlanta</p>
+            <p>October 18. Started on the road leading to Rome. Marched about 18
+          miles and Camped for the night. We passed over some of the best plantation that we have in
+          the State</p>
+            
+            <pb n="35" facs="0012_001560_000201_0035.jpg" xml:id="d4e843"/>
+            
+            <p>October 19. Passed through Tredaway Gap;
+          marched five mile &amp; camped for the night</p>
+            <p>Thursday October 20. Marched to
+          Gaylisville Dis. 8 mile &amp; camped for the night. The Rebs are Reported to be at Decater
+          Alabama Crossed the Alabama line</p>
+            <p>October 21. Laying in camp all quiet</p>
+            <p>October
+          22. In Camp near Gaylisville</p>
+            <p>Sunday October 23. Sunday Inspection In
+          Camp</p>
+            <p>October 24. Moved 1/2 a mile and camped for the night All seems to be quiet in
+          front</p>
+            
+            <pb n="36" facs="0012_001560_000201_0036.jpg" xml:id="d4e865"/>
+            
+            <p>October 25. moved camp crossed the Cusa river
+          went to Cedar Bluff Dis 3 1/2 mile and camped. The 3 Div. went to Centerville on a
+          recinoyter Dis 8 mile made no discoveries</p>
+            <p>October 26. Laying in Camp at Cedar Bluff,
+          received a mail</p>
+            <p>October 27. Sill in Camp no movements of notice</p>
+            <p>October 28. At
+          noon received orders to march croassed the <gap />and marched 8 mile in an NorthEast
+          Direction from Centerville and Camped for the night</p>
+            <p>October 29. Left at six Oclock
+          A.M. crossed the Alab line about three Oclock, marched <gap />to spring and Camped Dis 19
+          mile; This is a beutiful little village</p>
+            <p>October 30. Marched five mile North of Rome
+          &amp; Camped for the nigth Dis about nineteen (19) miles</p>
+            <pb n="37" facs="0012_001560_000201_0037.jpg" xml:id="d4e892"/>
+            
+            <p>October 31. Marched to Calhoon Dis. 20 mile and
+          camped for the night</p>
+            <p>November 1. Marched to Resacca took dinner and from there to
+          Tilton Dis 13 mile &amp; camped with the prospect of going on the train but did
+          not</p>
+            <p>November 2. marched to Dalton Dis 7 mile it was very wet &amp; muddy camped with
+          the prospect of taking the train</p>
+            <p>November 3. Still wating on the train but did not
+          get off this day</p>
+            <p>November 4. Wating on the train</p>
+            <p>November 5. not off
+        yet</p>
+            
+            <pb n="38" facs="0012_001560_000201_0038.jpg" xml:id="d4e914"/>
+            
+            <p>November 6. Took the Cars at five Oclock &amp;
+          went to Chattanooga. Stoped about Eleven Oclock &amp; drew rations</p>
+            <p>November 7. Moved
+          on reached Nashville about two Oclock in the morning Raining constantly</p>
+            <p>Tuesday
+          November 8. To day is Presidential Election the Boys are all gay. Some whisky <gap />the
+          track. Our <gap />Poled 414 votes &amp; 13 <gap />
+            </p>
+            <p>Wednesday November 9. At Franklin
+          18 mile South East of Nashville moved 9 mile futher to a little town called Spring hill
+          &amp; camped the R.R. bridge being destroyed</p>
+            <p>November 10. Laying in Camp Feasting on
+          freash Pork &amp; Potatoes</p>
+            <p>November 11. In Camp</p>
+            <pb n="39" facs="0012_001560_000201_0039.jpg" xml:id="d4e941"/>
+            
+            <p>November 12. A detachment went some six mile on
+          a Reconnyter returned in Evening</p>
+            <p>Sunday November 13. Left Spring Hill for Columbia
+          Arrived at Columbia about four Oclock &amp; camped for the night</p>
+            <p>November 14. Left
+          Columbia &amp; marched to Minville Dis 16 mile &amp; camped for the night</p>
+            <p>November
+          15. Marched to within two mile of Polaski &amp; camped Dis 12 mile</p>
+            <p>November 16. In
+          camp near Polaski</p>
+            <p>November 17. In camp near Polaski</p>
+            <pb n="40" facs="0012_001560_000201_0040.jpg" xml:id="d4e963"/>
+            
+            <p>November 18. In Camp near Polaski, wet, cold,
+          and rainy</p>
+            <p>November 19. In Camp near Polaski wet &amp; rainy</p>
+            <p>November 20. Near
+          Polaski got orders to draw five days rations &amp; be in readiness to march</p>
+            <p>November
+          21. Left Polaski early in the morning and marched to Minville by 12 Oclock Halted took
+          dinner &amp; camped for the night Dis 12 mile</p>
+            <p>November 22. Near Polaski under
+          marching orders ^This is for the <gap />&amp; what is wrote in Pag 22 is for
+          22nd</p>
+            <p>November 23. Left Minville about four Oclock in the Eve marched 9 mile toward
+          Columbia camped at 8 Oclock It was very cold &amp; has been for the past three days &amp;
+          nights I did not sleep any It was to cold Pardney on Picket</p>
+            <pb n="41" facs="0012_001560_000201_0041.jpg" xml:id="d4e987"/>
+            
+            <p>November 24. Left camp before day Hood Reported
+          to be as near as Columbia as we reached Col. about 8 Oclock AM The Rebs wer driving our
+          Cavalry Our Brig Repulsed them &amp; put up works</p>
+            <p>November 25. To day the Rebs are
+          trying our strength, drove our skirmishers a short Dis. considerable of canonading in the
+          afternoon 2 Oclock at night our Brig crossed the River</p>
+            <p>Novemebr 26. The Rebs come
+          into town but could not cross Dusk river. Brisk skirmishing all day</p>
+            <p>Sunday November
+          27. Lay half a mile to the rear of the river Considerable of skirmishing all
+          day</p>
+            <p>Monday November 28. Moved down near the river and built works. Received a good
+          shelling but did no damage</p>
+            <p>November 29. Still behind our works considerable of of
+          firing on both sides Retreated to Franklin reached there four Oclock
+        AM</p><pb n="42" facs="0012_001560_000201_0042.jpg" xml:id="d4e1007"/>
+            
+            <p>November 30. Put up works At four Oclock the
+          Rebs 2 Div strong charged our works the firing continued some four hours Cleborns Div was
+          badly cut up. Crossed Haspeth River &amp; retreated 8 mile</p>
+            <p>December 1. Marched to
+          Nashville <unclear reason="illegible" resp="R.M.">Promiscuously</unclear>
+          Encamped</p>
+            <p>December 2. Moved behind works Rebs are forming their lines some two mile
+          from the city But no demonstration made by the Rebs</p>
+            <p>December 3. Still behind our
+          works Considerable of skirmishing in front</p> <pb n="43" facs="0012_001560_000201_0043.jpg" xml:id="d4e1026"/>
+            
+            <p>December
+          15. Our Div. moved out and filled the works with convalescents. Moved to our right &amp;
+          broke the Rebles left Cavalry in our advance <gap />&amp; took six peaces of artilery. We
+          took position &amp; <gap />works wet &amp; rainy</p>
+            <p>December 16. All quiet until two
+          Oclock when the 16th Corps broke their line on the left center &amp; our Brigade charged
+          took 8 peaces of Artilery completely demoralizing the Rebs Captured some three thousand.
+          Campin in their works Raining</p>
+            <p>December 17. Orders to march at 8 Oclock but was
+          delayed by the train marched some 3 mile &amp; done most of that after dark The worst
+          marching our Brig ever done Raining</p>  <pb n="44" facs="0012_001560_000201_0044" xml:id="d4e1045"/>
+            
+            <p>December
+          18. Marched to the Franklin pike one mile Issued rations &amp; moved on to within one mile
+          of Franklin &amp; camped Wet &amp; Raining</p>
+            <p>December 19. Marched in the afternoon
+          &amp; camped to the left of the battle ground at Franklin. The Reble left fifteen hundred
+          wounded Rainy</p>
+            <p>December 20. Marched to Spring Hill Dis 12 mile camped for the night
+          Raining</p>
+            
+            <pb n="45" facs="0012_001560_000201_0045.jpg" xml:id="d4e1061"/>
+            <p>
+               <gap />Hallie P. Beadley</p>
+            <p>
+               <gap />
+            </p>
+            <p>
+               <gap />Carr, May 28th</p>
+            <p>P.E. Bull, June
+          24th 1894</p>
+            <p>L.M. Bull, June 28th</p>
+            <p>W.C. Pippitt, July 11th</p>
+            <p>J.B. <unclear reason="illegible" resp="R.M.">R</unclear>, July 14th</p>
+            <p>W.C. Pippitt, July
+          23rd</p>
+            <p>J. Pippitt, July 25th</p>
+            <p>T. B. Eagle, July 28th</p>
+            <p>E. J. Bull, Aug
+          3rd</p>
+            <p>E.J. Bull, Aug 7th</p>
+            <p>Fred Buckhemer, Aug 9th</p>
+            <p>Jacob Sedinger, Aug
+          9th</p>
+            <p>W.C. Pippitt, Aug 12th</p>
+            <p>L.M. Bull, Aug 23rd</p>
+            <p>W.C. Pippitt, Aug
+          25th</p>
+            <p>Jonnie Bull, Aug 23rd</p>
+            <p>W.C. Pippitt, Sep 10th</p>
+            <p>F. Burckhemer, Sep
+          13th</p>
+            <p>D.P. Straun, Sep, 12th</p>
+            <p>E.J. Bull, Sept 14th</p>
+            <p>Letters</p>
+            <p>W.C.
+          Pippitt, Sep 16</p>
+            <p>J. Pippitt, Sep 14th</p>
+            <p>F. Birckhemer, Sep 28th</p>
+            <p>W.C.
+          Pippitt, Sep 30th</p>
+            <p>W.C. Pippitt, Oct 12</p>
+            <p>E.J. Bull, Nov 10</p>
+            <p>W.C. Pippitt,
+          Nov 10</p>
+            
+            <pb n="46" facs="0012_001560_000201_0046.jpg" xml:id="d4e1139"/>
+            
+            <table rows="22" cols="8">
+               <row role="data">
+                  <cell>CASH ACCOUNT.--DECEMBER. CASH ACCOUNT.--DECEMBER.</cell>
+               </row>
+               <row role="data">
+                  <cell>Date.</cell>
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+                  <cell>Date.</cell>
+                  <cell/>
+                  <cell>Received.</cell>
+                  <cell>Paid.</cell>
+               </row>
+               <row role="data">
+                  <cell>Jan/62</cell>
+                  <cell>One pr of Pants</cell>
+                  <cell>2.50</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Articles</cell>
+                  <cell>Prices</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Oct/63</cell>
+                  <cell>One shirt</cell>
+                  <cell>1.53</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Hats</cell>
+                  <cell>1.65</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Jan/64</cell>
+                  <cell>Two pr of Socks</cell>
+                  <cell>00.64</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Caks</cell>
+                  <cell>.58</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Feb/64</cell>
+                  <cell>One Artilery Jacket</cell>
+                  <cell>5.30</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Dress Coats</cell>
+                  <cell>7.00</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>June 64</cell>
+                  <cell>One Pr of shoes</cell>
+                  <cell>1.48</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Jackets</cell>
+                  <cell>5.30</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Nov 6</cell>
+                  <cell>one Poncho</cell>
+                  <cell>1.75</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Pants Ca</cell>
+                  <cell>3.55</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>May 12</cell>
+                  <cell>one Pr Shoes</cell>
+                  <cell>1.48</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Pants Inl</cell>
+                  <cell>2.50</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>June 30</cell>
+                  <cell>1 Shirt, 1 Pants</cell>
+                  <cell>4.03</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Blouses</cell>
+                  <cell>2.35</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Jn 30</cell>
+                  <cell>1 Canteen</cell>
+                  <cell>.90</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Shirts</cell>
+                  <cell>1.53</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Sep 17th</cell>
+                  <cell>1 pr Shoes</cell>
+                  <cell>1.86</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>Drawers</cell>
+                  <cell>.90</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>&quot; Knit</cell>
+                  <cell>1.08</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>Boots Swued</cell>
+                  <cell>2.05</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>&quot; Pegged</cell>
+                  <cell>2.82</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>Shoes Swued</cell>
+                  <cell>2.05</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>&quot; Pegged</cell>
+                  <cell>1.48</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>Socks</cell>
+                  <cell>.32</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>OverCoat Cav</cell>
+                  <cell>8.95</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>Overcoat Inf</cell>
+                  <cell>7.30</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>Blankets</cell>
+                  <cell>3.25</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>Rubber &quot;</cell>
+                  <cell>1.08</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>Ponchos</cell>
+                  <cell>2.73</cell>
+                  <cell/>
+               </row>
+            </table>
+            <pb n="47" facs="0012_001560_000201_0047.jpg" xml:id="d4e1430"/>
+            <table rows="13" cols="4">
+               <row role="data">
+                  <cell>MEMORANDA.</cell>
+               </row>
+               <row role="data">
+                  <cell>Date.</cell>
+                  <cell/>
+                  <cell>Dolls.</cell>
+                  <cell>Cts.</cell>
+               </row>
+               <row role="data">
+                  <cell>2</cell>
+                  <cell>A.C. Null</cell>
+                  <cell>15.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell>2</cell>
+                  <cell>W.W. Dulls</cell>
+                  <cell>15.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell>1</cell>
+                  <cell>F. Berckhemer</cell>
+                  <cell>15.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell>2</cell>
+                  <cell>E.J. Hall</cell>
+                  <cell>12.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell>2</cell>
+                  <cell>J.G. Post</cell>
+                  <cell>12.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell>3</cell>
+                  <cell>G. Beery</cell>
+                  <cell>15.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell>3</cell>
+                  <cell>W.J.G. Erstill</cell>
+                  <cell>15.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell>5</cell>
+                  <cell>John R. Strattan</cell>
+                  <cell>21.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell>29.</cell>
+                  <cell>N.G. Kirk</cell>
+                  <cell>0.</cell>
+                  <cell>50</cell>
+               </row>
+               <row role="data">
+                  <cell>25.</cell>
+                  <cell>John W. Faweell</cell>
+                  <cell>0.</cell>
+                  <cell>50</cell>
+               </row>
+               <row role="data">
+                  <cell>March</cell>
+                  <cell>W.J. Bentley</cell>
+                  <cell>1.</cell>
+                  <cell>00</cell>
+               </row>
+               <row role="data">
+                  <cell/>
+                  <cell>L. Barnaby one Pr of Socks</cell>
+                  <cell>.</cell>
+                  <cell>32</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

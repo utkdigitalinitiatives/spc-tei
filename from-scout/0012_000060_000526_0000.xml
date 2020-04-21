@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000526_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.M. Kennedy and S.G. Bowman</name>
+ in Knoxville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn.<date when="1884-05-01">1884 May 1</date>
+            </title>
+            <author>
+               <name type="person">Kennedy, J. M. (John M.), fl. 1884</name>
+               <name type="person">Bowman, S. G.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000526_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.M. Kennedy and S.G. Bowman in Knoxville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 May 1</title>
+               <date>1884-05-01</date>
+               <author>
+                  <name>Kennedy, J. M. (John M.), fl. 1884</name>
+               </author>
+               <extent>4 digital images; 1 envelope, 3 pages.</extent>
+               <note type="abstract">1884 May 1 J.M. Kennedy, President of the Knox County Medical Society and S.G. Bowman, Secretary of the Knox County Medical Society, to M.B.C. Ramsey, Knoxville, Tenn. Resolutions adopted by the Knox County Medical Society honoring the memory of J.G.M. Mentions some of his specific accomplishments in medicine, including helping to found the Society. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Physicians -- Tennessee -- Knox County -- History -- 19th century.</term>
+               <term>Medical ethics -- Tennessee -- History -- 19th century.</term>
+               <term>Knox County (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee, East -- History -- 19th century.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Death and burial.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Appreciation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000526_0001.jpg" xml:id="d3e154"/>
+            <p>Mrs J.G.M. Ramsey</p>
+            <p>City</p>
+            <pb n="2" facs="0012_000060_000526_0002.jpg" xml:id="d3e164"/>
+            <p>Resolutions of Respect.</p>
+            <p>At a meeting of the Knox County Medical Society, the following resolutions of respect to the memory of the late Dr J.G.M. Ramsey were adopted:</p>
+            <p>In the providence of Almighty God, it has seemed fit to visit is with the messenger of death, and remove from our midst a brother physician therefore,</p>
+            <p>Be it resolved, that in the death of Dr J.G.M. Ramsey, the Knox County Section of the East Tennessee Society has lost a worthy and honorable member, the medical profession a venerable and accomplished physician, the community an <unclear reason="illegible" resp="JR"> Erudite</unclear> Scholar and an Elegant gentleman, the State of Tennessee a true son and a faithful citizen, the charming grace of whose cultured pen has inscribed upon the scroll of History the name of Tennessee, in Character that time will not efface, or <unclear reason="illegible" resp="JR">futurity</unclear> obliterate -</p>
+            <pb n="3" facs="0012_000060_000526_0003.jpg" xml:id="d3e184"/>
+            <p>Dr Ramsey was one of the inaugurators of the East Tennessee Medical Society, which was founded in May, 1845. He was a member of the Committee to draft a Constitution and by-laws, the Original of which is in his hand writing and still exists. He is also the author of the Code of Ethics of the East Tennessee Medical Society, which has continued in force ever since - </p>
+            <p>The first sanitary ordinance upon the records of the City of Knoxville was written by Dr Ramsey in 1838, and this ordinance, in all that it appertains to, has never been altered since its adoption - </p>
+            <p>Be it further resolved, that the Condolences and heartfelt Sympathy of this Society be tendered the bereaved family of the deceased in this hour of distress, and that they be furnished with a copy of the resolutions - </p>
+            <p>And further, that these resolutions be <unclear reason="illegible" resp="JR"> spuced</unclear> upon the record of this Society, on a page devoted to that purpose, and ruled in with black marginals; Also, that these resolutions be printed in the daily newspaper - </p>
+            <pb n="4" facs="0012_000060_000526_0004.jpg" xml:id="d3e201"/>
+            <p>From the Society</p>
+            <p>J.P. Parks M.D.</p>
+            <p>J.M. Kennedy M.D.</p>
+            <p>President</p>
+            <p>S.G. Bowman M.D.</p>
+            <p>Secretary.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

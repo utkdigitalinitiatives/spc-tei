@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000430_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Lyman C. Draper</name>
+ in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1876-01-25">1876 Jan. 25</date>
+            </title>
+            <author>
+               <name type="person">Draper, Lyman Copeland, 1815-1891</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000430_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1876 Jan. 25</title>
+               <date>1876-01-25</date>
+               <author>
+                  <name>Draper, Lyman Copeland, 1815-1891</name>
+               </author>
+               <extent>4 digital images; 1 envelop, 3 pages</extent>
+               <note type="abstract">1876 Jan. 25, Lyman C. Draper, Corresponding Secretary, State Historical Society of Wisconsin, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. News of his duties with the Wisconsin Historical Society and of its growing collection. Thanks J.G.M. for sending old letters, one of which concerns his grandfather. Also enclosed is a printed request from the Wisconsin Historical Society to the Wisconsin State Legislature for additional funds.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Advertising flyers -- Wisconsin -- Madison -- History -- 19th century.</term>
+               <term>Circular letters -- Wisconsin -- Madison -- History -- 19th century.</term>
+               <term>Finance -- Wisconsin -- Madison -- History -- 19th century.</term>
+               <term>Madison (Wis.) -- History -- 19th century. </term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000430_0001.jpg" xml:id="d3e155"/>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Knoxville --</p>
+            <p>Tennessee.</p>
+            <pb n="2" facs="0012_000060_000430_0002.jpg" xml:id="d3e167"/>
+            <p>Madison, Jan. 25th. 1876</p>
+            <p>My Dear Dr. Ramsey:</p>
+            <p>Your letter 18th inst. awakes me from neglect. God be thanked, I am in my usual health; -- a pressure of labors has caused me to neglect you.</p>
+            <p>It usually takes me two full weeks to prepare for our annual meeting -- getting up the <unclear reason="illegible" resp="JR">Hatisties</unclear> &amp; writing out the report -- then getting it printed &amp; sending it off --Circular printed -- &amp; letter writing without end. Our Society is growing wonderfully in its library &amp; collections -- that gratifies me somewhat; &amp; that the tout ensemble is doing unspeakable good, gratifies more than all.</p>
+            <pb n="3" facs="0012_000060_000430_0003.jpg" xml:id="d3e184"/>
+            <p>I am busy just now in getting a new room fitted up with cases for the reception of our grand collection of Wisn. antiquities; &amp; also in circulating printed memorials to friends all over the State for signatures, praying our Legislature to add %15.00 to our annual appropriation.</p>
+            <p>The old letter came duly &amp; safely -- thank you for your good offices in the matter. the on abt. Mr. King&apos;s visit to yr. grandfather unfortunately gave no date of the time, nor anything to indicate it I am glad to have it, as it is. And so of the other. Mr. Nelson said I shd. be subject to yr. wishes as to whether I shd. keep the letter he sent me, or return it to you. Order &amp; I will obey. Would prefer to keep both to go with my Mecklenburg Collection of letters &amp; documents -- wh. will make, I judge, two or three volumes.</p>
+            <p>I have just gone over my Mecklenburg work for the last time before sending it to the publisher to examine. Times rather rather hard with publishers, they are shy. <unclear reason="illegible" resp="JR">Dengn</unclear> to send it off within a week.</p>
+            <p>Ever Truly Yours,</p>
+            <p>Lyman C. Draper</p>
+            <pb n="4" facs="0012_000060_000430_0004.jpg" xml:id="d3e203"/>
+            <p>Circular.</p>
+            <p>To the Honorable, the Legislature of the State of Wisconsin:</p>
+            <p>Your petitioners respectfully represent: The State has made the book collection of the State Historical Society of Wisconsin, now numbering 65,000 volumes, for all practical purposes, the State library -- absolutely so, in all things, save in works pertaining to law. the Society is faithfully collecting files of nearly all the newspapers of the State, filled with thousands of legal notices which it is important to preserve for possible evidence in our higher courts of judicature; and, moreover, taking especial pains to collect from other States all documents bearing upon topics of legislation and humane institutions, to aid legislative committees, our Board of Charities, the Railroad Commissioners, and members of the State Geological Survey. In these departments, all so important to the best interests of the State, it is altogether probable that no other State in the Union has preserved records so full and valuable.</p>
+            <p>The library of the Society has come to be recognized as a most important adjunct to the State University, furnishing facilities of investigation to the Board of Instruction, and especially to the students in preparing for their exercises in debate and composition, and for much of their general reading -- embracing a collection of books, which, for their variety and character, are excelled but by few of the higher literary institutions of the country.</p>
+            <p>With the Society&apos;s best intentions, it has been impossible to supply but a small [part of the works inquired for; or to bind up for ready reference but a very small portion of our thirty-two thousand pamphlets, our newspaper files, our magazines, and books unbound or in ancient broken binding.</p>
+            <p>The Society&apos;s library and collections are the pride of the State, and well deserve the fostering care of the legislature. We heartily unite in asking the further appropriation of $1,500 a year to the Society to enable its Board of Managers (of whom the Governor, Secretary of State, and State Treasurer are ex-officio members,) to meet the more pressing demands constantly made for increased means of literary, scientific, and useful investigation. The sum asked will never be grudged by our people for so worthy an object; for it would amount to only one cent to every eight of our population, or an increase of a cent to every $4.34 of the State-tax, according to last year&apos;s apportionment. And, as in duty bound, will ever pray.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

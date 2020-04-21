@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000548_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> Margaret Jane Dickson</name>
+ in Riverside, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. <date from="1880" to="1885">1880-1885</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, M. J. C. (Margaret Jane Crozier), 1827-1885</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000548_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Margaret Jane Dickson in Riverside, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1880-1885.</title>
+               <date>1880</date>
+               <author>
+                  <name>Ramsey, M. J. C. (Margaret Jane Crozier), 1827-1885</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">1880-1885, Margaret Jane Dickson in Riverside, Tenn. near Knoxville, Tenn., to her sister, Elizabeth Ramsey Breck, Knoxville, Tenn. Expresses concern about Sue&apos;s illness and mentions Robert&apos;s health. Informs her sister that she tries to bear troubles patiently and concentrates on preparing for death. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Family -- Health and hygiene -- Tennessee -- Knoxville -- History -- 19th century.</term>
+               <term>Death -- Psychological aspects. </term>
+               <term>Knoxville (Tenn.) -- History -- 19th century.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Ramsey, Robert McGready, 1832-1890 -- Health.</term>
+               <term>Ramsey, Sue, 1843-1890 -- Health.   </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000548_0001.jpg" xml:id="d3e154"/>
+            <p>Apr. 1890?</p>
+            <p>Monday evening</p>
+            <p>Dear Sister</p>
+            <p>I am sorry to hear of Susans illness, it was a great shock to me, when I last heard from her she was up at Rob&apos;s, I hope for better news. I was glad to hear Rob was better. I would go down, am not well enough I was in bed four or five days &amp; my cough is very troublesome, cough all the time nearly. Eliza said you had all the trouble to bear alone. of course what troubles you troubles me &amp; I have to bear it, just sit all the time in our room, you can go around</p>
+            <p>a hard time with the sick this winter <unclear reason="illegible" resp="JR">In has be</unclear> your affectionate sister M J Dickson</p>
+            <pb n="2" facs="0012_000060_000548_0002.jpg" xml:id="d3e175"/>
+            <p>&amp; see your friends &amp; they can come &amp; see you, I hardly ever see any one. I try to bear it patiently, &amp; submit to Gods will I know it is all for the best, it seems hard when we think of how much trouble we all have in different ways, my troubles I think has drawn me from the world &amp; made me think more of heavenly things &amp; try to prepare for death. which I feel can&apos;t be long off. We can&apos;t tell how long God will see fit to try us in this world but pray that I will be prepared to go, when he is ready to call me away. Annie is up &amp; around some. I would be glad if you &amp; Mack could come out. I was sorry I could not get down to see the children when they were sick Mamie has had a</p>
+         </div>
+      </body>
+   </text>
+</TEI>

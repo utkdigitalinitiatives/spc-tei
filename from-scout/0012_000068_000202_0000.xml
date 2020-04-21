@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Clinton, Tenn.
+<date when="1864-03-30">
+1864 March 30
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000202_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Clinton, Tenn. to Jeannie Lockhart, 1864 March 30</title>
+               <date>1864-03-30</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated March 30, 1864 from Clinton, Tenn., to &quot;My Dear Jeannie,&quot; John Shrady, a regimental surgeon, expresses concern at having received no letters from the recipient and questions her current state of health. Additionally, he discusses the possibility of the recipient needing to move and the scarcity of vacant housing and the rapid rise in rents.</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee, East. -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000202_0001.jpg" xml:id="d3e143"/>
+            <p>Clinton, Tenn</p>
+            <p>March 30th 1864</p>
+            <p>My Dear Jeannie</p>
+            <p>Oh, how I long for a letter from you, Oh, how it would ease my anxious mind! I have watched and waited many a weary week, but all to no purpose. Will&apos;s letter of the 12th consoled me somewhat, but it left me somewhat in doubt in reference to your health -- indeed, I am becoming apprehensive lest you be gradually failing. May Heaven grant it otherwise to my darling. Do you receive my letters? I write you at least twice a week and avail myself of the politeness of every one going to Knoxville -- and I make it my business to go there myself at least once a week to deposit and get my mail.Can it be that the Post Office is so execrably managed or is my precious too ill to write?</p>
+            <p>I have nothing new to communicate to you -- we still occupy the same dilapidated town of Clinton. March is putting</p>
+            <pb n="2" facs="0012_000068_000202_0002.jpg" xml:id="d3e159"/>
+            <p>on blustering airs and turning the cold shoulder to us -- all of which you know adds nothing to one&apos;s mental vivacity.</p>
+            <p>Are you all compelled to go through the miseries of house-hunting or has your landlord reconsidered his intention of selling? I heartily wish that you may not be compelled to move this season -- the more particularly that vacant houses are so scarce. I suppose that rents have advanced at an enormous percent. A newspaper paragraph informs me that MM B. Astor has raised his to 20 percent and adds the paragraph &quot;Poor Fellow!&quot; I wonder, Darling, whether when we become rich we shall too forget the poor?</p>
+            <p>I wrote you last Monday and have answered Will&apos;s letter. My anxious fears have driven me to enlarge my correspondence. I cannot rest without hearing from you, even though it be indirectly. I dreamed the other night of seeing you sad and wobegone in the gallery of a crowded church. I tried</p>
+            <pb n="3" facs="0012_000068_000202_0003.jpg" xml:id="d3e171"/>
+            <p>to get to you, but somehow missed you in the crowd. I have been worrying myself about you ever since -- I know that there is nothing in these dreams, but they will leave disagreeable and not-easy-to-be dispelled impressions. I have had my fears excited ever since lest you have fallen into some sickness -- a sickness too that may have had its origin in some mental distress. I have determined somehow to get to see you before a great while -- a leave of absence presents a better chance than a resignation and I therefore base my best hopes upon that. And when I have been entirely released from my engagements with the Government, it will be some time before I venture away without your society. I tell you that I can not help envying George&apos;s comfortable position -- all the pleasures of home and any quantity of praise from all quarters by way of boot. While I must suffer isolation and be constantly reminded in effect that I was a fool for going. But I look to a brighter</p>
+            <pb n="4" facs="0012_000068_000202_0004.jpg" xml:id="d3e179"/>
+            <p>future when our constancy shall meet with its exceeding great reward -- when the fiery ordeal through which we are now passing will bring us out brighter and purer gold -- when we shall envy no one&apos;s happiness in the bosom of our own family, in a home of our own, all lit up with the smiles of domestic love &amp; peace. I think, Jeannie, that this lot will eventually be ours -- I know that you deserve it, and I would shrink from no hardship, if I knew that I could but achieve it for you. Kiss our little pledge for her absent but not forgetful Pa -- be assured of my constant and ardent love. Remember me to Mother and Fran -- tell them to care well for you until I return. Don&apos;t omit taking exercise -- fresh air, you know, is a great health restorative. Write soon -- address as before Clinton via Knoxville Tenn. May Heaven protect and defend you from all harm. And</p>
+            <p>Now Adieu</p>
+            <p>John</p>
+            <p>I suppose that you have received my answer to Albert&apos;s letter directed to your care. You may also say to him that I have enquired for his relative at Knoxville and that his name could not be found in the books. But that however does not prove a great deal as no registry was kept until lately. Tell him to write me again -- and by no means to omit saying something in regard to you all.</p>
+            <p>Yours</p>
+            <p>John</p>
+            <p>Can you send me some stamps -- they are hard to get here now. I have a good supply of paper.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

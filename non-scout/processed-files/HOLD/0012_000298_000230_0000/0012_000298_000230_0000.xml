@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000298_000230_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Randolph Hackley</name>
+				                    in Yazoo City, Miss., to his wife <date when="1865-11-05">1865 Nov. 5</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Smither, Elizabeth</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Randolph Hackley</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000298_000230_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Randolph Hackley in Yazoo City, Miss., to his wife 1865 Nov. 5</title>
+               <date when="1865-11-05">1865 Nov. 5</date>
+               <author>
+                  <name type="person">William Randolph Hackley</name>
+               </author>
+               <extent>1 pages</extent>
+               <note type="collection">William Randolph Hackley letters</note>
+               <note type="manuscript">MS.0339</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000298_000230_0001.jpg" xml:id="d4e39"/>
+            <p>Yazoo City, Nov 5, 1865</p>
+            <p>My Darling</p>
+            <p> I wrote you on the 1st the morning after my arrival here Athearn left on the 2nd for Memphis and I <unclear reason="illegible" resp="EMS">disend</unclear> him to Express to you $331 the amount of fees he had made during my absence I have made $20 per day since my return and hope to continue for some time I wish you would send me a photograph of My Mother if you can find them. I sent mine of C to Alice <unclear reason="illegible" resp="EMS">Merton</unclear> by a gentleman from their neighborhood who promised to deliver them. I send you a card of a man in St Louis who will send you such medicine as you may want by mail  <unclear reason="illegible" resp="EMS">we had front</unclear> last night for the first time the place is quite <unclear reason="illegible" resp="EMS">healthy</unclear> S. hopes you are getting along comfortably I have but little to write about I want to see you all very much kiss the children  </p>
+            <pb n="2" facs=".jpg" xml:id="d4e59"/>
+            <p>Your aff Husband</p>
+            <p> WRHacley</p>
+            <p>Mrs Wm. R Hackley </p>
+            <p>Boonesville, MO</p>
+         </div>
+      </body>
+   </text>
+</TEI>

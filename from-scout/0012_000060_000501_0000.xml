@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000501_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonnet,
+<name>W.G. McAdoo</name>
+ in Knoxville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1882-09-24">1882 Sept. 24</date>
+            </title>
+            <author>
+               <name type="person">McAdoo, W. G. (William Gibbs), 1820-1894</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000501_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Sonnet, W.G. McAdoo in Knoxville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1882 Sept. 24</title>
+               <date>1882-09-24</date>
+               <author>
+                  <name>McAdoo, W. G. (William Gibbs), 1820-1894</name>
+               </author>
+               <extent>1 digital image; 1 p.</extent>
+               <note type="abstract">1882 Sept. 24 W.G. McAdoo, Knoxville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Sonnet to Dr. Ramsey on death and future life.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Death -- Poetry.</term>
+               <term>Friendship -- Poetry.</term>
+               <term>Existentialism in literature.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e145">
+            <pb n="1" facs="0012_000060_000501_0001.jpg" xml:id="d3e146"/>
+            <p>Sonnet.</p>
+            <p>To Dr. J.G.M. Ramsey.</p>
+            <p>Sunday, Sept. 24. 1882.</p>
+            <p>O, Friend of my young years, and all my years</p>
+            <p>From youth to gray-haired age! How glad my heart</p>
+            <p>That yet I see thee here, and that Death&apos;s dark</p>
+            <p>The fated stroke to thee -- to both -- forbears!</p>
+            <p>I am like courser fleeter that noon nears</p>
+            <p>The destined goal, though later was my start;</p>
+            <p>And no, co-equal, we approach the mark</p>
+            <p>Where we shall barter this poor vale of Tears</p>
+            <p>For that eternal kingdom where decay</p>
+            <p>And pain, and sorrow, enter nevermore!</p>
+            <p>So, hand in hand, let us in joy descend</p>
+            <p>The verdant shore of age, and find our way</p>
+            <p>Across death&apos;s darksome streak unto the shore</p>
+            <p>Where Life, and youth, and bliss shall never end!</p>
+            <p>W.G. McAdoo.</p>
+            <p>Home, Knoxville</p>
+         </div>
+      </body>
+   </text>
+</TEI>

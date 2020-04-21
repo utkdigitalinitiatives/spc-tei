@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000423_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. <date when="1874-08-15">1874 Aug. 15</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000423_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1874 Aug. 15</title>
+               <date>1874-08-15</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>5  digital images;  5 pages</extent>
+               <note type="abstract">Anson Nelson wrote this letter to J.G.M. Ramsey, on Aug. 15, 1874. Nelson mentioned the [Tennessee]Historical Society. He agreed with Ramsey that the Society should address a letter to the Hon. Mrs. James K. Polk in relation to the final disposition of the Polk papers. Nelson wrote of her great interest in the Society. She told Nelson she probably would turn her husband&apos;s papers over to the Society. He thanked Ramsey for sending him an extract from a letter of the Hon. Lyman C. Draper and had much praise for Draper. Nelson wished Ramsey success in obtaining other historical papers. He mentioned an event planned for Oct. 6 in observance of the anniversary of the battle of Kings Mountain. He also mentioned that Dr. Lindsley was preparing a catalogue of the effects of the Society. He sent regards to Ramsey from several people and news about some nominations.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Historic preservation -- Tennessee.</term>
+               <term>Societies -- Tennessee -- History.</term>
+               <term>Presidents -- United States -- History -- 19th century -- Archives.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>United States -- Politics and government -- 1845-1849.</term>
+               <term>Nelson, Anson, 1821-1892 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000060_000423_0001.jpg" xml:id="d3e164"/>
+            <p>Aug. 15, 1874</p>
+            <p>Pressing business engagements, my esteemed friend, have caused a long delay in answering your welcome letter of the 31st <unclear reason="illegible" resp="NW">ult.</unclear> post-marked &quot; Sept. 1st, &quot; which reached me on the 2nd inst. the day after the monthly meeting of the historical Society. I regretted very much that it did not reach me in time for the meeting. </p>
+            <p>I lament, with you, the lack of some organ of communication by which our proceedings might be kept before the public.</p>
+            <p>Dr. Lindsley, as you know, has organized three County Lycems; one in Winchester, one in Shelbyville, and one in Murfreesboro, &apos; all of them having good officers - very good. </p>
+            <pb n="2" facs="0012_000060_000423_0002.jpg" xml:id="d3e181"/>
+            <p>I heartily approve your suggestion in regard to addressing a amitable letter to the Hon. Mrs. James K. Polk of &quot; Polk Place &quot; in relation to the final disposition of the Polk papers. THat she will comply with our request, there is no doubt. I believe I told you, when in Knoxville, that I was on friendsly terms with Mrs. Polk; that I had visited her regularly once a week for more than twenty years; that Judge John M. Lea and myself were her business advisors; that I know she felt a good deal of interest in the operations of the Historical Society &amp;c A few days after the receipt of your last letter, I mentioned the fact that you felt considerable interest in having the political papers of her distinguished husband preserved by our Society after hear death, and that all the officers of the Society <unclear reason="illegible" resp="NW">comcided </unclear> with you in your views on this subject. She talked to me very freely concerning it (for we often speak of her death,) and said she would, in all </p>
+            <pb n="3" facs="0012_000060_000423_0003.jpg" xml:id="d3e192"/>
+            <p>probability, do as we desired with the papers; that she would take me into the room where the papers are kept, whenever I had the time, let me look over them, and decide with me what papers she would give to the Society now, and what she would keep until her decease. All this, however, is for your private ear, and yours only. The actions you speak of must be taken, and you can truthfully say that the Society concernes with you in making the request. And; if you deem it proper, the officers will sign, with you, any letter you write. </p>
+            <p>I thank you for the extract from the letter of the Hon. Lyman C. Draper of Wisconsin. It contains a great deal of truth in a very few words. He is a glorious worker. </p>
+            <pb n="4" facs="0012_000060_000423_0004.jpg" xml:id="d3e202"/>
+            <p>I sincerely hope you will be successful in securing the MSS. and other papers, of M.B. Winchester, for <unclear reason="illegible" resp="NW">merly</unclear> of Memphis. They will &quot; be worth their weight &quot; weight in gold &quot; to future historians, and we ought to have possession of them. </p>
+            <p>We have prepared for an observance of the anniversary of the battle of King &apos; Mountain, on the night of Oct 6th, the 7th being the proper day. but because it falls on Wednesday this year, which is the prayer meeting night of all our churches, we take the night before. The Rev. T. A. <unclear reason="illegible" resp="NW">Hoyt</unclear>, paster of the First Presbyterian church, will deliver an address on the subject at the exposition building. We effect to make it an occasion of some interest. </p>
+            <p>Dr. Lindsley is preparing a catalogue of our effects, but some time will elapse before it is completed. It is very necessary for a complete catalogue to be made and published.</p>
+            <pb n="5" facs="0012_000060_000423_0005.jpg" xml:id="d3e220"/>
+            <p>Dr. <unclear reason="illegible" resp="NW">Foater </unclear>, Dr. <unclear reason="illegible" resp="NW">Lindsley </unclear> and other friends, send kind regards. We are all delighted to know that your health and strength is improving. Judge Lea is in New York, and has been for a fort night. He was nominated, the other day, for the Legislature, and I am glad I aided in doing it. I was a delegate to the nominating convention. We all hope he will accept. </p>
+            <p>Mrs. Nelson, Miss Howell and myself send special regards to you and your family. </p>
+            <p>My brother-in-law Morton B. Howell, was this afternoon nominated for Major by the Democratic Conservative Convention, and I think will be elected . De me the favor to write to me whenever you can. </p>
+            <p>I appreciate your letters, really.</p>
+            <p>Very respectfully yours, </p>
+            <p>Anson Nelson</p>
+         </div>
+      </body>
+   </text>
+</TEI>

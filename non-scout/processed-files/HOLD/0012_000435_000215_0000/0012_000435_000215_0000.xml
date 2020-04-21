@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000435_000215_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+					<name>William Alexander Donelson</name>
+				                    at the Kentucky Military Institute to his mother <date when="1868-12-25"> Dec. 25 1868</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Elizabeth, Smither</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">William Alexander Donelson</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000435_000215_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, William Alexander Donelson at the Kentucky Military Institute to his mother Dec. 25 1868</title>
+               <date when="1868-12-25"> Dec. 25 1868</date>
+               <author>
+                  <name type="person">William Alexander Donelson</name>
+               </author>
+               <extent>4 pages</extent>
+               <note type="collection">Andrew Jackson Donelson Letter</note>
+               <note type="manuscript">MS.1158</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Elizabeth, Smither">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e38">
+            <pb n="1" facs="0012_000435_000215_0001.jpg" xml:id="d4e39"/>
+            <p>December 25th 1868</p>
+            <p>My Dear Mother,</p>
+            <p>Christmas Day, sitting in my cell, all alone I retrospect the pat, then contemplate the future.</p>
+            <p>tis strange to mark the different <unclear reason="illegible" resp="EMS">sunig</unclear> and the last changes which we constantly behold drifting upon the <unclear reason="illegible" resp="EMS">calsom</unclear> of the calm and ever ebbing tide of time. The great change in the idea of commemorating this hallowed day, upon which I write is one of the saddest of the changes of time. For the greater portion of mankind, instead of regarding this as a sacred and holy day, a day of rejoicing and thanksgiving for the kind hearted and a day to be had in everlasting remembrance by such as believe in the redemption of Christ, as was intended, they make it renowned as a day of carousal, a day of deeds ill suited to the christian&apos;s hand, a day of gaming and a day looked forward to, so eagerly by most young men as a  fit day for their first spirits, look to our vast cities this night and see how many of the inmates are <unclear reason="illegible" resp="EMS">appeared</unclear> in the degrading and filthes robe of drunkeness</p>
+            <pb n="2" facs="0012_000435_000215_0002.jpg" xml:id="d4e58"/>
+            <p>
+               <unclear reason="illegible" resp="EMS">covered</unclear>
+            </p>
+            <p>Ah! sad for our country&apos;s welfare they are innumerable. While most of the Cadets are off I guess upon a <unclear reason="illegible" resp="EMS">spirit</unclear>, I am all lonly, Dear mother thinking most of thee; Oh! tis hard to bear the feelings occationed by those dear moods, for they did <unclear reason="illegible" resp="EMS">us</unclear> cherishing the memory of her, who once <unclear reason="illegible" resp="EMS">marbled</unclear> them out so sweetly. Twas my sweet Sister, whose worth I never knew until now that she is gone. Oh! that I could say she&apos;s only gone before, it seems vain to say it yet I hope to meet her once more. How happily she used to flit before us. And now that her darling name is recorded amis the other changes of time, seeing the power evinced by the Omnipotent hand which records all changes and events in the time book of life, it should be an incentive to our duties, both Heavenly and earthly, for who can tell what changes the morrow will bring. Some, then its natural to abide by the old adage, &quot;then let us be up and doing, with a heart for any fate, still achieving, still pursuing; let us learn to labor and to wait&quot;. Dear Mother I will try and live up to your anticipations and will abide by the doctrine that where there is a determination of growing no worse, there is a hope of reform.</p>
+            <pb n="3" facs="0012_000435_000215_0003.jpg" xml:id="d4e74"/>
+            <p>Today I was offered a drink of that deadly poison, whiskey, the root of so many evils. very respectfully refused and am glad to know that I was blessed the ability of resisting the sparkle of those fatal drops and of resisting that temptation which is thought by many but not by me, to be such a task. the weather is exceedingly cold and a few drops might have warmed me up, but the thought of you deal mother warmed me, in its stead, and gave me the power of withstanding its sip, which has proven so fataly poisonous to many, and strenthened me in that vow, which I made to you while sitting in the buggy at <unclear reason="illegible" resp="EMS">Starfields</unclear> Shop; Dont you remember it. &quot;twas never to cultivate a taste for intoxicating drinks&quot;. have been faithful to it thus far and hope so to continue, save one time, if you would class brandy peaches with said drinks. If moral education is to be considered in the standing of a school I am sorry to say that this school has fallen greatly below par, in my estimation, only one instance and you certainly will agree. Drunkeness is an ordinary occurence among the cadets, have seen several drunk to day. the faculty certainly must be aware of it, I cant see how they can help it, but the truth of it is that there are whisky quaffers among the member of</p>
+            <pb n="4" facs="0012_000435_000215_0004.jpg" xml:id="d4e81"/>
+            <note type="transcription"> The following text is the letter&apos;s closing.  It is written sideways on top of the rest of the text on page 4</note>
+            <p>Have written two letters to Pa. since you have been ill the <unclear reason="illegible" resp="EMS">bottom</unclear> directing them as he said to the <unclear reason="illegible" resp="EMS">care</unclear> of Clarke, Ely &amp; Co. He did not mention the receipt of <unclear reason="illegible" resp="EMS">letters</unclear> in his letter written from Memphis.</p>
+            <p>Tell <unclear reason="illegible" resp="EMS">Vinet</unclear> to study some everyday also little Andy, for if they dont they will certainly regret it in time to come.</p>
+            <p>W.A.D.</p>
+            <note type="transcription">The preceding text is the letter&apos;s closing.</note>
+            <p>the faculty. Three to a certainty. I think that <unclear reason="illegible" resp="EMS">all</unclear> so as about half sulling drunk last night. at least it seemed so to me, &amp; there has not been but one boy <unclear reason="illegible" resp="EMS">corrected</unclear> for drinking, and I know that 3 or 4 have been caught drunk. It may be so at all schools but I cant think so. There is no telling what a <unclear reason="illegible" resp="EMS">csond</unclear> of young men would be guilty of if all was known. You must not think that I want to come home from tho may I <unclear reason="illegible" resp="EMS">wish</unclear>. what  I have said is all true and could make it <unclear reason="illegible" resp="EMS">wnip</unclear>. I would like to come home but feeling that an Education is a young mans surest capital. if you and Pa think it advisable to <unclear reason="illegible" resp="EMS">reg</unclear> it out at K.M.I. Striving to hold my own as to name and character I will consent. I shall feel axious about you all until my eyes say that all is well. I would like very much to be with you now as I feel that you miss me. Was sorry to see that you had decided to <unclear reason="illegible" resp="EMS">live</unclear> in the bottom, How could you leave <unclear reason="illegible" resp="EMS">alo</unclear> Tenn to go to such a place I hope that you meant temporarily, if not, may circumstances permit it to beso. tell Pa when he comes to <unclear reason="illegible" resp="EMS">Nash</unclear> to send me a hundred dollars 100.00 My quarterly dues will soon be to pay and I need anew uniform. The one which I have on I have worn near 15 months write soon, sad accept for your health and happiness, the heartfelt wishes of you Affectionate Son W.A. Donelson</p>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

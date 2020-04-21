@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000216_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> David L. Jones</name>
+ in Nashville, Tenn., to Anna Jones, Allegheny City, Pa. <date when="1865-05-22">1865 May 22</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L., Union soldier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000216_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa., 1865 May 22</title>
+               <date>1865-05-22</date>
+               <author>
+                  <name>Jones, David L., Union soldier</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">22 May 1865 David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa. Writes about his life at camp; about the preferential treatment given higher ranking soldiers; his visit to the late President James K. Polk&apos;s well, while out looking for clean drinking water. How he had attended church after getting off duty at 4:00, but only after having waited for someone to replace him at 8:00 AM. While in town and near the PO, he took advantage of the wait by writing and greeting his wife and children even though he was sleepy and not feeling well. Some of his fellow soldiers are amazed at how often he writes home; but, he shuts them up by saying that if they weren&apos;t so lazy and sleeping all the time, they could do the same.</note>
+               <note type="collection">David. L. Jones Letters, 1865</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Nashville -- History -- 19th century -- Personal narratives.</term>
+               <term>Military camps --  Social aspects -- Tennessee - Nashville -- History -- 19th century.</term>
+               <term>Military camps -- Religious aspects -- Tennessee -- Nashville -- History -- 19th century.</term>
+               <term>Nashville (Tenn.) -- History -- 19th century.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+               <term>Jones, Anna M. -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Military spouses</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e155">
+            <pb n="1" facs="0012_000091_000216_0001.jpg" xml:id="d3e156"/>
+            <p>Nash 22nd</p>
+            <p>Dear Anna</p>
+            <p>yours of the 16th came to hand as i before stated on friday I was glad to hear that Sharon and the Babe both are getting better you mentioned about Jeff Davie&apos;s that he ought to be hung he would have been in any other <unclear reason="illegible" resp="NW">County</unclear> but But i said when i was there that they would not hang him A thief and a scoundrel is teh most thought of here if it had been some poor man they would hang him as soon as they would catch him As to the rejoicing about his capture there was no notice taken of it you remarked about your writing been so poor you will have to excuse my writing all the time for some times i write awful </p>
+            <pb n="2" facs="0012_000091_000216_0002.jpg" xml:id="d3e171"/>
+            <p>Bad but i suppose that you can make it out yesterday which was Sabbath i was on duty down town The river was awful muddy and the weather warm so that i went out in search of a Spring And i Drank out of the Late President James K. Polk s well His Widow has a Splendid Residence I saw five or six Nigers she is living but i did not see her His Monument is in front of his house i dont know whether he is buried there or not </p>
+            <p>I went to that same church that i mentioned before there was some Colonel Preached called <unclear reason="illegible" resp="NW">Jaquies </unclear> i would Rather hear Colonel clark though at four o clock Monday morning i got off duty so we have too stay here until eight till the other guard comes here so i thought that i wuold take and write a few lines which i was in</p>
+            <pb n="3" facs="0012_000091_000216_0003.jpg" xml:id="d3e184"/>
+            <p>town it will save me a trip as i feel Sleepy and not alltogether well I shall write to James this week if i am spared and to Tom too i shall send Jimmy some of those little papers so you must excuse this Letter I shall send you a bigger one next time Some of our fellows is astonished at me writing so often they cant imagine what i can find to write about they say that they cant write a full letter when they only write once a month I shut them up by saying that when i went any Place that i walked around to see all i could then i had somewhat to write about. But says i you are too lazy to do that you Lay down and Sleep all of your time away So they had no more to Say I was at that <unclear reason="illegible" resp="NW">Dirty - Big </unclear> house what i have wrote about</p>
+            <pb n="4" facs="0012_000091_000216_0004.jpg" xml:id="d3e195"/>
+            <p>So i must close I wish you good bye i write you another tomorrow may be give my respect to Mr &amp; Mrs White I remain yours truly as ever David</p>
+            <p>Kiss the children for me</p>
+         </div>
+      </body>
+   </text>
+</TEI>

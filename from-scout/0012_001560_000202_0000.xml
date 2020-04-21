@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001560_000202_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <name>Henry R. Pippitt </name>Diary, <date from="1865-01-01" to="1865-09-16">1865 January 1-September 16</date>
+            </title>
+            <author>
+               <name type="person">Pippitt, Henry R.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Deane, Christine H.</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_001560_000202_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Henry R. Pippitt Diary, 1865 January 1-September 16</title>
+               <date>1865 January 1-September 16</date>
+               <author>
+                  <name>Pippitt, Henry R.</name>
+               </author>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Civil War Diaries</term>
+               <term>Pippitt, Henry, 1842-1927--Diaries</term>
+               <term>United States. Army. Ohio Infantry Regiment, 104th (1862-1865)
+              Company G.</term>
+               <term>United States. Army. Ohio Infantry Regiment, 104th (1862-1865) --
+              Personal narratives.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Regimental
+              histories.</term>
+               <term>Ohio -- History -- Civil War, 1861-1865 -- Regimental
+              histories.</term>
+               <term>Jordan, Thomas, 1819-1895.</term>
+               <term>Sherman, William T. (William Tecumseh), 1820-1891.</term>
+               <term>Fort Fisher (N.C.)--1860-1870.</term>
+               <term>Fort Anderson (N.C.)</term>
+               <term>Chesapeake Bay (Md. and Va.)</term>
+               <term>Raleigh (N.C.)</term>
+               <term>Greensboro (N.C.)</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Blockades.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Naval
+              operations.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Prisoners and
+              prisons.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Military
+              life.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Campaigns &amp;
+              battles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-03" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary" xml:id="d4e167">
+            <pb n="1" facs="0012_001560_000202_0001.jpg" xml:id="d4e171"/>
+            <pb n="2" facs="0012_001560_000202_0002.jpg" xml:id="d4e175"/>
+            <p>Henry R. Pippitt. Comp. G 104th. Reg. O.U.J. Brig. 3rd Div. 23rd Army Co 2/03</p>
+            
+            <pb n="3" facs="0012_001560_000202_0003.jpg" xml:id="d4e186"/>
+            <p>Pocket Diary 1865. Willy Wallach, No. 43 John Street, New York</p>
+            
+            <pb n="4" facs="0012_001560_000202_0004.jpg" xml:id="d4e197"/>
+            <p>November 1865 December Moon Phases. A Table of Stamp Duties</p>
+            
+            <pb n="5" facs="0012_001560_000202_0005.jpg" xml:id="d4e208"/>
+            <p>Stamp Duties</p>
+            
+            <pb n="5" facs="0012_001560_000202_0006.jpg" xml:id="d4e219"/>
+            <p>Stamp Duties. A Table of Stamp Duties on Demand and Time Notes</p>
+            
+            <pb n="6" facs="0012_001560_000202_0006.jpg" xml:id="d4e230"/>
+            <p>Rates of Postage. Sunday, January 1, 1865. In camp near Columbia. The day was clear and
+          cold. Two inches of snow on the ground. Received orders to be ready to march. Did not
+          march. The order was countermanded. Orders come at midnight to march at six Oclock in the
+          morning</p>
+            
+            <pb n="7" facs="0012_001560_000202_0007.jpg" xml:id="d4e241"/>
+            <p>Monday, January 2, 1865. Left Columbia this morning took the Mount Plesant Pike, marched
+          about one mile South of town. The whole Dis<gap resp="Deane"/> forteen mile. Passed the residence of
+          Reble Gen Polk who was woulned and killed on the Georgia Campaign. He was a Piscapalian
+          and had a church on his own premises. Had a splendid residence and my thing to
+          correspond</p>
+            <p>Tuesday, January 3, 1865. Marched out from Camp near Mount Pleasant at daylight marched
+          eight mile and stoped for dinner marched about six mile after dinner and camped for the
+          night at four Oclock. Marched Southwest course all day on a bridle path through the
+          woods</p>
+            
+            <pb n="8" facs="0012_001560_000202_0008.jpg" xml:id="d4e256"/>
+            <p>Wednesday, January 4, 1865. Lay in Camp until two Oclock then drew rations and marched.
+          Marched untill Ten Oclock at night; forded Buffalo creek three times water cold enough to
+          freeze ice and over knee deep. Got into Camp plenty of nails and oats in the sheaf for a
+          bed; go supples and got to bed by One Oclock. Distance marched about forteen miles</p>
+            <p>Thursay, January 5, 1865. Resumed our march at eight Oclock in the morning marched until
+          one Stoped and took dinner and then marched to Naynes Burro and Camped for the night. The
+          country through which we marched was all a wild <unclear reason="illegible" resp="S.C.">snep</unclear>. Had been considerable of Charcoal <unclear reason="illegible" resp="S.C.">burntalm</unclear>. Sound future day. Dis marched Fifteen mile</p>
+            
+            <pb n="9" facs="0012_001560_000202_0009.jpg" xml:id="d4e275"/>
+            <p>Friday, January 6, 1865. Left Haynesboro at nine Oclock in the morning. The 104th were
+          train guards. Put all our baggage on the wagons. Rather a rough country through which we
+          paped all timber land marched within three mile of the Tenn River and went into camp. Dis
+          forteen mile</p>
+            <p>Saturday, January 7, 1865. In Camp near the River. In the afternoon a detail was sent to
+          Police a new Camp</p>
+            
+            <pb n="10" facs="0012_001560_000202_0010.jpg" xml:id="d4e288"/>
+            <p>Sunday, January 8, 1865. Nine Oclock we moved camp about one eight of a mile fixed up a
+          good bunk of lumber. No preaching today To much <unclear reason="illegible" resp="S.C.">businefs</unclear> on hand</p>
+            <p>Monday, January 9, 1865. In Camp. It is a very wet and disagreeable day. The Transports
+          are shipping traspo to East Point Mississippi as fast as transportation can be
+          furnished</p>
+            
+            <pb n="11" facs="0012_001560_000202_0011.jpg" xml:id="d4e304"/>
+            <p>Tuesday, January 10, 1865. Still in Camp a Squal of twenty five men returned which had
+          been sent out to rescue some of our Boys which wer lost and could not get to Camp on
+          account of the guirrilla. They found two the other three wer killed or wounded. The squad
+          wer fired into none hurt. Returned to Camp all safe</p>
+            <p>Wednesday, January 11, 1865. In Camp at Clifton Tenn All quiet</p>
+            
+            <pb n="12" facs="0012_001560_000202_0012.jpg" xml:id="d4e317"/>
+            <p>Thursday, January 12, 1865. Nothing of interest transpired to day</p>
+            <p>Friday, January 13, 1865. To day Leander Barnaby and I went a forageing got one boy
+          weighing about one hundred</p>
+            
+            <pb n="13" facs="0012_001560_000202_0013.jpg" xml:id="d4e330"/>
+            <p>Saturday, January 14, 1865. To day I went a squirrel hunting had a gay time but did not
+          get but one squirrel</p>
+            <p>Sunday, January 15, 1865. In Camp at Clifton Tenn. All quiet religious services to day by
+          the Chaplain</p>
+            
+            <pb n="14" facs="0012_001560_000202_0014.jpg" xml:id="d4e343"/>
+            <p>Monday, January 16, 1865. To day I went a squirrel hunting. About eight Oclock we struck
+          tents went to the River and got aboard of the Swallow where we lay until day light</p>
+            <p>Tuesday, January 17, 1865. At day light we pulled out. Rain all night and reached
+            <unclear reason="illegible" resp="S.C.">Pedwele</unclear> day light. Passed Fort Henry
+          distance from the march of the Tenn to Pedwele two hundred mile. Took passage on the
+          Swallow</p>
+            
+            <pb n="15" facs="0012_001560_000202_0015.jpg" xml:id="d4e359"/>
+            <p>Wednesday, January 18, 1865. Left Pedwele at day light. Reached Evansville at day light
+          of the 19th</p>
+            <p>Thursday, January 19, 1865. Left Evansville about eight Oclock. Passed where they fired
+          three Salutes and we responded three cheers for the Hoosiers</p>
+            
+            <pb n="16" facs="0012_001560_000202_0016.jpg" xml:id="d4e373"/>
+            <p>Friday, January 20, 1865. Reached Lousiville about dary. Did not stop pushed on for
+          Cincinatti</p>
+            <p>Saturday, January 21, 1865. Reached Cincinatti at dark but there was to much fog could
+          not land. Lay on the Boat all night</p>
+            
+            <pb n="17" facs="0012_001560_000202_0017.jpg" xml:id="d4e386"/>
+            <p>Sunday, January 22, 1865. Left Cincinatti at one Oclock took the Daton and Hamilton road.
+          Corp Kennedy deserted us in Cincinnati this 22nd of Jan 1865</p>
+            <p>Monday, January 23, 1865. Left Newark at Seven Oclock passed Jamesville. Reached Ballair
+          at midnight and <unclear reason="illegible" resp="S.C.">crufsed</unclear> the river.
+          Plenty of coffee ready made where we got on the side</p>
+            
+            <pb n="18" facs="0012_001560_000202_0018.jpg" xml:id="d4e402"/>
+            <p>Tuesday, January 24, 1865. Got on the Baltimore and Ohio roads at <unclear reason="illegible" resp="S.C.">Benarwrun</unclear> to Grafton got that coffee the
+          weather is very cold</p>
+            <p>Wednesday, January 25, 1865. To day we run to Cumberlan where we got hot coffee and soft
+          bread</p>
+            
+            <pb n="19" facs="0012_001560_000202_0019.jpg" xml:id="d4e418"/>
+            <p>Thursday, January 26, 1865. We came into Martins Burgh at two Oclock in the morning got
+          hot coffee and soft bread come through Harpers ferry, which is situated at the foot of the
+          Maryland Hights. Reached Washington about nine Oclock at night. Got our suppers at the
+          soldiers nest and put in barrucks for the night</p>
+            <p>Friday, January 27, 1865. Got breakfast at the Soldiers nest as soon as breakfast over I
+          went to the Capital was over the principle past of the building we then left the city and
+          went to camp stoneman and went into Barracks</p>
+            
+            <pb n="20" facs="0012_001560_000202_0020.jpg" xml:id="d4e431"/>
+            <p>Saturday, January 28, 1865. In the Barracks the three company that wer on another Boat
+          come up to day we are laying side of some of Hancocks veterans, who are a little to strict
+          to be decent</p>
+            <p>Sunday, January 29, 1865. In Stoneman Barracks Stroch Woolmen come to the city to take
+          John Moore home and culled around to Lee the Butlar Boys</p>
+            
+            <pb n="21" facs="0012_001560_000202_0021.jpg" xml:id="d4e444"/>
+            <p>Monday, January 30, 1865. To day I went to the city First went to Navy Yard and from
+          there to the Capital and from there to the Patent Office. The day passed to quick I longed
+          for the <gap resp="Deane"/> to be a week. I see Enoch Woolmen who was clever enough to lend me some
+          money</p>
+            <p>Tuesday, January 31, 1865. Left Camp Stoneman at 8 oclock passed through Washing City
+          crossed the Potomac and reached Alexand about two Oclock. Lay on the commons until sun set
+          and then went to the convalescent home barracks where we lay for the night</p>
+            
+            <pb n="22" facs="0012_001560_000202_0022.jpg" xml:id="d4e459"/>
+            <p>Wednesday, February 1, 1865. Encamped in the Connel moved the Horse out and the 104 and
+          16th Ky. took there places. The weathe is cole But the Tug Boats keep the Channel of the
+          River open</p>
+            <p>Thursday, February 2, 1865. To day I was over Alexander there are a great many hard wamer
+          live there Still in the Hors stabbles. I was to see John Moore but he left yesterday and
+          went to Washington en rout for home</p>
+            
+            <pb n="23" facs="0012_001560_000202_0023.jpg" xml:id="d4e472"/>
+            <p>Friday, February 3, 1865. To day we left the Conel and got aboard of The Steamer called
+          the Star of the South lay at the wharf all night</p>
+            <p>Saturday, February 4, 1865. Pulled out from the wharf at four Oclock in the morning just
+          before leaving one of Co B of 100 was shot dead while a sleep on deck. It was a glancing
+          shot from the wharf Sailed until dark and for the night. Anchored about 20 mile from the
+          mouth of the Potomac River</p>
+            
+            <pb n="24" facs="0012_001560_000202_0024.jpg" xml:id="d4e485"/>
+            <p>Sunday, February 5, 1865. Still sailing to day we are in Chesapeak Bay some of the Boys
+          are sea sick. Reached Fortres Monroe at dusk cast anchor out in the Stream</p>
+            <p>Monday, February 6, 1865. Drew anchor at day light and continued our journey. Passed
+          Albamoral and Paniev Sounds and Cape Hatteras. The sea was very rough many of the Boys are
+          sick</p>
+            
+            <pb n="25" facs="0012_001560_000202_0025.jpg" xml:id="d4e498"/>
+            <p>Tuesday, February 7, 1865. This morning it is Stormy and the sea is very rough. The whole
+          reg was sick. I never felt so disagreeable in my life. Our Captain get lost on account of
+          a heavy fog. The sea was saw so high that we wer abliged to lay out at Sea all day and at
+          dusk we cast anchor</p>
+            <p>Wednesday, February 8, 1865. Lay out at Sea all day. The Scoonners wer busily engaged in
+          landing Portions of our Camps but we did not get off wer ordered three different times to
+          land but countermanded each time</p>
+            
+            <pb n="26" facs="0012_001560_000202_0026.jpg" xml:id="d4e511"/>
+            <p>Thursday, February 9, 1865. This mornign we changed boats twice before landing. After
+          landing we passed Fort Fisher. Captured Eighty-six large guns beside a number of small
+          guns. One two hundred lb Armstrong gun mounted on mahogany was presented to the Rebles by
+          the Brittish blockade runners. Our men captured some twenty five hundred prisoners. Gen.
+          Terry <unclear reason="illegible" resp="S.C.">Comdg</unclear> the land forces and Poster
+          the Fleets</p>
+            <p>Friday, February 10, 1865. To day we are laying in Camp on <unclear reason="illegible" resp="S.C.">Cafse</unclear> fear River. I went to take a Stroll over Fort Fisher which
+          fell on the 15th of Jan 1865. I see one of Armstrongs guns mounted on mahogany carriage a
+          one hundred and fifity lb presented to the Rebles by the Brittish blockade runners. They
+          had one of Robisons and Cottum make London. It shoots one hundred and twenty to times. A
+          britch lauding sifted gun and not over <unclear reason="illegible" resp="S.C.">fans</unclear> feet long</p>
+            
+            <pb n="27" facs="0012_001560_000202_0027.jpg" xml:id="d4e534"/>
+            <p>Saturday, February 11, 1865. To day the 1st Brig went out in a Resognoiter moved about
+          one mile, lay all day and camped there for the night</p>
+            <p>Sunday, February 12, 1865. Lay still until noon then went to the landing and drew three
+          days rations got back at dusk. Struck tents and went five miles up the coast with the
+          prospect of cropping an Inlet, but did not crop could not lay the Pontoons came back to
+          our old Camp about Eleven Oclock at night</p>
+            
+            <pb n="28" facs="0012_001560_000202_0028.jpg" xml:id="d4e547"/>
+            <p>Monday, February 13, 1865. Lay in Camp, no demonstrations made during the day. All quiet
+          at night. Maj Gen Whitting was comdg and had been for four years at Fort Fisher, he was
+          wounded and afterwards surrendered the Fort. The Armstrong gun weighed fifteen thous
+          <gap resp="Deane"/> and seven hundred and thirty seven pounds and cost $13,000 in gold</p>
+            <p>Tuesday, February 14, 1865. Went to the landing distance four miles and drew rations
+          Issued them to the men at the landing come back and at dark struck tents and went up to
+          the Inlet but did not offset a crossing. Returned to our old camp it being two Oclock in
+          the morning</p>
+            
+            <pb n="29" facs="0012_001560_000202_0029.jpg" xml:id="d4e562"/>
+            <p>Wednesday, February 15, 1865. Did not get up until half past eleven and would not of then
+          but the water run in our tent three inches deep. In the afternoon I went to the river
+          where they wer swimming. One draw they caught ten bushel. I got enough for supper</p>
+            <p>Thursday, February 16, 1865. Struck tents at Eight Oclock marched down to the landing got
+          aboard the Eliza Hancock and went down the river eight mile to Smithville and landed
+          camped there for the night; I went for oysters got a fine mep of them. Received a letter
+          from Jo Ray, Is at Jefferson Hospital had had a rough time with the gangrene in his leg
+          but is doing well now</p>
+            
+            <pb n="30" facs="0012_001560_000202_0030.jpg" xml:id="d4e575"/>
+            <p>Friday, February 17, 1865. Left Smithville at Eight Oclock in the morning advanced some
+          six mile in the direction of fort Anderson before we come to the Reble outpost. Our forces
+          drove them some two miles then camped for the night putting up works. A little firing from
+          our gun boats at Fort Anderson</p>
+            <p>Saturday, February 18, 1865. To day we moved out one mile to the front and found the
+          Rebles fortified and artillery in position. We then went back to the rear and took another
+          road to get their flank. We advanced some three miles, come to gum Swamp where the Rebs
+          wer fortified on the opposite. Our Reg charged half of it on skirmish and the balance
+          supporting Lt. Reid and Snider of Co. J wer slightly wounded. Serg Gibbons Co. A wounded
+          and Heammand Co E killed, Orderly Co. J wounded</p>
+            
+            <pb n="31" facs="0012_001560_000202_0031.jpg" xml:id="d4e588"/>
+            <p>Sunday, February 19, 1865. Drew rations and at noon marched and at night camped some five
+          miles north of Fort Anderson. The Rebles evacuated fort Anderson the night before at
+          twelve Oclock leaving eleven guns</p>
+            <p>Monday, February 20, 1865. Left camp at sunrise moved to the right and turned the Rebs
+          flank. Closed in on them and at sunset charged them taking four hundred and thirty
+          prisoners and two peices of artilery.Co C. lost eleven in all. H. Six and one killed. G.
+          two slight : Co. K one. Camped for the night on the Spot. Captured a boat-load of sweete
+          potatoes and hard cider</p>
+            
+            <pb n="32" facs="0012_001560_000202_0032.jpg" xml:id="d4e601"/>
+            <p>Tuesday, February 21, 1865. A Company of the 177 took the prisoners to fort Anderson an
+          dour command moved on toward Wilmington moved some five mile put up works and camped for
+          the night. At two Oclock in the morning packed up marched back three mile about faced and
+          came back and went to bed. It wa five Oclock AM slept until morning</p>
+            <p>Wednesday, February 22, 1865. To day Colonel Jordon wa appointed Provost marshall of the
+          City of Wilmington and the 104th to do Provost duty. We crossed Cape fear river and passed
+          into the City the Band struck up Yankee doodle. The streets wer crowded with citizens and
+          danys. We went to the outskirts of town and we out into barracks. There eight of our men
+          prisoners here who starved to death and two who are just alive.</p>
+            
+            <pb n="33" facs="0012_001560_000202_0033.jpg" xml:id="d4e614"/>
+            <p>Thursday, February 23, 1865. To day one busy cleaning up the Barrack</p>
+            <p>Friday, February 24, 1865. To day I went a fishing. Rather a poor day for fishing did not
+            <unclear reason="illegible" resp="S.C.">cuth</unclear> any</p>
+            
+            <pb n="34" facs="0012_001560_000202_0034.jpg" xml:id="d4e630"/>
+            <p>Saturday, February 25, 1865. Nothing of interest going on</p>
+            <p>Sunday, February 26, 1865. All quiet to day. We sighed the pay roller to day</p>
+            
+            <pb n="35" facs="0012_001560_000202_0035.jpg" xml:id="d4e643"/>
+            <p>Monday, February 27, 1865. All quiet to day. This Evening Bill Kelly come to see Kink
+          Whitoose and myself. He has been a prisoner for 8 months and just been <unclear reason="illegible" resp="S.C.">pasalld</unclear> almost naked for the want of
+          clothes</p>
+            <p>Tuesday, February 28, 1865. To day we wer mustered for two months more pay. Escaped and
+          paroled prisoners are coming in continually</p>
+            
+            <pb n="36" facs="0012_001560_000202_0036.jpg" xml:id="d4e659"/>
+            <p>Wednesday, March 1, 1865. To day we received four months pay. Bunny Kink called to see
+          son today was paroled</p>
+            <p>Thursday, March 2, 1865. All moving off lively. Still doing duty in Wilmington</p>
+            
+            <pb n="37" facs="0012_001560_000202_0037.jpg" xml:id="d4e672"/>
+            <p>Friday, March 3, 1865. This is the last days duty in Wilmington are to be releaved by the
+          24th. Corps to night we had a dance at our Barracks. Had a gay time all to our selvs. Two
+          fiddlers and a banjo picker</p>
+            <p>Saturday, March 4, 1865. This morning we wer releaved and croped the Wilmington and
+          Weldon R.R. and Camped Schofield <unclear reason="illegible" resp="S.C.">comdgs</unclear>the Dept Couch the Corps, reilly the Dive and Cocks Military goo of
+          N.C</p>
+            
+            <pb n="38" facs="0012_001560_000202_0038.jpg" xml:id="d4e689"/>
+            <p>Sunday, March 5, 1865. To day we drew five days rations and have orders to get ready for
+          the front. Duke got into a fight go stabbed not able to go with</p>
+            <p>Monday, March 6, 1865. Left Camp at 8 Oclock marched 15 mile in the direction of Newburn
+          and camped for the night. Sterl Comdgs the Brig</p>
+            
+            <pb n="39" facs="0012_001560_000202_0039.jpg" xml:id="d4e702"/>
+            <p>Tuesday, March 7, 1865. Marched at day light; went 15 mile and camped for the night very
+          little open country. Mostly pure forest</p>
+            <p>Wednesday, March 8, 1865. Left camp at seven Oclock marched twelve and camped for the
+          night. It rained the greater part of the afternoon</p>
+            
+            <pb n="40" facs="0012_001560_000202_0040.jpg" xml:id="d4e715"/>
+            <p>Thursday, March 9, 1865. The 16th Ky and our Reg was on train guard. It rained part of
+          the day did not get to camp until one Oclock wading mud and water all day and as soon as
+          we reached camp got orders to issue one days rations and march at five Oclock. I did not
+          get to sleep any</p>
+            <p>Friday, March 10, 1865. Left camp at five Oclock, mud and water ankle deepe all day, went
+          into camp about four Oclock. At ten drew rations and be ready to march at two. No sleep
+          for me this night</p>
+            
+            <pb n="41" facs="0012_001560_000202_0041.jpg" xml:id="d4e728"/>
+            <p>Saturday, March 11, 1865. Pulled out at two Oclock marched some two mile and come to a
+          large stream waded it and went on mud and water knee deep; About as rough marching as we
+          ever done. This night we form a junction with Gen Cox near Kingston</p>
+            <p>Sunday, March 12, 1865. To day we moved some two mile and camped. Camp any G went on
+          picket. All quiet</p>
+            
+            <pb n="42" facs="0012_001560_000202_0042.jpg" xml:id="d4e741"/>
+            <p>Monday, March 13, 1865. Lay still in Camp our company was relieved at four Oclock. The
+          Boys are bring in plenty of forage such as pork and <gap resp="Deane"/>
+            </p>
+            <p>Tuesday, March 14, 1865. Orders to move at 8 Oclock marched two mile and camped a detail
+          was sent to get out ties for the Rail road</p>
+            
+            <pb n="43" facs="0012_001560_000202_0043.jpg" xml:id="d4e755"/>
+            <p>Wednesday, March 15, 1865. Pulled out at five Oclock went to the river one mile and
+          camped. It rained very hard</p>
+            <p>Thursday, March 16, 1865. Lay in camp near the Neuse R<gap resp="Deane"/>. The Boys are not relieved
+          that went to get out ties</p>
+            
+            <pb n="44" facs="0012_001560_000202_0044.jpg" xml:id="d4e770"/>
+            <p>Friday, March 17, 1865. Still in Camp on the Banks of the Neuse River. The Boys are a
+          getting out ties for the R. R.</p>
+            <p>Saturday, March 18. 1865. To day we had inspection, all went off smooth</p>
+            
+            <pb n="45" facs="0012_001560_000202_0045.jpg" xml:id="d4e783"/>
+            <p>Sunday, March 19, 1865. Preaching at Ten Oclock. Three vessals came up the river to day
+          loaded with rations</p>
+            <p>Monday, March 20, 1865. To day we marched twelve mile toward Galesborro and camped for
+          the night</p>
+            
+            <pb n="46" facs="0012_001560_000202_0046.jpg" xml:id="d4e796"/>
+            <p>Tuesday, March 21, 1865. Marched at 7 Oclock marched all day and until two oclock next
+          morning when we reached Galesborro went to bed</p>
+            <p>Wednesday, March 22, 1865. Did not get up until ten Oclock got dinner and then moved camp
+          west of town and put up works 12 ft at the base and 9 at the top worked all knight. Henry
+          C Wisner of Co G. died at Wilmington this date</p>
+            
+            <pb n="47" facs="0012_001560_000202_0047.jpg" xml:id="d4e809"/>
+            <p>Thursday, March 23, 1865. Lay still in camp. Sherman made conection with us to day his
+          army are passing into town</p>
+            <p>Friday, March, 24, 1865. In camp. To day the 17th Corps came into town all quiet to the
+          front</p>
+            
+            <pb n="48" facs="0012_001560_000202_0048.jpg" xml:id="d4e822"/>
+            <p>Saturday, March 25, 1865. Nothing transpired of importance; wer lively putting in pickets
+          in front of our works</p>
+            <p>Sunday, March 26, 1865. In Camp at Goldsboro N.C. nothing of interest going on</p>
+            
+            <pb n="49" facs="0012_001560_000202_0049.jpg" xml:id="d4e836"/>
+            <p>Monday, March 27, 1865. In camp behind our works</p>
+            <p>Tuesday, March 28, 1865. All quiet went down to the Neuse River and took a canoe and
+          paddled up and down the river a fishing</p>
+            
+            <pb n="50" facs="0012_001560_000202_0050.jpg" xml:id="d4e849"/>
+            <p>Wednesday, March 29, 1865. All quiet to day at the front</p>
+            <p>Thursday, March 30, 1865. To day one of the 12 New York Calvary was shot for commiting a
+          rape on an elderly lady at Kinston NC. Drew five days rations came the 30th</p>
+            
+            <pb n="51" facs="0012_001560_000202_0051.jpg" xml:id="d4e862"/>
+            <p>Friday, March 31, 1865. In camp all quiet commenced drilling 3 hours a day</p>
+            <p>Saturday, April 1, 1865. In camp; no drill an <unclear reason="illegible" resp="S.C.">Liutus</unclear> day</p>
+            
+            <pb n="52" facs="0012_001560_000202_0052.jpg" xml:id="d4e878"/>
+            <p>Sunday, April 2, 1865. In camp church at two Oclock</p>
+            <p>Monday, April 3, 1865. There is a revival in town having a pretty good time</p>
+            
+            <pb n="53" facs="0012_001560_000202_0053.jpg" xml:id="d4e891"/>
+            <p>Tuesday, April 4, 1865. Regular drill nothing of importance transpired. Rec four Recruits
+          all but Cap <unclear reason="illegible" resp="S.C.">Faweets</unclear> some are strangers.
+          Their names are as follows, Griswold Hall, Christian Fawsett and Dillion. JW Derr returned
+          from the Hosp. Wm Davis died at Beuford N, C, this day. Richman fell</p>
+            <p>Wednesday, April 5, 1865. All quiet to day. Regular drill at the usual hours. H.
+          Greenswalt returned from Hosp</p>
+            
+            <pb n="54" facs="0012_001560_000202_0054.jpg" xml:id="d4e907"/>
+            <p>Thursday, April 6, 1865. Rec the news of the fall of Richmond. Great cheering and
+          rejoicing generly</p>
+            <p>Friday, April 7, 1865. Griswold went to the Hospital. The Officers are on a small drunk
+          over the fall of Richmond</p>
+            
+            <pb n="55" facs="0012_001560_000202_0055.jpg" xml:id="d4e920"/>
+            <p>Saturday, April 8, 1865. To day Wm Dubbs come up from the hospital was wounded in the
+          hand at a change made at Fawn Creek N. C. Feb 20th Great rejoicing generly throwing rocket
+          and the Boys are making all noise imaginable a shooting and</p>
+            <p>Sunday, April 9, 1865. All quiet to day. Preaching on the camp ground. Aaron Moore come
+          up to the Co from Kingston Tenn. Was detaile as Div wagon master. Gen Lee surrendered to
+          Grant. Conditions wer stuck arms park trains and artillery. Pare the men and officers.
+          Officers keepe their side arms</p>
+            
+            <pb n="56" facs="0012_001560_000202_0056.jpg" xml:id="d4e933"/>
+            <p>Monday, April 10, 1865. This morning Shermans whole army moves for the front. Our Brigade
+          moved ½ a mile and then wer sent back to camp to guard the train. Lay in camp for the
+          nights was up town. Hope I may never forget the 10th of April</p>
+            <p>Tuesday, April 11, 1865. Rec orders to march at six Oclock but did not leave camp until
+          noon wer waiting for the train. The 1st Brig are train guards moved five miles in the
+          direction of Raleigh and camped for the night. Rec a letter from home all well </p>
+            
+            <pb n="57" facs="0012_001560_000202_0057.jpg" xml:id="d4e946"/>
+            <p>Wednesday, April 12, 1865. Still guarding the train. Marched some seven and camped with
+          the train for the night. A dispatch came to us that Lee had surrendered his Army. Cheers </p>
+            <p>Thursday, April 13, 1865. Marched along with the train. Croped the Neuse River on
+          pontoons (the river being burnt) and camped for the night. Gen Lees surrender was
+          confirmed by a dispatch from Gen Sherman. Drew three days rations</p>
+            
+            <pb n="58" facs="0012_001560_000202_0058.jpg" xml:id="d4e959"/>
+            <p>Friday, April 14, 1865. Left the banks of the Neuse river on train guard marched some
+          fifteen miles and camped for the <gap resp="Deane"/> The Rebs dashed on the train cut loos the mules of
+          16 wagons and burnt three. We <unclear reason="illegible" resp="S.C.">cupd</unclear> two
+          of the Rebs. Pres Lincoln was shot at Fords Theater W, DC at half ten and died about ten
+          the next day</p>
+            <p>Saturday, April 15, 1865. Left camp early in the morning wer in advance of the Brig and
+          train. Reached Raleigh about five Oclock. Our advance is pushing Johnson <unclear reason="illegible" resp="S.C.">clustly</unclear>
+            </p>
+            
+            <pb n="59" facs="0012_001560_000202_0059.jpg" xml:id="d4e979"/>
+            <p>Sunday April 16, 1865. Camped at the outskirts of town. Sherman and Johnson are
+          communicating together</p>
+            <p>Monday April 17, 1865. Sherman and Johnson are still communicating together. To day the
+          news of Lincoln’s death reached the Army. The authorities put on a heavy guard to Keepe
+          the Soldiers from destroying Raleigh</p>
+            
+            <pb n="60" facs="0012_001560_000202_0060.jpg" xml:id="d4e993"/>
+            <p>Tuesday April 18, 1865. To day we moved camp to the North side of Raleigh and prospects
+          bid fair for us to remain here until we start home</p>
+            <p>Wednesday April 19, 1865. Fixing up in camp all pickets wer with drawen to day at three
+          Oclock and Hostilities have ceased. The daily standard came out in mourning for President
+          Lincoln</p>
+            
+            <pb n="61" facs="0012_001560_000202_0061.jpg" xml:id="d4e1006"/>
+            <p>Thursday April 20, 1865. Laying in camp near Raleigh N. C. preparing for a review by
+          Sherman tomorrow. At this time our Navy consists of six hundred and eighty three. Sixty
+          four Iron Clads have been added in this past year</p>
+            <p>Friday April 21, 1865. To day the 23rd Corps was reviewed by Gen Sherman. They made a
+          fine display on the Streets of Raleigh</p>
+            
+            <pb n="62" facs="0012_001560_000202_0062.jpg" xml:id="d4e1019"/>
+            <p>Saturday April 22, 1865. This morning our Reg met for the purpose of Ellecting
+          Representatives to nominate Delegates to the State Convention. Lm Shafer and Clark of Co
+          F. wer ellected. The 20th Corps was reviewed and played the past of good soldiers. I went
+          in the afternoon to visit the deaf dumb and blind asylum. It was interesting to see them
+            <unclear reason="illegible" resp="S.C.">secite</unclear>
+            </p>
+            <p>Sunday April 23, 1865. Nothing of interest. C. L. Heaton came back to the company just
+          from home</p>
+            
+            <pb n="63" facs="0012_001560_000202_0063.jpg" xml:id="d4e1034"/>
+            <p>Monday April 24, 1865. In camp near Raleigh all quiet</p>
+            <p>Tuesday April 25, 1865. Received orders to march at six this morning, was countermanded
+          and all quiet</p>
+            
+            <pb n="64" facs="0012_001560_000202_0064.jpg" xml:id="d4e1047"/>
+            <p>Wednesday April 26, 1865. In camp All quiet</p>
+            <p>Thursday April 27, 1865. In camp at Raleigh NC All quiet</p>
+            
+            <pb n="65" facs="0012_001560_000202_0065.jpg" xml:id="d4e1060"/>
+            <p>Friday April 28, 1865. No news of interest. Shermans Army consisting of the 20, 14, 15
+          and 17th Cosps left Raleigh for Richmond</p>
+            <p>Saturday April 29, 1865. All quiet. Nothing of Interest</p>
+            
+            <pb n="66" facs="0012_001560_000202_0066.jpg" xml:id="d4e1073"/>
+            <p>Sunday April 30, 1865. Wer mustered to day for two months more pay</p>
+            <p>Monday May 1, 1865. Still at Raleigh</p>
+            
+            <pb n="67" facs="0012_001560_000202_0067.jpg" xml:id="d4e1086"/>
+            <p>Tuesday May 2, 1865. Left Raleigh at 7 Oclock this morning for Greensboro arrived about
+          four Oclock. Many of Johnson Army met us at the Station some of them seem to be in a good
+          humor and others wer very <unclear reason="illegible" resp="S.C.">cously</unclear> Camped
+          near the Station for the night our guards relieved the Reble guards immediately</p>
+            <p>Wednesday May 3, 1865. Moved camp in to a grove. The <unclear reason="illegible" resp="S.C.">9BBJ</unclear> came from Raleigh to help garrison the place; all passes off
+          quietly and Rebles are as thick as flys in August</p>
+            
+            <pb n="68" facs="0012_001560_000202_0068.jpg" xml:id="d4e1105"/>
+            <p>Thursday May 4, 1865. Paroling is going on speedily and one train load after another are
+          leaving all goes on quietly. The Rebs are a sore set of people</p>
+            <p>Friday May 5, 1865. More troops arriving constantly. Citizens both men and women come for
+          miles to see the Yankees seem much pleased</p>
+            
+            <pb n="69" facs="0012_001560_000202_0069.jpg" xml:id="d4e1118"/>
+            <p>Saturday May 6, 1865. The <unclear reason="illegible" resp="S.C.">ralonn</unclear> come
+          came from Raleigh to day, Kilpatericks command come in. I see Andy Seall from Laudonville
+          had quite a confab with him</p>
+            <p>Sunday May 7, 1865. The balance of the 1st Brigade come up to day. The weather is very
+          warm preaching to day</p>
+            
+            <pb n="70" facs="0012_001560_000202_0070.jpg" xml:id="d4e1134"/>
+            <p>Monday May 8, 1865. The Brig moved camp the 104th are detached and doing duty in
+          Greensboro. The weather is very warm and every thing is in full bloom</p>
+            <p>Tuesday May 9, 1865. To day we moved camp to a grove on the outskirts of town. I made a
+          purchase of 9 ½ yd of Reble cloth and two reble blankets </p>
+            
+            <pb n="71" facs="0012_001560_000202_0071.jpg" xml:id="d4e1148"/>
+            <p>Wednesday May 10, 1865. D C Boutwell and E. S. Kentner returned from Wilmington to the
+          Company. No good feeling in the Co toward him. Colonel Pritchard of the fourth <unclear reason="illegible" resp="S.C.">michcun</unclear> with 130 men captured. Jeff Davis near
+          Irwinsville Irwins Co Georgia. Mrs Davis remarked to Col Hardens after the excitement was
+          over that the men had better not pranke the Pres or he might hurt some of em</p>
+            <p>Thursday May 11, 1865. Doing duty in Greensboro. The Citizens like the Reg very well and
+          desire that we may remain</p>
+            
+            <pb n="72" facs="0012_001560_000202_0072.jpg" xml:id="d4e1164"/>
+            <p>Friday May 12, 1865. Was up town to guard mounting. The Reg make a fine display</p>
+            <p>Saturday May 13, 1865. all quiet in camp nothing of interest transpired during the
+          day</p>
+            
+            <pb n="73" facs="0012_001560_000202_0073.jpg" xml:id="d4e1177"/>
+            <p>Sunday May 14, 1865. Regular guard mount. Dress parade quite a contrast to what took
+          place one year ago to day the battle of Resacea</p>
+            <p>Monday May 15, 1865. All quiet. The Reg had Dress parade</p>
+            
+            <pb n="74" facs="0012_001560_000202_0074.jpg" xml:id="d4e1190"/>
+            <p>Tuesday May 16, 1865. In camp nothing of interest transpired</p>
+            <p>Wednesday May 17, 1865. Drew rations for five days. All quiet</p>
+            
+            <pb n="75" facs="0012_001560_000202_0075.jpg" xml:id="d4e1203"/>
+            <p>Thursday May 18, 1865. All quiet. Doing Provost duty in Greensboro</p>
+            <p>Friday May 19, 1865. Colonel Jordon put a guard acrop the road to prevent the Boys from
+          town most of the Reg went went to town for spite</p>
+            
+            <pb n="76" facs="0012_001560_000202_0076.jpg" xml:id="d4e1216"/>
+            <p>Saturday May 20, 1865. All quiet to day. The Reg drew clothing</p>
+            <p>Sunday May 21, 1865. Sunday Inspection at one Oclock. Jordon still comes down on the Boys
+          for going to town</p>
+            
+            <pb n="77" facs="0012_001560_000202_0077.jpg" xml:id="d4e1229"/>
+            <p>Monday May 22, 1865. Ration day drew for five days</p>
+            <p>Tuesday May 23, 1865. Nothing of interest. The citizens are beginning to bring in produce
+          cherries and everything seem to be in a proper condition</p>
+            
+            <pb n="78" facs="0012_001560_000202_0078.jpg" xml:id="d4e1242"/>
+            <p>Wednesday May 24, 1865. All is quiet. Nothing of interest</p>
+            <p>Thursday May 25, 1865. The assassins of Pres Lincoln are now being tried at Washington
+          City. There wer one couple <unclear reason="illegible" resp="S.C.">murrice</unclear> in
+          Greensboro this night. The guards preserved order</p>
+            
+            <pb n="79" facs="0012_001560_000202_0079.jpg" xml:id="d4e1258"/>
+            <p>Friday May 26, 1865. A picknick a couple of miles from town the Band are in attendance.
+          Rained greater part of the day and stormed very hard in the night</p>
+            <p>Saturday May 27, 1865. The weather is very gloomy and cold. All kind of grapevine rumors
+          afloat in regard to our going home</p>
+            
+            <pb n="80" facs="0012_001560_000202_0080.jpg" xml:id="d4e1271"/>
+            <p>Sunday May 28, 1865. Clear day all quiet. Church at 2 Oclock by our Chaplains</p>
+            <p>Monday May 29, 1865. Nothing of interest. Done my weeks washing to day</p>
+            
+            <pb n="81" facs="0012_001560_000202_0081.jpg" xml:id="d4e1284"/>
+            <p>Tuesday May 30, 1865. All quiet. Nothing of interest. David O Boutwell died at the 3rd
+          Div Hospital to day buried this Eve at five Oclock</p>
+            <p>Wednesday May 31, 1865. To day is ration day drew rations for five day</p>
+            
+            <pb n="82" facs="0012_001560_000202_0082.jpg" xml:id="d4e1298"/>
+            <p>Thursday June 1, 1865. Mer Thomas and myself went to Friendship to a Union Military a
+          distance of ten mile all poped off quietly</p>
+            <p>Friday June 2, 1865. Returned to camp about ten Oclock was very tired. Jack Cosemain and
+          wife are here. He (Cosemain) is running for Lt Governor of Ohio his friends are few and
+          far between in the 104 <unclear reason="illegible" resp="S.C.">O U J</unclear>
+            </p>
+            
+            <pb n="83" facs="0012_001560_000202_0083.jpg" xml:id="d4e1313"/>
+            <p>Saturday June 3, 1865. Wm Widdoes returned to the Co has been home on furlough</p>
+            <p>Sunday June 4, 1865. Church to day at two Oclock. Nothing of interest</p>
+            
+            <pb n="84" facs="0012_001560_000202_0084.jpg" xml:id="d4e1326"/>
+            <p>Monday June 5, 1865. Drew five days rations. The commanders are busy makes my clothing
+          returns and many rumors about going home</p>
+            <p>Tuesday June 6, 1865. All quiet in camp</p>
+            
+            <pb n="85" facs="0012_001560_000202_0085.jpg" xml:id="d4e1339"/>
+            <p>Wednesday June 7, 1865. The Boys played out taking knapsack to town on guard. Jordon sent
+          them back to get them put two men under arrest</p>
+            <p>Thursday June 8, 1865. This morning the Boys all come out without Knapsacks</p>
+            
+            <pb n="86" facs="0012_001560_000202_0086.jpg" xml:id="d4e1352"/>
+            <p>Friday June 9, 1865. In camp at Greensboro N.C</p>
+            <p>Saturday June 10, 1865. All quiet. Nothing of interest</p>
+            
+            <pb n="87" facs="0012_001560_000202_0087.jpg" xml:id="d4e1365"/>
+            <p>Sunday June 11, 1865. Church at two Oclock P.M</p>
+            <p>Monday June 12, 1865. All quiet. Still talk of going home</p>
+            
+            <pb n="88" facs="0012_001560_000202_0088.jpg" xml:id="d4e1378"/>
+            <p>Tuesday June 13, 1865. In camp at Greensboro N.C</p>
+            <p>Wednesday June 14, 1865. Talk of being relieved but no relief com</p>
+            
+            <pb n="89" facs="0012_001560_000202_0089.jpg" xml:id="d4e1391"/>
+            <p>Thursday June 15, 1865. No relief come as yet</p>
+            <p>Friday June 16, 1865. Relieved from duty at Greensboro N.C. by the 17 Mass Strong talk of
+          going home</p>
+            
+            <pb n="90" facs="0012_001560_000202_0090.jpg" xml:id="d4e1404"/>
+            <p>Saturday June 17, 1865. Gen Cox Inspected the 3rd Div at Greensboro to day. Did not get
+          off</p>
+            <p>Sunday June 18, 1865. Left Greensboro at five Oclock. Reached Danville at eleven Oclock.
+          Dis 48 mile loaded on the train for Birksville</p>
+            
+            <pb n="91" facs="0012_001560_000202_0091.jpg" xml:id="d4e1417"/>
+            <p>Monday June 19, 1865. Left Danville at daylight and reached Birksville at two Oclock
+          distance eighty five mile. Left Birksville at three oclock and arrived at Petersburg at
+          seven Oclock distance eighty six mile. Left for City Point at Seven distance ten mile got
+          on board of Columbia where we lay for the night </p>
+            <p>Tuesday June 20, 1865. Left City Point at daylight went down the James River to Fort
+          Manne reached there about two Oclock. Left for Baltimaore got to the mouth of the York
+          River and the appearance of an approaching storm run up 12 mile to York town and anchored
+          for the night. Quite a number of us went on a swimming. Sweet from Co. D prety near
+          drowned</p>
+            
+            <pb n="92" facs="0012_001560_000202_0092.jpg" xml:id="d4e1430"/>
+            <p>Wednesday June 21, 1865. Pulled out from York town at day light and journeyd on for
+          Baltimore. Reached the harbor at twelve Oclock at nigh. Did not go in until morning. From
+          City Point to Baltimore 280 mile</p>
+            <p>Thursday June 22, 1865. Pulled into the Wharf at Six A M marched through Baltimore 1 ½
+          miles to the Pa Central <unclear reason="illegible" resp="S.C.">soad</unclear>. Lay until
+          twelve Oclock. Took the train run to Hanesburg Dis 84 mile from there to Marysville at the
+          crossing of the <unclear reason="illegible" resp="S.C.">Susqurebranna</unclear> River
+          changed locomotives. Arrived at Altona about 8 Oclock next morning</p>
+            
+            <pb n="93" facs="0012_001560_000202_0093.jpg" xml:id="d4e1450"/>
+            <p>Friday June 23, 1865. Left Altona at ten A. M. Arrived at Pittsburg ½ past five. The
+          Pittsburg Band escorted us to the town Hall where we wer furnished a good supper. Then we
+          marched to the Depo and go aboard of the Canes. Soldiers could not of been treated better
+          than we wer by the citizens of Pittsburg especially by the Ladies. Harrisburg to Pittsbugh
+          140 mile. Run to Wellsalle Dis 50 M <gap resp="Deane"/>
+            </p>
+            <p>Saturday June 24, 1865. Passed through Alliance about six Oclock on to Atwater, Roxanna,
+          Hudson and arrived at Cleveland about two Oclock. Stoped at the station and washed marched
+          through the City to the park where a good substantial dinner awaited us. One the citizens
+          give up short and appropriate reception speech then took dinner and marched to the
+          barracks met J. R. Ray and Serg Maj WB Elston when we arrived</p>
+            
+            <pb n="94" facs="0012_001560_000202_0094.jpg" xml:id="d4e1464"/>
+            <p>Wednesday June 28, 1865. May I never forget the 28 of June</p>
+            
+            <pb n="95" facs="0012_001560_000202_0095.jpg" xml:id="d4e1475"/>
+            <p>Thursday June 29, 1865. Left Cleveland 4 Oclock forty minutes for home</p>
+            
+            <pb n="96" facs="0012_001560_000202_0096.jpg" xml:id="d4e1486"/>
+            <p>Wednesday July 19, 1865. Left Laudonville for Salem to day. Arrived at noon and took
+          dinner with Uncle Danny Boulton. Went out home with Ner G. Burns</p>
+            <p>Thursday July 20, 1865. Remained with New all day and night had a pleasant time</p>
+            
+            <pb n="97" facs="0012_001560_000202_0097.jpg" xml:id="d4e1499"/>
+            <p>Friday July 21, 1865. Went to Kinks, helped them hall hay stayed the night. It rained
+          very hard</p>
+            <p>Saturday July 22, 1865. Went to Salem. Stayed all night with Wm Turner</p>
+            
+            <pb n="98" facs="0012_001560_000202_0098.jpg" xml:id="d4e1512"/>
+            <p>Sunday July 23, 1865. Visited the semmetry took tea at Mrs Bets and spent the night
+          there</p>
+            <p>Monday July 24, 1865. Was in town and spent the night with A.A. Thomas</p>
+            
+            <pb n="99" facs="0012_001560_000202_0099.jpg" xml:id="d4e1525"/>
+            <p>Tuesday July 25, 1865. Left Salem and went out to Uncle Isaacs, Roberts, and Thomases</p>
+            <p>Wednesday July 26, 1865. Still with Uncle</p>
+            
+            <pb n="100" facs="0012_001560_000202_0100.jpg" xml:id="d4e1538"/>
+            <p>Thursday August 31, 1865. Farm for Sale. Farm of 77 Acres situated 3 ½ miles SW of Salem.
+          Lies well a good roomy house, barn, wagon house and other out buildings. Two wells of
+          water and a good orchard of the choicest fruit</p>
+            
+            <pb n="101" facs="0012_001560_000202_0101.jpg" xml:id="d4e1549"/>
+            <p>Saturday September 16, 1865. Valuable Farm for sale. Farm of 77 acres owned by Joseph
+          Pippitt situated 3 ½ miles S.W. of Salem, Lies well a <gap resp="Deane"/>
+            </p>
+            
+            <pb n="102" facs="0012_001560_000202_0102.jpg" xml:id="d4e1564"/>
+            <p>General Mower Command the 20th Corps</p>
+            <p>Jeff C. Davis Commands the 14th Corps</p>
+            <p>Gen Slocum Commands the two Corps and is called the Army of Georgia</p>
+            <p>Frank Blair commands the 17th Corps</p>
+            <p>John Logan the 15th Corps</p>
+            <p>Gen Howard the two and is called the army of Tenn</p>
+            <p>Gen Cox com the 23rd Corps</p>
+            <p>Gen Terry the 10th Corps and Gen Schofield the two called the Depot of Ohio</p>
+            <p>Dr M L Bynne</p>
+            <p>Box 4669 P O</p>
+            <p>New York City</p>
+            <pb n="103" facs="0012_001560_000202_0103.jpg" xml:id="d4e1593"/>
+            <p>One Dram of Nitrite of Silver one of Aqmmonia</p>
+            <p>Apply with Brush</p>
+            <p>Commenced work for Robert Carr Aug 25</p>
+            <pb n="104" facs="0012_001560_000202_0104.jpg" xml:id="d4e1605"/>
+            <p>
+               <unclear reason="illegible" resp="LW">L L</unclear> Fort Pemberton New Jersey</p>
+            <pb n="105" facs="0012_001560_000202_0105.jpg" xml:id="d4e1615"/>
+            <p>Feb</p>
+            <p>J D Peters 49</p>
+            <p>40</p>
+            <p>9</p>
+            <p>J D Peters 20</p>
+            <p>10</p>
+            <p>10</p>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

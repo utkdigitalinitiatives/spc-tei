@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000680_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James C. Luttrell</name>
+				                    in Nashville, Tenn., to his wife, <date when="1857-10-04">1857 Oct. 4</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">James C. Luttrell</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000680_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James C. Luttrell in Nashville, Tenn., to his wife, 1857 Oct. 4</title>
+          <date when="1857-10-04">1857 Oct. 4</date>
+          <author>
+            <name type="person">James C. Luttrell</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">James C. Luttrell Letter</note>
+          <note type="manuscript">MS.2219</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000680_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Nashville Oct 4th 1857</p>
+        <p>My Dear Wife</p>
+        <p>Upon my arrival here on friday morning I wrote you a short letter, the first thing I done, which I hope you have received before this. To day is Sunday and this morning went to Church. Last night I heard a lecture delivered by the celebrated George D. Prentice of the Louisville Journal of Louisville, Ky. it was the richest and most elegant thing of the kind I ever heard.</p>
+        <p>Nashville is crowded to overflowing - the members of the Legislature are nearly all here - the number of Candidates for the various offices greatly excited, the number of members of the Legislature I never in all my life have seen such a hungry pack - it would seem every Democrat in the State thinks himself entitled to some</p>
+        <pb n="2" facs="0012_000680_000200_0002.jpg" xml:id="d4e49"/>
+        <p>office.  Some of the more decent among them have told me that they felt ashamed to say they were candidates.  I have now lying upon my table more than a half dozen cards from candidates asking me to aid them - to ask members of our party to vote for them.  My opinion now is that I shall have nothing to do with their elections _ Shall let then fight it out among themselves. Parson Lewis &amp; Tom, Bos Hill, Matt Allison and Shin Newman are here - Shin says to day he will not be a candidate for Clerk - why he declines being one I do not know. I saw at dinner to day Miss Margaret McFarland - she came down this morning with Mr George Bridges</p>
+        <p>I am likely to have my hands full here - I think fully one half of the <unclear reason="illegible" resp="EMS">Free Banks</unclear> will be obliged to suspend - I hope I</p>
+        <pb n="3" facs="0012_000680_000200_0003.jpg" xml:id="d4e58"/>
+        <p>may be mistaken, but things look that way.  In getting your money changed get Mr Morrow to change it for you and get money upon the Bank of Tennessee if you get notes upon the Free Banks, and there are so many of them, you may get some upon Banks that have suspended, if you do you cannot now use them. </p>
+        <p>I hope, my Dear Wife, you will write me very often - tell the children to write also.</p>
+        <p>My best love to you - Love to the children and Mother.</p>
+        <p>I am very well and will write you again soon.</p>
+        <p>Your Very</p>
+        <p>Affectionate Husband</p>
+        <p>James C. Luttrell</p>
+      </div>
+    </body>
+  </text>
+</TEI>

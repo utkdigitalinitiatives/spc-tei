@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000204_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Captain Cornelius Longfellow</name> at Camp Perry, Tenn., to Mrs.
+                Lydia Longfellow <date when="1862-12-02">1862 December 2</date>
+            </title>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Rozema, Laurel</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+            <author>
+               <name type="person">
+                  <name type="person">Captain Cornelius Longfellow</name>
+               </name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_000204_000200_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Captain Cornelius Longfellow at Camp Perry, Tenn., to Mrs. Lydia Longfellow 1862 December 2</title>
+               <date when="1862-12-02">1862 December 2</date>
+               <author>
+                  <name type="person">Captain Cornelius Longfellow</name>
+               </author>
+               <title>Letter <date when="1862-12-02">Dec 2, 1862</date> Camp Perry Tennessee
+                        to Mrs. Lydia Longfellow</title>
+               <date>2006-05-17</date>
+               <author>
+                  <name/>
+               </author>
+               <author>
+                  <name type="person">Longfellow, Captain Cornelius</name>
+               </author>
+               <date when="1862-12-02">Dec 2, 1862</date>
+               <extent>4p</extent>
+               <note type="abstract">In a December 2, 1862 letter, Capt. Cornelius Longfellow of
+                        the Company E of the 69th Indiana Volunteer Infantry writes from Camp Perry
+                        near Memphis, Tennessee, to his wife Lydia. It discusses buying a Soldiers
+                        Memorial, his trip to Memphis from Indianapolis, the possibilities of
+                        traveling after the war, the actions of the freed blacks, and his own men.</note>
+               <note type="collection">Capt. Cornelius Longfellow Letter, 1862</note>
+               <note type="manuscript">MS-2728</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013" who="Rozema, Laurel">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d4e99">
+            <pb n="1" facs="0012_000204_000200_0001.jpg" xml:id="d4e100"/>
+            <p>Camp Perry Tennessee Dec 2&quot; 1862</p>
+            <p>Mrs Lydia Longfellow</p>
+            <p>Der wife,</p>
+            <p>We are now in Camp Near Memphis Tennessee about 640 miles from home. we had a
+                    very Pleasant trip down the Mississippi River. the weather was cold when we left
+                    Indianapolis But it is Quite Pleasant here. the air is cool and raw but not what
+                    we call cold in the norther. water does not freeze here and the inhabitants say
+                    that it never gets much colder here</p>
+            <p>I wrote you while I was at Indianapolis and I wrote you on Board the steamer
+                    Chancellor forty miles above here on last sunday and I thought I would write now
+                    and tell you where we are. I will still write when ever I can it will make no
+                    difference to you so I pay the postage.</p>
+            <p>When I wrote you last I said I had the headache and I took a chill just after I
+                    got done writing and was quite sick that night. But I feel quite well to day I
+                    think it was a deep cold I had takin. I forgot to tell you in either of my other
+                    letters about Buying what they call a Soldiers Memorial. While at Indianapolis I
+                    had them shipped to Richmond in care of William Campbell our old cook. I suppose
+                    you have got yours before now</p>
+            <pb n="2" facs="0012_000204_000200_0002.jpg" xml:id="d4e114"/>
+            <p>I want you to write often as you can and also the Children. send them thick
+                    &amp; fast and maybe I will get some of them.</p>
+            <p>if ever this war comes to an honourable close I intend to spend one Fall
+                    &amp; Winter in Arkansas hunting. I saw as we came down the River hundreds
+                    of wild geese and other fowls. and on the Arkansas side there is thousands of
+                    acres unsettled where there is plenty of game altogether 
+                its a beautiful country I hope now to live to come here on a
+                    pleasure trip with you and I intend to do it if we both live (and live
+                    together). it is cheap travelling on the Boats and very Pleasant</p>
+            <p>The Darkies are playing thunder generally here they have an encampment just above
+                    here there is reported to be about three thousand of them and they dont work
+                    only when they are paid for it They have some guns &amp; when any of their
+                    Rebel Masters come after them they give them their walking papers double quick.
+                    they cut wood for the union army. and Uncle Sam pays them for it. and they are
+                    just as free as any boddy.</p>
+            <p>Our Boys are all in good spirits and mainly well. Henry Reynolds has the Measles.
+                    Thomas Cox has sore throat Two noble fellows. they are not dangerous</p>
+            <pb n="3" facs="0012_000204_000200_0003.jpg" xml:id="d4e124"/>
+            <p>I think I have the best set of Boys in the World. they all treat me kindly. and I
+                    try to treat them the same way: it is generally thought here that there will not
+                    be much more fighting. the Residents here think that the Rebels will Cave under
+                    before long.</p>
+            <p>I must stop writing. I have wrote more now than you can read. I expect I forgot
+                    and thought I was just talking to you. {Hollingsworth is looking for his wife to
+                    come down here to see him. She comes every week you know}</p>
+            <p>Give my respects to all. Henry Nickols and Alf Price in particular</p>
+            <p>Write often direct to</p>
+            <p>Capt Longfellow Co. E</p>
+            <p>69th Ind. Vols. Memphis Tenn</p>
+            <p>let all read this that wishes to read it and tell them all to write to me</p>
+            <p>Yours forever</p>
+            <p>C Longfellow</p>
+            <pb n="4" facs="0012_000204_000200_0004.jpg" xml:id="d4e144"/>
+            <p>inclosed I send you my Kirby Smith Parole I want you to take care of it I dont
+                    think I want it any longer</p>
+            <p>also Georg Freemans hand his to his wife</p>
+         </div>
+      </body>
+   </text>
+</TEI>

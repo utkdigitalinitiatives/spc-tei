@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000202_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Henry Brown</name>
+				                    in camp near Tuscumbia, Ala. to Caroline M. Brown,<date when="1862-07-15">1862 July 15</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">Henry Brown</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000202_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Henry Brown in camp near Tuscumbia, Ala. to Caroline M. Brown,1862 July 15</title>
+          <date when="1862-07-15">1862 July 15</date>
+          <author>
+            <name type="person">Henry Brown</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Henry Brown Collection</note>
+          <note type="manuscript">MS.599</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000599_000202_0001.jpg" xml:id="d4e39"/>
+        <p>July  15th  1862</p>
+        <p>Camp Near</p>
+        <p>Tuscumbia</p>
+        <p>CAROLINE  M.  BROWN</p>
+        <p>Most Dear wife I Sit down this nice morning to let you know how i am  This Morning my Health is not So good as It 
+				       was when i wrote to You last my feet is very much Sweld again the Hurt me this time very much they look as though
+				       They would burst open  It may be they will Send me home as Soon as we Are paid of again we are Looking for the
+				       pay master On Every day now  To pay us we will be</p>
+        <pb n="2" facs="0012_000599_000202_0002.jpg" xml:id="d4e51"/>
+        <p>Paid against the first of next month any way i do hope These fewe lines will find You in good health at least Better than
+				  my health is At this time it has bin Some time Since i got a Letter from you we have Had 2 or 3 mails since i Got any
+				  from you the Other boys gets letters From Hartley ville and me None i do not write as Often as Some of the Boys for i
+				  do not feel Like writeing when i Am not well but i want you to write as Often as you can you Have a good chance to
+				  Write Every Sunday If you want to do so</p>
+        <pb n="3" facs="0012_000599_000202_0003.jpg" xml:id="d4e55"/>
+        <p>I think i have Answerd All your letters and more  To our regt went out to Ruselsville last Saturday And have not returnd
+				   yet  We heard that they would Be back to morrow morning  They went out on a scout we heard that thearewas A squad
+				   of rebels out in The mountains but they Could not find them  So we heard this morning John Hemery has bin quite
+				   Sick but he is better now  He has bin at the hospicalle Ever since we have bin At this place he is here To day cooking 
+				   Some Black berries but very weak the rest of the Boys are mostly well</p>
+        <pb n="4" facs="0012_000599_000202_0004.jpg" xml:id="d4e59"/>
+        <p>Henry Strait are with us again he is not very well he has The yellow jondice he is at his quarters he Is not confined to his
+				  Bed but is not able For duty at present now I have never said much About being tired of The Servise but i have Thought
+				  agreat deal about It and i will omit Telling my thoughts for Awhile yet but it is not As i Exspected by along ways  at any
+				  rate you may know that by the way i write to you this time i love the verri old house you Stand in</p>
+        <p>So good by</p>
+        <p>HENRY  BROWN.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

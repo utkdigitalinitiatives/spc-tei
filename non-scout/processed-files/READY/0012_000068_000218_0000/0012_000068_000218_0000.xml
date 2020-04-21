@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000218_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter, <name>John Shrady</name>
+					in Camp near Somerset, Ky., to Jeannie Shrady in New York, N.Y.,
+					<date when="1863-06-13">
+						1863 June 13
+					</date>
+            </title>
+        <author>
+          <name type="person">Shrady, John</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000068_000218_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, John Shrady in Camp near Somerset, Ky., to Jeannie Shrady in New York, N.Y., 1863 June 13</title>
+          <date when="1863-06-13">
+						1863 June 13
+					</date>
+          <author>
+            <name type="person">John Shrady</name>
+          </author>
+          <title>Letter, <name>John Shrady</name>
+					in Camp near Somerset, Ky., to Jeannie Shrady in New York, N.Y.,
+					<date when="1863-06-13">
+						1863 June 13
+					</date>
+               </title>
+          <date>2007-02-23</date>
+          <author>
+            <name>Shrady, John</name>
+          </author>
+          <date when="1863-06-13">
+						1863 June 13
+					</date>
+          <extent>4 pages</extent>
+          <note type="abstract">In this letter, dated June 13, 1863, from  camp near Somerset, Ky., John Shrady, a regimental surgeon, writes to his wife, Jeannie, in New York City, lamenting their separation and expressing his concern at having sent her such small amounts of money.  He explains that he would rather send the money in smaller divisions to avoid losing it all "at one fell swoop."  He informs her that he is sending $200 via "Adams" Express."</note>
+          <note type="collection">John Shrady Letters, 1863</note>
+          <note type="manuscript">MS.1436</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e96">
+        <pb n="1" facs="0012_000068_000218_0001.jpg" xml:id="d4e97"/>
+        <p>Camp near Somerset Ky,</p>
+        <p>June 13th 1863.</p>
+        <p>My Darling,</p>
+        <p>I have received your letter of the 7th inst. &amp; sincerely sympathize with you for that gloom which pervades your spirits.  It is truly to be pitied that we are thus subject to these depressions of mind, but probably, after all, it is due to the workings of some inexplicable and to us, unknown law.</p>
+        <p>Sunday, June 14th 1863.</p>
+        <p>Darling, it is, as you say, hard to be separated from those we love and for so long a time as we have been but mayhap it is to try the depth of our affection the one for the other - if so, I think that we shall both come out "pure gold tried by the fire."  As I have often written you, in substance, there is none about whom, in my mind, there cluster so many endearing remembrances &amp; associations than about your own dear self.  I have always fallen short of what I would, if I could express of my feelings toward you.  You have truly been my guardian spirit and as such I will always acknowledge you - but , oh to think of my long</p>
+        <pb n="2" facs="0012_000068_000218_0002.jpg" xml:id="d4e111"/>
+        <p>continued wanderings and your heart - loneliness almost makes me a misanthrope - as I am certainly a hermit to all but you.  Nothing affords me any solid pleasure save that I am contributing something towards your comfort in the way of sending you occasional sums of money, though I feel that the amount is despicable and by no means a measure of my appreciation of your worth.  Every sum I send you, I tremble lest you may never receive it - so little faith have I, in human honesty, but I take this very philosophic view of it, that I would rather that it fall into the hands of the Union than into those of Rebel highwaymen.  Accordingly I have sent you $200.00 by Adams' Express from Lancaster by the hands of the Regimental sutler.  This amount which I sincerely hope you may receive, you may dispose of as you think best - in other words take it in the light of a present.  Tomorrow I will send you some more by Registered Letter.  I keep more than I think I need to guard against contingencies such for instance as to pay expenses home on a leave of absence, if I succeed in getting one</p>
+        <pb n="3" facs="0012_000068_000218_0003.jpg" xml:id="d4e115"/>
+        <p>and to feel easy until next pay-day.  But all this I mention to my darling by way of explaining the smallness of the sum and not from any supposition that she will chide me.  I will keep sending you, out of this reserved sum, as much as I think I may risk on very promising opportunity, so that by dividing it up, there is not so great a chance of losing all by "one fell swoop"  I think now that all the troops will be paid regularly every two-months, which will be a great comfort to you - we have been paid up to May 1st.  The next pay-day will fall somewhere about the middle of July.  There will be no more difficulty I think now as regards myself.</p>
+        <p>Regards to Fan, Mother &amp; Nell.  Also to Albert &amp; family.  In fact, to every one who is friend enough to you to sympathize with you in your loneliness.  Those are the friends who think enough of you to visit you and all such I would heartily take by the hand.  I am glad that Nell is improving - tell Mother not to worry so much - if indeed you don't think that it is advice savoring a little too much of heartless-</p>
+        <pb n="4" facs="0012_000068_000218_0004.jpg" xml:id="d4e121"/>
+        <p>ness.  Kiss our little Pet for her father's sake and for the hours of comfort she gives her mother.  May she grow up to be a blessing to her parents, if indeed we do not spoil her by overkind indulgences.  As for yourself, my sweet wife, be ever assured that in my heart you occupy not a niche but the whole temple, and it shall ever be thus as long as it pleases our Heavenly Father to let flow the crimson tide within its curious apartments; and, darling, when the currents of both our hearts shall have been turned aside by His will may we be so happy as to tread together the golden streets of the New Jerusalem - never more to part.  May God keep you is the sincere prayer of your affectionate husband</p>
+        <p>John.</p>
+        <p>P.S. My health is good - weather rather warm and <unclear reason="Illegible" resp="JH">Nat's</unclear> about our sole discomfort.  Some of my letters to you have certainly miscarried.  Address 2nd East Tenn Inf</p>
+        <p>1st Brig. 4th Division A.C. Ky</p>
+        <p>Camp near Somerset Ky</p>
+        <p>The papers very seldom reach me - though I have received one or two lately.</p>
+        <p>Write soon particularly that I'm anxious about the money I have sent and some what about my <unclear reason="Runs into other words" resp="JH">coat</unclear>
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

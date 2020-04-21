@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000205_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in Camp Meade, Md. to Ellen Smith in Jackson, Tenn., <date when="1917-12-19">1917 Dec. 19</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jordan, Seth</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000205_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in Camp Meade, Md. to Ellen Smith in Jackson, Tenn., 1917 Dec. 19</title>
+          <date when="1917-12-19">1917 Dec. 19</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">Smith Family Papers </note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jordan, Seth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000205_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tenn</p>
+        <pb n="2" facs="0012_001303_000205_0002.jpg" xml:id="d4e49"/>
+        <p>Camp Meade Maryland</p>
+        <p>Dec 19 -17</p>
+        <p>Dear Ellen -</p>
+        <p>Well as I am at last settled for a few days I will write you.</p>
+        <p>How is ever thing in Jackson? Fine and dandy I hope.</p>
+        <p>Sure is cold here so you had better be glad you are not here.</p>
+        <p>The ground is covered with ice and I cant hardly stand up</p>
+        <p>You should see me all dressed up in this soldier suit it is so tight I cant stoop over but I guess I will get alright some if these days</p>
+        <p>I dont know how long will be here, about a month though. I guess I will have to go to rifle range in about 2 weeks</p>
+        <pb n="3" facs="0012_001303_000205_0003.jpg" xml:id="d4e69"/>
+        <p>but will come back after about 10 days out there. I will tell you the truth I dont think murch of this army life. But I know of lots of things I dont like that I have to stand But some day I am coming back to dear old Jackson to stay and wonder if you will still be there I hope so any way.</p>
+        <p>Wee what is doing in the city now? Do they still have dances at the Moose Hall. Do you ever go I talk like I had been gone for a year and I tell you it seems that way to me but it hasnt been but 9 days but I have had lots of experience in that time</p>
+        <p>And some thing I was about to forget you should see these shoes I have on the kind I wore when I was a kid on the farm</p>
+        <p>They have nails in the soles and would weigh at lest 10 pounds</p>
+        <pb n="4" facs="0012_001303_000205_0004.jpg" xml:id="d4e79"/>
+        <p>but after all they keep the cold out They call them trench shoes so I guess they want them to last until I go over the pond I expect I will be over there in the spring that is what ever body seems to think around here. Well what is Ester doing? has she married yet and say did cusin Everett get through with his bad luck poor boy I believe I had rather be a soldier that a married man</p>
+        <p>How is Mr and Mrs Hood. well all the neighbors Sure would like to be home Xmas but I know there is no chance so you just think of me and that will help some</p>
+        <p>Well I guess I had better ring off for this time Answer real soon and tell me ever thing you know that is good for I am anxious to here all the news</p>
+        <p>Address me</p>
+        <p>James L. Dodds</p>
+        <p>23 Engineers Recruting Detachment</p>
+        <p>Camp Meade Md.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

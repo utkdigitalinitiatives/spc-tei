@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000236_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Anna Jones</name>
+				                    to her husband <date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Smither, Elizabeth</name>
+        </respStmt>
+        <author>
+          <name type="person">Anna Jones</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000091_000236_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Anna Jones to her husband</title>
+          <date>undated</date>
+          <author>
+            <name type="person">Anna Jones</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Jones letters</note>
+          <note type="manuscript">MS.2685</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jones, Anna</term>
+          <term>Jones, David L.</term>
+          <term>Nashville (Tenn.).</term>
+          <term>Pennsylvania -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Pennsylvania Cavalry Regiment, 19th (1863-1866).</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Smither, Elizabeth">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e37">
+        <pb n="1" facs="0012_000091_000236_0001.jpg" xml:id="d4e38"/>
+        <p>I had a letter from Sarah to day she says that if I will send <unclear reason="illegible" resp="EMS">Jimie</unclear> out they will keep him and take care of him and clothe him until you come home I want to know what you have to say about it I am so sleept that I can hardly see to write so you need not wonder at it being so poorly written Dear David will you please write often it does me good to hear how you are getting along I have no news to write about this leaves us all <unclear reason="illegible" resp="EMS">prethy</unclear> now and we do hope that it will find you well I went to day and payed my pew rent 7,00 up to the first of January and Sarah Jack was along and she payed hers all off and gave up her pew and took the other half of ours <unclear reason="illegible" resp="EMS">Han</unclear> and Andie was up to church on sunday to hear that sermon on <unclear reason="illegible" resp="EMS">Jepthas Vow</unclear> but it was good <unclear reason="illegible" resp="EMS">Han</unclear> said it was the first sermon that ever touched her heart I hope it will do her good they want a pew in the midle</p>
+        <pb n="2" facs="0012_000091_000236_0002.jpg" xml:id="d4e57"/>
+        <p>aisle the proud allways like conspicous seats but good my yet come from it I hope for the best in the afternoon both the <unclear reason="illegible" resp="EMS">billy Boggs</unclear> were there charlie and Eliza I would not wonder that before one year they will all be United Presbyterians I will not wait to write more now Mr Holmes is very poorly and sends his compliments Mr and Mrs White sends theirs Jane says she wants you to apply for your trade and she send her good bye to you as she missed seeing you with <unclear reason="illegible" resp="EMS">Grubbs</unclear> as you and he are bed fellows I must now say good night with my love to you </p>
+        <p>Yours affectionately</p>
+        <p>Anna M Jones</p>
+      </div>
+    </body>
+  </text>
+</TEI>

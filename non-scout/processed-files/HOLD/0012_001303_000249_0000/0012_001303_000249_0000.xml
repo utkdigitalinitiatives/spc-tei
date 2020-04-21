@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000249_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                    in France to Ellen Smith in Jackson, Tenn.,<date when="1918-08-25">1918 Aug. 25</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000249_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in France to Ellen Smith in Jackson, Tenn.,1918 Aug. 25</title>
+          <date when="1918-08-25">1918 Aug. 25</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000249_0001.jpg" xml:id="d4e39"/>
+        <p>J.L. Dodds</p>
+        <p>Co L 23 Engr</p>
+        <p>A.E.F.</p>
+        <p>Miss Ellen Smith</p>
+        <p>111 Hatton Street</p>
+        <p>Jackson</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_001303_000249_0002.jpg" xml:id="d4e57"/>
+        <p>"Over There"</p>
+        <p>Aug 25 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Well I at last heard from you yesterday and there is no use trying to tell you how glad I was to get a letter from you  The first time I have heard from you in a month or more.</p>
+        <p>We are at last having some warm weather  It is not at all hot just warm and the best part of it all is has been dry for over two weeks  It rained some yesterday evening but not murch</p>
+        <p>Well they are still giving the Germans a good whipping and I sure hope can keep it up  The quicker the better for I sure want to get back home. And when I do will be a home guard the rest of My life Ha Ha.</p>
+        <p>And so you have a real brother that is a soldier now. Where is he located? Will it is a great life if you dont weaken and I have tried not to do that</p>
+        <pb n="1" facs="0012_001303_000249_0003.jpg" xml:id="d4e73"/>
+        <p>This Country is so different from home is the reason I forget so easy. </p>
+        <p>Well I know it is nice to have Mrs Chandler around but I would be afraid she would play another trick on me like she did when you balled me out so that time and she came out and ask me all the questions and you was listening to the hole thing.</p>
+        <p>Would sure like to be there and take a swim in the old pond. It Lynn Comes across be sure and give me his address and I will write to him</p>
+        <p>Tell Peachie to Cheer Up it is not so bad over here as one might thank. I have been on the front for four month and some times I forget there is a war  But other times I know it real well when old Frits drops a fur big shells real close to me.</p>
+        <p>I had to laugh at Jno Cortmell last night when he came in and was telling about the shells falling so close to him  We have give him a kick name of possom (or poss) and we ask him if old pos run and he said yes</p>
+        <pb n="2" facs="0012_001303_000249_0004.jpg" xml:id="d4e85"/>
+        <p>And you only have one show there now. That looks like Old Jaxan is a dead one. Well I guess there is lots of difference now than when I left there last Dec. Now can you amagin me being good that long. Well seems like about two years to me.</p>
+        <p>Yes, I know Esther is a happy child. But I bet she is thanking of Jackson a lot. I am awful glad she is real happy and hope she will always be.</p>
+        <p>I am real sorry to here of Mr Hood getting his hand burned hope it is O K by this time  I know some thing about getting burned for I got my foot scalded once and went to a dance in about a week after it happened  Do you remember the time?</p>
+        <p>No I dont remember Mr Hoods sister  But will tell you seems like I have forgotten a lot of people since I have been gone so long</p>
+        <p>We get a Jaxan paper ever once in a while and I see names in there that I have to thank about a long time to place them</p>
+        <pb n="3" facs="0012_001303_000249_0005.jpg" xml:id="d4e97"/>
+        <p>do you thank I am going to stand still and let them shoot at me. Old pos said he run that truck the limit of the speed. Well guess you are having some time riding in Bob new car. Now dont wear it out for hime to soon. And forget the soldier boy away off over here.</p>
+        <p>Of course I dont blame you for helping to wear it out but just remember I am coming back some of these days  Well I have just got fifteen minutes to get in bed so will have to quit for this time</p>
+        <p>The letter I have just received was dated the 13 of July so you can see how slow the mail is getting to us  I write to you ever week do you get the letters? Write me real often and tell me all the news</p>
+        <p>A True friend</p>
+        <p>James L Dodds </p>
+        <p>Co L 23 Engrs</p>
+        <p>American Exp Force</p>
+        <p>Via N.Y.  France</p>
+      </div>
+    </body>
+  </text>
+</TEI>

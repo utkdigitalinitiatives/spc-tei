@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000280_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Robt. Dishy</name>
+				                    in Washington to David Burford in Nashville, Tenn., <date when="1830-12-25">1830 December 25</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">Robt. Dishy</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000280_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Robt. Dishy in Washington to David Burford in Nashville, Tenn., 1830 December 25</title>
+          <date when="1830-12-25">1830 December 25</date>
+          <author>
+            <name type="person">Robt. Dishy</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000280_0001.jpg" xml:id="d4e39"/>
+        <p>Washington Dec. 25th 1830</p>
+        <p>Dear Sir,</p>
+        <p>I Have received your letter of the 6th inst. enclosing of five dollars for the U.S. Telegraph from the 19th of Jany 1831 to the 19 th of Jany 1832. The recpt I herewith send you.</p>
+        <p>I shall be sorry if Col. Turner should approve you for the senate and you seem to think he will, but do not think if he<unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> it ought to alter your declarement <unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> relation to Halls election, for I do not <unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> it important that you should be silent as Turner, as well as yourself is in favor of Halls election. Imust <unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> astove &amp; hes to learn that Hmton is agoing to run well in your County, and must</p>
+        <pb n="2" facs="0012_000115_000280_0002.jpg" xml:id="d4e61"/>
+        <p>believe that before the election the people will so well understand his true character taht they will not support him. See Hall and tell him that much depends upon his beeting Burton, that he can and will do it, if he will take the necessary pains. He has claims upon the people and he must not be afraid of being charged with egotism, if modesty reminds them of it. I have ascertained that the scroundrel Burton has been misiformity <unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> dificulty between him and myself. <unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> to Genl Hall to press forward and shall give him a wing at the end of the present session. I have it in my power to prove by Gnl Donelson that <unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> the same <unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> to him, and which he denies when I stated it at Gallatin and for which</p>
+        <pb n="3" facs="0012_000115_000280_0003.jpg" xml:id="d4e77"/>
+        <p>I felt myself Justifiable in flagging him (Confidentially) I shall address a Circular to my cashments at the close of the present session and will be able to <unclear reason="illegible" resp="SLJ">[hole in paper]</unclear> upon Burton his true character.</p>
+        <p>Go and see Hall and tell him to counteract Burtons attempts to induce the people to believe he is an honest man and politician.</p>
+        <p>Your friend</p>
+        <p>Robt Dishy</p>
+        <p>David Burford</p>
+      </div>
+    </body>
+  </text>
+</TEI>

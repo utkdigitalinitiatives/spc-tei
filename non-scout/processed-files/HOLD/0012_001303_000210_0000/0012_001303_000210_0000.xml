@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="ms0012_001303_000210_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>James L. Dodds</name>
+				                   in Camp Meade, Md., to Ellen Smith in Jackson, Tenn.,<date when="1918-01-14">1918 Jan. 14</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>White, Park</name>
+        </respStmt>
+        <author>
+          <name type="person">James L. Dodds</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001303_000210_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, James L. Dodds in Camp Meade, Md., to Ellen Smith in Jackson, Tenn.,1918 Jan. 14</title>
+          <date when="1918-01-14">1918 Jan. 14</date>
+          <author>
+            <name type="person">James L. Dodds</name>
+          </author>
+          <extent>5 pages</extent>
+          <note type="collection">Smith Family Papers</note>
+          <note type="manuscript">1303</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Jackson (Tenn.) -- History.</term>
+          <term>Jackson (Tenn.) -- Social life and customs.</term>
+          <term>Knoxville (Tenn.) -- History.</term>
+          <term>Newton County (Ind.) -- Genealogy.</term>
+          <term>Tennessee Volunteers (Football team).</term>
+          <term>University of Tennessee, Knoxville.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="White, Park">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_001303_000210_0001.jpg" xml:id="d4e39"/>
+        <p>Miss Ellen Smith,</p>
+        <p>111 Hatton Street,</p>
+        <p>Jackson,</p>
+        <p>Tenn,</p>
+        <pb n="2" facs="0012_001303_000210_0002.jpg" xml:id="d4e49"/>
+        <p>Camp Meade Md.</p>
+        <p>Jan 14 1918</p>
+        <p>Dear Ellen:</p>
+        <p>Well I will write you this afternoon and tell you how to address My Mail. I will leave Camp Meade tomorrow  I dont know where I am going for sure but I thank will go to Laurel Virginia</p>
+        <p>I have been asigned to Company L. I have just found out that it is Laurel Maryland enstid of Virginia. I am pretty sure we will go there.</p>
+        <p>I had a letter from Esther at noon tell her I will write her just as soon as I get to where I am going</p>
+        <p>And if you see any of Aunt</p>
+        <pb n="1" facs="0012_001303_000210_0003.jpg" xml:id="d4e65"/>
+        <p>Annie folks tell them for me I wont have time to write to all of them  And tell them to tell the rest of My Aunts and Uncles there  If you will do this I will appreciate it very murch</p>
+        <p>I will get the mail that is adds to Recruiting Detachment but will take a long time</p>
+        <p>They are moving all the 23 Engineers out of this Camp they are sending 4 Companys to France in a few days and looks now like we will all follow them just as fast as Can get ready</p>
+        <p>I dont think the first of March will find Me in good Old U.S.A. but across the pond by then.</p>
+        <pb n="2" facs="0012_001303_000210_0004.jpg" xml:id="d4e75"/>
+        <p>I am glad I am leaving here. I have been in quarantine since the first of Jan and dont see any chance to get out as long as I stay here  Maybe I will have a little pleasure where I go</p>
+        <p>I havent been any where at all since I have been here not out of Camp only on hike</p>
+        <p>I havent spoke to a lady in a month. I would like to just say hello to one and see how I would feel  You know that dont suit Me at all but I have to do a lot of things in the Army I dont like</p>
+        <p>The weather is some warmer here to day and believe Me I am</p>
+        <pb n="3" facs="0012_001303_000210_0005.jpg" xml:id="d4e85"/>
+        <p>glad to see it for I have all Most froze. I guess if the weather turns cold down at Laurel I will freeze for we will be in tents there</p>
+        <p>The boys are all glad we are leaving here they are running around saying O boy O joy where do we go from here  That is a saying in the army</p>
+        <p>I will write you again when we stop and if you will tell Auntie I will be oblige</p>
+        <p>as Ever James L Dodds</p>
+        <p>address like this</p>
+        <p>23 Engineers, Company, L.</p>
+        <p>Camp Meade</p>
+        <p>Maryland</p>
+        <p>They will send My Mail to me where ever I go with that address</p>
+      </div>
+    </body>
+  </text>
+</TEI>

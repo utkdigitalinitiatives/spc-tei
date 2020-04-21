@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001356_000203_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, to <name type="person">Alfred
+               Smith</name> in <name type="place">Nashville, Tenn.</name>, 
+               <date when="1865-04-19">1865 April 19</date>
+            </title>
+            <author>
+               <name>Smith, Eliza</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_001356_000203_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, <name type="author">Eliza Smith</name> in <name type="place">Binghamton, N.Y.</name>, to <name type="person">Alfred
+                  Smith</name> in <name type="place">Nashville, Tenn.</name>, 
+                  <date when="1865-04-19">1865 April 19</date>
+               </title>
+               <date when="1865-04-19">1865 April 19</date>
+               <author>
+                  <name>Smith, Eliza</name>
+               </author>
+               <extent>6 digital images</extent>
+               <note type="collection">Mary Francis (Fannie) Smith Family Papers</note>
+               <note type="manuscript">MS.3029</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>            
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>         
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Binghamton (N.Y.) -- History.</term>
+               <term>Floods -- New York (State).</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>New York (State) -- History -- Civil War, 1861-1865.</term>
+               <term>Soldiers -- New York (State) -- Correspondence.</term>
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Correspondence.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Engineering and construction.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Manuscripts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>         
+         <change when="2013-07-16" who="da">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts 
+            from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank 
+            pages. Added resp attributes to editorial changes, and added name tags.</change>
+         <change when="2013-07-17" who="da">Deleted n= attribute of TEI element, updated availability statement to include hyperlink, updated pagination to reflect envelopes being changed to back matter, removed superscript markup.</change>
+        </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e209">
+            <pb facs="0012_001356_000203_0001.jpg" n="1" xml:id="d2e211"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Binghamton</name> <date when="1865-04-22">April 22<lb/><!-- Why is the date in AdminDB say that this is from April 19 if the letter is dated April 22?--></date></dateline>
+               <salute>My dear son<lb/></salute>
+            </opener>
+            
+            <p>it is with pleasur i now take up my pen to rite these few lines to you hoping they will you well as it leaves us all at this time  bless god for so great a blessing my dear boy i began to think that you have forgot that you have a mother living as you never rite to me a word i rote to you twice and you and you never answered one of them and i thinkit strange you rote to pat jolley and not to me and i did not like it my dear boy  i received a letter from your father last thursday april the 20 day and he was not very well  he had a strong inflamation in his eyes  he said he was a going to get somthing from the doctor for them  he was then in
+               
+            <pb facs="0012_001356_000203_0002.jpg" n="2" xml:id="d2e232"/>
+               bulls gap 2 hundred and fifty miles from Nashvill and he said he was going right through virgeny to harpers ferrey and then when they get there and repaired all the roads and bridges to there they thought they would come home and he is going to rite to you right away he said in his letter be sure rite to him he worries about you he says he is never heard a word from you <unclear reason="illegible" resp="PW">as n</unclear>he left Nashvill nor a word from us i have sent him four letters and i think it strange this is his direction</p>
+            <p>William Smith  Chattanooga</p>
+            <p>Tennisee  Box 27  care of</p>
+            <p>S C Meares my dear boy do rite to me and rite yourself i can read it and send me word how you get along and how long you will stay there  i long to see you he a good boy and be steady and take care of yourself</p>
+            
+            <pb facs="0012_001356_000203_0003.jpg" n="3" xml:id="d2e248"/>
+            <p>last  Saturday we had a dreadfull shock of hearing of the death of Mr lincoln who was brutale murderered by a most barbours villian  i think it was awfull to take him away from us when we needed him the most amongst us to protect and save us from destruction but god will reward that villian on the day of jugment  there will be no place in heaven for him nor neither ought there to be any place on earth for him to rest the sole of his foot for Abraim lincoln was a second moses to the children of slavery  as moses was to the children of <choice><sic>isral</sic><corr resp="nl">Israel</corr></choice>to bring them through the sea on dry ground so abram lincoln brough the children of slavery from bondage he broke there chains and set them free
+               
+            <pb facs="0012_001356_000203_0004.jpg" n="4" xml:id="d2e258"/>
+               but he is now a <choice><sic>Shingen angle</sic><corr resp="nl">shining angel</corr></choice> in heaven where there is no more sorin nor weeping no more he would not exchange his crown of glory for a earthly crown now to be the <choice><sic>cheef Magrestate</sic><corr resp="nl">chief magistrate</corr></choice> of the united states of america  i hope his suscesor Andrew Johnson will be like</p>
+            <p>Some nite he came to moses and said i will be like unto you i will follow thy steps your dear brother Austun his kind love to you he though some of coming down to you but he is made up his mind to stay at home as things are so dull down at Nashvill and he hope you will rite to him   dear little henery send his love to you and a hundred kises to you he talks about his <unclear reason="illegible" resp="PW">attey</unclear>i send my love to you and a kiss to you direct to Austin mouth</p>
+            <p>so i must conclude</p>
+            <p>please</p>
+            <p>rite</p>
+            
+            <closer>
+               <salute>with my love to you and affection ever remain</salute>
+               <signed>your mother</signed>
+            </closer>
+         </div>
+         
+         <div type="enclosure" xml:id="d2e299"> <!-- Not sure of the best way to deal with this -->
+            <pb facs="0012_001356_000203_0005.jpg" n="5" xml:id="d2e303"/>
+            <p>" THE WATER THAT I SHALL GIVE "</p><!-- how should this poem be formatted? -->
+            <p>Far beyond the storm and tempest,
+               That untroubled calm above,-
+               There the Son of God abideth,
+               Resting in the Father's love.</p>
+            <p>Loved with love beyond all measure,
+               Love that knows no check or shade;
+               Loved before the worlds were founded,
+               Loved before the heavens were made.</p>
+            <p>Loved with all the love that dwelleth
+               In the very heart of God;
+               Loved with all the love befitting
+               Him in whom all grace abode.</p>
+            <p>Loved with all the love He claimeth,
+               Who endured the cross and shame,
+               The forsaking of his Father,
+               To exalt the Father's name.</p>
+            <p>There in that unmingled gladness,
+               That unmeasured endless peace,
+               He abideth and rejoiceth
+               With a joy that cannot cease.</p>
+            <p>And amidst that joy and glory,
+               In that peace no tongue can tell,
+               Far above the storm and tempest,
+               There on high with Him we dwell.</p>
+          <pb facs="0012_001356_000203_0006.jpg" n="6" xml:id="d2e328"/>
+            <p>All that precious love our portion,
+               Sharing all alike with Him;
+               All our thirst for ever quenching
+               In that everlasting stream.</p>
+            <p>Ever in the Father's bosom,
+               There forever come what may;
+               For the love that sought and found us,
+               Keepeth us by night and day.</p>
+            <p>Precious to that tender Father,
+               Precious to that gracious Son;
+               Precious to that Holy Spirit,
+               By whom He and we are one.</p>
+            <p>Unto this His life has brought us,
+               Nothing less than this He gives;
+               This the secret joy and power,
+               Of the heart wherein He lives.</p>
+            <p>Let us praise that love forever,
+               Fall in worship at His feet;
+               Lost in silent joy and wonder,
+               Sinners made in Him complete.</p>
+            <p>J. A. Whipple,   Hamilton Place, Boston, U. S.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

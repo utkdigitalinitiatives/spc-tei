@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000425_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name> Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. <date when="1874-11-11">1874 Nov. 11</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Valine, Debbie</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000425_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1874 Nov. 11</title>
+               <date>1874-11-11</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>2  digital images;  2 pages</extent>
+               <note type="abstract">Anson Nelson wrote to J. G. M. Ramsey on Nov. 11, 1874. He expressed gratitude for the endorsement given to him by Ramsey, the head of the [Tennessee Historical] Society. Nelson wrote in regards to the speech given by a Mr. Hoyt. He told Ramsey he felt it should be delivered a few more times before being published due to the importance of its topic (the Battle of Kings Mountain). He agreed with Ramsey that their Society should publish a journal, but had doubts after researching &quot;The Medical Journal&quot; and &quot;The Teachers Journal&quot; that such a journal would meet with much success, in terms of monetary gains, at the current time. Nelson felt they needed to reach the public and be given respect. He asked Ramsey if he knew Gov. Porter, as he did not. He felt someone should write the Governor on behalf of their Society, since he was elected as an active member the same day as he was elected Governor. Nelson mentioned their last meeting was well attended. He asked that Ramsey present him kindly to Col. Henderson.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Historic preservation -- Tennessee.</term>
+               <term>Societies -- Tennessee -- History.</term>
+               <term>King&apos;s Mountain, Battle of, S.C., 1780.</term>
+               <term>Tennessee -- History.</term>
+               <term>United States -- History -- Revolution, 1775-1783 -- Campaigns.</term>
+               <term>Nelson, Anson, 1821-1892 -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e163">
+            <pb n="1" facs="0012_000060_000425_0001.jpg" xml:id="d3e164"/>
+            <p>Nashville, Tenn., Nov. 11th, 1874</p>
+            <p>My very dear sir:</p>
+            <p>I shall not attempt to tell you of the gratification I experienced upon reading your letter of the 2nd <unclear reason="illegible" resp="DV"> inst. </unclear> , received on the 4th. To have such a cordial endorsement from the head of our Society, (honored more than most men in various ways,) is indeed a great pleasure. I fear now, as I did from the first, that the plan may not be practicable. But more hereafter. We are, as a body, crawling now. Our walking days will come.</p>
+            <p>In regard to the publication of Mr. Hoyt &apos; s address, let me say, that, from the night of its delivery, on the 6th <unclear reason="illegible" resp="DV"> ult. </unclear> , I thought it ought to be printed in pamphlet form, in good style. I think so yet. However, we want him to deliver it in two, three, or more places, first, and then have it printed. King&apos;s Mountain was a battle of too much importance, and its</p>
+            <pb n="2" facs="0012_000060_000425_0002.jpg" xml:id="d3e184"/>
+            <p>results too far reaching, to permit it to go into oblivion. And future historians must be taught to give it its proper prominence.</p>
+            <p>I concur with you, fully, in regard to a medium of communication, for the Society, but cannot get a plan worked out in my mind, to make a successful journal, or paper. Inquiries in relation to such special publications, cool my <unclear reason="illegible" resp="DV"> ardor </unclear> , somewhat. The Medical Journal published here, edited by Dr. <unclear reason="illegible" resp="DV"> Bowling </unclear> and others, does not meet with sufficient favor to pay expenses. Its ability, and its importance to the medical profession, <unclear reason="illegible" resp="DV"> are </unclear> unquestioned. The Teachers &apos; Journal, edited by Col. <unclear reason="illegible" resp="DV"> Fleming </unclear> and others, relying upon the vast number of common school and other teachers in the State, meets with indifferent success. These examples stagger me. And yet, some means ought to be devised, by which we could reach the public ear, and command public respect.</p>
+            <p>Do you know Gov. Porter? I do not. He ought to be written to on behalf of our Society. he was elected an active member, at our last meeting, and, the very day he was elected Governor. </p>
+            <p>Our meeting was well attended, when it is taken into account, that it was general election day. Twelve members present. Did you see the accounts published in our city papers?</p>
+            <p>Very truly yours,</p>
+            <p>Anson Nelson</p>
+            <note type="transcription">The following text is a continuation of the second page of the letter.</note>
+            <p>Mrs. Nelson joins me in kind regards to Mrs. Ramsey and your daughters. Present me kindly to Col. Henderson, when you see him.</p>
+            <p>I hope you will soon be restored to good health.</p>
+            <p>I send you some stamps, knowing it is in convenient for you to get out to attend to such small matters.</p>
+            <note type="transcription">The preceding text is a continuation of the second page of the letter.</note>
+         </div>
+      </body>
+   </text>
+</TEI>

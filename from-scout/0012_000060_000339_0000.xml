@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000339_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>Rev. J.R. Bain</name> in Gallatin, Tenn., to J.G.M.
+Ramsey, in Knoxville, Tenn. <date when="1823-06-20">1823 June 20</date>
+            </title>
+            <author>
+               <name type="person">Bain, J. R., Rev.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000339_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Rev. J.R. Bain in Gallatin, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1823 June 20</title>
+               <date>1823-06-20</date>
+               <author>
+                  <name>Bain, J. R., Rev.</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">1823 June 20 Rev. J.R. Bain, Gallatin, Tenn., to Dr. J.G.M. Ramsey, Knoxville, Tenn. In reply to Dr. Ramsey&apos;s letter of May 29, 1823, relays information concerning Mecklenburg Convention gathered from Zacheras Wilson. Urges Dr. Ramsey not to be discouraged by unchristian behavior in others but to set a Christian example himself. Refers to the 1824 presidential election.</note>
+               <note type="collection">J.G.M. Ramsey Papers 1790-1869</note>
+               <note type="manuscript">MS.253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Christian ethics -- Tennessee -- History -- 19th century.</term>
+               <term>Christians -- Conduct of life -- History -- 19th century.</term>
+               <term>Conduct of life -- Religious aspects -- History -- 19th century.</term>
+               <term>Tennessee -- Politics and government -- 19th century.</term>
+               <term>Bain, J. R., Rev. -- Correspondence.</term>
+               <term>Wilson, Zaccheus -- Political activity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000060_000339_0001.jpg" xml:id="d3e155"/>
+            <p><note type="transcription">The following text is a continuation of the fourth page of the letter.</note></p>
+            <p>absence, that I intend to drop my correspondence with you. I have indeed neglected almost all my old
+correspondents; but I hope I shall never neglect you. My friendship for you is intwined with my very heart;
+and I know I shall never forget you, or cease to love you.</p>
+            <p>Write to me soon, &amp; remember me to Mrs. Ramsey, your brothers &amp; sister &amp;c.</p>
+            <p>I am, dear Sir, with</p>
+            <p>much esteem yours &amp;c.</p>
+            <p>J.R. Bain</p>
+            <p><note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note></p>
+            <p>Gallatin T</p>
+            <p>June 23</p>
+            <p>Dr. James M&apos;G. Ramsey</p>
+            <p>Received June 29, 1823.</p>
+            <p><note type="transcription">The following text is a continuation of the fourth page of the letter.</note></p>
+            <p>P.S. I continue to preach, but with little apparent success. I frequently feel discouraged. My School
+is tolerably good. Our <unclear reason="illegible" resp="bds">impending</unclear> Presidential election
+has also given a new start to Politics in this county. I hope Adams will be elected. This must be your
+desire of course. J.R.B. No Jackson is forever J.G.M. Ramsey</p>
+            <p><note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note></p>
+            <pb n="2" facs="0012_000060_000339_0002.jpg" xml:id="d3e193"/>
+            <p>Gallatin June 20th 1823</p>
+            <p>Dear Sir,</p>
+            <p>Just as I received your letter of 29th May, I was about to answer your former letter; but I have waited
+two weeks longer and shall reply to both at the same time. At your request I went directly to see
+<unclear reason="illegible" resp="bds">Zacheras</unclear> Wilson. He is very old and infirm, and although
+he has a faint recollection of the transaction you mentioned, yet he has forgotten all the particulars. I
+mentioned the particular things on which you wanted information, and he said he would think about it, and
+endeavor to recollect all he could against another time. I accordingly left him, and in a week returned again
+to see him; but he could not recollect any thing particular about it. He says he recollects that there was such
+a convention, that he was a member, that there were several others, perhaps to the number of 20 or 30, that as
+far as he recollects they were all farmers, and true Republicans, that there motive was to write together
+in proving faithful in the defence of their country against the British and Tories; that some thought
+they were rather premature; he thinks perhaps Col. George Alexander (if I mistake not) was Clerk, but he cannot
+re-</p>
+            <pb n="3" facs="0012_000060_000339_0003.jpg" xml:id="d3e208"/>
+            <p>collect the name of the President. This, Sir, is all the information that I could get. Perhaps he has not
+thought of it for 40 years before, and he is now just tottering over the grave, and I suppose will never recollect
+any thing more. - Although I, with great pleasure, endeavoured to collect all the information I could for
+you on that subject, yet I should be glad to know what interest you can have in it at this late period. But
+this is only curiosity in me.</p>
+            <p>In my last, I requested you to authorize the Editor of the Knoxville paper to put my name down as a subscriber, if
+you considered it worth taking. I know not whether you forgot it, or misunderstood it, I have never received
+the paper; nor did you in your last mention whether you had attended to it or not. However I am now well
+enough satisfied it never came on; for I am taking, perhaps, too many papers already.</p>
+            <p>In your former letter, you seem to complain of the unchristian manner in which you see many <unclear reason="illegible" resp="bds">professors</unclear> of religion conduct themselves. Dear Sir, this is
+to be lamented in every part of Christendom; but this is no argument against the reality of religion.
+Christians, no doubt, by their disorderly conduct,</p>
+            <pb n="4" facs="0012_000060_000339_0004.jpg" xml:id="d3e223"/>
+            <p>do more harm to the cause of Christ, than all the infidels in the world. But when we meet with a counterfeit
+note, (and indeed there are several in circulation) we never look upon it as an evidence that there is
+no genuine money. Indeed the very term counterfeit, implies that there is something genuine which
+has been counterfeited. Let us then deal as candidly with respect to Christians as money, and believe that
+there are some worthy of the title, though they may have their imperfections. Let us not reject
+the good with the bad. But you say, you do not do this. I do not accuse you of it. I know you have too much
+good sense. But let me as a friend tell you that the misconduct of Christians, &amp; particularly of 
+<unclear reason="illegible" resp="bds">parents</unclear> with respect to their children, should not
+<unclear reason="illegible" resp="bds">rebar</unclear> you from the church, or hinder you from offering your
+children to God in baptism. Do you do your duty, and let others be accountable to God for their own
+conduct. Resolve that, let others do as they may, you &amp; your house will serve the Lord. Attach yourself,
+(if you have not already done it) to the Church of Christ, and set others an example. Let your light so
+shine around you that others beholding your good works, may also be constained to glorify your heavenly Father.
+You have now got a family, and have become a father; remember the duties of a father <unclear reason="illegible" resp="bds">desolve</unclear> upon you. I hope my dear Sir, that you will remember the ways of your
+pious father, and walk in his footsteps. Try to fill his place, &amp; be a father to your younger brothers &amp;
+sister, a blessing to your wife &amp; children, and an example of piety &amp; virtue to all around you.</p>
+            <p>My dear Friend, do not suppose, from my long</p>
+         </div>
+      </body>
+   </text>
+</TEI>

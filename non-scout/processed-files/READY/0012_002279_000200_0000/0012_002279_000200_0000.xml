@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_002279_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Corp. R. M. Travis</name>
+				                     in Manila, Philippines, to Mr. Travis Kennerly in Conyersville, Tenn., <date when="1899-03-24">1899 March 24</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">Corp. R. M. Travis</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_002279_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Corp. R. M. Travis in Manila, Philippines, to Mr. Travis Kennerly in Conyersville, Tenn., 1899 March 24</title>
+          <date when="1899-03-24">1899 March 24</date>
+          <author>
+            <name type="person">Corp. R. M. Travis</name>
+          </author>
+          <extent>13 pages</extent>
+          <note type="collection">Robert Morris Travis Papers</note>
+          <note type="manuscript">MS.3281</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Travis family</term>
+          <term>Henry County (Tenn.) -- History.</term>
+          <term>Spanish-American War, 1898 -- Personal narratives, American.</term>
+          <term>Spanish-American War, 1898.</term>
+          <term>United States. Army. Infantry Regiment, 4th.</term>
+          <term>Washington (State) -- History.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_002279_000200_0001.jpg" xml:id="d4e39"/>
+        <p>Soldiers Letter</p>
+        <p>Mr. Travis Kennerly</p>
+        <p>Conyersville</p>
+        <p>Tennessee</p>
+        <p>U.S.A.</p>
+        <pb n="2" facs="0012_002279_000200_0002.jpg" xml:id="d4e51"/>
+        <p>Manila Philopene Is</p>
+        <p>Mar 24th 1899</p>
+        <p>Mr Travis Kennerly</p>
+        <p>Dear Nephew:</p>
+        <p>As everything points to a decisive battle within the near future I thought that I would write. We arrived here on the 10th of March disembarked on the 11 th and was marched through the town of Manilla to the front the same day. My Company (B) is doing outpost duty on the left of the line</p>
+        <pb n="3" facs="0012_002279_000200_0003.jpg" xml:id="d4e63"/>
+        <p>near the 20 th Kansas Volunteers. Our lines extend in a semi circle about 23 miles but are quite weak in places as we are not strong enough to man them as they should be. The enemy has entrenched himself in front of our lines and distant from them all the way from 800 yds to 2000 yds. Skirmishing is going on continually from one place or anothe ralong the lines but with comparative small loss. The 20 th Kansas lost two men yesterday in one of the daily "Scraps." We also have a flying Squadron consisting of four mounted troops</p>
+        <pb n="4" facs="0012_002279_000200_0004.jpg" xml:id="d4e67"/>
+        <p>of Cavalry and the 22nd  reg Infantry and one regiment of Oregon Volunteers. This flying Column has been doing some good work. The 4 th Infantry is in Gen Robert H Halls brigade and under Major general Lawton who Commanded us in Cuba. So I think we will get our share of the fighting as Lawton is allways looking for a fight. The City of Manila is under military rule and is quite Safe in the hands of the Americans but there is a great many Sympathizers of the insurgents in The City and incendiary fires</p>
+        <pb n="5" facs="0012_002279_000200_0005.jpg" xml:id="d4e71"/>
+        <p>are of frequent occurrences. This war is carried on without regard to any civilized rules of war by the insrugents. They captured three wounded men of The 22 nd Infantry a few days ago and mutilated them most horribly</p>
+        <p>Lord help the ones that fall into our hands for they will need some one to help them. I havent had much chance to see the country as yet but what I can see of it is very fine indeed. Manilla is a large city and a very pretty place indeed the land around is rich and is well watered. The health of the soldiers is good and I think it is healthy</p>
+        <pb n="6" facs="0012_002279_000200_0006.jpg" xml:id="d4e77"/>
+        <p>here or at least during the dry season which begins as near as I can find out about November and lasts until July. I had a very good trip over from New York and we were blessed with exceptional weather during our Voyage I wrote two letters one from Gibralter to your mother and one from some other place that I have forgotten to Lelie</p>
+        <pb n="7" facs="0012_002279_000200_0007.jpg" xml:id="d4e81"/>
+        <p>did they get them? I dont know what to think of this war and can form no idea of how long it will last but of one thing I am sure and that is we are going to have some hand fighting to do as the strength of the insurgents on this Island alone is none than forty thousand and they fight desperately and wage a savage war-fare that would make american indian alarmed of himself. It is dangerous to go anywhere outside the Camp as the trees are often used by their</p>
+        <pb n="1" facs="0012_002279_000200_0008.jpg" xml:id="d4e85"/>
+        <p>sharpshooters and thy regard nothing not even hospital or red Cross flags. The 1 st Tennessee regiment is at LCills having been sent there before we arrived. They have earned a good name among the troops here who all agree that it is the best regiment on the Island both in drill and fighting qualities, The Kansas troops Say that they were good fighters good boys and were the best soldiers among the Volunteer forces but was under the impression that a good "nigger" was only found </p>
+        <pb n="8" facs="0012_002279_000200_0009.jpg" xml:id="d4e89"/>
+        <p>among the dead ones and therefore made it a point to make them all good by killing them all and not being bothered with prisoners. I am very sorry that they were gone when we arrived here as I would have liked very much to have made their acquaintance. I have enjoyed good health since I have been here and find the Climate not as bad as I imagined it to be. I am of the opinion that if we were in quarters doing garrison duty that it would be a good place to Soldier. I have made up my mind to quit this life after this enlistment is Com- </p>
+        <pb n="9" facs="0012_002279_000200_0010.jpg" xml:id="d4e93"/>
+        <p>Address Corp. R.M. Travis Com "B" 4 th Infty Manila P.I.</p>
+        <p>pleted and intend to save up my money and come to see you all and settle down to a more quiet life as I am getting tired of this business. I want you to write to me and tell anyone of the family or relatives that I would like to hear from them often but not to expect to hear from me much as it is hard to get writing material or postage in</p>
+        <pb n="10" facs="0012_002279_000200_0011.jpg" xml:id="d4e99"/>
+        <p>the field as I will very likely be for sometime to come. How are all the family? And How is Cousin May - give her my love and tell her that I should like to hear from her and also Cousin Blanche Crawford. I have kept a diary every day since leaving Fort Sheridan and shall Continue to do so if the Niggers dont get me until I return to the United States the only Country that I have any desire to live in. I have seen all the big guns over here from Admiral Dewy</p>
+        <pb n="11" facs="0012_002279_000200_0012.jpg" xml:id="d4e103"/>
+        <p>down to Gen Wheaton and I am of the opinion that Both the Army and Navy are well represented here. This expansion business we have undertaken under McKinley is to my mind a very great mistake and if he could see the Samples of the savages that he was trying to make American Citizens out to be he would certainly let out the Contract to any one that would take it. The growth of timber here is about the same as it was in Cubabut the roads are better and</p>
+        <pb n="12" facs="0012_002279_000200_0013.jpg" xml:id="d4e108"/>
+        <p>facilities for travel is very good as far as I have seen. As I write the 22 nd Infantry is passing to take up their position on the line and expect to engage the enemy this afternoon in front of us, and try to drive them out of the city of Malabon where they are strongly entrenched. The remainder of the 4 th Inf will probably be here this afternoon and we will take our position. Well Travis write me everything of interest that have taken place and give my love to all the family and tell them all that I am Constantly thinking of them and shall always love you all. Be sure when you write to address one with my Company and regiment. Your Loving Uncle Bob"</p>
+      </div>
+    </body>
+  </text>
+</TEI>

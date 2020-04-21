@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001546_000201_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diary,
+					<name>John Ibaugh</name> Diary, 
+					<date when="1864-12-03">1864 December 3-1865 May 25</date>
+            </title>
+            <author>
+               <name type="person">Ibaugh, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Lasley, Noah</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+            </availability>
+            <idno type="SPC">0012_001546_000201_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Diary, John Ibaugh Diary, 1864 December 3-1865 May 25</title>
+               <date when="1864-12-03">1864 December 3-1865 May 25</date>
+               <author>
+                  <name type="person">John Ibaugh</name>
+               </author>
+               <extent>93 pages</extent>
+               <note type="collection">Ibaugh</note>
+               <note type="manuscript">MS.0170</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+						omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Johnson, Andrew, 1808-1875</term>
+               <term>Chattanooga, Battle of, Chattanooga, Tenn., 1863.</term>
+               <term>Lincoln, Abraham, 1809-1865 -- Assassination.</term>
+               <term>Nashville, Battle of, Nashville, Tenn., 1864.</term>
+               <term>Soldiers -- Pennsylvania -- Diaries.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>United States. Army. Pennsylvania Infantry Regiment, 29th (1861-1865).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change who="Lasley, Noah">Approximate date of original transcription and transcriber.</change>
+         <change when="2013-10-03" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="diary">
+            <pb n="1" facs="0012_001546_000201_0001.jpg" xml:id="d4e38"/>
+            <p>[Front Cover Recto]</p>
+            <pb n="2" facs="0012_001546_000201_0002.jpg" xml:id="d4e42"/>
+            <p>[Front Cover Verso]</p>
+            <pb/>
+            <pb/>
+            <pb n="5" facs="0012_001546_000201_0005.jpg" xml:id="d4e54"/>
+            <p>John Ibaugh</p>
+            <p>Sergt. Co. E 29th <unclear reason="illegible" resp="NL">P</unclear>
+            </p>
+            <p>2nd Div 20th Army corps</p>
+            <p>John Ibaugh</p>
+            <p>Oct. 19, 1841</p>
+            <p>Jan 9, 1901</p>
+            <p>Harriet Ibaugh</p>
+            <p>Jan 7, 1846</p>
+            <p>April 2, 1923</p>
+            <pb n="6" facs="0012_001546_000201_0006.jpg" xml:id="d4e76"/>
+            <p>
+               <unclear reason="illegible" resp="NL">Rt</unclear>S General Hosp.</p>
+            <p>No 14 Nashville</p>
+            <p>Tennessee</p>
+            <pb n="7" facs="0012_001546_000201_0007.jpg" xml:id="d4e86"/>
+            <p>Dec. 3rd 1864</p>
+            <p>I Left Philadephia on the 28th Nov. at 10 oclock P.M. arrived at Pittsburg at 3 P.m. of the 29th.  Started again at 4 oclock arrived at <unclear reason="illegible" resp="NL">Creshine</unclear> about 1 oclock a.m. of the 30th started at 2 ariving at Indianapolis at 12 m had to wait untill 10 1/2 P.M. when I started again got to Jeffersonville at 5 oclock a.m. Dec 1st. Crossed over the Ohio river to Louisville.  Left the Nashville depot at 6 1/2 a.m. and arived in Nashville at 6 oclock PM</p>
+            <pb n="8" facs="0012_001546_000201_0008.jpg" xml:id="d4e95"/>
+            <p>Dec. 1st and came to Hospital No 14 where I had to report from furlough. I left home for the seat of war twice previous to this but I left home this time with a heavyer heart than ever before.  I left both times before with my company and regiment and I suppose that accounts for my being more cheerfull on the former occasions.  I am now able for duty but my regiment is with Sherman on a campaign</p>
+            <pb n="9" facs="0012_001546_000201_0009.jpg" xml:id="d4e99"/>
+            <p>through Georgia. I do not know where I will be sent to from here. on the 30th Nov. a battle occurred at Franklin about 30 miles from here, in which the rebels got the worst of it, our forces captured 1600 prisoners and 30 battle flags. both armies now occupy a position about 7 miles from this city. A battle is expected soon.</p>
+            <p>Dec. 7th I am still in the hospital, but expect</p>
+            <pb n="10" facs="0012_001546_000201_0010.jpg" xml:id="d4e105"/>
+            <p>to be sent off in a few days. I would rather stay here untill I can be sent through to my regiment. the barracks in this city is a miserable place and I hope that I will not be sent there. Hoods whole army is still before the city. there is occationally some picket fireing and cannonading but beyond that all semes quiet. yesterday Hood sent over a flag of truce to arrange the</p>
+            <pb n="11" facs="0012_001546_000201_0011.jpg" xml:id="d4e109"/>
+            <p>exchange of prisoners but Thomas haveing sent all the rebel prisoners north therefore no exchange could be made. Dec 14th yesterday I was sent from hospital No 14 along with a lot of others to this disgusting place the Zolicoffer barracks but I will probably be sent out today to the detachment of the 20th corps.</p>
+            <p>Dec. 15th I was brough from the barracks yesterday afternoon</p>
+            <pb n="12" facs="0012_001546_000201_0012.jpg" xml:id="d4e116"/>
+            <p>to the detachment of the 2nd Div. 20th army corps the men from each Div. form a battallion. I was assigned to company A. this morning at four (4) oclock we occupied the front line of works near the Granny White pike.  the rest of the troops have moved further towards the right. the rebels seem to be still in strong force in our front there has been some cannonading</p>
+            <pb n="13" facs="0012_001546_000201_0013.jpg" xml:id="d4e120"/>
+            <p>and considerable skirmishing but up to this time of writing there has nothing occured of much importance. it is pretty rough with me to be right in the front after doing nothing for nearly five months.  I do not feel any the worst on account of the wounds I received but I do not feel as strong as I did before going in the hospital. and I do not feel altogether</p>
+            <pb n="14" facs="0012_001546_000201_0014.jpg" xml:id="d4e124"/>
+            <p>Satisfied being mixed among men from several different regiments it would be much better if we were all with our own regiments and I hope that it will not be long before we are sent to them.</p>
+            <p>Dec 17th yesterday was a memorable day to this army and to the people of Nashville. on the afternoon of the 15th our troops charged the rebels on their left and carried two lines</p>
+            <pb n="15" facs="0012_001546_000201_0015.jpg" xml:id="d4e130"/>
+            <p>of their works with thirteen pieces of artillary and a large number of prisoners. when night coming on the battle closed but it began again at daylight yesterday morning and lasted all day our men driving the rebs at all points they were so completely whiped that they began to retreat as soon as it was dark. the whole of our army except the men that belong</p>
+            <pb n="16" facs="0012_001546_000201_0016.jpg" xml:id="d4e134"/>
+            <p>to Sherman have started after them.</p>
+            <p>Dec 25th we left Nashville on the 19th and marched to Murfreesboro where we were put on the cars and brought by railroad by way of Stevenson Ala. and Huntsville. Dec. 28th we were all off the cars about ten miles from Decator on the morning of the 26th and marched to the Tennessee river just above Decator yesterday we crossed the river</p>
+            <pb n="17" facs="0012_001546_000201_0017.jpg" xml:id="d4e140"/>
+            <p>and in the evening made an attack on the town. the rebels haveing but a small force fled without a fight.</p>
+            <p>Jan. 1st 1865. we left Decator on the night of the 28th ult. and marched to Courtland a station on the Memphis and Charleston Rail Road arriving there on the morning of the 30th ult. this is New Years but it is of but little importance to us we have plenty of government</p>
+            <pb n="18" facs="0012_001546_000201_0018.jpg" xml:id="d4e146"/>
+            <p>rations but beyond that we have no good things to celebrate the day by eating. there is various rumers as to the whereabouts and condition of Hoods army. some say that it does not number more than ten thousand and is retreating westward but which side of the Tennessee river it is on seems to be a mistery. if Hoods army is not reduced</p>
+            <pb n="19" facs="0012_001546_000201_0019.jpg" xml:id="d4e150"/>
+            <p>to so small a number it must at least be in a very bad condition for our cavelry have been following them very close and the number of prisoners taken must have been very great. we have a report that Sherman has taken Savanah and all its garrison. I feel confident that if our armies are as sucsessfull throughout this year as they</p>
+            <pb n="20" facs="0012_001546_000201_0020.jpg" xml:id="d4e154"/>
+            <p>have been since last new years the war will be at an end before we enter upon another year. Jan. 7th we left Courtland on the 4th and marched back to Decator.  yesterday we crossed the river and got on the cars and and left them again a few miles east of Huntsville.</p>
+            <p>Dalton Jan. 15th we got on the cars again on the afternoon of the 7th and</p>
+            <pb n="21" facs="0012_001546_000201_0021.jpg" xml:id="d4e160"/>
+            <p>left them again at Bellefontaine Station on the evening of the 8th where we occupied a stockade untill three oclock next morning when leaving some of our men to garrison the stockade the rest of us started to intercept some rebel cavelry that were raiding on the rail road we passed through the town of Bellefontaine just before daylight we marched pretty much all day and in</p>
+            <pb n="22" facs="0012_001546_000201_0022.jpg" xml:id="d4e164"/>
+            <p>the afternoon it comenced raining and rained all night we went into camp wet to the skin and shivering with the cold that night we put in a miserable existance every thing we had got wet but fortunately the next morning we did not march and the weather cleared off beautifully so we had an opportunity to dry our blankets. on the morning of the 11th we marched</p>
+            <pb n="23" facs="0012_001546_000201_0023.jpg" xml:id="d4e169"/>
+            <p>to the rail road at the station called Scottsboro where the rebel cavelry had been but by this time the rebs had undoubtedly got away safe. we took the cars here and arrived at Chattanooga on the morning of the 12th and went to the convalescent camp where we stayed untill the next day when we again took the cars and came by way of Cleveland to Dalton where we arrived</p>
+            <pb n="24" facs="0012_001546_000201_0024.jpg" xml:id="d4e173"/>
+            <p>on the morning of the 14th Dalton has once been a pretty little village but like all other southern towns where the two armies have been it is almost desolate and there are but very few houses left that are worth liveing in.</p>
+            <p>Tunnel Hill Jan 24th. we stayed in Dalton but six days and we liked the place very well indeed we were sorry to leave it we had comfortable quarters.</p>
+            <pb n="25" facs="0012_001546_000201_0025.jpg" xml:id="d4e179"/>
+            <p>and the people in the place seemed to be very sociable. we had the longest rest there that we had since we left Nashville. on the 20th the remainder of our battalion came from Chattanooga by the same rout that we came. they were ordered to Tunnel Hill and stopped at Dalton when we joined them on the evening of the 20th and</p>
+            <pb n="26" facs="0012_001546_000201_0026.jpg" xml:id="d4e183"/>
+            <p>came to this place it is but a small village near the mouth of the tunnel at the west end and about seven miles from Dalton an the same distance from Ringgold. we have very good quarters and like the place well enough out I am affraid that we will not get to stay here very long. the 1st and 3rd Detachments are still at Dalton. since writing last I have heared</p>
+            <pb n="27" facs="0012_001546_000201_0027.jpg" xml:id="d4e187"/>
+            <p>bad news from the Regt. it seems that the captain of my company Sykes Beaumont has lost a leg on the campaign against Savannah and Charles Baker a corporal in the company was killed.</p>
+            <p>Feb. 4th Still at Tunnel Hill things are pretty lively here the rebel cavelry keep commiting depradations on the rail road and dashing upon the pickets</p>
+            <pb n="28" facs="0012_001546_000201_0028.jpg" xml:id="d4e193"/>
+            <p>one day last week Captain Zaracher of the 29th P.V.V. went out after them with ten men they run into the rebs and himself and four of the men got captured. a few days after Col. McMamis commanding post at Dalton started out with some mounted infantry but the Johnnies run them and captured the Col. they began to think that they could do much</p>
+            <pb n="29" facs="0012_001546_000201_0029.jpg" xml:id="d4e197"/>
+            <p>anything so day before yesterday at daylight they dashed through the pickets and into the town. they took us completely by surprise and were in the place before the men were up but we soon got out and the reb were compelled to leave they captured a few prisoners and wounded one man but they gained nothing. there are some citizens of the place who rushed</p>
+            <pb n="30" facs="0012_001546_000201_0030.jpg" xml:id="d4e201"/>
+            <p>out of their houses with riffle in hand and stood by our boys and fought the rebs with desparation.</p>
+            <p>February 19th Things are quiet here at Tunnel Hill but the guerillas under Lieut McDaniel are still hovering about fireing on the pickets occasionally last night some of them dashed into Ringgold and stole some sutlers goods</p>
+            <pb n="31" facs="0012_001546_000201_0031.jpg" xml:id="d4e207"/>
+            <p>They were driven out but not until they had taken all they wanted. It seems now to be a settled thing that we are not to join our regiments this winter. we are begining to think ourselves a separate organization altogether and matters but little now whether we get to the regiment now or not. we have a pretty easey time here</p>
+            <pb n="32" facs="0012_001546_000201_0032.jpg" xml:id="d4e211"/>
+            <p>and if we could get some pay we would be very well satisfied. By the news paper accounts we learn that Sherman is on another campaign toward Charleston SC. The boys with him are seeing some hard marching but I do not suppose that they are having much fighting. The weather here is beautiful indeed it is like spring there will probably be no</p>
+            <pb n="33" facs="0012_001546_000201_0033.jpg" xml:id="d4e215"/>
+            <p>more cold weather this winter.</p>
+            <p>Feb. 27th we were relieved from duty at Tunnel Hill on the 25th im by part of 145th Indiana we took the cars in the afternoon and went to Chattanooga via Dalton to Cleveland. we are now awaiting transportation to go to Sherman. at least such is the supposition but whether it will turn out true this time or not remains to be seen.</p>
+            <pb n="34" facs="0012_001546_000201_0034.jpg" xml:id="d4e222"/>
+            <p>Nasville. March 14th.</p>
+            <p>Left Chattanooga on the 13th and arived here today. We layed at Chattanooga on account of some of the rail road bridges being washed away by the last freshet. March 18th. We got on board the steamer Fort Wayne at Nashville and started down the Cumberland about 5 oclock P.M. 14th inst, and reached the mouth of the river at sun down on the 15th.</p>
+            <pb n="35" facs="0012_001546_000201_0035.jpg" xml:id="d4e228"/>
+            <p>We started again the next morning at 3 oclock and arived at Louisville Ky. this morning at about 1 oclock.</p>
+            <p>March 20th We got off the steamer Fort Wayne and on to the steamer Nashville at Louisville Ky. We started on the night of the 18th and arived at Covington opposite Cincinnati, O. about 11 oclock last night. yester was a beautiful day and we had a very plesant</p>
+            <pb n="36" facs="0012_001546_000201_0036.jpg" xml:id="d4e234"/>
+            <p>trip of it while daylight lasted. March 24th. we left Covington about noon of the 20th Inst. without changeing boats and arived at Parkersburg Western Virginia yesterday at 4 oclock P.M. March 27th. We took the cars at Parkersburg at 2 oclock a.m. 25th inst. and came over the Baltimore &amp; Ohio R.R. to the Reelay House and then to Washington ariveng there about 6 oclock this morning. we changed</p>
+            <pb n="37" facs="0012_001546_000201_0037.jpg" xml:id="d4e238"/>
+            <p>cars and after a little delay proceded to Alexandria Va. where we left the cars and got on board the transport Constitution.</p>
+            <p>Wilmington N.C. April 2nd Left Alexandria at four oclock P.M. of the 27th inst. and arrived off Beaufort on the morning of the 29th but on account of our steamer drawing to much water we were ordered to Wilmington we arrived at New Inlet on the</p>
+            <pb n="38" facs="0012_001546_000201_0038.jpg" xml:id="d4e244"/>
+            <p>next morning but we could not enter the harbor for the same reason as at Beaufort so we had to go around cape Fear to the other Inlet and between 11 and 12 oclock yesterday we proceeded in geting into the river and went on up to Wilmington ariving about 3 oclock P.M. Of all the traveling that I have done the trip around the sea cost in a Government Transport</p>
+            <pb n="39" facs="0012_001546_000201_0039.jpg" xml:id="d4e248"/>
+            <p>is the most disagreeable. I was sick from the time we started untill we landed. I do not think it would have been so bad had we been where we could get our share of fresh air but we were crowded under deck so thick that we scarcely had room to move and when the boat began to rock all hands got sick</p>
+            <p>April 9th. I arived at the regiment</p>
+            <pb n="40" facs="0012_001546_000201_0040.jpg" xml:id="d4e254"/>
+            <p>at last haveing marched from Wilmington to Goldsboro. We started on the 3rd inst. and arived here this morning there has been some changes in regiment since I left it Lieut. Col. Grulick is now Col. and Cap. Johnson of Co B is Lieut Col. and Cap Deckard of Co C is Major and on Gen. Sl<unclear reason="illegible" resp="NL">ucums</unclear> staff.</p>
+            <pb n="41" facs="0012_001546_000201_0041.jpg" xml:id="d4e261"/>
+            <p>April 11th The army left Goldsboro yester morning. the left wing 19th&amp; 20th corps marched to Smithfield ariving this afternoon. there was nothing but slight skirmishing on the rout.</p>
+            <p>Raleigh April 13th marched into this city with but very little resistance. It is said that the Governor of the state surendered it to Sherman.</p>
+            <pb n="42" facs="0012_001546_000201_0042.jpg" xml:id="d4e267"/>
+            <p>Yesterday we had glorious news from Grant to the effect that Lee had surendred the whole of the army of Northern Virginia to him.</p>
+            <p>April 21st Still in camp at Raleigh. Hostilities have ceased between Sherman and Johnson which will not only risult in the capitulation of Johnson but in the surrender of the whole Confederacy and</p>
+            <pb n="43" facs="0012_001546_000201_0043.jpg" xml:id="d4e273"/>
+            <p>a settlement of the war in an honerable way to the Unites States. It is the general opinion throughout the army that in a few days we will all be on our way home. We have news from the north that President Abraham Lincoln has been assasanated in Washington. this has a gloomy effect upon the troops and therefore</p>
+            <pb n="44" facs="0012_001546_000201_0044.jpg" xml:id="d4e277"/>
+            <p>mars the happiness which a fair prospects of early peace would otherwise bring.</p>
+            <p>April 26th. Left Raleigh yesterday and marched near Holly Springs about 15 miles south west. Joe Johnson has not yet surrendered. It seems that Andrew Johnson (now President of the United States) is going to pursue a different course in regards to the treatment of the rebel leaders.</p>
+            <pb n="45" facs="0012_001546_000201_0045.jpg" xml:id="d4e284"/>
+            <p>His policy is to hang all influential men that had a hand in the rebellion and of course Joe Johnson does not feel like puting head in the halter just yet. It is my opinion that the south will yet mourn the death of Abraham Lincoln.</p>
+            <p>April 28th We marched back to our camp near Raleigh to day. Joe Johnsons army has surrendered to</p>
+            <pb n="46" facs="0012_001546_000201_0046.jpg" xml:id="d4e290"/>
+            <p>Sherman but the particulars have not yet been made public. It is now allmost certain that we start north in a few days the 15th corps I hear has already gone as the men now realize that they will soon be home and will once more lead a civilians life they are naturely planning out for the future. those of us that have to depend upon hard</p>
+            <pb n="47" facs="0012_001546_000201_0047.jpg" xml:id="d4e294"/>
+            <p>labour for a livehood will probably have a rough time for the people home (except our personal friends) will no doubt look with susspition upon a soldier and will not trust them to any extent.</p>
+            <p>May 2nd Left Raleigh day before yesterday and now on our way to Richmond we camped for the night near Williamsboro.</p>
+            <pb n="48" facs="0012_001546_000201_0048.jpg" xml:id="d4e300"/>
+            <p>May 10th In camp near Manchester V.a. arrived here on the evening of the 8th. we had a long and tiresome march marching some days twenty and twenty five miles. Before we arived we expected to get transportation to Washington but now it seems that we will have to march it. the second and fifth corps of the army of the Potomac have started and we</p>
+            <pb n="49" facs="0012_001546_000201_0049.jpg" xml:id="d4e304"/>
+            <p>expect to start today haveing review as we pass through Richmond.</p>
+            <p>May 18th Left our camp near Manchester on the 11th inst. and marched through Richmond then on our way to Washinton we marched by way of Spotsylvania Court House Chanccelersville. crossed the Rappahanock at United States Ford and camped last night at Brentsville near the Orange and Alexandria R.R.</p>
+            <pb n="50" facs="0012_001546_000201_0050.jpg" xml:id="d4e310"/>
+            <p>Saturday May 20th</p>
+            <p>We arived in the vacinety of Alexandria last evening and went in to camp about three miles from the town We are to remain here untill the review comes off in Washington city which takes place on the 24th.</p>
+            <p>May 25th yesterday was one of the grandest days that I have every witnessed it was the review of Shermans</p>
+            <pb n="51" facs="0012_001546_000201_0051.jpg" xml:id="d4e318"/>
+            <p>army. We left our camp at about seven oclock a.m. and march direct to Washington crossing over the long bridge we were then closed in mass at company front. at a little passed nine oclock we started on the rout prescribed for the review. after passing the reviewing officers we marched out to Bladenburg east of Washington where it is supposed</p>
+            <pb n="52" facs="0012_001546_000201_0052.jpg" xml:id="d4e322"/>
+            <p>we will camp untill we start for home.</p>
+            <p>Time now passes very slowly every one is looking foreward to the happy meeting of friends at home. our work as soldiers is now done and the sooner we get home to enjoy the blessings of civil life the better it will be for us all.</p>
+            <pb n="53" facs="0012_001546_000201_0053.jpg" xml:id="d4e329"/>
+            <p>Jno. Ibaugh in accr</p>
+            <p>commenced work on</p>
+            <p>Time made in oct.</p>
+            <p>Full day 2nd M.</p>
+            <p>&quot; &quot; 3rd T.</p>
+            <p>&quot; &quot; 4th W.</p>
+            <p>Half day 5th Th.</p>
+            <p>Full &quot; 6th F</p>
+            <p>&quot; &quot; 7th Sat.</p>
+            <p>&quot; &quot; 9th M.</p>
+            <p>&quot; &quot; 11th W.</p>
+            <p>&quot; &quot; 12th Thrs.</p>
+            <p>&quot; &quot; 13th Fri.</p>
+            <p>&quot; &quot; 14th Sat.</p>
+            <p>&quot; &quot; 17th Tues.</p>
+            <pb n="54" facs="0012_001546_000201_0054.jpg" xml:id="d4e362"/>
+            <p>ant with Phila. Navy Yard</p>
+            <p>the 2nd of Oct. 1865</p>
+            <p>Full day Wed 18th</p>
+            <p>&quot; &quot; 19th Thurs.</p>
+            <p>&quot; &quot; 20th Fri.</p>
+            <p>21st Sat.</p>
+            <p>23rd M.</p>
+            <p>24th tues.</p>
+            <p>25th Wed.</p>
+            <p>26th Thurs.</p>
+            <p>27th Fri.</p>
+            <p>28th Sat.</p>
+            <p>30th M.</p>
+            <p>31st Tues.</p>
+            <p>23 1/2 days</p>
+            <pb n="55" facs="0012_001546_000201_0055.jpg" xml:id="d4e395"/>
+            <p>Time in Novem</p>
+            <p>full day Wedsday 1st</p>
+            <p>&quot; &quot; Thursday 2nd</p>
+            <p>&quot; &quot; Friday 3rd</p>
+            <p>Saturday 4th</p>
+            <p>Monday 6th</p>
+            <p>Thursday 9th</p>
+            <p>Friday 10th</p>
+            <p>Saturday 11th</p>
+            <p>Monday 13th</p>
+            <p>Tuesday 14th</p>
+            <p>Thursday 16th</p>
+            <p>Friday 17th</p>
+            <p>Saturday 18th</p>
+            <pb n="56" facs="0012_001546_000201_0056.jpg" xml:id="d4e427"/>
+            <p>ber</p>
+            <p>Monday 20th</p>
+            <p>Tuesday 21st</p>
+            <p>Wednesday 22nd</p>
+            <p>Thursday 23rd</p>
+            <p>Friday 24th</p>
+            <p>Saturday 25th</p>
+            <p>Monday 27th</p>
+            <p>Tuesday 28th</p>
+            <p>Wednesday 29th</p>
+            <p>Thursday 30th</p>
+            <p>23 days</p>
+            <p>*2.25 day</p>
+            <p>25</p>
+            <p>675</p>
+            <p>450</p>
+            <p>$51.75</p>
+            <pb n="57" facs="0012_001546_000201_0057.jpg" xml:id="d4e465"/>
+            <p>Negative</p>
+            <p>Take 50 Grains</p>
+            <p>of Silver to</p>
+            <p>Soft Water</p>
+            <p>Saturate with</p>
+            <p>of</p>
+            <pb n="58" facs="0012_001546_000201_0058.jpg" xml:id="d4e479"/>
+            <p>Silver Bath</p>
+            <p>Crys Nitrate</p>
+            <p>the oz of Pure</p>
+            <p>and Dissolve.</p>
+            <p>a little Iodide</p>
+            <p>Silver.</p>
+            <pb n="59" facs="0012_001546_000201_0059.jpg" xml:id="d4e493"/>
+            <p>Iodide</p>
+            <p>Take a few</p>
+            <p>Potass and dissol</p>
+            <p>Soft Water. to</p>
+            <p>small quantity</p>
+            <p>solution. which</p>
+            <p>precipitate. Wash</p>
+            <p>washings of water</p>
+            <p>settle at each</p>
+            <p>this to &quot;Silver</p>
+            <p>and it is</p>
+            <pb n="60" facs="0012_001546_000201_0060.jpg" xml:id="d4e518"/>
+            <p>of Silver</p>
+            <p>grains of Iodide</p>
+            <p>ve in a little</p>
+            <p>this add a</p>
+            <p>of the Silver</p>
+            <p>will produce a yellow</p>
+            <p>this in 2 or 3</p>
+            <p>letting the same</p>
+            <p>washing. add</p>
+            <p>Bath &quot; and filter</p>
+            <p>ready for use.</p>
+            <pb/>
+            <pb/>
+            <pb n="63" facs="0012_001546_000201_0063.jpg" xml:id="d4e551"/>
+            <p>Superior</p>
+            <p>11 oz</p>
+            <p>9 &quot;</p>
+            <p>50 Grains</p>
+            <p>50 &quot;</p>
+            <p>40 &quot;</p>
+            <p>120 &quot;</p>
+            <p>Dissolve Iodide</p>
+            <p>Dissolve Bromide</p>
+            <p>little water as</p>
+            <p>quick when</p>
+            <pb n="64" facs="0012_001546_000201_0064.jpg" xml:id="d4e576"/>
+            <p>Collodium</p>
+            <p>Alcohol</p>
+            <p>Ether</p>
+            <p>Iodide Cadmium</p>
+            <p>&quot; Amonium</p>
+            <p>Bromide Potassium</p>
+            <p>Sun Cotton</p>
+            <p>in the alcohol.</p>
+            <p>Potssium in as</p>
+            <p>possible. Shake</p>
+            <p>adding Bromide.</p>
+            <pb/>
+            <pb n="66" facs="0012_001546_000201_0066.jpg" xml:id="d4e605"/>
+            <p>Developer</p>
+            <p>3 oz Iron</p>
+            <p>40 &quot; Water</p>
+            <p>6 &quot; acetic acid</p>
+            <p>and filter.</p>
+            <pb n="67" facs="0012_001546_000201_0067.jpg" xml:id="d4e618"/>
+            <p>To Clear</p>
+            <p>after your negatives</p>
+            <p>put them into a</p>
+            <p>of Hypho Sulph</p>
+            <p>it is cleared then</p>
+            <p>If your Negatives</p>
+            <p>enough take a</p>
+            <p>of potass of the size</p>
+            <p>chasment, add</p>
+            <p>let it flow quick</p>
+            <p>negative several</p>
+            <p>as you want your</p>
+            <p>wash well and</p>
+            <p>ready for use.</p>
+            <pb n="68" facs="0012_001546_000201_0068.jpg" xml:id="d4e649"/>
+            <p>Negatives</p>
+            <p>are developed</p>
+            <p>saturate solution of Socha, untill</p>
+            <p>wash well.</p>
+            <p>are not intence</p>
+            <p>piece of sulphurate</p>
+            <p>of a small</p>
+            <p>about 6 oz water</p>
+            <p>and free over your</p>
+            <p>times according</p>
+            <p>intensity. then</p>
+            <p>dry. It is then</p>
+            <pb n="69" facs="0012_001546_000201_0069.jpg" xml:id="d4e676"/>
+            <p>Solution For</p>
+            <p>Albumum</p>
+            <p>Take 60 Grains</p>
+            <p>8 oz water and</p>
+            <p>Liquid amonia</p>
+            <p>Patent alcohol</p>
+            <p>filter and float</p>
+            <p>paper 2 mini</p>
+            <pb n="70" facs="0012_001546_000201_0070.jpg" xml:id="d4e694"/>
+            <p>Floating</p>
+            <p>Paper</p>
+            <p>nitrate silver</p>
+            <p>add 12 drops</p>
+            <p>12 dops Atwoods</p>
+            <p>let sand 24 hours</p>
+            <p>your albumum</p>
+            <p>ts</p>
+            <pb n="71" facs="0012_001546_000201_0071.jpg" xml:id="d4e712"/>
+            <p>Fluming</p>
+            <p>use 1/3 strong</p>
+            <p>to 2/3 of water</p>
+            <p>and combine in</p>
+            <p>box. Let it re</p>
+            <p>minits. then</p>
+            <pb n="72" facs="0012_001546_000201_0072.jpg" xml:id="d4e726"/>
+            <p>Paper</p>
+            <p>liquid of amonia</p>
+            <p>Place in a saucer</p>
+            <p>a tight dark</p>
+            <p>main from 3 to 5</p>
+            <p>it is ready for use</p>
+            <pb n="73" facs="0012_001546_000201_0073.jpg" xml:id="d4e740"/>
+            <p>Toning</p>
+            <p>Take 30 oz of Water</p>
+            <p>15 grains</p>
+            <p>180 grains carbon</p>
+            <p>30 oz water</p>
+            <p>proportions</p>
+            <p>Fix with</p>
+            <p>6 oz of Water</p>
+            <p>6 &quot; Hypho Sulf</p>
+            <p>and wash 12 hours</p>
+            <pb n="74" facs="0012_001546_000201_0074.jpg" xml:id="d4e762"/>
+            <p>cloride of Gold</p>
+            <p>note of Soda</p>
+            <p>use equal</p>
+            <p>of each solution</p>
+            <p>soda</p>
+            <p>in runing water</p>
+            <pb n="75" facs="0012_001546_000201_0075.jpg" xml:id="d4e776"/>
+            <p>Chloride</p>
+            <p>Take about a</p>
+            <p>of muriatic acid</p>
+            <p>much nitric</p>
+            <p>pure</p>
+            <p>and put into</p>
+            <p>dish. Place them</p>
+            <p>untill they are</p>
+            <p>then add 1/2</p>
+            <pb n="76" facs="0012_001546_000201_0076.jpg" xml:id="d4e796"/>
+            <p>of Gold</p>
+            <p>tea spoon full</p>
+            <p>and about 1/2 as</p>
+            <p>acid chemically</p>
+            <p>a small evaporating</p>
+            <p>over a slow fire</p>
+            <p>evaporated dry</p>
+            <p>Pint of Water</p>
+            <pb n="77" facs="0012_001546_000201_0077.jpg" xml:id="d4e814"/>
+            <p>To Clear</p>
+            <p>put a small</p>
+            <p>of potass in about</p>
+            <pb n="78" facs="0012_001546_000201_0078.jpg" xml:id="d4e823"/>
+            <p>Ambrotypes</p>
+            <p>piece of cynide</p>
+            <p>6 oz of water</p>
+            <pb n="79" facs="0012_001546_000201_0079.jpg" xml:id="d4e831"/>
+            <p>Nitrate of</p>
+            <p>one oz nitric</p>
+            <p>silver piece</p>
+            <p>dry</p>
+            <pb n="80" facs="0012_001546_000201_0080.jpg" xml:id="d4e841"/>
+            <p>Silver</p>
+            <p>acid to one 25cts</p>
+            <p>and evaporate</p>
+            <pb n="81" facs="0012_001546_000201_0081.jpg" xml:id="d4e850"/>
+            <p>Length of axle for</p>
+            <p>4ft. 10in track. 4ft 2 1/2 7 in. arm.</p>
+            <p>5ft 1 1/2 in track. 4ft 6 1/4 in 7 in arm</p>
+            <p>5 ft track. 4ft 5 1/2 6 1/2 in arm</p>
+            <p>4ft 8in track 4ft 1/2 in 7 in arm</p>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb n="85" facs="0012_001546_000201_0085.jpg" xml:id="d4e874"/>
+            <p>Jno. Ibaugh was initiated into Minerva Lodge of I.O. of O.F. No 224 on the 13th of Oct. 1865.</p>
+            <pb/>
+            <pb/>
+            <pb n="88" facs="0012_001546_000201_0088.jpg" xml:id="d4e886"/>
+            <p>[Drawings]</p>
+            <pb/>
+            <pb/>
+            <pb/>
+            <pb n="92" facs="0012_001546_000201_0092.jpg" xml:id="d4e903"/>
+            <p>[Back Cover Recto]</p>
+            <pb n="93" facs="0012_001546_000201_0093.jpg" xml:id="d4e907"/>
+            <p>[Back Cover Verso]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

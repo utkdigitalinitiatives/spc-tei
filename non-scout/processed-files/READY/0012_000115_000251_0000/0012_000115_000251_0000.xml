@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000115_000251_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>B. F. Martin</name>
+				                    in Dixon Springs, Tenn, to Maj. David Burford in Nashville, Tenn., <date when="1833-11-15">1833 Nov. 15</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Mincey, Jennifer</name>
+        </respStmt>
+        <author>
+          <name type="person">B. F. Martin</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000115_000251_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, B. F. Martin in Dixon Springs, Tenn, to Maj. David Burford in Nashville, Tenn., 1833 Nov. 15</title>
+          <date when="1833-11-15">1833 Nov. 15</date>
+          <author>
+            <name type="person">B. F. Martin</name>
+          </author>
+          <extent>4 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1027</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slave trade -- Southern States.</term>
+          <term>Slavery -- Tennessee</term>
+          <term>Slavery -- Virginia.</term>
+          <term>Tennessee. Militia.</term>
+          <term>United States -- History -- War of 1812.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Mincey, Jennifer">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000115_000251_0001.jpg" xml:id="d4e39"/>
+        <p>Major David Burford</p>
+        <p>Nashville</p>
+        <p>Tenn</p>
+        <p>From B. F. Martin</p>
+        <pb n="2" facs="0012_000115_000251_0002.jpg" xml:id="d4e49"/>
+        <p>Dixon Springs Novem. 15th 1833</p>
+        <p>Maj. Burford</p>
+        <p>Dear Sir</p>
+        <p>Your letter of the 9th instant, came to hand a few days ago for the favor of which, please accept my Thanks. It is the first letter I ever rec,d from any of our public <unclear reason="illegible" resp="JCM">functionaries.</unclear>
+            </p>
+        <p>I am glad that you voted against the "Indian Bill." I have allways been opposed to the <unclear reason="illegible" resp="JCM">doctrine</unclear> of the several states having Jurisdiction of written, belonging as I think to the Federal government. Your vote, in this occasion, will I have no doubt, be approved by your constituents generally.</p>
+        <p>The measures of chartering another new Bank, I think, inexpedient and uncalled for. The people of this state, have had enough of Banks and Banking, to be tired of it.</p>
+        <p>I have rented out my plantation, and wish to fix to move here as soon as possible, as the season is now far advanced. I wish to leas the cabinet shop for the same term of time that I get the other houses. It is situated a good distance</p>
+        <pb n="3" facs="0012_000115_000251_0003.jpg" xml:id="d4e70"/>
+        <p>from the store; and it is a better house for a family to live in, than any of the others. And in addition to this, I had rather occupy it myself than to have another family there, which is in the range of possibilities. I would  not however, interfere in the least, with any agreement, or understanding within express or implied, between yourself and Wilborn. If you are not under obligations to him, I will give you fifty dollars, annually for it. This is a pretty high price. I should also have to put up other buildings, adjacent to it. If you will <unclear reason="illegible" resp="JCM">therely</unclear> much oblige me. And should I not get the cabinent shop I shall have to build near the spring. Can you let me have a sufficient number of <unclear reason="illegible" resp="JCM">beach</unclear> logs to put up a round log house say 18 by 20 feet? If you can, state your price. I can get of Mr. Mitchell, but his are inconvenient.</p>
+        <p>If you would sell a small part of your land including the cabinent shop I will give you a high price for it. I would want say five acres what would you wask for it pr acre?</p>
+        <p>The mail is waiting and I must</p>
+        <pb n="4" facs="0012_000115_000251_0004.jpg" xml:id="d4e84"/>
+        <p>close. Hoping to see you among us again shortly and wishing you health and happiness.</p>
+        <p>I am your friend</p>
+        <p>B. F. Martin</p>
+        <p>P.S. If you  <unclear reason="illegible" resp="JCM">auede</unclear> to the terms as to leasing the shop this way be considered my obligation I have hired men to build for me, but they cannot go on, until I hear from you. If you agree to the terms, let your letter close the contract</p>
+        <p>BFM</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000495_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>J.G.M. Ramsey</name>
+ in Knoxville, Tenn., to E.A.R. Breck in Knoxville, Tenn.<date when="1882-04-07">1882 April 7</date>
+            </title>
+            <author>
+               <name type="person">Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000495_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, J.G.M. Ramsey in Knoxville, Tenn., to E.A.R. Breck in Knoxville, Tenn. 1882 April 7</title>
+               <date>1882-04-07</date>
+               <author>
+                  <name>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</name>
+               </author>
+               <extent>2 digital images; 2 p.</extent>
+               <note type="abstract">1882 Apr. 7, 1882. J.G.M. Ramsey, Knoxville, Tenn., to his daughter, E.A.R. Breck in Knoxville, Tenn.,  a widow, who returned from Kentucky to home at Mecklenburg. He certifies that he has devided his realty between six children in 1851. Describes the stone house plantation he intended for E.A.R. Breck, and the boundry between hers and F.A. Ramsey&apos;s land. Also, mentions the Sept. 1863, when he went south with the C.S. Army, and returned from the South in 1872.  </note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Boundaries (Estates) -- Tennessee -- Knoxville.</term>
+               <term>Power of attorney -- Tennessee -- Knoxville.</term>
+               <term>Real property -- Tennessee -- Knoxville.</term>
+               <term>Knoxville (Tenn.)</term>
+               <term>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823-</term>
+               <term>Ramsey, F. Alexander (Francis Alexander), 1829-1925.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e150">
+            <pb n="1" facs="0012_000060_000495_0001.jpg" xml:id="d3e151"/>
+            <p>This will certify that when in 1851 or about that year I conveyed in fee simple to six of my elder children as I then thought I believed a one sixth part each of such of my realty as I then purposed to subdivide &amp; distribute to each of them then arrived at mature age I allotted &amp; conveyed to our daughter Mrs. E.A.R. Breck a widow who had returned from Kentucky to our home at Mecklenburg, the part of stone house plantation I intended for her -- being the western half on division of said Stone House place sometimes called Swan-pond. In making the division between the two children I purposely ran the line from an old tree marked &amp; stationary not far from the north west corner of what was formerly known as Tommy <unclear reason="illegible" resp="JR">Guns</unclear> meadow, there to &amp; up the centre of the old ditch a nearly south <unclear reason="illegible" resp="JR">inverse</unclear> to the Bridge across the ditch, on the <unclear reason="illegible" resp="JR">Boych</unclear> Ferry road from the centre of the Bridge the dividing line continued with the centre of the same ditch the same course ward course as far as the ditch had even been dug to <unclear reason="illegible" resp="JR">quagmire</unclear> &amp; swamp which was impassable &amp; then to a point on Scotts line, there taking Scotts line westwardly. The ditch was the real division line as far as it could be traveled &amp; the same course of the ditch till it stretch Scotts line. Mrs. Breck owned all the land west of this line as did F.A. Ramsey all the land</p>
+            <pb n="2" facs="0012_000060_000495_0002.jpg" xml:id="d3e171"/>
+            <p>east of it both north &amp; south of the county road. Both of them recognized the ditch as the division line &amp; so did the Tenants of each up to the fall (Sep, 1863 when I went south with the C.S. Army. When I returned from the South in 1872, these boundaries were still observed by <unclear reason="illegible" resp="JR">Spurgeon</unclear> &amp; all others as far as known to me &amp; I in the spring of 1872 acting as her agent rented for her all the <unclear reason="illegible" resp="JR">land</unclear> land west of the Bridge &amp; south of the country road. I think such will also be Testimony of all my sons. Also <unclear reason="illegible" resp="JR">Orton Vanity Anderson</unclear> &amp; perhaps other neighbors will say the same.</p>
+            <p>Witness my hand &amp; seal April 7, 1882.</p>
+            <p>J.G.M. Ramsey. seal</p>
+            <p>Boundaries</p>
+            <p>of</p>
+            <p>E.A.R. Brecks</p>
+            <p>Land</p>
+            <p>April 7, 1882</p>
+         </div>
+      </body>
+   </text>
+</TEI>

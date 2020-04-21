@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000117_000213_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Perkins, Campbell &amp; Co.</name>
+				                    in New Orleans, La., to David Burford in Dixons Springs, Tenn., <date when="1853-03-23">1853 March 23</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Jennings, Sabra</name>
+        </respStmt>
+        <author>
+          <name type="person">Perkins, Campbell &amp; Co.</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000117_000213_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Perkins, Campbell &amp; Co. in New Orleans, La., to David Burford in Dixons Springs, Tenn., 1853 March 23</title>
+          <date when="1853-03-23">1853 March 23</date>
+          <author>
+            <name type="person">Perkins, Campbell &amp; Co.</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.1185</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Slavery -- Tennessee</term>
+          <term>Tennessee -- Commerce.</term>
+          <term>Tennessee -- Politics and government -- To 1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Jennings, Sabra">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e38">
+        <pb n="1" facs="0012_000117_000213_0001.jpg" xml:id="d4e39"/>
+        <p>David Burford</p>
+        <p>Dixon's Springs Tenn</p>
+        <p><unclear reason="illegible" resp="SLJ">Ins Spail 7-</unclear>1853 approving a payment as to the loan <unclear reason="illegible" resp="SLJ">DB</unclear></p>
+        <p/>
+        <p/>
+        <pb n="2" facs="0012_000117_000213_0002.jpg" xml:id="d4e53"/>
+        <p>Mail</p>
+        <p>New Orleans, March 23rd 1853</p>
+        <p>David Burford Esq</p>
+        <p>Dixons Springs Tennessee</p>
+        <p>Dear Sir,</p>
+        <p>We received a day or two since yours of got 2nd (postmarked 11th) requesting us to invest in the amount sent in by Mister Wharton - for 3 or 4 March -</p>
+        <p>There is demand for money but have Out is a rather delicate matter. - We have thought Over it every way and have concluded to invest it by purchasing @ 8% pannum discount the paper named below leaving a little odd balance which we can get back when we collect the note. - The Bank rates for any loan under 4 Mos is limited to 6% and they do all the good (first class) paper they can get.</p>
+        <p>If you do not think proper to approve the investment we have made we will allow you Six percent per annum from this date on the amount at your Credit and take the note to Our Own account - and in this Case you Can draw for the money at your pleasure.-</p>
+        <p>The note is drawn by Jos Littlejohn &amp; Geo W Manson of this City and endorsed by themselves dated 19 June 1850 - payable One year of the date say /22 June 1833 at Louisiana State bank secured by Mortgage on City real estate and bearing interest at 6% pum from date to maturity and after maturity if not then paid it bears 8% pum</p>
+        <p>Amount of not - $1.350.-</p>
+        <p>1 yr Ins to 19/22 June 53 (6%) 87.- $1.431</p>
+        <p>discount 3 Mos. Ins @ 8% pum 28.62 $1,402.38</p>
+        <p>to your debit Fourteen hundred and two 38/100 Dollars -</p>
+        <p>Please advise us promptly whether you wil approve this or leave the amount of your Credit subject to your Check @6% - Your Pickett, Perkins &amp; C</p>
+        <note type="transcription">The following text is a continuation of the second page of the letter.</note>
+        <p>P.S. Very good City acceptances due on next season can be bought at 10 per cent pannum discount.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

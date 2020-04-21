@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000389_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>George T. Barnes</name>
+ in Charlotte, N.C., to J.G.M. Ramsey in Charlotte, N.C.<date when="1871-01-04">1871 Jan. 04</date>
+            </title>
+            <author>
+               <name type="person">Barnes, George Thomas</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000389_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, George T. Barnes in Charlotte, N.C., to J.G.M. Ramsey in Charlotte, N.C. 1871 Jan. 4</title>
+               <date>1871-01-04</date>
+               <author>
+                  <name>Barnes, George Thomas</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">In this letter dated January 4, 1871, from George T. Barnes in Charlotte, N.C., to J.G.M. Ramsey, at Mr. W.D. Alexander&apos;s home, Charlotte, N.C., he asks that J.G.M. call on him that morning to help with the completion of an unspecified settlement.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Ramsey family</term>
+               <term>North Carolina, Western -- History -- Personal narratives.</term>
+               <term>Ramsey, James Gettys McGready (J.G.M.), 1797-1884 -- Correspondence.</term>
+               <term>Barnes, George Thomas, 1833-1901 -- Correspondence.</term>
+               <term>Reconstruction (U.S. History, 1865-1877) -- Southern States.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e147">
+            <pb n="1" facs="0012_000060_000389_0001.jpg" xml:id="d3e148"/>
+            <p>Charlotte N.C</p>
+            <p>Wednesday Jany 4th 1871</p>
+            <p>Dr J. G. M. Ramsey</p>
+            <p>at Mr W.D. Alexander&apos;s</p>
+            <p>Dear Sir</p>
+            <p>I reached here this morning after a short trip to Oakland &amp; will remain duing the day. Mc and myself have made a partial settlement &amp; I think if I could see you, we could easily complete it. You will <unclear reason="illegible" resp="NW">grealy</unclear> oblige me by coming to Charlotte this morning, as I am obliged to leave to-morrow. You will find me at the house of Hon. <unclear reason="illegible" resp="NW">I.</unclear>H. Wilson</p>
+            <p>Yours truly &amp; respectfilly</p>
+            <p>Geo. T. Barnes</p>
+            <pb n="2" facs="0012_000060_000389_0002.jpg" xml:id="d3e177"/>
+            <p>Dr J. G. M. Ramsey</p>
+            <p>
+               <unclear reason="illegible" resp="NW">at</unclear> M.W.D. Alexander&apos;s</p>
+         </div>
+      </body>
+   </text>
+</TEI>

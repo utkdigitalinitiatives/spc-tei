@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000298_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Samuel W. Doak</name>
+				                in Henderson's Mill, Tenn., to Dr. and Mrs. J.G.M. Ramsey in Mecklenburg, Tenn., <date when="1851-04-30">1851 April 30</date>
+            </title>
+        <author>
+          <name type="person">Doak, Samuel W.</name>
+        </author>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Hogan, Josh</name>
+          <name>Dyson-Smith, Bridger</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000060_000298_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Samuel W. Doak in Henderson's Mill, Tenn., to Dr. and Mrs. J.G.M. Ramsey in Mecklenburg, Tenn., 1851 April 30</title>
+          <date when="1851-04-30">1851 April 30</date>
+          <author>
+            <name type="person">Samuel W. Doak</name>
+          </author>
+          <extent>2 pages</extent>
+          <note type="collection">James Gettys McGready Ramsey Papers, 1851</note>
+          <note type="manuscript">MS.0253</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ramsey, J. G. M.,  (James Gettys McGready), 1797-1884</term>
+          <term>Confederate States of America. Dept. of the Treasury.</term>
+          <term>East Tennessee and Georgia Railroad Company</term>
+          <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+          <term>Mecklenburg Declaration of Independence.</term>
+          <term>Overland journeys to the Pacific.</term>
+          <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+          <term>United States -- History -- Civil War, 1861-1865.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Hogan, Josh">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e43">
+        <pb n="1" facs="0012_000060_000298_0001.jpg" xml:id="d4e44"/>
+        <p>
+          <unclear reason="Illegible" resp="JH">Frm</unclear>
+        </p>
+        <p>Henderson's Mill</p>
+        <p>May 3d</p>
+        <p>Ansd. Dr. Doak Sep. 2. 1851.</p>
+        <p>Dr. J.G.M. Ramsey Postmaster</p>
+        <p>Mecklenburg P.O</p>
+        <p>East Tennessee</p>
+        <pb n="2" facs="0012_000060_000298_0002.jpg" xml:id="d4e61"/>
+        <p>April 30. 1851</p>
+        <p>Dr &amp; Mrs Ramsey</p>
+        <p>My Dearly beloved &amp; much esteemed friends</p>
+        <p>I have a heart to participate, by sympathy, this sore affliction brought on you by the death of your son.  The circumstances of his death were truly distressing - far from home, in a strange land, among strangers.  He <unclear reason="Illegible" resp="JH">bade</unclear> fair to become a bright ornament to your family &amp; the country, &amp; a useful member of society.  His removal is one of those occurrences produced by Providence which we shortsighted beings cannot satisfactorily account for, but to which we must submit: nay, it is most reasonable to submit &amp; bear them with patience &amp; cheerfulness too, because God who produces them according to the counsel of his own will is infinitely wise, omnicient, just, good &amp; merciful; &amp; therefore can will &amp; do nothing that is not right or best.  He can judge &amp; do for us with infinitely more certainty, correctness &amp; kindness than we can for ourselves.  It is comfortable to be able to say "It is The Lord, let him do whatsoever he will."  His will is good, &amp; cannot be otherwise than good.  We ourselves &amp; all ours - whether life, companions, children, estate - all a<gap resp="Hogan"/>od's.  His right to all is an infinitely perfect &amp; inalienable right.  Our comforts he <unclear reason="Illegible" resp="JH">sends</unclear> to us &amp; has a perfect right to recall them at pleasure.  When he recalls them we have no right whatever to find fault with him.  Oh it is good, from the heart, to say with Job, "The Lord gave the Lord hath taken away.  Blessed be the name of the Lord."  Afflictions are not joyous but grievous, yet they are real blessings, as they are means by which God prepares his children for that far more exceeding &amp; eternal weight of glory promised them.  Our great concern should be to derive soul purifying &amp; enriching benefit from the mournful dispensations of God's Providence, &amp; diligently prepare for heaven.</p>
+        <p>It will be impossible for me to be with you on the second sabbath of May.  Our session is to open on the first Monday &amp; Dr Anderson has had a severe attack of rheumatism, worms &amp;c. (&amp; though he is recovering) he will not be well enough to attend in the College the first week or two.  I will therefore have his business &amp; my own both to do at that time.  I can probably be there on the 4th sabbath i.e. the 22nd day of June if that will suite you, or the sabbath following that, if it will suit you better.  My wife &amp; family, as well as myself, all feel the stroke you have received &amp; participate in your sorrows occasioned by the death of your son.  He is affectionately remembered by all.</p>
+        <p>Very affectionately yours &amp; c.</p>
+        <p>Sam'l W. Doak</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000435_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Sallie Kirkpatrick</name>
+ in Clinton, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1876-09-04">1876 Sept. 4</date>
+            </title>
+            <author>
+               <name type="person">Kirkpatrick, Sallie (fl. 1876)</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000435_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Sallie Kirkpatrick in Clinton, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1876 Sept. 4</title>
+               <date>1876-09-04</date>
+               <author>
+                  <name>Kirkpatrick, Sallie (fl. 1876)</name>
+               </author>
+               <extent>5 digital images; 1 envelope, 4 pages.</extent>
+               <note type="abstract">1876 Sept. 4, Sallie Kirkpatrick, descendant of John Sevier, Clinton, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Thanks Dr. Ramsey for his perpetuation of the memory of John Sevier. Discussion of letters of her ancestors in which J.G.M. is interested. Inquiry concerning whereabouts of a portrait of her grandfather.</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Governors -- Tennessee -- History -- 18th century.  </term>
+               <term>Character -- Political aspects -- Tennessee -- History -- 18th century.</term>
+               <term>Letters, American -- History -- 19th century.</term>
+               <term>Tennessee, East -- History -- 19th century.</term>
+               <term>Kirkpatrick, Sallie (fl. 1876) -- Correspondence.</term>
+               <term>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e151">
+            <pb n="1" facs="0012_000060_000435_0001.jpg" xml:id="d3e152"/>
+            <p>Dr. J.G.M. Ramsey</p>
+            <p>Knoxville, </p>
+            <p>Tenn.</p>
+            <pb n="2" facs="0012_000060_000435_0002.jpg" xml:id="d3e164"/>
+            <p>Ivy Cottage, Sept. 4th 1876</p>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Dear Sir</p>
+            <p>Yout highly esteemed letter was received some days since</p>
+            <p>I remember years ago to have read, with a perfect glow of ancestral pride, your History of Tennessee, in which you pass each high <unclear reason="illegible" resp="JR">encomiume</unclear> on the Character of Governor Sevier</p>
+            <p>Tis I, with all his descendants, who should thank you, for having done so much to perpetuate the memory of one, of whom we feel so justly proud</p>
+            <p>Since your letter came I have been examining the old</p>
+            <pb n="3" facs="0012_000060_000435_0003.jpg" xml:id="d3e187"/>
+            <p>letters mentioned I have read the signature &amp; glanced over contents. I find they relate mostly to business, tho some are letters of friendship. They are nearly all addressed to my Grandfather, Walter King.</p>
+            <p>Numbers written later by his sons after leaving home to seek their fortunes Few of them refer in any way to the hostory of the times in which they were written.</p>
+            <p>I am happy to be able to send you two more letters of Gov. Sevier. One of them I found in my last search, the other I reserved from those sent first. I would ask if you do not think it too selfish, that one of them may be returned</p>
+            <pb n="4" facs="0012_000060_000435_0004.jpg" xml:id="d3e199"/>
+            <p>the one written his daughter prefered.</p>
+            <p>My mother has often told me of a portrait of her Grandfather, of which she has a distinct recollection, thinks it was considered a good one Though she was quite young when it was last seen. the portrait was then at the house of Mrs. McClellan resident of Kingston Tenn. and daughter of Governor S. She moved after <unclear reason="illegible" resp="JR">&amp; wandered</unclear> to Arkansas. Can you, sir, tell me anything of the painting?</p>
+            <p>Be assured, my dear Sir, that I shall be most happy &amp; feel myself honored if I can in any way oblige or serve you, one for whom I shall ever cherish a</p>
+            <pb n="5" facs="0012_000060_000435_0005.jpg" xml:id="d3e214"/>
+            <p>grateful remembrance</p>
+            <p>I see I did not mention in the proper place that I have selected and will send you a number of the old letters Too written by Edmund P. Gaines, one by Joseph McMinn, &amp; others which are sent more as samples, than with any hope that they will be of interest to you. Have been thinking to hear of someone visiting Knoxville from this vicinity who would take charge of the pacel &amp; deliver safely, but several days may pass before such an opportunity offers Will interest this to the mail in order to assure you that your request has not been neglected</p>
+            <p>Very sincerely yours</p>
+            <p>Sallie Kirkpatrick</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000238_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name> Lucky, S.I.W.</name> in Newport, Tenn. to O.P. Temple in
+Knoxville, Tenn., <date when="1862-03-03"> 1862 March 3 </date>
+            </title>
+            <author>
+               <name type="person">Lucky, S.I.W.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+               <name>Galloway, Helen</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000238_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, S.I.W. Lucky in Newport, Tenn. to O.P. Temple in Knoxville, Tenn., 1862 March 3</title>
+               <date>1862-03-03</date>
+               <author>
+                  <name>Lucky, S.I.W.</name>
+               </author>
+               <extent> 2 digital images; 2 pages</extent>
+               <note type="abstract">In this letter, dated February 9, 1862, H.C. Smith in
+Midway, Tenn. writes to O.P. Temple in Knoxville, Tenn., inquiring about the
+&quot;the prisoners that was convicted,&quot; his father among them. He
+wants to know if they have left Knoxville and, if so, what their present
+location is.</note>
+               <note type="collection">The O.P. Temple Papers, 1862</note>
+               <note type="manuscript">MS.21</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</term>
+               <term>COCKE COUNTY (TENN.) - HISTORY</term>
+               <term>NEWPORT (TENN.) - HISTORY</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000070_000238_0001.jpg" xml:id="d3e158"/>
+            <p>Newport. March 3, 1862</p>
+            <p>Colo: OP: Temmple</p>
+            <p>Dear Sir</p>
+            <p>Upon
+consultation with Messers Swan &amp; Fletcher, I have determined not to hold the
+Chancery Court at Sevierville, on the third Monday of this month, but have
+appointed a special Term, to commence on Wednesday after the 5th Monday of
+March. That just preceeds the regular term of the circuit court under the recent
+act, making two terms.</p>
+            <p>I think this will accommodate all parties- I have
+written to the clerk on the subject, I directed him to inform the parties as far
+as possible- If all the rumours we here to day are true, it not likely there
+will any thing done at any court for some time- It is reported here that the
+federal pickets are approaching Clinton but I have little faith in the news-
+Some 8 or 10 wagons are hauling bacon from <unclear reason="Illegible." resp="J.H."/> to <unclear reason="Illegible." resp="J.H."/> &amp; I suppose
+<gap resp="Hogan"/> there is some alarm at that place- Please inform Mr Washlums &amp;
+Fleming of the change. Your friend</p>
+            <p>S.I.W. Lucky</p>
+            <pb n="2" facs="0012_000070_000238_0002.jpg" xml:id="d3e182"/>
+            <p>Colo O.P. Temple</p>
+            <p>Knoxville Tennessee</p>
+            <p>S.I.W. Lucky</p>
+            <p>March
+1862</p>
+         </div>
+      </body>
+   </text>
+</TEI>

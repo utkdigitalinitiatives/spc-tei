@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000599_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Report,
+					<name/>
+				                    Family Register<date>undated</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Wibking, Lyndy</name>
+        </respStmt>
+        <author>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_000599_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Report, Family Register</title>
+          <date>undated</date>
+          <author>
+          </author>
+          <extent>1 page</extent>
+          <note type="collection">Henry Brown Collection </note>
+          <note type="manuscript">MS.2117</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>Ohio -- History -- Civil War, 1861-1865.</term>
+          <term>Soldiers -- Ohio -- Correspondence.</term>
+          <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+          <term>United States. Army. Ohio Infantry Regiment, 31st (1861-1865)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Wibking, Lyndy">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e36">
+        <pb n="1" facs="0012_000599_000200_0001.jpg" xml:id="d4e37"/>
+        <p>Family Register</p>
+        <p>Family,</p>
+        <p>NAMES.</p>
+        <p>PARENTS.</p>
+        <p>Henry Brown.</p>
+        <p>Caroline M Brown.</p>
+        <p>CHILDREN.</p>
+        <p>Isaiah M Brown.</p>
+        <p>George W Brown.</p>
+        <p>George N. Brown.</p>
+        <p>John R. Brown.</p>
+        <p>Born,</p>
+        <p>WHEN AND WHERE.</p>
+        <p>June 11th 1821.</p>
+        <p>in Washington County, Pennsylvania.</p>
+        <p>March 15th, 1823.</p>
+        <p>in Perry County, Ohio.</p>
+        <p>January 19th, 1850 in Perry Co. O</p>
+        <p>September 14th, 1852 in Perry Co. O.</p>
+        <p>Dec. 23rd in Beloit, Mitchell Co Kansas</p>
+        <p>November 20th 1883 Cincinnati O.</p>
+        <p>Married,</p>
+        <p>WHEN, WHERE &amp; BY WHOM.</p>
+        <p>December 23d 1847 in Perry county, Ohio by Rev. Joseph Carper.</p>
+        <p>October 10th 1878</p>
+        <p>Febuary 9th 1879, in Mills Co. Iowa</p>
+        <p>Died,</p>
+        <p>WHEN AND WHERE.</p>
+        <p>November 22d 1862 in defense of his country at Nashville Tenn.</p>
+        <p>November 30th 1879 in Beloit Mitchell, Co. Kans</p>
+      </div>
+    </body>
+  </text>
+</TEI>

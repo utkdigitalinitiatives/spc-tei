@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000068_000204_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name>
+John Shrady
+</name>
+in Knoxville, Tenn.
+<date when="1864-07-16">
+1864 July 16
+</date>
+            </title>
+            <author>
+               <name type="person">Shrady, John</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Hogan, Josh</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000068_000204_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, John Shrady in Knoxville, Tenn. to Jeannie Lockhart, 1864 July 16</title>
+               <date>1864-07-16</date>
+               <author>
+                  <name>Shrady, John</name>
+               </author>
+               <extent> 4 digital images; 4 pages</extent>
+               <note type="abstract">In this letter, dated July 16, 1864 from Knoxville, Tenn., to &quot;My Own Darling,&quot; John Shrady, a regimental surgeon, reports that he has now been posted to the &quot;Holston U.S.A. General Hospital&quot; near Knoxville and mentions the &quot;inducements&quot; being offered for him to re-enlist. Additionally, he considers how he has changed while being away from New York City and private surgical practice.</note>
+               <note type="collection">John Shrady Letters, 1864</note>
+               <note type="manuscript">MS.1436</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>United States -- History -- Civil War, 1861-1865.</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865.</term>
+               <term>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e142">
+            <pb n="1" facs="0012_000068_000204_0001.jpg" xml:id="d3e143"/>
+            <p>Knoxville, Tenn, July 16th 1864</p>
+            <p>My Own Darling,</p>
+            <p>I am now on duty at a new Hospital just established and christened the &quot;Holston U.S.A. General Hospital&quot; near Knoxville -- just across the Holston river, connecting it to the city by a rough board but substantial bridge. I could have had charge of either this Hospital or of the Asylum, but in view of the rapid expiration of the term of service for which the regiment had enlisted and the requirement that I should have to receipt for a large amount of property, which to say the least would take a long time to &quot;turn over&quot; to my successor I begged leave to decline the honor.</p>
+            <p>Dr. McMillen who has returned from the front says that I am one of those who can become a &quot;Surgeon of Volunteers&quot; without any trouble and without the formality of an examination. Jeannie, a great many inducements have been held out to me to commit myself again to the service, but I have determined to return home and rest awhile. I think that I may have equally as good chances for improvement at home. One thing I must say that I am conscious</p>
+            <pb n="2" facs="0012_000068_000204_0002.jpg" xml:id="d3e157"/>
+            <p>of having overcome and that is that timidity which careful men have in approaching a surgical operation. I have become bolder -- do you think that possible? I am conscious, however, of getting rusty about a good many of the fine points of the profession and I will have to brush up some when I get home. You know too that there are many wide differences between army &amp; civil practice. I&apos;m afraid, too, that I am parting with a good deal of my New York city polish -- in other words that I am becoming Westernized in consequence of contact with people from that portion of our &quot;great republic.&quot; So you must bear with my boorishness, -- you must take me around to see the sights -- I will &quot;keep mum&quot; I promise, and maybe no one will take me for an awkward Hoosier.</p>
+            <p>Still I have met with a great many New York men, who having emigrated out West, found their way into positions in Western regiments. (There, Jeannie, I have just blotted your letter, but if you engage not to be too particular, I will write on as though nothing had happened.) Sometimes these New York men come to see me to talk over familiar places, public men, Fernando Wood and all that. These accidental meetings make one feel for the time being, as though</p>
+            <pb n="3" facs="0012_000068_000204_0003.jpg" xml:id="d3e167"/>
+            <p>he was quite near the goodly city of Gotham. Then I wish more eagerly to see you and our little Pet -- I think over our many happy walks -- I wonder how you are just then employing your time -- whether you are still well -- then I look back and count many long weeks, nay more, months of separation -- I reflect that so much of time has been stricken off from the sum of my existence and so much to bring me nearer home and you, who make that home.</p>
+            <p>Time is valuable, My Precious, and as if to teach us its inestimable price, it melts away the fastest when we enjoy ourselves the most. Therefore it hangs heavily on my hands, because home keeps ever presenting its attractions to my imagination. Well, when we anticipate, time always seems tedious.</p>
+            <p>I hope that if you have not returned home, that you are still enjoying yourself with Sister Anna -- to whom and Reeder you must convey my kindest regards. Remember me also to Mother &amp; Fran. While for yourself is reserved my heart&apos;s best affections. Kiss our little Pet, and let her return the same to you on my account. Write soon, addressing me now as follows</p>
+            <p>John Shrady</p>
+            <p>Surgn 2nd Eas Tenn Inf.</p>
+            <p>Holston U.S.A. General Hospital</p>
+            <p>Knoxville, Tenn.</p>
+            <p>This reminds me that you have not written me in some</p>
+            <pb n="4" facs="0012_000068_000204_0004.jpg" xml:id="d3e190"/>
+            <p>little while, or perhaps to speak more correctly, I have received none in that time. Always count me as your Devoted Lover and Husband</p>
+            <p>John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

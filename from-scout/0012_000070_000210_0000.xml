@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000070_000210_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 
+<name>Temple, M.S.</name>
+ in Place Unknown to O.P. Temple in Knoxville, Tenn. <date when="1864-08-31">1864 August 31</date>
+            </title>
+            <author>
+               <name type="person">Temple, M.S.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000070_000210_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, M. S. Temple in Place Unknown  to O. P. Temple in Knoxville, Tenn., 1864 August 31</title>
+               <date>1864-08-31</date>
+               <author>
+                  <name>Temple, M.S.</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract"> Letter dated August 31, 1864, M.S. Temple in Place Unknown to O.P. Temple in Knoxville, Tenn. Reporting robbery by two successive bands who left house stripped; Mother&apos;s house treated likewise; disturbed local conditions; escaped with his life. 
+ </note>
+               <note type="collection">The O.P. Temple Papers, 1864</note>
+               <note type="manuscript">MS.0021</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Robbery -- United States -- History -- Civil War, 1861-1865</term>
+               <term>Violence--Moral and ethical aspects  -- United States -- History -- Civil War, 1861-1865</term>
+               <term>United States -- History -- Civil War, 1861-1865</term>
+               <term>Tennessee -- History -- Civil War, 1861-1865</term>
+               <term>M. S. (Major Samuel), 1816-1897 -- Correspondence</term>
+               <term>Temple, Oliver Perry, 1820-1907 -- Correspondence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e152">
+            <pb n="1" facs="0012_000070_000210_0001.jpg" xml:id="d3e153"/>
+            <p>August 31st 1864</p>
+            <p>Dear Sir</p>
+            <p>I regret to have to inform you of recent misfortunes viz robing by wholesale of household &amp; other effects. It was my missfortune to be visited on on Friday night 22 inst &amp; again on Sunday night following by bands of midnight robers numbering from 15 to 30 the first night &amp; in greater force the last. We had sent nothing from home &amp; of course the best of everything was taken at will from the cellar, to the garet including 4 to 700 dollars state &amp; Confederate notes all I had on hand my wife had left her three pieces of beds. Three &amp; an half plates, and 2 tea cups and provision to get breakfast with the following morning. The family were left bearfooted &amp;c Angie &amp; Mr R things faired no better. The first night I passed the ordeal with much composure amid the many threats of violence &amp; display of deadly weapons but the last night was too teroble an </p>
+            <pb n="2" facs="0012_000070_000210_0002.jpg" xml:id="d3e165"/>
+            <p>an exhibition of malignant &amp; fiendish feeling for my nerves. in fact nothing but my wifes promptness prevented me from being shot down in my house like a dog everything was arranged with that view. I made my escape. It is imposoble to give even a faint outline of their conduct &amp; would require a half quire of paper to do so. My course as well as that of the family was kindness in the <unclear reason="illegible" resp="NW"> extrime </unclear> as that has been my motto all the time. I have moved Angie and <unclear reason="illegible" resp="NW"> mom </unclear> to town am staying with them - my wife &amp; children are at home in day time. At night so far they roam through the forest like wild beastsfor protection. An Thursday night our mother was robed in a like manner tho an a much smaller <unclear reason="illegible" resp="NW"> Scath </unclear> they even got in her bed &amp; rolled her about to get her little all</p>
+            <pb n="3" facs="0012_000070_000210_0003.jpg" xml:id="d3e182"/>
+            <p>she too has come to town for greater safety. May I not ask the question what are we coming to; the relation Mr. Rudd &amp; <unclear reason="illegible" resp="NW"> aly </unclear>have allways sustained was most fully explained &amp;c but nothing did any good. If the righteous can scarcely be saved what shall become of the siner. For further information I will remark that a portion of the men were dressed in citizens clothes the Bal in Federal uniform the Capt of the first Co the first night claimed to be a Michigan man tho his voice did not so indicate they came &amp; went south of the Riv I give you this brief out line for what it may be worth. Some say it is a part of the program to crush out the rebellian others think not. Of course I know nothing. My knowledge of men &amp; things leads me to have awfull foreboadings for the future for all the inhabitants of this country unless this seeming irregular mode of conduct is at once stoped. The law of violation has no will </p>
+            <pb n="4" facs="0012_000070_000210_0004.jpg" xml:id="d3e193"/>
+            <p>defined boundary when <unclear reason="illegible" resp="NW"> once </unclear> put in force. I may state to you an other fact that there are several men in this country who took nearly one year since the oath of alegience to the Federal Gov&apos;t &amp; have kept in good faith their obligations. These men as a portion of them have been dealt with pretty much after the manner I have here stated to you was my fate. </p>
+            <p>Such is the uncertain times by which we live &amp; hold any thing in this community that you need not be surprised to hear of anything at any time. Your brother.</p>
+            <p>M.S. Temple</p>
+            <p>M.S. Temple</p>
+            <p>Aug 1864 </p>
+         </div>
+      </body>
+   </text>
+</TEI>

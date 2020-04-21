@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_003553_000203_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, <name type="author">William H. Dennis</name> in <name type="place">Knoxville, TN</name>, to
+               Mr. <name type="person">John Hunter</name>, <date when="1863-10-21">1863 October 21</date>
+            </title>
+            <author>
+               <name>Dennis, William H.</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>White, Park</name>
+               </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2012</date>
+            <availability status="restricted">
+               <p>The copyright interests in this collection remain with the creator. For more
+                  information, contact the <ref target="http://www.lib.utk.edu/special">Special
+                  Collections Library</ref>.</p>
+            </availability>
+            <idno>0012_003553_000203_0000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, 
+                  <name type="author">William H. Dennis</name> in <name type="place">Knoxville, TN</name>, to
+                  Mr. <name type="person">John Hunter</name>, 
+                  <date when="1863-10-21">1863 October 21</date>
+               </title>
+               <author>
+                  <name>Dennis, William H.</name>
+               </author>
+               <extent>4 digital images</extent>
+               <note type="collection">Knoxville Civil War Correspondence Collection, 1862-1864</note>
+               <note type="manuscript">MS.3711</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for The University of Tennessee Libraries
+               Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Corrections have been applied to the text only where there is a high degree of
+               certainty of an error and if the correct spelling is known.</p>
+            <p>Corrections are represented by editorial tags.</p>
+            <p>Quotation marks and apostrophes have been replaced by entity references.</p>
+            <p>All unambiguous end-of-line hyphens have been removed.</p>
+            <p>Names of persons, places, and organizations are indicated in the transcription when
+               identifiable with a high degree of certainty.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+                  <term>Civil War Letters</term>
+          </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-09-13" who="nl">Reformatted transcription from its original TEI.2
+            markup to comply with the TEI-P5 lite schema.</change>
+         <change when="2013-09-13" who="nl">Added "idno" element, editorial declaration statement, subjects/keywords and abstracts from EAD finding aid. Removed box and folder notes, reference declaration element. Changed the formatting for blank pages. Added resp attributes to editorial changes, and added name tags.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d2e167">
+            <pb facs="0012_003553_000203_0001.jpg" n="1" xml:id="d2e169"/>
+            
+            <opener>
+               <dateline>
+                  <name type="place">Knoxville Tenn.</name>
+                  <date when="1863">Oct. 21th 1863</date>
+               </dateline>
+               <salute>Mr <name type="person">John Hunter</name></salute>
+            </opener>
+            
+            <p>Dear Friend</p>
+            <p>After Along Silence I Seat myself to to let you know that I Am well And harty hoping these few lines may find you All in the best of health All the boys of your Acquaintance is well And harty &amp; Enjoying A Soldiers life As well As could be Expected for Some cause or other</p>
+            <p>I have not had A letter from Any of you for About 3 month  whether they was miscaried are you did not write I can not tell which one of the too. for my part for the last too months I had Know chance to write  when I had A chance there was know mail going out that I cud Scend  know dont you Are fully A were that Ever Since</p>
+          
+            <pb facs="0012_003553_000203_0002.jpg" n="2" xml:id="d2e198"/>
+            <p>We left <name type="place">Danville Kentucky</name> on the 17th Aug. that we have been Knocked Around like old Shoes we left Danville right in the hotest of the Season for A long And tedious march over the <name type="place">cumberland mountains</name> over Some of the roughest roads I ever Saw in my life And I have Seen Some pretty rough  Some places I Saw 12 mules to one wagon we had 500 wagons of A Supply train becides the regimental And brigade wagons.  So you can have Some Idea how we got A long we traveled 75 or 80 miles with out See Any town At all Some places 7 And 8 miles without Seeing A drop of water when we would come to Any it would be A little Spring for to water A brigade of men out of.</p>
+            <p>the country through the mountains is very thinly Settled</p>
+            
+            <pb facs="0012_003553_000203_0003.jpg" n="3" xml:id="d2e212"/>
+            <p>A great many places it was not Settled At All when you would come to A house it was nothing  A little log hut  the people in the mountains are very poor maid more So by the rebels crossing taking Every thing they had it was nearly Imposible for us to get forage for the Amount of mules And horses that we had with us.</p>
+            <p>on the morning of the 4th of September we get to <name type="place">Knoxville</name> the first Union Infantry that was Ever in Knoxville  we met with A harty welcom from the citizens for they had been used to the tyranny of the rebels Ever Since the war began.  we had only been here too days when we was ordered to <name type="place">cumberland gap</name> 60 miles from here the rebels had possession of the gap  we expected to have A fight there but they Surrendered without fireing A gun  we took Brigdier</p>
+            
+            <pb facs="0012_003553_000203_0004.jpg" n="4" xml:id="d2e227"/>
+            <p><name type="person">General Fraser</name> And 2600 prisoners 13 pices of cannon besides other things to tedious to mention</p>
+            <p>the prisoners was Scent to <name type="place">camp chase</name> And we returned to <name type="place">Knoxville</name> A gain we then took A trip out the rail road 80 miles then took A cross the country A 40 miles After the rebels  we got with in too miles of the rebels camp and fortifycations we lay down to wait for the comeing morning for to Attact them but they got word of us being there And they left on double quick  the next morning we Advanced but when we went to put our thumb on them they was not there  we got 100 of them that was left on picket and did not get Away in time  we then marched back to <choice><orig><name type="place">Greenville</name></orig><corr resp="pw"><name type="place">Greeneville</name></corr></choice> And took the cars for <name type="place">Knoxville</name> where we Are know in camp  So you See that we have had A pretty busy time but we are haveing times pretty Easy at the present  I think we will Stay here this winter we are building winter quarters here  when we get them up we will have A nice place to Stay in this winter</p>
+            <p>I was pleased to hear the way the Election went  wonder what the copperheads think of their man by this time   I think they will dry up know.</p>
+            <p>As my paper is Scarce I will have to close  give my best respects to all the famly  please write Soon direct to <name type="place">Knoxville Tenn</name>. <name type="org">First Brigade 3rd. division 23rd. Army Corps.</name> Care of <name type="person">Capt Biddle</name>, etc.</p>
+               <closer>
+                  <salute>truly yours,</salute>
+                  <signed><name type="person">Wm. H. Dennis</name></signed>
+               </closer>
+            
+            <postscript>
+               <label>P.S.</label>
+               <p>Mr. John Hunter</p>
+            </postscript>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

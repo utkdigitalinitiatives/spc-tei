@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000060_000446_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Anson Nelson</name>
+ in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn.<date when="1879-01-10">1879 Jan. 10</date>
+            </title>
+            <author>
+               <name type="person">Nelson, Anson, 1821-1892</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Roberts, Jason</name>
+               <name>Williams, Sherry</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000060_000446_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1879 Jan. 10</title>
+               <date>1879-01-10</date>
+               <author>
+                  <name>Nelson, Anson, 1821-1892</name>
+               </author>
+               <extent>4  digital images;  4 pages.</extent>
+               <note type="abstract">1879 Jan. 10 Anson Nelson, City Treasurer, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Expresses gratitude that Dr. Ramsey&apos;s life has been spared another year. Requests that Lea &apos;s letters to J.G.M. be placed in the archives along with J.G.M.&apos;s to Lea. Foresees a bright future for the Society. Discusses Nelson&apos;s selection as the author of a history of Nashville for the Centennial. 
+
+</note>
+               <note type="collection">James Gettys McGready Ramsey Papers</note>
+               <note type="manuscript">MS.0253</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Cultural property -- Protection -- Tennessee.</term>
+               <term>Historic preservation -- Tennessee.</term>
+               <term>Nashville (Tenn.) -- Centennial celebrations, etc.</term>
+               <term>Tennessee -- History -- 19th century.</term>
+               <term>Lea, John McCormick, 1818-1903 -- Correspondence. </term>
+               <term>Porter, James D. (James Davis), 1828-1912. </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e153">
+            <pb n="1" facs="0012_000060_000446_0001.jpg" xml:id="d3e154"/>
+            <p>Nashville, January 10, 1879.</p>
+            <p>Dr. J.G.M. Ramsey,</p>
+            <p>Mecklenburg Place, Knoxville, Tenn.</p>
+            <p>My very dear sir:</p>
+            <p>After a long silence, I am to-day so much inclined to write to you, that I cannot well resist the inclination; so that, men in the midst of business, and the sense of weather that prevails, I send you a few lines of greeting and good cheer, praying that, as the Father of all mercies has permitted you to enter upon mother New Year, He may spare your valuable life for years to come, and bless each succeeding year with more and greater joys to you and yours. Especially do I want you to live, because I know the decrepitude of old age has not impaired your mental faculties, and that you can be useful to all around you, and to our cherished Society, in many ways -- mainly by your pen.</p>
+            <pb n="2" facs="0012_000060_000446_0002.jpg" xml:id="d3e170"/>
+            <p>Your recent letters to our honorable first Vice President, Judge John M. Lea, of Dec. 12th and 30th, <unclear reason="illegible" resp="JR">met.</unclear> were in such good taste, so strong and vigorous, and so timely that I must express my admiration of their style as well as their contents. They shall be presented. And will you do me the favor to send Judge Lea&apos;s letter to you, place in our Archives? It will be a favor, and all three will remain together, as they should.</p>
+            <p>I know that Judge Lea would dissent, if I were to ask him about it, for he has too humble an opinion of his own abilities; therefore I beg you to send it, and I will quietly place them away for a future generation. We love yours, any way, and would be glad to place his with them.</p>
+            <p>Ill health, and incessant labor have prevented me from writing to you for many months, from making a trip to Knoxville to confer with you in person in relation to the future operations of our Society. I greatly desire to talk with you, for I could tell you some things that would gratify you very much, that I dare not put on paper, so confidential and private are they. But I trust that I may be able to pull away for a few days, when the warm weather comes, and see you face to face, and talk over two or three important matters with you. However, if the opportunity does not occur, I think I can tell you, with some degree of confidence, that the Tennessee Historical Society has a grand future before it. The Legislature may not now aid us, but succeeding ones will, at no distant day, and </p>
+            <pb n="3" facs="0012_000060_000446_0003.jpg" xml:id="d3e185"/>
+            <p>the Society will be placed upon a firm and substantial basis. You know, better than most men how long a few faithful members have kept the Society in existence, by the use of comparatively small means.</p>
+            <p>I could not be present at our regular meeting on tuesday last, owing to the face that our Finance Committee was in session the whole afternoon, and I was obliged to be with them. I am seldom absent, (in fact only twice for many years,) and this absence was a source of deep regret to me; for there was a better attendance than usual and the meeting was in a certain sense, important.</p>
+            <p>I have been asked to prepare the History of Nashville, for our approaching Centennial Celebration. I have tacitly consented, but all the time intended to procure an abler person to do the work and to furnish him with what data I have, most of which was published in the Report of the Board of Health for 1877,</p>
+            <pb n="4" facs="0012_000060_000446_0004.jpg" xml:id="d3e197"/>
+            <p>and also copied recently in Judge Guild&apos;a recent work &quot;Old Times in Tennessee.&quot; What I shall do, whether to attempt the work or give it over to another, is yet a question of doubt. I must decide soon; for there is little more than a year to get up facts and figures, and the work is not light, as you know.</p>
+            <p>Thanking you very sincerely for your long and interesting letter to the Society, of 12th Dec. and with renewed assurances of esteem and affection,</p>
+            <p>I remain, very truly, your friend,</p>
+            <p>Anson Nelson</p>
+            <p>My wife and I desire to be remembered to Mrs. Ramsey and all your house hold, very affectionately. A.N.</p>
+            <p>(I write with great haste)</p>
+            <p>I would be glad to receive a long letter from you. Our new by-laws, adopted Tuesday, provide for a second Vice President, and I am glad to say that Gov. James D. Porter was elected. We have another meeting first Tuesday in Feby.</p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

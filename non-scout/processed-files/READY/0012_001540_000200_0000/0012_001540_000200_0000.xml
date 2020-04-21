@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_001540_000200_0000">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter,
+					<name>Perkins, Campbell &amp; Co.</name>
+				                    in New Orleans, La., to David Burford in Dixon Springs, Smith County, Tenn., <date when="1853-06-22">1853 June 22</date>
+            </title>
+        <respStmt>
+          <resp>Responsible for machine-readable version</resp>
+          <name>Last, First</name>
+        </respStmt>
+        <author>
+          <name type="person">Perkins, Campbell &amp; Co.</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+        <pubPlace>Knoxville, TN</pubPlace>
+        <date>2013</date>
+        <availability status="restricted">
+          <p>The copyright interests in this collection remain with the creator. For more
+					information, contact the <ref target="http://www.lib.utk.edu/special">Special
+						Collections Library</ref>.</p>
+        </availability>
+        <idno type="SPC">0012_001540_000200_0000</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letter, Perkins, Campbell &amp; Co. in New Orleans, La., to David Burford in Dixon Springs, Smith County, Tenn., 1853 June 22</title>
+          <date when="1853-06-22">1853 June 22</date>
+          <author>
+            <name type="person">Perkins, Campbell &amp; Co.</name>
+          </author>
+          <extent>3 pages</extent>
+          <note type="collection">David Burford Papers</note>
+          <note type="manuscript">MS.3212</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Machine-readable transcription created for the University of Tennessee
+						Libraries Special Collections.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Errors in transcription of the printed text not controlled.</p>
+        <p>Editorial tags limited to gap and unclear.</p>
+        <p>All unambigous end-of-line hyphens removed.</p>
+        <p>Catchwords and directional notes such as "turn page over" have been
+						omitted.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="LCSH">
+          <term>Brownlow, John Bell, 1839-1922</term>
+          <term>Reconstruction (U.S. history, 1865-1877) -- Tennessee.</term>
+          <term>Soldiers -- Tennessee -- Correspondence.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013" who="Last, First">Approximate date of original transcription and transcriber.</change>
+      <change when="2013-10-08" who="bds">Migrating
+					from P4 to validated TEI P5.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="d4e34">
+        <pb n="1" facs="0012_001540_000200_0001.jpg" xml:id="d4e35"/>
+        <p>Killin of</p>
+        <p>Pri Ae</p>
+        <p>Col John B Brownlow</p>
+        <p>Knoxville</p>
+        <p>Tennessee</p>
+        <pb n="2" facs="0012_001540_000200_0002.jpg" xml:id="d4e47"/>
+        <p>Nashville Tennessee</p>
+        <p>January 29 th 1867</p>
+        <p>Col John B Brownlow</p>
+        <p>Dear Sir</p>
+        <p>In accordance with your request I here with detail all the facts relating to the killing of a guerilla named John Pride </p>
+        <p>You were riding at the hind of your Regiment. Henry Warren Srgt Mayor of the 9th Tenn Cavalry &amp; myself at your side when we were nearly abreast of a hill thickly covered with timber we were fired upon by a forty of men who had concealed timberlines then we immediately <unclear reason="illegible" resp="SLJ">rallid</unclear> &amp; some of our men were about to fire when you commanded them not to do as as you insisted they were our own men. about twenty of us found them as you were <unclear reason="illegible" resp="SLJ">hiltn</unclear> mounted then <unclear reason="illegible" resp="SLJ">altun</unclear>altun you was able to keep in advance we fussed the guerillas closely &amp; Pride was forced to quit his horse &amp; endeavored to escape in first you ordered him to surrender which he did &amp; you funnled one or two men from shooting at him by hitting them till he had surrendered</p>
+        <p/>
+        <pb n="3" facs="0012_001540_000200_0003.jpg" xml:id="d4e71"/>
+        <p>When however you advanced toward him he deemed to think as you was at that time in advance of us that by killing you he could yet effect his escape he fired at you (this was after his surrender) once or twice, I think I can safely say twice you then took deliberate aim &amp; shot him you shot you were very close together but I am positive that you fired but once and only after he had fired at you. His brother who was Gene Willams orderly stated publicly that you was justifiable &amp; acted on the hardest principal of self defense you will probably remember that Capt James Bald was shot by a Rebel Soldier at Morristown after he (the Rebel) had surrendered</p>
+        <p>The forty that fired on us did us in a dastardly &amp; cowardly manner were guerillas &amp; bush whackers &amp; not enlisted to the <unclear reason="illegible" resp="SLJ">wrongs</unclear> of civilizezd maybe they had allowed two full companies of our troops to pass them &amp; evidently desired to pick off some of our officers</p>
+        <p>Yours Truly</p>
+        <p>W Bayless Lots Adj. 9 th Ten Com </p>
+      </div>
+    </body>
+  </text>
+</TEI>

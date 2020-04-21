@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000186_000200_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>Amos Guthrie</name>
+ in Knoxville, Tenn., to his father in New Rumley Township, Ohio<date when="1864-03-19">1864 Mar. 19</date>
+            </title>
+            <author>
+               <name type="person">Guthrie, Amos, ca. 1844-1864</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Mincey, Jennifer</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000186_000200_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Amos Guthrie in Knoxville, Tenn. to his father in New Rumley Township, Ohio, 1864 March 19</title>
+               <date>1864-03-19</date>
+               <author>
+                  <name>Guthrie, Amos, ca. 1844-1864</name>
+               </author>
+               <extent>4 digital images; 4 pages</extent>
+               <note type="abstract">Amos Guthrie wrote to his father on March 19, 1864. He was upset with the governor. He wrote about the draft and about certain people being given furloughs and others not. He wondered how many people from home had reenlisted. He wondered what his father was going to do that summer in respect to work. Guthrie also asked his father about a lawsuit in which his father was embroiled. He asked his father to have a newspaper sent to him. Private Guthrie promised to send his father a &quot;paper of old Parson Brownlow&apos;s [a prominent Knoxville Whig] manufacture.&quot; He asked his father to get some books for him. He told his father about one of the soldiers who died suddenly. He mentioned the weather changes in Knoxville. He also wrote to his sister. He was glad she was learning to sing. He had sent her some pictures with instructions what to do with them. He told her about what he had been eating. </note>
+               <note type="collection">Amos Guthrie Letter</note>
+               <note type="manuscript">MS.2942</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Ohio -- Correspondence.</term>
+               <term>Families of military personnel -- United States.</term>
+               <term>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Ohio -- History -- Civil War, 1861-1865 -- Personal narratives.</term>
+               <term>Guthrie, Amos, ca. 1844-1864 -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e154">
+            <pb n="1" facs="0012_000186_000200_0001.jpg" xml:id="d3e155"/>
+            <p>Knoxville Tennessee March 19 1864</p>
+            <p>Dear Father</p>
+            <p>I sit down this morning to answer your letter and was glad to hear that you were all well I wrote you a letter on the 5 of March in which I gave you a description of our journey they weather here was very fine until the 14 of the month it then set in could and some little snow fell but it is now as warm as ever again I am sorry to hear that <unclear reason="illegible" resp="JCM">Lem</unclear> Simmons children were sick it will go hard with him to leave it is a pity that he wont get any bounty for I think that he is the kind of man that should have it You say that Rumley township wil stand a draft well it will be a good thing if only a certain kind would be taken that kind is a copperhead I was surprised to hear that Ed Salmons enlisted and was</p>
+            <pb n="2" facs="0012_000186_000200_0002.jpg" xml:id="d3e170"/>
+            <p>hurried of to Chatanooga it is curious that he could not get a furlough while others can have a few months it is a pity that <unclear reason="illegible" resp="JCM">Bricker</unclear> could not do any thing with <unclear reason="illegible" resp="JCM">Gov Ramsoir</unclear> I think if he would come here and live on 1/2 rations it would take some of the Copperhead out of him How many of the Rumley boys have reenlisted and who are they in my other letter I told you that I visited Jake Graybill when you recieve this letter tell me if you recieved the on dated on the 5 of March so you are out of the Sawmill again what are you going to do this summer are you a working at your trade or farming What in the world is Wert &amp;Polen going to do with a sawmill that the engine makes more revolution than the saw I expect it beats the old Duvall in everything by this time</p>
+            <pb n="3" facs="0012_000186_000200_0003.jpg" xml:id="d3e184"/>
+            <p>did the lawsuit come off between you and <unclear reason="illegible" resp="JCM">Sus Yrushel</unclear> and if so how did it go I expect Old Rumley will be as dry as a chip this summer after the <unclear reason="illegible" resp="JCM">loafers</unclear> go to the army I want you to take $1.00 or 1.50 and have the <unclear reason="illegible" resp="JCM">Cadiz</unclear> Republican sent to me as I want to know the country news we do not get any papers of any kind unless we pay 10 or 15 cts apiece we will get paid in a few days and then I will send you a paper of old <unclear reason="illegible" resp="JCM">parson Brownlaws</unclear> manufacture I will draw about $ 70.00 pay this time</p>
+            <p>But I must close by remaining address as before Your Son Amos If you have the paper sent you give them my address in full Reed told me that chemistry was at Werts and you should go there and get all the books that Will has of his and keep them for me</p>
+            <pb n="4" facs="0012_000186_000200_0004.jpg" xml:id="d3e206"/>
+            <note type="transcription">The following text is a continuation of the fourth page of the letter.</note>
+            <p>One of our boys in the corps died last Sunday he took sick on Saturday afternoon and was taken to the hospital at 8oclock next morning and died at 9oclock in 1 hour he was as black as a hat his disease was enlargement of the spleen his time was out in 5 months but I must close</p>
+            <p>Goodbye</p>
+            <p>for the present</p>
+            <p>Amos</p>
+            <note type="transcription">The preceding text is a continuation of the fourth page of the letter.</note>
+            <p>Dear Sister</p>
+            <p>I will try and write a few words to you I am glad that you have taken a notion to learn to sing I want you to be able to sing like a lark until I get back from the army in my other letter you will find out why the album was sent from Louisville You can do what you please with the photos after giving one to Rebecca Arbaugh and one to Jim Patton and he will leave one in return you want to know what we have to eat we were on half rations until yesterday we drew full rations before this we got 11/4 loaf of bread in 5 days and it will take 3 loaves like <unclear reason="illegible" resp="JCM">these</unclear> to make one like mothers but we had us much coffee and sugar as we wanted I did not recieve the <unclear reason="illegible" resp="JCM">Mercurys</unclear> you sent yet None of the boys you mention are with me nor will they be as this department is full</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://diglib.lib.utk.edu/dlc/standards/tei/tei_lite_di_v2.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ms0012_000091_000207_0000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter,
+<name>David L. Jones</name>
+ in Nashville, Tenn., to Boys in Alleghany City, Pa.<date when="1865-04-26">1865 April 26</date>
+            </title>
+            <author>
+               <name type="person">Jones, David L., Union soldier</name>
+            </author>
+            <respStmt>
+               <resp>Responsible for machine-readable version</resp>
+               <name>Williams, Nancy</name>
+               <name>Dyson-Smith, Bridger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The University of Tennessee Libraries Digital Initiatives</publisher>
+            <pubPlace>Knoxville, TN</pubPlace>
+            <date>2013</date>
+            <idno type="SPC">0012_000091_000207_0000</idno>
+            <availability>
+               <p>The copyright interests in this collection remain with the creator. For more information,
+            contact the <ref target="http://www.lib.utk.edu/special">Special Collections
+                Library</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa., 1865 April 26</title>
+               <date>1865-04-26</date>
+               <author>
+                  <name>Jones, David L., Union soldier</name>
+               </author>
+               <extent>2 digital images; 2 pages</extent>
+               <note type="abstract">Union soldier, David L. Jones wrote to his sons from Nashville on April 26, 1865. He mentioned that his son, James, wanted David to keep the letters he received from James. He mentioned he wanted to hear more about and from the others. He talked about fruit he&apos;d seen and asked about their grapes and the weather. He told them about the weather in Nashville. He told them to behave. He enclosed a paper and a letter to his wife. He told her he was well and hoped that she and the children were well, also. He mentioned some man that was in the hospital and another man that had been there that was well. He mentioned some may be discharged.</note>
+               <note type="collection">David L. Jones Letters</note>
+               <note type="manuscript">MS.2685</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Machine-readable transcription created for the University of Tennessee Libraries
+                Special Collections.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Errors in transcription of the printed text not controlled.</p>
+            <p>Editorial tags limited to gap and unclear.</p>
+            <p>All unambigous end-of-line hyphens removed.</p>
+            <p>Catchwords and directional notes such as &quot;turn page over&quot; have been
+                omitted.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="LCSH">
+               <term>Soldiers -- Tennessee -- Correspondence.</term>
+               <term>Children of military personnel -- United States.</term>
+               <term>Families of military personnel -- United States.</term>
+               <term>United States -- History -- Civil  War, 1861-1865 -- Personal narratives.</term>
+               <term>Jones, David L., Union soldier -- Correspondence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-10-02" who="bds">Migrating from
+                XML to validated TEI P5.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="d3e157">
+            <pb n="1" facs="0012_000091_000207_0001.jpg" xml:id="d3e158"/>
+            <p>Nashville Tenn Apl 26</p>
+            <p>My Dear Boys</p>
+            <p>I thought this afternoon that I would sit down and write you a few lines I wrote James a few lines last Monday in his Mother s Letter I write too you often but you do not them somehow James wants me to keep his Letters I shall Send them Back him so he can take care of them James when you write again i wish you would write a little about Andrew Thos Sharon and the Babe I think that Andrew could write a few lines along with you you do not say whether you had your Borders made or not nor if there any sign of grapes yet I have seen some here last week and the trees are loadened down with Mullberries Tell me when you wrote to Rosa Baily and give me all the news that you know and try and be good boys and do what your Mother tells you </p>
+            <pb n="2" facs="0012_000091_000207_0002.jpg" xml:id="d3e170"/>
+            <p>you and andrew must not quarrel now you are big enough to know Better now tell me something about the weather with you it is getting Pretty warm here now it is cold morning and <unclear reason="illegible" resp="NW">Greniy &apos; s</unclear> through <unclear reason="illegible" resp="NW">Charley Magee </unclear> is sick and at the Hospital I will send you a paper along with this Letter I have nothing else to tell you at this time next time i write i may have Some more news to write to you I am your Father David</p>
+            <p>My Dear Wife</p>
+            <p>Since i answered your letter on last Monday I have nothing Particular to write to you no more than i am well hopeing that you and the children are well too <unclear reason="illegible" resp="NW">Chaley Magee</unclear> is sick and is gone to the Hospital i think that he is <unclear reason="illegible" resp="NW">Consumptive</unclear> Mr <unclear reason="illegible" resp="NW">Carnel</unclear> came here last Sabbath Just as i got your letter finished he is working at Nashville yet but he thinks that he is going to Chatanooga but i think that they will discharge good many of them John <unclear reason="illegible" resp="NW">Carnel </unclear> is well give my respects to Jane Mr &amp; Mrs White</p>
+            <p>I am yours truly David</p>
+         </div>
+      </body>
+   </text>
+</TEI>
