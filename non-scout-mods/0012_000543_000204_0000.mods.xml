@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="3.5"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">0012_000543_000204_0000</mods:identifier>
+   <mods:titleInfo>
+      <mods:title>Writ, John Sevier to Washington County, North Carolina, 1793</mods:title>
+   </mods:titleInfo>
+   <mods:abstract/>
+   <mods:originInfo>
+      <mods:dateCreated>1793</mods:dateCreated>
+      <mods:dateCreated encoding="edtf">1793</mods:dateCreated>
+   </mods:originInfo>
+   <mods:name type="personal">
+      <mods:namePart>John Sevier</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator"
+                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject>
+      <mods:topic>Blount, William, 1749-1800</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Dearborn, Henry, 1751-1829</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Henley, David, 1749-1823</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Meigs, Return Jonathan, 1740-1823</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Overton, John, 1766-1833</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Governors -- Tennessee.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>United States -- History -- War of 1812.</mods:topic>
+   </mods:subject>
+   <mods:accessCondition type="use and reproduction"
+                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
+   <mods:location>
+      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
+   </mods:location>
+   <mods:relatedItem displayLabel="Project" type="host">
+      <mods:titleInfo>
+         <mods:title>John Sevier Collection</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+         <mods:title>John Sevier Collection, 1782-1839</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+   </mods:language>
+   <mods:recordInfo>
+      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
+      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>
