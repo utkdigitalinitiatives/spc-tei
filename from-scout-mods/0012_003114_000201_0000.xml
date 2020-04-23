@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003114_000201_0000</identifier>
+   <titleInfo>
+      <title>Wesley Smith Dorris Diary, 1861-1864</title>
+   </titleInfo>
+   <abstract/>
+   <originInfo>
+      <dateCreated>1861-1864</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Dorris, Wesley Smith</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Diaries.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Tennessee.</topic>
+   </subject>
+   <subject>
+      <topic>Confederate States of America. Army.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War -- Battle of Fort Donelson, Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War -- Battle of Fort Henry, Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War -- Vicksburg Campaign, Mississippi</topic>
+   </subject>
+   <subject>
+      <topic>Soldiers -- Confederate States of America -- Biography.</topic>
+   </subject>
+   <subject>
+      <topic>Dorris, Wesley Smith, 1831-1863.</topic>
+   </subject>
+   <subject>
+      <topic>USA Major General Ulysses S. Grant</topic>
+   </subject>
+   <subject>
+      <topic>CSA President Jefferson Davis</topic>
+   </subject>
+   <subject>
+      <topic>CSA General Robert E. Lee</topic>
+   </subject>
+   <subject>
+      <topic>CSA General Albert Sidney Johnston</topic>
+   </subject>
+   <subject>
+      <topic>CSA Major General Leonidas Polk</topic>
+   </subject>
+   <subject>
+      <topic>CSA Brigadier General Simon Bolivar Buckner</topic>
+   </subject>
+   <subject>
+      <topic>CSA Brigadier General Bushrod Rust Johnson</topic>
+   </subject>
+   <subject>
+      <topic>CSA Brigadier General John B. Floyd</topic>
+   </subject>
+   <subject>
+      <topic>CSA Brigadier General Gideon Pillow</topic>
+   </subject>
+   <subject>
+      <topic>CSA Colonel Lloyd Tilghman</topic>
+   </subject>
+   <subject>
+      <topic>CSA Colonel John W. Head</topic>
+   </subject>
+   <subject>
+      <topic>CSA Colonel James J. Turner</topic>
+   </subject>
+   <subject>
+      <topic>CSA Captain R. E. Mayes</topic>
+   </subject>
+   <subject>
+      <topic>CSA Lieutenant Colonel Robert H. Murphy</topic>
+   </subject>
+   <subject>
+      <topic>CSA Major Bell G. Bidwel</topic>
+   </subject>
+   <subject>
+      <topic>CSA Colonel George W. Stacker</topic>
+   </subject>
+   <subject>
+      <topic>CSA Colonel Cyrus A. Sugg</topic>
+   </subject>
+   <subject>
+      <topic>Civil War Diaries</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Wesley Smith Dorris Diary Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

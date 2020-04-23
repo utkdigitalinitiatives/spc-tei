@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000192_000203_0000</identifier>
+   <titleInfo>
+      <title>Letter, Watson B. Smith in Knoxville, Tenn. to his father 1863 Nov. 16</title>
+   </titleInfo>
+   <abstract>Watson B. Smith wrote to his father on November 16, 1863 while serving in the Civil War. He had received a bullet in his coat collar, the nearest call he'd had. He explained he was fine and in good spirits. He sent his love to his family.</abstract>
+   <originInfo>
+      <dateCreated>1863-11-16</dateCreated>
+      <dateCreated encoding="edtf">1863-11-16</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Smith, Watson B., d. 1881</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Michigan -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Smith, Watson B., d. 1881 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865)</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Watson B. Smith Letter</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

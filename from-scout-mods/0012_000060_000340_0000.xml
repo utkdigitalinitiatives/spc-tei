@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000340_0000</identifier>
+   <titleInfo>
+      <title>1823 May 28, Letter (copy), J.G.M. Ramsey in Mecklenburg, Tenn., to Andrew Jackson at the Hermitage, near Nashville, Tenn. Draft letter, May 30, 1823, to Judge Haywood.</title>
+   </titleInfo>
+   <abstract>1823 May 28, letter (copy), J.G.M. Ramsey, Mecklenburg, Tenn., to Gen. Andrew Jackson, the Hermitage, near Nashville, Tenn. Explains his interest in publishing a pamphlet on the Mecklenburg Convention and Declaration of 1775. Reports that while visiting relatives in North Carolina, he learned of Gen. Jackson's participation in the Convention. Requests information concerning the officers of the Convention. Includes draft letter, May 30, 1823, to Judge Haywood, (North Carolina?).</abstract>
+   <originInfo>
+      <dateCreated>1823-05-28</dateCreated>
+      <dateCreated encoding="edtf">1823-05-28</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Pamphlets -- North Carolina -- Charlotte -- History -- 18th century.</topic>
+   </subject>
+   <subject>
+      <topic>Political conventions -- North Carolina -- History -- 18th century.</topic>
+   </subject>
+   <subject>
+      <topic>Declaration of intention -- North Carolina -- History -- 18th century.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee, East -- History -- 19th century -- Pamphlets.</topic>
+   </subject>
+   <subject>
+      <topic>Mecklenburg County (N.C.) -- History -- 18th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Jackson, Andrew, 1767-1845 -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>J.G.M. Ramsey Papers 1790-1869</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

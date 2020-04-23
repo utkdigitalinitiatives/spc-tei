@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000244_000202_0000</identifier>
+   <titleInfo>
+      <title/>
+   </titleInfo>
+   <abstract/>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Diaries.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives, Confederate.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Henry County, Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>E. H. Rennolds, Field Officer 5th Tennessee Infantry (CSA)</topic>
+   </subject>
+   <subject>
+      <topic>General Bates</topic>
+   </subject>
+   <subject>
+      <topic>General Beauregard</topic>
+   </subject>
+   <subject>
+      <topic>General Bragg</topic>
+   </subject>
+   <subject>
+      <topic>General Buford</topic>
+   </subject>
+   <subject>
+      <topic>General Carter</topic>
+   </subject>
+   <subject>
+      <topic>General Cheatham</topic>
+   </subject>
+   <subject>
+      <topic>Maj. Clair Insp. Gen. Army of Tenn.</topic>
+   </subject>
+   <subject>
+      <topic>General Clayton</topic>
+   </subject>
+   <subject>
+      <topic>General Cleburne</topic>
+   </subject>
+   <subject>
+      <topic>General Early</topic>
+   </subject>
+   <subject>
+      <topic>General Forrest</topic>
+   </subject>
+   <subject>
+      <topic>General Grant</topic>
+   </subject>
+   <subject>
+      <topic>General Hardee</topic>
+   </subject>
+   <subject>
+      <topic>General Hood</topic>
+   </subject>
+   <subject>
+      <topic>General Jackson</topic>
+   </subject>
+   <subject>
+      <topic>General Johnston</topic>
+   </subject>
+   <subject>
+      <topic>General Robert E. Lee</topic>
+   </subject>
+   <subject>
+      <topic>General S.D. Lee</topic>
+   </subject>
+   <subject>
+      <topic>General McLellan</topic>
+   </subject>
+   <subject>
+      <topic>General John Hunt Morgan</topic>
+   </subject>
+   <subject>
+      <topic>General Parker</topic>
+   </subject>
+   <subject>
+      <topic>General Polk</topic>
+   </subject>
+   <subject>
+      <topic>General Ross</topic>
+   </subject>
+   <subject>
+      <topic>General Smith</topic>
+   </subject>
+   <subject>
+      <topic>General Stewart</topic>
+   </subject>
+   <subject>
+      <topic>General Strahl</topic>
+   </subject>
+   <subject>
+      <topic>General Toombs</topic>
+   </subject>
+   <subject>
+      <topic>General Vaughn</topic>
+   </subject>
+   <subject>
+      <topic>General Walker</topic>
+   </subject>
+   <subject>
+      <topic>New Hope Church, Battle of, Paulding Co. Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Reseca, Battle of, Gordon Co. and Whitfield Co. Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Kennesaw Mountain, Battle of, Cobb Co., Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Atlanta, Battle of, Fulton Co., Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Jonesboro, Battle of, Clayton, Co. Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Franklin (1864), Battle of, Williamson Co., Tenn, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Nashville, Battle of, Nashville, Tenn., 1864.</topic>
+   </subject>
+   <subject>
+      <topic>Spring Hill, Battle of, Spring Hill, Maury County, Tenn., 1864.</topic>
+   </subject>
+   <subject>
+      <topic>Civil War Diaries</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>E. H. Rennolds Diaries</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

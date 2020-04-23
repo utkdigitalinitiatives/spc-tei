@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_002414_000200_0000</identifier>
+   <titleInfo>
+      <title>Letter, B. &amp; J. Bohen in Philadelphia, Pa., to Charles Pettit (Petit), 1801 June 1</title>
+   </titleInfo>
+   <abstract/>
+   <originInfo>
+      <dateCreated>1801 June 1</dateCreated>
+      <dateCreated encoding="edtf">1801-06-01</dateCreated>
+   </originInfo>
+   <name type="personal">
+      <namePart>B. &amp; J. Bohen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Adams, John Quincy, 1767-1848</topic>
+   </subject>
+   <subject>
+      <topic>Insurance Company of North America.</topic>
+   </subject>
+   <subject>
+      <topic>Madison, James, 1751-1836</topic>
+   </subject>
+   <subject>
+      <topic>Morris, Robert, 1734-1806</topic>
+   </subject>
+   <subject>
+      <topic>Webster, Daniel, 1782-1852</topic>
+   </subject>
+   <subject>
+      <topic>Insurance companies -- United States.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Insurance Company of North America</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Insurance Company of North America Records, 1792 December 1 - 1843 February 18</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

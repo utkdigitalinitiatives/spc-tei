@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000497_0000</identifier>
+   <titleInfo>
+      <title>Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn., 1882 May 11</title>
+   </titleInfo>
+   <abstract>1882 May 11 Anson Nelson, Nashville, Tenn., to J.G.M. Ramsey, Knoxville, Tenn. Expresses regret that Dr. Ramsey 's infirmities prevent him from writing. Account of the last Historical Society meeting at which J.G.M. was named Honorary President and relieved of any taxing labors for the Society. Reports that several complimentary speeches were made about him. Mentions Judge Lea 's illness and his great value to the Society.</abstract>
+   <originInfo>
+      <dateCreated>1882-05-11</dateCreated>
+      <dateCreated encoding="edtf">1882-05-11</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Nelson, Anson, 1821-1892</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Public officers -- Tennessee -- Biography.</topic>
+   </subject>
+   <subject>
+      <topic>Public officers -- Societies, etc. -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>History -- Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- Officials and employees, Honorary.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee Historical Society -- Elections, 1882.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

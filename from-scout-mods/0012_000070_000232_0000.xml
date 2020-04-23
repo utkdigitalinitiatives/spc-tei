@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000070_000232_0000</identifier>
+   <titleInfo>
+      <title>Letter, E.A. Glass in Chattanooga, Tenn. to O.P. Temple in Knoxville, Tenn., 1861 June 16</title>
+   </titleInfo>
+   <abstract>In this letter, dated June 16, 1861 E.A. Glass in Chattanooga, Tenn. writes to O.P. Temple in Knoxville, Tenn., to request that Temple write to Constable William Rogers to "indulge" him on an outstanding debt. Rogers has seized some of Glass' property in repayment of the debt. Glass suggests that if Temple does not help him, he will take advantage of recent legislation that states "debts due to Northern men cannot be forced."</abstract>
+   <originInfo>
+      <dateCreated>1861-06-16</dateCreated>
+      <dateCreated encoding="edtf">1861-06-16</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Glass, E.A.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Landowners -- Tennessee, East -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Collecting of accounts -- Tennessee, East -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Debtor and creditor -- Tennessee, East -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee, East -- Politics and government -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee, East -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Glass, E. A. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Temple, Oliver Perry, 1820-1907 -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The O.P. Temple Papers, 1861</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000172_000200_0000</identifier>
+   <titleInfo>
+      <title>Letter, Captain Albert Woodcock in Franklin, Tenn. to Leute in Place Unknown, 1863, May 6</title>
+   </titleInfo>
+   <abstract>Capt. Albert Woodcock of the 92nd Illinois who was stationed in Franklin, Tenn. wrote to his wife, Lucy (Lute), on May 6, 1863. He spoke about fatigue and the miserably cold weather. One division had moved out to attack the enemy at Spring Hill. He figured his unit would be sent out before night as a reinforcement. He reminded her to send the Capt. some articles. He hadn't received letters from her everyday so wondered if she was writing daily. He figured everybody at home was busy. He asked about the family. He felt bad that she was alone rearing the children, but told her he knew she could do it well. He told her his company was healthy and working hard and about the daily happenings at camp. He drew a small diagram of his position.</abstract>
+   <originInfo>
+      <dateCreated>1863-05-06</dateCreated>
+      <dateCreated encoding="edtf">1863-05-06</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Woodcock, Albert</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Illinois -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Franklin, Battle of, Franklin, Tenn., 1864.</topic>
+   </subject>
+   <subject>
+      <topic>Families of military personnel -- Illinois.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- Civil War, 1861-1865 -- Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic>Woodcock, Albert -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Woodcock, Lucy -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Albert Woodcock Letter, 1863, May 6</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

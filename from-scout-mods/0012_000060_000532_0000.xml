@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000532_0000</identifier>
+   <titleInfo>
+      <title>Letter, John M. Lea in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 July 21 (Incomplete)</title>
+   </titleInfo>
+   <abstract>1884 July 21, John M. Lea, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. (Incomplete) Reports that he is sending an Irish newspaper with an article on the Scotch-Irish who settled in America.</abstract>
+   <originInfo>
+      <dateCreated>1884-07-21</dateCreated>
+      <dateCreated encoding="edtf">1884-07-21</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Lea, John M.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Scots-Irish -- America -- History.</topic>
+   </subject>
+   <subject>
+      <topic>Scotland -- Emigration and immigration -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ireland -- Emigration and immigration -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Northern Whig (Belfast, Northern Ireland)</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Appreciation.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

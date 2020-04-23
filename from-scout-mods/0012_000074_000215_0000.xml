@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000074_000215_0000</identifier>
+   <titleInfo>
+      <title>Letter, John Watkins in Knoxville, Tenn. to Sarah Probert in Pittsfield, Ohio, 1864 January 3</title>
+   </titleInfo>
+   <abstract>In this letter, dated January 3, 1864, from John Watkins in Knoxville, Tenn., to Sarah Probert in Pittsfield, Ohio, Watkins complains that changes in the mail route have resulted in a decrease in letters from home. He writes also of General Foster's order to stabilize prices and the anger it has caused among Knoxville merchants. He points out that local farmers have also come into town, complaining that the Confederate occupation of the area has left them nearly "destitute."</abstract>
+   <originInfo>
+      <dateCreated>1864-01-03</dateCreated>
+      <dateCreated encoding="edtf">1864-01-03</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Watkins, John</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Letter mail handling -- Tennessee -- Knoxville -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Merchants -- Economic conditions -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Soldiers -- Ohio -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Watkins, John, b. 1839 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Ohio Independent Light Artillery Battery, 19th (1862-1865).</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The John Watkins Papers, 1863</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

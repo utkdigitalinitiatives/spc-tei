@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000336_0000</identifier>
+   <titleInfo>
+      <title>Letter, 1819?, J. Ramsey (Philadelphia?)</title>
+   </titleInfo>
+   <abstract>Letter, 1819?, from J. Ramsey (Philadelphia, Pennsylvania) describing the medical college faculty and lectures he attends. Notes the effect of Dr. Rush's death on the "fame of this University." (Written on a "Philadelphia, Nov. 15, 1819 circular" by Jospeh M. Sanderson.)</abstract>
+   <originInfo>
+      <dateCreated>1819-01-01</dateCreated>
+      <dateCreated encoding="edtf">1819-01-01</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Medical colleges -- Pennsylvania -- Philadelphia -- Faculty -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>College teachers -- Pennsylvania -- Philadelphia -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Lectures and lecturing -- Pennsylvania -- Philadelphia -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Philadelphia (Pa.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Rush, Benjamin, 1746-1813.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>J.G.M. Ramsey Papers 1790-1869</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

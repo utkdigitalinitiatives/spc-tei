@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000092_000202_0000</identifier>
+   <titleInfo>
+      <title>Letter, Southgate Cregmile in Nashville, Tenn. to Mother, 1862, September 16</title>
+   </titleInfo>
+   <abstract>1862 September 16 Southgate Cregmile in Nashville, Tenn. to his Mother (Eleanor Griffin). Tells his mother that presently all is well, only after, having means of communication cut off and/or burned, thus having to forage for food, and supporting the batteries from the most dangerous position in town, while being shelled for hours by Rebel forces commandeered by Generals Morgan and Bragg. Practically out of ammunition, the battle finally comes to an end with the return of Maj. Gen. Rosencrans. Closes with news of their currently being under marching orders, and, being led by Rosencrans, will soon start through the South driving any Rebels in their path into the Gulf to drown.</abstract>
+   <originInfo>
+      <dateCreated>1862-09-16</dateCreated>
+      <dateCreated encoding="edtf">1862-09-16</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Cregmile, Southgate, 1843-1865</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Tennessee -- Nashville -- 19th century -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Command of troops -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Generals -- United States -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Nashville (Tenn.) -- History -- Civil War, 1861-1865 -- Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic>Cregmille, Southgate, 1843-1865 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Griffin, Eleanor, 1819- -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Campaigns.</topic>
+   </subject>
+   <subject>
+      <topic>Military camps.</topic>
+   </subject>
+   <subject>
+      <topic>Military police.</topic>
+   </subject>
+   <subject>
+      <topic>Military leadership.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The Southgate Cregmile Letters, 1862-1865</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

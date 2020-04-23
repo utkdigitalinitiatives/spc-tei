@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_002976_000205_0000</identifier>
+   <titleInfo>
+      <title>Letter, George Washington in Williamsburg to Colonel Anthony Walton White, 1781 September 17</title>
+   </titleInfo>
+   <abstract>George Washington wrote this letter to Anthony Walton White on September 17, 1781 regarding expected officers and horses. Washington also mentions that the new officer should report himself and a set of instructions to the Marquis de Lafayette.</abstract>
+   <originInfo>
+      <dateCreated>1781 September 17</dateCreated>
+      <dateCreated encoding="edtf">1781-09-17</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Washington, George</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Buchanan, James, 1791-1868</topic>
+   </subject>
+   <subject>
+      <topic>Gates, Horatio, 1728-1806</topic>
+   </subject>
+   <subject>
+      <topic>Hamilton, Alexander, 1757-1804</topic>
+   </subject>
+   <subject>
+      <topic>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</topic>
+   </subject>
+   <subject>
+      <topic>Legal correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Muhlenberg, John Peter Gabriel, 1746-1807</topic>
+   </subject>
+   <subject>
+      <topic>Presidents -- United States -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Rutledge, Edward, 1749-1800</topic>
+   </subject>
+   <subject>
+      <topic>Tarleton, Lieutenant-General, (Banastre), 1754-1833</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Revolution, 1775-1783.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- Politics and government -- 1809-1817.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Congress -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Washington, George, 1732-1799</topic>
+   </subject>
+   <subject>
+      <topic>Wolcott, Oliver, 1760-1833</topic>
+   </subject>
+   <subject>
+      <topic>Revolutionary War Letters</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Greer and Vinsinger Family Collection of American Revolutionary War Documents</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Greer and Vinsinger Family Collection of Revolutional War Documents</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000563_0000</identifier>
+   <titleInfo>
+      <title>Christmas card, Nellie Alexander Gordon in Franklin, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1910 Dec. 23</title>
+   </titleInfo>
+   <abstract>1910 Dec. 23, Nellie Alexander Gordon, Franklin, Tenn., to Elizabeth Ramsey Breck, Knoxville, Tenn. Christmas card.</abstract>
+   <originInfo>
+      <dateCreated>1910-12-23</dateCreated>
+      <dateCreated encoding="edtf">1910-12-23</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Gordon, A. R. (Andrew Ruthven), Mrs.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Christmas cards -- Tennessee -- 20th century.</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.) -- History -- 20th century.</topic>
+   </subject>
+   <subject>
+      <topic>Franklin (Tenn.) -- History -- 20th century.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

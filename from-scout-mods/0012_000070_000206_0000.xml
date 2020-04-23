@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000070_000206_0000</identifier>
+   <titleInfo>
+      <title>Letter, Sam'l S. Doak in Knoxville, Tenn., to O. P. Temple in Knoxville Tenn., 1864 July 5</title>
+   </titleInfo>
+   <abstract>Letter dated July 5, 1864, Sam'l Doak in vicinity of Knoxville, Tenn. writes to O.P. Temple in Knoxville, Tenn. Enclosing and commenting on petition of McGaughey and others in favor of Smith.</abstract>
+   <originInfo>
+      <dateCreated>1864-07-05</dateCreated>
+      <dateCreated encoding="edtf">1864-07-05</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Doak, Sam&amp;l</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Petitions -- Knoxville (Tenn.) -- History -- Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Soldiers -- Tennessee, East -- History -- Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Vicksburg (Miss.)--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee, East -- History -- Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Temple, Oliver Perry, 1820-1907 -- Correspondence</topic>
+   </subject>
+   <subject>
+      <topic>Doak, Sam'l S. (Samuel Snapp), 1831-1873 -- Correspondence</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The O.P. Temple Papers, 1864</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

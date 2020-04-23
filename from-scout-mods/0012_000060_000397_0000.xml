@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000397_0000</identifier>
+   <titleInfo>
+      <title>Letter, J.G.M. Ramsey in Charlotte, N.C., 1871 March 5</title>
+   </titleInfo>
+   <abstract>J.G.M. Ramsey wrote to Charlton Lewis on March 5, 1871. He mentioned that the 1870 tax receipt for taxes on Elizabeth Breck's farm sent by Lewis had been received. His daughter, Margaret Dickson had been approached by a tax collector for payment of tax for 1869. The family thought this tax had been paid, but there was confusion about this. Ramsey offered Lewis suggestions of how to handle the tax matter. He reminded Lewis of Mrs. Breck's desire to sell her plantation, even at a lower price, due to the plantation being unprofitable. He also asked Lewis to have the Whig Register send his paper to Charlotte instead of Knoxville.</abstract>
+   <originInfo>
+      <dateCreated>1871-03-05</dateCreated>
+      <dateCreated encoding="edtf">1871-03-05</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Tax collection -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Farmers -- Taxation -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Real property tax -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Southern States -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Lewis, Charlton -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

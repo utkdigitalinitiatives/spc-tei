@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000590_000204_0000</identifier>
+   <titleInfo>
+      <title>William Holland Thomas Letterbook, 1839 April-1840 February</title>
+   </titleInfo>
+   <abstract>One of the more notable items in the William Holland Thomas and James Robert Holland Thomas collection is the large bound letter book spanning the years 1839-1840, when William Holland Thomas was in Washington fighting for the claims of the Eastern Cherokee.</abstract>
+   <originInfo>
+      <dateCreated>1839 April-1840 February</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Thomas, William Holland</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Cherokee Indians -- Biography.</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians -- History.</topic>
+   </subject>
+   <subject>
+      <topic>Confederate States of America. Army -- Biography.</topic>
+   </subject>
+   <subject>
+      <topic>Eastern Band of the Cherokee Nation</topic>
+   </subject>
+   <subject>
+      <topic>Soldiers -- Confederate States of America -- Biography.</topic>
+   </subject>
+   <subject>
+      <topic>Thomas, James Robert, 1860-1936.</topic>
+   </subject>
+   <subject>
+      <topic>Thomas, William Holland , 1805-1893.</topic>
+   </subject>
+   <subject>
+      <topic>Civil War and Reconstruction (1850-1877)</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians</topic>
+   </subject>
+   <subject>
+      <topic>Civil War Diaries</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The William Holland Thomas and James Robert Holland Thomas Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

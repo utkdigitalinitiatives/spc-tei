@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000339_0000</identifier>
+   <titleInfo>
+      <title>Letter, Rev. J.R. Bain in Gallatin, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1823 June 20</title>
+   </titleInfo>
+   <abstract>1823 June 20 Rev. J.R. Bain, Gallatin, Tenn., to Dr. J.G.M. Ramsey, Knoxville, Tenn. In reply to Dr. Ramsey's letter of May 29, 1823, relays information concerning Mecklenburg Convention gathered from Zacheras Wilson. Urges Dr. Ramsey not to be discouraged by unchristian behavior in others but to set a Christian example himself. Refers to the 1824 presidential election.</abstract>
+   <originInfo>
+      <dateCreated>1823-06-20</dateCreated>
+      <dateCreated encoding="edtf">1823-06-20</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Bain, J. R., Rev.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Christian ethics -- Tennessee -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Christians -- Conduct of life -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Conduct of life -- Religious aspects -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- Politics and government -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Bain, J. R., Rev. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Wilson, Zaccheus -- Political activity.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>J.G.M. Ramsey Papers 1790-1869</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

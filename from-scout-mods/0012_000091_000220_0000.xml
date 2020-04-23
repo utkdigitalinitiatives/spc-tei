@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000091_000220_0000</identifier>
+   <titleInfo>
+      <title>Letter, David L. Jones in Nashville, Tenn. to Anna Jones in Allegheny City, Pa, 1865 June 03</title>
+   </titleInfo>
+   <abstract>1865, June 3 David L. Jones in Nashville, Tenn., to his wife Anna M. Jones in Allegheny City, Pa. Familiarizes her with his well spent daily routine in the camp, in comparison to the other soldiers' laziness and the resulting consequences. Complains that any attempt at establishing a routine is often interrupted by constant relocation. Mentions that the barracks is presently located near the former 1800 acre spread of Rebel General Cheatham and his three sons. He describes in detail the landscape, architecture, and not so obvious religious affiliation, which his regiment shares with hundreds of soldiers of no fewer than seven other regiments in the area. Having no idea when he'll return home, assures her of his faithfulness and reminds her not to be so lenient with the boys.</abstract>
+   <originInfo>
+      <dateCreated>1865-06-03</dateCreated>
+      <dateCreated encoding="edtf">1865-06-03</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Jones, David L., Union soldier</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Tennessee -- Nashville -- History -- 19th century -- Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic>Military camps -- Anecdotes -- Tennessee -- Nashville -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Nashville (Tenn.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Jones, David L., Union Soldier -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Jones, Anna M. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Military spouses.</topic>
+   </subject>
+   <subject>
+      <topic>Families of military personnel.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David. L. Jones Letters, 1865</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

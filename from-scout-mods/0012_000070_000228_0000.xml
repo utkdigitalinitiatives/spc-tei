@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000070_000228_0000</identifier>
+   <titleInfo>
+      <title>Letter, B. Huffins in Loudon, Tenn. to S. A. Rogers in Knoxville, Tenn., 1865 June 20</title>
+   </titleInfo>
+   <abstract>Letter dated 1865 June 20 B. Huffins in Loudon, Tenn. to S. A. Rogers. Timber taken from his land in 1864 and sold to government without his consent.</abstract>
+   <originInfo>
+      <dateCreated>1865-06-20</dateCreated>
+      <dateCreated encoding="edtf">1865-06-20</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Huffins, B.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Forest landowners -- Tennessee -- Loudon County -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Logging -- Political aspects -- Tennessee -- Loudon County -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Timber -- Political aspects -- Tennessee -- Loudon County -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Loudon (Tenn.) -- Politics and government -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Huffins, B. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Rogers, S. A. (Samuel Andrew), b. 1830 -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The O.P. Temple Papers, 1865</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000425_0000</identifier>
+   <titleInfo>
+      <title>Letter, Anson Nelson in Nashville, Tenn., to J.G.M. Ramsey in Knoxville, Tenn. 1874 Nov. 11</title>
+   </titleInfo>
+   <abstract>Anson Nelson wrote to J. G. M. Ramsey on Nov. 11, 1874. He expressed gratitude for the endorsement given to him by Ramsey, the head of the [Tennessee Historical] Society. Nelson wrote in regards to the speech given by a Mr. Hoyt. He told Ramsey he felt it should be delivered a few more times before being published due to the importance of its topic (the Battle of Kings Mountain). He agreed with Ramsey that their Society should publish a journal, but had doubts after researching "The Medical Journal" and "The Teachers Journal" that such a journal would meet with much success, in terms of monetary gains, at the current time. Nelson felt they needed to reach the public and be given respect. He asked Ramsey if he knew Gov. Porter, as he did not. He felt someone should write the Governor on behalf of their Society, since he was elected as an active member the same day as he was elected Governor. Nelson mentioned their last meeting was well attended. He asked that Ramsey present him kindly to Col. Henderson.</abstract>
+   <originInfo>
+      <dateCreated>1874-11-11</dateCreated>
+      <dateCreated encoding="edtf">1874-11-11</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Nelson, Anson, 1821-1892</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Historic preservation -- Tennessee.</topic>
+   </subject>
+   <subject>
+      <topic>Societies -- Tennessee -- History.</topic>
+   </subject>
+   <subject>
+      <topic>King's Mountain, Battle of, S.C., 1780.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Revolution, 1775-1783 -- Campaigns.</topic>
+   </subject>
+   <subject>
+      <topic>Nelson, Anson, 1821-1892 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

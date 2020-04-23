@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000075_000201_0000</identifier>
+   <titleInfo>
+      <title>Letter, William A. Huddard near Knoxville, Tenn. to his father in Ohio, 1863 December 20</title>
+   </titleInfo>
+   <abstract>In this letter, dated December 20, 1863, William A. Huddard, stationed near Knoxville, Tenn., writes to his father in Ohio, discussing recent military operations around Knoxville. He explains that his brigade was sent to the "Front, being placed on the extreme left to hold the Gap between Clinch and House mountains." Also, he complains that he is "getting tired of this place," as he had not "seen a paper since leaving Chattanooga."</abstract>
+   <originInfo>
+      <dateCreated>1863-12-20</dateCreated>
+      <dateCreated encoding="edtf">1863-12-20</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Huddard, William A.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Ohio -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Strawberry Plains (Tenn.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Huddard, William A. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Ohio Infantry Regiment, 1st (1861-1864). Company D.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The William A. Huddard Papers, 1863</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

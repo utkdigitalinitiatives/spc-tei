@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000192_000200_0000</identifier>
+   <titleInfo>
+      <title>Letter, Watson B. Smith in Marysville E. Tenn. to his father, 1863 Nov. 5</title>
+   </titleInfo>
+   <abstract>Watson B. Smith wrote to his father on Nov. 5, 1863 while serving in the Civil War. He mentioned the evacuation of Soudon (Loudon). Brig. Genl. Sanders offered Smith the position of Asst. Adjt. Genl. on his staff. Smith had been acting in this position, but had not received the rank and pay. He thought his uncle might be able to help him. It had the rank of Captain and was an appointment from the President. He sent his father a copy of the letter where Sanders had requested his appointment. He thought he was well suited for the position. Gen. White had given him a wonderful recommendation and would not release him to Sanders unless he got the rank of Captain/A.A.G. He told of capturing and killing the enemy near the Little Tennessee River. The union men were exposed to a sever fire from the rebels across the river, but nobody was killed or wounded, even though they lost two horses. They captured some officers. He sent his father an autograph of Col. Wolford. He liked Maryville. He apologized for not writing sooner due to trying to learn his new job and being short-staffed. He told his father he was well and in good spirits.</abstract>
+   <originInfo>
+      <dateCreated>1863-11-05</dateCreated>
+      <dateCreated encoding="edtf">1863-11-05</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Smith, Watson B., d. 1881</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Michigan -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Promotions, Military.</topic>
+   </subject>
+   <subject>
+      <topic>War casualties.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Smith, Watson B., d. 1881 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Watson B. Smith Letter</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

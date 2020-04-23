@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000550_0000</identifier>
+   <titleInfo>
+      <title>Letter, M.C. Kuretes, M.D. in Huntersville, N.C., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1890 June 5</title>
+   </titleInfo>
+   <abstract>1890 June 5, M.C. Kuretes, M.D., Robert Ramsey's physician, Huntersville, N.C., to Elizabeth Ramsey Breck, Knoxville, Tenn. At Robert's request, informs Lizzie that he is near death. Expresses Robert's appreciation for her financial aid which helped especially with his medical expenses. Assures her that everything possible was done for Robert. States his concern for Robert's large family which will be left without support.</abstract>
+   <originInfo>
+      <dateCreated>1890-06-05</dateCreated>
+      <dateCreated encoding="edtf">1890-06-05</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Kuretes, M. C.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Terminal care -- Costs.</topic>
+   </subject>
+   <subject>
+      <topic>Family size -- Economic aspects.</topic>
+   </subject>
+   <subject>
+      <topic>Decedents' family maintenance.</topic>
+   </subject>
+   <subject>
+      <topic>Huntersville (N.C.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, Robert McGready, 1832-1890 -- Death and burial.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

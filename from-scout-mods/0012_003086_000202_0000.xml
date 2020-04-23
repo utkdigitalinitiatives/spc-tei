@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003086_000202_0000</identifier>
+   <titleInfo>
+      <title/>
+   </titleInfo>
+   <abstract/>
+   <subject>
+      <topic>Episcopal Church -- Clergy.</topic>
+   </subject>
+   <subject>
+      <topic>Nenana (Alaska).</topic>
+   </subject>
+   <subject>
+      <topic>Tanana (Alaska).</topic>
+   </subject>
+   <subject>
+      <topic>Seattle (Wash.)</topic>
+   </subject>
+   <subject>
+      <topic>New York (City).</topic>
+   </subject>
+   <subject>
+      <topic>Mount Hermon School.</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Tatum, Robert G.</topic>
+   </subject>
+   <subject>
+      <topic>Stuck, Hudson, 1863-1920.</topic>
+   </subject>
+   <subject>
+      <topic>Harper, Walter, 1892-1918.</topic>
+   </subject>
+   <subject>
+      <topic>Cruikshank, Moses, 1904-1996.</topic>
+   </subject>
+   <subject>
+      <topic>Sled dogs -- Alaska.</topic>
+   </subject>
+   <subject>
+      <topic>SS Alameda.</topic>
+   </subject>
+   <subject>
+      <topic>SS Admiral Watson.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Robert G. Tatum Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Robert G. Tatum Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

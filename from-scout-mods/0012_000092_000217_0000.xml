@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000092_000217_0000</identifier>
+   <titleInfo>
+      <title>Letter, Southgate Cregmile in Chattanooga, Tenn. to Crittenden Cregmile, 1863, November 1</title>
+   </titleInfo>
+   <abstract>1863 November 1 Southgate Cregmile in Chattanooga, Tenn., to his brother Crittenden. Acknowledges receiving his letter and assures him that all the hometown boys are well. Discusses the layout of the camp and its vulnerability to enemy fire. Describes Gen. Longstreet's men as cleverly wearing blue uniforms just like theirs; but, on the other hand, also emphasizes the fact that Gen. Bragg's men have located their cannons too far out of range to do any damage. Makes note of his brigade's new picket schedule. Thanks him for the photo he sent of himself and asks that their brother Magnum send one of himself as well. Asks him to write soon.</abstract>
+   <originInfo>
+      <dateCreated>1863-11-01</dateCreated>
+      <dateCreated encoding="edtf">1863-11-01</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Cregmille, Southgate, 1843-1865</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Military camps -- Tennessee -- Chattanooga -- History -- 19th century -- Social conditions.</topic>
+   </subject>
+   <subject>
+      <topic>Command of troops -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Military planning -- United States -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Chattanooga (Tn.) -- History -- Civil War, 1861-1865 -- Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic>Cregmile, Southgate, 1843-1865 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Cregmile, Crittenden, 1845- -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Anecdotes.</topic>
+   </subject>
+   <subject>
+      <topic>Military leadership.</topic>
+   </subject>
+   <subject>
+      <topic>Military tactics.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The Southgate Cregmile Letters, 1862-1865</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

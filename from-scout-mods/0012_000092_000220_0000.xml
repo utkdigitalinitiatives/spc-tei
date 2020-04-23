@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000092_000220_0000</identifier>
+   <titleInfo>
+      <title>Letter, John Cregmile in Sillwell's Corner, Ohio to Crittendon Cregmile, 1865 April 13</title>
+   </titleInfo>
+   <abstract>1865 April 13 John Cregmile in Stillwell's Corner, Ohio, to his son Crittenden. Writes of his sorrow at hearing of Crit's poor health; and that, both Southgate and James Rea have been wounded. Hopes that soon everyone will be well. Urges him to try and get a furlough and come home if not better soon. Has enclosed ten dollars and asks him to send some money to his brother and James, if he gets paid first. Would like to know where and what hospital Southgate is in. Hopeful that he will receive news of surrender before this letter arrives. Sends his best to everyone there and hopes how soon all will be returned to their homes with the honor due brave and true men.</abstract>
+   <originInfo>
+      <dateCreated>1865-04-13</dateCreated>
+      <dateCreated encoding="edtf">1865-04-13</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Cregmile, John, 1811-1888</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Families of military personnel -- United States -- History -- 19th century -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Soldiers -- United States -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ohio -- History -- Civil War, 1861-1865 -- Social aspects.</topic>
+   </subject>
+   <subject>
+      <topic>Cregmile, John, 1811-1888 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Cregmile, Crittenden, 1845- -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>War casualties.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The Southgate Cregmile Letters, 1862-1865</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

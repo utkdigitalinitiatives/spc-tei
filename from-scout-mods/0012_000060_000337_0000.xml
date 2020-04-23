@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000337_0000</identifier>
+   <titleInfo>
+      <title>Letter, J.G.M Ramsey in Philadelphia, Penn., to "Gentlemen of Philadelphia." 1819 Nov. 19</title>
+   </titleInfo>
+   <abstract>1819 Nov. 19, J.G.M Ramsey, Philadelphia, Penn., to "Gentlemen of Philadelphia" . Apparently, a speech or letter to a newspaper in which he discusses the problem of foreigners who have come to America to improve their condition and can find no work because of the present business depression. Urges his countrymen to help them. Settlement of the western states by immigrants offered as a solution to this dilemma.</abstract>
+   <originInfo>
+      <dateCreated>1819-11-19</dateCreated>
+      <dateCreated encoding="edtf">1819-11-19</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Letters to the editor -- Pennsylvania -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Immigrants -- Pennsylvania -- Economic conditions -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Land settlement -- West (U.S.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Philadelphia (Pa.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Friends and associates.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>J.G.M. Ramsey Papers 1790-1869</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

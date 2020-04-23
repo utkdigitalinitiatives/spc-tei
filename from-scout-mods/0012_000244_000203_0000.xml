@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000244_000203_0000</identifier>
+   <titleInfo>
+      <title/>
+   </titleInfo>
+   <abstract/>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865--Diaries.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives, Confederate.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Henry County, Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>E. H. Rennolds, Field Officer 5th Tennessee Infantry (CSA)</topic>
+   </subject>
+   <subject>
+      <topic>General J.D.C. Atkins</topic>
+   </subject>
+   <subject>
+      <topic>General W. B. Bates</topic>
+   </subject>
+   <subject>
+      <topic>General G. T. Beauregard</topic>
+   </subject>
+   <subject>
+      <topic>General Bragg</topic>
+   </subject>
+   <subject>
+      <topic>General Braxton Bragg</topic>
+   </subject>
+   <subject>
+      <topic>General Buell</topic>
+   </subject>
+   <subject>
+      <topic>General Cheatham</topic>
+   </subject>
+   <subject>
+      <topic>General Clayton</topic>
+   </subject>
+   <subject>
+      <topic>General Cleburn</topic>
+   </subject>
+   <subject>
+      <topic>General N.B. Forrest</topic>
+   </subject>
+   <subject>
+      <topic>General U.S. Grant</topic>
+   </subject>
+   <subject>
+      <topic>General W. J. Hardee</topic>
+   </subject>
+   <subject>
+      <topic>General J. B. Hood</topic>
+   </subject>
+   <subject>
+      <topic>General Joe. E. JOhnston</topic>
+   </subject>
+   <subject>
+      <topic>General A. S. Johnston</topic>
+   </subject>
+   <subject>
+      <topic>General Kearney</topic>
+   </subject>
+   <subject>
+      <topic>General S. D. Lee</topic>
+   </subject>
+   <subject>
+      <topic>General R. E. Lee</topic>
+   </subject>
+   <subject>
+      <topic>General Lewis</topic>
+   </subject>
+   <subject>
+      <topic>General McPherson</topic>
+   </subject>
+   <subject>
+      <topic>General Pemberton</topic>
+   </subject>
+   <subject>
+      <topic>General Polk</topic>
+   </subject>
+   <subject>
+      <topic>General Leonidas Polk</topic>
+   </subject>
+   <subject>
+      <topic>General Prentiss</topic>
+   </subject>
+   <subject>
+      <topic>General Robertson</topic>
+   </subject>
+   <subject>
+      <topic>General Rosencrans</topic>
+   </subject>
+   <subject>
+      <topic>General Sherman</topic>
+   </subject>
+   <subject>
+      <topic>General Preston Smith</topic>
+   </subject>
+   <subject>
+      <topic>General A. P. Stewart</topic>
+   </subject>
+   <subject>
+      <topic>General O. F. Strahl</topic>
+   </subject>
+   <subject>
+      <topic>General Wilson</topic>
+   </subject>
+   <subject>
+      <topic>Perryville, Battle of, Boyle County, Kentucky, 1862</topic>
+   </subject>
+   <subject>
+      <topic>Vicksburg, Battle of, Jackson, Miss., 1863.</topic>
+   </subject>
+   <subject>
+      <topic>Chickamauga, Battle of, Chicamauga, Tenn., 1863.</topic>
+   </subject>
+   <subject>
+      <topic>Missionary Ridge, Battle of, Chattanooga, Tenn., 1863</topic>
+   </subject>
+   <subject>
+      <topic>Fort Donelson, Battle of, Stewart County, Tenn., 1863.</topic>
+   </subject>
+   <subject>
+      <topic>Franklin, Battle of, Franklin, Tenn., 1864.</topic>
+   </subject>
+   <subject>
+      <topic>Nashville, Battle of, Nashville, Tenn., 1864.</topic>
+   </subject>
+   <subject>
+      <topic>Spring Hill, Battle of, Spring Hill, Maury County, Tenn., 1864.</topic>
+   </subject>
+   <subject>
+      <topic>Jonesboro, Battle of, Clayton Co., Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Peachtree Creek, Battle of, Fulton Co., Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Kennesaw Mountain, Battle of, Cobb Co., Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Reseca, Battle of, Gordon Co. and Whitfield Co. Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>New Hope church, Battle of, Paulding Co. Georgia, 1864</topic>
+   </subject>
+   <subject>
+      <topic>Civil War Diaries</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>E. H. Rennolds Diaries</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

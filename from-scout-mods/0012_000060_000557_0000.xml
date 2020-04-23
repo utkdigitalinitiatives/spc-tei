@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000557_0000</identifier>
+   <titleInfo>
+      <title>Letter, L.W. Youmans in Fairfax, S.C., to Mrs. E.A.R. Breck in Knoxville, Tenn. 1904 Apr. 18</title>
+   </titleInfo>
+   <abstract>1904 Apr. 18, L.W. Youmans, Planter and dealer in General Merchandise, Fairfax, S.C., to Mrs. E.A.R. Breck, Knoxville, Tenn. Thanks Elizabeth for sending him a copy of Lyman Draper's book, Lives of the House of King 's Mountain. Feels that it furnished material for other books, including Roosevelt's Winning of the West. Remarks that high prices have induced him to plant more cotton. Remembrance of Henry and Bessie Lenoir.</abstract>
+   <originInfo>
+      <dateCreated>1904-04-18</dateCreated>
+      <dateCreated encoding="edtf">1904-04-18</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Youmans, L. W.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>King's Mountain, Battle of, S.C., 1780 -- Sources.</topic>
+   </subject>
+   <subject>
+      <topic>Cotton -- Prices -- South Carolina -- Fairfax -- 20th century.</topic>
+   </subject>
+   <subject>
+      <topic>Cotton growing -- South Carolina -- Fairfax -- 20th century.</topic>
+   </subject>
+   <subject>
+      <topic>South Carolina -- History -- Revolution, 1775-1783 -- Sources.</topic>
+   </subject>
+   <subject>
+      <topic>East (U.S.) -- History -- Revolution, 1775-1783 -- Sources.</topic>
+   </subject>
+   <subject>
+      <topic>Draper, Lyman Copeland, 1815-1891 -- King's Mountain and its heroes.</topic>
+   </subject>
+   <subject>
+      <topic>Roosevelt, Theodore, 1858-1919 -- Winning of the West.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+          University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>
