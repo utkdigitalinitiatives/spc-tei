@@ -1,242 +1,242 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000244_000201_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title/>
-   </mods:titleInfo>
-   <mods:abstract/>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Diaries.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives, Confederate.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Henry County, Tennessee</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>E. H. Rennolds, Field Officer 5th Tennessee Infantry (CSA)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>President Jefferson Davis</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Adams</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Beauregard</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Bragg</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Breckinridge</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Buckner</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Burnside</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Cheatham</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Churchill</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Cleburne</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Cooper</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Early</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Forrest</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Gracie</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Grant</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Hardee</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Helm</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General D.H. Hill</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Hindman</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Hood</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Hooker</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Johnston</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Joe Johnston</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Longstreet</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Magruder</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Maney</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Martin</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General McCook</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General McCown</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Morgan</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Paxton</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Pegram</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Pillow</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Polk</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Pryor</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Riggins</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Rosecrans</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Preston Smith</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Stevenson</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Stewart</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Van Dorn</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Wharton</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Wheeler</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Wilson</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>General Withers</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Shiloh, Battle of, Hardin Co., Tenn., 1862</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Perryville, Battle of, Boyle County, Kentucky, 1862</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Murphreesboro, Battle of, Tennessee, 1862-1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Galveston, Battle of, Texas, 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Fort Henry, Battle of, Stewart, Henry, Calloway Co, Tn-Ky, 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Fort Donelson, Battle of, Stewart Co., Tenn., 1863.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Charleston Harbor, First Battle of, Charleston, S.C., 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Thompson's Station, Battle of, Williamson Co., Tenn, 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Fort Heiman, Calloway Co., Ky, 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tullahoma Campaign, Tullahoma, Tenn., 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Port Hudson, Siege of, Baton Rouge, La., 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Vicksburg, Battle of, Jackson, Miss., 1863.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Fort Heiman, Calloway Co., Ky, 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Chickamauga, Battle of, Chicamauga, Tenn., 1863.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Lookout Mountain, Battle Of, Chattanooga, Tenn., 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Missionary Ridge, Battle Of, Chattanooga, Tenn., 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ringgold Gap, Battle Of, Catoosa Co., Georgia., 1863</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Civil War Diaries</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>E. H. Rennolds Diaries</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000244_000201_0000</identifier>
+   <titleInfo>
+      <title/>
+   </titleInfo>
+   <abstract/>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Diaries.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives, Confederate.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Henry County, Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>E. H. Rennolds, Field Officer 5th Tennessee Infantry (CSA)</topic>
+   </subject>
+   <subject>
+      <topic>President Jefferson Davis</topic>
+   </subject>
+   <subject>
+      <topic>General Adams</topic>
+   </subject>
+   <subject>
+      <topic>General Beauregard</topic>
+   </subject>
+   <subject>
+      <topic>General Bragg</topic>
+   </subject>
+   <subject>
+      <topic>General Breckinridge</topic>
+   </subject>
+   <subject>
+      <topic>General Buckner</topic>
+   </subject>
+   <subject>
+      <topic>General Burnside</topic>
+   </subject>
+   <subject>
+      <topic>General Cheatham</topic>
+   </subject>
+   <subject>
+      <topic>General Churchill</topic>
+   </subject>
+   <subject>
+      <topic>General Cleburne</topic>
+   </subject>
+   <subject>
+      <topic>General Cooper</topic>
+   </subject>
+   <subject>
+      <topic>General Early</topic>
+   </subject>
+   <subject>
+      <topic>General Forrest</topic>
+   </subject>
+   <subject>
+      <topic>General Gracie</topic>
+   </subject>
+   <subject>
+      <topic>General Grant</topic>
+   </subject>
+   <subject>
+      <topic>General Hardee</topic>
+   </subject>
+   <subject>
+      <topic>General Helm</topic>
+   </subject>
+   <subject>
+      <topic>General D.H. Hill</topic>
+   </subject>
+   <subject>
+      <topic>General Hindman</topic>
+   </subject>
+   <subject>
+      <topic>General Hood</topic>
+   </subject>
+   <subject>
+      <topic>General Hooker</topic>
+   </subject>
+   <subject>
+      <topic>General Johnston</topic>
+   </subject>
+   <subject>
+      <topic>General Joe Johnston</topic>
+   </subject>
+   <subject>
+      <topic>General Longstreet</topic>
+   </subject>
+   <subject>
+      <topic>General Magruder</topic>
+   </subject>
+   <subject>
+      <topic>General Maney</topic>
+   </subject>
+   <subject>
+      <topic>General Martin</topic>
+   </subject>
+   <subject>
+      <topic>General McCook</topic>
+   </subject>
+   <subject>
+      <topic>General McCown</topic>
+   </subject>
+   <subject>
+      <topic>General Morgan</topic>
+   </subject>
+   <subject>
+      <topic>General Paxton</topic>
+   </subject>
+   <subject>
+      <topic>General Pegram</topic>
+   </subject>
+   <subject>
+      <topic>General Pillow</topic>
+   </subject>
+   <subject>
+      <topic>General Polk</topic>
+   </subject>
+   <subject>
+      <topic>General Pryor</topic>
+   </subject>
+   <subject>
+      <topic>General Riggins</topic>
+   </subject>
+   <subject>
+      <topic>General Rosecrans</topic>
+   </subject>
+   <subject>
+      <topic>General Preston Smith</topic>
+   </subject>
+   <subject>
+      <topic>General Stevenson</topic>
+   </subject>
+   <subject>
+      <topic>General Stewart</topic>
+   </subject>
+   <subject>
+      <topic>General Van Dorn</topic>
+   </subject>
+   <subject>
+      <topic>General Wharton</topic>
+   </subject>
+   <subject>
+      <topic>General Wheeler</topic>
+   </subject>
+   <subject>
+      <topic>General Wilson</topic>
+   </subject>
+   <subject>
+      <topic>General Withers</topic>
+   </subject>
+   <subject>
+      <topic>Shiloh, Battle of, Hardin Co., Tenn., 1862</topic>
+   </subject>
+   <subject>
+      <topic>Perryville, Battle of, Boyle County, Kentucky, 1862</topic>
+   </subject>
+   <subject>
+      <topic>Murphreesboro, Battle of, Tennessee, 1862-1863</topic>
+   </subject>
+   <subject>
+      <topic>Galveston, Battle of, Texas, 1863</topic>
+   </subject>
+   <subject>
+      <topic>Fort Henry, Battle of, Stewart, Henry, Calloway Co, Tn-Ky, 1863</topic>
+   </subject>
+   <subject>
+      <topic>Fort Donelson, Battle of, Stewart Co., Tenn., 1863.</topic>
+   </subject>
+   <subject>
+      <topic>Charleston Harbor, First Battle of, Charleston, S.C., 1863</topic>
+   </subject>
+   <subject>
+      <topic>Thompson's Station, Battle of, Williamson Co., Tenn, 1863</topic>
+   </subject>
+   <subject>
+      <topic>Fort Heiman, Calloway Co., Ky, 1863</topic>
+   </subject>
+   <subject>
+      <topic>Tullahoma Campaign, Tullahoma, Tenn., 1863</topic>
+   </subject>
+   <subject>
+      <topic>Port Hudson, Siege of, Baton Rouge, La., 1863</topic>
+   </subject>
+   <subject>
+      <topic>Vicksburg, Battle of, Jackson, Miss., 1863.</topic>
+   </subject>
+   <subject>
+      <topic>Fort Heiman, Calloway Co., Ky, 1863</topic>
+   </subject>
+   <subject>
+      <topic>Chickamauga, Battle of, Chicamauga, Tenn., 1863.</topic>
+   </subject>
+   <subject>
+      <topic>Lookout Mountain, Battle Of, Chattanooga, Tenn., 1863</topic>
+   </subject>
+   <subject>
+      <topic>Missionary Ridge, Battle Of, Chattanooga, Tenn., 1863</topic>
+   </subject>
+   <subject>
+      <topic>Ringgold Gap, Battle Of, Catoosa Co., Georgia., 1863</topic>
+   </subject>
+   <subject>
+      <topic>Civil War Diaries</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>E. H. Rennolds Diaries</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

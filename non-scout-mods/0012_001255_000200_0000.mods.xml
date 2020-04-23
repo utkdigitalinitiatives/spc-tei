@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_001255_000200_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, John Bell in Nashville, Tenn., 1844 Aug. 30</mods:title>
-   </mods:titleInfo>
-   <mods:abstract/>
-   <mods:originInfo>
-      <mods:dateCreated>1844 Aug. 30</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1844-08-30</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name type="personal">
-      <mods:namePart>John Bell</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Brownlow, William Gannaway, 1805-1877</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Clay, Henry, 1777-1852</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee -- Politics and government -- To 1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- Politics and government -- 1815-1861.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>John Bell Letter</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_001255_000200_0000</identifier>
+   <titleInfo>
+      <title>Letter, John Bell in Nashville, Tenn., 1844 Aug. 30</title>
+   </titleInfo>
+   <abstract/>
+   <originInfo>
+      <dateCreated>1844 Aug. 30</dateCreated>
+      <dateCreated encoding="edtf">1844-08-30</dateCreated>
+   </originInfo>
+   <name type="personal">
+      <namePart>John Bell</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Brownlow, William Gannaway, 1805-1877</topic>
+   </subject>
+   <subject>
+      <topic>Clay, Henry, 1777-1852</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- Politics and government -- To 1865.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- Politics and government -- 1815-1861.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>John Bell Letter</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

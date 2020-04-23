@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000406_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, J.G.M. Ramsey in Riverside, Tenn., to Elizabeth Ramsey Breck near Charlotte, N.C. 1872 Jan. 7</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>J.G.M. Ramsey wrote to his daughter, Elizabeth (Liddy) on Jan. 7, 1872. He mentioned it was normal for family members not to be near each other forever and we should be content and happy even if there are voids and try to make others happy. He told her kindness was cheap and made others and ourselves feel better. He told her about the miserable weather. He talked about money being hard to come by. He said Presbyterians were scarce around Lebanon since the war. He was content with all he had. He told her to wait to visit until spring and he would pay for her trip. He wondered how business was in North Carolina. He told her credit was bad in Tennessee, even for the rich. He mentioned that McKnitt may be able to enter business in Knoxville although the area was depressed economically.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1872-01-07</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1872-01-07</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Separation (Psychology)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Kindness.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Presbyterians -- Tennessee -- Lebanon.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Charlotte (N.C.) -- Economic conditions -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Knoxville (Tenn.) -- Economic conditions -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000406_0000</identifier>
+   <titleInfo>
+      <title>Letter, J.G.M. Ramsey in Riverside, Tenn., to Elizabeth Ramsey Breck near Charlotte, N.C. 1872 Jan. 7</title>
+   </titleInfo>
+   <abstract>J.G.M. Ramsey wrote to his daughter, Elizabeth (Liddy) on Jan. 7, 1872. He mentioned it was normal for family members not to be near each other forever and we should be content and happy even if there are voids and try to make others happy. He told her kindness was cheap and made others and ourselves feel better. He told her about the miserable weather. He talked about money being hard to come by. He said Presbyterians were scarce around Lebanon since the war. He was content with all he had. He told her to wait to visit until spring and he would pay for her trip. He wondered how business was in North Carolina. He told her credit was bad in Tennessee, even for the rich. He mentioned that McKnitt may be able to enter business in Knoxville although the area was depressed economically.</abstract>
+   <originInfo>
+      <dateCreated>1872-01-07</dateCreated>
+      <dateCreated encoding="edtf">1872-01-07</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Separation (Psychology)</topic>
+   </subject>
+   <subject>
+      <topic>Kindness.</topic>
+   </subject>
+   <subject>
+      <topic>Presbyterians -- Tennessee -- Lebanon.</topic>
+   </subject>
+   <subject>
+      <topic>Charlotte (N.C.) -- Economic conditions -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.) -- Economic conditions -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823- -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

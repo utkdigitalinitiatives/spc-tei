@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000390_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Arthur C. Crozier in Knoxville, Tenn., to J.G.M. Ramsey in Salisbury, N.C. 1871 Jan. 12</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>Arthur C. Crozier wrote this letter to his brother-in-law, J.G.M. Ramsey, on January 12, 1871. He mentioned one of Dr. Ramsey’s law cases. He had no news about the Brakebill matter, but hoped that payment would be realized from it without a lawsuit. He told Ramsey of his future plans to move to a farm near Knoxville where he hoped to find some business, even though he was doubtful due to some conflicts in regards to a misunderstanding he'd had with someone.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1871-01-12</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1871-01-12</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Crozier, Arthur C.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Liability (Law)--United States.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Dispute resolution (Law)--United States.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States--Trials, litigation, etc.--19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee--History--Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Crozier, Arthur C.--Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884--Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000390_0000</identifier>
+   <titleInfo>
+      <title>Letter, Arthur C. Crozier in Knoxville, Tenn., to J.G.M. Ramsey in Salisbury, N.C. 1871 Jan. 12</title>
+   </titleInfo>
+   <abstract>Arthur C. Crozier wrote this letter to his brother-in-law, J.G.M. Ramsey, on January 12, 1871. He mentioned one of Dr. Ramsey’s law cases. He had no news about the Brakebill matter, but hoped that payment would be realized from it without a lawsuit. He told Ramsey of his future plans to move to a farm near Knoxville where he hoped to find some business, even though he was doubtful due to some conflicts in regards to a misunderstanding he'd had with someone.</abstract>
+   <originInfo>
+      <dateCreated>1871-01-12</dateCreated>
+      <dateCreated encoding="edtf">1871-01-12</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Crozier, Arthur C.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Liability (Law)--United States.</topic>
+   </subject>
+   <subject>
+      <topic>Dispute resolution (Law)--United States.</topic>
+   </subject>
+   <subject>
+      <topic>United States--Trials, litigation, etc.--19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--History--Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Crozier, Arthur C.--Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884--Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

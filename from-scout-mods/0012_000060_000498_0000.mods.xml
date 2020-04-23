@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000498_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>J.G.M. Ramsey, Knoxville, Tenn., to his executors and J. G. McKnitt Ramsey, June 26, 1882</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>June 26, 1882 J.G.M. Ramsey, Knoxville, Tenn., to his executors. Information concerning a debt owed by J.G.M. to his daughter, Elizabeth, and one owed to the Lenoir Manufacturing Co., both of which are to be paid by his executors.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1882-06-26</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1882-06-26</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Power of attorney -- Tennessee -- Knoxville</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Will</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823-</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000498_0000</identifier>
+   <titleInfo>
+      <title>J.G.M. Ramsey, Knoxville, Tenn., to his executors and J. G. McKnitt Ramsey, June 26, 1882</title>
+   </titleInfo>
+   <abstract>June 26, 1882 J.G.M. Ramsey, Knoxville, Tenn., to his executors. Information concerning a debt owed by J.G.M. to his daughter, Elizabeth, and one owed to the Lenoir Manufacturing Co., both of which are to be paid by his executors.</abstract>
+   <originInfo>
+      <dateCreated>1882-06-26</dateCreated>
+      <dateCreated encoding="edtf">1882-06-26</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Power of attorney -- Tennessee -- Knoxville</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Will</topic>
+   </subject>
+   <subject>
+      <topic>Breck, E. A. R. (Elizabeth Alexander Ramsey), 1823-</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000070_000212_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, John B. Brownlow in Bulls Gap, Tenn. to O. P. Temple in Knoxville, Tenn., 1864 September 09</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>1864 September 9 John B. Brownlow, Hdqtrs. 9th Tenn. Cav., In field, Bulls Gap, Tenn., to O.P. Temple. Will arrange transport of property of Temple and brothers to Knoxville by impressing teams of "rebels" experiences as a soldier.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1864-09-09</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1864-09-09</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Brownlow, John B.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Impressment -- Tennessee -- History -- Civil War, 1861-1865</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee -- History -- Civil War, 1861-1865 -- Personal narratives.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Brownlow, John Bell, 1839-1922 -- Correspondence</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Temple, Oliver Perry, 1820-1907 -- Correspondence</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>The O.P. Temple Papers, 1864</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000070_000212_0000</identifier>
+   <titleInfo>
+      <title>Letter, John B. Brownlow in Bulls Gap, Tenn. to O. P. Temple in Knoxville, Tenn., 1864 September 09</title>
+   </titleInfo>
+   <abstract>1864 September 9 John B. Brownlow, Hdqtrs. 9th Tenn. Cav., In field, Bulls Gap, Tenn., to O.P. Temple. Will arrange transport of property of Temple and brothers to Knoxville by impressing teams of "rebels" experiences as a soldier.</abstract>
+   <originInfo>
+      <dateCreated>1864-09-09</dateCreated>
+      <dateCreated encoding="edtf">1864-09-09</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Brownlow, John B.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Impressment -- Tennessee -- History -- Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- Civil War, 1861-1865 -- Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic>Brownlow, John Bell, 1839-1922 -- Correspondence</topic>
+   </subject>
+   <subject>
+      <topic>Temple, Oliver Perry, 1820-1907 -- Correspondence</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The O.P. Temple Papers, 1864</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

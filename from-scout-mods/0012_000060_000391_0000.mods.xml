@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000391_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, T.R. Cornick in Knoxville, Tenn., to J.G.M. Ramsey in Charlotte, N.C. 1871 Jan. 16</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>Atty. T. R. Cornick wrote to J.G.M. Ramsey on January 16, 1871. He mentioned Ramsey's son's court case against Mead should be heard in mid-February, 1871. Cornick reassured Ramsey of all the effort he had put into the case and about his belief they would win the case. Cornick wrote about a serious injury to his arm. He mentioned a case involving Ramsey in the U. S. Supreme Court in which he was not involved. He said one partner in the firm representing Ramsey might weaken Ramsey's chances because of his sympathy for the South. He made reference to the case of Brownlow and Ross versus Lyon and Ramsey about which he felt uncertain, even though he had put a lot of work into it.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1871-01-16</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1871-01-16</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Cornick, T. R.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Law -- Tennessee.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Lawyers -- Tennessee -- Knoxville -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Trials -- Tennessee -- Knoxville.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee -- History -- 1865-1877.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Knoxville (Tenn.) -- Trials, litigation, etc.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Cornick, T. R. -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884 -- Trials, litigation, etc.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000391_0000</identifier>
+   <titleInfo>
+      <title>Letter, T.R. Cornick in Knoxville, Tenn., to J.G.M. Ramsey in Charlotte, N.C. 1871 Jan. 16</title>
+   </titleInfo>
+   <abstract>Atty. T. R. Cornick wrote to J.G.M. Ramsey on January 16, 1871. He mentioned Ramsey's son's court case against Mead should be heard in mid-February, 1871. Cornick reassured Ramsey of all the effort he had put into the case and about his belief they would win the case. Cornick wrote about a serious injury to his arm. He mentioned a case involving Ramsey in the U. S. Supreme Court in which he was not involved. He said one partner in the firm representing Ramsey might weaken Ramsey's chances because of his sympathy for the South. He made reference to the case of Brownlow and Ross versus Lyon and Ramsey about which he felt uncertain, even though he had put a lot of work into it.</abstract>
+   <originInfo>
+      <dateCreated>1871-01-16</dateCreated>
+      <dateCreated encoding="edtf">1871-01-16</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Cornick, T. R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Law -- Tennessee.</topic>
+   </subject>
+   <subject>
+      <topic>Lawyers -- Tennessee -- Knoxville -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Trials -- Tennessee -- Knoxville.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- 1865-1877.</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.) -- Trials, litigation, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Cornick, T. R. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884 -- Trials, litigation, etc.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

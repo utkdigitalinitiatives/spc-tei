@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000441_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Invitation from the Essex Institute in Salem, Mass. 1878 Aug. 24</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>1878 Aug. 24 Essex Institute, Salem, Mass., to the President of the Tennessee Historical Society, Nashville, Tenn. Engraved invitation to the commemoration of the 250th anniversary of the landing of Gov. Endicott at Salem to be held Sept. 18, 1878. Also enclosed is a complimentary ticket to lunch and to exercises at Mechanics Hall.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1878-08-24</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1878-08-24</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Essex Institute</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Governors -- Massachusetts -- Salem -- History -- 17th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Luncheons -- Massachusetts -- Salem -- Anniversaries, etc.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Invitation cards -- Massachusetts -- Salem -- Anniversaries, etc.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Salem (Mass.) -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Nashville (Tenn.) -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Essex Institute.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Endecott, John, 1588?-1665 -- Anniversaries, etc.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000441_0000</identifier>
+   <titleInfo>
+      <title>Invitation from the Essex Institute in Salem, Mass. 1878 Aug. 24</title>
+   </titleInfo>
+   <abstract>1878 Aug. 24 Essex Institute, Salem, Mass., to the President of the Tennessee Historical Society, Nashville, Tenn. Engraved invitation to the commemoration of the 250th anniversary of the landing of Gov. Endicott at Salem to be held Sept. 18, 1878. Also enclosed is a complimentary ticket to lunch and to exercises at Mechanics Hall.</abstract>
+   <originInfo>
+      <dateCreated>1878-08-24</dateCreated>
+      <dateCreated encoding="edtf">1878-08-24</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Essex Institute</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Governors -- Massachusetts -- Salem -- History -- 17th century.</topic>
+   </subject>
+   <subject>
+      <topic>Luncheons -- Massachusetts -- Salem -- Anniversaries, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Invitation cards -- Massachusetts -- Salem -- Anniversaries, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Salem (Mass.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Nashville (Tenn.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Essex Institute.</topic>
+   </subject>
+   <subject>
+      <topic>Endecott, John, 1588?-1665 -- Anniversaries, etc.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

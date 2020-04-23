@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000460_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Aug. 12</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>1880 Aug. 12 Lyman C. Draper, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Presents evidence showing that very few Tennesseans were at the Cowpens. Believes that only four Tennesseans took part and these were volunteers. Mentions that a sketch of the writer's life has just been written.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1880-08-12</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1880-08-12</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Nelson, Anson, 1821-1892</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Cowpens, Battle of, Cowpens, S.C., 1781.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>King's Mountain, Battle of, S.C., 1780.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee -- History -- Revolution, 1775-1783 -- Sources.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Revolution, 1775-1783 -- Sources.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Graham, James. Life of General Daniel Morgan.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000460_0000</identifier>
+   <titleInfo>
+      <title>Letter, Lyman C. Draper in Madison, Wis., to J.G.M. Ramsey in Knoxville, Tenn. 1880 Aug. 12</title>
+   </titleInfo>
+   <abstract>1880 Aug. 12 Lyman C. Draper, Madison, Wis., to J.G.M. Ramsey, Knoxville, Tenn. Presents evidence showing that very few Tennesseans were at the Cowpens. Believes that only four Tennesseans took part and these were volunteers. Mentions that a sketch of the writer's life has just been written.</abstract>
+   <originInfo>
+      <dateCreated>1880-08-12</dateCreated>
+      <dateCreated encoding="edtf">1880-08-12</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Nelson, Anson, 1821-1892</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Cowpens, Battle of, Cowpens, S.C., 1781.</topic>
+   </subject>
+   <subject>
+      <topic>King's Mountain, Battle of, S.C., 1780.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- Revolution, 1775-1783 -- Sources.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Revolution, 1775-1783 -- Sources.</topic>
+   </subject>
+   <subject>
+      <topic>Draper, Lyman Copeland, 1815-1891 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Graham, James. Life of General Daniel Morgan.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

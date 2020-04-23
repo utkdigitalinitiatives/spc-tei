@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000182_000200_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Allen J. Clifton in Knoxville, Tenn. to his mother, 1864 Feb. 20</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>In this letter to his mother (written near Knoxville, Tennessee), Allen J. Clifton reported on his unit's position and supplies, described the weather, mentioned that he was in good health, inquired about the health and doings of family members and friends, and asked for some postage stamps. He also asked about the "returned veterans" and solicited his mother's opinion of his decision not to re-enlist. He mentioned some of the soldiers had received news that people didn't think much of them. His messmate was with him and also had not re-enlisted.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1864-02-20</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1864-02-20</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Clifton, Allen J., 1843-1931</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Soldiers--Confederate States of America--Public opinion.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Soldiers--Tennessee--Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee--History--Civil War, 1861-1865--Personal narratives, Confederate.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Knoxville (Tenn.)--History.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Clifton, Allen J., 1843-1931--Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States. Army. New Hampshire Infantry Regiment, 11th (1862-1865).</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Allen J. Clifton Letter</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000182_000200_0000</identifier>
+   <titleInfo>
+      <title>Letter, Allen J. Clifton in Knoxville, Tenn. to his mother, 1864 Feb. 20</title>
+   </titleInfo>
+   <abstract>In this letter to his mother (written near Knoxville, Tennessee), Allen J. Clifton reported on his unit's position and supplies, described the weather, mentioned that he was in good health, inquired about the health and doings of family members and friends, and asked for some postage stamps. He also asked about the "returned veterans" and solicited his mother's opinion of his decision not to re-enlist. He mentioned some of the soldiers had received news that people didn't think much of them. His messmate was with him and also had not re-enlisted.</abstract>
+   <originInfo>
+      <dateCreated>1864-02-20</dateCreated>
+      <dateCreated encoding="edtf">1864-02-20</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Clifton, Allen J., 1843-1931</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers--Confederate States of America--Public opinion.</topic>
+   </subject>
+   <subject>
+      <topic>Soldiers--Tennessee--Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--History--Civil War, 1861-1865--Personal narratives, Confederate.</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.)--History.</topic>
+   </subject>
+   <subject>
+      <topic>Clifton, Allen J., 1843-1931--Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. New Hampshire Infantry Regiment, 11th (1862-1865).</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Allen J. Clifton Letter</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

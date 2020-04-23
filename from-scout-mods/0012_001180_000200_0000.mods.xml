@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_001180_000200_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Henry B. Wetzell in Strawberry Plains, E. Tenn., to Aaron Wetzell in Slifer, Pa., 1863 Jan. 17</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>Henry B. Wetzell wrote to his father, Aaron Wetzell, on January 17, 1863 while serving in the Civil War. He was surprised his father hadn't heard from anybody in his company as one soldier from the area was sick and had written home. He mentioned one soldier that was stationed in Knoxville who had received letters and sent letters home that were received. He thought it was a problem with a certain post office who had jealous tendencies. He told his father he is well. He mentioned their "pursuit of Longstreet", the 2nd U.S. Artillery in Knoxville, Tenn. and a transfer from the 37th P.A. to the 11th A.H.V for the ones that did not re-enlist. Wetzell told his father his decision not to re-enlist despite some good offers made to him. He knew too much service in the military took a great toll on men. He said many in his regiment re-enlisted, but he felt good about his decision. It was hard leaving behind the ones that had re-enlisted and their flag. Five men did not re-enlist. Their whole camp moved the day before from Blain's Cross Roads to Strawberry Plains, Tenn. They were closer to Knoxville along the railroad and would be able to get supplies handier. They were in a good place. He figured he would still be in for some time, but not sure in which company, so he told his father to send his letters to the 11th A.H.V. 9th Army corps until further notice.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1863-01-17</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1863-01-17</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Wetzell, Henry B.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Soldiers -- Tennessee, East -- Civil War, 1861-1865 -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Recruiting and enlistment.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee, East -- History -- Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Wetzell, Henry B. -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Wetzell, Aaron -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Henry B. Wetzell Letter</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_001180_000200_0000</identifier>
+   <titleInfo>
+      <title>Letter, Henry B. Wetzell in Strawberry Plains, E. Tenn., to Aaron Wetzell in Slifer, Pa., 1863 Jan. 17</title>
+   </titleInfo>
+   <abstract>Henry B. Wetzell wrote to his father, Aaron Wetzell, on January 17, 1863 while serving in the Civil War. He was surprised his father hadn't heard from anybody in his company as one soldier from the area was sick and had written home. He mentioned one soldier that was stationed in Knoxville who had received letters and sent letters home that were received. He thought it was a problem with a certain post office who had jealous tendencies. He told his father he is well. He mentioned their "pursuit of Longstreet", the 2nd U.S. Artillery in Knoxville, Tenn. and a transfer from the 37th P.A. to the 11th A.H.V for the ones that did not re-enlist. Wetzell told his father his decision not to re-enlist despite some good offers made to him. He knew too much service in the military took a great toll on men. He said many in his regiment re-enlisted, but he felt good about his decision. It was hard leaving behind the ones that had re-enlisted and their flag. Five men did not re-enlist. Their whole camp moved the day before from Blain's Cross Roads to Strawberry Plains, Tenn. They were closer to Knoxville along the railroad and would be able to get supplies handier. They were in a good place. He figured he would still be in for some time, but not sure in which company, so he told his father to send his letters to the 11th A.H.V. 9th Army corps until further notice.</abstract>
+   <originInfo>
+      <dateCreated>1863-01-17</dateCreated>
+      <dateCreated encoding="edtf">1863-01-17</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Wetzell, Henry B.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Tennessee, East -- Civil War, 1861-1865 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Recruiting and enlistment.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee, East -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Wetzell, Henry B. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Wetzell, Aaron -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Henry B. Wetzell Letter</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

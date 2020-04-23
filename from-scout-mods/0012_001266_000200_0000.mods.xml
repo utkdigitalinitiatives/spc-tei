@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_001266_000200_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Gustavus A. Peltzer in Knoxville, Tenn. to Ellis Birch in Chattanooga, Tenn. , 1863 July 2</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>The letter was written by Gustavus A. Peltzer (a soldier of the 1st WI Heavy Artillery, Company C), on July 2, 1863, and is addressed to his friend Ellis Birch. The letter, written in response to previous correspondence from Ellis, details the events that led to his imprisonment in Knoxville, Tennessee. The Captain had ordered some men to be mistreated. Some who took part were arrested, but never tried. Peltzer told his friend he had tried to stay out of the whole affair, so he couldn't figure out why he was arrested. His trial had been 4 weeks prior to his writing this letter. He did not know until trial what he was charged with. The judge dismissed all charges except the one in relation to conduct to the prejudice of good order. He got in trouble for something he had told an enlisted man about the Captain. The Captain held grudges. Some testified to lies. He thought his sentence would be light. The collection also contains the original envelope used for this correspondence.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1863-07-02</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1863-07-02</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Peltzer, Gustavus A.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Soldiers -- Tennessee --Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>War crimes -- Tennessee -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Military prisons -- United States.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee -- History -- Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Peltzer, Gustavus A. -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Birch, Ellis -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Gustavus A. Peltzer Letter</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_001266_000200_0000</identifier>
+   <titleInfo>
+      <title>Letter, Gustavus A. Peltzer in Knoxville, Tenn. to Ellis Birch in Chattanooga, Tenn. , 1863 July 2</title>
+   </titleInfo>
+   <abstract>The letter was written by Gustavus A. Peltzer (a soldier of the 1st WI Heavy Artillery, Company C), on July 2, 1863, and is addressed to his friend Ellis Birch. The letter, written in response to previous correspondence from Ellis, details the events that led to his imprisonment in Knoxville, Tennessee. The Captain had ordered some men to be mistreated. Some who took part were arrested, but never tried. Peltzer told his friend he had tried to stay out of the whole affair, so he couldn't figure out why he was arrested. His trial had been 4 weeks prior to his writing this letter. He did not know until trial what he was charged with. The judge dismissed all charges except the one in relation to conduct to the prejudice of good order. He got in trouble for something he had told an enlisted man about the Captain. The Captain held grudges. Some testified to lies. He thought his sentence would be light. The collection also contains the original envelope used for this correspondence.</abstract>
+   <originInfo>
+      <dateCreated>1863-07-02</dateCreated>
+      <dateCreated encoding="edtf">1863-07-02</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Peltzer, Gustavus A.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Tennessee --Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>War crimes -- Tennessee -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Military prisons -- United States.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Peltzer, Gustavus A. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Birch, Ellis -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Gustavus A. Peltzer Letter</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

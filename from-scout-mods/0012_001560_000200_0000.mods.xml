@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_001560_000200_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Henry R. Pippitt Diary, 1862 September 18-1863 May 19</mods:title>
-   </mods:titleInfo>
-   <mods:abstract/>
-   <mods:originInfo>
-      <mods:dateCreated>1862 September 18-1863 May 19</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Pippitt, Henry R.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Civil War Diaries</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Pippitt, Henry, 1842-1927 -- Diaries</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States. Army. Ohio Infantry Regiment, 104th (1862-1865) Company G.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States. Army. Ohio Infantry Regiment, 104th (1862-1865) -- Personal narratives.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Regimental histories.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ohio -- History -- Civil War, 1861-1865 -- Regimental histories.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Fort Mitchell (Ky.)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Frankfurt (Ky.)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Danville (Ky.)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Richmond (Ky.)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Blue Ridge Mountains.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Gilmore, Quincy Adams, 1825-1888.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Reilly, James William, 1828-1905.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Hospitals.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Military life.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Campaigns &amp; battles.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_001560_000200_0000</identifier>
+   <titleInfo>
+      <title>Henry R. Pippitt Diary, 1862 September 18-1863 May 19</title>
+   </titleInfo>
+   <abstract/>
+   <originInfo>
+      <dateCreated>1862 September 18-1863 May 19</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Pippitt, Henry R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Civil War Diaries</topic>
+   </subject>
+   <subject>
+      <topic>Pippitt, Henry, 1842-1927 -- Diaries</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Ohio Infantry Regiment, 104th (1862-1865) Company G.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Ohio Infantry Regiment, 104th (1862-1865) -- Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Regimental histories.</topic>
+   </subject>
+   <subject>
+      <topic>Ohio -- History -- Civil War, 1861-1865 -- Regimental histories.</topic>
+   </subject>
+   <subject>
+      <topic>Fort Mitchell (Ky.)</topic>
+   </subject>
+   <subject>
+      <topic>Frankfurt (Ky.)</topic>
+   </subject>
+   <subject>
+      <topic>Danville (Ky.)</topic>
+   </subject>
+   <subject>
+      <topic>Richmond (Ky.)</topic>
+   </subject>
+   <subject>
+      <topic>Blue Ridge Mountains.</topic>
+   </subject>
+   <subject>
+      <topic>Gilmore, Quincy Adams, 1825-1888.</topic>
+   </subject>
+   <subject>
+      <topic>Reilly, James William, 1828-1905.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Hospitals.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Military life.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Campaigns &amp; battles.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

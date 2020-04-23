@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000548_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Margaret Jane Dickson in Riverside, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1880-1885.</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>1880-1885, Margaret Jane Dickson in Riverside, Tenn. near Knoxville, Tenn., to her sister, Elizabeth Ramsey Breck, Knoxville, Tenn. Expresses concern about Sue's illness and mentions Robert's health. Informs her sister that she tries to bear troubles patiently and concentrates on preparing for death.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1880</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Ramsey, M. J. C. (Margaret Jane Crozier), 1827-1885</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Family -- Health and hygiene -- Tennessee -- Knoxville -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Death -- Psychological aspects.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Knoxville (Tenn.) -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, Robert McGready, 1832-1890 -- Health.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, Sue, 1843-1890 -- Health.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000548_0000</identifier>
+   <titleInfo>
+      <title>Letter, Margaret Jane Dickson in Riverside, Tenn., to Elizabeth Ramsey Breck in Knoxville, Tenn. 1880-1885.</title>
+   </titleInfo>
+   <abstract>1880-1885, Margaret Jane Dickson in Riverside, Tenn. near Knoxville, Tenn., to her sister, Elizabeth Ramsey Breck, Knoxville, Tenn. Expresses concern about Sue's illness and mentions Robert's health. Informs her sister that she tries to bear troubles patiently and concentrates on preparing for death.</abstract>
+   <originInfo>
+      <dateCreated>1880</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Ramsey, M. J. C. (Margaret Jane Crozier), 1827-1885</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Family -- Health and hygiene -- Tennessee -- Knoxville -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Death -- Psychological aspects.</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.) -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, Robert McGready, 1832-1890 -- Health.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, Sue, 1843-1890 -- Health.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

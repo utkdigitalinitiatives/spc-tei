@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000361_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, J.M. Knitt in Alexandriana, N.C., to J.G.M. Ramsey in Charleston, S.C. 1828 Dec. 29</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>1828 Dec. 29, J.M. Knitt, Alexandriana, N.C., to J.G.M. Ramsey, Charleston, S.C. Tariff on imported goods cited as a suitable source of revenue and criticism of South Carolinians for opposing it.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1828-12-29</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1828-12-29</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Knitt, J.M. (fl.1828)</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Revenue -- South Carolina -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tariff -- South Carolina -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Imports -- South Carolina -- History -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Charleston (S.C.) -- Politics and government -- 19th century.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Knitt, J. M. (fl. 1828) -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>J.G.M. Ramsey Papers 1790-1869</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000361_0000</identifier>
+   <titleInfo>
+      <title>Letter, J.M. Knitt in Alexandriana, N.C., to J.G.M. Ramsey in Charleston, S.C. 1828 Dec. 29</title>
+   </titleInfo>
+   <abstract>1828 Dec. 29, J.M. Knitt, Alexandriana, N.C., to J.G.M. Ramsey, Charleston, S.C. Tariff on imported goods cited as a suitable source of revenue and criticism of South Carolinians for opposing it.</abstract>
+   <originInfo>
+      <dateCreated>1828-12-29</dateCreated>
+      <dateCreated encoding="edtf">1828-12-29</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Knitt, J.M. (fl.1828)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Revenue -- South Carolina -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Tariff -- South Carolina -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Imports -- South Carolina -- History -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Charleston (S.C.) -- Politics and government -- 19th century.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Knitt, J. M. (fl. 1828) -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>J.G.M. Ramsey Papers 1790-1869</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

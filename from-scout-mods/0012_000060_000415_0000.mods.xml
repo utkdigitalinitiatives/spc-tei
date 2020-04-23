@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000415_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, David Wills in Atlanta, Ga., to J.G.M. Ramsey in Knoxville, Tenn. 1873 Mar. 1</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>In a letter dated March 1, 1873, Dr. David Wills of Atlanta wrote to J.G.M. Ramsey in Knoxville, TN. Wills regretted that he did not see Ramsey in Greeneville at a ceremony in which a monument was erected in memory of Dr. Doak. Wills mentioned his speech and audience reaction. In his speech, he had spoken highly of Ramsey, of his gratitude to Ramsey for supplying him with facts for his speech, and also of educators, religion in Tennessee, and the first president of Washington, Greeneville, and Tusculum Colleges. Wills promised to send to Ramsey copies of his speech which would be published. He asked Ramsey to correct any errors in it. He also promised to recommend Ramsey for an LLD.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1873-03-01</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1873-03-01</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Wills, David</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Monuments -- Tennessee -- Greeneville.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>College presidents -- Monuments -- Tennessee -- Greeneville.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Speeches, addresses, etc.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Greeneville (Tenn.) -- History.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Wills, David -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000415_0000</identifier>
+   <titleInfo>
+      <title>Letter, David Wills in Atlanta, Ga., to J.G.M. Ramsey in Knoxville, Tenn. 1873 Mar. 1</title>
+   </titleInfo>
+   <abstract>In a letter dated March 1, 1873, Dr. David Wills of Atlanta wrote to J.G.M. Ramsey in Knoxville, TN. Wills regretted that he did not see Ramsey in Greeneville at a ceremony in which a monument was erected in memory of Dr. Doak. Wills mentioned his speech and audience reaction. In his speech, he had spoken highly of Ramsey, of his gratitude to Ramsey for supplying him with facts for his speech, and also of educators, religion in Tennessee, and the first president of Washington, Greeneville, and Tusculum Colleges. Wills promised to send to Ramsey copies of his speech which would be published. He asked Ramsey to correct any errors in it. He also promised to recommend Ramsey for an LLD.</abstract>
+   <originInfo>
+      <dateCreated>1873-03-01</dateCreated>
+      <dateCreated encoding="edtf">1873-03-01</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Wills, David</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Monuments -- Tennessee -- Greeneville.</topic>
+   </subject>
+   <subject>
+      <topic>College presidents -- Monuments -- Tennessee -- Greeneville.</topic>
+   </subject>
+   <subject>
+      <topic>Speeches, addresses, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Greeneville (Tenn.) -- History.</topic>
+   </subject>
+   <subject>
+      <topic>Wills, David -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

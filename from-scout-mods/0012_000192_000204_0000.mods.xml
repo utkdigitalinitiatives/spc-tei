@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000192_000204_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Watson B. Smith in Blains X Road to his father 1863 Dec. 20</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>Watson B. Smith wrote to his father on Dec. 20, 1863 while serving in the Civil War. He told him about the Battle of Bean's Station and how the Union cavalry was forced back. He felt they were now reinforced and could whip the South. He felt the South gained no advantage except for occupation at Bean's Station. He told his father he was addressing his letters incorrectly. He had not advanced to Capt. as his father addressed his letters. He asked his father if he had received letters from 2 generals in regards to his commission. He said he would write more later since his carpet bag was in Knoxville. He said he was well. He stated he doubted they would go to Kentucky unless the general desired to go there.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1863-12-20</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1863-12-20</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Smith, Watson B., d. 1881</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Soldiers -- Michigan -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Promotions, Military.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee -- History -- Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Smith, Watson B., d. 1881 -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Watson B. Smith Letter</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000192_000204_0000</identifier>
+   <titleInfo>
+      <title>Letter, Watson B. Smith in Blains X Road to his father 1863 Dec. 20</title>
+   </titleInfo>
+   <abstract>Watson B. Smith wrote to his father on Dec. 20, 1863 while serving in the Civil War. He told him about the Battle of Bean's Station and how the Union cavalry was forced back. He felt they were now reinforced and could whip the South. He felt the South gained no advantage except for occupation at Bean's Station. He told his father he was addressing his letters incorrectly. He had not advanced to Capt. as his father addressed his letters. He asked his father if he had received letters from 2 generals in regards to his commission. He said he would write more later since his carpet bag was in Knoxville. He said he was well. He stated he doubted they would go to Kentucky unless the general desired to go there.</abstract>
+   <originInfo>
+      <dateCreated>1863-12-20</dateCreated>
+      <dateCreated encoding="edtf">1863-12-20</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Smith, Watson B., d. 1881</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Michigan -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Promotions, Military.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Smith, Watson B., d. 1881 -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Michigan Cavalry Regiment, 8th (1862-1865).</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Watson B. Smith Letter</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

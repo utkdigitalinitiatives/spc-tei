@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000171_000201_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, William T. Presley in Bedford County, Tenn. to H. A. Presley in Prattville, Ala., 1863 April 7</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>William T. Presley wrote to his wife on April 4, 1863 from his camp near Middleton, Tenn. He had heard from her and was glad she and the children were well and had received money he had sent her. He mentioned he was ok. He was on detached duty as courier. He had been there two weeks and life there was better than he had had it since leaving home. He had been eating well. He had had trouble getting paper and envelopes. One of the men had been good to lift his spirits. He and his company were in hopes of getting back to Alabama and getting a furlough to go home. He was very homesick for his family. He hoped his wife didn't see him as weak. The men wanted the war to end, but there wasn't much hope. He was glad one of his sons was in school and had hopes the other one could go. He saw it as very important. He mentioned the arrival of spring. He wanted his wife to send him letters. He was going to send her more money, but told her not to talk about it. He sent his love to her and the family and prayed for their guidance and protection.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1863-04-07</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1863-04-07</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Presley, William T.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Soldiers -- Alabama -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Families of military personnel -- United States.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Military spouses -- United States.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Alabama -- History -- Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Presley, William T. -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Presley, H. A. (Henry A.) -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>The William T. Presley Correspondence, 1862-1863</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000171_000201_0000</identifier>
+   <titleInfo>
+      <title>Letter, William T. Presley in Bedford County, Tenn. to H. A. Presley in Prattville, Ala., 1863 April 7</title>
+   </titleInfo>
+   <abstract>William T. Presley wrote to his wife on April 4, 1863 from his camp near Middleton, Tenn. He had heard from her and was glad she and the children were well and had received money he had sent her. He mentioned he was ok. He was on detached duty as courier. He had been there two weeks and life there was better than he had had it since leaving home. He had been eating well. He had had trouble getting paper and envelopes. One of the men had been good to lift his spirits. He and his company were in hopes of getting back to Alabama and getting a furlough to go home. He was very homesick for his family. He hoped his wife didn't see him as weak. The men wanted the war to end, but there wasn't much hope. He was glad one of his sons was in school and had hopes the other one could go. He saw it as very important. He mentioned the arrival of spring. He wanted his wife to send him letters. He was going to send her more money, but told her not to talk about it. He sent his love to her and the family and prayed for their guidance and protection.</abstract>
+   <originInfo>
+      <dateCreated>1863-04-07</dateCreated>
+      <dateCreated encoding="edtf">1863-04-07</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Presley, William T.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Alabama -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Families of military personnel -- United States.</topic>
+   </subject>
+   <subject>
+      <topic>Military spouses -- United States.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Alabama -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>Presley, William T. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Presley, H. A. (Henry A.) -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The William T. Presley Correspondence, 1862-1863</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

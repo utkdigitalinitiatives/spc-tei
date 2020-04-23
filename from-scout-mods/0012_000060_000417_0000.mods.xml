@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000060_000417_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, W. Garrett in Bradford Co., Ala., to J.G.M. Ramsey in Knoxville, Tenn. 1874 Jan. 12</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>W. Garrett wrote to J.G.M. Ramsey on Jan. 12, 1874. He expressed gratification that he could contribute to the Tennessee Historical Society. He expressed his desire to visit Knoxville again some day since it was the place where he was born and lived as a child. Garrett detailed information concerning Col. Joseph Hamilton (a former Dandridge businessman) and Hamilton's father (a lawyer and Senator). He spoke highly of the Hamiltons. The elder Hamilton was a friend of Garrett's father and grandfather. He could supply only slight information in regard to the origin of the names of the Pigeon River and English Mountain and the old forts along the river but related several incidents which occurred in that area. He knew some information about Colo. John McNabbs Station. He spoke about Cherokee Indians and emigration of the old settlers to the West. He mentioned the mineral springs. He mentioned that names the Cherokees used for these places were probably changed by the early settlers. He mentioned that the name Pigeon River might have been derived from a large collection of birds that had come through. Garrett told Ramsey of his plans to send to the Historical Society of Tennessee names and information of Tennesseans who have settled in Alabama.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1874-01-12</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1874-01-12</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Garrett, W.</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Names, Geographical -- Tennessee -- Great Smoky Mountains (N.C. and Tenn.)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Cherokee Indians -- Tennessee -- History.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Frontier and pioneer life -- Tennessee.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Pigeon River (N.C. and Tenn.)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Great Smoky Mountains (N.C. and Tenn.)</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Garrett, W. -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title>Ramsey Family Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>James Gettys McGready Ramsey Papers</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000060_000417_0000</identifier>
+   <titleInfo>
+      <title>Letter, W. Garrett in Bradford Co., Ala., to J.G.M. Ramsey in Knoxville, Tenn. 1874 Jan. 12</title>
+   </titleInfo>
+   <abstract>W. Garrett wrote to J.G.M. Ramsey on Jan. 12, 1874. He expressed gratification that he could contribute to the Tennessee Historical Society. He expressed his desire to visit Knoxville again some day since it was the place where he was born and lived as a child. Garrett detailed information concerning Col. Joseph Hamilton (a former Dandridge businessman) and Hamilton's father (a lawyer and Senator). He spoke highly of the Hamiltons. The elder Hamilton was a friend of Garrett's father and grandfather. He could supply only slight information in regard to the origin of the names of the Pigeon River and English Mountain and the old forts along the river but related several incidents which occurred in that area. He knew some information about Colo. John McNabbs Station. He spoke about Cherokee Indians and emigration of the old settlers to the West. He mentioned the mineral springs. He mentioned that names the Cherokees used for these places were probably changed by the early settlers. He mentioned that the name Pigeon River might have been derived from a large collection of birds that had come through. Garrett told Ramsey of his plans to send to the Historical Society of Tennessee names and information of Tennesseans who have settled in Alabama.</abstract>
+   <originInfo>
+      <dateCreated>1874-01-12</dateCreated>
+      <dateCreated encoding="edtf">1874-01-12</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Garrett, W.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Names, Geographical -- Tennessee -- Great Smoky Mountains (N.C. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians -- Tennessee -- History.</topic>
+   </subject>
+   <subject>
+      <topic>Frontier and pioneer life -- Tennessee.</topic>
+   </subject>
+   <subject>
+      <topic>Pigeon River (N.C. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Great Smoky Mountains (N.C. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Garrett, W. -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ramsey Family Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>James Gettys McGready Ramsey Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

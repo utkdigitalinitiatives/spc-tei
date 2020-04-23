@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000081_000200_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Jacob Rowland in Knoxville, Tenn. to Miss Olive M. Rowland in Willoughby, Ohio, 1865 January 26</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>This letter, dated January 26, 1865, from Union soldier Jacob Rowland to his sister, Olive in Willoughby, Ohio, is sent from Knoxville, Tenn., where Rowland reports of "...quiet times here in Knoxville just now occasionally review as inspection we moved our camp last Tuesday. We were on the south side of the river about 1 1/2 miles from the city. Now we are quartered inside of the breast works right in the suburbs..."</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1865-01-26</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1865-01-26</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Rowland, Jacob</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Soldiers -- Ohio -- Biobraphy.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States -- History -- Civil War, 1861-1865 -- Regimental histories.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Tennessee, East -- History -- Civil War, 1861-1865 -- Regimental histories.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>Rowland, Jacob -- Correspondence.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United United States. Army. Ohio Cavalry Regiment, 2nd (1861-1865). Company M.</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>Jacob Rowland Letters, 1865</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000081_000200_0000</identifier>
+   <titleInfo>
+      <title>Letter, Jacob Rowland in Knoxville, Tenn. to Miss Olive M. Rowland in Willoughby, Ohio, 1865 January 26</title>
+   </titleInfo>
+   <abstract>This letter, dated January 26, 1865, from Union soldier Jacob Rowland to his sister, Olive in Willoughby, Ohio, is sent from Knoxville, Tenn., where Rowland reports of "...quiet times here in Knoxville just now occasionally review as inspection we moved our camp last Tuesday. We were on the south side of the river about 1 1/2 miles from the city. Now we are quartered inside of the breast works right in the suburbs..."</abstract>
+   <originInfo>
+      <dateCreated>1865-01-26</dateCreated>
+      <dateCreated encoding="edtf">1865-01-26</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Rowland, Jacob</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Soldiers -- Ohio -- Biobraphy.</topic>
+   </subject>
+   <subject>
+      <topic>United States -- History -- Civil War, 1861-1865 -- Regimental histories.</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee, East -- History -- Civil War, 1861-1865 -- Regimental histories.</topic>
+   </subject>
+   <subject>
+      <topic>Rowland, Jacob -- Correspondence.</topic>
+   </subject>
+   <subject>
+      <topic>United United States. Army. Ohio Cavalry Regiment, 2nd (1861-1865). Company M.</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Jacob Rowland Letters, 1865</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>

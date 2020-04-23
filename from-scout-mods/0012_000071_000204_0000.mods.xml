@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           version="3.5"
-           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods:identifier type="local">0012_000071_000204_0000</mods:identifier>
-   <mods:titleInfo>
-      <mods:title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1865 April 11</mods:title>
-   </mods:titleInfo>
-   <mods:abstract>In this letter, dated April 11, 1865, from Henry Cherry in Knoxville, Tenn. to Amos Gould, Cherry notes the arrival of the news of Lee's surrender, saying "from every Fort around Knoxville demonstrations of joy were given in the firing of cannon." Expresses displeasure with Grant, arguing that he should now have "offered any other than unconditional surrender and then let Government show such mercy &amp; leniency as might be wise &amp; proper." Also speaks of the beauty of the area and the opportunities available for lawyers.</mods:abstract>
-   <mods:originInfo>
-      <mods:dateCreated>1865-04-11</mods:dateCreated>
-      <mods:dateCreated encoding="edtf">1865-04-11</mods:dateCreated>
-   </mods:originInfo>
-   <mods:name>
-      <mods:namePart>Cherry, Henry</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator"
-                        authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</mods:roleTerm>
-      </mods:role>
-   </mods:name>
-   <mods:subject>
-      <mods:topic>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</mods:topic>
-   </mods:subject>
-   <mods:subject>
-      <mods:topic>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</mods:topic>
-   </mods:subject>
-   <mods:accessCondition type="use and reproduction"
-                         xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</mods:accessCondition>
-   <mods:location>
-      <mods:physicalLocation>University of Tennessee Knoxville. Libraries</mods:physicalLocation>
-   </mods:location>
-   <mods:relatedItem displayLabel="Project" type="host">
-      <mods:titleInfo>
-         <mods:title/>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:relatedItem displayLabel="Collection" type="host">
-      <mods:titleInfo>
-         <mods:title>The Henry Cherry Letters, 1865</mods:title>
-      </mods:titleInfo>
-   </mods:relatedItem>
-   <mods:typeOfResource>text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
-   </mods:language>
-   <mods:recordInfo>
-      <mods:recordContentSource>University of Tennessee Knoxville. Libraries</mods:recordContentSource>
-      <mods:languageOfCataloging>
-         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-      </mods:languageOfCataloging>
-      <mods:recordCreationDate>2020-04-21-04:00</mods:recordCreationDate>
-      <mods:recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000071_000204_0000</identifier>
+   <titleInfo>
+      <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1865 April 11</title>
+   </titleInfo>
+   <abstract>In this letter, dated April 11, 1865, from Henry Cherry in Knoxville, Tenn. to Amos Gould, Cherry notes the arrival of the news of Lee's surrender, saying "from every Fort around Knoxville demonstrations of joy were given in the firing of cannon." Expresses displeasure with Grant, arguing that he should now have "offered any other than unconditional surrender and then let Government show such mercy &amp; leniency as might be wise &amp; proper." Also speaks of the beauty of the area and the opportunities available for lawyers.</abstract>
+   <originInfo>
+      <dateCreated>1865-04-11</dateCreated>
+      <dateCreated encoding="edtf">1865-04-11</dateCreated>
+   </originInfo>
+   <name>
+      <namePart>Cherry, Henry</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Knoxville (Tenn.) -- History -- Civil War, 1861-1865.</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865).</topic>
+   </subject>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatement.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The Henry Cherry Letters, 1865</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by
           University of Tennessee Libraries Digital Initiatives, using a stylesheet available at
-          https://github.com/utkdigitalinitiatives/tei-to-mods.</mods:recordOrigin>
-   </mods:recordInfo>
-</mods:mods>
+          https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+</mods>
