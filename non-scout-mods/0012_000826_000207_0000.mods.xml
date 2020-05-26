@@ -6,14 +6,14 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_000826_000207_0000</identifier>
    <titleInfo>
-      <title>Postcard, "Landmarks of the Desert," to Mr. C N Calahan, , undated</title>
+      <title>Postcard, "Landmarks of the Desert," to Mr. C N Calahan, undated</title>
    </titleInfo>
    <abstract/>
    <originInfo>
       <dateCreated>undated</dateCreated>
    </originInfo>
    <name type="personal">
-      <namePart>to Mr. C N Calahan,</namePart>
+      <namePart>Mr. C N Calahan</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>

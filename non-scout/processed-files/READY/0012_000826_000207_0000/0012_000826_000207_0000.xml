@@ -4,16 +4,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Postcard, "Landmarks of the Desert," 
-					<name>to Mr. C N Calahan,</name>
-				                 , undated
+        <title>Postcard, "Landmarks of the Desert," to <name>Mr. C N Calahan</name>, undated
 				</title>
         <respStmt>
           <resp>Responsible for machine-readable version</resp>
           <name>Jennings, Sabra</name>
         </respStmt>
         <author>
-          <name type="person">to Mr. C N Calahan,</name>
+          <name type="person">Mr. C N Calahan,</name>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -29,10 +27,10 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <title>Postcard, "Landmarks of the Desert," to Mr. C N Calahan, , undated</title>
+          <title>Postcard, "Landmarks of the Desert," to Mr. C N Calahan, undated</title>
           <date>undated</date>
           <author>
-            <name type="person">to Mr. C N Calahan,</name>
+            <name type="person">Mr. C N Calahan,</name>
           </author>
           <extent>2 pages</extent>
           <note type="collection">David Burford Papers</note>
